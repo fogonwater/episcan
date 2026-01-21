@@ -1,8 +1,513 @@
 {
-  "last_updated": "2026-01-21 07:13",
-  "count_articles_total": 843,
-  "count_articles_new": 16,
+  "last_updated": "2026-01-21 19:14",
+  "count_articles_total": 864,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 26948,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Devi Shastri, Associated Press",
+      "title": "The U.S. is on the verge of losing its measles elimination status",
+      "description": "Last year, the CDC confirmed 2,144 measles cases across 44 states \u2014 the most since 1991 \u2014 and nearly 50 separate outbreaks.",
+      "url": "https://www.pbs.org/newshour/science/the-u-s-is-on-the-verge-of-losing-its-measles-elimination-status",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/04/2025-04-06T231702Z_211379770_RC2JSDA8TKRW_RTRMADP_3_USA-HEALTH-MEASLES-1024x683.jpg",
+      "publishedAt": "2026-01-20 19:13:12",
+      "content": "It's been a year since a measles outbreak began in West Texas, and international health authorities say they will meet in April to determine if the U.S. has lost its measles-free designation. Expert\u2026 [+6219 chars]",
+      "retrievedAt": "2026-01-21 19:14:01.958590",
+      "internal_id": "4799c9a551fb3b10bd3a6234c62180c96cce8f9658deb16f644d0a533d604b23",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26954,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud",
+      "title": "At least 88 new measles cases confirmed in South Carolina, bringing total to 646: Health officials",
+      "description": "At least 88 new measles cases confirmed in South Carolina, bringing total to 646: Health officialsgo.com",
+      "url": "https://abcnews.go.com/Health/88-new-measles-cases-confirmed-south-carolina-bringing/story?id=129377559",
+      "urlToImage": "https://i.abcnewsfe.com/a/94af99c6-5588-4295-996f-f1b57795d94c/measles-1-gty-er-260120_1768925917623_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-01-20 18:44:49",
+      "content": "At least 88 new measles cases in South Carolina have been confirmed amid the state's outbreak, bringing the total number of infections to 646, state health officials said Tuesday. The majority of ca\u2026 [+177 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.057172",
+      "internal_id": "a2da6e17d06e9805d50f596458f51e40e246acf9a74cbe7368497b115aebe12d",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26946,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "AP",
+      "title": "US on verge of losing its measles elimination status. Here\u2019s why that matters",
+      "description": "Experts fear the vaccine-preventable virus has regained a foothold and that the US may soon follow Canada in losing the achievement of having eliminated it.",
+      "url": "https://indianexpress.com/article/world/us-on-verge-of-losing-measles-elimination-status-why-that-matters-10485546/",
+      "urlToImage": "https://images.indianexpress.com/2026/01/Measles-3.jpg",
+      "publishedAt": "2026-01-20 18:20:24",
+      "content": "Its been a year since a measles outbreak began in West Texas, and international health authorities say they will meet in April to determine if the US has lost its measles-free designation.Experts fea\u2026 [+5991 chars]",
+      "retrievedAt": "2026-01-21 19:14:01.844994",
+      "internal_id": "05f651958fedc27c0322b65bd3dbce3488ff77bc5dacd0cb671c3ba96b208706",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26952,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "The US is on the verge of losing its measles elimination status",
+      "description": "The US is on the verge of losing its measles elimination statusbostonherald.com",
+      "url": "https://www.bostonherald.com/2026/01/20/us-measles-elimination/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/01/Measles_89427_7c5ec0.jpg?w=1024&h=682",
+      "publishedAt": "2026-01-20 18:13:50",
+      "content": "By DEVI SHASTRI, AP Health Writer Its been a year since a measles outbreak began in West Texas, and international health authorities say they will meet in April to determine if the U.S. has lost its\u2026 [+6319 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.036686",
+      "internal_id": "7fb9ea8df620e2b0fae1a6af10042b74250c2cab5642f4842f3e581ef16c2580",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26951,
+      "query": [
+        "measles"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "Devi Shastri",
+      "title": "International health authorities to assess US measles situation",
+      "description": "International health officials plan to meet in a few months to reevaluate the United States\u2019 measles-free status. Experts fear the vaccine-preventable virus has regained a foothold and that the U.S. may soon follow Canada in losing the achievement of having e\u2026",
+      "url": "https://apnews.com/article/us-measles-elimination-mexico-6f0bc8f7ef31d5ef82492e42ccb38e47",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1df74a8/2147483647/strip/true/crop/6883x3872+0+359/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2F67%2F360591372224893207fbf104d376%2Fa5260ee668454ad5a907aa96270a93cf",
+      "publishedAt": "2026-01-20 18:10:49",
+      "content": "Its been a year since a measles outbreak began in West Texas, and international health authorities say they plan to meet in April to determine if the U.S. has lost its measles-free designation. Expe\u2026 [+6582 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.000554",
+      "internal_id": "3f5888d4daa387ac95ca60fded587b412670d0422102a789123a55da4088bcfb",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26950,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "The Associated Press",
+      "title": "The US is on the verge of losing its measles elimination status. Here\u2019s why that matters",
+      "description": "Experts fear the vaccine-preventable virus has regained a foothold.",
+      "url": "https://www.denverpost.com/2026/01/20/us-measles-elimination/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/01/Measles_89427_7c5ec0.jpg?w=1024&h=682",
+      "publishedAt": "2026-01-20 18:09:53",
+      "content": "By DEVI SHASTRI, AP Health Writer Its been a year since a measles outbreak began in West Texas, and international health authorities say they will meet in April to determine if the U.S. has lost its\u2026 [+6319 chars]",
+      "retrievedAt": "2026-01-21 19:14:01.981343",
+      "internal_id": "6fb2b45a434a3461fbcd0f9aaae7b330764a51306627a017585413e951ce253a",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26956,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WHIO",
+      "author": "Devi Shastri",
+      "title": "International health authorities to assess US measles situation",
+      "description": "International health officials plan to meet in a few months to reevaluate the United States\u2019 measles-free status",
+      "url": "https://www.whio.com/news/health/us-is-verge-losing/GKD2KDXLHY35JPBSHJBYJUCRBY/",
+      "urlToImage": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F3LQPW3W6EE4THFKNM7RSERMVLE.jpg?auth=fac085342369ab0b90b7392015d9dc291cb5f8416d6bb61e6c120807a5ac402e&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-20 18:05:31",
+      "content": "Its been a year since a measles outbreak began in West Texas, and international health authorities say they plan to meet in April to determine if the U.S. has lost its measles-free designation. Expe\u2026 [+6742 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.078397",
+      "internal_id": "0e7bef47f172f554c9026edc560a363540ea4595ae22fc699f86e9fb875e07d5",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26957,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSB Atlanta",
+      "author": "Devi Shastri",
+      "title": "International health authorities to assess US measles situation",
+      "description": "International health officials plan to meet in a few months to reevaluate the United States\u2019 measles-free status",
+      "url": "https://www.wsbtv.com/news/health/us-is-verge-losing/GKD2KDXLHY35JPBSHJBYJUCRBY/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F3LQPW3W6EE4THFKNM7RSERMVLE.jpg?auth=fac085342369ab0b90b7392015d9dc291cb5f8416d6bb61e6c120807a5ac402e&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-20 18:05:31",
+      "content": "Its been a year since a measles outbreak began in West Texas, and international health authorities say they plan to meet in April to determine if the U.S. has lost its measles-free designation. Expe\u2026 [+6742 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.088227",
+      "internal_id": "40a1059079482bfa9d3f8c8e4b935e513d4a028bc988e41e144d0384cb7ba400",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26955,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLOS",
+      "author": "Marisa Sardonia",
+      "title": "6th measles case in Buncombe County since December identified: health officials",
+      "description": "A new case of measles in a child has been reported in Buncombe County, marking the sixth case in the county since December.",
+      "url": "https://wlos.com/news/local/6th-measles-case-buncombe-county-north-carolina-wnc-since-december-identified-health-officials-potential-exposure-locations-virus-medical-healthcare-symptoms-contagious-vaccine",
+      "urlToImage": "https://wlos.com/resources/media2/16x9/6847/1320/0x450/90/300ec9eb-7fc1-44a3-afd3-b195e31f0508-AP25345663232442.jpg",
+      "publishedAt": "2026-01-20 17:12:24",
+      "content": "BUNCOMBE COUNTY, N.C. (WLOS) A new case of measles in a child has been reported in Buncombe County, marking the sixth case in the county since December, local and state health officials confirmed. T\u2026 [+1771 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.068006",
+      "internal_id": "bbc79d3f3451396a0099e99a0889bb84196592fd8daacbbce03788047c4eab8b",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26947,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Global Virus Network",
+      "title": "Global Virus Network Warns Measles Resurgence",
+      "description": "Measles is one of the most contagious viral diseases known and can be lethal, particularly in unvaccinated children. Yet, it remains entirely preventable....",
+      "url": "https://www.globenewswire.com/news-release/2026/01/20/3222117/0/en/Global-Virus-Network-Warns-Measles-Resurgence.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6c1b2724-7b9b-469a-a7c3-bc0a64d716ae",
+      "publishedAt": "2026-01-20 17:00:00",
+      "content": "TAMPA, Fla., Jan. 20, 2026 (GLOBE NEWSWIRE) -- The Global Virus Network (GVN), representing eminent human and animal virologists from more than 90 Centers of Excellence and Affiliates in over 40 coun\u2026 [+4116 chars]",
+      "retrievedAt": "2026-01-21 19:14:01.922726",
+      "internal_id": "52e140c1054d46bcb74cb7a4c7d6fc1327cddb8c96fb535bbdab5b2ea40fd28b",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26970,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Yale.edu",
+      "author": "news@yale.edu (Yale News)",
+      "title": "Meeting malaria where it lives",
+      "description": "Yale epidemiologist Dr. Amy Bei is betting on a radical idea to stop malaria from ravaging populations: a new vaccine that stops mosquitoes from transmitting the deadly disease. \u201cIt basically becomes a dead end for that infected mosquito,\u201d Dr. Bei explained. \u2026",
+      "url": "https://ysph.yale.edu/news-article/meeting-malaria-where-it-lives/",
+      "urlToImage": "https://ysm-res.cloudinary.com/image/upload/c_limit,f_auto,h_630,q_auto,w_1200/v1/yms/prod/91725e28-b140-4100-bb0b-179caf13934d",
+      "publishedAt": "2026-01-20 16:25:03",
+      "content": "Dr. Bei has supervised over 35 students and trainees, from high-schoolers to PhD-level researchers and fellows, in her two labs at Yale and at the University of Cheikh Anta Diop and Institut Pasteur \u2026 [+1845 chars]",
+      "retrievedAt": "2026-01-21 19:14:03.520352",
+      "internal_id": "234b55e564bf8a35ac8ff85fb8452b1181b787dfaabfdfe075ddac320daa3571",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26959,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "News8000.com - WKBT",
+      "author": "Deidre Mcphillips",
+      "title": "The US had a record-breaking year for measles. It may be the start of a deadly comeback",
+      "description": "(CNN) \u2014 Tuesday marks one year since a measles outbreak started in West Texas, and there have been new cases in the United States each week since.",
+      "url": "https://www.news8000.com/lifestyle/health/the-us-had-a-record-breaking-year-for-measles-it-may-be-the-start-of/article_c884262a-99c5-5867-8822-ab350b77ace3.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/news8000.com/content/tncms/assets/v3/editorial/0/c2/0c2288ac-e67e-5128-b924-7d6718f3f6df/696f8d492bcd3.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-01-20 16:11:47",
+      "content": "(CNN) Tuesday marks one year since a measles outbreak started in West Texas, and there have been new cases in the United States each week since. Texas reported more than 760 cases and the deaths of \u2026 [+9274 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.117987",
+      "internal_id": "a2a87cd20b7b1e661d9135520a145b81fc349915c5cb6f525822ad383eb5162b",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26962,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Sarabic.ae",
+      "author": "\u0633\u0628\u0648\u062a\u0646\u064a\u0643 \u0639\u0631\u0628\u064a",
+      "title": "\u0639\u0644\u0645\u0627\u0621 \u0631\u0648\u0633 \u064a\u0637\u0648\u0631\u0648\u0646 \u0623\u0633\u0627\u0633\u0627 \u0644\u0644\u0642\u0627\u062d \u0648\u0627\u0639\u062f \u0636\u062f \u0623\u062e\u0637\u0631 \u0633\u0644\u0627\u0644\u0627\u062a \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631",
+      "description": "\u0623\u0641\u0627\u062f \u0627\u0644\u0645\u0643\u062a\u0628 \u0627\u0644\u0625\u0639\u0644\u0627\u0645\u064a \u0644\u0644\u0645\u0624\u0633\u0633\u0629 \u0627\u0644\u0631\u0648\u0633\u064a\u0629 \u0644\u0644\u0639\u0644\u0648\u0645\u060c \u0628\u0623\u0646 \u0639\u0644\u0645\u0627\u0621 \u0645\u0646 \u062c\u0627\u0645\u0639\u0629 \u0633\u0627\u0646\u062a \u0628\u0637\u0631\u0633\u0628\u0648\u0631\u063a \u0627\u0644\u062d\u0643\u0648\u0645\u064a\u0629 \u0644\u0644\u0637\u0628 \u0648\u0645\u0639\u0647\u062f \"\u0623. \u0623. \u0633\u0645\u0648\u0631\u0648\u062f\u064a\u0646\u062a\u0633\u064a\u0641\" \u0644\u0623\u0628\u062d\u0627\u062b \u0627\u0644\u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627\u060c \u0637\u0648\u0631\u0648\u0627 \u0633\u0644\u0627\u0644\u0629 \u0644\u0642\u0627\u062d \u0636\u062f \u0627\u0644\u0633\u0644\u0627\u0644\u0629 \u0627\u0644\u062d\u0627\u0644\u064a\u0629 \u0645\u0646 \u0641\u064a\u0631\u0648\u0633 \u0625\u0646\u0641\u0644\u0648\u0646\u0632\u0627 \u0627\u0644\u0637\u064a\u0648\u0631\u060c \u0627\u0644\u0630\u064a \u064a\u0646\u062a\u0634\u0631 \u0628\u0646\u0634\u0627\u0637 \u0641\u064a \u062c\u0645\u064a\u0639 \u0623\u0646\u062d\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645.",
+      "url": "https://sarabic.ae/20260120/%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D8%B1%D9%88%D8%B3-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D8%A3%D8%B3%D8%A7%D8%B3%D8%A7-%D9%84%D9%84%D9%82%D8%A7%D8%AD-%D9%88%D8%A7%D8%B9%D8%AF-%D8%B6%D8%AF-%D8%A3%D8%AE%D8%B7%D8%B1-%D8%B3%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1-1109442510.html",
+      "urlToImage": "https://cdn.img.sarabic.ae/img/101984/05/1019840571_124:0:1120:560_2072x0_60_0_0_653846a48f5e758da7df515c061850c4.png.webp",
+      "publishedAt": "2026-01-20 15:11:21",
+      "content": "https://sarabic.ae/20260120/-----------1109442510.html https://cdn.img.sarabic.ae/img/101984/05/1019840571_124:0:1120:560_1920x0_80_0_0_3dd73f81b418828703514774314b1268.png.webp \"H5N1\" . 2022 67 1\u2026 [+424 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.711841",
+      "internal_id": "51def43abda322806b2b9543641c31fe5265789371c2ca96c9baed9d3c728798",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26949,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Jenn Gidman with Newser.AI",
+      "title": "After 25 Years, US May Lose 'Eliminated' Status for Measles",
+      "description": "America's measles problem is back in the spotlight, and this time it could cost the country a public health milestone it's held for a quarter century. Over the past year, more than 2,200 people across 45 states have been sickened by measles\u2014the highest tally \u2026",
+      "url": "https://www.newser.com/story/382246/after-25-years-us-may-lose-eliminated-status-for-measles.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1659547-12-20260120084738.jpeg",
+      "publishedAt": "2026-01-20 14:47:38",
+      "content": "America's measles problem is back in the spotlight, and this time it could cost the country a public health milestone it's held for a quarter century. Over the past year, more than 2,200 people acros\u2026 [+2254 chars]",
+      "retrievedAt": "2026-01-21 19:14:01.970420",
+      "internal_id": "45d345d50be3eebcbde0b9abcc33f6b973dcda590c49e41d7d4390a181d17311",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26966,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ricardo Augusto Monteiro de Barros Almeida, Leticia Last\u00f3ria Kurozawa, Gabriel Berg de Almeida, Ricardo de Souza Cavalcante, Raoni de Oliveira Domingues-da-Silva, Elizabeth De Francesco Daher, Douglas Otomo Duarte, Luis Gustavo Modelli de Andrade",
+      "title": "Adverse dengue outcomes in patients with chronic kidney disease: A population-based analysis of 5.8 million individuals from Brazil",
+      "description": "Author summary Dengue affects millions of people in Brazil every year, but not everyone faces the same risk of severe illness. We asked a simple question with big public-health consequences: do people living with chronic kidney disease have worse outcomes whe\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013927",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013927.g002&size=inline",
+      "publishedAt": "2026-01-20 14:00:00",
+      "content": "Abstract Background Dengue fever poses a major public health threat in Brazil, particularly among individuals with comorbid conditions. Chronic kidney disease (CKD) is known to impair immune defens\u2026 [+34406 chars]",
+      "retrievedAt": "2026-01-21 19:14:03.037257",
+      "internal_id": "8262d1de12059f05302a57fb04969ae682ea482f7e1edad9d2520b22787cc13b",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26967,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rekha Patil, Asif Kavathekar, Madhav Prabhu, Madhavi Patil, Ameya Kejriwal, Kamran Zaman, Jyothi Bhat, Subarna Roy",
+      "title": "Tracking the clinico-microbiological profile and molecular characterization of dengue cases during the monsoon-season in Belagavi, Karnataka",
+      "description": "Author summary Dengue fever remains a major, persistent threat to public health across the world, and effective management requires constantly tracking serotypes circulating in different regions. This study provides the first-ever molecular characterization o\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013883",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013883.strk&size=inline",
+      "publishedAt": "2026-01-20 14:00:00",
+      "content": "Abstract This study aimed to identify and characterise circulating DENV serotypes during the 2024 monsoon season in Belagavi, Karnataka and to analyze the clinical and demographic profiles of the ho\u2026 [+33219 chars]",
+      "retrievedAt": "2026-01-21 19:14:03.047015",
+      "internal_id": "2e1733d689c0cd0e60f681f0e5f98991a7ea0f104c9d2447ccd28237181fc0d5",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26968,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Donruedee Kamkhoad, Jirarporn Tunksakool, Nopporn Apiwattanakul, Jumpee Granger",
+      "title": "Bridging the knowledge gap: Thai parents\u2019 perspectives on dengue infection and its vaccination and the need for targeted promotion",
+      "description": "Author summary Dengue infection remains a significant global health challenge, particularly affecting children in endemic regions like Thailand. While vaccines offer a crucial tool for prevention, their impact depends heavily on public acceptance. This study \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013920",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013920.g001&size=inline",
+      "publishedAt": "2026-01-20 14:00:00",
+      "content": "Introduction Dengue infection is caused by the Dengue virus (DENV), which is transmitted by the Aedes mosquito. There are four DENV serotypes that are antigenically similar yet distinct from one ano\u2026 [+49755 chars]",
+      "retrievedAt": "2026-01-21 19:14:03.057430",
+      "internal_id": "7920928bf0c5803ad690715a0f3eefe44b28b942b9e4d9cb8f21ddbe89b729ba",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26958,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Deidre McPhillips",
+      "title": "US measles outbreak: 2025\u2019s record-breaking year is likely just the start of a deadly comeback",
+      "description": "Tuesday marks one year since a measles outbreak started in West Texas, and there have been more new cases in the United States each week since.",
+      "url": "https://www.cnn.com/2026/01/20/health/us-measles-outbreak-one-year",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2201702057.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-01-20 13:26:57",
+      "content": "Tuesday marks one year since a measles outbreak started in West Texas, and there have been new cases in the United States each week since. Texas reported more than 760 cases and the deaths of two ch\u2026 [+9158 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.108018",
+      "internal_id": "13faf9154589a18d136efb48ae35972ae0ec5858b534c686ccd27a59b2317830",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26964,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Marina Verenicz",
+      "title": "\u201cCareca do INSS\u201d tentou operar na Sa\u00fade ap\u00f3s fraudes em aposentadorias, diz portal",
+      "description": "Mensagens divulgadas pelo G1 indicam tentativas de emplacar contratos de cannabis, testes de dengue e nutri\u00e7\u00e3o infantil no minist\u00e9rio The post \u201cCareca do INSS\u201d tentou operar na Sa\u00fade ap\u00f3s fraudes em aposentadorias, diz portal appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/politica/careca-do-inss-tentou-operar-na-saude-apos-fraudes-em-aposentadorias-diz-jornal/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/09/captura-de-tela-2025-09-25-105054.jpeg?quality=70",
+      "publishedAt": "2026-01-20 13:25:03",
+      "content": "A investiga\u00e7\u00e3o que revelou o esquema de fraudes em aposentadorias do INSS avan\u00e7ou sobre uma nova frente. Apontado pela Pol\u00edcia Federal como um dos principais operadores do caso, Ant\u00f4nio Carlos Camilo\u2026 [+3418 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.974078",
+      "internal_id": "fd5b5418e3561c6a5e8cc154039945bbe3cd9fbf9e87c1fb796d6d3c5490097a",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26965,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Mayores de 45 a\u00f1os: Buscan voluntarios en la Argentina para investigar la seguridad de la vacuna del dengue",
+      "description": "La investigaci\u00f3n estar\u00e1 a cargo de la Fundaci\u00f3n Hu\u00e9sped; los interesados deben residir en la Capital o en el AMBA",
+      "url": "https://www.lanacion.com.ar/sociedad/mayores-de-45-anos-buscan-voluntarios-en-la-argentina-para-investigar-la-seguridad-de-la-vacuna-del-nid20012026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-vacuna-del-laboratorio-takeda-es-la-unica-que-XKUXVASGHJEXTEWO2RM2D4RQDI.jpeg?auth=9738955d199269a3203d02ed1defa17d0944323b5cea0c314a74ede3059ed500&width=1200&quality=70&smart=false&height=801",
+      "publishedAt": "2026-01-20 12:51:51",
+      "content": "La Fundaci\u00f3n Hu\u00e9sped busca saber cu\u00e1l es la seguridad y la eficacia\" de la vacuna contra el dengue en adultos de 45 a 79 a\u00f1os. Es por eso que convocan a voluntarios para vacunarse y participar de la \u2026 [+4973 chars]",
+      "retrievedAt": "2026-01-21 19:14:03.027220",
+      "internal_id": "ad7ada94eb8957469f39b50b9d5a5643def655fbc1e38c2e6f1a75b2b0644f1e",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26945,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Lauren J. Young",
+      "title": "As the U.S. marks a year of measles outbreaks, is the disease back for good?",
+      "description": "The U.S. has held its measles-free status for more than 25 years. Experts say unrelenting outbreaks in the past year may change that",
+      "url": "https://www.scientificamerican.com/article/as-the-u-s-marks-a-year-of-measles-outbreaks-is-the-disease-back-for-good/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/3f59590a4c3ab39b/original/GettyImages-2201702057_measlestexas.jpg?m=1768585628.778&w=1200",
+      "publishedAt": "2026-01-20 12:15:00",
+      "content": "It has been a full year since one of the worst measles outbreaks in recent U.S. history began ripping through West Texas. The highly infectious disease has continued to burn across multiple U.S. stat\u2026 [+8939 chars]",
+      "retrievedAt": "2026-01-21 19:14:01.817065",
+      "internal_id": "770a8d984bcb24f1fc9f97ce29ca09b598a70bd6653441dfa7f195fd950c6647",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26961,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uae40\uc900\uc6a9 \uae30\uc790 jykim@kyunghyang.com",
+      "title": "\uc804\ub0a8 \uace1\uc131\uc11c \uace0\ubcd1\uc6d0\uc131 AI \ud655\uc778\u00b7\u00b7\u00b7 \uc62c \uaca8\uc6b8 37\ubc88\uc9f8 \uc0ac\ub840",
+      "description": "\uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790 \ucc28\ub2e8\uc744 \uc704\ud574 \uac00\uae08\ub958 \uc0ac\uc721\ub2e8\uc9c0\uc5d0 \ub300\ud55c \ubc29\uc5ed \uc7a5\uba74. \uacbd\ud5a5\uc2e0\ubb38 \uc790\ub8cc\uc0ac\uc9c4\uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \uc911\uc559\uc0ac\uace0\uc218\uc2b5\ubcf8\ubd80\ub294 \uc804\ub0a8 \uace1\uc131 \uc721\uc6a9\uc624\ub9ac \ub18d\uc7a5(2\ub9cc7000\ub9c8\ub9ac)\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 AI(H5N1\ud615) \ud655\uc9c4\uc774 \ud655\uc778\ub410\ub2e4\uace0 20\uc77c \ubc1d\ud614\ub2e4. \uc774\ubc88 \ub3d9\uc808\uae30 \uac00\uae08\ub18d\uc7a5\uc5d0\uc11c 37\ubc88\uc9f8 \ubc1c\uc0dd\ud55c \uace0\ubcd1\uc6d0\uc131 AI \uc0ac\ub840\uc774\uba70, \uc804\ub0a8\uc9c0\uc5ed\uc5d0\uc120 \uae30\uc874 \ubc1c\uc0dd\uc9c0\uc5ed\uc778 \ub098\uc8fc\u00b7\uc601\uc554 \uc678 \ucc98\uc74c\uc73c\ub85c \ud655\uc9c4\uc774\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202601202019001",
+      "urlToImage": "https://img.khan.co.kr/news/2026/01/20/news-p.v1.20221026.833c7f0383804787b569e1f09042f787_P1.png",
+      "publishedAt": "2026-01-20 11:19:00",
+      "content": ". (AI) (27000) AI(H5N1) 20 . 37 AI , \u00b7 . H5 . \u00b7( \u00b7), \u00b7\u00b7 12 24 . (10\u339e) 21 , 60 . , .",
+      "retrievedAt": "2026-01-21 19:14:02.691883",
+      "internal_id": "8b298d507977a7e807191ce7162b2a39c82d977b168d62e6ba8e24542d4d5169",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26953,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "1 year since measles cases found in Texas, US still seeing surge of infections with elimination status at risk",
+      "description": "1 year since measles cases found in Texas, US still seeing surge of infections with elimination status at riskgo.com",
+      "url": "https://abcnews.go.com/Health/1-year-measles-cases-found-texas-us-surge/story?id=129344223",
+      "urlToImage": "https://i.abcnewsfe.com/a/d159e325-f7cd-47ca-98bb-f09b5e158845/measles-1-gty-er-260119_1768854878730_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-01-20 10:25:52",
+      "content": "One year ago, health officials confirmed that cases of measles were cropping up in a small town in western Texas. Soon, the virus had spread to neighboring counties in Texas. Other states began repo\u2026 [+5226 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.046925",
+      "internal_id": "2112d16257387a42715d5192b1c02fd444dd877399c9402e34b8ee7a09fef27b",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26963,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Grist",
+      "author": "Omar Hamed Beato",
+      "title": "In Bangladesh, thousands of volunteers are battling climate-fueled disease at its source",
+      "description": "As mosquitoes spread dengue and chikungunya, Bangladesh Clean volunteers are taking public health into their own hands.",
+      "url": "https://grist.org/health/bangladesh-clean-volunteers-dhaka-mosquitoes/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2026/01/bangladesh_clean.jpg?quality=75&strip=all",
+      "publishedAt": "2026-01-20 09:45:00",
+      "content": "This story was produced by Grist and was co-published with The Asian Dispatch. It is part of the Grist series Vital Signs, exploring the ways climate change affects your health. This reporting initia\u2026 [+9874 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.929155",
+      "internal_id": "a0f99d0a504237151cbfa60866fe27e6686f832a1d04bd9e973e1a72fb1fd7f8",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26971,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Trending Desk",
+      "title": "Think health insurance will cover your hospitalisation? This family with a Rs 50 lakh policy faced a scary billing counter shock",
+      "description": "A man diagnosed with Hepatitis E was unexpectedly found to have leptospirosis, requiring immediate hospitalization. His family faced a crisis when their recently renewed health insurance failed to provide cashless cover at the nearest hospital, highlighting t\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/think-health-insurance-will-cover-your-hospitalisation-this-family-with-a-rs-50-lakh-policy-faced-a-scary-billing-counter-shock/articleshow/126775751.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126779380,width-1200,height-630,imgsize-50470,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-20 09:22:09",
+      "content": "A routine evening turned into a medical emergency when a man diagnosed with Hepatitis E was suddenly found positive for leptospirosis, a fast-moving bacterial infection. Doctors advised immediate hos\u2026 [+4668 chars]",
+      "retrievedAt": "2026-01-21 19:14:04.573103",
+      "internal_id": "0db5b4b2c41e951ef524a1c0ce0a9f547b0e5962cd09712292c70caf000a6079",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26969,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "PerthNow",
+      "author": "Sophie Gannon",
+      "title": "Health department warns poorly maintained pools can increase risk of getting deadly disease in WA",
+      "description": "Health department warns poorly maintained pools can increase risk of getting deadly disease in WAperthnow.com.au",
+      "url": "https://www.perthnow.com.au/wa/perth/central/health-department-warns-poorly-maintained-pools-can-increase-risk-of-getting-deadly-disease-in-wa-c-21367596",
+      "urlToImage": "https://images.perthnow.com.au/publication/C-21367596/e48b1b33e5a6c23986fb9d28bc556d1312592aaa-16x9-x1095y0w4683h2634.jpg?imwidth=1200",
+      "publishedAt": "2026-01-20 08:56:15",
+      "content": "The Department of Health is urging people to take precautions around untreated or poorly treated water to avoid contracting the deadly amoebic meningitis. As temperatures climb across the State, it \u2026 [+2037 chars]",
+      "retrievedAt": "2026-01-21 19:14:03.309923",
+      "internal_id": "447269f0afbc1a30e6c6724268887494ad4b588d94193d402d8a3dc11df882e4",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26944,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "How do you tell the difference between distemper and rabies in raccoons?",
+      "description": "How to Differentiate Between Distemper and Rabies in Raccoons: A Guide Distinguishing between rabies and distemper in raccoons is crucial for public safety; the key difference lies in their symptomatic presentation: rabies primarily manifests with erratic agg\u2026",
+      "url": "https://www.lifesciencesworld.com/how-do-you-tell-the-difference-between-distemper-and-rabies-in-raccoons/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-20 08:09:59",
+      "content": "Distinguishing between rabies and distemper in raccoons is crucial for public safety; the key difference lies in their symptomatic presentation: rabies primarily manifests with erratic aggression and\u2026 [+9027 chars]",
+      "retrievedAt": "2026-01-21 19:14:01.363017",
+      "internal_id": "1d5adf98f7b4debe4a007f19c7e39f51416bd84eeacebd8fe12fd79d80008788",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26960,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Ohmynews.com",
+      "author": "\ud654\uc131\uc2dc\ubbfc\uc2e0\ubb38",
+      "title": "'\uc791\uc804\uba85 \uc218\ud0c9', \ub2ed\ub4e4\uc744 \uad6c\ud558\ub77c",
+      "description": "\uc9c0\ub09c\ud574 12\uc6d4 \ud654\uc131\uc2dc\ubbfc\uc2e0\ubb38\uc5d0 \uc2e4\ub838\ub358 \uc81c \uae00\uc744 \uae30\uc5b5\ud558\uc2e4\uc9c0\ub3c4 \ubaa8\ub974\uaca0\uc2b5\ub2c8\ub2e4(\uad00\ub828\uae30\uc0ac : \ub2e4\ubaa8\ud074\ub808\uc2a4\uc758 \uac80\uc774 \ub5a8\uc5b4\uc9c4 \ub0a0, \ub18d\uc7a5\uc758 \ubaa8\ub4e0 \uac83\uc774 \uba48\ucdc4\ub2e4 https://omn.kr/2gei4). \uadf8\ub54c \uc800\ub294 \uc0b0\uc548\ub9c8\uc744\uc5d0\uc11c \uc870\ub958\ub3c5\uac10\uc73c\ub85c \uc6b0\ub9ac \ub2ed\ub4e4\uc744 \uc783\uc740 \uc774\uc57c\uae30\ub97c \ud588\uc5c8\uc8e0. \ud55c\uad6d \uc2dc\uace8\uc5d0 \uc0ac\ub294 \uc774\uc0c1\ud55c \uc2a4\uc704\uc2a4 \ub18d\ubd80\uac00 \ub2e4\uc2dc \ucc3e\uc544\uc654\uc2b5\ub2c8\ub2e4, \uc548\ub155\ud558\uc138\uc694. \uadf8 \uc774\ud6c4\ub85c \uc88b\uc740 \uc18c\uc2dd\uc744 \uc804\ud560 \uc218 \uc788\uc73c\uba74 \uc88b\uaca0\uc9c0\ub9cc, \uadf8\uac74 \uac70\uc9d3\ub9d0\uc774 \ub420 \uac81\ub2c8\ub2e4. \uc608\ub97c \ub4e4\uc5b4 \uc6b0\ub9ac \uc0b6\uc774 \ub2e4\uc2dc \uc815\uc0c1\uc73c\ub85c \ub3cc\uc544\uc654\ub2e4\uac70\ub098, \uc0c8 \ubcd1\uc544\ub9ac\ub4e4\uc744 \u2026",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003200303",
+      "urlToImage": "https://ojsfile.ohmynews.com/STD_IMG_FILE/2026/0120/IE003572936_STD.jpg",
+      "publishedAt": "2026-01-20 08:04:15",
+      "content": "12 ( : , https://omn.kr/2gei4). . , . , . , . \"\" . , . , . . . . . . . , . , . . , . , , . \" \", \" \" , . , . , , , , . ? , HPAI( ) . \" , \" , .\" (Operation Rooster)\" . . . , . ! , HPAI . 41883 , , 4\u2026 [+403 chars]",
+      "retrievedAt": "2026-01-21 19:14:02.322044",
+      "internal_id": "6655778878be58ff1c1fc5bcd3eace00ef5bb64d37e8e3b8c773650753b4affe",
+      "publishedAtLabel": "Jan 20"
+    },
     {
       "id": 26939,
       "query": [
@@ -15092,132 +15597,6 @@
       "content": ", (\u00ab \u00bb) . Communications Earth &amp; Environment, XIV . ( ), . - . , (, ) , , . , Yersinia pestis ( ). . , , \u00ab \u00bb. , 1345, 1346 1347 . . , \u2014 \u2014 , . . , , , . , , , . , ( ), . , , , . , . \u2026 [+29 chars]",
       "retrievedAt": "2025-12-09 07:09:15.647268",
       "internal_id": "56d1b73643ed6478ab2b79237f87ccbcaa9e5abcbbc20d74420af3d2811b0960",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26104,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Olhardigital.com.br",
-      "author": "Beatriz Campos",
-      "title": "Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos",
-      "description": "Em Campo Grande, a libera\u00e7\u00e3o de mosquitos com Wolbachia resulta em queda nos casos de dengue, estrat\u00e9gia deve ser aplicada em outras cidades O post Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/",
-      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/06/aedes-aegypti-scaled.jpg",
-      "publishedAt": "2025-12-07 19:03:41",
-      "content": "Siga o Olhar Digital no Google Discover Um estudo recente revela um avan\u00e7o significativo no combate \u00e0 dengue em Campo Grande, Mato Grosso do Sul. A libera\u00e7\u00e3o controlada de mosquitos Aedes aegypti po\u2026 [+2182 chars]",
-      "retrievedAt": "2025-12-08 19:06:19.770794",
-      "internal_id": "cbfc1a9439dc2cbb9344ac177eca86ed30735dcfad317250a66829174c3e39f0",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26107,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Zoomit.ir",
-      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
-      "title": "\u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u061b \u062c\u0631\u0642\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0622\u062a\u0634 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u0631\u0627 \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u0634\u0639\u0644\u0647\u200c\u0648\u0631 \u06a9\u0631\u062f",
-      "description": "\u06cc\u06a9 \u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u06cc \u0645\u0647\u06cc\u0628 \u062f\u0631 \u0642\u0631\u0646 \u0686\u0647\u0627\u0631\u062f\u0647\u0645\u060c \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0622\u063a\u0627\u0632\u06af\u0631 \u0632\u0646\u062c\u06cc\u0631\u0647\u200c\u0627\u06cc \u0641\u0627\u062c\u0639\u0647\u200c\u0628\u0627\u0631 \u0628\u0648\u062f\u0647 \u0628\u0627\u0634\u062f \u06a9\u0647 \u0628\u0647 \u0634\u06cc\u0648\u0639 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u062e\u062a\u0645 \u0634\u062f.",
-      "url": "https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/",
-      "urlToImage": "https://api2.zoomit.ir/media/bubonic-plague-europe-6933fdd32017c0b719e18327",
-      "publishedAt": "2025-12-07 19:00:00",
-      "content": "\u00ab \u00bb . (Yersinia pestis) . . . \u00ab \u00bb . . . . . . : . . . . . . Communications Earth &amp; Environment .",
-      "retrievedAt": "2025-12-08 19:06:22.333717",
-      "internal_id": "01bbf47cd05fb707d895cbf04b207421fcc3e6a107c8009681e5864c570884a0",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26103,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Ilfattoquotidiano.it",
-      "author": "Redazione Salute",
-      "title": "Aviaria H5N5? Pregliasco: Punta dell\u2019iceberg, non abbassare la guardia\u201d. Terregino: \u201cNon \u00e8 pi\u00f9 aggressivo di H5N1\u201d",
-      "description": "La notizia del decesso negli Usa di un paziente \u2013 con patologie pregresse \u2013 morto dopo essere stato colpito dal ceppo H5N5 dell\u2019influenza aviaria \u2013 viene accolta in modo diverso dagli scienziati. Secondo Fabrizio Pregliasco, direttore della Scuola di speciali\u2026",
-      "url": "https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/",
-      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/07/09/pregliasco.jpg",
-      "publishedAt": "2025-12-07 15:34:12",
-      "content": "Roma, 7 dic. (Adnkronos) - \u00c8 stata ufficialmente inaugurata oggi larea dedicata alle Regione Marche allinterno del padiglione 3 di Artigiano in Fiera, il pi\u00f9 importante evento al mondo dedicato agli \u2026 [+4255 chars]",
-      "retrievedAt": "2025-12-08 19:06:19.497161",
-      "internal_id": "cfc8f99eadfe1dbe1e45a95102abff8ec8cf341dc00ead0ea72d506a9b0ac15f",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26102,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Israel National News",
-      "title": "ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard",
-      "description": "Hadassah and Rambam medical centers report an unusual overload in pediatric ICUs as influenza and measles surge, with several infants in critical condition requiring ventilators and ECMO support.",
-      "url": "https://www.israelnationalnews.com/news/418944",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1145927.jpg",
-      "publishedAt": "2025-12-07 13:56:00",
-      "content": "The Hadassah and Rambam medical centers are reporting an unusual overload in their pediatric intensive care units due to the spread of winter illnesses, especially influenza and measles. Hadassah Ei\u2026 [+1005 chars]",
-      "retrievedAt": "2025-12-08 19:06:18.930761",
-      "internal_id": "84c99a49227b6d89829bc3de6c301d8d33481ad0f7efc62964f71de9a9a12776",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26101,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Newser",
-      "author": "John Johnson with Newser.AI",
-      "title": "In Rarity, Organ Recipient Dies of Rabies From Donor",
-      "description": "A Michigan man who received what was supposed to be a life-saving kidney ended up dying soon after the transplant\u2014because the donor had rabies. The CDC pieced the puzzle together only after the fact because organ donors are not typically screened for the dise\u2026",
-      "url": "https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html",
-      "urlToImage": "https://img2-azrcdn.newser.com/image/1651023-12-20251207052102.jpeg",
-      "publishedAt": "2025-12-07 11:21:00",
-      "content": "The unusual chain of events began when the organ donor was scratched by a skunk on his property in Idaho and died five days later of what at the time was thought to be a heart attack. However, the CD\u2026 [+598 chars]",
-      "retrievedAt": "2025-12-08 19:06:18.508943",
-      "internal_id": "9641853068868d726eae46709ccf27acca2a1fb656ea7b7596bd66a8a1acea50",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26106,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": "bild",
-      "source_name": "Bild",
-      "author": "Silke H\u00fcmmer",
-      "title": "RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus",
-      "description": "Hohes Fieber, heftige Kopf- und Gliederschmerzen \u2013 die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm.",
-      "url": "https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf",
-      "urlToImage": "https://images.bild.de/69353941c0de97910a89cbaf/1c41e6e9b8ac59b6e8396097ae895f95,a77f91ff?w=1280",
-      "publishedAt": "2025-12-07 09:28:07",
-      "content": "TTS-Player \u00fcberspringenArtikel weiterlesenHohes Fieber, heftige Kopf- und Gliederschmerzen die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm. Jetzt sorgt ein gr\u00f6\u00dferer Ausbr\u2026 [+2394 chars]",
-      "retrievedAt": "2025-12-08 19:06:21.319703",
-      "internal_id": "2cc8792ae1c1f19320e0d0e992ac69b782cf6b271c23bb4572834809c86aa79b",
-      "publishedAtLabel": "Dec 7"
-    },
-    {
-      "id": 26105,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Diepresse.com",
-      "author": "Die Presse",
-      "title": "Auf Kuba breitet sich das Chikungunya-Fieber stark aus",
-      "description": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein.",
-      "url": "https://www.diepresse.com/20384239/auf-kuba-breitet-sich-das-chikungunya-fieber-stark-aus",
-      "urlToImage": "https://img.diepresse.com/public/incoming/syou3g-2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG/alternates/DPR_SOCIAL_NACHRICHTEN/2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG",
-      "publishedAt": "2025-12-07 08:14:48",
-      "content": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein. Auf Kuba gibt es derzeit einen gr\u00f6\u00dferen Ausbruch des Chikungunya-Fiebers. Nachdem in den verg\u2026 [+1119 chars]",
-      "retrievedAt": "2025-12-08 19:06:21.310387",
-      "internal_id": "d4b7a4a849e2960bfff939617ac679b80b86b9e66fe1a8016df5ceac00d97f82",
       "publishedAtLabel": "Dec 7"
     }
   ]

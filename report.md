@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2026-01-21 07:13
-- **Most recent article:** 2026-01-20 07:00:40
+- **New articles in last harvest:** 28
+- **Last harvest:** 2026-01-21 19:14
+- **Most recent article:** 2026-01-20 19:13:12
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 45 | 38 | 31 | 35 | 26 | 47 | 63 | 18 | 303 |
-| dengue | 34 | 26 | 11 | 4 | 1 | 12 | 22 | 10 | 120 |
-| rabies | 21 | 11 | 20 | 8 | 6 | 10 | 10 | 4 | 90 |
-| malaria | 17 | 19 | 12 | 5 | 0 | 13 | 8 | 1 | 75 |
+| measles | 44 | 38 | 31 | 35 | 26 | 47 | 63 | 33 | 317 |
+| dengue | 33 | 26 | 11 | 4 | 1 | 12 | 22 | 16 | 125 |
+| rabies | 20 | 11 | 20 | 8 | 6 | 10 | 10 | 5 | 90 |
+| malaria | 17 | 19 | 12 | 5 | 0 | 13 | 8 | 2 | 76 |
 | mpox | 28 | 9 | 5 | 0 | 1 | 14 | 9 | 4 | 70 |
-| h5n1 | 10 | 15 | 10 | 2 | 1 | 12 | 8 | 7 | 65 |
-| meningitis | 3 | 1 | 5 | 10 | 5 | 11 | 10 | 1 | 46 |
-| chikungunya | 13 | 2 | 7 | 3 | 0 | 3 | 1 | 3 | 32 |
+| h5n1 | 9 | 15 | 10 | 2 | 1 | 12 | 8 | 9 | 66 |
+| meningitis | 3 | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 47 |
+| chikungunya | 11 | 2 | 7 | 3 | 0 | 3 | 1 | 4 | 31 |
 | zika | 6 | 2 | 3 | 2 | 0 | 4 | 6 | 1 | 24 |
-| yersinia | 4 | 5 | 1 | 2 | 0 | 1 | 4 | 0 | 17 |
-| leptospirosis | 0 | 1 | 2 | 4 | 4 | 2 | 1 | 1 | 15 |
-| hpai | 5 | 1 | 2 | 0 | 0 | 2 | 3 | 1 | 14 |
+| leptospirosis | 0 | 1 | 2 | 4 | 4 | 2 | 1 | 2 | 16 |
+| yersinia | 3 | 5 | 1 | 2 | 0 | 1 | 4 | 0 | 16 |
+| hpai | 5 | 1 | 2 | 0 | 0 | 2 | 3 | 2 | 15 |
 | typhoid | 1 | 2 | 0 | 2 | 2 | 3 | 0 | 0 | 10 |
 | pertussis | 2 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 5 |
 
@@ -37,6 +37,8 @@ Source: [News API](https://newsapi.org/)
 - [Qué es la osteomielitis púbica que sufre Salvador Illa: un rarísimo trastorno causado por una infección bacteriana](https://www.elespanol.com/ciencia/20260119/neurologia-salvador_illa_roca-espana-ciencia/1003744095511_0.html) (Elespanol.com)
 
 ## 26-4 (rabies)
+
+- [How do you tell the difference between distemper and rabies in raccoons?](https://www.lifesciencesworld.com/how-do-you-tell-the-difference-between-distemper-and-rabies-in-raccoons/) (Lifesciencesworld.com)
 
 - [Can you get rabies if a squirrel touches you?](https://www.lifesciencesworld.com/can-you-get-rabies-if-a-squirrel-touches-you/) (Lifesciencesworld.com)
 
@@ -58,9 +60,41 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (meningitis)
 
+- [Health department warns poorly maintained pools can increase risk of getting deadly disease in WA](https://www.perthnow.com.au/wa/perth/central/health-department-warns-poorly-maintained-pools-can-increase-risk-of-getting-deadly-disease-in-wa-c-21367596) (PerthNow)
+
 - [Australian cricket great Damien Martyn says he was given 50/50 chance of living after meningitis scare](https://www.nzherald.co.nz/sport/cricket/australian-cricket-great-damien-martyn-says-he-was-given-5050-chance-of-living-after-meningitis-scare/YC56YZ5AVJAE3BIB6UH54ICKL4/) (New Zealand Herald)
 
 ## 26-4 (measles)
+
+- [The U.S. is on the verge of losing its measles elimination status](https://www.pbs.org/newshour/science/the-u-s-is-on-the-verge-of-losing-its-measles-elimination-status) (PBS)
+
+- [At least 88 new measles cases confirmed in South Carolina, bringing total to 646: Health officials](https://abcnews.go.com/Health/88-new-measles-cases-confirmed-south-carolina-bringing/story?id=129377559) (ABC News)
+
+- [US on verge of losing its measles elimination status. Here’s why that matters](https://indianexpress.com/article/world/us-on-verge-of-losing-measles-elimination-status-why-that-matters-10485546/) (The Indian Express)
+
+- [The US is on the verge of losing its measles elimination status](https://www.bostonherald.com/2026/01/20/us-measles-elimination/) (Boston Herald)
+
+- [International health authorities to assess US measles situation](https://apnews.com/article/us-measles-elimination-mexico-6f0bc8f7ef31d5ef82492e42ccb38e47) (Associated Press)
+
+- [The US is on the verge of losing its measles elimination status. Here’s why that matters](https://www.denverpost.com/2026/01/20/us-measles-elimination/) (The Denver Post)
+
+- [International health authorities to assess US measles situation](https://www.whio.com/news/health/us-is-verge-losing/GKD2KDXLHY35JPBSHJBYJUCRBY/) (WHIO)
+
+- [International health authorities to assess US measles situation](https://www.wsbtv.com/news/health/us-is-verge-losing/GKD2KDXLHY35JPBSHJBYJUCRBY/) (WSB Atlanta)
+
+- [6th measles case in Buncombe County since December identified: health officials](https://wlos.com/news/local/6th-measles-case-buncombe-county-north-carolina-wnc-since-december-identified-health-officials-potential-exposure-locations-virus-medical-healthcare-symptoms-contagious-vaccine) (WLOS)
+
+- [Global Virus Network Warns Measles Resurgence](https://www.globenewswire.com/news-release/2026/01/20/3222117/0/en/Global-Virus-Network-Warns-Measles-Resurgence.html) (GlobeNewswire)
+
+- [The US had a record-breaking year for measles. It may be the start of a deadly comeback](https://www.news8000.com/lifestyle/health/the-us-had-a-record-breaking-year-for-measles-it-may-be-the-start-of/article_c884262a-99c5-5867-8822-ab350b77ace3.html) (News8000.com - WKBT)
+
+- [After 25 Years, US May Lose 'Eliminated' Status for Measles](https://www.newser.com/story/382246/after-25-years-us-may-lose-eliminated-status-for-measles.html) (Newser)
+
+- [US measles outbreak: 2025’s record-breaking year is likely just the start of a deadly comeback](https://www.cnn.com/2026/01/20/health/us-measles-outbreak-one-year) (CNN)
+
+- [As the U.S. marks a year of measles outbreaks, is the disease back for good?](https://www.scientificamerican.com/article/as-the-u-s-marks-a-year-of-measles-outbreaks-is-the-disease-back-for-good/) (Scientific American)
+
+- [1 year since measles cases found in Texas, US still seeing surge of infections with elimination status at risk](https://abcnews.go.com/Health/1-year-measles-cases-found-texas-us-surge/story?id=129344223) (ABC News)
 
 - [Has the U.S. Lost Measles Elimination Status? (New York Times)](https://www.memeorandum.com/260119/p108) (Memeorandum.com)
 
@@ -100,17 +134,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (malaria)
 
+- [Meeting malaria where it lives](https://ysph.yale.edu/news-article/meeting-malaria-where-it-lives/) (Yale.edu)
+
 - [The impact of Trump's foreign aid cuts, one year on](https://economictimes.indiatimes.com/news/international/world-news/the-impact-of-trumps-foreign-aid-cuts-one-year-on/articleshow/126753147.cms) (The Times of India)
 
 ## 26-4 (leptospirosis)
+
+- [Think health insurance will cover your hospitalisation? This family with a Rs 50 lakh policy faced a scary billing counter shock](https://economictimes.indiatimes.com/news/new-updates/think-health-insurance-will-cover-your-hospitalisation-this-family-with-a-rs-50-lakh-policy-faced-a-scary-billing-counter-shock/articleshow/126775751.cms) (The Times of India)
 
 - [Do possums carry leptospirosis?](https://www.lifesciencesworld.com/do-possums-carry-leptospirosis/) (Lifesciencesworld.com)
 
 ## 26-4 (hpai)
 
+- ['작전명 수탉', 닭들을 구하라](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003200303) (Ohmynews.com)
+
 - [빅밸류 구름 대표, 농림축산검역검사 시책유공 부문 장관 표창 수상](https://www.venturesquare.net/1033399/) (Venturesquare.net)
 
 ## 26-4 (h5n1)
+
+- [علماء روس يطورون أساسا للقاح واعد ضد أخطر سلالات إنفلونزا الطيور](https://sarabic.ae/20260120/%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D8%B1%D9%88%D8%B3-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D8%A3%D8%B3%D8%A7%D8%B3%D8%A7-%D9%84%D9%84%D9%82%D8%A7%D8%AD-%D9%88%D8%A7%D8%B9%D8%AF-%D8%B6%D8%AF-%D8%A3%D8%AE%D8%B7%D8%B1-%D8%B3%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1-1109442510.html) (Sarabic.ae)
+
+- [전남 곡성서 고병원성 AI 확인··· 올 겨울 37번째 사례](https://www.khan.co.kr/article/202601202019001) (Khan.co.kr)
 
 - [H5N1-Virus in Deutschland: Experte: Vogelgrippe-Impfung könnte Millionen Tiere retten](https://www.zeit.de/news/2026-01/19/experte-vogelgrippe-impfung-koennte-millionen-tiere-retten) (Die Zeit)
 
@@ -127,6 +171,18 @@ Source: [News API](https://newsapi.org/)
 - [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
 
 ## 26-4 (dengue)
+
+- [Adverse dengue outcomes in patients with chronic kidney disease: A population-based analysis of 5.8 million individuals from Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013927) (Plos.org)
+
+- [Tracking the clinico-microbiological profile and molecular characterization of dengue cases during the monsoon-season in Belagavi, Karnataka](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013883) (Plos.org)
+
+- [Bridging the knowledge gap: Thai parents’ perspectives on dengue infection and its vaccination and the need for targeted promotion](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013920) (Plos.org)
+
+- [“Careca do INSS” tentou operar na Saúde após fraudes em aposentadorias, diz portal](https://www.infomoney.com.br/politica/careca-do-inss-tentou-operar-na-saude-apos-fraudes-em-aposentadorias-diz-jornal/) (InfoMoney)
+
+- [Mayores de 45 años: Buscan voluntarios en la Argentina para investigar la seguridad de la vacuna del dengue](https://www.lanacion.com.ar/sociedad/mayores-de-45-anos-buscan-voluntarios-en-la-argentina-para-investigar-la-seguridad-de-la-vacuna-del-nid20012026/) (La Nacion)
+
+- [In Bangladesh, thousands of volunteers are battling climate-fueled disease at its source](https://grist.org/health/bangladesh-clean-volunteers-dhaka-mosquitoes/) (Grist)
 
 - [Jakarta raises alert as rainy season fuels super flu, dengue risks](https://en.antaranews.com/news/400690/jakarta-raises-alert-as-rainy-season-fuels-super-flu-dengue-risks) (Antaranews.com)
 
@@ -149,6 +205,8 @@ Source: [News API](https://newsapi.org/)
 - [Cidades do CE e MG iniciam vacinação contra dengue com dose única](https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/cidades-do-ce-e-mg-iniciam-vacinacao-contra-dengue-com-dose-unica) (Ebc.com.br)
 
 ## 26-4 (chikungunya)
+
+- [In Bangladesh, thousands of volunteers are battling climate-fueled disease at its source](https://grist.org/health/bangladesh-clean-volunteers-dhaka-mosquitoes/) (Grist)
 
 - [États-Unis. Chikungunya : le laboratoire franco-autrichien Valneva demande le retrait de sa licence](https://www.ledauphine.com/sante/2026/01/19/chikungunya-le-laboratoire-franco-autrichien-valneva-demande-le-retrait-de-sa-licence-aux-etats-unis) (Le Dauphiné Libéré)
 
@@ -1612,8 +1670,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Извержение вулкана в 1345 году положило начало череде событий, которые привели к эпидемии Черной смерти, охватившей средневековую Европу](https://www.ixbt.com/live/science/izverzhenie-vulkana-v-1345-godu-polozhilo-nachalo-cherede-sobytiy-kotorye-priveli-k-epidemii-chernoy-smerti-ohvativshey-srednevekovuyu-evropu.html) (Ixbt.com)
 
-- [فوران آتشفشان؛ جرقه‌ای که آتش «مرگ سیاه» را در اروپا شعله‌ور کرد](https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/) (Zoomit.ir)
-
 ## 25-50 (typhoid)
 
 - [I’m heading overseas. Do I really need travel vaccines?](https://theconversation.com/im-heading-overseas-do-i-really-need-travel-vaccines-269495) (The Conversation Africa)
@@ -1659,8 +1715,6 @@ Source: [News API](https://newsapi.org/)
 - [US Man Dies From Rabies After Receiving Infected Kidney](https://www.sciencealert.com/us-man-dies-from-rabies-after-receiving-infected-kidney) (ScienceAlert)
 
 - [Донор пересаженной впоследствии умершему реципиенту почки заразился бешенством от скунса](https://nplus1.ru/news/2025/12/08/rabid-transplant-details) (Nplus1.ru)
-
-- [In Rarity, Organ Recipient Dies of Rabies From Donor](https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html) (Newser)
 
 ## 25-50 (pertussis)
 
@@ -1824,8 +1878,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccine Controversies and Measles Outbreaks, Space Pollution, Puppy Power](https://www.scientificamerican.com/podcast/episode/vaccine-controversies-and-measles-outbreaks-space-pollution-puppy-power/) (Scientific American)
 
-- [ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard](https://www.israelnationalnews.com/news/418944) (Israelnationalnews.com)
-
 ## 25-50 (malaria)
 
 - [Ex-Prince Andrew appears in photo released by Jeffrey Epstein’s estate, shared by House Democrats](https://www.foxnews.com/entertainment/ex-prince-andrew-appears-photo-released-jeffrey-epsteins-estate-shared-house-democrats) (Fox News)
@@ -1893,8 +1945,6 @@ Source: [News API](https://newsapi.org/)
 - [H5N1-Ausbruch: Vogelgrippe in deutschen Katzen nachgewiesen](https://www.spektrum.de/news/vogelgrippe-h5n1-in-deutschen-katzen-was-es-nun-zu-beachten-gilt/2300005) (Spektrum.de)
 
 - [Bird flu hasn't reached Australia, but researchers are prepping for when it arrives](https://www.npr.org/2025/12/08/nx-s1-5629191/bird-flu-hasnt-reached-australia-but-researchers-are-prepping-for-when-it-arrives) (NPR)
-
-- [Aviaria H5N5? Pregliasco: Punta dell’iceberg, non abbassare la guardia”. Terregino: “Non è più aggressivo di H5N1”](https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/) (Ilfattoquotidiano.it)
 
 ## 25-50 (dengue)
 
@@ -1964,8 +2014,6 @@ Source: [News API](https://newsapi.org/)
 
 - [México reporta mil 54 nuevos casos de dengue](https://www.excelsior.com.mx/nacional/dengue-en-mexico-reportan-mil-54-nuevos-casos/1756104) (Excelsior.com.mx)
 
-- [Tecnologia anti-dengue: mosquitos com bactéria Wolbachia reduzem casos](https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/) (Olhardigital.com.br)
-
 ## 25-50 (chikungunya)
 
 - [Cuba confirma 3 nuevos muertos por la epidemia de dengue y Chikungunya; ya suman 47](https://www.milenio.com/internacional/cuba-confirma-muertos-por-la-epidemia-de-dengue-y-chikungunya) (Milenio)
@@ -1989,7 +2037,3 @@ Source: [News API](https://newsapi.org/)
 - [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
 
 - [Chikungunya : près de la moitié des habitants de La Réunion ont été contaminés en 2025](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-la-moitie-des-habitants-de-la-reunion-ont-ete-contamines-en-2025_7665814.html) (Franceinfo.fr)
-
-- [RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus](https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf) (Bild)
-
-- [Auf Kuba breitet sich das Chikungunya-Fieber stark aus](https://www.diepresse.com/20384239/auf-kuba-breitet-sich-das-chikungunya-fieber-stark-aus) (Diepresse.com)
