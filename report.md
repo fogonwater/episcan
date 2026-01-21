@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2026-01-20 19:30
-- **Most recent article:** 2026-01-19 18:18:42
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-01-21 07:13
+- **Most recent article:** 2026-01-20 07:00:40
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 44 | 38 | 31 | 35 | 26 | 47 | 63 | 9 | 293 |
-| dengue | 33 | 26 | 11 | 4 | 1 | 12 | 22 | 8 | 117 |
-| rabies | 20 | 11 | 20 | 8 | 6 | 10 | 10 | 3 | 88 |
-| malaria | 17 | 19 | 12 | 5 | 0 | 13 | 8 | 0 | 74 |
-| mpox | 28 | 9 | 5 | 0 | 1 | 14 | 9 | 2 | 68 |
-| h5n1 | 9 | 15 | 10 | 2 | 1 | 12 | 8 | 7 | 64 |
+| measles | 45 | 38 | 31 | 35 | 26 | 47 | 63 | 18 | 303 |
+| dengue | 34 | 26 | 11 | 4 | 1 | 12 | 22 | 10 | 120 |
+| rabies | 21 | 11 | 20 | 8 | 6 | 10 | 10 | 4 | 90 |
+| malaria | 17 | 19 | 12 | 5 | 0 | 13 | 8 | 1 | 75 |
+| mpox | 28 | 9 | 5 | 0 | 1 | 14 | 9 | 4 | 70 |
+| h5n1 | 10 | 15 | 10 | 2 | 1 | 12 | 8 | 7 | 65 |
 | meningitis | 3 | 1 | 5 | 10 | 5 | 11 | 10 | 1 | 46 |
-| chikungunya | 11 | 2 | 7 | 3 | 0 | 3 | 1 | 3 | 30 |
+| chikungunya | 13 | 2 | 7 | 3 | 0 | 3 | 1 | 3 | 32 |
 | zika | 6 | 2 | 3 | 2 | 0 | 4 | 6 | 1 | 24 |
-| yersinia | 3 | 5 | 1 | 2 | 0 | 1 | 4 | 0 | 16 |
+| yersinia | 4 | 5 | 1 | 2 | 0 | 1 | 4 | 0 | 17 |
+| leptospirosis | 0 | 1 | 2 | 4 | 4 | 2 | 1 | 1 | 15 |
 | hpai | 5 | 1 | 2 | 0 | 0 | 2 | 3 | 1 | 14 |
-| leptospirosis | 0 | 1 | 2 | 4 | 4 | 2 | 1 | 0 | 14 |
 | typhoid | 1 | 2 | 0 | 2 | 2 | 3 | 0 | 0 | 10 |
 | pertussis | 2 | 0 | 2 | 1 | 0 | 0 | 0 | 0 | 5 |
 
@@ -38,6 +38,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (rabies)
 
+- [Can you get rabies if a squirrel touches you?](https://www.lifesciencesworld.com/can-you-get-rabies-if-a-squirrel-touches-you/) (Lifesciencesworld.com)
+
 - [What percent of raccoons have rabies?](https://www.lifesciencesworld.com/what-percent-of-raccoons-have-rabies/) (Lifesciencesworld.com)
 
 - [What vaccines should ferrets get?](https://www.lifesciencesworld.com/what-vaccines-should-ferrets-get/) (Lifesciencesworld.com)
@@ -45,6 +47,10 @@ Source: [News API](https://newsapi.org/)
 - [Can you get rabies from a dead fox?](https://www.lifesciencesworld.com/can-you-get-rabies-from-a-dead-fox/) (Lifesciencesworld.com)
 
 ## 26-4 (mpox)
+
+- [Mpox: más de la mitad de los afectados siguen con efectos físicos persistentes a largo plazo](https://www.infosalus.com/salud-investigacion/noticia-mpox-mas-mitad-afectados-siguen-efectos-fisicos-persistentes-largo-plazo-20260120071649.html) (Infosalus.com)
+
+- [More than half of mpox patients in 2022 outbreak experienced lasting physical effects: Study](https://abcnews.go.com/Health/half-mpox-patients-2022-outbreak-experienced-lasting-physical/story?id=129343923) (ABC News)
 
 - [« Variole du singe » : Où se cache le virus mpox ? Quand virologues et systématiciens mènent l’enquête](https://theconversation.com/variole-du-singe-ou-se-cache-le-virus-mpox-quand-virologues-et-systematiciens-menent-lenquete-270513) (The Conversation Africa)
 
@@ -55,6 +61,24 @@ Source: [News API](https://newsapi.org/)
 - [Australian cricket great Damien Martyn says he was given 50/50 chance of living after meningitis scare](https://www.nzherald.co.nz/sport/cricket/australian-cricket-great-damien-martyn-says-he-was-given-5050-chance-of-living-after-meningitis-scare/YC56YZ5AVJAE3BIB6UH54ICKL4/) (New Zealand Herald)
 
 ## 26-4 (measles)
+
+- [Has the U.S. Lost Measles Elimination Status? (New York Times)](https://www.memeorandum.com/260119/p108) (Memeorandum.com)
+
+- [DIPOLOG: MEASLES-RUBELLA SUPPLEMENTAL IMMUNIZATION ACTIVITY, GISUGDAN NA](https://rpnradio.com/dipolog-measles-rubella-supplemental-immunization-activity-gisugdan-na/) (Rpnradio.com)
+
+- [RADYO RONDA MINDANAO NEWS (CDO): IMMUNIZATION DRIVE BATOK MEASLES-RUBELLA, GILUSAD NA SA CAGAYAN DE ORO](https://rpnradio.com/radyo-ronda-mindanao-news-cdo-immunization-drive-batok-measles-rubella-gilusad-na-sa-cagayan-de-oro/) (Rpnradio.com)
+
+- [C’River begins Measles-Rubella vaccination](https://punchng.com/criver-begins-measles-rubella-vaccination/) (The Punch)
+
+- [RADYO RONDA MINDANAO NEWS (SURIGAO): SURIGAO CITY NAGSUGOD NA SA “LIGTAS TIGDAS” 2026 MEASLES-RUBELLA CAMPAIGN](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-surigao-city-nagsugod-na-sa-ligtas-tigdas-2026-measles-rubella-campaign/) (Rpnradio.com)
+
+- [Measles outbreak reaches a major South Carolina college campus](https://www.foxnews.com/health/measles-outbreak-reaches-major-south-carolina-college-campus) (Fox News)
+
+- [Health Ministry Urges Vaccination as Measles Nears Border](https://www.greaterbelize.com/health-ministry-urges-vaccination-as-measles-nears-border/) (Greaterbelize.com)
+
+- [Measles Reaches Clemson University as South Carolina Outbreak Explodes to 558 Cases, Worst in Nation](https://www.ibtimes.com/measles-reaches-clemson-university-south-carolina-outbreak-explodes-558-cases-worst-nation-3795684) (International Business Times)
+
+- [Measles for nothing and whooping cough for free](https://www.lawyersgunsmoneyblog.com/2026/01/measles-for-nothing-and-whooping-cough-for-free) (Lawyersgunsmoneyblog.com)
 
 - [Vaccines are stunning (Part a million)](https://balloon-juice.com/2026/01/19/vaccines-are-stunning-part-a-million/) (Balloon-juice.com)
 
@@ -73,6 +97,14 @@ Source: [News API](https://newsapi.org/)
 - [WATCH: Some love stories are written in touchdowns](https://abcnews.go.com/world-news-tonight-with-david-muirT/video/love-stories-written-touchdowns-129336384) (ABC News)
 
 - [City Wide Measle-Rubella Immunization Drive sa Cagayan de Oro](https://rpnradio.com/city-wide-measle-rubella-immunization-drive-sa-cagayan-de-oro/) (Rpnradio.com)
+
+## 26-4 (malaria)
+
+- [The impact of Trump's foreign aid cuts, one year on](https://economictimes.indiatimes.com/news/international/world-news/the-impact-of-trumps-foreign-aid-cuts-one-year-on/articleshow/126753147.cms) (The Times of India)
+
+## 26-4 (leptospirosis)
+
+- [Do possums carry leptospirosis?](https://www.lifesciencesworld.com/do-possums-carry-leptospirosis/) (Lifesciencesworld.com)
 
 ## 26-4 (hpai)
 
@@ -95,6 +127,10 @@ Source: [News API](https://newsapi.org/)
 - [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
 
 ## 26-4 (dengue)
+
+- [Jakarta raises alert as rainy season fuels super flu, dengue risks](https://en.antaranews.com/news/400690/jakarta-raises-alert-as-rainy-season-fuels-super-flu-dengue-risks) (Antaranews.com)
+
+- [Careca do INSS mirou contratos milionários no Ministério da Saúde](https://ultimosegundo.ig.com.br/politica/2026-01-20/careca-do-inss-tentou-vender-medicamentos-de-cannabidiol-ao-ministerio-da-saude.html) (Ig.com.br)
 
 - [Pesquisa aponta quem tem mais chance de morrer por dengue no Brasil](https://www.metropoles.com/saude/chance-morrer-dengue-brasil) (Metropoles.com)
 
@@ -1576,6 +1612,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Извержение вулкана в 1345 году положило начало череде событий, которые привели к эпидемии Черной смерти, охватившей средневековую Европу](https://www.ixbt.com/live/science/izverzhenie-vulkana-v-1345-godu-polozhilo-nachalo-cherede-sobytiy-kotorye-priveli-k-epidemii-chernoy-smerti-ohvativshey-srednevekovuyu-evropu.html) (Ixbt.com)
 
+- [فوران آتشفشان؛ جرقه‌ای که آتش «مرگ سیاه» را در اروپا شعله‌ور کرد](https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/) (Zoomit.ir)
+
 ## 25-50 (typhoid)
 
 - [I’m heading overseas. Do I really need travel vaccines?](https://theconversation.com/im-heading-overseas-do-i-really-need-travel-vaccines-269495) (The Conversation Africa)
@@ -1621,6 +1659,8 @@ Source: [News API](https://newsapi.org/)
 - [US Man Dies From Rabies After Receiving Infected Kidney](https://www.sciencealert.com/us-man-dies-from-rabies-after-receiving-infected-kidney) (ScienceAlert)
 
 - [Донор пересаженной впоследствии умершему реципиенту почки заразился бешенством от скунса](https://nplus1.ru/news/2025/12/08/rabid-transplant-details) (Nplus1.ru)
+
+- [In Rarity, Organ Recipient Dies of Rabies From Donor](https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html) (Newser)
 
 ## 25-50 (pertussis)
 
@@ -1784,6 +1824,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccine Controversies and Measles Outbreaks, Space Pollution, Puppy Power](https://www.scientificamerican.com/podcast/episode/vaccine-controversies-and-measles-outbreaks-space-pollution-puppy-power/) (Scientific American)
 
+- [ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard](https://www.israelnationalnews.com/news/418944) (Israelnationalnews.com)
+
 ## 25-50 (malaria)
 
 - [Ex-Prince Andrew appears in photo released by Jeffrey Epstein’s estate, shared by House Democrats](https://www.foxnews.com/entertainment/ex-prince-andrew-appears-photo-released-jeffrey-epsteins-estate-shared-house-democrats) (Fox News)
@@ -1851,6 +1893,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1-Ausbruch: Vogelgrippe in deutschen Katzen nachgewiesen](https://www.spektrum.de/news/vogelgrippe-h5n1-in-deutschen-katzen-was-es-nun-zu-beachten-gilt/2300005) (Spektrum.de)
 
 - [Bird flu hasn't reached Australia, but researchers are prepping for when it arrives](https://www.npr.org/2025/12/08/nx-s1-5629191/bird-flu-hasnt-reached-australia-but-researchers-are-prepping-for-when-it-arrives) (NPR)
+
+- [Aviaria H5N5? Pregliasco: Punta dell’iceberg, non abbassare la guardia”. Terregino: “Non è più aggressivo di H5N1”](https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/) (Ilfattoquotidiano.it)
 
 ## 25-50 (dengue)
 
@@ -1920,6 +1964,8 @@ Source: [News API](https://newsapi.org/)
 
 - [México reporta mil 54 nuevos casos de dengue](https://www.excelsior.com.mx/nacional/dengue-en-mexico-reportan-mil-54-nuevos-casos/1756104) (Excelsior.com.mx)
 
+- [Tecnologia anti-dengue: mosquitos com bactéria Wolbachia reduzem casos](https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/) (Olhardigital.com.br)
+
 ## 25-50 (chikungunya)
 
 - [Cuba confirma 3 nuevos muertos por la epidemia de dengue y Chikungunya; ya suman 47](https://www.milenio.com/internacional/cuba-confirma-muertos-por-la-epidemia-de-dengue-y-chikungunya) (Milenio)
@@ -1943,3 +1989,7 @@ Source: [News API](https://newsapi.org/)
 - [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
 
 - [Chikungunya : près de la moitié des habitants de La Réunion ont été contaminés en 2025](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-la-moitie-des-habitants-de-la-reunion-ont-ete-contamines-en-2025_7665814.html) (Franceinfo.fr)
+
+- [RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus](https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf) (Bild)
+
+- [Auf Kuba breitet sich das Chikungunya-Fieber stark aus](https://www.diepresse.com/20384239/auf-kuba-breitet-sich-das-chikungunya-fieber-stark-aus) (Diepresse.com)

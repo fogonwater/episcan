@@ -1,8 +1,296 @@
 {
-  "last_updated": "2026-01-20 19:30",
-  "count_articles_total": 820,
-  "count_articles_new": 19,
+  "last_updated": "2026-01-21 07:13",
+  "count_articles_total": 843,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 26939,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Lifia M, Tegar Nurfitra",
+      "title": "Jakarta raises alert as rainy season fuels super flu, dengue risks",
+      "description": "The Jakarta provincial government has raised an alert over potential cases of dengue and &ldquo;super flu,&rdquo; or influenza A (H3N2) subclade K, amid the ...",
+      "url": "https://en.antaranews.com/news/400690/jakarta-raises-alert-as-rainy-season-fuels-super-flu-dengue-risks",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/10/19/Pencegahan-DBD-di-Sekolah-40424-EBP-10.jpg",
+      "publishedAt": "2026-01-20 07:00:40",
+      "content": "Jakarta (ANTARA) - The Jakarta provincial government has raised an alert over potential cases of dengue and \u201csuper flu,\u201d or influenza A (H3N2) subclade K, amid the rainy season.\"I have instructed the\u2026 [+2010 chars]",
+      "retrievedAt": "2026-01-21 07:13:49.447430",
+      "internal_id": "5650883e685cacdc1322b234408c52f1d8af3474116dd30a133e184d132c8bd5",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26941,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Mpox: m\u00e1s de la mitad de los afectados siguen con efectos f\u00edsicos persistentes a largo plazo",
+      "description": "Un estudio de cohorte de m\u00e1s de 300 adultos diagnosticados con mpox entre mayo de 2022 y enero de 2023 (post-MPX) o que estaban en riesgo pero nunca se infectaron (no-MPX), realizado por la Universidad de Columbia (Estado Unidos), ha revelado que m\u00e1s de la mi\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-mpox-mas-mitad-afectados-siguen-efectos-fisicos-persistentes-largo-plazo-20260120071649.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260120071649_1200.jpg",
+      "publishedAt": "2026-01-20 06:16:49",
+      "content": "MADRID, 20 Ene. (EUROPA PRESS) - Un estudio de cohorte de m\u00e1s de 300 adultos diagnosticados con mpox entre mayo de 2022 y enero de 2023 (post-MPX) o que estaban en riesgo pero nunca se infectaro\u2026 [+1689 chars]",
+      "retrievedAt": "2026-01-21 07:13:51.174755",
+      "internal_id": "0be27665ed3f6f239406ac02f9cd83d0eac81dd78e96e039d0d6ecdad204bd05",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26938,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Carla Melo, Carla Melo",
+      "title": "Careca do INSS mirou contratos milion\u00e1rios no Minist\u00e9rio da Sa\u00fade",
+      "description": "O lobista tentou fazer a venda de medicamentos de cannabis, testes r\u00e1pidos de dengue e produtos de nutri\u00e7\u00e3o infantil ao Minist\u00e9rio, em 2025",
+      "url": "https://ultimosegundo.ig.com.br/politica/2026-01-20/careca-do-inss-tentou-vender-medicamentos-de-cannabidiol-ao-ministerio-da-saude.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/3x/en/rf/3xenrfnfq2ix96av876pr1t5o.jpg",
+      "publishedAt": "2026-01-20 05:27:09",
+      "content": "Ant\u00f4nio Carlos Camilo Antunes, conhecido como Careca do INSS, tentou fazer contratos milion\u00e1rios com o Minist\u00e9rio da Sa\u00fade para a venda de medicamentos de cannabis, testes r\u00e1pidos de dengue e produt\u2026 [+1979 chars]",
+      "retrievedAt": "2026-01-21 07:13:49.410386",
+      "internal_id": "1dd0adf5df4e4514b6a5489ba06e79cc4bcb84f86a53fb9e4d01d9ead6a72faa",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26940,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "The impact of Trump's foreign aid cuts, one year on",
+      "description": "Humanitarian efforts to fight diseases such as HIV, malaria and tuberculosis in some of the world's poorest nations have been massively disrupted since Donald Trump froze US humanitarian aid immediately after being sworn in for a second term on January 20, 20\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/the-impact-of-trumps-foreign-aid-cuts-one-year-on/articleshow/126753147.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126753414,width-1200,height-630,imgsize-114602,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-20 04:09:32",
+      "content": "Paris: The Trump administration's dismantling of US foreign aid, which started a year ago on Tuesday, has caused the preventable deaths of hundreds of thousands of people and will contribute to milli\u2026 [+4489 chars]",
+      "retrievedAt": "2026-01-21 07:13:50.149227",
+      "internal_id": "e0b9a80c9b5397e6067651a55032d827e3df9d9d2f47ec091b967ab74c42fa53",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26931,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Has the U.S. Lost Measles Elimination Status? (New York Times)",
+      "description": "New York Times: Has the U.S. Lost Measles Elimination Status? \u2014 It's unclear whether the United States can keep its designation as a country that officially eliminated the disease. \u2014 On inauguration day a year ago, a small town in Gaines County, on the we\u2026",
+      "url": "https://www.memeorandum.com/260119/p108",
+      "urlToImage": "https://static01.nyt.com/images/2026/01/20/well/20WELL-ONE-YEAR-MEASLES1/20WELL-ONE-YEAR-MEASLES1-facebookJumbo.jpg",
+      "publishedAt": "2026-01-20 03:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-01-21 07:13:48.113254",
+      "internal_id": "1078cbbb7cb9c122f874a2f19ca29c9758136a2362343bd206ae5d35e381dd0b",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26928,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Can you get rabies if a squirrel touches you?",
+      "description": "Can You Get Rabies If a Squirrel Touches You? No, it\u2019s extremely unlikely that you\u2019ll get rabies if a squirrel simply touches you. Can you get rabies if a squirrel touches you? While technically possible if the squirrel saliva enters an open wound, squirrels \u2026",
+      "url": "https://www.lifesciencesworld.com/can-you-get-rabies-if-a-squirrel-touches-you/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-20 03:22:43",
+      "content": "Can You Get Rabies If a Squirrel Touches You? No, it\u2019s extremely unlikely that you\u2019ll get rabies if a squirrel simply touches you. Can you get rabies if a squirrel touches you? While technically pos\u2026 [+9389 chars]",
+      "retrievedAt": "2026-01-21 07:13:47.494123",
+      "internal_id": "e6412eb93dd00204a1bdd8e710372188133ae805b1c6e137de071a630996c88a",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26937,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN News",
+      "title": "DIPOLOG: MEASLES-RUBELLA SUPPLEMENTAL IMMUNIZATION ACTIVITY, GISUGDAN NA",
+      "description": "Opisyal nga gisugdan sa Dakbayan sa Dipolog ang Measles-Rubella Supplemental Immunization Activity (MR-SIA), pipangunahan sa Department of Health (DOH) Zamboanga Peninsula, uban sa pakigtambayayong sa World Health Organization (WHO) ug sa suporta sa probinsya\u2026",
+      "url": "https://rpnradio.com/dipolog-measles-rubella-supplemental-immunization-activity-gisugdan-na/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2026/01/1000027249.jpg",
+      "publishedAt": "2026-01-20 01:13:07",
+      "content": "Opisyal nga gisugdan sa Dakbayan sa Dipolog ang Measles-Rubella Supplemental Immunization Activity (MR-SIA), pipangunahan sa Department of Health (DOH) Zamboanga Peninsula, uban sa pakigtambayayong s\u2026 [+1049 chars]",
+      "retrievedAt": "2026-01-21 07:13:48.281126",
+      "internal_id": "c386aac3853562a27a5c8984b460d66bceabae3e869f148dfd4815bd29ef6ffa",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26943,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Do possums carry leptospirosis?",
+      "description": "Do Possums Carry Leptospirosis? Understanding the Risk Do possums carry leptospirosis? The short answer is, while possums can be infected, they are generally considered to be low-risk carriers of leptospirosis compared to other wildlife. Introduction: Unravel\u2026",
+      "url": "https://www.lifesciencesworld.com/do-possums-carry-leptospirosis/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-20 00:36:01",
+      "content": "Do Possums Carry Leptospirosis? Understanding the Risk Do possums carry leptospirosis? The short answer is, while possums can be infected, they are generally considered to be low-risk carriers of le\u2026 [+7991 chars]",
+      "retrievedAt": "2026-01-21 07:13:51.535580",
+      "internal_id": "8843928df85eefebf7373717a465faa7c1c18c71b5896d07763768d380aa23d3",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26936,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN",
+      "title": "RADYO RONDA MINDANAO NEWS (CDO): IMMUNIZATION DRIVE BATOK MEASLES-RUBELLA, GILUSAD NA SA CAGAYAN DE ORO",
+      "description": "Cagayan de Oro: Immunization Drive batok Measles-Rubella, gilusad na sa Cagayan de Oro. Sa ulat ni Cheleste Simene ng DXKO Cagayan de Oro. Panuorin ang buong ulat: https://www.youtube.com/live/I6YTfwb_Uk0?si=P3LMpuBzWrgIXr6F&t=2552",
+      "url": "https://rpnradio.com/radyo-ronda-mindanao-news-cdo-immunization-drive-batok-measles-rubella-gilusad-na-sa-cagayan-de-oro/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2026/01/1768809768298.jpg",
+      "publishedAt": "2026-01-20 00:15:53",
+      "content": "Cagayan de Oro: Immunization Drive batok Measles-Rubella, gilusad na sa Cagayan de Oro. Sa ulat ni Cheleste Simene ng DXKO Cagayan de Oro. Panuorin ang buong ulat: https://www.youtube.com/live/I6YTf\u2026 [+36 chars]",
+      "retrievedAt": "2026-01-21 07:13:48.271621",
+      "internal_id": "eafdcd03ae44174508956833af0ec3f6b50938359375ae1798780f01ea68eabe",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26932,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "C\u2019River begins Measles-Rubella vaccination",
+      "description": "Cross River State launches its 2026 Measles-Rubella vaccination campaign for children 9 months to 14 years, alongside HPV vaccine for girls aged 9. Read More: https://punchng.com/criver-begins-measles-rubella-vaccination/",
+      "url": "https://punchng.com/criver-begins-measles-rubella-vaccination/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/06/12091320/1000749613-1000x630.jpg",
+      "publishedAt": "2026-01-20 00:05:05",
+      "content": "The Cross River State Government has announced the commencement of the 2026 Measles-Rubella vaccination campaign, alongside the Human Papillomavirus vaccination, across the state. In a statement is\u2026 [+2493 chars]",
+      "retrievedAt": "2026-01-21 07:13:48.131197",
+      "internal_id": "9cfbd23ce3fa692ce189520be183b5a747abba45407e68d0ff75b9ef57111870",
+      "publishedAtLabel": "Jan 20"
+    },
+    {
+      "id": 26935,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "RPN",
+      "title": "RADYO RONDA MINDANAO NEWS (SURIGAO): SURIGAO CITY NAGSUGOD NA SA \u201cLIGTAS TIGDAS\u201d 2026 MEASLES-RUBELLA CAMPAIGN",
+      "description": "Surigao: Surigao City, nagsugod na sa \u201cLigtas Tigdas\u201d 2026 Measles-Rubella campaign. Sa ulat ni Myra Pe\u00f1aranda ng DXKS Surigao. Panuorin ang buong ulat: https://www.youtube.com/live/I6YTfwb_Uk0?si=Epfn0cE_RTPBgUN4&t=944",
+      "url": "https://rpnradio.com/radyo-ronda-mindanao-news-surigao-surigao-city-nagsugod-na-sa-ligtas-tigdas-2026-measles-rubella-campaign/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2026/01/Messenger_creation_1F914390-BBD2-4F6E-A487-8B3B00AB23C6.jpeg",
+      "publishedAt": "2026-01-19 23:43:34",
+      "content": "\u00a9 2022 Radio Philippines Network, Inc. All Rights Reserved.",
+      "retrievedAt": "2026-01-21 07:13:48.262057",
+      "internal_id": "a771da26d87c63bfb70a674b268d71b40e4bef11aa4b05a7128c4d0347ad84d6",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26933,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Measles outbreak reaches a major South Carolina college campus",
+      "description": "Measles outbreak reaches Clemson University as South Carolina reports 558 confirmed cases. Student isolated as health officials conduct contact tracing.",
+      "url": "https://www.foxnews.com/health/measles-outbreak-reaches-major-south-carolina-college-campus",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/college-students-walking.jpg",
+      "publishedAt": "2026-01-19 22:51:55",
+      "content": "The South Carolina measles outbreak has spread to Clemson University. The state's Department of Public Health informed Clemson staff of a \"confirmed case of measles\" in an individual associated with\u2026 [+2975 chars]",
+      "retrievedAt": "2026-01-21 07:13:48.175104",
+      "internal_id": "135543022a5189fa44ca50303476602f561735e9aee5ed089c2e66f1f62a0911",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26934,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Greaterbelize.com",
+      "author": "Zenaida Lanza",
+      "title": "Health Ministry Urges Vaccination as Measles Nears Border",
+      "description": "The Ministry of Health and Wellness is urging the public to check their vaccination status after neighbouring Guatemala confirmed 12 measles cases, including in departments bordering Belize.",
+      "url": "https://www.greaterbelize.com/health-ministry-urges-vaccination-as-measles-nears-border/",
+      "urlToImage": "https://www.greaterbelize.com/wp-content/uploads/2026/01/2-Grid-View-2026-01-19T163154.638.jpg",
+      "publishedAt": "2026-01-19 22:37:00",
+      "content": "The Ministry of Health and Wellness is urging the public to check their vaccination status after neighbouring Guatemala confirmed 12 measles cases, including in departments bordering Belize. Dr. Nat\u2026 [+1846 chars]",
+      "retrievedAt": "2026-01-21 07:13:48.226352",
+      "internal_id": "6dbfbf8101e60e8dc9ecefbe84a50652b28ca77b97247a69f076d001a764d363",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26942,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Mary Kekatos",
+      "title": "More than half of mpox patients in 2022 outbreak experienced lasting physical effects: Study",
+      "description": "More than half of mpox patients in 2022 outbreak experienced lasting physical effects: Studygo.com",
+      "url": "https://abcnews.go.com/Health/half-mpox-patients-2022-outbreak-experienced-lasting-physical/story?id=129343923",
+      "urlToImage": "https://i.abcnewsfe.com/a/bb32df87-84ff-4675-8742-66544e95a18d/mpox-virus-gty-jef-260119_1768837734052_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-01-19 22:07:51",
+      "content": "Many patients who contracted mpox during the 2022 outbreak experienced physical effects more than a year later, a new study published on Monday finds. Researchers from the Centers for Disease Contro\u2026 [+4284 chars]",
+      "retrievedAt": "2026-01-21 07:13:51.204143",
+      "internal_id": "e79fc773be3b05696bfb60cfd1af05167fa0bccbbaa27f7e6908642c10759171",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26929,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "International Business Times",
+      "author": "Chris John",
+      "title": "Measles Reaches Clemson University as South Carolina Outbreak Explodes to 558 Cases, Worst in Nation",
+      "description": "Clemson University confirms measles case as South Carolina outbreak explodes to 558 cases, worst in US. Nearly 98% of students vaccinated, but case emerges from Spartanburg County epidemic that doubled in one week. Contact tracing underway, 531 in quarantine \u2026",
+      "url": "https://www.ibtimes.com/measles-reaches-clemson-university-south-carolina-outbreak-explodes-558-cases-worst-nation-3795684",
+      "urlToImage": "https://d.ibtimes.com/en/full/4640961/view-outside-clemson-memorial-stadium-campus.jpg",
+      "publishedAt": "2026-01-19 20:39:23",
+      "content": "Clemson University confirmed Saturday that an individual affiliated with the institution has tested positive for measles, marking the outbreak's arrival on a major college campus as South Carolina gr\u2026 [+12584 chars]",
+      "retrievedAt": "2026-01-21 07:13:48.084024",
+      "internal_id": "edeb1fe36ca7f1b7bad33d0d3cfe212644940fe8f7ce29f5868bbf109ce94c1d",
+      "publishedAtLabel": "Jan 19"
+    },
+    {
+      "id": 26930,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Scott Lemieux",
+      "title": "Measles for nothing and whooping cough for free",
+      "description": "Bill Cassidy cast a decisive vote for RFK Jr. to bring his anti-vaccine lunacy to the Department of Health and Human Services, despite being a medical professional who continues to deplore RFK\u2019s views on the issue that has defined the career of America\u2019s seco\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/01/measles-for-nothing-and-whooping-cough-for-free",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2025/09/rfk-mcd-1024x599.png",
+      "publishedAt": "2026-01-19 20:38:31",
+      "content": "Bill Cassidy cast a decisive vote for RFK Jr. to bring his anti-vaccine lunacy to the Department of Health and Human Services, despite being a medical professional who continues to deplore RFK\u2019s view\u2026 [+2009 chars]",
+      "retrievedAt": "2026-01-21 07:13:48.094671",
+      "internal_id": "29349309a698d07617f52a82f49f53ff4eda08fff5d0444fb29ade79819f6890",
+      "publishedAtLabel": "Jan 19"
+    },
     {
       "id": 26913,
       "query": [
@@ -14804,6 +15092,132 @@
       "content": ", (\u00ab \u00bb) . Communications Earth &amp; Environment, XIV . ( ), . - . , (, ) , , . , Yersinia pestis ( ). . , , \u00ab \u00bb. , 1345, 1346 1347 . . , \u2014 \u2014 , . . , , , . , , , . , ( ), . , , , . , . \u2026 [+29 chars]",
       "retrievedAt": "2025-12-09 07:09:15.647268",
       "internal_id": "56d1b73643ed6478ab2b79237f87ccbcaa9e5abcbbc20d74420af3d2811b0960",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26104,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Beatriz Campos",
+      "title": "Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos",
+      "description": "Em Campo Grande, a libera\u00e7\u00e3o de mosquitos com Wolbachia resulta em queda nos casos de dengue, estrat\u00e9gia deve ser aplicada em outras cidades O post Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/06/aedes-aegypti-scaled.jpg",
+      "publishedAt": "2025-12-07 19:03:41",
+      "content": "Siga o Olhar Digital no Google Discover Um estudo recente revela um avan\u00e7o significativo no combate \u00e0 dengue em Campo Grande, Mato Grosso do Sul. A libera\u00e7\u00e3o controlada de mosquitos Aedes aegypti po\u2026 [+2182 chars]",
+      "retrievedAt": "2025-12-08 19:06:19.770794",
+      "internal_id": "cbfc1a9439dc2cbb9344ac177eca86ed30735dcfad317250a66829174c3e39f0",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26107,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
+      "title": "\u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u061b \u062c\u0631\u0642\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0622\u062a\u0634 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u0631\u0627 \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u0634\u0639\u0644\u0647\u200c\u0648\u0631 \u06a9\u0631\u062f",
+      "description": "\u06cc\u06a9 \u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u06cc \u0645\u0647\u06cc\u0628 \u062f\u0631 \u0642\u0631\u0646 \u0686\u0647\u0627\u0631\u062f\u0647\u0645\u060c \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0622\u063a\u0627\u0632\u06af\u0631 \u0632\u0646\u062c\u06cc\u0631\u0647\u200c\u0627\u06cc \u0641\u0627\u062c\u0639\u0647\u200c\u0628\u0627\u0631 \u0628\u0648\u062f\u0647 \u0628\u0627\u0634\u062f \u06a9\u0647 \u0628\u0647 \u0634\u06cc\u0648\u0639 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u062e\u062a\u0645 \u0634\u062f.",
+      "url": "https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/",
+      "urlToImage": "https://api2.zoomit.ir/media/bubonic-plague-europe-6933fdd32017c0b719e18327",
+      "publishedAt": "2025-12-07 19:00:00",
+      "content": "\u00ab \u00bb . (Yersinia pestis) . . . \u00ab \u00bb . . . . . . : . . . . . . Communications Earth &amp; Environment .",
+      "retrievedAt": "2025-12-08 19:06:22.333717",
+      "internal_id": "01bbf47cd05fb707d895cbf04b207421fcc3e6a107c8009681e5864c570884a0",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26103,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Redazione Salute",
+      "title": "Aviaria H5N5? Pregliasco: Punta dell\u2019iceberg, non abbassare la guardia\u201d. Terregino: \u201cNon \u00e8 pi\u00f9 aggressivo di H5N1\u201d",
+      "description": "La notizia del decesso negli Usa di un paziente \u2013 con patologie pregresse \u2013 morto dopo essere stato colpito dal ceppo H5N5 dell\u2019influenza aviaria \u2013 viene accolta in modo diverso dagli scienziati. Secondo Fabrizio Pregliasco, direttore della Scuola di speciali\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/07/09/pregliasco.jpg",
+      "publishedAt": "2025-12-07 15:34:12",
+      "content": "Roma, 7 dic. (Adnkronos) - \u00c8 stata ufficialmente inaugurata oggi larea dedicata alle Regione Marche allinterno del padiglione 3 di Artigiano in Fiera, il pi\u00f9 importante evento al mondo dedicato agli \u2026 [+4255 chars]",
+      "retrievedAt": "2025-12-08 19:06:19.497161",
+      "internal_id": "cfc8f99eadfe1dbe1e45a95102abff8ec8cf341dc00ead0ea72d506a9b0ac15f",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26102,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard",
+      "description": "Hadassah and Rambam medical centers report an unusual overload in pediatric ICUs as influenza and measles surge, with several infants in critical condition requiring ventilators and ECMO support.",
+      "url": "https://www.israelnationalnews.com/news/418944",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1145927.jpg",
+      "publishedAt": "2025-12-07 13:56:00",
+      "content": "The Hadassah and Rambam medical centers are reporting an unusual overload in their pediatric intensive care units due to the spread of winter illnesses, especially influenza and measles. Hadassah Ei\u2026 [+1005 chars]",
+      "retrievedAt": "2025-12-08 19:06:18.930761",
+      "internal_id": "84c99a49227b6d89829bc3de6c301d8d33481ad0f7efc62964f71de9a9a12776",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26101,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "John Johnson with Newser.AI",
+      "title": "In Rarity, Organ Recipient Dies of Rabies From Donor",
+      "description": "A Michigan man who received what was supposed to be a life-saving kidney ended up dying soon after the transplant\u2014because the donor had rabies. The CDC pieced the puzzle together only after the fact because organ donors are not typically screened for the dise\u2026",
+      "url": "https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1651023-12-20251207052102.jpeg",
+      "publishedAt": "2025-12-07 11:21:00",
+      "content": "The unusual chain of events began when the organ donor was scratched by a skunk on his property in Idaho and died five days later of what at the time was thought to be a heart attack. However, the CD\u2026 [+598 chars]",
+      "retrievedAt": "2025-12-08 19:06:18.508943",
+      "internal_id": "9641853068868d726eae46709ccf27acca2a1fb656ea7b7596bd66a8a1acea50",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26106,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Silke H\u00fcmmer",
+      "title": "RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus",
+      "description": "Hohes Fieber, heftige Kopf- und Gliederschmerzen \u2013 die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm.",
+      "url": "https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf",
+      "urlToImage": "https://images.bild.de/69353941c0de97910a89cbaf/1c41e6e9b8ac59b6e8396097ae895f95,a77f91ff?w=1280",
+      "publishedAt": "2025-12-07 09:28:07",
+      "content": "TTS-Player \u00fcberspringenArtikel weiterlesenHohes Fieber, heftige Kopf- und Gliederschmerzen die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm. Jetzt sorgt ein gr\u00f6\u00dferer Ausbr\u2026 [+2394 chars]",
+      "retrievedAt": "2025-12-08 19:06:21.319703",
+      "internal_id": "2cc8792ae1c1f19320e0d0e992ac69b782cf6b271c23bb4572834809c86aa79b",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26105,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Auf Kuba breitet sich das Chikungunya-Fieber stark aus",
+      "description": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein.",
+      "url": "https://www.diepresse.com/20384239/auf-kuba-breitet-sich-das-chikungunya-fieber-stark-aus",
+      "urlToImage": "https://img.diepresse.com/public/incoming/syou3g-2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG/alternates/DPR_SOCIAL_NACHRICHTEN/2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG",
+      "publishedAt": "2025-12-07 08:14:48",
+      "content": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein. Auf Kuba gibt es derzeit einen gr\u00f6\u00dferen Ausbruch des Chikungunya-Fiebers. Nachdem in den verg\u2026 [+1119 chars]",
+      "retrievedAt": "2025-12-08 19:06:21.310387",
+      "internal_id": "d4b7a4a849e2960bfff939617ac679b80b86b9e66fe1a8016df5ceac00d97f82",
       "publishedAtLabel": "Dec 7"
     }
   ]
