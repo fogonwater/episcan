@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-01-22 19:10
-- **Most recent article:** 2026-01-21 17:31:09
+- **New articles in last harvest:** 12
+- **Last harvest:** 2026-01-23 07:11
+- **Most recent article:** 2026-01-22 04:30:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 44 | 38 | 31 | 35 | 26 | 47 | 63 | 54 | 338 |
-| dengue | 33 | 26 | 11 | 4 | 1 | 12 | 22 | 18 | 127 |
-| rabies | 20 | 11 | 20 | 8 | 6 | 10 | 10 | 7 | 92 |
-| malaria | 17 | 19 | 12 | 5 | 0 | 13 | 8 | 2 | 76 |
-| mpox | 28 | 9 | 5 | 0 | 1 | 14 | 9 | 7 | 73 |
-| h5n1 | 9 | 15 | 10 | 2 | 1 | 12 | 8 | 10 | 67 |
+| measles | 45 | 38 | 31 | 35 | 26 | 47 | 63 | 61 | 346 |
+| dengue | 34 | 26 | 11 | 4 | 1 | 12 | 22 | 20 | 130 |
+| rabies | 21 | 11 | 20 | 8 | 6 | 10 | 10 | 7 | 93 |
+| malaria | 17 | 19 | 12 | 5 | 0 | 13 | 8 | 3 | 77 |
+| mpox | 28 | 9 | 5 | 0 | 1 | 14 | 9 | 8 | 74 |
+| h5n1 | 10 | 15 | 10 | 2 | 1 | 12 | 8 | 10 | 68 |
 | meningitis | 3 | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 47 |
-| chikungunya | 11 | 2 | 7 | 3 | 0 | 3 | 1 | 4 | 31 |
-| zika | 6 | 2 | 3 | 2 | 0 | 4 | 6 | 1 | 24 |
-| yersinia | 3 | 5 | 1 | 2 | 0 | 1 | 4 | 1 | 17 |
+| chikungunya | 13 | 2 | 7 | 3 | 0 | 3 | 1 | 4 | 33 |
+| zika | 6 | 2 | 3 | 2 | 0 | 4 | 6 | 2 | 25 |
+| yersinia | 4 | 5 | 1 | 2 | 0 | 1 | 4 | 1 | 18 |
+| hpai | 5 | 1 | 2 | 0 | 0 | 2 | 3 | 3 | 16 |
 | leptospirosis | 0 | 1 | 2 | 4 | 4 | 2 | 1 | 2 | 16 |
-| hpai | 5 | 1 | 2 | 0 | 0 | 2 | 3 | 2 | 15 |
 | typhoid | 1 | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 12 |
 | pertussis | 2 | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 6 |
 
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-4 (zika)
+
+- [¿Por qué los mosquitos prefieren cada vez más la sangre humana?](https://www.nacion.com/ciencia/por-que-los-mosquitos-prefieren-cada-vez-mas-la/BQP4QR2GDVAUZLC7CATKJJGG5U/story/) (Nacion.com)
 
 - [Qué es la osteomielitis púbica que sufre Salvador Illa: un rarísimo trastorno causado por una infección bacteriana](https://www.elespanol.com/ciencia/20260119/neurologia-salvador_illa_roca-espana-ciencia/1003744095511_0.html) (Elespanol.com)
 
@@ -68,6 +70,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (mpox)
 
+- [México confirma primer caso de viruela símica en paciente alemán](https://www.milenio.com/ciencia-y-salud/mexico-confirma-caso-viruela-simica-paciente-aleman) (Milenio)
+
 - [Genetic analysis links Kerala's 2024 mpox outbreak to international travel](https://economictimes.indiatimes.com/news/india/genetic-analysis-links-keralas-2024-mpox-outbreak-to-international-travel/articleshow/126959518.cms) (The Times of India)
 
 - [Выявлена продолжающаяся мутация вируса оспы обезьян](https://news.mail.ru/society/69501779/) (Mail.ru)
@@ -89,6 +93,20 @@ Source: [News API](https://newsapi.org/)
 - [Australian cricket great Damien Martyn says he was given 50/50 chance of living after meningitis scare](https://www.nzherald.co.nz/sport/cricket/australian-cricket-great-damien-martyn-says-he-was-given-5050-chance-of-living-after-meningitis-scare/YC56YZ5AVJAE3BIB6UH54ICKL4/) (New Zealand Herald)
 
 ## 26-4 (measles)
+
+- [The Measles Outbreak In South Carolina Is Spiraling Out Of Control](https://www.techdirt.com/2026/01/21/the-measles-outbreak-in-south-carolina-is-spiraling-out-of-control/) (Techdirt)
+
+- [Loss of measles-free status would be "cost of doing business," new CDC deputy says](https://www.cbsnews.com/news/measles-elimination-rfk-jr-cdc-deputy-downplays/) (CBS News)
+
+- [Measles-rubella: Red Cross trains 526 officers, 4,800 volunteers in Lagos](https://punchng.com/measles-rubella-red-cross-trains-526-officers-4800-volunteers-in-lagos/) (The Punch)
+
+- [The U.S. Is Poised To Lose Its Measles Elimination Status. Even The Trump Admin Seems To Know That’s A Problem.](https://www.huffpost.com/entry/us-lose-measles-elimination-status_n_69713eb7e4b0dfed7798240c) (HuffPost)
+
+- [RFK Jr. Must Be So Proud: South Carolina Racks Up 646 Measles Cases In Latest Outbreak (Robyn Pennacchia/Wonkette)](https://www.memeorandum.com/260121/p112) (Memeorandum.com)
+
+- [South Carolina Measles Outbreak is Epicenter of Nationwide Case Surge](https://legalinsurrection.com/2026/01/south-carolina-measles-outbreak-is-epicenter-of-nationwide-case-surge/) (Legalinsurrection.com)
+
+- [HHS Sec. Kennedy – MMGA](https://www.lawyersgunsmoneyblog.com/2026/01/hhs-sec-kennedy-mmga) (Lawyersgunsmoneyblog.com)
 
 - [RFK Jr. Must Be So Proud: South Carolina Racks Up 646 Measles Cases In Latest Outbreak](https://www.wonkette.com/p/rfk-jr-must-be-so-proud-south-carolina) (Wonkette.com)
 
@@ -200,6 +218,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (malaria)
 
+- [A common DNA deletion altering the 3’UTR of mdr1 is associated with reduced mefloquine susceptibility in P. vivax parasites from Cambodian patients](https://www.nature.com/articles/s41467-026-68456-7) (Nature.com)
+
 - [Meeting malaria where it lives](https://ysph.yale.edu/news-article/meeting-malaria-where-it-lives/) (Yale.edu)
 
 - [The impact of Trump's foreign aid cuts, one year on](https://economictimes.indiatimes.com/news/international/world-news/the-impact-of-trumps-foreign-aid-cuts-one-year-on/articleshow/126753147.cms) (The Times of India)
@@ -211,6 +231,8 @@ Source: [News API](https://newsapi.org/)
 - [Do possums carry leptospirosis?](https://www.lifesciencesworld.com/do-possums-carry-leptospirosis/) (Lifesciencesworld.com)
 
 ## 26-4 (hpai)
+
+- [日本HP、企業・組織のローカルAIの活用・普及を牽引する「HP ハイブリッドAI推進コミッティ」を設立](https://prtimes.jp/main/html/rd/p/000000133.000068112.html) (Prtimes.jp)
 
 - ['작전명 수탉', 닭들을 구하라](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003200303) (Ohmynews.com)
 
@@ -239,6 +261,10 @@ Source: [News API](https://newsapi.org/)
 - [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
 
 ## 26-4 (dengue)
+
+- [¿Por qué los mosquitos prefieren cada vez más la sangre humana?](https://www.nacion.com/ciencia/por-que-los-mosquitos-prefieren-cada-vez-mas-la/BQP4QR2GDVAUZLC7CATKJJGG5U/story/) (Nacion.com)
+
+- [Carín León es diagnosticado con dengue: Pospone conciertos en Feria de León 2026](https://www.elfinanciero.com.mx/entretenimiento/2026/01/21/carin-leon-es-diagnosticado-con-dengue-pospone-conciertos-en-feria-de-leon-2026/) (El Financiero)
 
 - [Measuring real-time disease transmissibility with temperature-dependent generation intervals](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013820) (Plos.org)
 
@@ -1742,6 +1768,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Извержение вулкана в 1345 году положило начало череде событий, которые привели к эпидемии Черной смерти, охватившей средневековую Европу](https://www.ixbt.com/live/science/izverzhenie-vulkana-v-1345-godu-polozhilo-nachalo-cherede-sobytiy-kotorye-priveli-k-epidemii-chernoy-smerti-ohvativshey-srednevekovuyu-evropu.html) (Ixbt.com)
 
+- [فوران آتشفشان؛ جرقه‌ای که آتش «مرگ سیاه» را در اروپا شعله‌ور کرد](https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/) (Zoomit.ir)
+
 ## 25-50 (typhoid)
 
 - [I’m heading overseas. Do I really need travel vaccines?](https://theconversation.com/im-heading-overseas-do-i-really-need-travel-vaccines-269495) (The Conversation Africa)
@@ -1787,6 +1815,8 @@ Source: [News API](https://newsapi.org/)
 - [US Man Dies From Rabies After Receiving Infected Kidney](https://www.sciencealert.com/us-man-dies-from-rabies-after-receiving-infected-kidney) (ScienceAlert)
 
 - [Донор пересаженной впоследствии умершему реципиенту почки заразился бешенством от скунса](https://nplus1.ru/news/2025/12/08/rabid-transplant-details) (Nplus1.ru)
+
+- [In Rarity, Organ Recipient Dies of Rabies From Donor](https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html) (Newser)
 
 ## 25-50 (pertussis)
 
@@ -1950,6 +1980,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccine Controversies and Measles Outbreaks, Space Pollution, Puppy Power](https://www.scientificamerican.com/podcast/episode/vaccine-controversies-and-measles-outbreaks-space-pollution-puppy-power/) (Scientific American)
 
+- [ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard](https://www.israelnationalnews.com/news/418944) (Israelnationalnews.com)
+
 ## 25-50 (malaria)
 
 - [Ex-Prince Andrew appears in photo released by Jeffrey Epstein’s estate, shared by House Democrats](https://www.foxnews.com/entertainment/ex-prince-andrew-appears-photo-released-jeffrey-epsteins-estate-shared-house-democrats) (Fox News)
@@ -2017,6 +2049,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1-Ausbruch: Vogelgrippe in deutschen Katzen nachgewiesen](https://www.spektrum.de/news/vogelgrippe-h5n1-in-deutschen-katzen-was-es-nun-zu-beachten-gilt/2300005) (Spektrum.de)
 
 - [Bird flu hasn't reached Australia, but researchers are prepping for when it arrives](https://www.npr.org/2025/12/08/nx-s1-5629191/bird-flu-hasnt-reached-australia-but-researchers-are-prepping-for-when-it-arrives) (NPR)
+
+- [Aviaria H5N5? Pregliasco: Punta dell’iceberg, non abbassare la guardia”. Terregino: “Non è più aggressivo di H5N1”](https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/) (Ilfattoquotidiano.it)
 
 ## 25-50 (dengue)
 
@@ -2086,6 +2120,8 @@ Source: [News API](https://newsapi.org/)
 
 - [México reporta mil 54 nuevos casos de dengue](https://www.excelsior.com.mx/nacional/dengue-en-mexico-reportan-mil-54-nuevos-casos/1756104) (Excelsior.com.mx)
 
+- [Tecnologia anti-dengue: mosquitos com bactéria Wolbachia reduzem casos](https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/) (Olhardigital.com.br)
+
 ## 25-50 (chikungunya)
 
 - [Cuba confirma 3 nuevos muertos por la epidemia de dengue y Chikungunya; ya suman 47](https://www.milenio.com/internacional/cuba-confirma-muertos-por-la-epidemia-de-dengue-y-chikungunya) (Milenio)
@@ -2109,3 +2145,7 @@ Source: [News API](https://newsapi.org/)
 - [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
 
 - [Chikungunya : près de la moitié des habitants de La Réunion ont été contaminés en 2025](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-la-moitie-des-habitants-de-la-reunion-ont-ete-contamines-en-2025_7665814.html) (Franceinfo.fr)
+
+- [RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus](https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf) (Bild)
+
+- [Auf Kuba breitet sich das Chikungunya-Fieber stark aus](https://www.diepresse.com/20384239/auf-kuba-breitet-sich-das-chikungunya-fieber-stark-aus) (Diepresse.com)

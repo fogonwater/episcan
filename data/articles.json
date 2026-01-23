@@ -1,8 +1,225 @@
 {
-  "last_updated": "2026-01-22 19:10",
-  "count_articles_total": 897,
-  "count_articles_new": 13,
+  "last_updated": "2026-01-23 07:11",
+  "count_articles_total": 916,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 27012,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u65e5\u672cHP\u3001\u4f01\u696d\u30fb\u7d44\u7e54\u306e\u30ed\u30fc\u30ab\u30ebAI\u306e\u6d3b\u7528\u30fb\u666e\u53ca\u3092\u727d\u5f15\u3059\u308b\u300cHP \u30cf\u30a4\u30d6\u30ea\u30c3\u30c9AI\u63a8\u9032\u30b3\u30df\u30c3\u30c6\u30a3\u300d\u3092\u8a2d\u7acb",
+      "description": "[\u682a\u5f0f\u4f1a\u793e \u65e5\u672cHP] \u682a\u5f0f\u4f1a\u793e \u65e5\u672cHP\uff08\u672c\u793e\uff1a\u6771\u4eac\u90fd\u6e2f\u533a\u3001\u4ee3\u8868\u53d6\u7de0\u5f79 \u793e\u9577\u57f7\u884c\u5f79\u54e1\uff1a\u5ca1\u6238 \u4f38\u6a39\uff09\u306f\u3001\u4e3b\u8981\u306a\u30ed\u30fc\u30ab\u30ebSLM\uff08Small Language Models\uff09\u304a\u3088\u3073 LLM\uff08Large Language Models\uff09\u306e\u6d3b\u7528\u3068\u666e\u53ca\u3092\u76ee\u7684\u3068\u3057\u305f\u300cHP \u30cf\u30a4\u30d6\u30ea\u30c3\u30c9AI\u63a8...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000133.000068112.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/68112/133/68112-133-5f2647b0633e8160aa69f583bf8df5ba-400x300.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-01-22 04:30:00",
+      "content": "HP SLMSmall Language Models LLMLarge Language ModelsHP AI AIAIMicrosoft Microsoft Foundry on Windowsgpt-ossLlamaMistralSLMLLMAIAI HP20264WEEL GxP 2HPAI URLhttps://jp.ext.hp.com/business-solution/h\u2026 [+416 chars]",
+      "retrievedAt": "2026-01-23 07:11:43.155560",
+      "internal_id": "6cc39a0b0c317ebcff9983c9eed12d8bf181a404b88d5b19046d88763d378e69",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 27005,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Timothy Geigner",
+      "title": "The Measles Outbreak In South Carolina Is Spiraling Out Of Control",
+      "description": "America is broken and it seems like nobody is bothering to try to repair it. That\u2019s a general statement, to be sure, so if you need some marking point to serve as a specific example of our national malfunction, the return of measles to our country can fit the\u2026",
+      "url": "https://www.techdirt.com/2026/01/21/the-measles-outbreak-in-south-carolina-is-spiraling-out-of-control/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-01-22 04:17:03",
+      "content": "from the paging-RFK-Jr. dept America is broken and it seems like nobody is bothering to try to repair it. That\u2019s a general statement, to be sure, so if you need some marking point to serve as a spec\u2026 [+5373 chars]",
+      "retrievedAt": "2026-01-23 07:11:42.523362",
+      "internal_id": "3bd9888655b4bd1a0886ecf3f91f91037cc63ea4f86ec28323322409a2e120aa",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 27016,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez",
+      "title": "M\u00e9xico confirma primer caso de viruela s\u00edmica en paciente alem\u00e1n",
+      "description": "La Secretar\u00eda de Salud confirm\u00f3 el primer caso de viruela s\u00edmica en M\u00e9xico \u2014mpox subclado Ib\u2014 en un hombre de 50 a\u00f1os, originario de Alemania, quien viaj\u00f3 por Ciudad de M\u00e9xico, Puebla y Guerrero.El subclado Ib es una clasificaci\u00f3n gen\u00e9tica del virus de mpox o\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/mexico-confirma-caso-viruela-simica-paciente-aleman",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/10/21/incremento-ano-casos-viruela-simica.jpg",
+      "publishedAt": "2026-01-22 02:30:55",
+      "content": "La Secretar\u00eda de Salud confirm\u00f3 el primer caso de viruela s\u00edmica en M\u00e9xico mpox subclado Ib en un hombre de 50 a\u00f1os, originario de Alemania, quien viaj\u00f3 por Ciudad de M\u00e9xico, Puebla y Guerrero. El \u2026 [+2894 chars]",
+      "retrievedAt": "2026-01-23 07:11:45.242001",
+      "internal_id": "ca17772f985a80e4d3e4f46fda931c16662b55edf6a37db234acfecf35f28492",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 27006,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": null,
+      "title": "Loss of measles-free status would be \"cost of doing business,\" new CDC deputy says",
+      "description": "After a year of ongoing measles outbreaks that have sickened more than 2,400 people, the United States is poised to lose its status as a measles-free country.",
+      "url": "https://www.cbsnews.com/news/measles-elimination-rfk-jr-cdc-deputy-downplays/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/22/48ff2e8b-955e-4901-afbb-3f7ba8bc55c6/thumbnail/1200x630/2bb9abe3c4d379f6264ccc9536c3e013/ap19218565695725.jpg",
+      "publishedAt": "2026-01-22 02:07:25",
+      "content": "After a year of ongoing measles outbreaks that have sickened more than 2,400 people, the United States is poised to lose its status as a measles-free country. However, the newly appointed principal d\u2026 [+5469 chars]",
+      "retrievedAt": "2026-01-23 07:11:42.551349",
+      "internal_id": "77605a33cc991ca2860989796cba013757b81ff423934cf4047bd16792dd4595",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 27009,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Measles-rubella: Red Cross trains 526 officers, 4,800 volunteers in Lagos",
+      "description": "The Nigerian Red Cross is training thousands of officers and volunteers for a measles-rubella vaccination campaign in Lagos to raise awareness and combat t Read More: https://punchng.com/measles-rubella-red-cross-trains-526-officers-4800-volunteers-in-lagos/",
+      "url": "https://punchng.com/measles-rubella-red-cross-trains-526-officers-4800-volunteers-in-lagos/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/08/26195339/Nigerian-red-cross-1200x630.png",
+      "publishedAt": "2026-01-22 00:22:24",
+      "content": "The Lagos State Branch of the Nigerian Red Cross Society has commenced the training of officers and supervisors ahead of the forthcoming measles-rubella vaccination campaign in the state. The Branch\u2026 [+4457 chars]",
+      "retrievedAt": "2026-01-23 07:11:42.714478",
+      "internal_id": "06b3b19f0c1f98efcbd01c61efa70fe11fdd32d3ecdfa1a0f2aca78ebab7123f",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 27015,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Katie Ko, Kieran Tebben, Tsarasoa Andrianinarivomanana, Agnes Orban, Janne Gr\u00fcnebast, Virak Eng, Rotha Eam, Nimol Khim, Lionel Brice Feufack-Donfack, Jeremy Salvador, Juliana M. Sa, Thomas E. Wellems, Dysoley Lek, Jean Popovici, David Serre",
+      "title": "A common DNA deletion altering the 3\u2019UTR of mdr1 is associated with reduced mefloquine susceptibility in P. vivax parasites from Cambodian patients",
+      "description": "Plasmodium vivax is responsible for most malaria cases outside Africa and drug resistance is a concern. The authors use genomic approaches to identify a deletion near the MDR1 gene that affects its expression and is associated with lower mefloquine susceptibi\u2026",
+      "url": "https://www.nature.com/articles/s41467-026-68456-7",
+      "urlToImage": null,
+      "publishedAt": "2026-01-22 00:00:00",
+      "content": "WHO. World Malaria Report 2024. (World Health Organization, Geneva, Switzerland, 2024). Chu, C. S. &amp; White, N. J. The prevention and treatment of Plasmodium vivax malaria. PLoS Med1\u2026 [+8008 chars]",
+      "retrievedAt": "2026-01-23 07:11:44.331171",
+      "internal_id": "2945f3111f6067971b3f0c786633ddf5074b5277ed22200e946f6889d41afe5e",
+      "publishedAtLabel": "Jan 22"
+    },
+    {
+      "id": 27014,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "O Globo",
+      "title": "\u00bfPor qu\u00e9 los mosquitos prefieren cada vez m\u00e1s la sangre humana?",
+      "description": "Un estudio brasile\u00f1o revel\u00f3 que la p\u00e9rdida de biodiversidad llev\u00f3 a los mosquitos a alimentarse m\u00e1s de sangre humana, lo que incrementa el riesgo de enfermedades como dengue y zika.",
+      "url": "https://www.nacion.com/ciencia/por-que-los-mosquitos-prefieren-cada-vez-mas-la/BQP4QR2GDVAUZLC7CATKJJGG5U/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/KRONKF27BBEXTLZ6I2KZV5N5I4.png?smart=true&auth=1a819c8fc2a7ecbf288a7b5a208956389936606bf408ba705c61d27d7bb2c641&width=1440",
+      "publishedAt": "2026-01-21 23:20:00",
+      "content": "La preferencia de los mosquitos por la sangre humana aument\u00f3 como consecuencia de la p\u00e9rdida de biodiversidad en ecosistemas naturales. As\u00ed lo determin\u00f3 un estudio realizado en Brasil que alert\u00f3 sobr\u2026 [+2984 chars]",
+      "retrievedAt": "2026-01-23 07:11:43.731428",
+      "internal_id": "7ad3925909d9553f5004cad30b7b9f1b51a5716c221ac3d40679cc39970355c5",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 27011,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "HuffPost",
+      "title": "The U.S. Is Poised To Lose Its Measles Elimination Status. Even The Trump Admin Seems To Know That\u2019s A Problem.",
+      "description": "Curbing transmission of the deadly disease will be particularly challenging with vaccine skeptics in charge of public health, experts say.",
+      "url": "https://www.huffpost.com/entry/us-lose-measles-elimination-status_n_69713eb7e4b0dfed7798240c",
+      "urlToImage": "https://img.huffingtonpost.com/asset/69713f4f140000fd1a64cbc3.jpeg?ops=1200_630",
+      "publishedAt": "2026-01-21 22:33:34",
+      "content": "The Trump administration appears to be planning to fight to keep its measles elimination status, even as it increasingly spreads misinformation and skepticism about life-saving vaccines. To lose it\u2026 [+6971 chars]",
+      "retrievedAt": "2026-01-23 07:11:42.749776",
+      "internal_id": "991895a29b0455947746bab5caf78ef97f9197d3c17adcc6b93c7e87c6274597",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 27010,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "RFK Jr. Must Be So Proud: South Carolina Racks Up 646 Measles Cases In Latest Outbreak (Robyn Pennacchia/Wonkette)",
+      "description": "Robyn Pennacchia / Wonkette: RFK Jr. Must Be So Proud: South Carolina Racks Up 646 Measles Cases In Latest Outbreak \u2014 Clearly this is all going according to plan. \u2014 On Tuesday, USA Today published a new mini-documentary in its Extremely Normal series \u2014 wh\u2026",
+      "url": "https://www.memeorandum.com/260121/p112",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!nNQq!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66ba275e-54a7-49f1-a805-0edbf5576bf7_817x521.jpeg",
+      "publishedAt": "2026-01-21 21:00:27",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-01-23 07:11:42.723537",
+      "internal_id": "85ea6fd549028464299494f5de4e90bf30b2906a940ee62fc7aef7bc5b5c6482",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 27013,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "El Financiero",
+      "author": "Redacci\u00f3n",
+      "title": "Car\u00edn Le\u00f3n es diagnosticado con dengue: Pospone conciertos en Feria de Le\u00f3n 2026",
+      "description": "Las presentaciones de Car\u00edn Le\u00f3n en el Palenque de la Feria de Le\u00f3n se reprogramaron para febrero tras el diagn\u00f3stico de dengue, una enfermedad viral transmitida por mosquitos.",
+      "url": "https://www.elfinanciero.com.mx/entretenimiento/2026/01/21/carin-leon-es-diagnosticado-con-dengue-pospone-conciertos-en-feria-de-leon-2026/",
+      "urlToImage": "https://www.elfinanciero.com.mx/resizer/v2/HFGMKC4U6RFYPAST6ASEKJ23NA.jpg?smart=true&auth=eeeb73b602b3230c6bb587d034c339092e7b4faa5fec282a1adddc8e254b7344&width=1200&height=630",
+      "publishedAt": "2026-01-21 20:23:14",
+      "content": "Car\u00edn Le\u00f3n, int\u00e9rprete de La boda del Huitlacoche, fue diagnosticado con dengue, lo que oblig\u00f3 a su equipo de trabajo a posponer sus conciertos previstos para la Feria de Le\u00f3n 2026. El Management d\u2026 [+3615 chars]",
+      "retrievedAt": "2026-01-23 07:11:43.672079",
+      "internal_id": "6f649ed01b7e2be84dc6111c9cda97ecdd8713edaeced27f614a7ebd9ed6a902",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 27008,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Leslie Eastman",
+      "title": "South Carolina Measles Outbreak is Epicenter of Nationwide Case Surge",
+      "description": "Clusters of cases are also reported in Arizona, Florida, Georgia, North Carolina, Ohio, Oregon, South Carolina, Utah and Virginia. The post South Carolina Measles Outbreak is Epicenter of Nationwide Case Surge first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2026/01/south-carolina-measles-outbreak-is-epicenter-of-nationwide-case-surge/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2025/05/Measles.jpg",
+      "publishedAt": "2026-01-21 20:00:50",
+      "content": "The last time our team reviewed measles cases in the U.S., Mary Chastain noted that 2025 saw over 2000 cases, and two of those were detected at airports. Measles cases in the U.S. continue to rise t\u2026 [+4061 chars]",
+      "retrievedAt": "2026-01-23 07:11:42.696058",
+      "internal_id": "7cc38f2599a3af45ebee9f9e087ca93a6635f9e197d02da12b938b199f5fd824",
+      "publishedAtLabel": "Jan 21"
+    },
+    {
+      "id": 27007,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Shakezula",
+      "title": "HHS Sec. Kennedy \u2013 MMGA",
+      "description": "Let\u2019s check on the Robert Failson Kennedy Jr. Memorial Measles Outbreak. Two South Carolina colleges have confirmed cases of measles on their respective campuses, FOX Carolina reports. South Carolina is up to 646 cases of measles as of Tuesday. I think the ch\u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/01/hhs-sec-kennedy-mmga",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/01/image-15.png",
+      "publishedAt": "2026-01-21 19:44:00",
+      "content": "CDC https://www.cdc.gov/measles/data-research/index.html Let\u2019s check on the Robert Failson Kennedy Jr. Memorial Measles Outbreak. Two South Carolina colleges have confirmed cases of measles on thei\u2026 [+1547 chars]",
+      "retrievedAt": "2026-01-23 07:11:42.611324",
+      "internal_id": "29efba85b7ab2771ba648860a7abbd2e49ae58f2c615ffcd9345555b25aaa47c",
+      "publishedAtLabel": "Jan 21"
+    },
     {
       "id": 26997,
       "query": [
@@ -16191,6 +16408,132 @@
       "content": ", (\u00ab \u00bb) . Communications Earth &amp; Environment, XIV . ( ), . - . , (, ) , , . , Yersinia pestis ( ). . , , \u00ab \u00bb. , 1345, 1346 1347 . . , \u2014 \u2014 , . . , , , . , , , . , ( ), . , , , . , . \u2026 [+29 chars]",
       "retrievedAt": "2025-12-09 07:09:15.647268",
       "internal_id": "56d1b73643ed6478ab2b79237f87ccbcaa9e5abcbbc20d74420af3d2811b0960",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26104,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Beatriz Campos",
+      "title": "Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos",
+      "description": "Em Campo Grande, a libera\u00e7\u00e3o de mosquitos com Wolbachia resulta em queda nos casos de dengue, estrat\u00e9gia deve ser aplicada em outras cidades O post Tecnologia anti-dengue: mosquitos com bact\u00e9ria Wolbachia reduzem casos apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/06/aedes-aegypti-scaled.jpg",
+      "publishedAt": "2025-12-07 19:03:41",
+      "content": "Siga o Olhar Digital no Google Discover Um estudo recente revela um avan\u00e7o significativo no combate \u00e0 dengue em Campo Grande, Mato Grosso do Sul. A libera\u00e7\u00e3o controlada de mosquitos Aedes aegypti po\u2026 [+2182 chars]",
+      "retrievedAt": "2025-12-08 19:06:19.770794",
+      "internal_id": "cbfc1a9439dc2cbb9344ac177eca86ed30735dcfad317250a66829174c3e39f0",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26107,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
+      "title": "\u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u061b \u062c\u0631\u0642\u0647\u200c\u0627\u06cc \u06a9\u0647 \u0622\u062a\u0634 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u0631\u0627 \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u0634\u0639\u0644\u0647\u200c\u0648\u0631 \u06a9\u0631\u062f",
+      "description": "\u06cc\u06a9 \u0641\u0648\u0631\u0627\u0646 \u0622\u062a\u0634\u0641\u0634\u0627\u0646\u06cc \u0645\u0647\u06cc\u0628 \u062f\u0631 \u0642\u0631\u0646 \u0686\u0647\u0627\u0631\u062f\u0647\u0645\u060c \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0622\u063a\u0627\u0632\u06af\u0631 \u0632\u0646\u062c\u06cc\u0631\u0647\u200c\u0627\u06cc \u0641\u0627\u062c\u0639\u0647\u200c\u0628\u0627\u0631 \u0628\u0648\u062f\u0647 \u0628\u0627\u0634\u062f \u06a9\u0647 \u0628\u0647 \u0634\u06cc\u0648\u0639 \u00ab\u0645\u0631\u06af \u0633\u06cc\u0627\u0647\u00bb \u062f\u0631 \u0627\u0631\u0648\u067e\u0627 \u062e\u062a\u0645 \u0634\u062f.",
+      "url": "https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/",
+      "urlToImage": "https://api2.zoomit.ir/media/bubonic-plague-europe-6933fdd32017c0b719e18327",
+      "publishedAt": "2025-12-07 19:00:00",
+      "content": "\u00ab \u00bb . (Yersinia pestis) . . . \u00ab \u00bb . . . . . . : . . . . . . Communications Earth &amp; Environment .",
+      "retrievedAt": "2025-12-08 19:06:22.333717",
+      "internal_id": "01bbf47cd05fb707d895cbf04b207421fcc3e6a107c8009681e5864c570884a0",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26103,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "Redazione Salute",
+      "title": "Aviaria H5N5? Pregliasco: Punta dell\u2019iceberg, non abbassare la guardia\u201d. Terregino: \u201cNon \u00e8 pi\u00f9 aggressivo di H5N1\u201d",
+      "description": "La notizia del decesso negli Usa di un paziente \u2013 con patologie pregresse \u2013 morto dopo essere stato colpito dal ceppo H5N5 dell\u2019influenza aviaria \u2013 viene accolta in modo diverso dagli scienziati. Secondo Fabrizio Pregliasco, direttore della Scuola di speciali\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2021/07/09/pregliasco.jpg",
+      "publishedAt": "2025-12-07 15:34:12",
+      "content": "Roma, 7 dic. (Adnkronos) - \u00c8 stata ufficialmente inaugurata oggi larea dedicata alle Regione Marche allinterno del padiglione 3 di Artigiano in Fiera, il pi\u00f9 importante evento al mondo dedicato agli \u2026 [+4255 chars]",
+      "retrievedAt": "2025-12-08 19:06:19.497161",
+      "internal_id": "cfc8f99eadfe1dbe1e45a95102abff8ec8cf341dc00ead0ea72d506a9b0ac15f",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26102,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard",
+      "description": "Hadassah and Rambam medical centers report an unusual overload in pediatric ICUs as influenza and measles surge, with several infants in critical condition requiring ventilators and ECMO support.",
+      "url": "https://www.israelnationalnews.com/news/418944",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1145927.jpg",
+      "publishedAt": "2025-12-07 13:56:00",
+      "content": "The Hadassah and Rambam medical centers are reporting an unusual overload in their pediatric intensive care units due to the spread of winter illnesses, especially influenza and measles. Hadassah Ei\u2026 [+1005 chars]",
+      "retrievedAt": "2025-12-08 19:06:18.930761",
+      "internal_id": "84c99a49227b6d89829bc3de6c301d8d33481ad0f7efc62964f71de9a9a12776",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26101,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "John Johnson with Newser.AI",
+      "title": "In Rarity, Organ Recipient Dies of Rabies From Donor",
+      "description": "A Michigan man who received what was supposed to be a life-saving kidney ended up dying soon after the transplant\u2014because the donor had rabies. The CDC pieced the puzzle together only after the fact because organ donors are not typically screened for the dise\u2026",
+      "url": "https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1651023-12-20251207052102.jpeg",
+      "publishedAt": "2025-12-07 11:21:00",
+      "content": "The unusual chain of events began when the organ donor was scratched by a skunk on his property in Idaho and died five days later of what at the time was thought to be a heart attack. However, the CD\u2026 [+598 chars]",
+      "retrievedAt": "2025-12-08 19:06:18.508943",
+      "internal_id": "9641853068868d726eae46709ccf27acca2a1fb656ea7b7596bd66a8a1acea50",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26106,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Silke H\u00fcmmer",
+      "title": "RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus",
+      "description": "Hohes Fieber, heftige Kopf- und Gliederschmerzen \u2013 die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm.",
+      "url": "https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf",
+      "urlToImage": "https://images.bild.de/69353941c0de97910a89cbaf/1c41e6e9b8ac59b6e8396097ae895f95,a77f91ff?w=1280",
+      "publishedAt": "2025-12-07 09:28:07",
+      "content": "TTS-Player \u00fcberspringenArtikel weiterlesenHohes Fieber, heftige Kopf- und Gliederschmerzen die Folgen einer Infektion mit dem Chikungunya-Virus sind \u00e4u\u00dferst unangenehm. Jetzt sorgt ein gr\u00f6\u00dferer Ausbr\u2026 [+2394 chars]",
+      "retrievedAt": "2025-12-08 19:06:21.319703",
+      "internal_id": "2cc8792ae1c1f19320e0d0e992ac69b782cf6b271c23bb4572834809c86aa79b",
+      "publishedAtLabel": "Dec 7"
+    },
+    {
+      "id": 26105,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Auf Kuba breitet sich das Chikungunya-Fieber stark aus",
+      "description": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein.",
+      "url": "https://www.diepresse.com/20384239/auf-kuba-breitet-sich-das-chikungunya-fieber-stark-aus",
+      "urlToImage": "https://img.diepresse.com/public/incoming/syou3g-2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG/alternates/DPR_SOCIAL_NACHRICHTEN/2025-12-01T203715Z_2024030839_RC2SVHAB171Y_RTRMADP_3_CUBA-HEALTH-CHIKUNGUNYA.JPG",
+      "publishedAt": "2025-12-07 08:14:48",
+      "content": "Der aktuelle Ausbruch k\u00f6nnte durch die Folgen des Hurrikans Melissa Ende Oktober beg\u00fcnstigt worden sein. Auf Kuba gibt es derzeit einen gr\u00f6\u00dferen Ausbruch des Chikungunya-Fiebers. Nachdem in den verg\u2026 [+1119 chars]",
+      "retrievedAt": "2025-12-08 19:06:21.310387",
+      "internal_id": "d4b7a4a849e2960bfff939617ac679b80b86b9e66fe1a8016df5ceac00d97f82",
       "publishedAtLabel": "Dec 7"
     }
   ]
