@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2026-01-23 07:11
-- **Most recent article:** 2026-01-22 04:30:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2026-01-23 19:11
+- **Most recent article:** 2026-01-22 19:03:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 45 | 38 | 31 | 35 | 26 | 47 | 63 | 61 | 346 |
-| dengue | 34 | 26 | 11 | 4 | 1 | 12 | 22 | 20 | 130 |
-| rabies | 21 | 11 | 20 | 8 | 6 | 10 | 10 | 7 | 93 |
-| malaria | 17 | 19 | 12 | 5 | 0 | 13 | 8 | 3 | 77 |
+| measles | 44 | 38 | 31 | 35 | 26 | 47 | 63 | 61 | 345 |
+| dengue | 33 | 26 | 11 | 4 | 1 | 12 | 22 | 22 | 131 |
+| rabies | 20 | 11 | 20 | 8 | 6 | 10 | 10 | 8 | 93 |
+| malaria | 17 | 19 | 12 | 5 | 0 | 13 | 8 | 6 | 80 |
 | mpox | 28 | 9 | 5 | 0 | 1 | 14 | 9 | 8 | 74 |
-| h5n1 | 10 | 15 | 10 | 2 | 1 | 12 | 8 | 10 | 68 |
+| h5n1 | 9 | 15 | 10 | 2 | 1 | 12 | 8 | 13 | 70 |
 | meningitis | 3 | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 47 |
-| chikungunya | 13 | 2 | 7 | 3 | 0 | 3 | 1 | 4 | 33 |
+| chikungunya | 11 | 2 | 7 | 3 | 0 | 3 | 1 | 5 | 32 |
 | zika | 6 | 2 | 3 | 2 | 0 | 4 | 6 | 2 | 25 |
-| yersinia | 4 | 5 | 1 | 2 | 0 | 1 | 4 | 1 | 18 |
+| yersinia | 3 | 5 | 1 | 2 | 0 | 1 | 4 | 1 | 17 |
 | hpai | 5 | 1 | 2 | 0 | 0 | 2 | 3 | 3 | 16 |
 | leptospirosis | 0 | 1 | 2 | 4 | 4 | 2 | 1 | 2 | 16 |
 | typhoid | 1 | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 12 |
@@ -49,6 +49,8 @@ Source: [News API](https://newsapi.org/)
 - [The Tragedy Story of Mary Mallon, aka “Typhoid Mary”](https://www.vintag.es/2026/01/mary-mallon.html) (Vintag.es)
 
 ## 26-4 (rabies)
+
+- [Почему бешенство убивает почти в 100% случаев и как им заражаются](https://hi-news.ru/eto-interesno/pochemu-beshenstvo-ubivaet-pochti-v-100-sluchaev-i-kak-im-zarazhayutsya.html) (Hi-news.ru)
 
 - [What are the chances of getting rabies from a bat in the house?](https://www.lifesciencesworld.com/what-are-the-chances-of-getting-rabies-from-a-bat-in-the-house/) (Lifesciencesworld.com)
 
@@ -218,6 +220,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (malaria)
 
+- [Malaria as an Occupational Disease](https://circulatingnow.nlm.nih.gov/2026/01/22/malaria-as-an-occupational-disease/) (National Institutes of Health)
+
+- [60 Degrees Pharmaceuticals Announces Partnership with Runway Health to Provide International Travelers Direct Access to ARAKODA® for Malaria Prevention](https://www.globenewswire.com/news-release/2026/01/22/3223708/0/en/60-Degrees-Pharmaceuticals-Announces-Partnership-with-Runway-Health-to-Provide-International-Travelers-Direct-Access-to-ARAKODA-for-Malaria-Prevention.html) (GlobeNewswire)
+
+- [Donor Nation Cuts to Global Health Financing Affect Millions](https://www.hrw.org/news/2026/01/22/donor-nation-cuts-to-global-health-financing-affect-millions) (Human Rights Watch)
+
 - [A common DNA deletion altering the 3’UTR of mdr1 is associated with reduced mefloquine susceptibility in P. vivax parasites from Cambodian patients](https://www.nature.com/articles/s41467-026-68456-7) (Nature.com)
 
 - [Meeting malaria where it lives](https://ysph.yale.edu/news-article/meeting-malaria-where-it-lives/) (Yale.edu)
@@ -240,6 +248,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (h5n1)
 
+- [Entenhaltung betroffen: Erneuter Geflügelpest-Ausbruch im Landkreis Cloppenburg](https://www.zeit.de/news/2026-01/22/erneuter-gefluegelpest-ausbruch-im-landkreis-cloppenburg) (Die Zeit)
+
+- [Роспотребнадзор: вакцина против птичьего гриппа проходит клинические испытания](https://tass.ru/obschestvo/26225365) (Tass.ru)
+
+- [В России вакцина от птичьего гриппа H5N1 проходит клинические испытания на случай пандемии](https://www.interfax.ru/russia/1069027) (Interfax.ru)
+
 - [Detection of Avian Influenza H5–Specific Antibodies by Chemiluminescent Assays](https://wwwnc.cdc.gov/eid/article/32/1/25-1117_article) (Cdc.gov)
 
 - [علماء روس يطورون أساسا للقاح واعد ضد أخطر سلالات إنفلونزا الطيور](https://sarabic.ae/20260120/%D8%B9%D9%84%D9%85%D8%A7%D8%A1-%D8%B1%D9%88%D8%B3-%D9%8A%D8%B7%D9%88%D8%B1%D9%88%D9%86-%D8%A3%D8%B3%D8%A7%D8%B3%D8%A7-%D9%84%D9%84%D9%82%D8%A7%D8%AD-%D9%88%D8%A7%D8%B9%D8%AF-%D8%B6%D8%AF-%D8%A3%D8%AE%D8%B7%D8%B1-%D8%B3%D9%84%D8%A7%D9%84%D8%A7%D8%AA-%D8%A5%D9%86%D9%81%D9%84%D9%88%D9%86%D8%B2%D8%A7-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1-1109442510.html) (Sarabic.ae)
@@ -261,6 +275,10 @@ Source: [News API](https://newsapi.org/)
 - [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
 
 ## 26-4 (dengue)
+
+- [¿Qué síntomas se presentan cuando te contagias de dengue, enfermedad que le detectaron a Carín León?](https://www.milenio.com/ciencia-y-salud/dengue-que-es-y-que-sintomas-tiene-enfermedad) (Milenio)
+
+- [Government’s Voluntary Health Insurance Plan Touts Minimum RM100,000 Annual Cover, Higher Premiums For Elderly And Sick](https://codeblue.galencentre.org/2026/01/governments-voluntary-health-insurance-plan-touts-minimum-rm100000-annual-cover-higher-premiums-for-elderly-and-sick/) (Galencentre.org)
 
 - [¿Por qué los mosquitos prefieren cada vez más la sangre humana?](https://www.nacion.com/ciencia/por-que-los-mosquitos-prefieren-cada-vez-mas-la/BQP4QR2GDVAUZLC7CATKJJGG5U/story/) (Nacion.com)
 
@@ -303,6 +321,8 @@ Source: [News API](https://newsapi.org/)
 - [Cidades do CE e MG iniciam vacinação contra dengue com dose única](https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/cidades-do-ce-e-mg-iniciam-vacinacao-contra-dengue-com-dose-unica) (Ebc.com.br)
 
 ## 26-4 (chikungunya)
+
+- [Joven de Esparza se convierte en primer caso de chikungunya en ocho años](https://www.nacion.com/el-pais/joven-de-esparza-se-convierte-en-primer-caso-de/ZGDL6SAPAFF2HNFHPJ6T3XG7XY/story/) (Nacion.com)
 
 - [In Bangladesh, thousands of volunteers are battling climate-fueled disease at its source](https://grist.org/health/bangladesh-clean-volunteers-dhaka-mosquitoes/) (Grist)
 
@@ -1768,8 +1788,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Извержение вулкана в 1345 году положило начало череде событий, которые привели к эпидемии Черной смерти, охватившей средневековую Европу](https://www.ixbt.com/live/science/izverzhenie-vulkana-v-1345-godu-polozhilo-nachalo-cherede-sobytiy-kotorye-priveli-k-epidemii-chernoy-smerti-ohvativshey-srednevekovuyu-evropu.html) (Ixbt.com)
 
-- [فوران آتشفشان؛ جرقه‌ای که آتش «مرگ سیاه» را در اروپا شعله‌ور کرد](https://www.zoomit.ir/human-science/453304-volcano-eruption-black-death/) (Zoomit.ir)
-
 ## 25-50 (typhoid)
 
 - [I’m heading overseas. Do I really need travel vaccines?](https://theconversation.com/im-heading-overseas-do-i-really-need-travel-vaccines-269495) (The Conversation Africa)
@@ -1815,8 +1833,6 @@ Source: [News API](https://newsapi.org/)
 - [US Man Dies From Rabies After Receiving Infected Kidney](https://www.sciencealert.com/us-man-dies-from-rabies-after-receiving-infected-kidney) (ScienceAlert)
 
 - [Донор пересаженной впоследствии умершему реципиенту почки заразился бешенством от скунса](https://nplus1.ru/news/2025/12/08/rabid-transplant-details) (Nplus1.ru)
-
-- [In Rarity, Organ Recipient Dies of Rabies From Donor](https://www.newser.com/story/379945/in-rarity-organ-recipient-dies-of-rabies-from-donor.html) (Newser)
 
 ## 25-50 (pertussis)
 
@@ -1980,8 +1996,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Vaccine Controversies and Measles Outbreaks, Space Pollution, Puppy Power](https://www.scientificamerican.com/podcast/episode/vaccine-controversies-and-measles-outbreaks-space-pollution-puppy-power/) (Scientific American)
 
-- [ICUs overloaded | Infants on ventilators, ECMO as flu and measles hit hard](https://www.israelnationalnews.com/news/418944) (Israelnationalnews.com)
-
 ## 25-50 (malaria)
 
 - [Ex-Prince Andrew appears in photo released by Jeffrey Epstein’s estate, shared by House Democrats](https://www.foxnews.com/entertainment/ex-prince-andrew-appears-photo-released-jeffrey-epsteins-estate-shared-house-democrats) (Fox News)
@@ -2049,8 +2063,6 @@ Source: [News API](https://newsapi.org/)
 - [H5N1-Ausbruch: Vogelgrippe in deutschen Katzen nachgewiesen](https://www.spektrum.de/news/vogelgrippe-h5n1-in-deutschen-katzen-was-es-nun-zu-beachten-gilt/2300005) (Spektrum.de)
 
 - [Bird flu hasn't reached Australia, but researchers are prepping for when it arrives](https://www.npr.org/2025/12/08/nx-s1-5629191/bird-flu-hasnt-reached-australia-but-researchers-are-prepping-for-when-it-arrives) (NPR)
-
-- [Aviaria H5N5? Pregliasco: Punta dell’iceberg, non abbassare la guardia”. Terregino: “Non è più aggressivo di H5N1”](https://www.ilfattoquotidiano.it/2025/12/07/aviaria-h5n5-pregliasco-punta-delliceberg-non-abbassare-la-guardia-terregino-non-e-piu-aggressivo-di-h5n1/8219915/) (Ilfattoquotidiano.it)
 
 ## 25-50 (dengue)
 
@@ -2120,8 +2132,6 @@ Source: [News API](https://newsapi.org/)
 
 - [México reporta mil 54 nuevos casos de dengue](https://www.excelsior.com.mx/nacional/dengue-en-mexico-reportan-mil-54-nuevos-casos/1756104) (Excelsior.com.mx)
 
-- [Tecnologia anti-dengue: mosquitos com bactéria Wolbachia reduzem casos](https://olhardigital.com.br/2025/12/07/medicina-e-saude/tecnologia-anti-dengue-mosquitos-com-bacteria-wolbachia-reduzem-casos/) (Olhardigital.com.br)
-
 ## 25-50 (chikungunya)
 
 - [Cuba confirma 3 nuevos muertos por la epidemia de dengue y Chikungunya; ya suman 47](https://www.milenio.com/internacional/cuba-confirma-muertos-por-la-epidemia-de-dengue-y-chikungunya) (Milenio)
@@ -2145,7 +2155,3 @@ Source: [News API](https://newsapi.org/)
 - [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
 
 - [Chikungunya : près de la moitié des habitants de La Réunion ont été contaminés en 2025](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-la-moitie-des-habitants-de-la-reunion-ont-ete-contamines-en-2025_7665814.html) (Franceinfo.fr)
-
-- [RKI warnt vor Ansteckung durch Chikungunya - Tropenfieber breitet sich in Urlaubsland aus](https://www.bild.de/leben-wissen/medizin/chikungunya-tropenfieber-breitet-sich-in-urlaubsland-aus-69353941c0de97910a89cbaf) (Bild)
-
-- [Auf Kuba breitet sich das Chikungunya-Fieber stark aus](https://www.diepresse.com/20384239/auf-kuba-breitet-sich-das-chikungunya-fieber-stark-aus) (Diepresse.com)
