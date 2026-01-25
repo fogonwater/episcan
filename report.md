@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2026-01-25 07:09
-- **Most recent article:** 2026-01-24 04:23:51
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-01-25 19:06
+- **Most recent article:** 2026-01-24 15:12:45
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 38 | 31 | 35 | 26 | 47 | 63 | 85 | 325 |
-| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 25 | 101 |
-| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 77 |
+| measles | 37 | 31 | 35 | 26 | 47 | 63 | 87 | 326 |
+| dengue | 24 | 11 | 4 | 1 | 12 | 22 | 26 | 100 |
+| rabies | 10 | 20 | 8 | 6 | 10 | 10 | 12 | 76 |
 | h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 65 |
 | malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 63 |
-| mpox | 9 | 5 | 0 | 1 | 14 | 9 | 8 | 46 |
+| mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 49 |
 | meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 44 |
 | chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 7 | 23 |
 | zika | 2 | 3 | 2 | 0 | 4 | 6 | 2 | 19 |
-| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 3 | 17 |
+| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 18 |
 | yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 1 | 13 |
 | hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 12 |
 | typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 11 |
@@ -80,6 +80,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (mpox)
 
+- [Noodtoestand door mpox opgeheven in Afrika](https://www.nieuwsblad.be/nieuws/noodtoestand-door-mpox-opgeheven-in-afrika/126249486.html) (Nieuwsblad.be)
+
+- [Africa no longer facing mpox emergency — CDC chief](https://punchng.com/africa-no-longer-facing-mpox-emergency-cdc-chief/) (The Punch)
+
+- [La mpox n’est plus une urgence de santé publique en Afrique, annonce l’agence de santé de l’Union africaine](https://www.lemonde.fr/afrique/article/2026/01/24/la-mpox-n-est-plus-une-urgence-de-sante-publique-en-afrique-annonce-l-agence-de-sante-de-l-union-africaine_6663944_3212.html) (Le Monde)
+
 - [México confirma primer caso de viruela símica en paciente alemán](https://www.milenio.com/ciencia-y-salud/mexico-confirma-caso-viruela-simica-paciente-aleman) (Milenio)
 
 - [Genetic analysis links Kerala's 2024 mpox outbreak to international travel](https://economictimes.indiatimes.com/news/india/genetic-analysis-links-keralas-2024-mpox-outbreak-to-international-travel/articleshow/126959518.cms) (The Times of India)
@@ -103,6 +109,10 @@ Source: [News API](https://newsapi.org/)
 - [Australian cricket great Damien Martyn says he was given 50/50 chance of living after meningitis scare](https://www.nzherald.co.nz/sport/cricket/australian-cricket-great-damien-martyn-says-he-was-given-5050-chance-of-living-after-meningitis-scare/YC56YZ5AVJAE3BIB6UH54ICKL4/) (New Zealand Herald)
 
 ## 26-4 (measles)
+
+- [18 more measles cases, 4 new exposure sites confirmed in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-18-new-confirmed-cases-9.7059574) (CBC News)
+
+- [Outbreak of Tuberculosis Reported at Amazon Warehouse in England](https://legalinsurrection.com/2026/01/outbreak-of-tuberculosis-reported-at-amazon-warehouse-in-england/) (Legalinsurrection.com)
 
 - [Adult contagious with measles was at Ridgefield High, Clark County health says](https://katu.com/news/local/adult-contagious-with-measles-was-at-ridgefield-high-clark-county-health-says) (KATU)
 
@@ -292,6 +302,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (leptospirosis)
 
+- [Can possums spread leptospirosis?](https://www.lifesciencesworld.com/can-possums-spread-leptospirosis/) (Lifesciencesworld.com)
+
 - [What disease can you get from a sick raccoon?](https://www.lifesciencesworld.com/what-disease-can-you-get-from-a-sick-raccoon/) (Lifesciencesworld.com)
 
 - [Think health insurance will cover your hospitalisation? This family with a Rs 50 lakh policy faced a scary billing counter shock](https://economictimes.indiatimes.com/news/new-updates/think-health-insurance-will-cover-your-hospitalisation-this-family-with-a-rs-50-lakh-policy-faced-a-scary-billing-counter-shock/articleshow/126775751.cms) (The Times of India)
@@ -345,6 +357,8 @@ Source: [News API](https://newsapi.org/)
 - [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
 
 ## 26-4 (dengue)
+
+- [DF tem vacinação gratuita neste fim de semana; veja os locais](https://www.metropoles.com/distrito-federal/df-tem-vacinacao-gratuita-neste-fim-de-semana-veja-os-locais) (Metropoles.com)
 
 - [En Bolivie, où est passé Evo Morales ?](https://www.courrierinternational.com/article/absence-en-bolivie-ou-est-passe-evo-morales_239745) (Courrier International)
 
@@ -1600,8 +1614,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Does seeing a raccoon during the day mean it has rabies?](https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/) (Lifesciencesworld.com)
 
-- [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
-
 ## 25-51 (mpox)
 
 - [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
@@ -1701,8 +1713,6 @@ Source: [News API](https://newsapi.org/)
 - [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
 
 - [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
-
-- [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
 
@@ -1831,10 +1841,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
-
-- [México rebasa los 20 mil contagios por dengue](https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359) (Excelsior.com.mx)
-
-- [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
 
