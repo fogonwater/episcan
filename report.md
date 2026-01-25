@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2026-01-24 19:05
-- **Most recent article:** 2026-01-23 19:05:34
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-01-25 07:09
+- **Most recent article:** 2026-01-24 04:23:51
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-50 | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | Total |
-|--|-|-|-|-|-|-|-|-|-|
-| measles | 44 | 38 | 31 | 35 | 26 | 47 | 63 | 71 | 355 |
-| dengue | 33 | 26 | 11 | 4 | 1 | 12 | 22 | 25 | 134 |
-| rabies | 20 | 11 | 20 | 8 | 6 | 10 | 10 | 10 | 95 |
-| malaria | 17 | 19 | 12 | 5 | 0 | 13 | 8 | 7 | 81 |
-| h5n1 | 9 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 74 |
-| mpox | 28 | 9 | 5 | 0 | 1 | 14 | 9 | 8 | 74 |
-| meningitis | 3 | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 47 |
-| chikungunya | 11 | 2 | 7 | 3 | 0 | 3 | 1 | 7 | 34 |
-| zika | 6 | 2 | 3 | 2 | 0 | 4 | 6 | 2 | 25 |
-| leptospirosis | 0 | 1 | 2 | 4 | 4 | 2 | 1 | 3 | 17 |
-| hpai | 5 | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 17 |
-| yersinia | 3 | 5 | 1 | 2 | 0 | 1 | 4 | 1 | 17 |
-| typhoid | 1 | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 12 |
-| pertussis | 2 | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 6 |
+| Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 38 | 31 | 35 | 26 | 47 | 63 | 85 | 325 |
+| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 25 | 101 |
+| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 77 |
+| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 65 |
+| malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 63 |
+| mpox | 9 | 5 | 0 | 1 | 14 | 9 | 8 | 46 |
+| meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 44 |
+| chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 7 | 23 |
+| zika | 2 | 3 | 2 | 0 | 4 | 6 | 2 | 19 |
+| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 3 | 17 |
+| yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 1 | 13 |
+| hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 12 |
+| typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 11 |
+| pertussis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -49,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 - [The Tragedy Story of Mary Mallon, aka “Typhoid Mary”](https://www.vintag.es/2026/01/mary-mallon.html) (Vintag.es)
 
 ## 26-4 (rabies)
+
+- [Dipolog: KALUWASAN SA MGA BINUHI, GISIGURO SA DAPITAN CITY PINAAGI SA ANTI-RABIES MASS VACCINATION PROGRAM](https://rpnradio.com/dipolog-kaluwasan-sa-mga-binuhi-gisiguro-sa-dapitan-city-pinaagi-sa-anti-rabies-mass-vaccination-program/) (Rpnradio.com)
+
+- [Ben er en sød lille abe. Lige indtil han ikke er det mere](https://politiken.dk/kultur/film_og_tv/filmanmeldelser/art10635733/Ben-er-en-s%C3%B8d-lille-abe.-Lige-indtil-han-ikke-er-det-mere) (Politiken.dk)
 
 - [”Primate” – gäspframkallande skräck med korkade ungdomar på Hawaii](https://www.dn.se/kultur/primate-gaspframkallande-skrack-med-korkade-ungdomar-pa-hawaii/) (Www.dn.se)
 
@@ -100,6 +104,28 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (measles)
 
+- [Adult contagious with measles was at Ridgefield High, Clark County health says](https://katu.com/news/local/adult-contagious-with-measles-was-at-ridgefield-high-clark-county-health-says) (KATU)
+
+- [First Christmas without a COVID spike - ABC listen](https://www.abc.net.au/listen/programs/healthreport/covid-flu-measles-paracetamol-autism/106255956) (ABC News (AU))
+
+- [Health expert blasts Trump official for floating deadly ‘experiment’ on unvaccinated kids](https://www.rawstory.com/vaccines-2675013507/) (Raw Story)
+
+- [Measles cases surged in 2025 as vaccination rates dropped](https://www.pbs.org/newshour/show/measles-cases-surged-in-2025-as-vaccination-rates-dropped) (PBS)
+
+- [Union County issues 170+ quarantine orders due to measles outbreak](https://www.wsoctv.com/news/local/union-county-issues-170-quarantine-orders-due-measles-outbreak/24LDW3YPR5AV7OPRUG7YHLDI5E/) (WSOC Charlotte)
+
+- [SC measles outbreak surges past Disneyland incident](https://www.postandcourier.com/health/sc-measles-historic-outbreak-continues-grow/article_3a56e14a-5936-44cd-9039-582eb28cdc03.html) (Charleston Post Courier)
+
+- [Health department reports detection of measles in Lincoln wastewater](https://www.klkntv.com/health-department-reports-detection-of-measles-in-lincoln-wastewater/) (KLKN)
+
+- [Measles Cases Boom To Start 2026—Here’s Where Cases Have Been Confirmed](https://www.forbes.com/sites/antoniopequenoiv/2026/01/23/measles-cases-boom-to-start-2026-heres-where-cases-have-been-confirmed/) (Forbes)
+
+- [New Measles Cases in the Bay Area: How to Check Your Vaccination Status and Who Needs a Booster](https://www.kqed.org/news/12070907/measles-san-francisco-bay-area-2026-is-there-outbreak-mmr-vaccine-booster) (KQED)
+
+- [CDC Vaccines Chief Says Every Single Vaccine Should Be Optional](https://newrepublic.com/post/205634/cdc-chief-every-vaccine-optional-polio-measles) (The New Republic)
+
+- [2 pediatric patients treated for measles at Baptist Health emergency room, hospital says](https://www.actionnewsjax.com/news/local/duval-county/2-pediatric-patients-treated-measles-baptist-health-emergency-room-hospital-says/IU3D7EPYDVFBHFLC3UKMXCDJ5Y/) (ActionNewsJax.com)
+
 - [Baptist Health confirms two pediatric measles cases in Jacksonville](https://www.news4jax.com/news/local/2026/01/23/baptist-health-confirms-two-pediatric-measles-cases-in-jacksonville/) (WJXT News4JAX)
 
 - [US measles cases surpass 400 with infections in 14 states: CDC](https://abcnews.go.com/Health/us-measles-cases-surpass-400-infections-14-states/story?id=129415270) (ABC News)
@@ -115,6 +141,10 @@ Source: [News API](https://newsapi.org/)
 - [US Will Likely Lose Its Measles Elimination Status This Spring](https://truthout.org/articles/us-will-likely-lose-its-measles-elimination-status-this-spring/) (Truthout)
 
 - [First measles case in Napa County since 2012](https://www.nbcbayarea.com/news/local/first-measles-case-napa-county-2012/4018780/) (NBC Bay Area)
+
+- [Vaccinated people in Spartanburg don’t fear measles outbreak](https://www.postandcourier.com/spartanburg/news/measles-outbreak-spartanburg-sc-daily-life/article_bde0ff10-c133-472f-b283-38030f1ad3da.html) (Charleston Post Courier)
+
+- [The US Is In For Another Bad Year of Measles Cases](https://www.wired.com/story/the-us-is-in-for-another-bad-year-of-measles-cases/) (Wired)
 
 - [1st measles case involving unvaccinated child reported in Napa County for 1st time in 14 years](https://abc7news.com/post/1st-measles-case-involving-unvaccinated-child-reported-napa-county-time-14-years-health-officials-say/18446476/) (KGO-TV)
 
@@ -139,6 +169,8 @@ Source: [News API](https://newsapi.org/)
 - [The MAGA Lifestyle Means Endlessly Getting Ripped Off by Grifters](https://www.jezebel.com/maga-grifters-pander-brands-alcohol-tears-of-the-left-bourbon-complaints-ultra-right-beer-trump) (Jezebel)
 
 - [Guidance: MMRV: patient group direction (PGD) template](https://www.gov.uk/government/publications/mmrv-patient-group-direction-pgd-template) (Www.gov.uk)
+
+- [3rd child with measles in Virginia visited health care facilities in Woodbridge, Falls Church - WTOP News](https://wtop.com/virginia/2026/01/3rd-child-with-measles-in-virginia-visited-health-care-facilities-in-woodbridge-falls-church/) (WTOP)
 
 - [Measles Surges In The U.S. As Public Health Systems Falter](https://www.forbes.com/sites/judystone/2026/01/21/measles-surges-in-the-us-as-public-health-systems-falter/) (Forbes)
 
@@ -1540,8 +1572,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Учёные из Кембриджа рассказали, как в Европу пришла самая смертоносная чума — из-за вулканов](https://lifehacker.ru/kak-v-evropu-prishla-samaya-smertonosnaya-chuma/) (Lifehacker.ru)
 
-- [科學家：歐洲致命黑死病瘟疫可能起源於一場火山爆發](https://www.thenewslens.com/article/262081) (Thenewslens.com)
-
 ## 25-51 (typhoid)
 
 - [ALIAS Will Return In 2026 With New Red Band Marvel Comics Series Starring Jessica Jones And Typhoid Mary](https://comicbookmovie.com/comics/marvel-comics/alias-will-return-in-2026-with-new-red-band-marvel-comics-series-starring-jessica-jones-and-typhoid-mary-a225578) (CBM (Comic Book Movie))
@@ -1712,8 +1742,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos records sharp decline in malaria cases – FG](https://punchng.com/lagos-records-sharp-decline-in-malaria-cases-fg/) (The Punch)
 
-- [Nigeria tops global malaria record](https://punchng.com/nigeria-tops-global-malaria-record/) (The Punch)
-
 ## 25-51 (leptospirosis)
 
 - [Lizard infections in household: From Salmonella to Leptospirosis diseases that are caused by lizards](https://timesofindia.indiatimes.com/life-style/health-fitness/lizard-infections-in-household-from-salmonella-to-leptospirosis-diseases-that-are-caused-by-lizards/photostory/126049048.cms) (The Times of India)
@@ -1813,393 +1841,3 @@ Source: [News API](https://newsapi.org/)
 - [A epidemia de doenças transmitidas por mosquitos em Cuba em meio a colapso sanitário: 'Parece uma cidade de zumbis'](https://www.bbc.com/portuguese/articles/c04vxqyv0xwo) (BBC News)
 
 - ["Parece una ciudad de zombis": la grave epidemia de enfermedades virales transmitidas por mosquitos que enfrenta Cuba en medio de un colapso sanitario](https://www.bbc.com/mundo/articles/c62376rlrr2o) (BBC News)
-
-## 25-50 (zika)
-
-- [Mosquitoes: The most dangerous animals in the world?](https://www.dw.com/en/mosquitoes-the-most-dangerous-animals-in-the-world/a-75090964) (DW (English))
-
-- [Are mosquitoes the most dangerous animals in the world?](https://www.dw.com/en/mosquito-bites-kill-thousands-yearly-dengue-malaria-zika-west-nile-virus/a-75090964) (DW (English))
-
-- [Role of invasive Aedes (Aedimorphus) vittatus in chikungunya virus transmission in the newly-invaded coastal island city of Mombasa, Kenya](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013738) (Plos.org)
-
-- [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
-
-- [SAMD9L inhibits flavivirus translation independently of its capacity to trigger innate immune response](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013773) (Plos.org)
-
-- [Mücken: Die gefährlichsten Tiere der Welt?](https://www.dw.com/de/m%C3%BCcken-die-gef%C3%A4hrlichsten-tiere-der-welt/a-75009767) (DW (English))
-
-## 25-50 (yersinia)
-
-- [Реальный Апокалипсис: Чума Юстиниана, Тотила-Мститель и смерть Короля Артура. Хроники 541–550 годов](https://pikabu.ru/story/realnyiy_apokalipsis_chuma_yustiniana_totilamstitel_i_smert_korolya_artura_khroniki_541550_godov_13490884) (Pikabu.ru)
-
-- [Извержение вулкана могло привести в XIV веке к эпидемии чумы в Европе](https://overclockers.ru/blog/Global_Chronicles/show/245225/Izverzhenie-vulkana-privelo-v-XIV-veke-k-pandemii-chumy-v-Evrope) (Overclockers.ru)
-
-- [Извержение вулкана в 1345 году положило начало череде событий, которые привели к эпидемии Черной смерти, охватившей средневековую Европу](https://www.ixbt.com/live/science/izverzhenie-vulkana-v-1345-godu-polozhilo-nachalo-cherede-sobytiy-kotorye-priveli-k-epidemii-chernoy-smerti-ohvativshey-srednevekovuyu-evropu.html) (Ixbt.com)
-
-## 25-50 (typhoid)
-
-- [I’m heading overseas. Do I really need travel vaccines?](https://theconversation.com/im-heading-overseas-do-i-really-need-travel-vaccines-269495) (The Conversation Africa)
-
-## 25-50 (rabies)
-
-- [Do baboons carry rabies?](https://www.lifesciencesworld.com/do-baboons-carry-rabies/) (Lifesciencesworld.com)
-
-- [US man dies after rabies-infected kidney traced to organ donor’s skunk scratch](https://www.nzherald.co.nz/world/us-man-dies-after-rabies-infected-kidney-traced-to-organ-donors-skunk-scratch/GBAQAOT4E5CRJKFUWPK73RPNKQ/) (New Zealand Herald)
-
-- [Can you get rabies from touching something a rabid animal touched?](https://www.lifesciencesworld.com/can-you-get-rabies-from-touching-something-a-rabid-animal-touched/) (Lifesciencesworld.com)
-
-- [Do nutrias carry rabies?](https://www.lifesciencesworld.com/do-nutrias-carry-rabies/) (Lifesciencesworld.com)
-
-- [Man exposed to rabies after handling raccoon in Wells](https://www.newscentermaine.com/article/news/health/man-exposed-rabies-after-handling-raccoon-wells-maine/97-b2f95d47-8dd7-431b-af40-8613cc0e8cc4) (NewsCenterMaine.com WCSH-WLBZ)
-
-- [Friday Firesmith – Dry](https://bitsandpieces.us/2025/12/12/friday-firesmith-dry/) (Bitsandpieces.us)
-
-- [Can you get rabies from a baby raccoon scratch?](https://www.lifesciencesworld.com/can-you-get-rabies-from-a-baby-raccoon-scratch/) (Lifesciencesworld.com)
-
-- [Wild and Domestic Animal Exposure among Deceased Persons Referred for Organ Procurement, United States](https://wwwnc.cdc.gov/eid/article/31/12/25-1486_article) (Cdc.gov)
-
-- [Rabies Cluster Among Steers on a Dairy Farm - Minnesota, 2024](https://www.cdc.gov/mmwr/volumes/74/wr/mm7440a3.htm) (Cdc.gov)
-
-- [Skunk scratch in Idaho leads to two rabies deaths including organ recipient in Michigan](https://www.nbcnews.com/news/us-news/skunk-scratch-idaho-leads-rabies-death-organ-recipient-michigan-rcna248620) (NBC News)
-
-- [100% летальность: почему «добрый ежик» в лесу опаснее медведя, а мыло эффективнее скальпеля против бешенства](https://www.ixbt.com/live/flora_and_fauna/100-letalnost-pochemu-dobryy-ezhik-v-lesu-opasnee-medvedya-a-mylo-effektivnee-skalpelya-protiv-beshenstva.html) (Ixbt.com)
-
-- [Diagnostic dilemma: Man caught rabies from organ transplant after donor was scratched by skunk](https://www.livescience.com/health/viruses-infections-disease/diagnostic-dilemma-man-caught-rabies-from-organ-transplant-after-donor-was-scratched-by-skunk) (Live Science)
-
-- [Michigan man dies of rabies after receiving kidney from infected donor who saved kitten from skunk: CDC](https://www.foxnews.com/health/michigan-man-dies-rabies-after-receiving-kidney-from-infected-donor-who-saved-kitten-from-skunk-cdc) (Fox News)
-
-- [Man dog i rabies – smittades av njurtransplantation](https://www.dn.se/varlden/man-dog-i-rabies-smittades-av-njurtransplantation/) (Www.dn.se)
-
-- [How long can rabies survive in open air?](https://www.lifesciencesworld.com/how-long-can-rabies-survive-in-open-air/) (Lifesciencesworld.com)
-
-- [Why can’t you touch a bat?](https://www.lifesciencesworld.com/why-cant-you-touch-a-bat/) (Lifesciencesworld.com)
-
-- [What animal gives human rabies the most?](https://www.lifesciencesworld.com/what-animal-gives-human-rabies-the-most/) (Lifesciencesworld.com)
-
-- [Do you need a rabies shot?](https://www.yalemedicine.org/news/do-you-need-a-rabies-shot) (Yalemedicine.org)
-
-- [US Man Dies From Rabies After Receiving Infected Kidney](https://www.sciencealert.com/us-man-dies-from-rabies-after-receiving-infected-kidney) (ScienceAlert)
-
-- [Донор пересаженной впоследствии умершему реципиенту почки заразился бешенством от скунса](https://nplus1.ru/news/2025/12/08/rabid-transplant-details) (Nplus1.ru)
-
-## 25-50 (pertussis)
-
-- [Oregon breaks 75-year whooping cough record as health officials urge vaccination](https://www.centraloregondaily.com/news/regional/oregon-pertussis-record-whooping-cough-cases-2025/article_a4a67f1f-6c4b-4719-8628-ce2e19bc0d64.html) (Centraloregondaily.com)
-
-- [Opas emite alerta sobre aumento de casos de coqueluche nas Américas](https://veja.abril.com.br/saude/opas-emite-alerta-sobre-aumento-de-casos-de-coqueluche-nas-americas/) (Abril.com.br)
-
-## 25-50 (mpox)
-
-- [IA encontra fraqueza da mpox e abre caminho para novas vacinas](https://gizbr.uol.com.br/proteina-opg153-vacinas-mpox/) (Uol.com.br)
-
-- [Vídeo mostra superlotação de hospital espanhol por conta de epidemia de gripe, não pandemia de mpox](https://www.terra.com.br/noticias/checamos/video-mostra-superlotacao-de-hospital-espanhol-por-conta-de-epidemia-de-gripe-nao-pandemia-de-mpox,8f4de54aba41d41451269a7deae65e55mbkehviz.html) (Terra.com.br)
-
-- [Plus question de voyager avec un sandwich jambon-beurre à bord de l’Eurostar: voici pourquoi](https://www.dhnet.be/conso/consommation/2025/12/11/plus-question-de-voyager-avec-un-sandwich-jambon-beurre-a-bord-de-leurostar-voici-pourquoi-CSV53LC3OZGMZLCOGJ5MQDZLYI/) (dh.be)
-
-- [Odkryli nowy wariant małpiej ospy. Może zmienić przebieg choroby](https://geekweek.interia.pl/medycyna/news-odkryli-nowy-wariant-malpiej-ospy-moze-zmienic-przebieg-chor,nId,22466259) (Interia.pl)
-
-- [В ЦАР благодаря вакцинации взяли под контроль ситуацию с оспой обезьян](https://tass.ru/vspyshka-ospy-obezyan/25874427) (Tass.ru)
-
-- [Gefahr durch Virus-Mutante?: Neue hybride Mpox-Variante in Großbritannien entdeckt](https://www.n-tv.de/wissen/Neue-hybride-Mpox-Variante-in-Grossbritannien-entdeckt-id30125314.html) (N-tv.de)
-
-- [New strain of mpox virus: What you need to know](https://www.dw.com/en/new-strain-of-mpox-virus-what-you-need-to-know/a-75077995) (DW (English))
-
-- [İngiltere'de maymun çiçeği varyantı tespit edildi: Yetkililerden 'evrimleşebilir' uyarısı](https://www.hurriyet.com.tr/dunya/ingilterede-maymun-cicegi-varyanti-tespit-edildi-yetkililerden-evrimlesebilir-uyarisi-43048229) (Hurriyet.com.tr)
-
-- [Mpox virüsünde yeni varyantın görülmesi sonrası uzmanlar aşı hatırlatması yaptı](https://www.patronlardunyasi.com/mpox-virusunde-yeni-varyantin-gorulmesi-sonrasi-uzmanlar-asi-hatirlatmasi-yapti) (Patronlardunyasi.com)
-
-- [Maymun çiçeğinin yeni bir varyantı tespit edildi](https://anlatilaninotesi.com.tr/20251209/maymun-ciceginin-yeni-bir-varyanti-tespit-edildi-1101645294.html) (Anlatilaninotesi.com.tr)
-
-- [Ny mpox-variant ryster eksperter: De frygtede symptomer kan være på vej tilbage](https://www.bt.dk/sundhed/ny-mpox-variant-ryster-eksperter-de-frygtede-symptomer-kan-vaere-paa-vej-tilbage) (Www.bt.dk)
-
-- [Virus Mpox: ¿cuántas variantes existen y cuáles están en México?](https://www.excelsior.com.mx/salud/cuantas-variantes-del-virus-mpox-existen-y-cuales-hay-en-mexico/1756290) (Excelsior.com.mx)
-
-- [Reino Unido confirma nova variante de Mpox](https://saude.ig.com.br/2025-12-08/reino-unido-confirma-nova-variante-de-mpox.html) (Ig.com.br)
-
-- [Reino Unido detecta una nueva variante de mpox en un viajero reciente de Asia](https://www.nacion.com/el-mundo/reino-unido-detecta-una-nueva-variante-de-mpox-en/SQYFUNGUOREZPAKJMUV4AVUWKY/story/) (Nacion.com)
-
-- [La OMS informa sobre el primer caso de mpox en Malí](https://www.meneame.net/m/actualidad/oms-informa-sobre-primer-caso-mpox-mali) (Meneame.net)
-
-- [UK health agency identifies new mpox strain in England](https://insiderpaper.com/uk-health-agency-identifies-new-mpox-strain-in-england/) (Insiderpaper.com)
-
-- [Inglaterra confirma la presencia de una nueva variante del virus Mpox: ¿cuáles son sus síntomas?](https://www.excelsior.com.mx/salud/nueva-cepa-de-mpox-detectada-en-inglaterra-genera-alerta-sanitaria/1756202) (Excelsior.com.mx)
-
-- [How to tell if you have an Mpox skin rash and other symptoms](https://www.the-independent.com/life-style/health-and-families/mpox-symptoms-skin-rash-new-strain-uk-b2880366.html) (The-independent.com)
-
-- [Nieuwe variant mpox ontdekt in Engeland](https://www.nieuwsblad.be/buitenland/nieuwe-variant-mpox-ontdekt-in-engeland/111214350.html) (Nieuwsblad.be)
-
-- [New mpox variant spotted in UK as warning issued virus is 'circulating globally and evolving'](https://www.gbnews.com/health/mpox-new-variant-uk-scientists-warning) (Gbnews.com)
-
-- [New mpox strain discovered in England](https://news.sky.com/story/new-mpox-strain-discovered-in-england-13480985) (Sky.com)
-
-- [Un nouveau variant du mpox découvert en Angleterre : "Bien que l'infection par le virus mpox soit bénigne pour beaucoup, elle peut être grave"](https://www.dhnet.be/actu/monde/2025/12/08/un-nouveau-variant-du-mpox-decouvert-en-angleterre-bien-que-linfection-par-le-virus-mpox-soit-benigne-pour-beaucoup-elle-peut-etre-grave-SBD3E7OQL5DU5F4XUPANACREQA/) (dh.be)
-
-- [UK Health Agency Identifies New Mpox Strain In England](https://www.channelstv.com/2025/12/08/uk-health-agency-identifies-new-mpox-strain-in-england/) (Channels Television)
-
-- [La OMS informa sobre el primer caso de mpox en Malí](https://www.infosalus.com/salud-investigacion/noticia-oms-informa-primer-caso-mpox-mali-20251208155715.html) (Infosalus.com)
-
-- [UK health agency identifies new mpox strain in person who travelled to Asia](https://www.channelnewsasia.com/world/uk-health-agency-new-mpox-strain-travel-asia-5568291) (CNA)
-
-- [Mpox symptoms explained: From fever to painful skin rash and blisters](https://www.the-independent.com/life-style/health-and-families/mpox-symptoms-new-strain-uk-warning-b2880183.html) (The-independent.com)
-
-- [Monkeypox (MPOX) Diagnostics Global Markets 2024-2028, by Assay, by Country, by Product and by Place: Executive and Consultant Guides, Market Analysis and Forecasts](https://www.globenewswire.com/news-release/2025/12/08/3201601/28124/en/Monkeypox-MPOX-Diagnostics-Global-Markets-2024-2028-by-Assay-by-Country-by-Product-and-by-Place-Executive-and-Consultant-Guides-Market-Analysis-and-Forecasts.html) (GlobeNewswire)
-
-- [New mpox strain identified in England](https://www.bbc.com/news/articles/cm2087g0z9po) (BBC News)
-
-## 25-50 (meningitis)
-
-- [Una meningitis a los 2 años la dejó sin piernas ni brazos, pero supo salir adelante y ahora revoluciona las redes](https://www.lanacion.com.ar/lifestyle/en-las-redes/una-meningitis-a-los-2-anos-la-dejo-sin-piernas-ni-brazos-pero-supo-salir-adelante-y-ahora-nid12122025/) (La Nacion)
-
-- [Biguanide-functionalized peptide mimics effectively combat drug-resistant ESKAPE pathogens and meningitis](https://www.nature.com/articles/s41467-025-67044-5) (Nature.com)
-
-- [Proteomic profiles of Lissachatina (Heterobranchia) and Pomacea (Caenogastropoda) snails infected with Angiostrongylus cantonensis using 4D label-free quantitative analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013812) (Plos.org)
-
-## 25-50 (measles)
-
-- [South Carolina Facing a Measles Crisis](https://legalinsurrection.com/2025/12/south-carolina-facing-a-measles-crisis/) (Legalinsurrection.com)
-
-- [US set to lose measles elimination status: The 'house is on fire' (Joseph Choi/The Hill)](https://www.memeorandum.com/251213/p14) (Memeorandum.com)
-
-- [The Worst Ways RFK Jr. Has Harmed Public Health This Year](https://gizmodo.com/the-worst-ways-rfk-jr-has-harmed-public-health-this-year-2000698509) (Gizmodo.com)
-
-- [The Measles Outbreak In South Carolina Is Growing](https://www.techdirt.com/2025/12/12/the-measles-outbreak-in-south-carolina-is-growing/) (Techdirt)
-
-- [Hundreds Quarantined In South Carolina Measles Outbreak](https://crooksandliars.com/2025/12/hundreds-quarantined-south-carolina) (Crooksandliars.com)
-
-- [As RFK Pushes Vaccine Misinformation, Measles Cases Surge in South Carolina](https://www.commondreams.org/news/rfk-measles-outbreak) (Common Dreams)
-
-- [8 more confirmed Manitoba measles cases reported in 1st week of December](https://www.cbc.ca/news/canada/manitoba/measles-cases-manitoba-9.7013736) (CBC News)
-
-- [Hundreds quarantined due to measles outbreak in southern state, officials say](https://www.foxnews.com/health/hundreds-quarantined-due-measles-outbreak-southern-state-officials-say) (Fox News)
-
-- [From COVID to Hepatitis to Measles, RFK Jr. Is Gutting Vaccine Science: An Ex-CDC Expert Speaks Out](https://www.democracynow.org/2025/12/12/robert_f_kennedy_jr_cdc) (Democracy Now!)
-
-- [Hundreds Quarantined in South Carolina as Measles Spreads (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/251211/p138) (Memeorandum.com)
-
-- [Over 250 people quarantined in U.S. South Carolina measles outbreak](https://www.thestar.com.my/news/world/2025/12/12/over-250-people-quarantined-in-us-south-carolina-measles-outbreak) (The Star Online)
-
-- [Hundreds quarantined in South Carolina as measles spreads | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/12/11/breaking-news/hundreds-quarantined-in-south-carolina-as-measles-spreads/) (Honolulu Star-Advertiser)
-
-- [Hundreds are quarantined in South Carolina as measles spreads in 2 US outbreaks (Devi Shastri/Associated Press)](https://www.memeorandum.com/251211/p89) (Memeorandum.com)
-
-- [Hundreds are quarantined in South Carolina as measles spreads in 2 US outbreaks](https://abcnews.go.com/Health/wireStory/hundreds-quarantined-south-carolina-measles-spreads-2-us-128320777) (ABC News)
-
-- [Over 200 people quarantined in South Carolina over measles outbreak](https://justthenews.com/politics-policy/health/over-200-people-quarantined-south-carolina-over-measles-outbreak) (Justthenews.com)
-
-- [Measles outbreak in South Carolina schools, hundreds quarantined](https://apnews.com/article/measles-outbreak-south-carolina-utah-arizona-3bfc561ecc16d8e80175effdae0791d4) (Associated Press)
-
-- [Measles Outbreak In South Carolina](https://www.shtfplan.com/headline-news/measles-outbreak-in-south-carolina) (Shtfplan.com)
-
-- [Hundreds quarantined as South Carolina measles outbreak accelerates (Kelly Kasulis Cho/Washington Post)](https://www.memeorandum.com/251211/p64) (Memeorandum.com)
-
-- [News Flash • Public Health Notice: Confirmed Measles Exposur](https://www.trumbull-ct.gov/CivicAlerts.aspx?AID=2959) (Trumbull-ct.gov)
-
-- [South Carolina battles accelerating measles outbreak, hundreds quarantined](https://www.salon.com/2025/12/11/south-carolina-battles-accelerating-measles-outbreak-hundreds-quarantined/) (Salon)
-
-- [South Carolina officials report 'accelerating' measles outbreak (Edward Helmore/The Guardian)](https://www.memeorandum.com/251211/p55) (Memeorandum.com)
-
-- [Major measles outbreak leads to hundreds quarantined in US county, officials say](https://www.foxnews.com/health/major-measles-outbreak-leads-hundreds-quarantined-us-county-officials-say) (Fox News)
-
-- [Measles Outbreaks Accelerate as U.S. Inches Closer to a Disease Tipping Point](https://www.scientificamerican.com/article/measles-outbreaks-accelerate-as-u-s-inches-closer-to-a-disease-tipping-point/) (Scientific American)
-
-- [Hundreds of South Carolina Schoolchildren Are in Measles Quarantine, Thanks to Low Vaccination Rates](https://www.jezebel.com/meales-outbreaks-cases-south-carolina-vaccinations-texas-arizona-utah-rfk-deaths) (Jezebel)
-
-- [The New CDC Leader’s Whooping Cough Scandal](https://www.motherjones.com/politics/2025/12/cdc-rfk-whooping-cough-louisiana-ralph-abraham/) (Mother Jones)
-
-- [Seems Bad](https://www.eschatonblog.com/2025/12/seems-bad_01058853151.html) (Eschatonblog.com)
-
-- [South Carolina with an outbreak of the Bobby Kennedys](https://www.lawyersgunsmoneyblog.com/2025/12/south-carolina-with-an-outbreak-of-the-bobby-kennedys) (Lawyersgunsmoneyblog.com)
-
-- [Thursday, December 11, 2025](https://kffhealthnews.org/morning-briefing/thursday-december-11-2025/) (Kffhealthnews.org)
-
-- [Measles Cases Surge in South Carolina as Outbreak Spreads](https://www.newser.com/story/380180/measles-cases-surge-in-south-carolina-as-outbreak-spreads.html) (Newser)
-
-- [South Carolina measles outbreak is 'accelerating,' driving hundreds into quarantine (Erika Edwards/NBC News)](https://www.memeorandum.com/251210/p112) (Memeorandum.com)
-
-- [First measles case in Connecticut in over four years](https://www.nbcconnecticut.com/news/local/child-becomes-connecticuts-first-case-of-measles-in-more-than-four-years-dph/3673811/) (NBC Connecticut)
-
-- [South Carolina Measles Outbreak Is 'Accelerating,' Driving Hundreds Into Quarantine](https://www.today.com/health/disease/south-carolina-measles-outbreak-rcna248526) (TODAY)
-
-- [South Carolina measles outbreak is 'accelerating,' driving hundreds into quarantine](https://www.nbcnews.com/health/health-news/measles-south-carolina-quarantine-utah-arizona-us-rcna248435) (NBC News)
-
-- [US facing second measles surge this year as outbreak accelerates in South Carolina | CNN](https://www.cnn.com/2025/12/10/health/measles-surge-us-south-carolina) (CNN)
-
-- [Measles Outbreak Nears Grim Milestone as Hundreds Quarantine in South Carolina](https://gizmodo.com/u-s-measles-outbreak-nears-grim-milestone-as-hundreds-quarantine-in-south-carolina-2000697900) (Gizmodo.com)
-
-- [While scientists race to study spread of measles in US, Kennedy unravels hard-won gains](https://www.bostonherald.com/2025/12/10/us-measles-status/) (Boston Herald)
-
-- [While scientists race to study spread of measles in US, Kennedy unravels hard-won gains](https://www.denverpost.com/2025/12/10/us-measles-status/) (The Denver Post)
-
-- [Guidance: MMRV and febrile convulsions](https://www.gov.uk/government/publications/mmrv-and-febrile-convulsions) (Www.gov.uk)
-
-- [SC measles outbreak explodes with 27 new cases, new school](https://www.postandcourier.com/health/sc-measles-outbreak-spartanburg-school/article_207caa8b-a4bd-486b-ab66-1b297688f87b.html) (Charleston Post Courier)
-
-- [Public Health warns of measles exposures at church, arena in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-church-arena-plum-coulee-winkler-9.7008711) (CBC News)
-
-- [Measles exposure alert issued for flight from Toronto to Edmonton](https://www.cbc.ca/news/canada/edmonton/measles-edmonton-airport-9.7008613) (CBC News)
-
-- [12th case: 11-month-old infant dies of measles complications](https://www.israelnationalnews.com/news/419059) (Israelnationalnews.com)
-
-- [High school, ER among 3 new measles exposure sites in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/winkler-measles-exposure-garden-valley-collegiate-9.7007240) (CBC News)
-
-- [Vaccine Controversies and Measles Outbreaks, Space Pollution, Puppy Power](https://www.scientificamerican.com/podcast/episode/vaccine-controversies-and-measles-outbreaks-space-pollution-puppy-power/) (Scientific American)
-
-## 25-50 (malaria)
-
-- [Ex-Prince Andrew appears in photo released by Jeffrey Epstein’s estate, shared by House Democrats](https://www.foxnews.com/entertainment/ex-prince-andrew-appears-photo-released-jeffrey-epsteins-estate-shared-house-democrats) (Fox News)
-
-- [High prevalence and emerging positive association of kelch13 R622I and HRP2-based RDT negativity in Plasmodium falciparum in northern Ethiopia](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013771) (Plos.org)
-
-- [Malaria, svolta epocale: zanzare OGM mostrano efficacia sul campo](https://www.tomshw.it/scienze/zanzare-rese-resistenti-alla-malaria-con-crispr-2025-12-11) (Tomshw.it)
-
-- [FINANCING THE HEALTH SECTOR: U.S, Uganda sign $2.3 billion memorandum of understanding - NTV Uganda](https://ntv.co.ug/news/financing-the-health-sector-u-s-uganda-sign-2-3-billion-memorandum-of-understanding) (Ntv.co.ug)
-
-- [Novel anti-malarial aces phase 3](https://www.nature.com/articles/s41587-025-02968-3) (Nature.com)
-
-- [Molecular epidemiology of Plasmodium falciparum drug resistance and vaccine targets in high-transmission settings in Africa](https://www.nature.com/articles/s41598-025-32045-3) (Nature.com)
-
-- [Genetic trick to make mosquitoes malaria resistant passes key test](https://www.newscientist.com/article/2508035-genetic-trick-to-make-mosquitoes-malaria-resistant-passes-key-test/) (New Scientist)
-
-- [Unveiling the Plasmodium inositol (pyro)phosphate pathway: Highlighting inositol polyphosphate multikinase as a novel therapeutic target for malaria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338411) (Plos.org)
-
-- [Mosquitoes: The most dangerous animals in the world?](https://www.dw.com/en/mosquitoes-the-most-dangerous-animals-in-the-world/a-75090964) (DW (English))
-
-- [Are mosquitoes the most dangerous animals in the world?](https://www.dw.com/en/mosquito-bites-kill-thousands-yearly-dengue-malaria-zika-west-nile-virus/a-75090964) (DW (English))
-
-- [ورود اتباع بی‌علامت از پاکستان و افغانستان مهم‌ترین چالش مالاریای هرمزگان](https://www.isna.ir/news/1404091912407/ورود-اتباع-بی-علامت-از-پاکستان-و-افغانستان-مهم-ترین-چالش-مالاریای) (Isna.ir)
-
-- [OMS reporta aumento en casos y muertes por malaria](https://www.excelsior.com.mx/nacional/oms-reporta-aumento-en-casos-y-muertes-por-malaria/1756575) (Excelsior.com.mx)
-
-- [Genetically engineered mosquitoes block development of circulating malaria strains](https://www.nature.com/articles/d41586-025-03577-5) (Nature.com)
-
-- [Gene-drive-capable mosquitoes suppress patient-derived malaria in Tanzania](https://www.nature.com/articles/s41586-025-09685-6) (Nature.com)
-
-- [Israel’s ex-PM Ehud Barak and Epstein had close relationship, emails reveal](https://www.aljazeera.com/news/2025/12/9/israels-ex-pm-ehud-barak-and-jeffrey-epstein-had-close-relationship-emails-reveal) (Al Jazeera English)
-
-- [Magnitude of tuberculosis treatment outcomes and associated factors in public health institutions of Arba Minch town, Southern Ethiopia: A multi-centered retrospective cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338393) (Plos.org)
-
-- [Mücken: Die gefährlichsten Tiere der Welt?](https://www.dw.com/de/m%C3%BCcken-die-gef%C3%A4hrlichsten-tiere-der-welt/a-75009767) (DW (English))
-
-## 25-50 (hpai)
-
-- [Vogelgrippe in Vorarlberg bestätigt](https://vorarlberg.orf.at/stories/3333812/) (Vorarlberg.orf.at)
-
-- [충남 천안서 조류인플루엔자 발생... '닭 3만 마리 살처분'](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003189927) (Ohmynews.com)
-
-- [Wildlife Health Alert: Highly Pathogenic Avian Influenza Detected in Multiple Areas Throughout Texas](https://sanangelolive.com/news/outdoors/2025-12-09/wildlife-health-alert-highly-pathogenic-avian-influenza-detected-multiple-areas-throughout-texas) (San Angelo LIVE!)
-
-- [Συναγερμός για την γρίπη των πτηνών στην Ισπανία – 400 πελαργοί βρέθηκαν νεκροί κοντά στη Μαδρίτη](https://www.newsit.gr/kosmos/synagermos-gia-tin-gripi-ton-ptinon-stin-ispania-400-pelargoi-vrethikan-nekroi-konta-sti-madriti/4547516/) (Newsit.gr)
-
-- [Εκατοντάδες νεκροί πελαργοί στη Μαδρίτη, έρευνες για γρίπη των πτηνών](https://www.protothema.gr/world/article/1740296/ekatodades-nekroi-pelargoi-sti-madriti-ereunes-gia-gripi-ton-ptinon/) (Protothema.gr)
-
-## 25-50 (h5n1)
-
-- [Grippe aviaire : le virus circule à un niveau inédit et la France parmi les pays les plus touchés !](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-grippe-aviaire-virus-circule-niveau-inedit-france-parmi-pays-plus-touches-128552/) (Futura)
-
-- [Novel Highly Pathogenic Avian Influenza A(H5N1) Virus, Argentina, 2025](https://wwwnc.cdc.gov/eid/article/31/12/25-0783_article) (Cdc.gov)
-
-- [State reports 3rd possible case of H5N1 in duck on Kauai | Honolulu Star-Advertiser](https://www.staradvertiser.com/2025/12/11/breaking-news/state-reports-3rd-possible-case-of-h5n1-in-duck-on-kauai/) (Honolulu Star-Advertiser)
-
-- [Declarado un segundo caso de gripe aviar en La Rioja, en esta ocasión en una grulla en la zona del pantano de Leiva](https://www.europapress.es/la-rioja/noticia-declarado-segundo-caso-gripe-aviar-rioja-ocasion-grulla-zona-pantano-leiva-20251211135714.html) (Europapress.es)
-
-- [Mammary glands make livestock, humans good hosts for bird flu](https://www.futurity.org/mammary-gland-receptors-avian-flu-3311732/) (Futurity: Research News)
-
-- [Sanidad aclara si se puede contraer o no la gripe aviar a través de las palomas: "Para mayor seguridad, se deben seguir las recomendaciones"](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13684382/12/25/sanidad-aclara-si-se-puede-contraer-o-no-la-gripe-aviar-a-traves-de-las-palomas-para-mayor-seguridad-se-deben-seguir-las-recomendaciones.html) (Eleconomista.es)
-
-- [H5N1: Vogelgrippe im Augsburger Zoo - Tropenhaus bleibt zu](https://www.sueddeutsche.de/bayern/augsburg-zoo-tropenhaus-vogelgrippe-h5n1-li.3351390) (Süddeutsche Zeitung)
-
-- [H5N1-Ausbruch: Vogelgrippe in deutschen Katzen nachgewiesen](https://www.spektrum.de/news/vogelgrippe-h5n1-in-deutschen-katzen-was-es-nun-zu-beachten-gilt/2300005) (Spektrum.de)
-
-- [Bird flu hasn't reached Australia, but researchers are prepping for when it arrives](https://www.npr.org/2025/12/08/nx-s1-5629191/bird-flu-hasnt-reached-australia-but-researchers-are-prepping-for-when-it-arrives) (NPR)
-
-## 25-50 (dengue)
-
-- [DF terá 52 pontos de vacinação neste sábado (13/12). Confira locais](https://www.metropoles.com/distrito-federal/df-tera-52-pontos-de-vacinacao-neste-sabado-13-12-confira-locais) (Metropoles.com)
-
-- [The biggest mosquito-borne disease in the world has a cure. There’s just one problem](https://www.vox.com/future-perfect/471977/the-biggest-mosquito-borne-disease-in-the-world-has-a-cure-theres-just-one-problem) (Vox)
-
-- [SFT Combat 58 será exibido ao vivo na Pluto TV com 11 lutas e estreia de Dengue Silva](https://www.ouniversodatv.com/2025/12/sft-combat-58-sera-exibido-ao-vivo-na.html) (Ouniversodatv.com)
-
-- [Cuba confirma 3 nuevos muertos por la epidemia de dengue y Chikungunya; ya suman 47](https://www.milenio.com/internacional/cuba-confirma-muertos-por-la-epidemia-de-dengue-y-chikungunya) (Milenio)
-
-- [Dengue Hot on the Heels of Disaster](https://english.gossiplankanews.com/2025/12/dengue-hot-on-heels-of-disaster.html) (Gossiplankanews.com)
-
-- [Asymmetrically glycosylated IgG1 antibodies are universal and drive human disease](https://www.nature.com/articles/s41467-025-67070-3) (Nature.com)
-
-- [España endurece la recomendación de no viajar a Cuba ante el aumento de enfermedades víricas](https://www.elconfidencialdigital.com/articulo/vivir/espana-endurece-recomendacion-viajar-cuba-aumento-enfermedades-viricas/20251210214439993500.html) (Elconfidencialdigital.com)
-
-- [À Cuba, l’épidémie de chikungunya transforme les habitants en une “armée de zombies”](https://www.courrierinternational.com/article/crise-sanitaire-a-cuba-l-epidemie-de-chikungunya-transforme-les-habitants-en-une-armee-de-zombies_238361) (Courrier International)
-
-- [Vacina contra dengue será dada a profissionais da saúde em janeiro](https://www.metropoles.com/saude/vacina-contra-dengue-em-janeiro) (Metropoles.com)
-
-- [Mosquitoes: The most dangerous animals in the world?](https://www.dw.com/en/mosquitoes-the-most-dangerous-animals-in-the-world/a-75090964) (DW (English))
-
-- [Are mosquitoes the most dangerous animals in the world?](https://www.dw.com/en/mosquito-bites-kill-thousands-yearly-dengue-malaria-zika-west-nile-virus/a-75090964) (DW (English))
-
-- [Why Seasonal Disease Spread Follows Predictable Epidemiology Cycles (And How to Spot the Next Outbreak)](https://www.medicaldaily.com/why-seasonal-disease-spread-follows-predictable-epidemiology-cycles-how-spot-next-outbreak-474193) (Medical Daily)
-
-- [¿Una cura contra el dengue? Los primeros pasos están dados](https://www.milenio.com/ciencia-y-salud/cura-contra-dengue-dan-primeros-pasos-para-combatir-enfermedad) (Milenio)
-
-- [Vacina do Butantan contra dengue começa a ser aplicada em janeiro](https://olhardigital.com.br/2025/12/09/medicina-e-saude/vacina-do-butantan-contra-dengue-comeca-a-ser-aplicada-em-janeiro/) (Olhardigital.com.br)
-
-- [Ministério da Saúde anuncia nova estratégia para vacinação contra a dengue](https://www.infomoney.com.br/saude/ministerio-da-saude-anuncia-nova-estrategia-para-vacinacao-contra-a-dengue/) (InfoMoney)
-
-- [Dengue: Saúde divulga estratégia para vacinação com doses do Butantan](https://veja.abril.com.br/saude/dengue-saude-divulga-estrategia-para-vacinacao-com-doses-do-butantan/) (Abril.com.br)
-
-- [Role of invasive Aedes (Aedimorphus) vittatus in chikungunya virus transmission in the newly-invaded coastal island city of Mombasa, Kenya](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013738) (Plos.org)
-
-- [Casos de dengue van a la baja en Sonora; suman cinco defunciones en la temporada](https://www.tribuna.com.mx/sonora/2025/12/9/casos-de-dengue-van-la-baja-en-sonora-suman-cinco-defunciones-en-la-temporada-421960.html) (Tribuna.com.mx)
-
-- [Surto de dengue e chikungunya já matou mais de 40 pessoas em Cuba](https://www.terra.com.br/noticias/mundo/surto-de-dengue-e-chikungunya-ja-matou-mais-de-40-pessoas-em-cuba,22ab03b3fb40d8ef3cdfc4328ff467c02h2tmgt3.html) (Terra.com.br)
-
-- [Suben a 44 los muertos por chikungunya y dengue en Cuba](https://www.bostonherald.com/2025/12/08/suben-a-44-los-muertos-por-chikungunya-y-dengue-en-cuba/) (Boston Herald)
-
-- [Anvisa publica registro de vacina contra a dengue do Butantan](https://veja.abril.com.br/saude/anvisa-publica-registro-de-vacina-contra-a-dengue-do-butantan/) (Abril.com.br)
-
-- [Brasileiro está entre os 10 cientistas que moldaram a ciência em 2025](https://www.metropoles.com/ciencia/cientista-brasileiro-nature-2025) (Metropoles.com)
-
-- [Infectologistas explicam como reconhecer os sintomas da dengue](https://www.metropoles.com/saude/como-reconhecer-sintomas-dengue) (Metropoles.com)
-
-- [Dengue: Anvisa concede registro à vacina produzida pelo Butantan](https://ultimosegundo.ig.com.br/brasil/2025-12-08/dengue--anvisa-concede-registro-a-vacina-produzida-pelo-butantan.html) (Ig.com.br)
-
-- [Estratégia brasileira contra a dengue leva pesquisador à lista dos nomes da ciência em 2025](https://olhardigital.com.br/2025/12/08/medicina-e-saude/estrategia-brasileira-contra-a-dengue-leva-pesquisador-a-lista-dos-nomes-da-ciencia-em-2025/) (Olhardigital.com.br)
-
-- [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
-
-- [Anvisa publica registro da vacina contra a dengue do Butantan](https://www.metropoles.com/sao-paulo/anvisa-publica-registro-da-vacina-contra-a-dengue-do-butantan) (Metropoles.com)
-
-- [Anvisa publica registro de imunizante contra a dengue do Butantan](https://www.metropoles.com/saude/anvisa-imunizante-dengue-butantan) (Metropoles.com)
-
-- [Cuba eleva a un total de 44 las muertes en la epidemia de chikunguña y dengue](https://www.20minutos.es/internacional/cuba-eleva-44-las-muertes-epidemia-chikunguna-dengue_6907931_0.html) (20minutos.es)
-
-- [SAMD9L inhibits flavivirus translation independently of its capacity to trigger innate immune response](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013773) (Plos.org)
-
-- [Mücken: Die gefährlichsten Tiere der Welt?](https://www.dw.com/de/m%C3%BCcken-die-gef%C3%A4hrlichsten-tiere-der-welt/a-75009767) (DW (English))
-
-- [Johor dengue cases down more than half from 2024, says exco member](https://www.thestar.com.my/news/nation/2025/12/08/johor-dengue-cases-down-more-than-half-from-2024-says-exco-member) (The Star Online)
-
-- [México reporta mil 54 nuevos casos de dengue](https://www.excelsior.com.mx/nacional/dengue-en-mexico-reportan-mil-54-nuevos-casos/1756104) (Excelsior.com.mx)
-
-## 25-50 (chikungunya)
-
-- [Cuba confirma 3 nuevos muertos por la epidemia de dengue y Chikungunya; ya suman 47](https://www.milenio.com/internacional/cuba-confirma-muertos-por-la-epidemia-de-dengue-y-chikungunya) (Milenio)
-
-- [À Cuba, l’épidémie de chikungunya transforme les habitants en une “armée de zombies”](https://www.courrierinternational.com/article/crise-sanitaire-a-cuba-l-epidemie-de-chikungunya-transforme-les-habitants-en-une-armee-de-zombies_238361) (Courrier International)
-
-- [Valneva reports 'positive' final Phase 2 results for chikungunya vaccine](https://thefly.com/permalinks/entry.php/id4254094/VALN-Valneva-reports-positive-final-Phase--results-for-chikungunya-vaccine) (Thefly.com)
-
-- [Valneva Reports Positive Final Phase 2 Antibody Persistence and Safety Results in Children for its Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2025/12/10/3203393/0/en/Valneva-Reports-Positive-Final-Phase-2-Antibody-Persistence-and-Safety-Results-in-Children-for-its-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
-
-- [Valneva annonce des résultats finaux de Phase 2 positifs sur la persistance des anticorps et l’innocuité de son vaccin contre le chikungunya IXCHIQ® chez les enfants](https://www.globenewswire.com/news-release/2025/12/10/3203393/0/fr/Valneva-annonce-des-r%C3%A9sultats-finaux-de-Phase-2-positifs-sur-la-persistance-des-anticorps-et-l-innocuit%C3%A9-de-son-vaccin-contre-le-chikungunya-IXCHIQ-chez-les-enfants.html) (GlobeNewswire)
-
-- [Role of invasive Aedes (Aedimorphus) vittatus in chikungunya virus transmission in the newly-invaded coastal island city of Mombasa, Kenya](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013738) (Plos.org)
-
-- [Surto de dengue e chikungunya já matou mais de 40 pessoas em Cuba](https://www.terra.com.br/noticias/mundo/surto-de-dengue-e-chikungunya-ja-matou-mais-de-40-pessoas-em-cuba,22ab03b3fb40d8ef3cdfc4328ff467c02h2tmgt3.html) (Terra.com.br)
-
-- [Suben a 44 los muertos por chikungunya y dengue en Cuba](https://www.bostonherald.com/2025/12/08/suben-a-44-los-muertos-por-chikungunya-y-dengue-en-cuba/) (Boston Herald)
-
-- [CDC warns Americans traveling to 4 countries over outbreak of untreatable mosquito disease](https://www.foxnews.com/us/cdc-warns-americans-traveling-4-countries-outbreak-untreatable-mosquito-disease) (Fox News)
-
-- [Brasileiro criador do Aedes que bloqueia dengue entra em lista de destaques da Nature](https://www.infomoney.com.br/brasil/brasileiro-criador-do-aedes-que-bloqueia-dengue-entra-em-lista-de-destaques-da-nature/) (InfoMoney)
-
-- [Chikungunya : près de la moitié des habitants de La Réunion ont été contaminés en 2025](https://www.franceinfo.fr/sante/maladie/chikungunya/chikungunya-pres-de-la-moitie-des-habitants-de-la-reunion-ont-ete-contamines-en-2025_7665814.html) (Franceinfo.fr)
