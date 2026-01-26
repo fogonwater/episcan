@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-01-25 19:06
-- **Most recent article:** 2026-01-24 15:12:45
+- **New articles in last harvest:** 8
+- **Last harvest:** 2026-01-26 07:14
+- **Most recent article:** 2026-01-25 05:50:25
 
 ---
 
@@ -10,35 +10,59 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 37 | 31 | 35 | 26 | 47 | 63 | 87 | 326 |
-| dengue | 24 | 11 | 4 | 1 | 12 | 22 | 26 | 100 |
-| rabies | 10 | 20 | 8 | 6 | 10 | 10 | 12 | 76 |
-| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 65 |
-| malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 63 |
-| mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 49 |
-| meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 44 |
-| chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 7 | 23 |
-| zika | 2 | 3 | 2 | 0 | 4 | 6 | 2 | 19 |
-| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 18 |
-| yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 1 | 13 |
-| hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 12 |
-| typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 11 |
-| pertussis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 4 |
+| Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| measles | 38 | 31 | 35 | 26 | 47 | 63 | 88 | 1 | 329 |
+| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 27 | 0 | 103 |
+| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 1 | 78 |
+| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 1 | 66 |
+| malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 0 | 63 |
+| mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 1 | 50 |
+| meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 0 | 44 |
+| chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 0 | 25 |
+| zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 0 | 20 |
+| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 0 | 18 |
+| yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 0 | 14 |
+| typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 12 |
+| hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 0 | 12 |
+| pertussis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 26-5 (typhoid)
+
+- [Corps member dies weeks into service](https://punchng.com/corps-member-dies-weeks-into-service/) (The Punch)
+
+## 26-5 (rabies)
+
+- [Can you get rabies from sugar glider?](https://www.lifesciencesworld.com/can-you-get-rabies-from-sugar-glider/) (Lifesciencesworld.com)
+
+## 26-5 (mpox)
+
+- [В Индии зафиксировали вспышку смертельного вируса Нипах: что известно](https://news.mail.ru/society/69550718/) (Mail.ru)
+
+## 26-5 (measles)
+
+- [Trump Public Health Doc Shrugs Off Measles Surge: ‘Cost Of Doing Business’](https://crooksandliars.com/2026/01/trump-public-health-doc-shrugs-measles) (Crooksandliars.com)
+
+## 26-5 (h5n1)
+
+- [В Индии зафиксировали вспышку смертельного вируса Нипах: что известно](https://news.mail.ru/society/69550718/) (Mail.ru)
+
 ## 26-4 (zika)
+
+- [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
 
 - [¿Por qué los mosquitos prefieren cada vez más la sangre humana?](https://www.nacion.com/ciencia/por-que-los-mosquitos-prefieren-cada-vez-mas-la/BQP4QR2GDVAUZLC7CATKJJGG5U/story/) (Nacion.com)
 
 - [Qué es la osteomielitis púbica que sufre Salvador Illa: un rarísimo trastorno causado por una infección bacteriana](https://www.elespanol.com/ciencia/20260119/neurologia-salvador_illa_roca-espana-ciencia/1003744095511_0.html) (Elespanol.com)
 
 ## 26-4 (yersinia)
+
+- [Врачи назвали способную защитить от тяжелых заболеваний малоизвестную добавку](https://rg.ru/2026/01/24/vrachi-nazvali-sposobnuiu-zashchitit-ot-tiazhelyh-zabolevanij-maloizvestnuiu-dobavku.html) (Rg.ru)
 
 - [El yacimiento que da cuenta de la devastadora Peste de Justiniano, la pandemia que asoló al Imperio Bizantino](https://www.eldiario.es/spin/yacimiento-da-cuenta-devastadora-peste-justiniano-pandemia-asolo-imperio-bizantino-pm_1_12923767.html) (Eldiario.es)
 
@@ -109,6 +133,8 @@ Source: [News API](https://newsapi.org/)
 - [Australian cricket great Damien Martyn says he was given 50/50 chance of living after meningitis scare](https://www.nzherald.co.nz/sport/cricket/australian-cricket-great-damien-martyn-says-he-was-given-5050-chance-of-living-after-meningitis-scare/YC56YZ5AVJAE3BIB6UH54ICKL4/) (New Zealand Herald)
 
 ## 26-4 (measles)
+
+- [Kennedy’s head of U.S. vaccine panel wants to see kids get measles, polio. For science!](https://www.lawyersgunsmoneyblog.com/2026/01/kennedys-head-of-u-s-vaccine-panel-wants-to-see-kids-get-measles-polio-for-science) (Lawyersgunsmoneyblog.com)
 
 - [18 more measles cases, 4 new exposure sites confirmed in Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-18-new-confirmed-cases-9.7059574) (CBC News)
 
@@ -358,6 +384,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-4 (dengue)
 
+- [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
+
 - [DF tem vacinação gratuita neste fim de semana; veja os locais](https://www.metropoles.com/distrito-federal/df-tem-vacinacao-gratuita-neste-fim-de-semana-veja-os-locais) (Metropoles.com)
 
 - [En Bolivie, où est passé Evo Morales ?](https://www.courrierinternational.com/article/absence-en-bolivie-ou-est-passe-evo-morales_239745) (Courrier International)
@@ -411,6 +439,10 @@ Source: [News API](https://newsapi.org/)
 - [Cidades do CE e MG iniciam vacinação contra dengue com dose única](https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/cidades-do-ce-e-mg-iniciam-vacinacao-contra-dengue-com-dose-unica) (Ebc.com.br)
 
 ## 26-4 (chikungunya)
+
+- [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
+
+- [Chikungunya: Salud interviene Esparza tras detectar primer caso desde 2017](https://www.nacion.com/el-pais/chikungunya-salud-interviene-esparza-tras-detectar/XQJT3YHTE5DRTH5DFS5NDFAIFI/story/) (Nacion.com)
 
 - [Bavarian Nordic Signs Distribution Agreement with Eurofarma to Expand Access to Chikungunya Vaccine in Brazil](https://www.globenewswire.com/news-release/2026/01/23/3224417/0/en/Bavarian-Nordic-Signs-Distribution-Agreement-with-Eurofarma-to-Expand-Access-to-Chikungunya-Vaccine-in-Brazil.html) (GlobeNewswire)
 
@@ -1614,6 +1646,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Does seeing a raccoon during the day mean it has rabies?](https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/) (Lifesciencesworld.com)
 
+- [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
+
 ## 25-51 (mpox)
 
 - [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
@@ -1713,6 +1747,8 @@ Source: [News API](https://newsapi.org/)
 - [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
 
 - [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
+
+- [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
 
@@ -1841,6 +1877,10 @@ Source: [News API](https://newsapi.org/)
 - [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
+
+- [México rebasa los 20 mil contagios por dengue](https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359) (Excelsior.com.mx)
+
+- [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
 
