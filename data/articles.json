@@ -1,8 +1,62 @@
 {
-  "last_updated": "2026-01-26 07:14",
-  "count_articles_total": 804,
-  "count_articles_new": 8,
+  "last_updated": "2026-01-26 19:11",
+  "count_articles_total": 803,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 27081,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Lagos first lady unveils measles-rubella immunisation campaign Tuesday",
+      "description": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on the Lagos State Government\u2019s official social media handle on Su\u2026",
+      "url": "https://punchng.com/?p=2045546",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
+      "publishedAt": "2026-01-25 14:41:34",
+      "content": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on th\u2026 [+2700 chars]",
+      "retrievedAt": "2026-01-26 19:11:10.460268",
+      "internal_id": "66fde195d05cd4d77d4977a5f7bb3359cdec4c4652401c0186f0f4cec6b3f020",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 27082,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Measles infection spreads in Malangwa",
+      "description": "SARLAHI: Measles infection has spread in Malangwa Municipality\u20133, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection has been detected in the area and that 22 suspected cases h\u2026",
+      "url": "https://english.khabarhub.com/2026/25/532402/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/04/Measles-khabarhub.jpg",
+      "publishedAt": "2026-01-25 10:45:06",
+      "content": "SARLAHI: Measles infection has spread in Malangwa Municipality3, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection\u2026 [+757 chars]",
+      "retrievedAt": "2026-01-26 19:11:10.626299",
+      "internal_id": "9f5a7847a4697dd80b59a6ce7da8e804fc20488ee0d73aabd6c4b34154c2d81e",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 27083,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What is the disease in mice urine?",
+      "description": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially deadly disease in humans. Understanding the risks associated with\u2026",
+      "url": "https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-25 07:45:54",
+      "content": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially dead\u2026 [+9567 chars]",
+      "retrievedAt": "2026-01-26 19:11:12.445676",
+      "internal_id": "53abdcbd212fcdcbaecd03c9bbc6ce42512614cf0ae942fdc4e6001cdeda4f24",
+      "publishedAtLabel": "Jan 25"
+    },
     {
       "id": 27073,
       "query": [
@@ -14435,78 +14489,6 @@
       "content": "The Federal Government on Sunday said malaria transmission is declining sharply in Lagos State, citing sustained investments in prevention, testing and treatment as evidence that malaria elimination \u2026 [+4034 chars]",
       "retrievedAt": "2025-12-16 07:10:05.923125",
       "internal_id": "1af21ae4cbef358ce131423720ec9bc0c4f90db404d57b776b8d6fce6d657153",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26279,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Excelsior.com.mx",
-      "author": "angel.salinas",
-      "title": "M\u00e9xico rebasa los 20 mil contagios por dengue",
-      "description": "Patricia Rodr\u00edguez Calva Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado por la secretar\u00eda de Salud, se\u00f1al\u2026",
-      "url": "https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359",
-      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/14/3435476.jpg",
-      "publishedAt": "2025-12-14 18:17:40",
-      "content": "Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado \u2026 [+3664 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.411445",
-      "internal_id": "0c4ba9b31b21a4c73403b9e5f5df1249089a367b6d729aba54f9d1ecb19a1acc",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26276,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Mike LaChance",
-      "title": "New Pro-Life Group at U. Southern Maine Faces Vicious Harassment",
-      "description": "\u201c[W]ishing rabies upon your family\u201d The post New Pro-Life Group at U. Southern Maine Faces Vicious Harassment first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Craziness-On-Campus.jpg",
-      "publishedAt": "2025-12-14 16:00:43",
-      "content": "Where are all of the Maine Democrats to denounce this? These students aren\u2019t hurting anyone.University of Southern Maine pro-life group faced with harassment, including veiled threat referencing Kirk\u2026 [+1526 chars]",
-      "retrievedAt": "2025-12-15 19:08:00.841246",
-      "internal_id": "2245f2051e0d7fb1a1b91b7133a4cf60f19684cad3bd2613d7df9c26cb55b81c",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26277,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ayesha Rascoe",
-      "title": "Measles cases spike in South Carolina",
-      "description": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "url": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2025-12-14 13:23:09",
-      "content": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "retrievedAt": "2025-12-15 19:08:01.281401",
-      "internal_id": "5e6702016d39e872fae6b49e046467c56995a1004f3e43a72ab4b4c9f2e4de04",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26280,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection on the decline",
-      "description": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from both diseases has dropped significantly in December. Accordin\u2026",
-      "url": "https://english.khabarhub.com/2025/14/511487/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-12-14 07:45:55",
-      "content": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from \u2026 [+933 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.455423",
-      "internal_id": "ea32c69e4aa7af9bc37a75cdaa05f9f22ad7465532f7255a0f1952c7d7db7742",
       "publishedAtLabel": "Dec 14"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-01-26 07:14
-- **Most recent article:** 2026-01-25 05:50:25
+- **New articles in last harvest:** 3
+- **Last harvest:** 2026-01-26 19:11
+- **Most recent article:** 2026-01-25 14:41:34
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 38 | 31 | 35 | 26 | 47 | 63 | 88 | 1 | 329 |
-| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 27 | 0 | 103 |
-| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 1 | 78 |
+| measles | 37 | 31 | 35 | 26 | 47 | 63 | 88 | 3 | 330 |
+| dengue | 24 | 11 | 4 | 1 | 12 | 22 | 27 | 0 | 101 |
+| rabies | 10 | 20 | 8 | 6 | 10 | 10 | 12 | 1 | 77 |
 | h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 1 | 66 |
 | malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 0 | 63 |
 | mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 1 | 50 |
 | meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 0 | 44 |
 | chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 0 | 25 |
 | zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 0 | 20 |
-| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 0 | 18 |
+| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 1 | 19 |
 | yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 0 | 14 |
 | typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 12 |
 | hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 0 | 12 |
@@ -46,7 +46,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (measles)
 
+- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
+
+- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
+
 - [Trump Public Health Doc Shrugs Off Measles Surge: ‘Cost Of Doing Business’](https://crooksandliars.com/2026/01/trump-public-health-doc-shrugs-measles) (Crooksandliars.com)
+
+## 26-5 (leptospirosis)
+
+- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (h5n1)
 
@@ -1646,8 +1654,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Does seeing a raccoon during the day mean it has rabies?](https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/) (Lifesciencesworld.com)
 
-- [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
-
 ## 25-51 (mpox)
 
 - [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
@@ -1747,8 +1753,6 @@ Source: [News API](https://newsapi.org/)
 - [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
 
 - [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
-
-- [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
 
@@ -1877,10 +1881,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
-
-- [México rebasa los 20 mil contagios por dengue](https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359) (Excelsior.com.mx)
-
-- [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
 
