@@ -1,8 +1,332 @@
 {
-  "last_updated": "2026-01-27 07:13",
-  "count_articles_total": 816,
-  "count_articles_new": 9,
+  "last_updated": "2026-01-27 19:13",
+  "count_articles_total": 830,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 27097,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "European countries including UK lose measles elimination status",
+      "description": "LONDON, Jan 26 (Reuters) - Britain and several \u200cother European countries have lost their measles elimination status, the World Health Organization \u200csaid on Monday, after a jump in infections across the continent. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2026/01/27/european-countries-including-uk-lose-measles-elimination-status",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/27/3740032.jpg",
+      "publishedAt": "2026-01-26 18:47:00",
+      "content": "LONDON, Jan 26 (Reuters) - Britain and several other European countries have lost their measles elimination status, the World Health Organization said on Monday, after a jump in infections across the\u2026 [+2145 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.112994",
+      "internal_id": "ee539bcd46556c05a58a8f3b2a7a30b4204edc25c2c722ec7a0614fd621f692a",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27095,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "UK loses measles elimination status, warns WHO",
+      "description": "The UK has lost its measles elimination status from the World Health Organisation (WHO) after vaccination coverage plateaued and cases surged.",
+      "url": "https://news.sky.com/story/uk-loses-measles-elimination-status-warns-who-13499336",
+      "urlToImage": "https://e3.365dm.com/24/04/1600x900/skynews-measles-child_6536139.jpg?20240428095436",
+      "publishedAt": "2026-01-26 17:50:00",
+      "content": "The UK has lost its measles elimination status from the World Health Organisation (WHO) after vaccination coverage plateaued and cases surged. From 2021 to 2023, the country was considered to have \"\u2026 [+2738 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.039206",
+      "internal_id": "7a97a52a8b11448bdcc80021f85e49c4c86b8ca4011725a35a6eacd6a699c143",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27094,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "European countries including UK lose measles elimination status",
+      "description": "LONDON, Jan 26 (Reuters) - Britain and several other European countries have lost their measles elimination status, the World Health Organization said on Monday, after a \u2026 Leggi",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/26/european-countries-including-uk-lose-measles-elimination-status",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2026-01-26 17:45:50",
+      "content": "LONDRA, 26 gennaio (Reuters) - La Gran Bretagna e molti altri Paesi europei hanno perso lo status di paese eliminatore del morbillo, ha dichiarato luned\u00ec lOrganizzazione Mondiale della Sanit\u00e0, dopo u\u2026 [+2568 chars]",
+      "retrievedAt": "2026-01-27 19:13:11.993899",
+      "internal_id": "0e645dc5640cb0bf3b907befaf4c39986ae72b88cba878caa9212bfc8eeaae8c",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27110,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Florence Rosier",
+      "title": "La peste, cette arme potentielle de guerre biologique",
+      "description": "Des foyers infectieux subsistent dans le monde, la troisi\u00e8me pand\u00e9mie de peste n\u2019\u00e9tant pas \u00e9teinte. Mais la grande menace reste l\u2019usage de \u00ab Yersinia pestis \u00bb comme arme biologique. Des laboratoires acad\u00e9miques ou des biotechs tentent de d\u00e9velopper des vaccin\u2026",
+      "url": "https://www.lemonde.fr/sciences/article/2026/01/26/la-peste-cette-arme-potentielle-de-guerre-biologique_6664193_1650684.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/23/43/0/1034/689/1440/960/60/0/2f6f559_upload-1-uhsboakplgyu-000-489z6cr.jpg",
+      "publishedAt": "2026-01-26 16:30:10",
+      "content": "Cette image prise au microscope en 2024, et publi\u00e9e par lInstitut Pasteur le 27 mai 2025, montre des macrophages infect\u00e9s par la bact\u00e9rie \u00ab Yersinia pestis \u00bb. ANNE DERBISE, JOSE BARQUERO/AFP La pest\u2026 [+1474 chars]",
+      "retrievedAt": "2026-01-27 19:13:14.793634",
+      "internal_id": "6a69c1a4da7ed78578e69aa541306cdaca76e2fa6389ea06cdf49c15237ec911",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27096,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Ella Pickover",
+      "title": "Warning over measles as disease \u2018re-established\u2019 in UK",
+      "description": "From 2021 to 2023, the UK had previously held the status of having eliminated the disease",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-rash-symptoms-vaccine-mmrv-b2907810.html",
+      "urlToImage": "https://static.the-independent.com/2025/09/04/15/24/iStock-1352273258.jpeg?trim=0,1,0,1&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-01-26 15:49:55",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+3417 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.093845",
+      "internal_id": "1c35320cec9b98cb9ac370f88f61d14e0602c68f5c1783e07c70e49af472b650",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27100,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Antik\u00f6rper in der Milch: Vogelgrippe erstmals bei Kuh in Europa festgestellt",
+      "description": "Als eine Katze auf einem Milchvieh-Betrieb an der Vogelgrippe stirbt, l\u00e4uten im niederl\u00e4ndischen Friesland die Alarmglocken. Und tats\u00e4chlich: In der Milch eines Rinds werden H5N1-Antik\u00f6rper nachgewiesen. Es ist der erste Fall au\u00dferhalb der USA.",
+      "url": "https://www.n-tv.de/wissen/Vogelgrippe-erstmals-bei-Kuh-in-Europa-festgestellt-id30286326.html",
+      "urlToImage": "https://www.n-tv.de/img/30286291/1769444725/Img_16_9/1200/Erstmals-sind-in-Europa-bei-einer-Kuh-Antikoerper-gegen-die-Vogelgrippe-festgestellt-worden.jpg",
+      "publishedAt": "2026-01-26 15:41:35",
+      "content": "Das betroffene Tier litt unter anderem an Atemwegsproblemen. (Foto: Oliver Berg/dpa) Als eine Katze auf einem Milchvieh-Betrieb an der Vogelgrippe stirbt, l\u00e4uten im niederl\u00e4ndischen Friesland die Al\u2026 [+1849 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.635706",
+      "internal_id": "fdcef754cc63080baf658b48082d66ea21b98e77dfc5a54ce53bced3ce416bf7",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27093,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "UK loses measles elimination status",
+      "description": "Decision made after outbreaks in 2024, when there were nearly 3,000 cases in England and Wales.",
+      "url": "https://www.bbc.com/news/articles/cgjw0xegxglo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bc61/live/c0e563a0-fac7-11f0-9951-335577236554.jpg",
+      "publishedAt": "2026-01-26 15:04:44",
+      "content": "The UK has lost its measles elimination status, the World Health Organization has announced. The move was based on the spread of cases in 2024 when there were nearly 3,000 cases in England and Wales\u2026 [+893 chars]",
+      "retrievedAt": "2026-01-27 19:13:11.965062",
+      "internal_id": "e179ac43cb8892dc1c2107c84a60daa3bb99fcdae49733a38f0f48c885d31fe2",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27103,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Erster Nachweis au\u00dferhalb USA: Vogelgrippe bei Kuh in den Niederlanden \u2013 Was bedeutet das?",
+      "description": "Erstmals wird das Vogelgrippe-Virus bei einer Kuh au\u00dferhalb der USA nachgewiesen \u2013 in den Niederlanden. Was bedeutet das f\u00fcr Verbraucher und Betriebe in Europa?",
+      "url": "https://www.tagesspiegel.de/wissen/erster-nachweis-ausserhalb-usa-vogelgrippe-bei-kuh-in-den-niederlanden--was-bedeutet-das-15184224.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15184999/alternates/BASE_16_9_W1400/1769445689000/kuhstall.jpeg",
+      "publishedAt": "2026-01-26 14:54:28",
+      "content": "Das Vogelgrippe-Virus ist in den Niederlanden und damit erstmals au\u00dferhalb der USA bei einer Kuh nachgewiesen worden. In der Milch des Tieres wurden Antik\u00f6rper gegen den Erreger H5N1 gefunden, wie au\u2026 [+6090 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.665174",
+      "internal_id": "10cc9e11033bc552d05ffcf111544c2a3877e65da1d82642e941bfc7e0e36d7e",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27098,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": null,
+      "title": "14th meeting of the European Regional Verification Commission for Measles and Rubella Elimination (RVC)",
+      "description": "Event highlightsAt its 14th meeting, the European Regional Verification Commission for Measles and Rubella Elimination (RVC) emphasized that measles and rubella elimination and verification remain priorities for the WHO European Region and globally. Based on \u2026",
+      "url": "https://www.who.int/europe/news-room/events/item/2025/09/15/default-calendar/14th-meeting-of-the-european-regional-verification-commission-for-measles-and-rubella-elimination-(rvc)",
+      "urlToImage": "https://cdn.who.int/media/images/librariesprovider2/logos/icons/who-european-region-emblem-on-blue.tmb-1200v.png?sfvrsn=2810f2e7_4",
+      "publishedAt": "2026-01-26 14:40:09",
+      "content": "Event highlights At its 14th meeting, the European Regional Verification Commission for Measles and Rubella Elimination (RVC) emphasized that measles and rubella elimination and verification remain \u2026 [+6637 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.177188",
+      "internal_id": "e4f7dc897b11e33c4a7d47e6ebf0e827b63b78810395524bf8eea1dd1c582651",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27106,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Enamed: leia quest\u00f5es consideradas f\u00e1ceis para alunos de Medicina que tiveram alto \u00edndice de erros entre reprovados",
+      "description": "Enamed: leia quest\u00f5es consideradas f\u00e1ceis para alunos de Medicina que tiveram alto \u00edndice de erros entre os reprovados O Fant\u00e1stico teve acesso ao relat\u00f3rio do Exame Nacional de Avalia\u00e7\u00e3o da Forma\u00e7\u00e3o M\u00e9dica (Enamed), que teve mais de 30% dos cursos reprovados\u2026",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/01/26/enamed-leia-questoes-consideradas-faceis-para-alunos-de-medicina-que-tiveram-alto-indice-de-erros-entre-reprovados.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/0VWzHBLIBBCFoI33SZlQzecDngA=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/51/69/14286951",
+      "publishedAt": "2026-01-26 14:07:56",
+      "content": "QUEST\u00c3O 26 Dengue (classifica\u00e7\u00e3o e manejo) Homem de 34 anos se dirige \u00e0 Unidade B\u00e1sica de Sa\u00fade (UBS) com febre (38,5 \u00b0C), dores de moderada intensidade e manchas no corpo h\u00e1 3 dias. No dia da consu\u2026 [+5907 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.940773",
+      "internal_id": "7d0e656b04cdcb4ffdecb858408c2ed8999c018134f3fc1972cadeda7093af18",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27101,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Detectan gripe aviar en una vaca por primera vez en Europa",
+      "description": "Europa ha registrado su primera vaca contagiada por el virus de la gripe aviar . La Autoridad Neerlandesa de Seguridad Alimentaria y de Productos de Consumo ha detectado anticuerpos frente al H5N1 en una vaca lechera de una explotaci\u00f3n en Frisia (Pa\u00edses Bajos\u2026",
+      "url": "https://www.abc.es/sociedad/detectan-gripe-aviar-vaca-primera-vez-europa-20260126144341-nt.html",
+      "urlToImage": "https://s3.abcstatics.com/abc/www/multimedia/sociedad/2026/01/26/vacas-U64878516613lkX-1024x512@diario_abc.jpg",
+      "publishedAt": "2026-01-26 13:44:30",
+      "content": "Europa ha registrado su primeravaca contagiada por el virus de la gripe aviar. La Autoridad Neerlandesa de Seguridad Alimentaria y de Productos de Consumo ha detectado anticuerpos frente al H5N1 en u\u2026 [+2027 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.645422",
+      "internal_id": "8445aa8fd7cedfe0e6638d77da7b0b64696e25221f0dde3a8835b741ef5272ab",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27107,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Kwesi Akonu Adom Mensah Forson, PhD. Candidate in Biology, University of Virginia",
+      "title": "Malaria researchers are getting closer to outsmarting the world\u2019s deadliest parasite",
+      "description": "After decades of stalled progress, new vaccines, treatments and genetic tools are helping scientists protect children and save lives worldwide.",
+      "url": "https://theconversation.com/malaria-researchers-are-getting-closer-to-outsmarting-the-worlds-deadliest-parasite-268316",
+      "urlToImage": "https://images.theconversation.com/files/701310/original/file-20251110-64-iwylkc.jpeg?ixlib=rb-4.1.0&rect=0%2C26%2C3032%2C1516&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-01-26 13:35:40",
+      "content": "Malaria is transmitted to people by mosquitoes infected with a parasite from the _Plasmodium_ family. Jim Gathany via CDC/Dr. William Collins Every year, malaria kills more than 600,000 people world\u2026 [+7628 chars]",
+      "retrievedAt": "2026-01-27 19:13:13.394670",
+      "internal_id": "9d3aad7e91e7f6906c94703da3eee5e2f1a4d2dbf587534864e800747386cfb0",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27108,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "cosmo.santoni@imperial.ac.uk",
+      "title": "minte 1.3.1",
+      "description": "Malaria Intervention Emulator (MINTe) - Neural network-based malaria scenario predictions",
+      "url": "https://pypi.org/project/minte/1.3.1/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-26 13:09:53",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-01-27 19:13:13.414120",
+      "internal_id": "afd9708cde25b97cf1d2cbc794b8907ec6621055a072bf695efb2cd8a3878dbe",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27099,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Expansion.com",
+      "author": "Marga Castillo",
+      "title": "Detectan por primera vez una vaca infectada por gripe aviar fuera de Estados Unidos",
+      "description": "Pa\u00edses Bajos ha comunicado un caso de anticuerpos contra el virus de la gripe aviar (H5N1) en una vaca lechera, la primera vez que se detecta la presencia del virus en el ganado fuera de Estados Unidos. El Gobierno neerland\u00e9s ha notificado este episodio despu\u2026",
+      "url": "https://www.expansion.com/directivos/estilo-vida/salud/2026/01/26/6977527ee5fdeabd088b459e.html",
+      "urlToImage": "https://e01-phantom-expansion.uecdn.es/f603fe646e6f9907ba23897472b502f7/crop/34x15/2001x1326/resize/1200/f/webp/assets/multimedia/imagenes/2021/03/30/16171118712966.jpg",
+      "publishedAt": "2026-01-26 12:40:54",
+      "content": "Pa\u00edses Bajos ha comunicado un caso de anticuerpos contra el virus de la gripe aviar (H5N1) en una vaca lechera, la primera vez que se detecta la presencia del virus en el ganado fuera de Estados Unid\u2026 [+6865 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.617054",
+      "internal_id": "6e80187f933d5f286550495c6a84b057bb7d017bec64750df5983cd4fe04c52b",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27104,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "YLE News",
+      "author": null,
+      "title": "City of Helsinki confirms four avian influenza cases in waterbirds",
+      "description": "The H5N1 infections were found in three geese and a swan.",
+      "url": "https://yle.fi/a/74-20206448",
+      "urlToImage": "https://images.cdn.yle.fi/image/upload/c_crop,x_0,y_403,w_4255,h_2394/w_1200,ar_1.91,c_fill/q_auto:eco,f_auto,fl_lossy/v1615298893/39-78265160478105ce88a",
+      "publishedAt": "2026-01-26 11:05:20",
+      "content": "According to the City of Helsinki, health authorities have confirmed avian influenza infections in four waterbirds in the city this month. The infections were confirmed in a swan and three geese in \u2026 [+1579 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.674729",
+      "internal_id": "6de885b415f0f43417dfbbddf7fd3489945f5893499f46d0c49ee48e888cc8bc",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27109,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u0627\u0644\u062c\u0632\u064a\u0631\u0629 \u0646\u062a",
+      "title": "\u0623\u0641\u0631\u064a\u0642\u064a\u0627 \u062a\u0631\u0641\u0639 \u062d\u0627\u0644\u0629 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u0644\u0635\u062d\u064a\u0629 \u0628\u0634\u0623\u0646 \u062c\u062f\u0631\u064a \u0627\u0644\u0642\u0631\u062f\u0629 \u0628\u0639\u062f \u062a\u0631\u0627\u062c\u0639 \u0627\u0644\u0625\u0635\u0627\u0628\u0627\u062a",
+      "description": "\u0623\u0639\u0644\u0646 \u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0623\u0641\u0631\u064a\u0642\u064a \u0631\u0641\u0639 \u0627\u0644\u0637\u0648\u0627\u0631\u0626 \u0627\u0644\u0635\u062d\u064a\u0629 \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0645\u0631\u0636 \"\u0627\u0644\u0645\u0628\u0648\u0643\u0633\" \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0633\u0627\u0628\u0642\u0627 \u0628\u0627\u0633\u0645 \"\u062c\u062f\u0631\u064a \u0627\u0644\u0642\u0631\u062f\u0629\" \u0628\u0639\u062f \u0627\u0646\u062e\u0641\u0627\u0636 \u0643\u0628\u064a\u0631 \u0641\u064a \u0627\u0644\u0625\u0635\u0627\u0628\u0627\u062a \u0648\u0627\u0644\u0648\u0641\u064a\u0627\u062a\u060c \u0645\u0639 \u062a\u0631\u0627\u062c\u0639 \u0627\u0644\u0645\u0624\u0634\u0631\u0627\u062a \u0627\u0644\u0648\u0628\u0627\u0626\u064a\u0629 \u0628\u0646\u0633\u0628\u0629 \u0645\u0644\u062d\u0648\u0638\u0629 \u0641\u064a \u0627\u0644\u0642\u0627\u0631\u0629.",
+      "url": "https://www.aljazeera.net/health/2026/1/26/%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d8%aa%d8%b1%d9%81%d8%b9-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d8%a6-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-%d8%a8%d8%b4%d8%a3%d9%86",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2023/02/shutterstock_2230117597.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-01-26 08:56:09",
+      "content": "\"\" (mpox) \" \" . 44 500 / 2025 198 29 . . 40% 60% 2025 . 2024 80 1340 . 5 16 . \" \" . : 1970 : 1 2. / 2022 . / 2025 \" \" . .",
+      "retrievedAt": "2026-01-27 19:13:14.244215",
+      "internal_id": "0de210a3415c1a6ef1154e7a03b1ff3ed9ebb6ff352e1f62f4789fa2cf946c3e",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27105,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "Lintu\u00adinfluenssaa Helsingiss\u00e4",
+      "description": "H5N1-tyypin lintuinfluenssatartunnan riski ihmiselle on pieni. Vesilinnuilla on todettu lintuinfluenssaa Helsingiss\u00e4, tiedottaa Helsingin kaupunki. Virus on varmistunut H5N1-tyypin lintuinfluenssaksi, joka aiheuttaa korkeaa kuolleisuutta luonnonvaraisilla lin\u2026",
+      "url": "https://www.iltalehti.fi/terveysuutiset/a/65d9924e-c827-4727-8765-6284fc0d717a",
+      "urlToImage": "https://img.ilcdn.fi/Y35xLTlSCqbRLIi9QJBK-fxF43I=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/50e9d2b78b7751be4cf3338c1fbeb17ee428f9e2fcc2df800ee0536a73300d5e.jpg",
+      "publishedAt": "2026-01-26 08:16:11",
+      "content": "Vesilinnuilla on todettu lintuinfluenssaa Helsingiss\u00e4, tiedottaa Helsingin kaupunki. Virus on varmistunut H5N1-tyypin lintuinfluenssaksi, joka aiheuttaa korkeaa kuolleisuutta luonnonvaraisilla linnu\u2026 [+2640 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.718578",
+      "internal_id": "d2f529a776d6b6892f1112bf6f30582138c867af25526d75a53995712706b062",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27102,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "Katariina Uusimaa",
+      "title": "Lintuinfluenssaa havaittu Helsingiss\u00e4",
+      "description": "Helsingist\u00e4 on l\u00f6ytynyt luonnonvaraisia lintuja, joilla on todettu H5N1-tyypin lintuinfluenssa.",
+      "url": "https://www.is.fi/kotimaa/art-2000011772946.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/effda0226c5a3fe7f3a52823e0209b99/some/is-default.jpg",
+      "publishedAt": "2026-01-26 08:04:00",
+      "content": "Helsingist\u00e4 on l\u00f6ytynyt luonnonvaraisia lintuja, joilla on todettu H5N1-tyypin lintuinfluenssa.Helsingin Kalliosta on l\u00f6ytynyt tammikuun aikana useita lintuinfluenssaan sairastuneita lintuja, tiedott\u2026 [+1197 chars]",
+      "retrievedAt": "2026-01-27 19:13:12.655673",
+      "internal_id": "1116f73f85bb7f20e798c8865ee3df1ee89fdbcf8fd8cdb20e1fb74e8dc06006",
+      "publishedAtLabel": "Jan 26"
+    },
     {
       "id": 27085,
       "query": [
@@ -14652,78 +14976,6 @@
       "content": "The Federal Government on Sunday said malaria transmission is declining sharply in Lagos State, citing sustained investments in prevention, testing and treatment as evidence that malaria elimination \u2026 [+4034 chars]",
       "retrievedAt": "2025-12-16 07:10:05.923125",
       "internal_id": "1af21ae4cbef358ce131423720ec9bc0c4f90db404d57b776b8d6fce6d657153",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26279,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Excelsior.com.mx",
-      "author": "angel.salinas",
-      "title": "M\u00e9xico rebasa los 20 mil contagios por dengue",
-      "description": "Patricia Rodr\u00edguez Calva Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado por la secretar\u00eda de Salud, se\u00f1al\u2026",
-      "url": "https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359",
-      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/14/3435476.jpg",
-      "publishedAt": "2025-12-14 18:17:40",
-      "content": "Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado \u2026 [+3664 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.411445",
-      "internal_id": "0c4ba9b31b21a4c73403b9e5f5df1249089a367b6d729aba54f9d1ecb19a1acc",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26276,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Mike LaChance",
-      "title": "New Pro-Life Group at U. Southern Maine Faces Vicious Harassment",
-      "description": "\u201c[W]ishing rabies upon your family\u201d The post New Pro-Life Group at U. Southern Maine Faces Vicious Harassment first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Craziness-On-Campus.jpg",
-      "publishedAt": "2025-12-14 16:00:43",
-      "content": "Where are all of the Maine Democrats to denounce this? These students aren\u2019t hurting anyone.University of Southern Maine pro-life group faced with harassment, including veiled threat referencing Kirk\u2026 [+1526 chars]",
-      "retrievedAt": "2025-12-15 19:08:00.841246",
-      "internal_id": "2245f2051e0d7fb1a1b91b7133a4cf60f19684cad3bd2613d7df9c26cb55b81c",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26277,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ayesha Rascoe",
-      "title": "Measles cases spike in South Carolina",
-      "description": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "url": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2025-12-14 13:23:09",
-      "content": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "retrievedAt": "2025-12-15 19:08:01.281401",
-      "internal_id": "5e6702016d39e872fae6b49e046467c56995a1004f3e43a72ab4b4c9f2e4de04",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26280,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection on the decline",
-      "description": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from both diseases has dropped significantly in December. Accordin\u2026",
-      "url": "https://english.khabarhub.com/2025/14/511487/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-12-14 07:45:55",
-      "content": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from \u2026 [+933 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.455423",
-      "internal_id": "ea32c69e4aa7af9bc37a75cdaa05f9f22ad7465532f7255a0f1952c7d7db7742",
       "publishedAtLabel": "Dec 14"
     }
   ]
