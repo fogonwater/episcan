@@ -1,8 +1,134 @@
 {
-  "last_updated": "2026-01-27 19:13",
-  "count_articles_total": 830,
-  "count_articles_new": 18,
+  "last_updated": "2026-01-28 07:12",
+  "count_articles_total": 841,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 27115,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WXII12 Winston-Salem",
+      "author": "Annie Jennemann",
+      "title": "Tracking measles outbreaks and cases in the US",
+      "description": "Tracking measles outbreaks and cases in the USwxii12.com",
+      "url": "https://www.wxii12.com/article/measles-cases-us-data/70089162",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-2026-anniejennemann-69721b38ca9e9.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2026-01-27 03:15:32",
+      "content": "The Hearst Television Data Team is tracking measles cases and outbreaks from the Centers for Disease Control and Prevention. Measles, also called rubeola, is an airborne rash illness that can someti\u2026 [+766 chars]",
+      "retrievedAt": "2026-01-28 07:12:23.427304",
+      "internal_id": "1e6549a7c47cc4d8853e2beddede3b414490cc02940f9617a0f42b006d13e341",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27111,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "How many possums carry rabies?",
+      "description": "How Many Possums Carry Rabies? Debunking the Myth The incidence of rabies in opossums is extremely low, making it very unlikely for a possum to carry the disease. This misconception arises because opossums are frequently reported to animal control, leading to\u2026",
+      "url": "https://www.lifesciencesworld.com/how-many-possums-carry-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-27 00:34:17",
+      "content": "The incidence of rabies in opossums is extremely low, making it very unlikely for a possum to carry the disease. This misconception arises because opossums are frequently reported to animal control, \u2026 [+7754 chars]",
+      "retrievedAt": "2026-01-28 07:12:23.046512",
+      "internal_id": "a23cce5e12647433a2fee7a9b5f1825a46a5d2d5cac67bcedf818351323d8bf3",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27116,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WKOW",
+      "author": "Riley Mccauley",
+      "title": "DHS confirms case of measles in Waukesha County",
+      "description": "WAUKESHA COUNTY, Wis. (WKOW) \u2014 The Wisconsin Department of Health Services confirmed a case of measles in a resident from Waukesha County Monday.",
+      "url": "https://www.wkow.com/news/health/dhs-confirms-case-of-measles-in-waukesha-county/article_6836adab-25a1-4084-8979-b07dd9d1925a.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/0/7b/07bb8ed2-467e-11ed-b5ac-a3315472596e/63408b0a336e3.image.jpg?crop=888%2C466%2C70%2C67",
+      "publishedAt": "2026-01-26 21:30:45",
+      "content": "WAUKESHA COUNTY, Wis. (WKOW) The Wisconsin Department of Health Services confirmed a case of measles in a resident from Waukesha County Monday. DHS reports this is the first case in Wisconsin this y\u2026 [+239 chars]",
+      "retrievedAt": "2026-01-28 07:12:23.445683",
+      "internal_id": "729ad9fb1ec9b7642293c9088db6a5e0b12d5fbffecd6be90a91158469f0f8b8",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27114,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Tanner Kahler",
+      "title": "Case of measles confirmed in Waukesha County",
+      "description": "Case of measles confirmed in Waukesha Countywisn.com",
+      "url": "https://www.wisn.com/article/case-of-measles-confirmed-in-waukesha-county/70146172",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-0060-6525a928ca6cc.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2026-01-26 21:07:51",
+      "content": "WAUKESHA COUNTY, Wis. \u2014Health officials confirmed one case of measles in Waukesha County on Monday. The case was related to international travel, investigators said. It is the first case of measles \u2026 [+872 chars]",
+      "retrievedAt": "2026-01-28 07:12:23.417971",
+      "internal_id": "0b8cdda235e7c45da60d3af662a81363cc3d1f7fe4f00eace28aaeac51bff778",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27112,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "The UK has lost its measles elimination status \u2014 again",
+      "description": "Measles has been spreading continuously in the U.K. for over a year, meaning the country has lost its elimination status.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/the-uk-has-lost-its-measles-elimination-status-again",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/3KR2tvAMzwC3WhFYipjqr6-1920-80.jpg",
+      "publishedAt": "2026-01-26 20:50:00",
+      "content": "The U.K. has officially lost its measles elimination status, meaning the highly infectious disease has been circulating continuously in the region for at least a year. Within the past decade, the U.\u2026 [+4021 chars]",
+      "retrievedAt": "2026-01-28 07:12:23.284664",
+      "internal_id": "6c250bb97ac4580748ec3d6ffdf6c909fde63f3e99899a5ff23c008fcf2d8cab",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27113,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Press Association",
+      "title": "\u2018We urgently need to remedy this\u2019: UK no longer considered to have eliminated measles",
+      "description": "The World Health Organisation said measles transmission was re-established in the UK in 2024.",
+      "url": "https://www.thejournal.ie/uk-measles-world-health-organisation-6939074-Jan2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/6939074/river/?height=400&version=6939079",
+      "publishedAt": "2026-01-26 19:47:52",
+      "content": "THE UK IS no longer considered to have eliminated measles, global health officials have announced. Countries are awarded measles elimination status by the World Health Organisation (WHO) and Ireland\u2026 [+2808 chars]",
+      "retrievedAt": "2026-01-28 07:12:23.356976",
+      "internal_id": "b1196c5510ec3a44a809bb5412c6129e57b01779ef4c04cd640207731b1c8176",
+      "publishedAtLabel": "Jan 26"
+    },
+    {
+      "id": 27117,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Cadu Barbosa, Cadu Barbosa",
+      "title": "Alerta no Rio: calor e chuvas aumentam risco de dengue",
+      "description": "Autoridades refor\u00e7am cuidados contra o mosquito durante per\u00edodo de altas temperaturas e instabilidade do tempo na capital fluminense",
+      "url": "https://ultimosegundo.ig.com.br/brasil/rj/2026-01-26/alerta-no-rio--calor-e-chuvas-aumentam-risco-de-dengue.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/1q/gj/2d/1qgj2dtjsu5bxgmu3cuuhha9l.jpg",
+      "publishedAt": "2026-01-26 19:42:45",
+      "content": "As autoridades de sa\u00fade do Rio refor\u00e7aram, nesta segunda-feira (26), o alerta para a preven\u00e7\u00e3o da dengue diante do aumento do risco de prolifera\u00e7\u00e3o do mosquito Aedes aegypti. Embora os casos da doen\u00e7\u2026 [+2980 chars]",
+      "retrievedAt": "2026-01-28 07:12:23.906174",
+      "internal_id": "6034c327629b63cb69f63ac030c7ccf9625a7201953fae8a92aa3af0b3c67fe1",
+      "publishedAtLabel": "Jan 26"
+    },
     {
       "id": 27097,
       "query": [
@@ -14976,6 +15102,78 @@
       "content": "The Federal Government on Sunday said malaria transmission is declining sharply in Lagos State, citing sustained investments in prevention, testing and treatment as evidence that malaria elimination \u2026 [+4034 chars]",
       "retrievedAt": "2025-12-16 07:10:05.923125",
       "internal_id": "1af21ae4cbef358ce131423720ec9bc0c4f90db404d57b776b8d6fce6d657153",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26279,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "M\u00e9xico rebasa los 20 mil contagios por dengue",
+      "description": "Patricia Rodr\u00edguez Calva Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado por la secretar\u00eda de Salud, se\u00f1al\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/14/3435476.jpg",
+      "publishedAt": "2025-12-14 18:17:40",
+      "content": "Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado \u2026 [+3664 chars]",
+      "retrievedAt": "2025-12-15 19:08:02.411445",
+      "internal_id": "0c4ba9b31b21a4c73403b9e5f5df1249089a367b6d729aba54f9d1ecb19a1acc",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26276,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mike LaChance",
+      "title": "New Pro-Life Group at U. Southern Maine Faces Vicious Harassment",
+      "description": "\u201c[W]ishing rabies upon your family\u201d The post New Pro-Life Group at U. Southern Maine Faces Vicious Harassment first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Craziness-On-Campus.jpg",
+      "publishedAt": "2025-12-14 16:00:43",
+      "content": "Where are all of the Maine Democrats to denounce this? These students aren\u2019t hurting anyone.University of Southern Maine pro-life group faced with harassment, including veiled threat referencing Kirk\u2026 [+1526 chars]",
+      "retrievedAt": "2025-12-15 19:08:00.841246",
+      "internal_id": "2245f2051e0d7fb1a1b91b7133a4cf60f19684cad3bd2613d7df9c26cb55b81c",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26277,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ayesha Rascoe",
+      "title": "Measles cases spike in South Carolina",
+      "description": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
+      "url": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-12-14 13:23:09",
+      "content": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
+      "retrievedAt": "2025-12-15 19:08:01.281401",
+      "internal_id": "5e6702016d39e872fae6b49e046467c56995a1004f3e43a72ab4b4c9f2e4de04",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue infection on the decline",
+      "description": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from both diseases has dropped significantly in December. Accordin\u2026",
+      "url": "https://english.khabarhub.com/2025/14/511487/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-12-14 07:45:55",
+      "content": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from \u2026 [+933 chars]",
+      "retrievedAt": "2025-12-15 19:08:02.455423",
+      "internal_id": "ea32c69e4aa7af9bc37a75cdaa05f9f22ad7465532f7255a0f1952c7d7db7742",
       "publishedAtLabel": "Dec 14"
     }
   ]
