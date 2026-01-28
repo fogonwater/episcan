@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-01-28 07:12
-- **Most recent article:** 2026-01-27 03:15:32
+- **New articles in last harvest:** 18
+- **Last harvest:** 2026-01-28 19:12
+- **Most recent article:** 2026-01-27 18:53:42
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 38 | 31 | 35 | 26 | 47 | 63 | 88 | 15 | 343 |
-| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 27 | 2 | 105 |
-| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 5 | 82 |
-| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 9 | 74 |
-| malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 4 | 67 |
+| measles | 37 | 31 | 35 | 26 | 47 | 63 | 88 | 23 | 350 |
+| dengue | 24 | 11 | 4 | 1 | 12 | 22 | 27 | 4 | 105 |
+| rabies | 10 | 20 | 8 | 6 | 10 | 10 | 12 | 5 | 81 |
+| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 14 | 79 |
+| malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 5 | 68 |
 | mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 2 | 51 |
 | meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 1 | 45 |
 | chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 0 | 25 |
-| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 2 | 20 |
+| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 3 | 21 |
 | zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 0 | 20 |
-| yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 1 | 15 |
+| yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 2 | 16 |
 | typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 12 |
 | hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 0 | 12 |
 | pertussis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 5 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-5 (yersinia)
+
+- [Микробы-симбионты научились делать инъекции клеткам хозяина](https://naked-science.ru/article/biology/mikroby-simbionty-nauchil) (Naked-science.ru)
 
 - [La peste, cette arme potentielle de guerre biologique](https://www.lemonde.fr/sciences/article/2026/01/26/la-peste-cette-arme-potentielle-de-guerre-biologique_6664193_1650684.html) (Le Monde)
 
@@ -68,7 +70,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (measles)
 
+- [South Carolina measles outbreak reaches 789 cases, surpassing Texas](https://www.nbcnews.com/health/health-news/south-carolina-measles-outbreak-surpasses-texas-vaccines-rcna256030) (NBC News)
+
+- [South Carolina measles outbreak is largest in US since measles was declared eliminated | CNN](https://www.cnn.com/2026/01/27/health/largest-us-measles-outbreak-south-carolina) (CNN)
+
+- [To halt measles' resurgence we must fight the plague of misinformation](https://www.newscientist.com/article/2513398-to-halt-measles-resurgence-we-must-fight-the-plague-of-misinformation/) (New Scientist)
+
+- [Measles: UK, other European countries lose measles elimination status](https://www.medicalnewstoday.com/articles/uk-european-nations-lose-measles-elimination-status) (Medical News Today)
+
+- [The Million-Dollar Measles Question](https://www.theatlantic.com/health/2026/01/measles-elimination-south-carolina/685773/) (The Atlantic)
+
+- [Measles: What are the symptoms and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-vaccine-outbreak-adults-b2908537.html) (The-independent.com)
+
+- [La OMS saca a España de la lista de países libres de sarampión](https://www.eldiario.es/sociedad/oms-saca-espana-lista-paises-libres-sarampion_1_12939049.html) (Eldiario.es)
+
 - [Tracking measles outbreaks and cases in the US](https://www.wxii12.com/article/measles-cases-us-data/70089162) (WXII12 Winston-Salem)
+
+- [Daily briefing: The battle over the identity of the first animals](https://www.nature.com/articles/d41586-026-00278-5) (Nature.com)
 
 - [DHS confirms case of measles in Waukesha County](https://www.wkow.com/news/health/dhs-confirms-case-of-measles-in-waukesha-county/article_6836adab-25a1-4084-8979-b07dd9d1925a.html) (WKOW)
 
@@ -100,6 +118,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (malaria)
 
+- [Pfs48/45 nanobodies block Plasmodium falciparum transmission](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013884) (Plos.org)
+
 - [Malaria researchers are getting closer to outsmarting the world’s deadliest parasite](https://theconversation.com/malaria-researchers-are-getting-closer-to-outsmarting-the-worlds-deadliest-parasite-268316) (The Conversation Africa)
 
 - [minte 1.3.1](https://pypi.org/project/minte/1.3.1/) (Pypi.org)
@@ -110,11 +130,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (leptospirosis)
 
+- [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
+
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
 
 - [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (h5n1)
+
+- [H5N1-Virus in den Niederlanden: Kuh hat Vogelgrippe](https://taz.de/H5N1-Virus-in-den-Niederlanden/!6148972/) (taz.de)
+
+- [Két magyar településen bukkant fel a veszélyes H5N1 vírus](https://www.portfolio.hu/uzlet/20260127/ket-magyar-telepulesen-bukkant-fel-a-veszelyes-h5n1-virus-813782) (Portfolio.hu)
+
+- [H5N1: Erstmals Vogelgrippe bei Milchkuh in Europa nachgewiesen](https://www.sueddeutsche.de/gesundheit/vogelgrippe-kuh-europa-niederlande-li.3376139) (Süddeutsche Zeitung)
+
+- [Infizierte Kuh in Niederlanden: Sind Milchprodukte nach H5N1-Nachweis weiter sicher?](https://www.n-tv.de/wissen/Sind-Milchprodukte-nach-H5N1-Nachweis-weiter-sicher-id30288664.html) (N-tv.de)
+
+- [Vogelgrippe erstmals außerhalb USA bei Kuh](https://science.orf.at/stories/3233941/) (Science.orf.at)
 
 - [Antikörper in der Milch: Vogelgrippe erstmals bei Kuh in Europa festgestellt](https://www.n-tv.de/wissen/Vogelgrippe-erstmals-bei-Kuh-in-Europa-festgestellt-id30286326.html) (N-tv.de)
 
@@ -135,6 +167,10 @@ Source: [News API](https://newsapi.org/)
 - [В Индии зафиксировали вспышку смертельного вируса Нипах: что известно](https://news.mail.ru/society/69550718/) (Mail.ru)
 
 ## 26-5 (dengue)
+
+- [Seroprevalence of dengue virus antibodies among multiple species of non-human primates in Senegal suggests that sylvatic dengue virus is maintained in non-primate reservoirs in this region](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013946) (Plos.org)
+
+- [Enamed: questões sobre pediatria, ginecologia e saúde mental estão entre os assuntos com maior índice de erro na prova](https://g1.globo.com/fantastico/noticia/2026/01/27/enamed-questoes-sobre-pediatria-ginecologia-e-saude-mental-estao-entre-os-assuntos-com-maior-indice-de-erro-na-prova.ghtml) (Globo)
 
 - [Alerta no Rio: calor e chuvas aumentam risco de dengue](https://ultimosegundo.ig.com.br/brasil/rj/2026-01-26/alerta-no-rio--calor-e-chuvas-aumentam-risco-de-dengue.html) (Ig.com.br)
 
@@ -1734,8 +1770,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Does seeing a raccoon during the day mean it has rabies?](https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/) (Lifesciencesworld.com)
 
-- [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
-
 ## 25-51 (mpox)
 
 - [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
@@ -1835,8 +1869,6 @@ Source: [News API](https://newsapi.org/)
 - [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
 
 - [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
-
-- [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
 
@@ -1965,10 +1997,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
-
-- [México rebasa los 20 mil contagios por dengue](https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359) (Excelsior.com.mx)
-
-- [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
 

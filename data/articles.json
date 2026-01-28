@@ -1,8 +1,314 @@
 {
-  "last_updated": "2026-01-28 07:12",
-  "count_articles_total": 841,
-  "count_articles_new": 7,
+  "last_updated": "2026-01-28 19:12",
+  "count_articles_total": 855,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 27122,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "South Carolina measles outbreak reaches 789 cases, surpassing Texas",
+      "description": "Measles in South Carolina has spread to at least 789 people, surpassing the 2025 West Texas outbreak that sickened 762 people and killed two young girls.",
+      "url": "https://www.nbcnews.com/health/health-news/south-carolina-measles-outbreak-surpasses-texas-vaccines-rcna256030",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260120-south-carolina-measles-mn-1255-97573d.jpg",
+      "publishedAt": "2026-01-27 18:53:42",
+      "content": "Measles in South Carolina has spread to at least 789 people, surpassing the 2025 West Texas outbreak that sickened 762 people and killed two young girls. The majority of cases remain centered in Sp\u2026 [+3871 chars]",
+      "retrievedAt": "2026-01-28 19:11:59.779186",
+      "internal_id": "64754e012741a8ad8526b494c8297bbfad5fc0ebc38ca720696d0e8ef057d5f8",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27125,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Meg Tirrell, Deidre McPhillips, Jamie Gumbrecht",
+      "title": "South Carolina measles outbreak is largest in US since measles was declared eliminated | CNN",
+      "description": "The fast-growing measles outbreak in South Carolina is now the largest in the United States since the disease was declared eliminated in this country more than two decades ago.",
+      "url": "https://www.cnn.com/2026/01/27/health/largest-us-measles-outbreak-south-carolina",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/usatsi-27377054.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-01-27 18:37:19",
+      "content": "The fast-growing measles outbreak in South Carolina is now the largest in the United States since the disease was declared eliminated in this country more than two decades ago. With 789 cases report\u2026 [+4720 chars]",
+      "retrievedAt": "2026-01-28 19:11:59.843673",
+      "internal_id": "fe9ea250e2a6929af6ceadb2f01919477697716fdcb51b96a16006cda7442276",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27129,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Tim Feldmann",
+      "title": "H5N1-Virus in den Niederlanden: Kuh hat Vogelgrippe",
+      "description": "In Europa wurden erstmals Antik\u00f6rper des H5N1-Virus in einer Kuh nachgewiesen. Die Risiken sind bislang gering \u2013 warum dennoch Vorsicht geboten ist.",
+      "url": "https://taz.de/H5N1-Virus-in-den-Niederlanden/!6148972/",
+      "urlToImage": "https://taz.de/picture/8213148/1200/40228146.jpeg",
+      "publishedAt": "2026-01-27 17:54:00",
+      "content": "In Europa wurden erstmals Antik\u00f6rper des H5N1-Virus in einer Kuh nachgewiesen. Die Risiken sind bislang gering \u2013 warum dennoch Vorsicht geboten ist. mehr...",
+      "retrievedAt": "2026-01-28 19:12:00.525462",
+      "internal_id": "167f9c53978e3fcfa52142dd90057ec00d20dfdb7c56bafd40c69f6bdb188f72",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27124,
+      "query": [
+        "measles"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Michael Le Page",
+      "title": "To halt measles' resurgence we must fight the plague of misinformation",
+      "description": "The measles vaccine has prevented 60 million deaths since 2000. So why are so many children around the world missing out on it?",
+      "url": "https://www.newscientist.com/article/2513398-to-halt-measles-resurgence-we-must-fight-the-plague-of-misinformation/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2026/01/27172759/SEI_282489549.jpg",
+      "publishedAt": "2026-01-27 17:44:06",
+      "content": "Vaccine uptake is critical for public health Robin Utrecht/Shutterstock When I read the 1998 study falsely claiming there was a link between the measles, mumps and rubella (MMR) vaccine and autism,\u2026 [+4275 chars]",
+      "retrievedAt": "2026-01-28 19:11:59.807616",
+      "internal_id": "a5c06bcc2cf0dea6a4c70ceb195fafdc3234b97cd843c234828c0bb55ead38a4",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27121,
+      "query": [
+        "measles"
+      ],
+      "source_id": "medical-news-today",
+      "source_name": "Medical News Today",
+      "author": "Mandy French",
+      "title": "Measles: UK, other European countries lose measles elimination status",
+      "description": "The WHO has announced that the U.K. and five other European countries have lost their measles elimination status. Find out what this means.",
+      "url": "https://www.medicalnewstoday.com/articles/uk-european-nations-lose-measles-elimination-status",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/01/ambulance-tower-bridge-1200-628-facebook.jpg",
+      "publishedAt": "2026-01-27 17:30:00",
+      "content": "The United Kingdom and five other European countries have lost their measles elimination status, according to the World Health Organization (WHO). This is based on 2024 data that sho\u2026 [+4057 chars]",
+      "retrievedAt": "2026-01-28 19:11:59.760096",
+      "internal_id": "6a731df1b9a90b91db3c2addbb5ae3d71d68250a302a7d0b8831ed8435640498",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27126,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Portfolio.hu",
+      "author": "Portfolio.hu",
+      "title": "K\u00e9t magyar telep\u00fcl\u00e9sen bukkant fel a vesz\u00e9lyes H5N1 v\u00edrus",
+      "description": "A Nemzeti \u00c9lelmiszerl\u00e1nc-biztons\u00e1gi Hivatal laborat\u00f3riuma B\u00e9k\u00e9s megy\u00e9ben k\u00e9t b\u00e1romfitelepen magas patogenit\u00e1s\u00fa mad\u00e1rinfluenza v\u00edrus jelenl\u00e9t\u00e9t igazolta, az \u00e9rintett \u00e1llom\u00e1nyok felsz\u00e1mol\u00e1sa folyamatban van.",
+      "url": "https://www.portfolio.hu/uzlet/20260127/ket-magyar-telepulesen-bukkant-fel-a-veszelyes-h5n1-virus-813782",
+      "urlToImage": "https://pcdn.hu/articles/images-xl/p/u/l/pulyka-agrargazdasag-agrarium-allat-allattenyesztes-baromfi-elelmiszer-hus-mezogazdasag-p-722139.jpg",
+      "publishedAt": "2026-01-27 17:18:00",
+      "content": "Hitelk\u00e1rosultak A tartoz\u00e1s, ami nem enged el Ma Magyarorsz\u00e1gon emberek sz\u00e1zezrei \u00e9lnek \u00fagy, hogy mindennapjaikat egy r\u00e9gi banki hitel, k\u00f6lcs\u00f6n vagy m\u00e1s p\u00e9nzk\u00f6vetel\u00e9s terheli. Sok esetben olyan tar\u2026 [+1401 chars]",
+      "retrievedAt": "2026-01-28 19:12:00.469061",
+      "internal_id": "2356c0a71f41506e6d167203e84f77f31befc5ff45439a838adf62aeb06d96d5",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27135,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Naked-science.ru",
+      "author": "\u041c\u0430\u043a\u0441\u0438\u043c \u0410\u0431\u0434\u0443\u043b\u0430\u0435\u0432",
+      "title": "\u041c\u0438\u043a\u0440\u043e\u0431\u044b-\u0441\u0438\u043c\u0431\u0438\u043e\u043d\u0442\u044b \u043d\u0430\u0443\u0447\u0438\u043b\u0438\u0441\u044c \u0434\u0435\u043b\u0430\u0442\u044c \u0438\u043d\u044a\u0435\u043a\u0446\u0438\u0438 \u043a\u043b\u0435\u0442\u043a\u0430\u043c \u0445\u043e\u0437\u044f\u0438\u043d\u0430",
+      "description": "\u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u043c\u0438\u043a\u0440\u043e\u0431\u0438\u043e\u043b\u043e\u0433\u043e\u0432 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b\u0430, \u0447\u0442\u043e \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u043c\u0438\u0440\u043d\u044b\u0445 \u0431\u0430\u043a\u0442\u0435\u0440\u0438\u0439-\u0441\u0438\u043c\u0431\u0438\u043e\u043d\u0442\u043e\u0432 \u0432 \u043a\u0438\u0448\u0435\u0447\u043d\u0438\u043a\u0435 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0432\u043e\u043e\u0440\u0443\u0436\u0435\u043d\u044b \u0441\u043b\u043e\u0436\u043d\u044b\u043c\u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u0430\u043c\u0438 \u0434\u043b\u044f \u0432\u043f\u0440\u044b\u0441\u043a\u0438\u0432\u0430\u043d\u0438\u044f \u0431\u0435\u043b\u043a\u043e\u0432 \u0432\u043d\u0443\u0442\u0440\u044c \u043d\u0430\u0448\u0438\u0445 \u043a\u043b\u0435\u0442\u043e\u043a. \u0420\u0430\u043d\u0435\u0435 \u0441\u0447\u0438\u0442\u0430\u043b\u043e\u0441\u044c, \u0447\u0442\u043e \u044d\u0442\u043e\u0442 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u043f\u0430\u0441\u043d\u044b\u0435 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0438, \u043d\u043e \u2026",
+      "url": "https://naked-science.ru/article/biology/mikroby-simbionty-nauchil",
+      "urlToImage": "https://naked-science.ru/wp-content/uploads/2026/01/76567754654534.jpg",
+      "publishedAt": "2026-01-27 15:33:18",
+      "content": ", - . , , : , . III (T3SS). , . . T3SS , (Salmonella), (Yersinia) . \u00ab\u00bb , . , T3SS , : ? , Nature Microbiology, Pseudomonadota, . , . HuMMI (Human-Microbiome Meta-Interactome). , , . : , . , 80\u2026 [+78 chars]",
+      "retrievedAt": "2026-01-28 19:12:02.645374",
+      "internal_id": "7766e645aaf1625dcfefbe6b64be4ed12bf9455da8e2adcb63e1b12ed62ca578",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27119,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "title": "The Million-Dollar Measles Question",
+      "description": "South Carolina\u2019s measles outbreak could soon be bigger than West Texas\u2019s. Are the two connected?",
+      "url": "https://www.theatlantic.com/health/2026/01/measles-elimination-south-carolina/685773/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/xEu6o4KqY1Un6VxIsFD3sozbnG0=/0x43:2000x1085/1200x625/media/img/mt/2026/01/measels/original.png",
+      "publishedAt": "2026-01-27 14:24:36",
+      "content": "Last year, starting in January, the United States experienced its largest documented measles outbreak in more than three decades, when an epidemic centered on West Texas sickened at least 762 people.\u2026 [+8451 chars]",
+      "retrievedAt": "2026-01-28 19:11:59.650585",
+      "internal_id": "b9b5f56dd9026d6827d062cd94f12de1a6f5d834ecec1fd36a364635b3bba0c4",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27131,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Stephanie C. Cinkovich, Benjamin M. Althouse, Matt D.T. Hitchings, Prudny Bonnaire-Fils, Ousmane M. Diop, Ousmane Faye, El Hadji Abdourahmane Faye, Diawo Diallo, Bakary Djilocalisse Sadio, Abdourahmane Sow, Oumar Faye, Mawlouth Diallo, Brenda Benefit, Douglas M. Watts, Amadou A. Sall, Scott C. Weaver, Kathryn A. Hanley, Derek A.T. Cummings",
+      "title": "Seroprevalence of dengue virus antibodies among multiple species of non-human primates in Senegal suggests that sylvatic dengue virus is maintained in non-primate reservoirs in this region",
+      "description": "Author summary Dengue is often viewed as a disease that circulates mainly among people in cities, but in West Africa the virus also persists in forest environments, where it infects wild mosquitoes and animals and can occasionally spill over into humans. We s\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013946",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013946.strk&size=inline",
+      "publishedAt": "2026-01-27 14:00:00",
+      "content": "Citation: Cinkovich SC, Althouse BM, Hitchings MD, Bonnaire-Fils P, Diop OM, Faye O, et al. (2026) Seroprevalence of dengue virus antibodies among multiple species of non-human primates in Senegal su\u2026 [+35300 chars]",
+      "retrievedAt": "2026-01-28 19:12:00.989689",
+      "internal_id": "d93147c793727a3190692b9d051f69b0f155fcfb9e6e8cb7d78dc0485b369c0d",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27133,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Frankie M. T. Lyons, Jill Chmielewski, Mikha Gabriela, Li-Jin Chan, Joshua Tong, Amy Adair, Kathleen Zeglinski, Quentin Gouil, Melanie H. Dietrich, Wai-Hong Tham",
+      "title": "Pfs48/45 nanobodies block Plasmodium falciparum transmission",
+      "description": "Author summary Malaria is spread when an infected Anopheles mosquito bites a human. Within the female Anopheles mosquito, malaria parasite fertilisation occurs in the mosquito midgut. If you inhibit parasite fertilisation in the mosquito, you can prevent onwa\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013884",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013884.g003&size=inline",
+      "publishedAt": "2026-01-27 14:00:00",
+      "content": "Abstract Malaria parasite fertilisation occurs within the Anopheles mosquito midgut. Interventions that inhibit parasite fertilisation prevent ongoing transmission and are important for malaria elim\u2026 [+63583 chars]",
+      "retrievedAt": "2026-01-28 19:12:01.515433",
+      "internal_id": "8b2c198a71f7eaa4980547484ba97396f8372e9cb8e7b8de86b58d9fa28b5e52",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27134,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Phillip N. Anderson, Beth L. Hahn, Ger Thao, Molly Sue Johnson, Alexandre Giraud-Gatineau, Yan Gao, Mathieu Picardeau, Jenifer Coburn, Matthew C. Surdel",
+      "title": "In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence",
+      "description": "Author summary Leptospirosis is a global zoonotic disease and is transmitted to humans through contact with infectious bacteria found in the environment. In this study we tested sixteen strains of Leptospira, ranging from non-infectious to highly pathogenic s\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013939.g004&size=inline",
+      "publishedAt": "2026-01-27 14:00:00",
+      "content": "Abstract Leptospirosis is a global zoonotic disease caused by pathogenic species of the genus Leptospira. Leptospira species are classified into two major clades (pathogenic, P, and saprophytic, S),\u2026 [+74504 chars]",
+      "retrievedAt": "2026-01-28 19:12:02.538667",
+      "internal_id": "45b6a2d5cc14df2a1a8eb48a3aa084fadc7f549c01fbc30bd4e8686f099a5ae3",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27123,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Phoebe Williams and Archana Koirala",
+      "title": "Measles: What are the symptoms and how long does the vaccine last?",
+      "description": "As measles outbreaks occur across the world \u2013 experts have answer key questions on the virus",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-symptoms-vaccine-outbreak-adults-b2908537.html",
+      "urlToImage": "https://static.the-independent.com/2026/01/02/08/02083959-9da67e51-0378-4ae3-b713-e87bcee5929d.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-01-27 13:47:09",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+7049 chars]",
+      "retrievedAt": "2026-01-28 19:11:59.789443",
+      "internal_id": "bc0d4a46cbdd2a3c6c22604125ac7f8c68823fe8394d08184b5074f43848cac6",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27132,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Enamed: quest\u00f5es sobre pediatria, ginecologia e sa\u00fade mental est\u00e3o entre os assuntos com maior \u00edndice de erro na prova",
+      "description": "Enamed: pediatria, ginecologia e sa\u00fade mental lideram \u00edndice de erro Quest\u00f5es sobre temas de pediatria, ginecologia e sa\u00fade mental foram os temas com maior \u00edndice de erro no Exame Nacional de Avalia\u00e7\u00e3o da Forma\u00e7\u00e3o M\u00e9dica (Enamed), de acordo com relat\u00f3rio do I\u2026",
+      "url": "https://g1.globo.com/fantastico/noticia/2026/01/27/enamed-questoes-sobre-pediatria-ginecologia-e-saude-mental-estao-entre-os-assuntos-com-maior-indice-de-erro-na-prova.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/OnXttQjB9YhImwICc0VslS1JPho=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/28/98/14289828",
+      "publishedAt": "2026-01-27 11:43:18",
+      "content": "Quest\u00f5es simples, erros graves 66% erraram uma quest\u00e3o sobre manejo da dengue em casos de sintomas graves. 65% erraram o procedimento inicial diante de dor de cabe\u00e7a persistente co\u2026 [+3173 chars]",
+      "retrievedAt": "2026-01-28 19:12:01.017478",
+      "internal_id": "02c56d40d6ee88d04ce4c677cd079158af7050cc224b041acf8553f1cd167659",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27120,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Eldiario.es",
+      "author": "elDiario.es",
+      "title": "La OMS saca a Espa\u00f1a de la lista de pa\u00edses libres de sarampi\u00f3n",
+      "description": "El Ministerio de Sanidad explica que ha recibido una comunicaci\u00f3n del organismo internacional que atestigua que, \"tras la evaluaci\u00f3n anual de los datos epidemiol\u00f3gicos y de laboratorio de 2024, se considera que se ha reestablecido la transmisi\u00f3n end\u00e9mica del \u2026",
+      "url": "https://www.eldiario.es/sociedad/oms-saca-espana-lista-paises-libres-sarampion_1_12939049.html",
+      "urlToImage": "https://static.eldiario.es/clip/ed4bc8e4-ba92-4488-9f33-7503440d1db3_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-01-27 11:29:40",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha sacado a Espa\u00f1a de la lista de pa\u00edses libres de sarampi\u00f3n (measles elimination status, dice la nota), junto a otras naciones europeas, \u201ctras un aumento de\u2026 [+1522 chars]",
+      "retrievedAt": "2026-01-28 19:11:59.704368",
+      "internal_id": "8bcaebcee25ab9a3f53345d54889c31dda5413037072b69e36a716d5a9238d88",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27127,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "S\u00fcddeutsche Zeitung",
+      "title": "H5N1: Erstmals Vogelgrippe bei Milchkuh in Europa nachgewiesen",
+      "description": "Es ist der erste Nachweis bei einer Kuh au\u00dferhalb der USA \u2013 was bedeutet das f\u00fcr Verbraucher und Betriebe? Die wichtigsten Fragen und Antworten.",
+      "url": "https://www.sueddeutsche.de/gesundheit/vogelgrippe-kuh-europa-niederlande-li.3376139",
+      "urlToImage": "https://www.sueddeutsche.de/2026/01/27/b622c93d-12c6-4850-bb66-57eea34e5d2a.jpg?q=60&fm=webp&width=1200&rect=0%2C399%2C4000%2C2250",
+      "publishedAt": "2026-01-27 11:12:52",
+      "content": "Besteht Gefahr f\u00fcr Menschen durch die Milch des Tieres? Das Vogelgrippe-Virus wird bei K\u00fchen haupts\u00e4chlich \u00fcber die Milch ausgeschieden. Die Milch der erkrankten Kuh sei jedoch wegen ihrer gesundhei\u2026 [+4816 chars]",
+      "retrievedAt": "2026-01-28 19:12:00.487477",
+      "internal_id": "225335c621a7a2c7336d3b525713d4ea4117b23935924e8908fa3a5dff374054",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27130,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Infizierte Kuh in Niederlanden: Sind Milchprodukte nach H5N1-Nachweis weiter sicher?",
+      "description": "Das Vogelgrippe-Virus H5N1 wird erstmals bei einer Kuh in Europa nachgewiesen. Der Antik\u00f6rper-Fund in ihrer Milch in den Niederlanden verunsichert Verbraucher und Betriebe. Alles, was man dazu wissen muss, im \u00dcberblick.",
+      "url": "https://www.n-tv.de/wissen/Sind-Milchprodukte-nach-H5N1-Nachweis-weiter-sicher-id30288664.html",
+      "urlToImage": "https://www.n-tv.de/img/30288649/1769501559/Img_16_9/1200/Wunderschoene-Frau-mit-schoenen-blauen-Augen-haelt-ein-Glas-frische-Milch-vor-ihrem-Mund-ueber-grau-Gorgeous-woman-with-lovely-blue-eyes-holding-a-glass-of-fresh-milk-in-front-of-her-mouth-over-grey-Copyright-imageBROKER-DanielxDash-ibxiqx14439981.jpg",
+      "publishedAt": "2026-01-27 09:17:31",
+      "content": "Kommerziell hergestellte Milchprodukte sind sicher, da Hitze und Pasteurisierung das Virus t\u00f6ten. (Foto: imago / imageBROKER / Daniel Dash ) Das Vogelgrippe-Virus H5N1 wird erstmals bei einer Kuh in\u2026 [+6496 chars]",
+      "retrievedAt": "2026-01-28 19:12:00.543713",
+      "internal_id": "0be832ab02122777f8372b7ff72330850dd9553b93eefa92ed29daa6961d92da",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27128,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Vogelgrippe erstmals au\u00dferhalb USA bei Kuh",
+      "description": "Das Vogelgrippevirus ist in den Niederlanden und damit erstmals au\u00dferhalb der USA bei einer Kuh nachgewiesen worden. In der Milch des Tieres wurden Antik\u00f6rper gegen den Erreger H5N1 gefunden. Nach Angaben des deutschen Friedrich-Loeffler-Instituts (FLI) ist b\u2026",
+      "url": "https://science.orf.at/stories/3233941/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2026-01-27 08:50:24",
+      "content": "Besteht Gefahr f\u00fcr Menschen durch die Milch? Das Vogelgrippevirus wird bei K\u00fchen haupts\u00e4chlich \u00fcber die Milch ausgeschieden. Ein Risiko gab es dennoch nicht: Die Milch der erkrankten Kuh sei wegen i\u2026 [+5483 chars]",
+      "retrievedAt": "2026-01-28 19:12:00.506439",
+      "internal_id": "0df3733e7db9877b684e99069117da8ee9103a2a7d0fc2a5ab88e63cb0fef8a5",
+      "publishedAtLabel": "Jan 27"
+    },
     {
       "id": 27115,
       "query": [
@@ -37,6 +343,24 @@
       "content": "The incidence of rabies in opossums is extremely low, making it very unlikely for a possum to carry the disease. This misconception arises because opossums are frequently reported to animal control, \u2026 [+7754 chars]",
       "retrievedAt": "2026-01-28 07:12:23.046512",
       "internal_id": "a23cce5e12647433a2fee7a9b5f1825a46a5d2d5cac67bcedf818351323d8bf3",
+      "publishedAtLabel": "Jan 27"
+    },
+    {
+      "id": 27118,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Flora Graham",
+      "title": "Daily briefing: The battle over the identity of the first animals",
+      "description": "Scientists are locked in debate over whether sponges or jellies were the first animal lineage. Plus, the United Kingdom has lost its measles elimination status and a stick that could be the oldest known wooden tool.",
+      "url": "https://www.nature.com/articles/d41586-026-00278-5",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00278-5/d41586-026-00278-5_51990106.png",
+      "publishedAt": "2026-01-27 00:00:00",
+      "content": "Hello Nature readers, would you like to get this Briefing in your inbox free every day? Sign up here. An alder (Alnus sp.) branch shows signs of being worked into shape and used possibly to dig. (Ka\u2026 [+5858 chars]",
+      "retrievedAt": "2026-01-28 19:11:59.622962",
+      "internal_id": "30c3de993e337ebfaa1f7c56cc8db64f59b9360d1a98e263f0476120d30e7568",
       "publishedAtLabel": "Jan 27"
     },
     {
@@ -15102,78 +15426,6 @@
       "content": "The Federal Government on Sunday said malaria transmission is declining sharply in Lagos State, citing sustained investments in prevention, testing and treatment as evidence that malaria elimination \u2026 [+4034 chars]",
       "retrievedAt": "2025-12-16 07:10:05.923125",
       "internal_id": "1af21ae4cbef358ce131423720ec9bc0c4f90db404d57b776b8d6fce6d657153",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26279,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Excelsior.com.mx",
-      "author": "angel.salinas",
-      "title": "M\u00e9xico rebasa los 20 mil contagios por dengue",
-      "description": "Patricia Rodr\u00edguez Calva Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado por la secretar\u00eda de Salud, se\u00f1al\u2026",
-      "url": "https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359",
-      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/14/3435476.jpg",
-      "publishedAt": "2025-12-14 18:17:40",
-      "content": "Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado \u2026 [+3664 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.411445",
-      "internal_id": "0c4ba9b31b21a4c73403b9e5f5df1249089a367b6d729aba54f9d1ecb19a1acc",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26276,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Mike LaChance",
-      "title": "New Pro-Life Group at U. Southern Maine Faces Vicious Harassment",
-      "description": "\u201c[W]ishing rabies upon your family\u201d The post New Pro-Life Group at U. Southern Maine Faces Vicious Harassment first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Craziness-On-Campus.jpg",
-      "publishedAt": "2025-12-14 16:00:43",
-      "content": "Where are all of the Maine Democrats to denounce this? These students aren\u2019t hurting anyone.University of Southern Maine pro-life group faced with harassment, including veiled threat referencing Kirk\u2026 [+1526 chars]",
-      "retrievedAt": "2025-12-15 19:08:00.841246",
-      "internal_id": "2245f2051e0d7fb1a1b91b7133a4cf60f19684cad3bd2613d7df9c26cb55b81c",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26277,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ayesha Rascoe",
-      "title": "Measles cases spike in South Carolina",
-      "description": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "url": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2025-12-14 13:23:09",
-      "content": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "retrievedAt": "2025-12-15 19:08:01.281401",
-      "internal_id": "5e6702016d39e872fae6b49e046467c56995a1004f3e43a72ab4b4c9f2e4de04",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26280,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection on the decline",
-      "description": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from both diseases has dropped significantly in December. Accordin\u2026",
-      "url": "https://english.khabarhub.com/2025/14/511487/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-12-14 07:45:55",
-      "content": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from \u2026 [+933 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.455423",
-      "internal_id": "ea32c69e4aa7af9bc37a75cdaa05f9f22ad7465532f7255a0f1952c7d7db7742",
       "publishedAtLabel": "Dec 14"
     }
   ]
