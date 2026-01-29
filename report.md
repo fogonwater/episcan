@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-01-29 07:22
-- **Most recent article:** 2026-01-28 05:25:43
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-01-29 19:15
+- **Most recent article:** 2026-01-28 19:07:34
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 38 | 31 | 35 | 26 | 47 | 63 | 88 | 29 | 357 |
-| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 27 | 5 | 108 |
-| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 6 | 83 |
-| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 14 | 79 |
+| measles | 37 | 31 | 35 | 26 | 47 | 63 | 88 | 38 | 365 |
+| dengue | 24 | 11 | 4 | 1 | 12 | 22 | 27 | 8 | 109 |
+| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 17 | 82 |
+| rabies | 10 | 20 | 8 | 6 | 10 | 10 | 12 | 6 | 82 |
 | malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 6 | 69 |
 | mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 2 | 51 |
 | meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 1 | 45 |
-| chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 0 | 25 |
+| chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 1 | 26 |
 | leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 5 | 23 |
 | zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 0 | 20 |
-| yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 2 | 16 |
+| yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 3 | 17 |
 | typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 12 |
 | hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 0 | 12 |
 | pertussis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 5 |
@@ -33,6 +33,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-5 (yersinia)
+
+- [В Иордании обнаружили массовое захоронение жертв Юстиниановой чумы](https://naked-science.ru/article/archeology/massovoe-zahoronenie-zher) (Naked-science.ru)
 
 - [Микробы-симбионты научились делать инъекции клеткам хозяина](https://naked-science.ru/article/biology/mikroby-simbionty-nauchil) (Naked-science.ru)
 
@@ -71,6 +73,24 @@ Source: [News API](https://newsapi.org/)
 - [Group A Streptococcus Meningitis, United States, 1997–2022](https://wwwnc.cdc.gov/eid/article/32/1/25-0871_article) (Cdc.gov)
 
 ## 26-5 (measles)
+
+- [Bari Weiss: Measles is back, but we can increase those numbers](https://www.lawyersgunsmoneyblog.com/2026/01/bari-weiss-measles-is-back-but-we-can-increase-those-numbers) (Lawyersgunsmoneyblog.com)
+
+- [HHS Wasn’t Worried About South Carolina’s Measles Outbreak. It’s Now Enormous.](https://www.motherjones.com/politics/2026/01/hhs-rfk-south-carolina-measles-outbreak/) (Mother Jones)
+
+- [Measles Cases Soar in South Carolina. Do You Need a Measles Booster?](https://www.cnet.com/health/medical/measles-cases-symptoms-vaccine-booster/) (CNET)
+
+- [South Carolina measles outbreak reaches 789 cases, surpassing Texas (Erika Edwards/NBC News)](https://www.memeorandum.com/260128/p71) (Memeorandum.com)
+
+- [Highly Contagious Measles Cases Reported Across the Kanto Region](https://newsonjapan.com/article/148231.php) (Newsonjapan.com)
+
+- [South Carolina measles outbreak hits nearly 600 new cases in just over a month](https://www.pbs.org/newshour/health/south-carolina-measles-outbreak-hits-nearly-600-new-cases-in-just-over-a-month) (PBS)
+
+- [South Carolina measles outbreak is largest in US since measles was declared eliminated (CNN)](https://www.memeorandum.com/260128/p36) (Memeorandum.com)
+
+- [Measles Outbreak in South Carolina Becomes Largest in the US](https://www.today.com/video/south-carolina-measles-outbreak-becomes-the-largest-in-the-us-256722501974) (TODAY)
+
+- [South Carolina Is America's New Measles Norm (Katherine J. Wu/The Atlantic)](https://www.memeorandum.com/260128/p3) (Memeorandum.com)
 
 - [CDC Dep. Director On Measles Going Kazoo: It’s Just ‘The Cost Of Doing Business’](https://www.techdirt.com/2026/01/27/cdc-dep-director-on-measles-going-kazoo-its-just-the-cost-of-doing-business/) (Techdirt)
 
@@ -158,6 +178,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (h5n1)
 
+- [Erstmals wurde eine Vogelgrippe-Infektion bei einer Milchkuh in Europa entdeckt](https://www.nzz.ch/wissenschaft/erstmals-wurde-eine-vogelgrippe-infektion-bei-einer-milchkuh-in-europa-entdeckt-ld.1922435) (Www.nzz.ch)
+
+- [Онищенко назвал самые опасные вирусные инфекции](https://tass.ru/obschestvo/26274543) (Tass.ru)
+
+- [Na řece v Kvasicích na Kroměřížsku uhynuly labutě, může za to ptačí chřipka](https://www.idnes.cz/zlin/zpravy/ptaci-chripka-labute-kvasice-kromeriz-hasici-veterina.A260128_100024_zlin-zpravy_jfuk) (Idnes.cz)
+
 - [H5N1-Virus in den Niederlanden: Kuh hat Vogelgrippe](https://taz.de/H5N1-Virus-in-den-Niederlanden/!6148972/) (taz.de)
 
 - [Két magyar településen bukkant fel a veszélyes H5N1 vírus](https://www.portfolio.hu/uzlet/20260127/ket-magyar-telepulesen-bukkant-fel-a-veszelyes-h5n1-virus-813782) (Portfolio.hu)
@@ -188,6 +214,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (dengue)
 
+- [Porto Alegre confirma primeiros casos de dengue de 2026](https://www.terra.com.br/noticias/porto-alegre-confirma-primeiros-casos-de-dengue-de-2026,21c5726aee6d9cb66777caf1d26621c25r6av7t8.html) (Terra.com.br)
+
+- [O que a dengue tem a ver com a saúde das articulações](https://veja.abril.com.br/coluna/letra-de-medico/o-que-a-dengue-tem-a-ver-com-a-saude-das-articulacoes/) (Abril.com.br)
+
+- [Tras recientes lluvias, Salud Sonora llama a la población a reforzar medidas contra el dengue](https://www.tribuna.com.mx/sonora/2026/1/28/tras-recientes-lluvias-salud-sonora-llama-la-poblacion-reforzar-medidas-contra-el-dengue-427868.html) (Tribuna.com.mx)
+
 - [Steep dengue decline in 25 hotspots with Wolbachia mosquitoes, Dewan Rakyat told](https://www.thestar.com.my/news/nation/2026/01/28/steep-dengue-decline-in-25-hotspots-with-wolbachia-mosquitoes-dewan-rakyat-told) (The Star Online)
 
 - [Seroprevalence of dengue virus antibodies among multiple species of non-human primates in Senegal suggests that sylvatic dengue virus is maintained in non-primate reservoirs in this region](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013946) (Plos.org)
@@ -197,6 +229,10 @@ Source: [News API](https://newsapi.org/)
 - [Alerta no Rio: calor e chuvas aumentam risco de dengue](https://ultimosegundo.ig.com.br/brasil/rj/2026-01-26/alerta-no-rio--calor-e-chuvas-aumentam-risco-de-dengue.html) (Ig.com.br)
 
 - [Enamed: leia questões consideradas fáceis para alunos de Medicina que tiveram alto índice de erros entre reprovados](https://g1.globo.com/fantastico/noticia/2026/01/26/enamed-leia-questoes-consideradas-faceis-para-alunos-de-medicina-que-tiveram-alto-indice-de-erros-entre-reprovados.ghtml) (Globo)
+
+## 26-5 (chikungunya)
+
+- [O que a dengue tem a ver com a saúde das articulações](https://veja.abril.com.br/coluna/letra-de-medico/o-que-a-dengue-tem-a-ver-com-a-saude-das-articulacoes/) (Abril.com.br)
 
 ## 26-4 (zika)
 
@@ -1792,8 +1828,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Does seeing a raccoon during the day mean it has rabies?](https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/) (Lifesciencesworld.com)
 
-- [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
-
 ## 25-51 (mpox)
 
 - [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
@@ -1893,8 +1927,6 @@ Source: [News API](https://newsapi.org/)
 - [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
 
 - [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
-
-- [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
 
@@ -2023,10 +2055,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
-
-- [México rebasa los 20 mil contagios por dengue](https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359) (Excelsior.com.mx)
-
-- [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
 
