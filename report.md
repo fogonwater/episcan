@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2026-01-29 19:15
-- **Most recent article:** 2026-01-28 19:07:34
+- **New articles in last harvest:** 19
+- **Last harvest:** 2026-01-30 07:21
+- **Most recent article:** 2026-01-29 07:10:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 37 | 31 | 35 | 26 | 47 | 63 | 88 | 38 | 365 |
-| dengue | 24 | 11 | 4 | 1 | 12 | 22 | 27 | 8 | 109 |
+| measles | 38 | 31 | 35 | 26 | 47 | 63 | 88 | 50 | 378 |
+| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 27 | 8 | 111 |
+| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 8 | 85 |
 | h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 17 | 82 |
-| rabies | 10 | 20 | 8 | 6 | 10 | 10 | 12 | 6 | 82 |
-| malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 6 | 69 |
+| malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 71 |
 | mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 2 | 51 |
-| meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 1 | 45 |
+| meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 3 | 47 |
 | chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 1 | 26 |
 | leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 5 | 23 |
-| zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 0 | 20 |
+| zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 1 | 21 |
 | yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 3 | 17 |
 | typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 12 |
 | hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 0 | 12 |
@@ -31,6 +31,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-5 (zika)
+
+- [Prenatal Zika virus exposure disrupts social-emotional development and cortical visual function in infant macaques](https://www.nature.com/articles/s41467-026-68517-x) (Nature.com)
 
 ## 26-5 (yersinia)
 
@@ -45,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 - [Corps member dies weeks into service](https://punchng.com/corps-member-dies-weeks-into-service/) (The Punch)
 
 ## 26-5 (rabies)
+
+- [How likely is it that a squirrel has rabies?](https://www.lifesciencesworld.com/how-likely-is-it-that-a-squirrel-has-rabies/) (Lifesciencesworld.com)
+
+- [How long does a dead bat carry rabies?](https://www.lifesciencesworld.com/how-long-does-a-dead-bat-carry-rabies/) (Lifesciencesworld.com)
 
 - [Why do opossums not get rabies?](https://www.lifesciencesworld.com/why-do-opossums-not-get-rabies/) (Lifesciencesworld.com)
 
@@ -70,9 +78,37 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (meningitis)
 
+- [Gloria en la pista, dolor fuera de ella: la trágica historia de los hombres más queridos de Sabalenka, reina del tenis](https://www.hola.com/actualidad/20260129880533/gloria-pista-dolor-tragica-historia-hombres-queridos-sabalenka-reina-tenis/) (Hola)
+
+- [Gazan hospital reports bacterial meningitis outbreak among kids](https://www.haaretz.com/gaza/2026-01-29/ty-article/.premium/gazan-hospital-reports-bacterial-meningitis-outbreak-among-kids/0000019c-0646-d2fd-a9de-c75650a50000) (Haaretz)
+
 - [Group A Streptococcus Meningitis, United States, 1997–2022](https://wwwnc.cdc.gov/eid/article/32/1/25-0871_article) (Cdc.gov)
 
 ## 26-5 (measles)
+
+- [Case of measles confirmed in Arizona ICE facility](https://kesq.com/health/cnn-health/2026/01/28/case-of-measles-confirmed-in-arizona-ice-facility/) (KESQ)
+
+- [Measles reported in Lancaster County for the first time in more than 30 years](https://www.klkntv.com/measles-reported-in-lancaster-county-for-the-first-time-in-more-than-30-years/) (KLKN)
+
+- [Measles case confirmed in Tauranga after overseas travel, locations named](https://www.nzherald.co.nz/bay-of-plenty-times/news/measles-case-confirmed-in-tauranga-after-overseas-travel-locations-named/FAQD3JIIHNABLM6HDRQU4CF2IA/) (New Zealand Herald)
+
+- [Health department confirms three additional measles cases amid outbreak | HeraldNet.com](https://www.heraldnet.com/news/health-department-confirms-three-additional-measles-cases-amid-outbreak/) (The Daily Herald)
+
+- [Nebraska health officials report confirmed case of measles](https://www.ketv.com/article/nebraska-confirmed-case-of-measles/70179364) (KETV Omaha)
+
+- [Department of Health confirms 5 cases of measles in Milbank](https://www.dakotanewsnow.com/2026/01/29/department-health-confirms-5-cases-measles-milbank/) (Dakotanewsnow.com)
+
+- [Oregon warns of possible measles exposure at Kaiser Permanente’s Clackamas hospital](https://www.oregonlive.com/health/2026/01/oregon-warns-of-possible-measles-exposure-at-kaiser-permanentes-clackamas-hospital.html) (OregonLive)
+
+- [South Carolina measles outbreak explodes to nearly 800 cases](https://www.cbsnews.com/video/south-carolina-measles-outbreak-explodes-to-nearly-800-cases/) (CBS News)
+
+- [Waukesha County quarantines over 50 people after measles case](https://www.wisn.com/article/waukesha-county-quarantines-over-50-people-after-measles-case/70178491) (WISN Milwaukee)
+
+- [Case of measles confirmed in Arizona ICE facility | CNN](https://www.cnn.com/2026/01/28/health/ice-facility-measles-arizona) (CNN)
+
+- [South Carolina Measles Outbreak Becomes America’s Largest in 25 Years](https://gizmodo.com/south-carolina-measles-outbreak-becomes-americas-largest-in-25-years-2000715084) (Gizmodo.com)
+
+- [Is the US about to lose its measles elimination status?](https://theweek.com/health/measles-elimination-status-us-cases) (The Week Magazine)
 
 - [Bari Weiss: Measles is back, but we can increase those numbers](https://www.lawyersgunsmoneyblog.com/2026/01/bari-weiss-measles-is-back-but-we-can-increase-those-numbers) (Lawyersgunsmoneyblog.com)
 
@@ -151,6 +187,10 @@ Source: [News API](https://newsapi.org/)
 - [Trump Public Health Doc Shrugs Off Measles Surge: ‘Cost Of Doing Business’](https://crooksandliars.com/2026/01/trump-public-health-doc-shrugs-measles) (Crooksandliars.com)
 
 ## 26-5 (malaria)
+
+- [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
+
+- [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.internazionale.it/ultime-notizie-reuters/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (Internazionale.it)
 
 - [Projected impacts of climate change on malaria in Africa](https://www.nature.com/articles/s41586-025-10015-z) (Nature.com)
 
@@ -1828,6 +1868,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Does seeing a raccoon during the day mean it has rabies?](https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/) (Lifesciencesworld.com)
 
+- [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
+
 ## 25-51 (mpox)
 
 - [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
@@ -1927,6 +1969,8 @@ Source: [News API](https://newsapi.org/)
 - [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
 
 - [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
+
+- [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
 
@@ -2055,6 +2099,10 @@ Source: [News API](https://newsapi.org/)
 - [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
+
+- [México rebasa los 20 mil contagios por dengue](https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359) (Excelsior.com.mx)
+
+- [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
 

@@ -1,8 +1,350 @@
 {
-  "last_updated": "2026-01-29 19:15",
-  "count_articles_total": 882,
-  "count_articles_new": 16,
+  "last_updated": "2026-01-30 07:21",
+  "count_articles_total": 905,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 27180,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Jennifer Rigby, Emmanuel Bruce",
+      "title": "New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid",
+      "description": "LONDON/ACCRA, Jan 29 (Reuters) - New vaccines are helping Ghana approach a long-sought goal of ending child deaths from malaria, demonstrating \u200cthe potential of the shots to drive back a disease that kills nearly half a million young children every year in Af\u2026",
+      "url": "https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/01/29/3744134.jpg",
+      "publishedAt": "2026-01-29 07:10:00",
+      "content": "LONDON/ACCRA, Jan 29 (Reuters) - New vaccines are helping Ghana approach a long-sought goal of ending child deaths from malaria, demonstrating the potential of the shots to drive back a disease that \u2026 [+9997 chars]",
+      "retrievedAt": "2026-01-30 07:21:50.234651",
+      "internal_id": "c3483c50311ca0397233f906f59f4f5d37e5f266b9ec362728148a014d2fa600",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27176,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KESQ",
+      "author": "Cnn Newsource",
+      "title": "Case of measles confirmed in Arizona ICE facility",
+      "description": "By Jacqueline Howard, CNN (CNN) \u2014 The US Department of Homeland Security says a person in detention at an Arizona Immigration and Customs Enforcement facility has measles, a highly contagious virus that can cause high fevers and a distinctive rash. Earlier th\u2026",
+      "url": "https://kesq.com/health/cnn-health/2026/01/28/case-of-measles-confirmed-in-arizona-ice-facility/",
+      "urlToImage": "https://kesq.b-cdn.net/2026/01/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbWt5a295ZzgwMDAyM2I2cDAwaDZxZmFy-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Nta3lpYnh1ajAwMHkyNm92ZDJjMDZmM2U-860x645.jpg",
+      "publishedAt": "2026-01-29 06:30:30",
+      "content": "By Jacqueline Howard, CNN (CNN) \u2014 The US Department of Homeland Security says a person in detention at an Arizona Immigration and Customs Enforcement facility has measles, a highly contagious virus \u2026 [+3043 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.603909",
+      "internal_id": "50fe216f55639c4667052bc1a494c8e55ca50988906635bb963c31df9c39d9f9",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27179,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid",
+      "description": "By Jennifer Rigby and Emmanuel BruceLONDON/ACCRA, Jan 29 (Reuters) - New vaccines are helping Ghana approach a long-sought goal of ending child deaths from malaria, demon\u2026 Leggi",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2026-01-29 06:04:37",
+      "content": "By Jennifer Rigby and Emmanuel Bruce LONDON/ACCRA, Jan 29 (Reuters) - New vaccines are helping Ghana approach a long-sought goal of ending child deaths from malaria, demonstrating the potential of t\u2026 [+10034 chars]",
+      "retrievedAt": "2026-01-30 07:21:50.188528",
+      "internal_id": "db33ee7943cca29a0ec075e20be623cfb290b323a171731881ee4c8bf156c4b3",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27177,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "Enrique Suero",
+      "title": "Gloria en la pista, dolor fuera de ella: la tr\u00e1gica historia de los hombres m\u00e1s queridos de Sabalenka, reina del tenis",
+      "description": "Su padre falleci\u00f3 a los 43 a\u00f1os por una meningitis y Konstantin Koltsov, un exjugador de hockey con quien mantuvo una relaci\u00f3n, se mat\u00f3 al caer desde un balc\u00f3n",
+      "url": "https://www.hola.com/actualidad/20260129880533/gloria-pista-dolor-tragica-historia-hombres-queridos-sabalenka-reina-tenis/",
+      "urlToImage": "https://www.hola.com/horizon/landscape/491f04723e23-u589544012.jpg?im=Resize=(1200)",
+      "publishedAt": "2026-01-29 05:00:00",
+      "content": "La historia de Aryna Sabalenka, actual n\u00famero uno del tenis mundial, no se mide \u00fanicamente en trofeos ni en posiciones del ranking. Se construye tambi\u00e9n, sobre todo, a partir de p\u00e9rdidas, golpes emoc\u2026 [+4889 chars]",
+      "retrievedAt": "2026-01-30 07:21:49.812043",
+      "internal_id": "5a3957e4b06a40b842f17b95ecf1c00784f398e62e344fe2c57f5ccbad5a9f65",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27164,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "How likely is it that a squirrel has rabies?",
+      "description": "How Likely Is It That a Squirrel Has Rabies?: Understanding the Risk The probability of a squirrel having rabies is extremely low. In fact, it\u2019s so rare that squirrels are almost never tested for the disease. Introduction: Dispelling the Myths Around Squirrel\u2026",
+      "url": "https://www.lifesciencesworld.com/how-likely-is-it-that-a-squirrel-has-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-29 03:47:30",
+      "content": "The probability of a squirrel having rabies is extremely low. In fact, it\u2019s so rare that squirrels are almost never tested for the disease. Introduction: Dispelling the Myths Around Squirrels and Ra\u2026 [+8988 chars]",
+      "retrievedAt": "2026-01-30 07:21:47.911071",
+      "internal_id": "6db0fde383a2d3345887a6db3a4a811807076d7a0985d454018aecfba83582f2",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27171,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KLKN",
+      "author": "Mark Fischer",
+      "title": "Measles reported in Lancaster County for the first time in more than 30 years",
+      "description": "According to the health department, the case involves an adult who was appropriately vaccinated and has no history of out-of-state travel.",
+      "url": "https://www.klkntv.com/measles-reported-in-lancaster-county-for-the-first-time-in-more-than-30-years/",
+      "urlToImage": "https://www.klkntv.com/content/uploads/2026/01/u/l/measles.jpg",
+      "publishedAt": "2026-01-29 03:32:29",
+      "content": "LINCOLN, Neb. (KLKN) The Lincoln-Lancaster County Health Department reported a confirmed case of measles in Lancaster County. According to the health department, the case involves an adult who was a\u2026 [+1013 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.546198",
+      "internal_id": "6138f040a62f8827aec7cfc53e94480246a174facd02ecb8b9b7a6ee7f818b70",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27168,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Bay of Plenty Times",
+      "title": "Measles case confirmed in Tauranga after overseas travel, locations named",
+      "description": "The case caught measles overseas but was not infectious on the flight here.",
+      "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/measles-case-confirmed-in-tauranga-after-overseas-travel-locations-named/FAQD3JIIHNABLM6HDRQU4CF2IA/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/EFRT3UMUWFAOPOHGE7DOVHJ6MU.JPG?auth=d7ae36e0187e15bdfc20227c6025237971c730f2664a9b6c7d1ef71fb34ce9a4&width=1200&height=675&quality=70&focal=986%2C1055&smart=false",
+      "publishedAt": "2026-01-29 03:30:20",
+      "content": "Locations of Interest can be found here, with instructions for close or casual contacts. These include The General Cafe in Mt Maunganui and PAKnSAVE Cameron Road in Tauranga, and will be updated if o\u2026 [+1369 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.499253",
+      "internal_id": "361519d67704834391444cdf6b3faa1b147175df58f27f8c2d3cff3ab72eae15",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27163,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "How long does a dead bat carry rabies?",
+      "description": "How Long Does a Dead Bat Carry Rabies? Unveiling the Truth A dead bat\u2019s ability to transmit rabies is short-lived, generally only a matter of hours after death. While the rabies virus can persist, its infectivity rapidly diminishes as the bat\u2019s body decompose\u2026",
+      "url": "https://www.lifesciencesworld.com/how-long-does-a-dead-bat-carry-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-29 02:53:35",
+      "content": "A dead bat\u2019s ability to transmit rabies is short-lived, generally only a matter of hours after death. While the rabies virus can persist, its infectivity rapidly diminishes as the bat\u2019s body decompos\u2026 [+8093 chars]",
+      "retrievedAt": "2026-01-30 07:21:47.863715",
+      "internal_id": "01206cd2d91008442cf7b48f0ffe30d613aa6951837fb24cbb9b8e1b7e59787c",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27169,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Herald",
+      "author": "Jenna Peterson",
+      "title": "Health department confirms three additional measles cases amid outbreak | HeraldNet.com",
+      "description": "There are now six confirmed measles cases in Snohomish County. Officials are urging residents to check their vaccination status.",
+      "url": "https://www.heraldnet.com/news/health-department-confirms-three-additional-measles-cases-amid-outbreak/",
+      "urlToImage": "https://www.heraldnet.com/wp-content/uploads/2026/01/41450527_web1_TSR-SHDRetireeBenefits-EDH-230422.jpg",
+      "publishedAt": "2026-01-29 01:56:08",
+      "content": "EVERETT \u2014 The Snohomish County Health Department confirmed three additional measles cases, bringing the total number in the county to six amid a measles outbreak. The three cases are all among unvac\u2026 [+6739 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.526610",
+      "internal_id": "38976446e543ade099b504eb20b60241ce428e00dfeae977d1101e67de0cd539",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27173,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KETV Omaha",
+      "author": "Mckenzy Parsons",
+      "title": "Nebraska health officials report confirmed case of measles",
+      "description": "Nebraska county health officials said a confirmed case of the measles has been reported in Lancaster County.",
+      "url": "https://www.ketv.com/article/nebraska-confirmed-case-of-measles/70179364",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-0124-6830e344af2d5.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2026-01-29 01:55:51",
+      "content": "LANCASTER COUNTY, Neb. \u2014Nebraska county health officials said a confirmed case of the measles has been reported in Lancaster County. According to the Lincoln-Lancaster County Health Department, the \u2026 [+1476 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.566751",
+      "internal_id": "6ef6f7618daab944933bf9cddd882b868777a7f5fb8c000970b1a67ba666957d",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27172,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dakotanewsnow.com",
+      "author": "Sam Schauer",
+      "title": "Department of Health confirms 5 cases of measles in Milbank",
+      "description": "South Dakota has seen its first confirmed measles cases after the January 15 incident in Milbank.",
+      "url": "https://www.dakotanewsnow.com/2026/01/29/department-health-confirms-5-cases-measles-milbank/",
+      "urlToImage": "https://gray-ksfy-prod.gtv-cdn.com/resizer/v2/GAW446D25JAZHCPMGQMA5S5MKY.jpg?auth=440bd927bba7506dab8f0f0a730a9f4f2aa5bb5bd81da424f0effb689ee65be2&width=1200&height=600&smart=false&focal=797%2C315",
+      "publishedAt": "2026-01-29 01:31:47",
+      "content": "SIOUX FALLS, S.D. (Dakota News Now) - South Dakota has seen its first confirmed measles cases after the January 15 incident in Milbank. That child was among a family of 4, bringing the total measles\u2026 [+2697 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.556548",
+      "internal_id": "2b9975a695e1313448526208a69c0ad3829a691fe2efee04237b828b564a4951",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27170,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "OregonLive",
+      "author": "Kristine De Leon | The Oregonian/oregonlive",
+      "title": "Oregon warns of possible measles exposure at Kaiser Permanente\u2019s Clackamas hospital",
+      "description": "State health officials say the exposure is tied to a newly confirmed case of measles in Clackamas County.",
+      "url": "https://www.oregonlive.com/health/2026/01/oregon-warns-of-possible-measles-exposure-at-kaiser-permanentes-clackamas-hospital.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/DHJH6YSL6VCJFPKAM5HHY5VGHQ.jpg?auth=0d9ba06b870cb0e36dfe8b600c6000fb2356ac2f7da883c4393d0f5d1899fa93&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-01-29 00:53:40",
+      "content": "People who visited Kaiser Permanente Sunnyside Medical Centers emergency department last weekend may have been exposed to measles, Oregon health officials said Wednesday. The possible exposure is li\u2026 [+2551 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.536419",
+      "internal_id": "34c7aca8bca438793317f2b6728f8bcf958adab0693bc771e6c7846e2ef277fe",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27166,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "South Carolina measles outbreak explodes to nearly 800 cases",
+      "description": "Nearly 800 confirmed cases have made South Carolina the latest epicenter for measles. Dr. Jon LaPook has more.",
+      "url": "https://www.cbsnews.com/video/south-carolina-measles-outbreak-explodes-to-nearly-800-cases/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/01/29/891b69c2-04e8-45db-b303-75d80dec1120/thumbnail/1200x630/f3ad158e5256ae6d13dca99866032ec1/cbsn-fusion-south-carolina-measles-outbreak-explodes-to-nearly-800-cases-thumbnail.jpg",
+      "publishedAt": "2026-01-29 00:49:03",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-01-30 07:21:48.318960",
+      "internal_id": "fcdf093c249798bfd8b5f775d1ba4ee761a4c316478fd69b432a7139d2e8dbff",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27174,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Nick Bohr",
+      "title": "Waukesha County quarantines over 50 people after measles case",
+      "description": "Following the first measles case of the year in Waukesha County, more than 50 people have been quarantined to prevent the spread of the disease.",
+      "url": "https://www.wisn.com/article/waukesha-county-quarantines-over-50-people-after-measles-case/70178491",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/b3463918-93ae-469c-99bc-634b2e7ab68b/b6c00c33-db85-47f3-a43f-69718019a089.jpg?crop=0.809xw:0.809xh;0.191xw,0&resize=1200:*",
+      "publishedAt": "2026-01-29 00:15:01",
+      "content": "WAUKESHA, Wis. \u2014More than 50 people in Waukesha County are under quarantine after the first reported measles case of the year, as health officials work to prevent the highly contagious disease from s\u2026 [+1943 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.584601",
+      "internal_id": "a679b23767f1de89bcb2cac53f6294a5aa14106b70d85c672241f3bc9e6c2a6a",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27181,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Karla K. Ausderau, Ben Boerigter, Elaina R. Razo, Jake Gutkes, Nicholas P. Krabbe, Ann M. Mitzey, Shannon Walsh, Viktorie Menna, John R. Drew Jr, Sabrina Kabakov, Finn Eckes, Rachel V. Spanton, Anika Shah, Angelica Sun, Alex Katz, Charlene Kim, Amy Hartman, Andrea M. Weiler, Carol Rasmussen, T. Michael Nork, Puja Basu, Heather A. Simmons, James Ver Hoeve, Saverio Capuano, Matthew T. Aliota, Thomas C. Friedrich, Emma L. Mohr",
+      "title": "Prenatal Zika virus exposure disrupts social-emotional development and cortical visual function in infant macaques",
+      "description": "Prenatal Zika virus (ZIKV) exposure can lead to a spectrum of developmental issues, but the mechanisms remain unclear. Here the authors show that prenatal ZIKV exposure in macaques disrupts neurodevelopment, causing prolonged maternal attachment and visual de\u2026",
+      "url": "https://www.nature.com/articles/s41467-026-68517-x",
+      "urlToImage": null,
+      "publishedAt": "2026-01-29 00:00:00",
+      "content": "Deshpande, G. R. et al. An outbreak of Zika virus in western India in the metropolis of Pune in the monsoon of 2024. J. Infect. Public Health18, 102720 (2025). Google Scholar Pezzi, L\u2026 [+15521 chars]",
+      "retrievedAt": "2026-01-30 07:21:50.440672",
+      "internal_id": "e43b25ff7bd50ec6a417d0244f5322bdbc5c9aebec85c9427c8826c3588c2ef3",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27178,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Haaretz",
+      "author": "Nir Hasson",
+      "title": "Gazan hospital reports bacterial meningitis outbreak among kids",
+      "description": "The head of the pediatric department at Nasser Hospital in Khan Yunis told Haaretz that six children have been diagnosed with the disease in the last 48 hours, compared to an average of two cases a year before the war. He notes several factors contributing to\u2026",
+      "url": "https://www.haaretz.com/gaza/2026-01-29/ty-article/.premium/gazan-hospital-reports-bacterial-meningitis-outbreak-among-kids/0000019c-0646-d2fd-a9de-c75650a50000",
+      "urlToImage": "https://img.haarets.co.il/bs/0000019c-0646-d2fd-a9de-c75650a50000/5a/fc/eece447943129d348a5ac94fc29c/465877.jpg?&width=1200&height=630&cmsprod",
+      "publishedAt": "2026-01-28 23:55:28",
+      "content": "The head of the pediatric department at Nasser Hospital in Khan Yunis told Haaretz that six children have been diagnosed with the disease in the last 48 hours, compared to an average of two cases a y\u2026 [+166 chars]",
+      "retrievedAt": "2026-01-30 07:21:49.822820",
+      "internal_id": "e4a709278b611ea537c5a9012a7489dfedbe9e8696c53e050ff014f26a886188",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 27175,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Jacqueline Howard",
+      "title": "Case of measles confirmed in Arizona ICE facility | CNN",
+      "description": "The US Department of Homeland Security says a person in detention at an Arizona Immigration and Customs Enforcement facility has measles, a highly contagious virus that can cause high fevers and a distinctive rash.",
+      "url": "https://www.cnn.com/2026/01/28/health/ice-facility-measles-arizona",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/usatsi-25821815a.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-01-28 22:45:11",
+      "content": "The US Department of Homeland Security says a person in detention at an Arizona Immigration and Customs Enforcement facility has measles, a highly contagious virus that can cause high fevers and a di\u2026 [+2899 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.594181",
+      "internal_id": "35494fa44eebad6fe0243c798a7b68e1a1af9d6a7d9610ce3c880f2e56e0ed7f",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 27165,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Matt Novak",
+      "title": "South Carolina Measles Outbreak Becomes America\u2019s Largest in 25 Years",
+      "description": "Thanks, anti-vaxxers.",
+      "url": "https://gizmodo.com/south-carolina-measles-outbreak-becomes-americas-largest-in-25-years-2000715084",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/01/measles-HQ-jan-20-2026-1200x675.jpg",
+      "publishedAt": "2026-01-28 20:55:44",
+      "content": "The South Carolina Department of Public Health reported Tuesday that there have been 89 new cases of measles identified since Friday, bringing the total number of cases in South Carolina\u2019s Upstate ou\u2026 [+3542 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.240619",
+      "internal_id": "de2487243adc013b6fc2c6da46f100135b72b42d7a6389b5efd9dbc5c72fbea1",
+      "publishedAtLabel": "Jan 28"
+    },
+    {
+      "id": 27167,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Week Magazine",
+      "author": "theweekonlineeditors@futurenet.com (Joel Mathis, The Week US) , Joel Mathis, The Week US",
+      "title": "Is the US about to lose its measles elimination status?",
+      "description": "Cases are skyrocketing",
+      "url": "https://theweek.com/health/measles-elimination-status-us-cases",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2q6WLGUfBX9W7FsxXsEtdX-2000-80.jpg",
+      "publishedAt": "2026-01-28 20:49:17",
+      "content": "One of the big victories of American science in the last few decades was conquering measles. That achievement is being reversed. The United States now stands on the brink of losing its measles elimin\u2026 [+3489 chars]",
+      "retrievedAt": "2026-01-30 07:21:48.328775",
+      "internal_id": "c4841a58cc6ca98d12607ee1725af29b6a7b1843a865924cac1cec118d2bb75e",
+      "publishedAtLabel": "Jan 28"
+    },
     {
       "id": 27151,
       "query": [
@@ -15913,6 +16255,78 @@
       "content": "The Federal Government on Sunday said malaria transmission is declining sharply in Lagos State, citing sustained investments in prevention, testing and treatment as evidence that malaria elimination \u2026 [+4034 chars]",
       "retrievedAt": "2025-12-16 07:10:05.923125",
       "internal_id": "1af21ae4cbef358ce131423720ec9bc0c4f90db404d57b776b8d6fce6d657153",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26279,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "M\u00e9xico rebasa los 20 mil contagios por dengue",
+      "description": "Patricia Rodr\u00edguez Calva Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado por la secretar\u00eda de Salud, se\u00f1al\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/14/3435476.jpg",
+      "publishedAt": "2025-12-14 18:17:40",
+      "content": "Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado \u2026 [+3664 chars]",
+      "retrievedAt": "2025-12-15 19:08:02.411445",
+      "internal_id": "0c4ba9b31b21a4c73403b9e5f5df1249089a367b6d729aba54f9d1ecb19a1acc",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26276,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mike LaChance",
+      "title": "New Pro-Life Group at U. Southern Maine Faces Vicious Harassment",
+      "description": "\u201c[W]ishing rabies upon your family\u201d The post New Pro-Life Group at U. Southern Maine Faces Vicious Harassment first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Craziness-On-Campus.jpg",
+      "publishedAt": "2025-12-14 16:00:43",
+      "content": "Where are all of the Maine Democrats to denounce this? These students aren\u2019t hurting anyone.University of Southern Maine pro-life group faced with harassment, including veiled threat referencing Kirk\u2026 [+1526 chars]",
+      "retrievedAt": "2025-12-15 19:08:00.841246",
+      "internal_id": "2245f2051e0d7fb1a1b91b7133a4cf60f19684cad3bd2613d7df9c26cb55b81c",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26277,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ayesha Rascoe",
+      "title": "Measles cases spike in South Carolina",
+      "description": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
+      "url": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-12-14 13:23:09",
+      "content": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
+      "retrievedAt": "2025-12-15 19:08:01.281401",
+      "internal_id": "5e6702016d39e872fae6b49e046467c56995a1004f3e43a72ab4b4c9f2e4de04",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue infection on the decline",
+      "description": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from both diseases has dropped significantly in December. Accordin\u2026",
+      "url": "https://english.khabarhub.com/2025/14/511487/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-12-14 07:45:55",
+      "content": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from \u2026 [+933 chars]",
+      "retrievedAt": "2025-12-15 19:08:02.455423",
+      "internal_id": "ea32c69e4aa7af9bc37a75cdaa05f9f22ad7465532f7255a0f1952c7d7db7742",
       "publishedAtLabel": "Dec 14"
     }
   ]
