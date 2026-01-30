@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2026-01-30 07:21
-- **Most recent article:** 2026-01-29 07:10:00
+- **New articles in last harvest:** 14
+- **Last harvest:** 2026-01-30 19:16
+- **Most recent article:** 2026-01-29 18:31:42
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 38 | 31 | 35 | 26 | 47 | 63 | 88 | 50 | 378 |
-| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 27 | 8 | 111 |
-| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 8 | 85 |
+| measles | 37 | 31 | 35 | 26 | 47 | 63 | 88 | 56 | 383 |
+| dengue | 24 | 11 | 4 | 1 | 12 | 22 | 27 | 11 | 112 |
+| rabies | 10 | 20 | 8 | 6 | 10 | 10 | 12 | 8 | 84 |
 | h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 17 | 82 |
 | malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 71 |
 | mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 2 | 51 |
-| meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 3 | 47 |
+| meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 4 | 48 |
 | chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 1 | 26 |
+| zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 4 | 24 |
 | leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 5 | 23 |
-| zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 1 | 21 |
 | yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 3 | 17 |
+| hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 2 | 14 |
 | typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 12 |
-| hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 0 | 12 |
 | pertussis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 5 |
 
 
@@ -33,6 +33,12 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-5 (zika)
+
+- [Minsal confirma hallazgo de mosquito que transmite dengue, zika y fiebre amarilla en el aeropuerto de Santiago](https://www.cnnchile.com/pais/minsal-confirma-hallazgo-mosquito-transmite-dengue-zika-fiebre-amarilla-en-el-aeropuerto-de-santiago_20260129/) (Cnnchile.com)
+
+- [Discovery and computational characterization of ZIKV envelope-targeted peptides from a subtractive phage display library](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341602) (Plos.org)
+
+- [Dødelig virus får flere asiatiske lufthavne til at skærpe kontrol](https://www.dr.dk/nyheder/udland/doedelig-virus-faar-flere-asiatiske-lufthavne-til-skaerpe-kontrol) (Www.dr.dk)
 
 - [Prenatal Zika virus exposure disrupts social-emotional development and cortical visual function in infant macaques](https://www.nature.com/articles/s41467-026-68517-x) (Nature.com)
 
@@ -78,6 +84,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (meningitis)
 
+- [Chicago health officials report 7 cases, 2 deaths from meningitis outbreak in January](https://www.cbsnews.com/chicago/news/meningitis-outbreak-january-chicago/) (CBS News)
+
 - [Gloria en la pista, dolor fuera de ella: la trágica historia de los hombres más queridos de Sabalenka, reina del tenis](https://www.hola.com/actualidad/20260129880533/gloria-pista-dolor-tragica-historia-hombres-queridos-sabalenka-reina-tenis/) (Hola)
 
 - [Gazan hospital reports bacterial meningitis outbreak among kids](https://www.haaretz.com/gaza/2026-01-29/ty-article/.premium/gazan-hospital-reports-bacterial-meningitis-outbreak-among-kids/0000019c-0646-d2fd-a9de-c75650a50000) (Haaretz)
@@ -85,6 +93,18 @@ Source: [News API](https://newsapi.org/)
 - [Group A Streptococcus Meningitis, United States, 1997–2022](https://wwwnc.cdc.gov/eid/article/32/1/25-0871_article) (Cdc.gov)
 
 ## 26-5 (measles)
+
+- [Measles Outbreak Associated with an Infectious Traveler — Colorado, May–June 2025](https://www.cdc.gov/mmwr/volumes/75/wr/mm7504a1.htm) (Cdc.gov)
+
+- [Winkler MPI service centre closes doors because of measles case](https://www.cbc.ca/news/canada/manitoba/measles-mpi-winkler-manitoba-9.7066438) (CBC News)
+
+- [Florida sees spike in measles cases](https://www.wftv.com/news/local/florida-sees-measles-cases-increase-amid-low-immunization-levels/XXIO2MYJ6JCV3KXOJ4Q5X2XK7U/) (WFTV Orlando)
+
+- [South Carolina measles outbreak surpasses Texas' 2025 total, with little sign of slowing](https://www.wunc.org/health/2026-01-29/south-carolina-measles-outbreak-surpasses-texas-2025-total) (Wunc.org)
+
+- [What does Ken Paxton call 2 kids dead from measles?](https://www.lawyersgunsmoneyblog.com/2026/01/what-does-ken-paxton-call-2-kids-dead-from-measles) (Lawyersgunsmoneyblog.com)
+
+- [South Carolina measles outbreak hits record high](https://www.salon.com/2026/01/29/south-carolina-measles-outbreak-hits-record-high/) (Salon)
 
 - [Case of measles confirmed in Arizona ICE facility](https://kesq.com/health/cnn-health/2026/01/28/case-of-measles-confirmed-in-arizona-ice-facility/) (KESQ)
 
@@ -216,6 +236,12 @@ Source: [News API](https://newsapi.org/)
 
 - [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
+## 26-5 (hpai)
+
+- [[주장] 조류독감, 살처분 아닌 백신 도입하라](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003202928) (Ohmynews.com)
+
+- [仕事のあとにふらっと立ち寄りたい。HPのAI PCが触れるカフェに行ってきた](https://www.gizmodo.jp/2026/01/hp-ai-lifestyle-cafe-vide.html) (Gizmodo.jp)
+
 ## 26-5 (h5n1)
 
 - [Erstmals wurde eine Vogelgrippe-Infektion bei einer Milchkuh in Europa entdeckt](https://www.nzz.ch/wissenschaft/erstmals-wurde-eine-vogelgrippe-infektion-bei-einer-milchkuh-in-europa-entdeckt-ld.1922435) (Www.nzz.ch)
@@ -253,6 +279,12 @@ Source: [News API](https://newsapi.org/)
 - [В Индии зафиксировали вспышку смертельного вируса Нипах: что известно](https://news.mail.ru/society/69550718/) (Mail.ru)
 
 ## 26-5 (dengue)
+
+- [Minsal confirma hallazgo de mosquito que transmite dengue, zika y fiebre amarilla en el aeropuerto de Santiago](https://www.cnnchile.com/pais/minsal-confirma-hallazgo-mosquito-transmite-dengue-zika-fiebre-amarilla-en-el-aeropuerto-de-santiago_20260129/) (Cnnchile.com)
+
+- [Alerta en el aeropuerto de Santiago ante posible presencia de mosquito que transmite el dengue y la fiebre amarilla](https://www.latercera.com/nacional/noticia/alerta-en-el-aeropuerto-de-santiago-ante-posible-presencia-de-mosquito-que-transmite-el-dengue-y-la-fiebre-amarilla/) (Latercera.com)
+
+- [Seremi de Salud informa que se investiga posible hallazgo de mosquito del dengue en Aeropuerto de Santiago](https://www.cnnchile.com/pais/seremi-de-salud-informa-que-se-investiga-posible-hallazgo-de-mosquito-del-dengue-aeropuerto-de-santiago_20260129/) (Cnnchile.com)
 
 - [Porto Alegre confirma primeiros casos de dengue de 2026](https://www.terra.com.br/noticias/porto-alegre-confirma-primeiros-casos-de-dengue-de-2026,21c5726aee6d9cb66777caf1d26621c25r6av7t8.html) (Terra.com.br)
 
@@ -1868,8 +1900,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Does seeing a raccoon during the day mean it has rabies?](https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/) (Lifesciencesworld.com)
 
-- [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
-
 ## 25-51 (mpox)
 
 - [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
@@ -1969,8 +1999,6 @@ Source: [News API](https://newsapi.org/)
 - [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
 
 - [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
-
-- [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
 
@@ -2099,10 +2127,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
-
-- [México rebasa los 20 mil contagios por dengue](https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359) (Excelsior.com.mx)
-
-- [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
 

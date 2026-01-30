@@ -1,8 +1,261 @@
 {
-  "last_updated": "2026-01-30 07:21",
-  "count_articles_total": 905,
-  "count_articles_new": 19,
+  "last_updated": "2026-01-30 19:16",
+  "count_articles_total": 915,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 27193,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Elyssa Kaufman",
+      "title": "Chicago health officials report 7 cases, 2 deaths from meningitis outbreak in January",
+      "description": "The Chicago Health Department reported a meningitis outbreak that has killed two people this month.",
+      "url": "https://www.cbsnews.com/chicago/news/meningitis-outbreak-january-chicago/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/04/12/c3fd3a1b-dbd8-4367-a6f4-f6205ad6cee6/thumbnail/1200x630/c332986e36b28cee16be7b34b6b4e1c6/GettyImages-1265278079.jpg",
+      "publishedAt": "2026-01-29 18:31:42",
+      "content": "The Chicago Health Department reported a meningitis outbreak that has killed two people this month. Since January 17, CDPH confirmed seven cases of Neisseria meningitis among adults. Health officia\u2026 [+1088 chars]",
+      "retrievedAt": "2026-01-30 19:15:58.501098",
+      "internal_id": "242094c3be00b39ecb6db7302a9d8e5770789a94b578297a5629851963a2abe6",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27191,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Cnnchile.com",
+      "author": "CNN Chile",
+      "title": "Minsal confirma hallazgo de mosquito que transmite dengue, zika y fiebre amarilla en el aeropuerto de Santiago",
+      "description": "Desde el ministerio se\u00f1alaron que tras la confirmaci\u00f3n se \"reforz\u00f3 de inmediato el protocolo de vigilancia y control intensivo para prevenir riesgos asociados a este vector transmisor de enfermedades\".",
+      "url": "https://www.cnnchile.com/pais/minsal-confirma-hallazgo-mosquito-transmite-dengue-zika-fiebre-amarilla-en-el-aeropuerto-de-santiago_20260129/",
+      "urlToImage": "https://media.cnnchile.com/sites/2/2026/01/mosquito-49141_1280.jpg",
+      "publishedAt": "2026-01-29 17:44:13",
+      "content": "Desde el ministerio se\u00f1alaron que tras la confirmaci\u00f3n se \"reforz\u00f3 de inmediato el protocolo de vigilancia y control intensivo para prevenir riesgos asociados a este vector transmisor de enfermedades\u2026 [+1921 chars]",
+      "retrievedAt": "2026-01-30 19:15:58.003399",
+      "internal_id": "f0218fd45061713525592f55a7e76ec2426b6defd6ff53bdb74dcbebb214765a",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27185,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Measles Outbreak Associated with an Infectious Traveler \u2014 Colorado, May\u2013June 2025",
+      "description": "This report describes the public health response to a measles outbreak in Colorado among people exposed to an infectious traveler who arrived in Colorado in May 2025 on an international flight.",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7504a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/mm7504a1_MeaslesInternationalTraveler_IMAGE_29Jan2026_1200x675.png?_=03487",
+      "publishedAt": "2026-01-29 17:00:00",
+      "content": "Measles is a highly contagious vaccine-preventable viral disease, characterized by fever, rash, cough, coryza, and conjunctivitis. During 2025, the number of U.S. measles cases increased after 25 yea\u2026 [+11449 chars]",
+      "retrievedAt": "2026-01-30 19:15:57.005609",
+      "internal_id": "29167a7fe5adbd167ba35d0ab1602ade8dcc3b83aad13ebfadbf586956ad8f4f",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27184,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Winkler MPI service centre closes doors because of measles case",
+      "description": "The MPI service centre in Winkler is closed until next week because of a confirmed measles case, and Manitoba Health says people may also have been exposed to the virus at a Winnipeg children's clothing store, Boundary Trails Health Centre and an indoor playg\u2026",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-mpi-winkler-manitoba-9.7066438",
+      "urlToImage": "https://i.cbc.ca/ais/dc70f73b-bcff-4c30-b381-36815a7ae9ba,1769702021406/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3BResize%3D620",
+      "publishedAt": "2026-01-29 16:31:08",
+      "content": "The MPI service centre in Winkler is closed until next week because of a confirmed measles case, and Manitoba Health says people may also have been exposed to the virus at a Winnipeg children's cloth\u2026 [+2702 chars]",
+      "retrievedAt": "2026-01-30 19:15:56.986561",
+      "internal_id": "72bc36ebd35384e8434e173d707ee01f6d673e5da37e591d81ee898faf1d2df8",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27186,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WFTV Orlando",
+      "author": "James Tutten",
+      "title": "Florida sees spike in measles cases",
+      "description": "Florida health officials are concerned about six new measles cases in the state this month.",
+      "url": "https://www.wftv.com/news/local/florida-sees-measles-cases-increase-amid-low-immunization-levels/XXIO2MYJ6JCV3KXOJ4Q5X2XK7U/",
+      "urlToImage": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FPKJACLQZGJHERORKQ43RMFFUPI.jpeg?auth=995b05b195b5e6f7cf8630c3668f6ca9dad92ebb772c38c598f73df1506e4c1f&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-29 16:26:30",
+      "content": "ORLANDO, Fla. \u2014 Florida health officials are concerned about six new measles cases in the state this month. All of last year, Florida had only eight cases. So far, no cases have been reported in Ce\u2026 [+628 chars]",
+      "retrievedAt": "2026-01-30 19:15:57.050283",
+      "internal_id": "29a5a2fc256b35659e0fca7289d7a3aeefbdef76b76bbc015129ad4c8810ca64",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27187,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wunc.org",
+      "author": "Associated Press",
+      "title": "South Carolina measles outbreak surpasses Texas' 2025 total, with little sign of slowing",
+      "description": "The measles outbreak in South Carolina has surpassed the recorded case count in Texas' 2025 outbreak. Health officials have logged almost 600 new cases in just over a month, for a total of 789. The U.S. is at risk of losing its measles elimination status, ear\u2026",
+      "url": "https://www.wunc.org/health/2026-01-29/south-carolina-measles-outbreak-surpasses-texas-2025-total",
+      "urlToImage": "https://npr.brightspotcdn.com/dims4/default/f1ba828/2147483647/strip/true/crop/4500x2363+0+426/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2Fda%2Fbde026f240f4a986faf74bb610a9%2Fmeasles-story-photo.jpg",
+      "publishedAt": "2026-01-29 15:56:35",
+      "content": "The South Carolina measles outbreak has surpassed the recorded case count in Texas' 2025 outbreak, as health officials have logged almost 600 new cases in just over a month. The outbreak centered in\u2026 [+3078 chars]",
+      "retrievedAt": "2026-01-30 19:15:57.118307",
+      "internal_id": "3dcadd7630dd13ec2286b83453afe8913f8bf0ed219491e4bf58a6fe6fa97371",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27192,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Paula Pareja",
+      "title": "Alerta en el aeropuerto de Santiago ante posible presencia de mosquito que transmite el dengue y la fiebre amarilla",
+      "description": "En el terminal a\u00e9reo se activaron los protocolos para investigar el ejemplar encontrado.",
+      "url": "https://www.latercera.com/nacional/noticia/alerta-en-el-aeropuerto-de-santiago-ante-posible-presencia-de-mosquito-que-transmite-el-dengue-y-la-fiebre-amarilla/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/3CRMIHY5SRGZZP7FS7LR6FJ7N4.jpg?auth=0e95400d9a256b8a3be03a7db8d45257b0e81713f67bfd47f76af9bac3f886da&height=630&width=1200&smart=true",
+      "publishedAt": "2026-01-29 15:32:17",
+      "content": "La Seremi de Salud de la Regi\u00f3n Metropolitana est\u00e1 en alerta, luego que se detectara un mosquito en el Aeropuerto de Santiago Arturo Merino Ben\u00edtez,el que podr\u00eda corresponder a la especie Aedes aegyp\u2026 [+2031 chars]",
+      "retrievedAt": "2026-01-30 19:15:58.012627",
+      "internal_id": "43fd568c23de47fb58d7e60409b49d9ab84878d2e474fdda79c1a0063b595e1a",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27190,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cnnchile.com",
+      "author": "CNN Chile",
+      "title": "Seremi de Salud informa que se investiga posible hallazgo de mosquito del dengue en Aeropuerto de Santiago",
+      "description": "La Seremi indic\u00f3 que el hallazgo fue \"enviado al ISP para su confirmaci\u00f3n, activando el protocolo de vigilancia y control\".",
+      "url": "https://www.cnnchile.com/pais/seremi-de-salud-informa-que-se-investiga-posible-hallazgo-de-mosquito-del-dengue-aeropuerto-de-santiago_20260129/",
+      "urlToImage": "https://media.cnnchile.com/sites/2/2024/04/Mosquito-del-dengue.jpg",
+      "publishedAt": "2026-01-29 15:12:56",
+      "content": "La Seremi indic\u00f3 que el hallazgo fue \"enviado al ISP para su confirmaci\u00f3n, activando el protocolo de vigilancia y control\".La Seremi de Salud de la Regi\u00f3n Metropolitana dio a conocer que se encontr\u00f3 \u2026 [+1598 chars]",
+      "retrievedAt": "2026-01-30 19:15:57.993449",
+      "internal_id": "5a1f48588749ad97b7e0f80bc02c7cf360e6d76f33eaaf51ebd50356dde0f519",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27183,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Lawyersgunsmoneyblog.com",
+      "author": "Shakezula",
+      "title": "What does Ken Paxton call 2 kids dead from measles?",
+      "description": "A good start. But apparently there are far too many living and healthy kids for his taste. So he\u2019s blowing some cumulonimbus-sized clouds of doubt about the clinical judgement of pediatricians. Texas Attorney General Ken Paxton launched an investigation into \u2026",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/01/what-does-ken-paxton-call-2-kids-dead-from-measles",
+      "urlToImage": "https://www.lawyersgunsmoneyblog.com/wp-content/uploads/2026/01/image-28.png",
+      "publishedAt": "2026-01-29 14:53:39",
+      "content": "Bureau of Labor &amp; Statistics A good start. But apparently there are far too many living and healthy kids for his taste. So he\u2019s blowing some cumulonimbus-sized clouds of doubt about the clinic\u2026 [+2820 chars]",
+      "retrievedAt": "2026-01-30 19:15:56.908176",
+      "internal_id": "823323cf9cb400547264b0786427bca45de2cfb64ec33177b2e337db899b6f51",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27194,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mirna Burciaga-Flores, Javier Wong-Romero, Darwin Elizondo-Quiroga, Er\u00e9ndira Villalobos-S\u00e1nchez, Abel Guti\u00e9rrez-Ortega, Tanya A. Camacho-Villegas, Sergio A. \u00c1guila",
+      "title": "Discovery and computational characterization of ZIKV envelope-targeted peptides from a subtractive phage display library",
+      "description": "The Zika virus (ZIKV) poses a significant public health threat, and developing highly specific diagnostic and therapeutic agents that can distinguish it from other flaviviruses remains a critical challenge. To address this, we utilized a phage display library\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341602",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0341602.g005&size=inline",
+      "publishedAt": "2026-01-29 14:00:00",
+      "content": "Abstract The Zika virus (ZIKV) poses a significant public health threat, and developing highly specific diagnostic and therapeutic agents that can distinguish it from other flaviviruses remains a cr\u2026 [+45233 chars]",
+      "retrievedAt": "2026-01-30 19:15:59.124447",
+      "internal_id": "e3e4a142e663fe6b0c7ce20bc7f59e29b377dfdf1eee4e8ff582bd2c975d1897",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27182,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Jelinda Montes",
+      "title": "South Carolina measles outbreak hits record high",
+      "description": "This is largest measles outbreak since the United States declared measles eliminated in 2000.",
+      "url": "https://www.salon.com/2026/01/29/south-carolina-measles-outbreak-hits-record-high/",
+      "urlToImage": "https://www.salon.com/app/uploads/2026/01/measles-vaccine-GettyImages-2242752228.jpg",
+      "publishedAt": "2026-01-29 11:22:17",
+      "content": "The South Carolina Department of Public Health reported Tuesday that the state has had nearly 800 measles cases since an outbreak beginning last October. The outbreak is centered around Spartanburg \u2026 [+2805 chars]",
+      "retrievedAt": "2026-01-30 19:15:56.793906",
+      "internal_id": "33aea72492d3c8c087c1dcf7637cdcea0b1a4d70915be71c3d640bc19279f7f5",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27195,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "D\u00f8delig virus f\u00e5r flere asiatiske lufthavne til at sk\u00e6rpe kontrol",
+      "description": "Nipahvirus smitter som hovedregel kun fra dyr til mennesker og kun sj\u00e6ldent mennesker imellem, forklarer l\u00e6ge.",
+      "url": "https://www.dr.dk/nyheder/udland/doedelig-virus-faar-flere-asiatiske-lufthavne-til-skaerpe-kontrol",
+      "urlToImage": "https://asset.dr.dk/drdk/umbraco-images/q4qbsgan/20260125-174132-3.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+      "publishedAt": "2026-01-29 08:55:00",
+      "content": "Nipahvirus er en af de sygdomme, som der endnu ikke findes vacciner imod, og sygdommen ligger sammen med covid-19, ebola og zika i Verdenssundhedsorganisationen WHO's top ti over sygdomme, der if\u00f8lge\u2026 [+1420 chars]",
+      "retrievedAt": "2026-01-30 19:15:59.134153",
+      "internal_id": "1c464b6d1855f872cae3ac7ba84bfee5485409716cecec6000d666e7c1efc27c",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27189,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Ohmynews.com",
+      "author": "\ud654\uc131\uc2dc\ubbfc\uc2e0\ubb38",
+      "title": "[\uc8fc\uc7a5] \uc870\ub958\ub3c5\uac10, \uc0b4\ucc98\ubd84 \uc544\ub2cc \ubc31\uc2e0 \ub3c4\uc785\ud558\ub77c",
+      "description": "\uc548\ub155\ud558\uc138\uc694, '\uc791\uc804\uba85 \uc218\ud0c9(Operation Rooster)'\uc758 \uc138\ub808\ub098\uc785\ub2c8\ub2e4. \uc9c0\ub09c \uae30\uc0ac\uc5d0\uc11c \uc800\ub294 \uc870\ub958 \uc778\ud50c\ub8e8\uc5d4\uc790\uc640 \uadf8 \ud1b5\uc81c \uc2dc\uc2a4\ud15c\uc774 \ub18d\uc5c5 \uc0b0\uc5c5\ubfd0\ub9cc \uc544\ub2c8\ub77c \uc9c1\uac04\uc811\uc801\uc73c\ub85c \uc6b0\ub9ac \ubaa8\ub450\uc5d0\uac8c \uc601\ud5a5\uc744 \ubbf8\uce58\ub294 \ubb38\uc81c\ub77c\ub294 \uac83\uc744 \ubcf4\uc5ec\ub4dc\ub9ac\uace0 \uc2f6\uc5c8\uc2b5\ub2c8\ub2e4. \uc774\ubc88 \uae30\uc0ac\uc5d0\uc11c\ub294 \ud2b9\ud788 \uc6b0\ub9ac \ub3c4\uc2dc \ud654\uc131\uc5d0 \uc601\ud5a5\uc744 \ubbf8\uce58\ub294 \ubb38\uc81c\uc774\uba70, \uc0dd\uba85\uc744 \uc18c\uc911\ud788 \uc5ec\uae30\ub294 \ubaa8\ub4e0 \uc774\ub4e4\uc5d0\uac8c \uc65c \uadf8\ud1a0\ub85d \ub054\ucc0d\ud55c \ubb38\uc81c\uc778\uc9c0 \ubcf4\uc5ec\ub4dc\ub9ac\uace0\uc790 \ud569\ub2c8\ub2e4. \uc2e4\uc81c\ub85c \ub9e4\ub144 \ud654\uc131\uc5d0\uc11c \uc870\ub958\ub3c5\uac10\uc758 \uc704\ud611\uc740 \ub18d\ubd80\ub4e4\uc758 \ub4f1\uace8\uc744 \uc624\uc2f9\ud558\uac8c \ub9cc\ub4ed\ub2c8\ub2e4. \ud654\uc131\u2026",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003202928",
+      "urlToImage": "https://ojsfile.ohmynews.com/STD_IMG_FILE/2026/0129/IE003576788_STD.jpg",
+      "publishedAt": "2026-01-29 08:03:20",
+      "content": ", ' (Operation Rooster)' . . , .. (HPAI) . , , , . 2020 2025 12 HPAI . ? ? . HPAI , . , . , 2018 500m 3km . 2021 500m . , , 3km . , 100% , . , . , . , \"\" . , . CO\u00b2 , , , . . . \" \" \" \" , ? ? . . \u2026 [+289 chars]",
+      "retrievedAt": "2026-01-30 19:15:57.325809",
+      "internal_id": "00c6102242eb250116cb9f5ce7cc9f943504042ca82a709aca4f97d80bd6bae3",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27188,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.jp",
+      "author": "\u4e09\u6d66\u4e00\u7d00",
+      "title": "\u4ed5\u4e8b\u306e\u3042\u3068\u306b\u3075\u3089\u3063\u3068\u7acb\u3061\u5bc4\u308a\u305f\u3044\u3002HP\u306eAI PC\u304c\u89e6\u308c\u308b\u30ab\u30d5\u30a7\u306b\u884c\u3063\u3066\u304d\u305f",
+      "description": "Photo:amito\u5bc4\u308a\u9053\u5927\u597d\u304d\u91d1\u672c\u3055\u3093\u3002\u6700\u8fd1\u3001\u4ed5\u4e8b\u7d42\u308f\u308a\u306b\u5bc4\u308a\u9053\u3059\u308b\u306e\u304c\u30de\u30a4\u30d6\u30fc\u30e0\u306e\u3001\u30ae\u30ba\u30e2\u30fc\u30c9\u7de8\u96c6\u90e8\u91d1\u672c\u3002\u4eca\u65e5\u3082\u4ed5\u4e8b\u7d42\u308f\u308a\u306b\u540c\u50da\u306e\u8a98\u3044\u3092\u65ad\u308a\u3001\u3069\u3053\u304b\u306b\u5411\u304b\u3046\u3088\u3046\u3067\u3059\u3002\u3044\u3063\u305f\u3044\u3069\u3053\u306b\u884c\u304f\u3093\u3067\u3057\u3087\u3046\u306d\u3047\u2026\u3002\u5411\u304b\u3046\u5148\u306fHP\u306e\u30dd\u30c3\u30d7\u30a2\u30c3\u30d7\u30ab\u30d5\u30a7\u4eca\u56de\u91d1\u672c\u304c\u5bc4\u308a\u9053\u3057\u305f\u306e\u306f\u3001\u516d\u672c\u6728\u30d2\u30eb\u30ba\u3002\u3069\u3046\u3084\u3089\u30012025\u5e7412\u670816\u65e5\u304b\u308925\u65e5\u307e\u3067\u958b\u50ac\u3055\u308c\u3066\u3044\u305fHP\u306e\u671f\u9593\u9650\u5b9a\u30dd\u30c3\u30d7\u30a2\u30c3\u30d7\u30ab\u30d5\u30a7\u300cHPAILifestyl",
+      "url": "https://www.gizmodo.jp/2026/01/hp-ai-lifestyle-cafe-vide.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2026/01/19/DSCF8565.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2026-01-29 08:00:00",
+      "content": "Video: /YouTube HP 2025121625HPHP AI Lifestyle Cafe -AI- HP AI Lifestyle Cafe -AI-HPAI PCPC AI PCHPAI PC AI 3 AI YouTuber SNS270AI AI Video: /YouTube HP AI Lifestyle Cafe -AI-HP HP AI Li\u2026 [+28 chars]",
+      "retrievedAt": "2026-01-30 19:15:57.315281",
+      "internal_id": "ac998e77dfa066c9647502e753a98d10e0de7fb4007827284f8502026c192208",
+      "publishedAtLabel": "Jan 29"
+    },
     {
       "id": 27180,
       "query": [
@@ -16255,78 +16508,6 @@
       "content": "The Federal Government on Sunday said malaria transmission is declining sharply in Lagos State, citing sustained investments in prevention, testing and treatment as evidence that malaria elimination \u2026 [+4034 chars]",
       "retrievedAt": "2025-12-16 07:10:05.923125",
       "internal_id": "1af21ae4cbef358ce131423720ec9bc0c4f90db404d57b776b8d6fce6d657153",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26279,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Excelsior.com.mx",
-      "author": "angel.salinas",
-      "title": "M\u00e9xico rebasa los 20 mil contagios por dengue",
-      "description": "Patricia Rodr\u00edguez Calva Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado por la secretar\u00eda de Salud, se\u00f1al\u2026",
-      "url": "https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359",
-      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/14/3435476.jpg",
-      "publishedAt": "2025-12-14 18:17:40",
-      "content": "Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado \u2026 [+3664 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.411445",
-      "internal_id": "0c4ba9b31b21a4c73403b9e5f5df1249089a367b6d729aba54f9d1ecb19a1acc",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26276,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Mike LaChance",
-      "title": "New Pro-Life Group at U. Southern Maine Faces Vicious Harassment",
-      "description": "\u201c[W]ishing rabies upon your family\u201d The post New Pro-Life Group at U. Southern Maine Faces Vicious Harassment first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Craziness-On-Campus.jpg",
-      "publishedAt": "2025-12-14 16:00:43",
-      "content": "Where are all of the Maine Democrats to denounce this? These students aren\u2019t hurting anyone.University of Southern Maine pro-life group faced with harassment, including veiled threat referencing Kirk\u2026 [+1526 chars]",
-      "retrievedAt": "2025-12-15 19:08:00.841246",
-      "internal_id": "2245f2051e0d7fb1a1b91b7133a4cf60f19684cad3bd2613d7df9c26cb55b81c",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26277,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ayesha Rascoe",
-      "title": "Measles cases spike in South Carolina",
-      "description": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "url": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2025-12-14 13:23:09",
-      "content": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "retrievedAt": "2025-12-15 19:08:01.281401",
-      "internal_id": "5e6702016d39e872fae6b49e046467c56995a1004f3e43a72ab4b4c9f2e4de04",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26280,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection on the decline",
-      "description": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from both diseases has dropped significantly in December. Accordin\u2026",
-      "url": "https://english.khabarhub.com/2025/14/511487/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-12-14 07:45:55",
-      "content": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from \u2026 [+933 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.455423",
-      "internal_id": "ea32c69e4aa7af9bc37a75cdaa05f9f22ad7465532f7255a0f1952c7d7db7742",
       "publishedAtLabel": "Dec 14"
     }
   ]
