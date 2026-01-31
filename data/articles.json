@@ -1,8 +1,316 @@
 {
-  "last_updated": "2026-01-31 07:14",
-  "count_articles_total": 933,
-  "count_articles_new": 14,
+  "last_updated": "2026-01-31 19:08",
+  "count_articles_total": 946,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 27216,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "South Carolina: Major Measles Outbreak! Thanks, RFK, JR.!",
+      "description": "In the year 2000, health officials declared that measles had been eliminated in the United States, thanks to a successful program to vaccinate all children against the disease. But, thanks to Robert F. Kennedy Jr, who is now Secretary of Health and Human Serv\u2026",
+      "url": "https://dianeravitch.net/2026/01/30/south-carolina-major-measles-outbreak/",
+      "urlToImage": "https://dianeravitch.net/wp-content/uploads/2017/12/diane.jpg?w=200",
+      "publishedAt": "2026-01-30 17:00:00",
+      "content": "In the year 2000, health officials declared that measles had been eliminated in the United States, thanks to a successful program to vaccinate all children against the disease. But, thanks to Robert\u2026 [+1588 chars]",
+      "retrievedAt": "2026-01-31 19:08:38.085225",
+      "internal_id": "887df5526d76573a4d8c0a668e0cdf88823cbf8feac138245ca5a3e2a1736584",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27213,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Jezebel",
+      "author": "Jim Vorel",
+      "title": "It Sure Looks Like Pretty Much Every Unvaccinated Kid Is About to Get Measles",
+      "description": "Last year's measles total in the U.S. was the worst in 34 years. This year is on pace for 300% more cases.",
+      "url": "https://www.jezebel.com/measles-infections-us-2026-record-highs-south-carolina-deaths-vaccination-rate-chart-cdc",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/01/measles-neck-wikimedia-commons-main.jpg",
+      "publishedAt": "2026-01-30 16:18:50",
+      "content": "Here\u2019s something you never really want to see, on a line graph charting the spread of an incredibly infectious disease: A vertical line. And yet, how else to describe what measles has been doing in t\u2026 [+6839 chars]",
+      "retrievedAt": "2026-01-31 19:08:37.939651",
+      "internal_id": "975e95890db8d178e98c69819e7454600d725eda527a93c7b157e8d9521b0e24",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27211,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud, Mary Kekatos",
+      "title": "At least 588 US measles cases reported in January: CDC",
+      "description": "At least 588 measles cases have been confirmed so far this year across the U.S., according to updated data from the Centers for Disease Control and Prevention.",
+      "url": "https://abcnews.go.com/Health/588-us-measles-cases-reported-january-cdc/story?id=129699078",
+      "urlToImage": "https://i.abcnewsfe.com/a/d159e325-f7cd-47ca-98bb-f09b5e158845/measles-1-gty-er-260119_1768854878730_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-01-30 16:16:42",
+      "content": "At least 588 measles cases have been confirmed so far this year across the U.S., according to updated data from the Centers for Disease Control and Prevention. This means the U.S. has seen more case\u2026 [+2204 chars]",
+      "retrievedAt": "2026-01-31 19:08:37.911743",
+      "internal_id": "ff76f21a2b873226cb461843948c1988c4b9335cf9eb7d1b7fb3cb2121e86582",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27218,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u041b\u0435\u043e\u043d\u0438\u0434 \u041c\u043e\u043d\u0438\u043d",
+      "title": "\u0421\u043e\u0437\u0434\u0430\u043d\u0430 \u0432\u044b\u0441\u043e\u043a\u043e\u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0430\u044f \u0438\u043d\u0442\u0440\u0430\u043d\u0430\u0437\u0430\u043b\u044c\u043d\u0430\u044f \u0432\u0430\u043a\u0446\u0438\u043d\u0430 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u041f\u0440\u0438\u0432\u0438\u0432\u043a\u0430 \u0431\u044b\u043b\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u0440\u043e\u0432\u0435\u0440\u0435\u043d\u0430 \u0432 \u043e\u043f\u044b\u0442\u0430\u0445 \u043d\u0430 \u0441\u0438\u0440\u0438\u0439\u0441\u043a\u0438\u0445 \u0445\u043e\u043c\u044f\u0447\u043a\u0430\u0445.",
+      "url": "https://news.mail.ru/society/69628369/",
+      "urlToImage": "https://news.mail.ru/social_preview/69628369/?time=c59472516716fb54e72734cb25709ea5",
+      "publishedAt": "2026-01-30 16:03:12",
+      "content": ", 30 . //. (H5N1 2.3.4.4b), . , - (WUSTL). \u00ab , , , . , \u00bb, \u2014 WUSTL , - . , H5N1 , 2004\u20142005 . , , , 2020 . , . , H5N1, , , Ad36, \u2026 [+17 chars]",
+      "retrievedAt": "2026-01-31 19:08:38.718795",
+      "internal_id": "6884a0185c111fe9159f00f6b6b69c15ee477f745e86059f679bb7fd5192cc05",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27221,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Nicole Iporre",
+      "title": "Qu\u00e9 se sabe sobre el mosquito detectado en Santiago que transmite dengue, chikungunya, zika y fiebre amarilla",
+      "description": "Encontraron a un mosquito Aedes aegypti en el aeropuerto de Santiago. Las autoridades activaron una vigilancia sanitaria y explicaron los riesgos, s\u00edntomas del dengue y c\u00f3mo prevenir los contagios.",
+      "url": "https://www.latercera.com/tendencias/noticia/que-se-sabe-sobre-el-mosquito-detectado-en-santiago-que-transmite-dengue-chikungunya-zika-y-fiebre-amarilla/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/EJVX5OVC2RGMXPI2RFNRO2LAMU.jpg?auth=c9917e6a79256c6c16828aa3a104ca7ca68aa4daae454db2512cf3a9673424e8&height=630&width=1200&smart=true",
+      "publishedAt": "2026-01-30 13:50:05",
+      "content": "En una bodega del Aeropuerto Arturo Merino Ben\u00edtez en Santiago, se encontr\u00f3 un mosquito Aedes aegypti , un ejemplar conocido por transmitir enfermedades como el dengue , chikungunya, zika y\u2026 [+4622 chars]",
+      "retrievedAt": "2026-01-31 19:08:38.948468",
+      "internal_id": "361a20c7b3f6318a49dc87224beef46607a0c8f2ef3dc8f24034e21335e7c493",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27217,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O Regan",
+      "title": "Irish snow-seekers heading for ski slopes and Winter Olympics warned of measles risk",
+      "description": "People from Ireland heading to the slopes for the 2026 Winter Olympics and Paralympic Games in February and March are being warned to ensure they are vaccinated against measles amid outbreaks of the disease in ski resorts.",
+      "url": "https://www.independent.ie/irish-news/health/irish-snow-seekers-heading-for-ski-slopes-and-winter-olympics-warned-of-measles-risk/a954955366.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/6WTTVg1BhVEASdLj9aVFI8difwg=/629x460/smart/prod-mh-ireland/19ea93d4-e12b-4924-83e5-94b3ba256c9d/668fc77d-09c9-4531-8b48-3c4a342d408c/19ea93d4-e12b-4924-83e5-94b3ba256c9d.jpg",
+      "publishedAt": "2026-01-30 13:18:55",
+      "content": "People from Ireland heading to the slopes for the 2026 Winter Olympics and Paralympic Games in February and March are being warned to ensure they are vaccinated against measles amid outbreaks of the \u2026 [+3069 chars]",
+      "retrievedAt": "2026-01-31 19:08:38.203828",
+      "internal_id": "f64530992d25df6b983dae724e3d52e6b16bf64c15484669f3de7e8e00b62169",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27214,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Forbes",
+      "author": "Jesse Pines, Contributor, \n Jesse Pines, Contributor\n https://www.forbes.com/sites/jessepines/",
+      "title": "Measles Is Spiking: 5 Things Families Should Know, From An ER Doctor",
+      "description": "A doctor explains 5 facts about measles outbreaks. Learn how to spot symptoms, protect high-risk groups and why the MMR vaccine is your best defense.",
+      "url": "https://www.forbes.com/sites/jessepines/2026/01/30/measles-outbreaks-are-accelerating-5-things-to-know-from-a-doctor/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/697bf90713d1c9435a26a272/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-01-30 12:00:00",
+      "content": "Historically, measles has been an illness doctors only learned about in textbooks. With increasing measles outbreaks in the U.S. and around the world, thats changing. The measles rash (seen here) of\u2026 [+7130 chars]",
+      "retrievedAt": "2026-01-31 19:08:37.999322",
+      "internal_id": "8bac4edd8066b45d7d03729d2f9b8408635569786e0b9d8d3689b57a821786b7",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27215,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "In one South Carolina county, measles starts to feel like next pandemic",
+      "description": "Health experts fear a future where measles outbreaks keep taking over towns with low vaccination rates.",
+      "url": "https://www.bbc.com/news/articles/cwy10l9lwpyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44b2/live/f39f0600-fd58-11f0-809e-0391886361ed.png",
+      "publishedAt": "2026-01-30 11:32:26",
+      "content": "In recent weeks, Kennedy, a longtime vaccine sceptic, has remained silent about the outbreak in South Carolina. In a statement to the BBC, the Department of Health and Human Services said vaccination\u2026 [+110 chars]",
+      "retrievedAt": "2026-01-31 19:08:38.025318",
+      "internal_id": "6b9493208851e2dd5100c764e54e789113bd59e14d0f93b2c6c460ade1c85693",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27223,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Hotnews.ro",
+      "author": "Mona Hera",
+      "title": "Primul caz de virus Chikungunya confirmat \u00een Rom\u00e2nia. Medic: \u201eAr trebui s\u0103 r\u0103m\u00e2nem lini\u0219ti\u021bi\u201d / Cum se transmite acest virus \u0219i care sunt simptomele",
+      "description": "Primul caz din Rom\u00e2nia de infectare cu virusul Chikungunya a fost confirmat la un b\u0103rbat care a c\u0103l\u0103torit \u00een Africa, acolo unde este r\u0103sp\u00e2ndit acest virus, transmis de \u021b\u00e2n\u021bari. Conform managerului Institutului Na\u021bional de Boli\u2026",
+      "url": "https://hotnews.ro/primul-caz-de-virus-chikungunya-confirmat-in-romania-medic-ar-trebui-sa-ramanem-linistiti-cum-se-transmite-acest-virus-si-care-sunt-simptomele-2161716",
+      "urlToImage": "https://hotnews.ro/wp-content/uploads/2025/07/profimedia-0911444030.jpg",
+      "publishedAt": "2026-01-30 11:32:15",
+      "content": "Primul caz din Rom\u00e2nia de infectare cu virusul Chikungunya a fost confirmat la un brbat care a cltorit \u00een Africa, acolo unde este rsp\u00e2ndit acest virus, transmis de \u00e2nari. Conform managerului Institut\u2026 [+2279 chars]",
+      "retrievedAt": "2026-01-31 19:08:39.863354",
+      "internal_id": "6aab228f90dd97a4dcef377ccb808a12b724413be1f3c2b901813fc933db6e66",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27222,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Guillain-Barre Syndrome Diagnostics Research Report 2026 - Global $185+ Mn Market Trends, Opportunities, and Forecasts to 2031",
+      "description": "The Guillain-Barre Syndrome Diagnostics Market is driven by the rising incidence of infections like Zika and aging populations, necessitating advanced diagnostics such as electromyography and nerve conduction studies. Challenges include high costs and skilled\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/01/30/3229366/28124/en/Guillain-Barre-Syndrome-Diagnostics-Research-Report-2026-Global-185-Mn-Market-Trends-Opportunities-and-Forecasts-to-2031.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-01-30 10:41:00",
+      "content": "Dublin, Jan. 30, 2026 (GLOBE NEWSWIRE) -- The \"Guillain-Barre Syndrome Diagnostics Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031\" has been added to ResearchAndMar\u2026 [+8222 chars]",
+      "retrievedAt": "2026-01-31 19:08:39.655299",
+      "internal_id": "636210f2bd91117c5a806dc0f363d43146741c896731bf75a03278ffa1666023",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27212,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Flowingdata.com",
+      "author": "Nathan Yau",
+      "title": "Cumulative measles rising with South Carolina outbreak",
+      "description": "In 2000, measles in the United States was declared eliminated by the World Health Organization, because vaccination coverage was high enough. This year, vaccination rates are down and cases are up.\u2026",
+      "url": "https://flowingdata.com/2026/01/30/cumulative-measles-rising-with-south-carolina-outbreak/",
+      "urlToImage": "https://flowingdata.com/wp-content/uploads/2026/01/cumulative-measles-cnn.png",
+      "publishedAt": "2026-01-30 10:11:07",
+      "content": "In 2000, measles in the United States was declared eliminated by the World Health Organization, because vaccination coverage was high enough. This year, vaccination rates are down and cases are up. T\u2026 [+267 chars]",
+      "retrievedAt": "2026-01-31 19:08:37.929660",
+      "internal_id": "a00bf0165e0b0fe1b5d04a936e791dd71069a28089a9ed7a992ef8ffbc445fd2",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27220,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Seznam.cz",
+      "author": null,
+      "title": "Labu\u0165 nalezen\u00e1 u jezera Most uhynula na pta\u010d\u00ed ch\u0159ipku",
+      "description": "U uhynul\u00e9 labut\u011b, kter\u00e1 byla minul\u00fd t\u00fdden nalezena u jezera Most nedaleko stejnojmenn\u00e9ho m\u011bsta, se potvrdila pta\u010d\u00ed ch\u0159ipka. Jde o vysoce patogenn\u00ed virus H5N1, kter\u00fd se v \u010cesk\u00e9 republice objevuje v posledn\u00edch letech i ve velkochovech a malochovech. Pro chovate\u2026",
+      "url": "https://cmp.seznam.cz/nastaveni-souhlasu?service=bcr&return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fdomaci-labut-nalezena-u-jezera-most-uhynula-na-ptaci-chripku-40560166%3Fcwreturn%3D1&cwtime=1769766929538&loginstate=forget&cwri=88a46e341f7705d5bbc012cb860c76be&reason=missing&service_id=novinky",
+      "urlToImage": null,
+      "publishedAt": "2026-01-30 09:46:05",
+      "content": "Nco n\u00e1m br\u00e1n\u00ed v naten\u00ed str\u00e1nky It seems the page failed to load correctly Zd\u00e1 se, e se str\u00e1nka nepodaila spr\u00e1vn na\u00edst. Me to b\u00fdt zpsobeno nkter\u00fdmi roz\u00eden\u00edmi prohl\u00ede, jako jsou blok\u00e1tory reklam, ne\u2026 [+858 chars]",
+      "retrievedAt": "2026-01-31 19:08:38.762876",
+      "internal_id": "1479996b757bb181bd220e67c1ec56491b09fde3429d3d73a5bb149dfd267544",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27225,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Mediafax.ro",
+      "author": "Petru Mazilu",
+      "title": "O boal\u0103 foarte periculoas\u0103 \u0219i rar\u0103 a ajuns \u00een Rom\u00e2nia. Pacientul este internat \u00een spital",
+      "description": "O boal\u0103 periculoas\u0103 \u0219i rar\u0103, transmis\u0103 prin \u00een\u021bep\u0103tura de \u021b\u00e2n\u021bar, a ajuns \u00een Rom\u00e2nia. Pacientul este internat \u00eentr-un spital din Bucure\u0219ti.",
+      "url": "https://www.mediafax.ro/sanatate/o-boala-foarte-periculoasa-si-rara-a-ajuns-in-romania-pacientul-este-internat-in-spital-23679007",
+      "urlToImage": "https://www.mediafax.ro//wp-content/uploads/2026/01/laborator-1-e1769764753659.jpg",
+      "publishedAt": "2026-01-30 09:31:16",
+      "content": "Boala periculoas este rar \u00een Europa, fiind \u00eent\u00e2lnit \u00een special \u00een Africa i America de Sud acolo unde virusul este transmis de \u00e2nari. Este vorba despre virusul Chikungunya confirmat \u00een cazul unui brba\u2026 [+660 chars]",
+      "retrievedAt": "2026-01-31 19:08:39.891972",
+      "internal_id": "a26e50522d47b24f55e9b35091988c36b60a472fb22f00b3331d774151ffde18",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27210,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "India\u2019s top court weighs rules on stray dogs as bite cases surge",
+      "description": "The country\u2019s Supreme Court has reserved its verdict on petitions challenging its stray dog directives, as a debate intensifies over public safety risks and animal welfare.",
+      "url": "https://www.channelnewsasia.com/asia/india-supreme-court-rules-stray-dogs-5896121",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--XqcInWz7--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/01/30/stray_dogs_1.png?itok=g0jhk6pc",
+      "publishedAt": "2026-01-30 08:49:33",
+      "content": "Public health experts note that India accounts for around 36 per cent of global rabies deaths, with children and the elderly particularly at risk a factor that has intensified calls for stronger str\u2026 [+1146 chars]",
+      "retrievedAt": "2026-01-31 19:08:37.662611",
+      "internal_id": "0123933347bc10bd50e7511e81a2afb16cb9de05a84c7f586f4b0c6afb886858",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27224,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Daniela Trifan",
+      "title": "Un virus extrem de periculos a ajuns \u00een Rom\u00e2nia. Chikungunya este transmis de \u021b\u00e2n\u021bari. Care sunt simptomele",
+      "description": "Autorit\u0103\u021bile sanitare au confirmat primul caz de Chikungunya \u00een Rom\u00e2nia, o boal\u0103 viral\u0103 transmis\u0103 prin \u00een\u021bep\u0103tura \u021b\u00e2n\u021barilor.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/un-virus-extrem-de-periculos-a-ajuns-in-romania-2504705.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-b/bbd2daa9-bc2c-4c1e-84f0-85ab0cdc58cf/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-01-30 08:44:52",
+      "content": "Autoritile sanitare au confirmat primul caz de Chikungunya \u00een Rom\u00e2nia, o boal viral transmis prin \u00eeneptura \u00e2narilor. Pacientul, un brbat de aproximativ 50 de ani, a prezentat simptome asemntoare grip\u2026 [+3245 chars]",
+      "retrievedAt": "2026-01-31 19:08:39.882329",
+      "internal_id": "6833be5e37d49f2a4a9000ff51289d6355aaaf73c0d240be032f828eb14a756d",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27226,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Digi24.ro",
+      "author": "\u0218tefania Apostol",
+      "title": "Alert\u0103 \u00een Rom\u00e2nia: primul caz de virus Chikungunya confirmat la un b\u0103rbat venit din Africa",
+      "description": "Primul caz de virus Chikungunya diagnosticat \u00een Rom\u00e2nia a fost confirmat la un b\u0103rbat de aproximativ 50 de ani. Boala, transmis\u0103 prin mu\u0219c\u0103tura de \u021b\u00e2n\u021bar, este rar\u0103 \u00een Europa \u0219i \u00eent\u00e2lnit\u0103 mai ales \u00een Africa \u0219i America de Sud.",
+      "url": "https://www.digi24.ro/stiri/actualitate/alerta-in-romania-primul-caz-de-virus-chikungunya-confirmat-la-un-barbat-venit-din-africa-3608425",
+      "urlToImage": "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjYl/MkYwMSUyRjMwJTJGMjU2MzI1Ml8yNTYz/MjUyX3Byb2ZpbWVkaWEtMTAzNTY5MDg0/OC5qcGcmdz0xMjAwJmg9NjMwJnpjPTEm/aGFzaD00MDAyOTQyNzBhZDc4NjEyMDU3N2Q0Mjc3NjQ2MmNhYw==.thumb.jpg",
+      "publishedAt": "2026-01-30 08:19:18",
+      "content": "Primul caz de virus Chikungunya diagnosticat \u00een Rom\u00e2nia a fost confirmat la un brbat de aproximativ 50 de ani. Boala, transmis prin muctura de \u00e2nar, este rar \u00een Europa i \u00eent\u00e2lnit mai ales \u00een Africa i\u2026 [+907 chars]",
+      "retrievedAt": "2026-01-31 19:08:39.929386",
+      "internal_id": "fe887b6bbcabd8c09c09f0bc1a1cab2c8506d0e81846adae0f07c23b64568726",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27219,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "Ism\u00e9t tarol a rettegett v\u00edrus Magyarorsz\u00e1gon, brut\u00e1lis k\u00e1rokat okoz",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/gazdasag/2026/01/madarinfluenza-tartol-retteget-virus-magyarorszagon",
+      "urlToImage": "https://cdn.origo.hu/2026/01/NNdHMrTitIkYehl03_JJV_tISZS-0XYZFig85eSJ_uU/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzgxN2QxZTFlYzIzZTRkY2ViNmVjNzViZjI1NzkxMjBh.webp",
+      "publishedAt": "2026-01-30 07:23:54",
+      "content": "Az \u00e9v elej\u00e9n \u00fajra megjelent a H5N1 alt\u00edpus\u00fa v\u00edrus Magyarorsz\u00e1gon, amely az\u00f3ta is folyamatosan jelen van, \u00e9s \u00fajabb v\u00e1rmegy\u00e9kben okoz jelents k\u00e1rokat a baromfi\u00e1gazatban. A Nemzeti \u00c9lelmiszerl\u00e1nc-bizton\u2026 [+1929 chars]",
+      "retrievedAt": "2026-01-31 19:08:38.753484",
+      "internal_id": "89645a0bd81c5f3fe8691ba9b0d2a9fd681172daff27e170a66ff16c4bb43fa0",
+      "publishedAtLabel": "Jan 30"
+    },
     {
       "id": 27209,
       "query": [
@@ -16762,78 +17070,6 @@
       "content": "The Federal Government on Sunday said malaria transmission is declining sharply in Lagos State, citing sustained investments in prevention, testing and treatment as evidence that malaria elimination \u2026 [+4034 chars]",
       "retrievedAt": "2025-12-16 07:10:05.923125",
       "internal_id": "1af21ae4cbef358ce131423720ec9bc0c4f90db404d57b776b8d6fce6d657153",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26279,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Excelsior.com.mx",
-      "author": "angel.salinas",
-      "title": "M\u00e9xico rebasa los 20 mil contagios por dengue",
-      "description": "Patricia Rodr\u00edguez Calva Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado por la secretar\u00eda de Salud, se\u00f1al\u2026",
-      "url": "https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359",
-      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/14/3435476.jpg",
-      "publishedAt": "2025-12-14 18:17:40",
-      "content": "Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado \u2026 [+3664 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.411445",
-      "internal_id": "0c4ba9b31b21a4c73403b9e5f5df1249089a367b6d729aba54f9d1ecb19a1acc",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26276,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Legalinsurrection.com",
-      "author": "Mike LaChance",
-      "title": "New Pro-Life Group at U. Southern Maine Faces Vicious Harassment",
-      "description": "\u201c[W]ishing rabies upon your family\u201d The post New Pro-Life Group at U. Southern Maine Faces Vicious Harassment first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
-      "url": "https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/",
-      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Craziness-On-Campus.jpg",
-      "publishedAt": "2025-12-14 16:00:43",
-      "content": "Where are all of the Maine Democrats to denounce this? These students aren\u2019t hurting anyone.University of Southern Maine pro-life group faced with harassment, including veiled threat referencing Kirk\u2026 [+1526 chars]",
-      "retrievedAt": "2025-12-15 19:08:00.841246",
-      "internal_id": "2245f2051e0d7fb1a1b91b7133a4cf60f19684cad3bd2613d7df9c26cb55b81c",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26277,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "NPR",
-      "author": "Ayesha Rascoe",
-      "title": "Measles cases spike in South Carolina",
-      "description": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "url": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
-      "publishedAt": "2025-12-14 13:23:09",
-      "content": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
-      "retrievedAt": "2025-12-15 19:08:01.281401",
-      "internal_id": "5e6702016d39e872fae6b49e046467c56995a1004f3e43a72ab4b4c9f2e4de04",
-      "publishedAtLabel": "Dec 14"
-    },
-    {
-      "id": 26280,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Dengue infection on the decline",
-      "description": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from both diseases has dropped significantly in December. Accordin\u2026",
-      "url": "https://english.khabarhub.com/2025/14/511487/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2025-12-14 07:45:55",
-      "content": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from \u2026 [+933 chars]",
-      "retrievedAt": "2025-12-15 19:08:02.455423",
-      "internal_id": "ea32c69e4aa7af9bc37a75cdaa05f9f22ad7465532f7255a0f1952c7d7db7742",
       "publishedAtLabel": "Dec 14"
     }
   ]

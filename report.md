@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2026-01-31 07:14
-- **Most recent article:** 2026-01-30 05:00:20
+- **New articles in last harvest:** 17
+- **Last harvest:** 2026-01-31 19:08
+- **Most recent article:** 2026-01-30 17:00:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 38 | 31 | 35 | 26 | 47 | 63 | 88 | 61 | 389 |
-| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 27 | 13 | 116 |
-| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 8 | 85 |
-| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 19 | 84 |
+| measles | 37 | 31 | 35 | 26 | 47 | 63 | 88 | 68 | 395 |
+| dengue | 24 | 11 | 4 | 1 | 12 | 22 | 27 | 14 | 115 |
+| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 87 |
+| rabies | 10 | 20 | 8 | 6 | 10 | 10 | 12 | 9 | 85 |
 | malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 71 |
 | mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 3 | 52 |
 | meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 4 | 48 |
-| chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 3 | 28 |
-| zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 5 | 25 |
+| chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 33 |
+| zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 27 |
 | leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 24 |
 | yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 19 |
 | hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 2 | 14 |
@@ -33,6 +33,10 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-5 (zika)
+
+- [Qué se sabe sobre el mosquito detectado en Santiago que transmite dengue, chikungunya, zika y fiebre amarilla](https://www.latercera.com/tendencias/noticia/que-se-sabe-sobre-el-mosquito-detectado-en-santiago-que-transmite-dengue-chikungunya-zika-y-fiebre-amarilla/) (Latercera.com)
+
+- [Guillain-Barre Syndrome Diagnostics Research Report 2026 - Global $185+ Mn Market Trends, Opportunities, and Forecasts to 2031](https://www.globenewswire.com/news-release/2026/01/30/3229366/28124/en/Guillain-Barre-Syndrome-Diagnostics-Research-Report-2026-Global-185-Mn-Market-Trends-Opportunities-and-Forecasts-to-2031.html) (GlobeNewswire)
 
 - [Minsal confirma presencia de mosquito que transmite dengue y fiebre amarilla en la RM, pero descarta casos de infección](https://www.latercera.com/nacional/noticia/minsal-confirma-presencia-de-mosquito-que-transmite-dengue-y-fiebre-amarilla-en-la-rm-pero-descarta-casos-de-infeccion/) (Latercera.com)
 
@@ -61,6 +65,8 @@ Source: [News API](https://newsapi.org/)
 - [Corps member dies weeks into service](https://punchng.com/corps-member-dies-weeks-into-service/) (The Punch)
 
 ## 26-5 (rabies)
+
+- [India’s top court weighs rules on stray dogs as bite cases surge](https://www.channelnewsasia.com/asia/india-supreme-court-rules-stray-dogs-5896121) (CNA)
 
 - [How likely is it that a squirrel has rabies?](https://www.lifesciencesworld.com/how-likely-is-it-that-a-squirrel-has-rabies/) (Lifesciencesworld.com)
 
@@ -101,6 +107,20 @@ Source: [News API](https://newsapi.org/)
 - [Group A Streptococcus Meningitis, United States, 1997–2022](https://wwwnc.cdc.gov/eid/article/32/1/25-0871_article) (Cdc.gov)
 
 ## 26-5 (measles)
+
+- [South Carolina: Major Measles Outbreak! Thanks, RFK, JR.!](https://dianeravitch.net/2026/01/30/south-carolina-major-measles-outbreak/) (Dianeravitch.net)
+
+- [It Sure Looks Like Pretty Much Every Unvaccinated Kid Is About to Get Measles](https://www.jezebel.com/measles-infections-us-2026-record-highs-south-carolina-deaths-vaccination-rate-chart-cdc) (Jezebel)
+
+- [At least 588 US measles cases reported in January: CDC](https://abcnews.go.com/Health/588-us-measles-cases-reported-january-cdc/story?id=129699078) (ABC News)
+
+- [Irish snow-seekers heading for ski slopes and Winter Olympics warned of measles risk](https://www.independent.ie/irish-news/health/irish-snow-seekers-heading-for-ski-slopes-and-winter-olympics-warned-of-measles-risk/a954955366.html) (Independent.ie)
+
+- [Measles Is Spiking: 5 Things Families Should Know, From An ER Doctor](https://www.forbes.com/sites/jessepines/2026/01/30/measles-outbreaks-are-accelerating-5-things-to-know-from-a-doctor/) (Forbes)
+
+- [In one South Carolina county, measles starts to feel like next pandemic](https://www.bbc.com/news/articles/cwy10l9lwpyo) (BBC News)
+
+- [Cumulative measles rising with South Carolina outbreak](https://flowingdata.com/2026/01/30/cumulative-measles-rising-with-south-carolina-outbreak/) (Flowingdata.com)
 
 - [Measles cases rise in Canyon County; health officials warn eastern Idaho of risk](https://localnews8.com/news/2026/01/29/measles-cases-rise-in-canyon-county-health-officials-warn-eastern-idaho-of-risk/) (LocalNews8.com)
 
@@ -264,6 +284,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (h5n1)
 
+- [Создана высокоэффективная интраназальная вакцина от птичьего гриппа](https://news.mail.ru/society/69628369/) (Mail.ru)
+
+- [Labuť nalezená u jezera Most uhynula na ptačí chřipku](https://cmp.seznam.cz/nastaveni-souhlasu?service=bcr&return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fdomaci-labut-nalezena-u-jezera-most-uhynula-na-ptaci-chripku-40560166%3Fcwreturn%3D1&cwtime=1769766929538&loginstate=forget&cwri=88a46e341f7705d5bbc012cb860c76be&reason=missing&service_id=novinky) (Seznam.cz)
+
+- [Ismét tarol a rettegett vírus Magyarországon, brutális károkat okoz](https://www.origo.hu/gazdasag/2026/01/madarinfluenza-tartol-retteget-virus-magyarorszagon) (Origo.hu)
+
 - [Retail Milk Monitoring of Influenza A(H5N1) in Dairy Cattle, United States, 2024–2025](https://wwwnc.cdc.gov/eid/article/32/2/25-1332_article) (Cdc.gov)
 
 - [Tierseuche: Erstmals Milchkuh in Europa mit Vogelgrippevirus infiziert](https://www.faz.net/aktuell/wirtschaft/erstmals-milchkuh-in-europa-mit-vogelgrippevirus-infiziert-110827444.html) (Faz.net)
@@ -304,6 +330,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (dengue)
 
+- [Qué se sabe sobre el mosquito detectado en Santiago que transmite dengue, chikungunya, zika y fiebre amarilla](https://www.latercera.com/tendencias/noticia/que-se-sabe-sobre-el-mosquito-detectado-en-santiago-que-transmite-dengue-chikungunya-zika-y-fiebre-amarilla/) (Latercera.com)
+
 - [Minsal confirma presencia de mosquito que transmite dengue y fiebre amarilla en la RM, pero descarta casos de infección](https://www.latercera.com/nacional/noticia/minsal-confirma-presencia-de-mosquito-que-transmite-dengue-y-fiebre-amarilla-en-la-rm-pero-descarta-casos-de-infeccion/) (Latercera.com)
 
 - [Portugal apoia Cabo Verde contra malária e dengue](https://observador.pt/2026/01/29/ministra-da-saude-destaca-ganhos-na-formacao-em-projeto-de-apoio-em-cabo-verde/) (Observador.pt)
@@ -331,6 +359,16 @@ Source: [News API](https://newsapi.org/)
 - [Enamed: leia questões consideradas fáceis para alunos de Medicina que tiveram alto índice de erros entre reprovados](https://g1.globo.com/fantastico/noticia/2026/01/26/enamed-leia-questoes-consideradas-faceis-para-alunos-de-medicina-que-tiveram-alto-indice-de-erros-entre-reprovados.ghtml) (Globo)
 
 ## 26-5 (chikungunya)
+
+- [Qué se sabe sobre el mosquito detectado en Santiago que transmite dengue, chikungunya, zika y fiebre amarilla](https://www.latercera.com/tendencias/noticia/que-se-sabe-sobre-el-mosquito-detectado-en-santiago-que-transmite-dengue-chikungunya-zika-y-fiebre-amarilla/) (Latercera.com)
+
+- [Primul caz de virus Chikungunya confirmat în România. Medic: „Ar trebui să rămânem liniștiți” / Cum se transmite acest virus și care sunt simptomele](https://hotnews.ro/primul-caz-de-virus-chikungunya-confirmat-in-romania-medic-ar-trebui-sa-ramanem-linistiti-cum-se-transmite-acest-virus-si-care-sunt-simptomele-2161716) (Hotnews.ro)
+
+- [O boală foarte periculoasă și rară a ajuns în România. Pacientul este internat în spital](https://www.mediafax.ro/sanatate/o-boala-foarte-periculoasa-si-rara-a-ajuns-in-romania-pacientul-este-internat-in-spital-23679007) (Mediafax.ro)
+
+- [Un virus extrem de periculos a ajuns în România. Chikungunya este transmis de țânțari. Care sunt simptomele](https://adevarul.ro/stiri-interne/sanatate/un-virus-extrem-de-periculos-a-ajuns-in-romania-2504705.html) (Adevarul.ro)
+
+- [Alertă în România: primul caz de virus Chikungunya confirmat la un bărbat venit din Africa](https://www.digi24.ro/stiri/actualitate/alerta-in-romania-primul-caz-de-virus-chikungunya-confirmat-la-un-barbat-venit-din-africa-3608425) (Digi24.ro)
 
 - [Mujer de 51 años se convierte en segundo caso de chikungunya en Costa Rica](https://www.nacion.com/el-pais/mujer-de-51-anos-se-convierte-en-segundo-caso-de/BRJ52LI4KJDEFIHFL2SMSSNX4E/story/) (Nacion.com)
 
@@ -1932,8 +1970,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Does seeing a raccoon during the day mean it has rabies?](https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/) (Lifesciencesworld.com)
 
-- [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
-
 ## 25-51 (mpox)
 
 - [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
@@ -2033,8 +2069,6 @@ Source: [News API](https://newsapi.org/)
 - [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
 
 - [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
-
-- [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
 
@@ -2163,10 +2197,6 @@ Source: [News API](https://newsapi.org/)
 - [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
-
-- [México rebasa los 20 mil contagios por dengue](https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359) (Excelsior.com.mx)
-
-- [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
 
