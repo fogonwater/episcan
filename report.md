@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 14
-- **Last harvest:** 2026-01-30 19:16
-- **Most recent article:** 2026-01-29 18:31:42
+- **Last harvest:** 2026-01-31 07:14
+- **Most recent article:** 2026-01-30 05:00:20
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-51 | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 37 | 31 | 35 | 26 | 47 | 63 | 88 | 56 | 383 |
-| dengue | 24 | 11 | 4 | 1 | 12 | 22 | 27 | 11 | 112 |
-| rabies | 10 | 20 | 8 | 6 | 10 | 10 | 12 | 8 | 84 |
-| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 17 | 82 |
+| measles | 38 | 31 | 35 | 26 | 47 | 63 | 88 | 61 | 389 |
+| dengue | 26 | 11 | 4 | 1 | 12 | 22 | 27 | 13 | 116 |
+| rabies | 11 | 20 | 8 | 6 | 10 | 10 | 12 | 8 | 85 |
+| h5n1 | 15 | 10 | 2 | 1 | 12 | 8 | 17 | 19 | 84 |
 | malaria | 18 | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 71 |
-| mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 2 | 51 |
+| mpox | 9 | 5 | 0 | 1 | 14 | 9 | 11 | 3 | 52 |
 | meningitis | 1 | 5 | 10 | 5 | 11 | 10 | 2 | 4 | 48 |
-| chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 1 | 26 |
-| zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 4 | 24 |
-| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 5 | 23 |
-| yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 3 | 17 |
+| chikungunya | 2 | 7 | 3 | 0 | 3 | 1 | 9 | 3 | 28 |
+| zika | 2 | 3 | 2 | 0 | 4 | 6 | 3 | 5 | 25 |
+| leptospirosis | 1 | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 24 |
+| yersinia | 4 | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 19 |
 | hpai | 1 | 2 | 0 | 0 | 2 | 3 | 4 | 2 | 14 |
 | typhoid | 2 | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 12 |
 | pertussis | 0 | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 5 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (zika)
 
+- [Minsal confirma presencia de mosquito que transmite dengue y fiebre amarilla en la RM, pero descarta casos de infección](https://www.latercera.com/nacional/noticia/minsal-confirma-presencia-de-mosquito-que-transmite-dengue-y-fiebre-amarilla-en-la-rm-pero-descarta-casos-de-infeccion/) (Latercera.com)
+
 - [Minsal confirma hallazgo de mosquito que transmite dengue, zika y fiebre amarilla en el aeropuerto de Santiago](https://www.cnnchile.com/pais/minsal-confirma-hallazgo-mosquito-transmite-dengue-zika-fiebre-amarilla-en-el-aeropuerto-de-santiago_20260129/) (Cnnchile.com)
 
 - [Discovery and computational characterization of ZIKV envelope-targeted peptides from a subtractive phage display library](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341602) (Plos.org)
@@ -43,6 +45,10 @@ Source: [News API](https://newsapi.org/)
 - [Prenatal Zika virus exposure disrupts social-emotional development and cortical visual function in infant macaques](https://www.nature.com/articles/s41467-026-68517-x) (Nature.com)
 
 ## 26-5 (yersinia)
+
+- [« Peste noire », de Patrick Boucheron : histoire totale de la peste](https://www.lemonde.fr/livres/article/2026/01/30/peste-noire-de-patrick-boucheron-histoire-totale-de-la-peste_6664690_3260.html) (Le Monde)
+
+- [中世欧州の「黒死病」、火山活動が引き金だった どういうこと？](https://natgeo.nikkeibp.co.jp/atcl/news/26/013000065/?rss) (Nikkeibp.co.jp)
 
 - [В Иордании обнаружили массовое захоронение жертв Юстиниановой чумы](https://naked-science.ru/article/archeology/massovoe-zahoronenie-zher) (Naked-science.ru)
 
@@ -78,6 +84,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (mpox)
 
+- [Deux nouveaux de mpox à Mayotte, la ministre de la Santé déjà interpellée à la Réunion](https://www.huffingtonpost.fr/sante/article/deux-nouveaux-de-mpox-a-mayotte-la-ministre-de-la-sante-deja-interpellee-a-la-reunion_259801.html) (Le HuffPost)
+
 - [أفريقيا ترفع حالة الطوارئ الصحية بشأن جدري القردة بعد تراجع الإصابات](https://www.aljazeera.net/health/2026/1/26/%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d8%aa%d8%b1%d9%81%d8%b9-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d8%a6-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-%d8%a8%d8%b4%d8%a3%d9%86) (Aljazeera.net)
 
 - [В Индии зафиксировали вспышку смертельного вируса Нипах: что известно](https://news.mail.ru/society/69550718/) (Mail.ru)
@@ -93,6 +101,16 @@ Source: [News API](https://newsapi.org/)
 - [Group A Streptococcus Meningitis, United States, 1997–2022](https://wwwnc.cdc.gov/eid/article/32/1/25-0871_article) (Cdc.gov)
 
 ## 26-5 (measles)
+
+- [Measles cases rise in Canyon County; health officials warn eastern Idaho of risk](https://localnews8.com/news/2026/01/29/measles-cases-rise-in-canyon-county-health-officials-warn-eastern-idaho-of-risk/) (LocalNews8.com)
+
+- [South Carolina measles outbreak now largest in U.S. since elimination over 20 years ago](https://www.cbsnews.com/video/south-carolina-measles-outbreak-now-largest-us-since-elimination-over-20-years-ago/) (CBS News)
+
+- [Measles Is Spreading Faster Than Ignorance in This Country—and That’s Saying Something](https://www.esquire.com/news-politics/politics/a70193940/measles-south-carolina-deaths/) (esquire.com)
+
+- [Health officials clarify measles vaccination guidance amid growing outbreak](https://www.wsoctv.com/news/local/health-officials-clarify-measles-vaccination-guidance-amid-growing-outbreak/6OUKG43DEZDR5O4TQXI6QB7LVA/) (WSOC Charlotte)
+
+- [South Carolina's measles outbreak nears 790 cases — making it the biggest in decades](https://www.livescience.com/health/viruses-infections-disease/south-carolinas-measles-outbreak-nears-790-cases-making-it-the-biggest-in-decades) (Live Science)
 
 - [Measles Outbreak Associated with an Infectious Traveler — Colorado, May–June 2025](https://www.cdc.gov/mmwr/volumes/75/wr/mm7504a1.htm) (Cdc.gov)
 
@@ -226,6 +244,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (leptospirosis)
 
+- [Ratas en la ciudad: IMM toma medidas, oposición pide plan para combatirlas y especialistas alertan por riesgos](https://www.elpais.com.uy/informacion/sociedad/ratas-en-la-ciudad-imm-toma-medidas-oposicion-pide-plan-para-combatirlas-y-especialistas-alertan-por-riesgos) (Diario EL PAIS Uruguay)
+
 - [Which organ gets affected in Weil’s disease?](https://www.lifesciencesworld.com/which-organ-gets-affected-in-weils-disease/) (Lifesciencesworld.com)
 
 - [Interrogating the existing analytical palette deployed for Leptospirosis detection and diagnostics](https://pubs.rsc.org/en/content/articlelanding/2026/an/d6an00005c) (Royal Society of Chemistry)
@@ -243,6 +263,10 @@ Source: [News API](https://newsapi.org/)
 - [仕事のあとにふらっと立ち寄りたい。HPのAI PCが触れるカフェに行ってきた](https://www.gizmodo.jp/2026/01/hp-ai-lifestyle-cafe-vide.html) (Gizmodo.jp)
 
 ## 26-5 (h5n1)
+
+- [Retail Milk Monitoring of Influenza A(H5N1) in Dairy Cattle, United States, 2024–2025](https://wwwnc.cdc.gov/eid/article/32/2/25-1332_article) (Cdc.gov)
+
+- [Tierseuche: Erstmals Milchkuh in Europa mit Vogelgrippevirus infiziert](https://www.faz.net/aktuell/wirtschaft/erstmals-milchkuh-in-europa-mit-vogelgrippevirus-infiziert-110827444.html) (Faz.net)
 
 - [Erstmals wurde eine Vogelgrippe-Infektion bei einer Milchkuh in Europa entdeckt](https://www.nzz.ch/wissenschaft/erstmals-wurde-eine-vogelgrippe-infektion-bei-einer-milchkuh-in-europa-entdeckt-ld.1922435) (Www.nzz.ch)
 
@@ -280,6 +304,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (dengue)
 
+- [Minsal confirma presencia de mosquito que transmite dengue y fiebre amarilla en la RM, pero descarta casos de infección](https://www.latercera.com/nacional/noticia/minsal-confirma-presencia-de-mosquito-que-transmite-dengue-y-fiebre-amarilla-en-la-rm-pero-descarta-casos-de-infeccion/) (Latercera.com)
+
+- [Portugal apoia Cabo Verde contra malária e dengue](https://observador.pt/2026/01/29/ministra-da-saude-destaca-ganhos-na-formacao-em-projeto-de-apoio-em-cabo-verde/) (Observador.pt)
+
 - [Minsal confirma hallazgo de mosquito que transmite dengue, zika y fiebre amarilla en el aeropuerto de Santiago](https://www.cnnchile.com/pais/minsal-confirma-hallazgo-mosquito-transmite-dengue-zika-fiebre-amarilla-en-el-aeropuerto-de-santiago_20260129/) (Cnnchile.com)
 
 - [Alerta en el aeropuerto de Santiago ante posible presencia de mosquito que transmite el dengue y la fiebre amarilla](https://www.latercera.com/nacional/noticia/alerta-en-el-aeropuerto-de-santiago-ante-posible-presencia-de-mosquito-que-transmite-el-dengue-y-la-fiebre-amarilla/) (Latercera.com)
@@ -303,6 +331,10 @@ Source: [News API](https://newsapi.org/)
 - [Enamed: leia questões consideradas fáceis para alunos de Medicina que tiveram alto índice de erros entre reprovados](https://g1.globo.com/fantastico/noticia/2026/01/26/enamed-leia-questoes-consideradas-faceis-para-alunos-de-medicina-que-tiveram-alto-indice-de-erros-entre-reprovados.ghtml) (Globo)
 
 ## 26-5 (chikungunya)
+
+- [Mujer de 51 años se convierte en segundo caso de chikungunya en Costa Rica](https://www.nacion.com/el-pais/mujer-de-51-anos-se-convierte-en-segundo-caso-de/BRJ52LI4KJDEFIHFL2SMSSNX4E/story/) (Nacion.com)
+
+- [Minsal confirma presencia de mosquito que transmite dengue y fiebre amarilla en la RM, pero descarta casos de infección](https://www.latercera.com/nacional/noticia/minsal-confirma-presencia-de-mosquito-que-transmite-dengue-y-fiebre-amarilla-en-la-rm-pero-descarta-casos-de-infeccion/) (Latercera.com)
 
 - [O que a dengue tem a ver com a saúde das articulações](https://veja.abril.com.br/coluna/letra-de-medico/o-que-a-dengue-tem-a-ver-com-a-saude-das-articulacoes/) (Abril.com.br)
 
@@ -1900,6 +1932,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Does seeing a raccoon during the day mean it has rabies?](https://www.lifesciencesworld.com/does-seeing-a-raccoon-during-the-day-mean-it-has-rabies/) (Lifesciencesworld.com)
 
+- [New Pro-Life Group at U. Southern Maine Faces Vicious Harassment](https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/) (Legalinsurrection.com)
+
 ## 25-51 (mpox)
 
 - [Fast nur Männer – Mpox-Fälle in Berlin in diesem Jahr verdoppelt](https://www.morgenpost.de/berlin/article410747599/fast-nur-maenner-mpox-faelle-in-berlin-in-diesem-jahr-verdoppelt.html) (Berliner Morgenpost)
@@ -1999,6 +2033,8 @@ Source: [News API](https://newsapi.org/)
 - [The Kennedy Center of Contagious Diseases](http://prospect.org/2025/12/15/kennedy-center-of-contagious-diseases/) (The American Prospect)
 
 - [Auckland measles outbreak: One new case and two new exposure sites](https://www.nzherald.co.nz/nz/auckland-measles-outbreak-one-new-case-and-two-new-exposure-sites/63KGFF5UDNDUZG5E2AIWGV6BBI/) (New Zealand Herald)
+
+- [Measles cases spike in South Carolina](https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina) (NPR)
 
 ## 25-51 (malaria)
 
@@ -2127,6 +2163,10 @@ Source: [News API](https://newsapi.org/)
 - [Vacina do Butantan pode conter transmissão da dengue e diminuir sintomas, diz estudo](https://olhardigital.com.br/2025/12/15/medicina-e-saude/vacina-do-butantan-pode-conter-transmissao-da-dengue-e-diminuir-sintomas-diz-estudo/) (Olhardigital.com.br)
 
 - [Dengue deaths down by 61.3%, cases fall by 56.5%, says Health Minister](https://www.thestar.com.my/news/nation/2025/12/15/dengue-deaths-down-by-613-cases-fall-by-565-says-health-minister) (The Star Online)
+
+- [México rebasa los 20 mil contagios por dengue](https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359) (Excelsior.com.mx)
+
+- [Dengue infection on the decline](https://english.khabarhub.com/2025/14/511487/) (Khabarhub.com)
 
 ## 25-51 (chikungunya)
 

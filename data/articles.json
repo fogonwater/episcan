@@ -1,8 +1,262 @@
 {
-  "last_updated": "2026-01-30 19:16",
-  "count_articles_total": 915,
+  "last_updated": "2026-01-31 07:14",
+  "count_articles_total": 933,
   "count_articles_new": 14,
   "articles": [
+    {
+      "id": 27209,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": "le-monde",
+      "source_name": "Le Monde",
+      "author": "Marie Dejoux",
+      "title": "\u00ab Peste noire \u00bb, de Patrick Boucheron : histoire totale de la peste",
+      "description": "Dans son nouvel essai, le m\u00e9di\u00e9viste et professeur au Coll\u00e8ge de France poursuit le bacille \u00ab Yersinia pestis \u00bb, qui a ravag\u00e9 l\u2019Europe, et au-del\u00e0, du XIV\u1d49 au XX\u1d49 si\u00e8cle.",
+      "url": "https://www.lemonde.fr/livres/article/2026/01/30/peste-noire-de-patrick-boucheron-histoire-totale-de-la-peste_6664690_3260.html",
+      "urlToImage": "https://img.lemde.fr/2026/01/27/1364/0/3501/2334/1440/960/60/0/231f32e_upload-1-2oj7i95zyqqj-aurimages-art-histoire-aurimages-0050808-3695.jpg",
+      "publishedAt": "2026-01-30 05:00:20",
+      "content": "Un homme mourant de la peste, manuscrit anglais du XIV si\u00e8cle. HERITAGE IMAGES/AURIMAGES \u00ab Peste noire \u00bb, de Patrick Boucheron, Seuil, \u00ab Lunivers historique \u00bb, 560 p., 27 , num\u00e9rique 19 . En 2021, \u2026 [+1168 chars]",
+      "retrievedAt": "2026-01-31 07:14:28.524843",
+      "internal_id": "7ff5619bf93b04d3dc5acbb1a01f14b8fb5917c56332aa3b739ce7e9a96be69a",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27202,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Retail Milk Monitoring of Influenza A(H5N1) in Dairy Cattle, United States, 2024\u20132025",
+      "description": "Retail Milk Monitoring of Influenza A(H5N1)",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/2/25-1332_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-01-30 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.The emergence of influenza\u2026 [+8755 chars]",
+      "retrievedAt": "2026-01-31 07:14:26.385642",
+      "internal_id": "a6a4e78ea04b8781a60e5a6e8143584664d0808d9c05bfef8fc6a570912a9493",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27200,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LocalNews8.com",
+      "author": "Par Kermani",
+      "title": "Measles cases rise in Canyon County; health officials warn eastern Idaho of risk",
+      "description": "Health officials are reporting five probable measles cases in Canyon County, all within a single unvaccinated household, as they work to prevent the virus from spreading in local schools and the wider community.",
+      "url": "https://localnews8.com/news/2026/01/29/measles-cases-rise-in-canyon-county-health-officials-warn-eastern-idaho-of-risk/",
+      "urlToImage": "https://localnews8.b-cdn.net/2025/04/the-19th-measles-vaccine.jpg",
+      "publishedAt": "2026-01-30 02:33:20",
+      "content": "POCATELLO, Idaho (KIFI) Health officials are reporting five probable measles cases in Canyon County, all within a single unvaccinated household, as they work to prevent the virus from spreading in lo\u2026 [+2814 chars]",
+      "retrievedAt": "2026-01-31 07:14:25.866189",
+      "internal_id": "8666f18c48d9534d3f44a214dbb00088cd6160a12f03377da17b37d7df4c3aad",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27205,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Irene Rodr\u00edguez",
+      "title": "Mujer de 51 a\u00f1os se convierte en segundo caso de chikungunya en Costa Rica",
+      "description": "El Ministerio de Salud confirm\u00f3 un segundo caso de chikungunya en Esparza. Vea los s\u00edntomas de la enfermedad y las medidas de prevenci\u00f3n ante el brote.",
+      "url": "https://www.nacion.com/el-pais/mujer-de-51-anos-se-convierte-en-segundo-caso-de/BRJ52LI4KJDEFIHFL2SMSSNX4E/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/IHACKQVTKBGJBJCZIDEHF74S6U.jpg?smart=true&auth=1d69bf4088c92936b2438de96918683828b740b007672e9703e93dd46a161266&width=1440",
+      "publishedAt": "2026-01-30 00:30:10",
+      "content": "Una costarricense de 51 a\u00f1os, vecina de Esparza, Puntarenas se convirti\u00f3 en el segundo caso de Chikungunya en Costa Rica en los \u00faltimos ocho a\u00f1os. Este caso se confirma una semana despu\u00e9s que el prim\u2026 [+1994 chars]",
+      "retrievedAt": "2026-01-31 07:14:27.863288",
+      "internal_id": "3b9859f518bc9eac87217e6ad7778927f8cf1a8becd39d7a66afb1b34717dd6f",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27197,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "South Carolina measles outbreak now largest in U.S. since elimination over 20 years ago",
+      "description": "A measles outbreak in South Carolina is now the largest in the U.S. since the disease was eliminated more than 20 years ago. CBS News chief medical correspondent Dr. Jon LaPook has more.",
+      "url": "https://www.cbsnews.com/video/south-carolina-measles-outbreak-now-largest-us-since-elimination-over-20-years-ago/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/30/b7a67c8d-3e91-4db7-8729-e7b4d839ff4e/thumbnail/1200x630/8bdc50f0e4521022551692b05351838a/cbsn-fusion-south-carolina-measles-outbreak-now-largest-us-since-elimination-over-20-years-ago-thumbnail.jpg",
+      "publishedAt": "2026-01-30 00:00:00",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-01-31 07:14:25.581360",
+      "internal_id": "c2a7639d2390a838a9cfaf6cc5d904badad79b64a5becda8f4e412cd28099ff9",
+      "publishedAtLabel": "Jan 30"
+    },
+    {
+      "id": 27198,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "esquire.com",
+      "author": "Charles P. Pierce",
+      "title": "Measles Is Spreading Faster Than Ignorance in This Country\u2014and That\u2019s Saying Something",
+      "description": "It\u2019s about time the anti-vaxxers got, well, vaccinated.",
+      "url": "https://www.esquire.com/news-politics/politics/a70193940/measles-south-carolina-deaths/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/medical-personnel-are-outside-the-olympic-stadium-of-the-news-photo-1769728079.pjpeg?crop=1xw:0.69922xh;center,top&resize=1200:*",
+      "publishedAt": "2026-01-29 23:09:00",
+      "content": "(Permanent Musical Accompaniment to This Post) Being our semi-regular weekly survey of whats goin down in the several states where, as we know, the real work of governmentin gets done, and where the\u2026 [+7095 chars]",
+      "retrievedAt": "2026-01-31 07:14:25.671895",
+      "internal_id": "8a06add0c9e4d35419069c8ac0326655abd97aef2a10b03e4bd1689b6dfc730e",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27206,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le HuffPost",
+      "author": "Anne-Fleur Andrle",
+      "title": "Deux nouveaux de mpox \u00e0 Mayotte, la ministre de la Sant\u00e9 d\u00e9j\u00e0 interpell\u00e9e \u00e0 la R\u00e9union",
+      "description": "Apr\u00e8s la d\u00e9tection de plusieurs cas de mpox \u00e0 Mayotte et \u00e0 La R\u00e9union, \u00e9lus et autorit\u00e9s sanitaires appellent \u00e0 la vigilance, tout en \u00e9cartant le risque d\u2019\u00e9pid\u00e9mie.",
+      "url": "https://www.huffingtonpost.fr/sante/article/deux-nouveaux-de-mpox-a-mayotte-la-ministre-de-la-sante-deja-interpellee-a-la-reunion_259801.html",
+      "urlToImage": "https://focus.huffingtonpost.fr/2024/08/14/16/0/1115/627/1820/1023/75/0/1243b6f_1723661220021-screenshot-2024-08-14-20-46-09.png",
+      "publishedAt": "2026-01-29 23:00:50",
+      "content": "\u00c0 La R\u00e9union comme \u00e0 Mayotte, la d\u00e9tection de nouveaux cas de mpox ravive le souvenir de crises sanitaires mal anticip\u00e9es et replace les territoires ultramarins en premi\u00e8re ligne de la vigilance \u00e9pid\u2026 [+1845 chars]",
+      "retrievedAt": "2026-01-31 07:14:27.981867",
+      "internal_id": "5921ff959c2b888028bed8c65a982a1581b35d4632a2701c2317e6e2b0576cb6",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27199,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Evan Donovan",
+      "title": "Health officials clarify measles vaccination guidance amid growing outbreak",
+      "description": "Health officials in South Carolina are clarifying guidance about measles vaccinations as the outbreak in the Upstate continues to expand.",
+      "url": "https://www.wsoctv.com/news/local/health-officials-clarify-measles-vaccination-guidance-amid-growing-outbreak/6OUKG43DEZDR5O4TQXI6QB7LVA/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJCQYSTWUPVHK5GKKAGHXTNQPLE.jpeg?auth=c81912f287e5acc6e1630e21f625021cebe154536a16708f3e4a13abae862bc9&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-29 22:13:59",
+      "content": "Health officials in South Carolina are clarifying guidance about measles vaccinations as the outbreak in the Upstate continues to expand. Channel 9 obtained clarification after a South Carolina stat\u2026 [+2087 chars]",
+      "retrievedAt": "2026-01-31 07:14:25.856274",
+      "internal_id": "936ef2d35c2b92bb8bf28da90ba16b3257d1872e29fc2f714f3b5f054ecfa871",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27207,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Diario EL PAIS Uruguay",
+      "author": "Santiago Magni",
+      "title": "Ratas en la ciudad: IMM toma medidas, oposici\u00f3n pide plan para combatirlas y especialistas alertan por riesgos",
+      "description": "La presencia de ratas en el medio urbano tiene implicancias sanitarias concretas, en particular por su v\u00ednculo con la leptospirosis, una enfermedad bacteriana considerada una zoonosis.",
+      "url": "https://www.elpais.com.uy/informacion/sociedad/ratas-en-la-ciudad-imm-toma-medidas-oposicion-pide-plan-para-combatirlas-y-especialistas-alertan-por-riesgos",
+      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/e048f0c/2147483647/strip/true/crop/411x200+0+163/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fed%2F0f%2F9eaeedca4478b9c4a021d79566d6%2Fcaptura-de-pantalla-2026-01-29-170614.jpg",
+      "publishedAt": "2026-01-29 21:44:39",
+      "content": "La aparici\u00f3n de videos virales que muestran ratas en distintos puntos de Montevideo volvi\u00f3 a instalar la preocupaci\u00f3n por el control de roedores en espacios p\u00fablicos y deriv\u00f3 en cuestionamientos pol\u00ed\u2026 [+6025 chars]",
+      "retrievedAt": "2026-01-31 07:14:28.404402",
+      "internal_id": "e996f43699fb2e87b7a4b249db3c29fab549c6859cfc59139bd5268fa4b38bc5",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27204,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Felipe Alcafus",
+      "title": "Minsal confirma presencia de mosquito que transmite dengue y fiebre amarilla en la RM, pero descarta casos de infecci\u00f3n",
+      "description": "Actualmente, el mosquito registra presencia en tres regiones del pa\u00eds, por lo que se activ\u00f3 una alerta sanitaria desde la Regi\u00f3n de Arica hasta la Regi\u00f3n de Los Lagos.",
+      "url": "https://www.latercera.com/nacional/noticia/minsal-confirma-presencia-de-mosquito-que-transmite-dengue-y-fiebre-amarilla-en-la-rm-pero-descarta-casos-de-infeccion/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/JX3JM2J67NAJ3CQ4W5LBSJSL6E.jpg?auth=a43ec9a33e68f8f7034ca6749f2534544119e3e24832204aea5164af7cb1ae59&height=630&width=1200&smart=true",
+      "publishedAt": "2026-01-29 21:10:43",
+      "content": "La Seremi de Salud de la Regi\u00f3n Metropolitana inform\u00f3 esta ma\u00f1ana la presencia de un mosquito Aedes aegypti, especie capaz de transmitir enfermedades como dengue, chikungunya, zika y fiebre amarilla.\u2026 [+2296 chars]",
+      "retrievedAt": "2026-01-31 07:14:26.870380",
+      "internal_id": "c5e790f23ebd948b22bb11974a39d8c216c295d64274a609a49ed2bb4e1b406f",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27201,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Anne Kokenbrink",
+      "title": "Tierseuche: Erstmals Milchkuh in Europa mit Vogelgrippevirus infiziert",
+      "description": "Bei einer Milchkuh in den Niederlanden wurde das Vogelgrippevirus nachgewiesen. Es ist der erste Fall bei einer Kuh au\u00dferhalb der USA. Was hei\u00dft das und welches Risiko geht davon aus?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/erstmals-milchkuh-in-europa-mit-vogelgrippevirus-infiziert-110827444.html",
+      "urlToImage": "https://media0.faz.net/image/w1200h627/c9a1c58375ea/w3000h1567x0y658o/032018/1.10827623/gesund-oder-infiziert-auch.webp",
+      "publishedAt": "2026-01-29 20:48:05",
+      "content": "Zum ersten Mal hat sich eine Milchkuh au\u00dferhalb der Vereinigten Staaten mit Vogelgrippeviren des Typs H5N1 infiziert. In den Niederlanden fand man in der Milch einer Kuh Antik\u00f6rper gegen den Erreger.\u2026 [+4004 chars]",
+      "retrievedAt": "2026-01-31 07:14:26.338627",
+      "internal_id": "db9cd8d9c8d38e0f95d23914b22e07821b7e7a0254bc73122ddbc66c971d5e53",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27208,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Nikkeibp.co.jp",
+      "author": "\u6587\uff1dCarolyn Wilke\uff0f\u8a33\uff1d\u4e09\u597d\u7531\u7f8e\u5b50",
+      "title": "\u4e2d\u4e16\u6b27\u5dde\u306e\u300c\u9ed2\u6b7b\u75c5\u300d\u3001\u706b\u5c71\u6d3b\u52d5\u304c\u5f15\u304d\u91d1\u3060\u3063\u305f \u3069\u3046\u3044\u3046\u3053\u3068\uff1f",
+      "description": "\u300c\u5e73\u548c\u3068\u7a40\u7269\u53d6\u5f15\u306e\u518d\u958b\u304c\u611f\u67d3\u3092\u62e1\u5927\u3055\u305b\u305f\u300d\u3068\u6b74\u53f2\u5bb6\u3002\u9ed2\u6b7b\u75c5\u306f\u300c\u78ba\u7387\u304b\u3089\u3057\u305f\u3089\u8d77\u3053\u308a\u5f97\u306a\u304b\u3063\u305f\u3082\u306e\u306a\u306e\u3067\u3059\u300d\u3068\u3082\u8a00\u3044\u307e\u3059\u3002",
+      "url": "https://natgeo.nikkeibp.co.jp/atcl/news/26/013000065/?rss",
+      "urlToImage": "https://natgeo.nikkeibp.co.jp/atcl/news/26/013000065/ph_thumb.jpg",
+      "publishedAt": "2026-01-29 20:00:00",
+      "content": "13471/3 Yersinia pestis2025124Communications Earth &amp; Environment 1300 13301347 1 2000 13451357 13451",
+      "retrievedAt": "2026-01-31 07:14:28.496122",
+      "internal_id": "8dbb7dc4c8d1157099f59414e86b231b05d5e681e2be7df79df7bc534ef0a5dc",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27203,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Portugal apoia Cabo Verde contra mal\u00e1ria e dengue",
+      "description": "Ana Paula Martins conheceu iniciativa que refor\u00e7ou vigil\u00e2ncia de mal\u00e1ria e dengue desde 2022. Doen\u00e7as transmitidas por vetores representam 17% das infecciosas globais e causam um milh\u00e3o de mortes.",
+      "url": "https://observador.pt/2026/01/29/ministra-da-saude-destaca-ganhos-na-formacao-em-projeto-de-apoio-em-cabo-verde/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1121%3Anowe%3A0%3A74%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2026%2F01%2F29162550%2F46451277.jpg?layer=obstop:T",
+      "publishedAt": "2026-01-29 19:39:07",
+      "content": "A ministra da Sa\u00fade conheceu esta quinta-feira, um projeto com que Portugal est\u00e1 a ajudar Cabo Verde a enfrentar riscos acrescidos provocados pela altera\u00e7\u00f5es clim\u00e1ticas, entre outras causas. A inici\u2026 [+1765 chars]",
+      "retrievedAt": "2026-01-31 07:14:26.833264",
+      "internal_id": "12bde90527275f12cdd12eced0e0f4b778480f33d5994930e9bac69eb4fade56",
+      "publishedAtLabel": "Jan 29"
+    },
+    {
+      "id": 27196,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "South Carolina's measles outbreak nears 790 cases \u2014 making it the biggest in decades",
+      "description": "Nearly 790 people, primarily children, have been infected in South Carolina's ongoing measles outbreak, officials report.",
+      "url": "https://www.livescience.com/health/viruses-infections-disease/south-carolinas-measles-outbreak-nears-790-cases-making-it-the-biggest-in-decades",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ffr2HXQzJ5wi6Yg9NS6RsZ-1920-80.jpg",
+      "publishedAt": "2026-01-29 19:34:09",
+      "content": "The ongoing measles outbreak in South Carolina has reached a staggering 789 cases, making it the largest outbreak of the disease since the U.S. eliminated measles in 2000. According to CNN , Texas \u2026 [+3940 chars]",
+      "retrievedAt": "2026-01-31 07:14:25.526504",
+      "internal_id": "19287ade68a8da367f852ad92cd97fe88b2832851d59dde27313e584b83d3550",
+      "publishedAtLabel": "Jan 29"
+    },
     {
       "id": 27193,
       "query": [
@@ -16508,6 +16762,78 @@
       "content": "The Federal Government on Sunday said malaria transmission is declining sharply in Lagos State, citing sustained investments in prevention, testing and treatment as evidence that malaria elimination \u2026 [+4034 chars]",
       "retrievedAt": "2025-12-16 07:10:05.923125",
       "internal_id": "1af21ae4cbef358ce131423720ec9bc0c4f90db404d57b776b8d6fce6d657153",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26279,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Excelsior.com.mx",
+      "author": "angel.salinas",
+      "title": "M\u00e9xico rebasa los 20 mil contagios por dengue",
+      "description": "Patricia Rodr\u00edguez Calva Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado por la secretar\u00eda de Salud, se\u00f1al\u2026",
+      "url": "https://www.excelsior.com.mx/nacional/mexico-rebasa-los-20-mil-contagios-por-dengue/1757359",
+      "urlToImage": "https://www.excelsior.com.mx/media/pictures/2025/12/14/3435476.jpg",
+      "publishedAt": "2025-12-14 18:17:40",
+      "content": "Al corte del 8 de diciembre, nuestro pa\u00eds sum\u00f3 20 mil 666 contagios de dengue, debido a que durante la \u00faltima semana se confirmaron 719 nuevos casos. El Panorama Epidemiol\u00f3gico del Dengue publicado \u2026 [+3664 chars]",
+      "retrievedAt": "2025-12-15 19:08:02.411445",
+      "internal_id": "0c4ba9b31b21a4c73403b9e5f5df1249089a367b6d729aba54f9d1ecb19a1acc",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26276,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Legalinsurrection.com",
+      "author": "Mike LaChance",
+      "title": "New Pro-Life Group at U. Southern Maine Faces Vicious Harassment",
+      "description": "\u201c[W]ishing rabies upon your family\u201d The post New Pro-Life Group at U. Southern Maine Faces Vicious Harassment first appeared on Le\u00b7gal In\u00b7sur\u00b7rec\u00b7tion.",
+      "url": "https://legalinsurrection.com/2025/12/new-pro-life-group-at-u-southern-maine-faces-vicious-harassment/",
+      "urlToImage": "https://legalinsurrection.com/wp-content/uploads/2018/10/Craziness-On-Campus.jpg",
+      "publishedAt": "2025-12-14 16:00:43",
+      "content": "Where are all of the Maine Democrats to denounce this? These students aren\u2019t hurting anyone.University of Southern Maine pro-life group faced with harassment, including veiled threat referencing Kirk\u2026 [+1526 chars]",
+      "retrievedAt": "2025-12-15 19:08:00.841246",
+      "internal_id": "2245f2051e0d7fb1a1b91b7133a4cf60f19684cad3bd2613d7df9c26cb55b81c",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26277,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ayesha Rascoe",
+      "title": "Measles cases spike in South Carolina",
+      "description": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
+      "url": "https://www.npr.org/2025/12/14/nx-s1-5640860/measles-cases-spike-in-south-carolina",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c100.jpg",
+      "publishedAt": "2025-12-14 13:23:09",
+      "content": "NPR's Ayesha Rascoe speaks with Dr. Carlos del Rio about the spiking number of measles cases in South Carolina and about the public health challenges posed by the outbreak.",
+      "retrievedAt": "2025-12-15 19:08:01.281401",
+      "internal_id": "5e6702016d39e872fae6b49e046467c56995a1004f3e43a72ab4b4c9f2e4de04",
+      "publishedAtLabel": "Dec 14"
+    },
+    {
+      "id": 26280,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue infection on the decline",
+      "description": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from both diseases has dropped significantly in December. Accordin\u2026",
+      "url": "https://english.khabarhub.com/2025/14/511487/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2025-12-14 07:45:55",
+      "content": "CHITWAN: With the onset of winter, dengue and scrub typhus infections have been declining among patients visiting hospitals in Chitwan district. Compared to last year, the number of infections from \u2026 [+933 chars]",
+      "retrievedAt": "2025-12-15 19:08:02.455423",
+      "internal_id": "ea32c69e4aa7af9bc37a75cdaa05f9f22ad7465532f7255a0f1952c7d7db7742",
       "publishedAtLabel": "Dec 14"
     }
   ]
