@@ -1,8 +1,98 @@
 {
-  "last_updated": "2026-02-01 07:19",
-  "count_articles_total": 829,
-  "count_articles_new": 9,
+  "last_updated": "2026-02-01 19:11",
+  "count_articles_total": 830,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 27239,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Smartnews.com",
+      "author": "Eric Horng",
+      "title": "2 deaths, high cases reported in meningitis outbreak, Chicago Department of Public Health warns (ABC 7 Chicago)",
+      "description": "The Chicago Department of Public Health issued a new alert Friday after two people recently died from a form of meningitis. More cases than usual have also b...",
+      "url": "https://www.smartnews.com/en-us/article/4908249745014660042",
+      "urlToImage": "https://thumbnail.smartnews.com/?url=https%3A%2F%2Fsmartnews-assets.s3-ap-northeast-1.amazonaws.com%2Fus-marketing%2Fadcreative%2F751c00388cf11b6de65ab06b6370de31-SMARTNEWS_LOGO.png",
+      "publishedAt": "2026-01-31 18:55:39",
+      "content": "The Chicago Department of Public Health issued a new alert Friday after two people recently died from a form of meningitis. More cases than usual have also been reported in recent...",
+      "retrievedAt": "2026-02-01 19:11:49.704499",
+      "internal_id": "102636e6c53abc1135be28fae1f03dac1cbc51a85829e0827ab0f8d97334167d",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 27238,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "ESG Insights, ESG Insights",
+      "title": "M\u00e1 gest\u00e3o de res\u00edduos s\u00f3lidos pode influenciar surgimento de epidemias",
+      "description": "Crescimento da dengue no Brasil mostra a import\u00e2ncia de um controle mais r\u00edgido sobre o descarte inadequado",
+      "url": "https://economia.ig.com.br/parceiros/esginsights/2026-01-31/ma-gestao-de-residuos-solidos-pode-influenciar-surgimento-de-epidemias.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0w/1q/f8/0w1qf82qeyr6qbrw4225d346u.jpg",
+      "publishedAt": "2026-01-31 17:31:29",
+      "content": "POR GUI ARRUDA Nos \u00faltimos meses, o Brasil enfrenta uma crise com o aumento do n\u00famero de casos de dengue, com oito estados e o Distrito Federal declarando situa\u00e7\u00e3o de emerg\u00eancia. A dengue \u00e9 uma do\u2026 [+2469 chars]",
+      "retrievedAt": "2026-02-01 19:11:49.372942",
+      "internal_id": "3ecb9f1a01fb053b160f8a97ab9dc9e1d3cde698892d1034f36e9d44df77feeb",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 27240,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Jordan Miller, Teaching Professor of Public Health, Arizona State University",
+      "title": "US exit from the World Health Organization marks a new era in global health policy \u2013 here\u2019s what the US, and world, will lose",
+      "description": "The US will no longer participate in the WHO\u2019s global influenza monitoring system \u2013 a shift experts say will lead to more flu hospitalizations and deaths.",
+      "url": "https://theconversation.com/us-exit-from-the-world-health-organization-marks-a-new-era-in-global-health-policy-heres-what-the-us-and-world-will-lose-274277",
+      "urlToImage": "https://images.theconversation.com/files/715479/original/file-20260130-56-uhzr3d.jpg?ixlib=rb-4.1.0&rect=0%2C500%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-01-31 14:17:59",
+      "content": "The U.S.-WHO collaboration has been critical in the country's response to mpox, shown here, as well as Ebola, Marburg, flu and COVID-19. Uma Shankar sharma/Moment via Getty Images The U.S. departure\u2026 [+9095 chars]",
+      "retrievedAt": "2026-02-01 19:11:50.540434",
+      "internal_id": "7a1b3b1f61a41e179523cae97df6b042e58c7f29c27da4a8bd6984cb3eb6c37a",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 27237,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "The U.S. will likely lose its measles elimination status. Here's what that means",
+      "description": "The South Carolina measles outbreak is now bigger than last year's Texas outbreak and is happening as the U.S. is poised to lose its measles elimination status.",
+      "url": "https://www.npr.org/2026/01/31/nx-s1-5694681/measles-elimination-status-south-carolina-texas-outbreak",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6883x3872+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F18%2F21abb1e14cc397227ddc8dce30cf%2Fap25099777459442.jpg",
+      "publishedAt": "2026-01-31 12:00:00",
+      "content": "The measles outbreak in South Carolina is showing little sign of slowing down. The state has confirmed 847 cases since the first case was reported in October, making the outbreak bigger than the one \u2026 [+7084 chars]",
+      "retrievedAt": "2026-02-01 19:11:48.402934",
+      "internal_id": "1e15d72a559536d82fee016dca0391e7dcd693965f8e422b18a541cd6dc5aa79",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 27236,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Jeremy Mikula, Melinda Yao",
+      "title": "A man lunges at a prominent Democrat, and bragging rights for the state home to the most Olympians: The news quiz",
+      "description": "A Sydney Sweeney stunt gets pushback, a man gets grilled for allegedly trying to free Luigi Mangione, and a measles outbreak worsens.",
+      "url": "https://www.nbcnews.com/news/news-quiz/democrat-attacked-team-usa-olympics-rcna256585",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/Rubiks-TemplateNews-QuizJan-30-a93ee5.png",
+      "publishedAt": "2026-01-31 10:15:00",
+      "content": "A Sydney Sweeney stunt gets pushback, a man gets grilled for allegedly trying to free Luigi Mangione, and a measles outbreak worsens. Test your knowledge of the week in news, and take last weeks quiz\u2026 [+5 chars]",
+      "retrievedAt": "2026-02-01 19:11:48.295875",
+      "internal_id": "1f1c139975b76aa27cdde7e4d68a24cf8d2a79ba9eff9f5b9f2166e91aa4f838",
+      "publishedAtLabel": "Jan 31"
+    },
     {
       "id": 27235,
       "query": [
@@ -14890,78 +14980,6 @@
       "retrievedAt": "2025-12-23 07:10:40.791010",
       "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
       "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 26407,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Measles outbreak grows to 8 cases in Quebec",
-      "description": "On Sunday morning, Dr. Antonio D'Angelo, the head of the pediatric emergency department at CHU Sainte-Justine, told Radio-Canada there had been two confirmed cases of measles at his Montreal hospital over the past week.",
-      "url": "https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507",
-      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-      "publishedAt": "2025-12-21 18:15:39",
-      "content": "The number of measles cases in Quebec is growing as an outbreak is underway. On the morning of Dec. 19, eight cases were confirmed in the Lanaudi\u00e8re region, the Laurentians, Laval, Que., and Montre\u2026 [+1342 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.584798",
-      "internal_id": "eb793bfc18d96a058342631f57537964f36d318a189b7dd6dceaa37c85f1332f",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26410,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Zoomit.ir",
-      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
-      "title": "\u0645\u0648\u0634\u200c\u0647\u0627 \u0646\u0627\u0642\u0644 \u0637\u0627\u0639\u0648\u0646 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0646\u0628\u0648\u062f\u0646\u062f\u061b \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0645\u062a\u0647\u0645 \u0627\u0635\u0644\u06cc \u0631\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646\u062f",
-      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u067e\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0686\u06af\u0648\u0646\u06af\u06cc \u0634\u06cc\u0648\u0639 \u0637\u0627\u0639\u0648\u0646 \u062f\u0631 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0628\u0648\u062f\u0646\u062f. \u067e\u0627\u0633\u062e \u0627\u06cc\u0646 \u0645\u0639\u0645\u0627 \u0646\u0647 \u062f\u0631 \u0628\u0642\u0627\u06cc\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u060c \u0628\u0644\u06a9\u0647 \u062f\u0631 \u062f\u0646\u062f\u0627\u0646 \u06cc\u06a9 \u062d\u06cc\u0648\u0627\u0646 \u0627\u0647\u0644\u06cc \u067e\u0646\u0647\u0627\u0646 \u0628\u0648\u062f.",
-      "url": "https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/",
-      "urlToImage": "https://api2.zoomit.ir/media/bronze-age-shepherd-tending-to-a-flock-of-primitive-looking-sheep-69429aef1173a30185c30ebd",
-      "publishedAt": "2025-12-21 17:45:00",
-      "content": ": . . . . : . . . . \u00ab \u00bb : . . (Yersinia pestis) . . . : ( ) . . . . . . . . . . . . ( ) . . . Cell .",
-      "retrievedAt": "2025-12-22 19:06:50.878529",
-      "internal_id": "d5634cb4939435ffb43fdba56bbece41ac087d04c373ce273a73fa4b2ecd541a",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26409,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Blanca Valadez",
-      "title": "Secretar\u00eda de Salud alerta por emergencia de fiebre chikungunya en M\u00e9xico",
-      "description": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inform\u00f3 el Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (C\u2026",
-      "url": "https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/16/ssj-intensifica-campana-lava-voltea-1.jpg",
-      "publishedAt": "2025-12-21 16:14:46",
-      "content": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inf\u2026 [+4026 chars]",
-      "retrievedAt": "2025-12-22 19:06:50.243368",
-      "internal_id": "bdb8314e281e293eee8fb9243901da4d224798451ec19efaf7a170cb8aabfa42",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26408,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Rolling Out",
-      "author": "David Kesiena",
-      "title": "Measles cases surge despite 88% drop in deaths since 2000",
-      "description": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% reduction in measles deaths between 2000 and 2024, saving nearly\u2026",
-      "url": "https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
-      "publishedAt": "2025-12-21 11:20:08",
-      "content": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% redu\u2026 [+7093 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.624928",
-      "internal_id": "c8ede8d881c75d73bb81e9dc98c7502ed8464cc9c3082c5faf92728c73973136",
-      "publishedAtLabel": "Dec 21"
     }
   ]
 }

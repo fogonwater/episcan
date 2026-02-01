@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-02-01 07:19
-- **Most recent article:** 2026-01-31 04:35:03
+- **New articles in last harvest:** 5
+- **Last harvest:** 2026-02-01 19:11
+- **Most recent article:** 2026-01-31 18:55:39
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 30 | 35 | 26 | 47 | 63 | 88 | 72 | 361 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 15 | 92 |
+| measles | 28 | 35 | 26 | 47 | 63 | 88 | 74 | 361 |
+| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 93 |
 | rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 75 |
 | h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 72 |
 | malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 53 |
-| meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 6 | 48 |
-| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 3 | 43 |
-| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 31 |
+| meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 49 |
+| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 44 |
+| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 30 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 25 |
 | leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 23 |
-| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 15 |
 | hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 14 |
+| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 14 |
 | typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 10 |
 | pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 5 |
 
@@ -92,6 +92,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-5 (mpox)
 
+- [US exit from the World Health Organization marks a new era in global health policy – here’s what the US, and world, will lose](https://theconversation.com/us-exit-from-the-world-health-organization-marks-a-new-era-in-global-health-policy-heres-what-the-us-and-world-will-lose-274277) (The Conversation Africa)
+
 - [Deux nouveaux de mpox à Mayotte, la ministre de la Santé déjà interpellée à la Réunion](https://www.huffingtonpost.fr/sante/article/deux-nouveaux-de-mpox-a-mayotte-la-ministre-de-la-sante-deja-interpellee-a-la-reunion_259801.html) (Le HuffPost)
 
 - [أفريقيا ترفع حالة الطوارئ الصحية بشأن جدري القردة بعد تراجع الإصابات](https://www.aljazeera.net/health/2026/1/26/%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d8%aa%d8%b1%d9%81%d8%b9-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d8%a6-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-%d8%a8%d8%b4%d8%a3%d9%86) (Aljazeera.net)
@@ -99,6 +101,8 @@ Source: [News API](https://newsapi.org/)
 - [В Индии зафиксировали вспышку смертельного вируса Нипах: что известно](https://news.mail.ru/society/69550718/) (Mail.ru)
 
 ## 26-5 (meningitis)
+
+- [2 deaths, high cases reported in meningitis outbreak, Chicago Department of Public Health warns (ABC 7 Chicago)](https://www.smartnews.com/en-us/article/4908249745014660042) (Smartnews.com)
 
 - [Meningococcal disease: 2 deaths, more cases that usual reported in meningitis outbreak, Chicago Department of Public Health warns](https://abc7chicago.com/post/meningococcal-disease-2-deaths-more-cases-usual-reported-meningitis-outbreak-chicago-department-public-health-warns/18511963/) (WLS-TV)
 
@@ -113,6 +117,10 @@ Source: [News API](https://newsapi.org/)
 - [Group A Streptococcus Meningitis, United States, 1997–2022](https://wwwnc.cdc.gov/eid/article/32/1/25-0871_article) (Cdc.gov)
 
 ## 26-5 (measles)
+
+- [The U.S. will likely lose its measles elimination status. Here's what that means](https://www.npr.org/2026/01/31/nx-s1-5694681/measles-elimination-status-south-carolina-texas-outbreak) (NPR)
+
+- [A man lunges at a prominent Democrat, and bragging rights for the state home to the most Olympians: The news quiz](https://www.nbcnews.com/news/news-quiz/democrat-attacked-team-usa-olympics-rcna256585) (NBC News)
 
 - [King County health reports potential measles exposure at Sea-Tac Airport](https://www.kiro7.com/news/local/king-county-health-reports-potential-measles-exposure-sea-tac-airport/QM5UVNJVXRBX5GM5FONOBQ3EFA/) (KIRO Seattle)
 
@@ -345,6 +353,8 @@ Source: [News API](https://newsapi.org/)
 - [В Индии зафиксировали вспышку смертельного вируса Нипах: что известно](https://news.mail.ru/society/69550718/) (Mail.ru)
 
 ## 26-5 (dengue)
+
+- [Má gestão de resíduos sólidos pode influenciar surgimento de epidemias](https://economia.ig.com.br/parceiros/esginsights/2026-01-31/ma-gestao-de-residuos-solidos-pode-influenciar-surgimento-de-epidemias.html) (Ig.com.br)
 
 - [Housing structure shapes dengue transmission dynamics in a rapidly urbanizing Malaysian district](https://www.nature.com/articles/s41598-026-35904-9) (Nature.com)
 
@@ -1704,10 +1714,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
-## 25-52 (yersinia)
-
-- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
-
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -1834,10 +1840,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
-- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
-
-- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
-
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -1935,5 +1937,3 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
-
-- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)
