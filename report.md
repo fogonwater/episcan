@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2026-02-01 19:11
-- **Most recent article:** 2026-01-31 18:55:39
+- **New articles in last harvest:** 8
+- **Last harvest:** 2026-02-02 07:27
+- **Most recent article:** 2026-02-01 07:00:19
 
 ---
 
@@ -10,27 +10,45 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 28 | 35 | 26 | 47 | 63 | 88 | 74 | 361 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 93 |
-| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 75 |
-| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 72 |
-| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 53 |
-| meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 49 |
-| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 44 |
-| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 30 |
-| zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 25 |
-| leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 23 |
-| hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 14 |
-| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 14 |
-| typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 10 |
-| pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 5 |
+| Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 2 | 367 |
+| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 0 | 93 |
+| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 3 | 78 |
+| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 0 | 72 |
+| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 0 | 53 |
+| meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 1 | 50 |
+| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 0 | 44 |
+| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 0 | 31 |
+| zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
+| leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 0 | 23 |
+| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
+| hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 0 | 14 |
+| typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 0 | 10 |
+| pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-6 (rabies)
+
+- [Should I get a rabies shot if I got bit by a squirrel?](https://www.lifesciencesworld.com/should-i-get-a-rabies-shot-if-i-got-bit-by-a-squirrel/) (Lifesciencesworld.com)
+
+- [What to do if bats are near your house?](https://www.lifesciencesworld.com/what-to-do-if-bats-are-near-your-house/) (Lifesciencesworld.com)
+
+- [Do racoons scream when they have rabies?](https://www.lifesciencesworld.com/do-racoons-scream-when-they-have-rabies/) (Lifesciencesworld.com)
+
+## 26-6 (meningitis)
+
+- [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
+
+## 26-6 (measles)
+
+- [Health officials warn of possible measles exposure at LAX, Disneyland](https://www.ocregister.com/2026/01/31/health-officials-warn-of-possible-measles-exposure-at-lax-disneyland/) (OCRegister)
+
+- [Second measles case in LAX Airport traveler confirmed by LA County Public Health officials](https://www.cbsnews.com/losangeles/news/los-angeles-county-measles-lax-airport-dunkin-donuts-woodland-hills/) (CBS News)
 
 ## 26-5 (zika)
 
@@ -117,6 +135,10 @@ Source: [News API](https://newsapi.org/)
 - [Group A Streptococcus Meningitis, United States, 1997–2022](https://wwwnc.cdc.gov/eid/article/32/1/25-0871_article) (Cdc.gov)
 
 ## 26-5 (measles)
+
+- [Health officials confirm LA County's first measles case since August](https://abc7.com/post/health-officials-confirm-la-countys-first-measles-case-august/18517281/) (KABC-TV)
+
+- [Possible measles exposure reported at Dulles Airport in Northern Virginia](https://www.fox5dc.com/news/alexandria-health-officials-warn-possible-measles-exposure-dulles-airport) (FOX 5 DC)
 
 - [The U.S. will likely lose its measles elimination status. Here's what that means](https://www.npr.org/2026/01/31/nx-s1-5694681/measles-elimination-status-south-carolina-texas-outbreak) (NPR)
 
@@ -1714,6 +1736,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
+## 25-52 (yersinia)
+
+- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
+
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -1840,6 +1866,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
+- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
+
+- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
+
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -1937,3 +1967,5 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
+
+- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)

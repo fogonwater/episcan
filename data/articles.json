@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-02-01 19:11",
-  "count_articles_total": 830,
-  "count_articles_new": 5,
+  "last_updated": "2026-02-02 07:27",
+  "count_articles_total": 842,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 27248,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Kano moves to verify suspected diphtheria, meningitis cases",
+      "description": "Kano State investigates suspected diphtheria and meningitis cases in Gamji Village, collecting samples and sensitizing the community to prevent an outbreak Read More: https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/",
+      "url": "https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/02/01131141/kano-centre.jpg",
+      "publishedAt": "2026-02-01 07:00:19",
+      "content": "The Kano State Government, through the Kano State Centre for Disease Control, has carried out case management activities, community sensitisation, and sample collection in Gamji Village, Garko Local \u2026 [+2713 chars]",
+      "retrievedAt": "2026-02-02 07:27:27.405178",
+      "internal_id": "10abfd4fc5b63f4805a82fe301928b47b4208214408fc1c8a96c6c27a4072a96",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27247,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "OCRegister",
+      "author": "Sydney Barragan",
+      "title": "Health officials warn of possible measles exposure at LAX, Disneyland",
+      "description": "Public health officials say international travel may be linked to potential exposures in Los Angeles and Orange counties.",
+      "url": "https://www.ocregister.com/2026/01/31/health-officials-warn-of-possible-measles-exposure-at-lax-disneyland/",
+      "urlToImage": "https://www.ocregister.com/wp-content/uploads/2026/01/Measles_71091_e7f875-1.jpg?w=1024&h=682",
+      "publishedAt": "2026-02-01 05:11:01",
+      "content": "Public health officials warned Saturday of possible measles exposure at Los Angeles International Airport, the Disneyland Resort and other Southern California locations tied to an international trave\u2026 [+2279 chars]",
+      "retrievedAt": "2026-02-02 07:27:26.177618",
+      "internal_id": "b27bd003b39e7f5f1fecbbd549129568bf15d1b03a06daf3b1a99f0b4b870803",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27246,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Dean Fioresi",
+      "title": "Second measles case in LAX Airport traveler confirmed by LA County Public Health officials",
+      "description": "Health officials said that the traveler arrived at LAX's Tom Bradley International Airport Terminal on a Viva Aerobus Flight on Jan. 26.",
+      "url": "https://www.cbsnews.com/losangeles/news/los-angeles-county-measles-lax-airport-dunkin-donuts-woodland-hills/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/08/13/62b4836c-6fbf-4c01-9c77-040c77a5f070/thumbnail/1200x630/4e11235d75a497c926d123ee29038e40/gettyimages-1140854350.jpg",
+      "publishedAt": "2026-02-01 04:53:43",
+      "content": "For the second consecutive day, Los Angeles County Department of Public Health officials have confirmed a measles case in an international traveler. In a news release shared Saturday, LADPH said th\u2026 [+3182 chars]",
+      "retrievedAt": "2026-02-02 07:27:26.159459",
+      "internal_id": "1387c6866d50a7de94885c481732d705c8590149f431f1a9577cf0474a9dfd34",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27241,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Should I get a rabies shot if I got bit by a squirrel?",
+      "description": "Should I Get a Rabies Shot if I Got Bit by a Squirrel? Squirrel bites are uncommon vectors for rabies, but it\u2019s still crucial to assess the risk. Generally, getting a rabies shot after a squirrel bite is not typically recommended unless the animal exhibits un\u2026",
+      "url": "https://www.lifesciencesworld.com/should-i-get-a-rabies-shot-if-i-got-bit-by-a-squirrel/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-01 03:11:29",
+      "content": "Squirrel bites are uncommon vectors for rabies, but it\u2019s still crucial to assess the risk. Generally, getting a rabies shot after a squirrel bite is not typically recommended unless the animal exhibi\u2026 [+7813 chars]",
+      "retrievedAt": "2026-02-02 07:27:25.599393",
+      "internal_id": "781fffa23a9486b60fcd4db068b0c0e6a7f7b9cc8cdb34ea415ba80f89c8d3b9",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27243,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What to do if bats are near your house?",
+      "description": "What to do if Bats are Near Your House? If bats are near your house, the key is understanding the situation and acting safely: generally, avoid direct contact, observe for signs of rabies, and consider exclusion techniques to discourage them from roosting, es\u2026",
+      "url": "https://www.lifesciencesworld.com/what-to-do-if-bats-are-near-your-house/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-01 00:57:52",
+      "content": "If bats are near your house, the key is understanding the situation and acting safely: generally, avoid direct contact, observe for signs of rabies, and consider exclusion techniques to discourage th\u2026 [+8101 chars]",
+      "retrievedAt": "2026-02-02 07:27:25.649355",
+      "internal_id": "0b70633ce3a4575029ac9558e6687a008bca578801e7f61c0ea4e2675117269b",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27242,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Do racoons scream when they have rabies?",
+      "description": "Do Raccoons Scream When They Have Rabies? Exploring the Myth The idea of a screaming raccoon is unsettling, especially when linked to the deadly disease of rabies. While raccoons infected with rabies can exhibit a range of unusual vocalizations, a typical scr\u2026",
+      "url": "https://www.lifesciencesworld.com/do-racoons-scream-when-they-have-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-01 00:34:37",
+      "content": "Do Raccoons Scream When They Have Rabies? Exploring the Myth The idea of a screaming raccoon is unsettling, especially when linked to the deadly disease of rabies. While raccoons infected with rabie\u2026 [+9912 chars]",
+      "retrievedAt": "2026-02-02 07:27:25.630403",
+      "internal_id": "8737af3ce970bc8232c57aed61b89e6919c9d3113d9827955914e651eb117614",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27244,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KABC-TV",
+      "author": null,
+      "title": "Health officials confirm LA County's first measles case since August",
+      "description": "The first measles case in a Los Angeles County resident since August has been confirmed, the Los Angeles County Department of Public Health announced.",
+      "url": "https://abc7.com/post/health-officials-confirm-la-countys-first-measles-case-august/18517281/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/17806276_measles.jpg?w=1600",
+      "publishedAt": "2026-01-31 23:04:36",
+      "content": "The first measles case in a Los Angeles County resident since August has been confirmed, the Los Angeles County Department of Public Health announced Friday. The patient, who was not identified, had\u2026 [+1589 chars]",
+      "retrievedAt": "2026-02-02 07:27:26.131383",
+      "internal_id": "bf6123aa222cddeadcdb1e0d9c37774fd4b35f4157ef41e293b351ab0ddadd10",
+      "publishedAtLabel": "Jan 31"
+    },
+    {
+      "id": 27245,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 5 DC",
+      "author": "Tyler Thrasher",
+      "title": "Possible measles exposure reported at Dulles Airport in Northern Virginia",
+      "description": "Health officials in Alexandria and across Virginia are alerting residents to possible measles exposure at Dulles Airport and a nearby shuttle bus following a confirmed case.",
+      "url": "https://www.fox5dc.com/news/alexandria-health-officials-warn-possible-measles-exposure-dulles-airport",
+      "urlToImage": "https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2025/07/1200/630/dulles-international-airport-4.jpeg?ve=1&tl=1",
+      "publishedAt": "2026-01-31 19:26:18",
+      "content": "DULLES, Va. - Health officials in Alexandria and across Northern Virginia are warning residents about potential measles exposure at Washington Dulles International Airport after a confirmed case trav\u2026 [+2598 chars]",
+      "retrievedAt": "2026-02-02 07:27:26.149636",
+      "internal_id": "0cf3bc6cdb86bde48e3f51a24517c256d95e748ffeaba2be921fd182024efb60",
+      "publishedAtLabel": "Jan 31"
+    },
     {
       "id": 27239,
       "query": [
@@ -14980,6 +15124,78 @@
       "retrievedAt": "2025-12-23 07:10:40.791010",
       "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
       "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26407,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreak grows to 8 cases in Quebec",
+      "description": "On Sunday morning, Dr. Antonio D'Angelo, the head of the pediatric emergency department at CHU Sainte-Justine, told Radio-Canada there had been two confirmed cases of measles at his Montreal hospital over the past week.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507",
+      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-12-21 18:15:39",
+      "content": "The number of measles cases in Quebec is growing as an outbreak is underway. On the morning of Dec. 19, eight cases were confirmed in the Lanaudi\u00e8re region, the Laurentians, Laval, Que., and Montre\u2026 [+1342 chars]",
+      "retrievedAt": "2025-12-22 19:06:48.584798",
+      "internal_id": "eb793bfc18d96a058342631f57537964f36d318a189b7dd6dceaa37c85f1332f",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26410,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
+      "title": "\u0645\u0648\u0634\u200c\u0647\u0627 \u0646\u0627\u0642\u0644 \u0637\u0627\u0639\u0648\u0646 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0646\u0628\u0648\u062f\u0646\u062f\u061b \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0645\u062a\u0647\u0645 \u0627\u0635\u0644\u06cc \u0631\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646\u062f",
+      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u067e\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0686\u06af\u0648\u0646\u06af\u06cc \u0634\u06cc\u0648\u0639 \u0637\u0627\u0639\u0648\u0646 \u062f\u0631 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0628\u0648\u062f\u0646\u062f. \u067e\u0627\u0633\u062e \u0627\u06cc\u0646 \u0645\u0639\u0645\u0627 \u0646\u0647 \u062f\u0631 \u0628\u0642\u0627\u06cc\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u060c \u0628\u0644\u06a9\u0647 \u062f\u0631 \u062f\u0646\u062f\u0627\u0646 \u06cc\u06a9 \u062d\u06cc\u0648\u0627\u0646 \u0627\u0647\u0644\u06cc \u067e\u0646\u0647\u0627\u0646 \u0628\u0648\u062f.",
+      "url": "https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/",
+      "urlToImage": "https://api2.zoomit.ir/media/bronze-age-shepherd-tending-to-a-flock-of-primitive-looking-sheep-69429aef1173a30185c30ebd",
+      "publishedAt": "2025-12-21 17:45:00",
+      "content": ": . . . . : . . . . \u00ab \u00bb : . . (Yersinia pestis) . . . : ( ) . . . . . . . . . . . . ( ) . . . Cell .",
+      "retrievedAt": "2025-12-22 19:06:50.878529",
+      "internal_id": "d5634cb4939435ffb43fdba56bbece41ac087d04c373ce273a73fa4b2ecd541a",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26409,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez",
+      "title": "Secretar\u00eda de Salud alerta por emergencia de fiebre chikungunya en M\u00e9xico",
+      "description": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inform\u00f3 el Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (C\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/16/ssj-intensifica-campana-lava-voltea-1.jpg",
+      "publishedAt": "2025-12-21 16:14:46",
+      "content": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inf\u2026 [+4026 chars]",
+      "retrievedAt": "2025-12-22 19:06:50.243368",
+      "internal_id": "bdb8314e281e293eee8fb9243901da4d224798451ec19efaf7a170cb8aabfa42",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26408,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Out",
+      "author": "David Kesiena",
+      "title": "Measles cases surge despite 88% drop in deaths since 2000",
+      "description": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% reduction in measles deaths between 2000 and 2024, saving nearly\u2026",
+      "url": "https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
+      "publishedAt": "2025-12-21 11:20:08",
+      "content": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% redu\u2026 [+7093 chars]",
+      "retrievedAt": "2025-12-22 19:06:48.624928",
+      "internal_id": "c8ede8d881c75d73bb81e9dc98c7502ed8464cc9c3082c5faf92728c73973136",
+      "publishedAtLabel": "Dec 21"
     }
   ]
 }
