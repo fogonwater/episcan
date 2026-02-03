@@ -1,8 +1,296 @@
 {
-  "last_updated": "2026-02-02 07:27",
-  "count_articles_total": 842,
-  "count_articles_new": 8,
+  "last_updated": "2026-02-03 07:22",
+  "count_articles_total": 858,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 27256,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Joe Kottke, Dennis Romero",
+      "title": "2 measles infections confirmed at Texas facility where 5-year-old detained in Minnesota was held",
+      "description": "Two detainees were infected with measles at a Texas immigration facility where 5-year-old Liam Conejo Ramos and his father had been held, a Department of Homeland Security official said Sunday",
+      "url": "https://www.nbcnews.com/news/us-news/2-measles-infections-confirmed-texas-facility-5-year-old-detained-minn-rcna256993",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260201-dilley-texas-immigration-ww-2204-750238.jpg",
+      "publishedAt": "2026-02-02 04:39:33",
+      "content": "Two detainees were infected with measles at a Texas immigration facility where 5-year-old Liam Conejo Ramos and his father had been held, a Department of Homeland Security official said Sunday. The \u2026 [+3557 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.099847",
+      "internal_id": "9844e683b89192622f145ef97c06d415864d4e62c0d2136ebffab51004a138c4",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27258,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "ICE halts \u2018all movement\u2019 due to measles at Texas detention center that held 5-year-old, dad",
+      "description": "ICE halts all movement at Texas detention facility after two detainees were diagnosed with measles, sparking quarantine measures and health concerns.",
+      "url": "https://www.foxnews.com/us/ice-halts-all-movement-due-measles-texas-detention-center-held-5-year-old-dad",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/dilley-detention-center.jpg",
+      "publishedAt": "2026-02-02 03:26:07",
+      "content": "Immigration and Customs Enforcement (ICE) has halted \"all movement\" within the Dilley Immigration Processing Center in Texas due to a measles outbreak, officials announced Sunday. The Department of \u2026 [+3032 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.127611",
+      "internal_id": "6b32b92860fc585224b425a372f707dd2f7f0a144f9796204b377c26804c5aa9",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27251,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediaite",
+      "author": "Sarah Rumpf",
+      "title": "Trump DHS Locks Down ICE Detention Facility Where Liam Ramos Was Held Amid Measles Outbreak",
+      "description": "ICE locked down a detention facility in Dilley Texas after a measles outbreak, CBS News reported -- the same facility that held 5-year-old Liam Conejo Ramos. The post Trump DHS Locks Down ICE Detention Facility Where Liam Ramos Was Held Amid Measles Outbreak \u2026",
+      "url": "https://www.mediaite.com/media/news/trump-dhs-locks-down-ice-detention-facility-where-liam-ramos-was-held-amid-measles-outbreak/",
+      "urlToImage": "https://www.mediaite.com/wp-content/uploads/2026/02/AP26024726062714-scaled.jpg",
+      "publishedAt": "2026-02-02 03:24:12",
+      "content": "AP Photo/Brenda Baz\u00e1n Immigration and Customs Enforcement has locked down a detention facility in Dilley Texas after a measles outbreak, CBS News reported Sunday \u2014 the same facility that held 5-year\u2026 [+2959 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.042158",
+      "internal_id": "106ae2d6af76abb5f96b6dcdd19cb1f72e3f18502b42f652eba556dd75ec8ef8",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27259,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Leah Sarnoff",
+      "title": "2 measles cases reported inside Dilley, Texas, immigration detention center: DHS",
+      "description": "2 measles cases reported inside Dilley, Texas, immigration detention center: DHSgo.com",
+      "url": "https://abcnews.go.com/US/2-measles-cases-reported-inside-dilley-texas-immigration/story?id=129767053",
+      "urlToImage": "https://i.abcnewsfe.com/a/f767b2f5-6f8d-4cc5-9d0b-1892ac3b6053/measles-1-gty-er-260119_1768854878730_hpMain_2_16x9.jpg?w=1600",
+      "publishedAt": "2026-02-02 03:08:05",
+      "content": "Two people detained at an immigration detention center in Dilley, Texas, were confirmed to have active measles infections, according to the Department of Homeland Security. DHS said on Sunday the IC\u2026 [+1896 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.154830",
+      "internal_id": "8383a1965948d06cc4d1453f090446902d80157e25941d6b0dbc6de6f645fa2d",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27255,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "ICE halts \"all movement\" at Texas detention facility due to measles infections (Camilo Montoya-Galvez/CBS News)",
+      "description": "Camilo Montoya-Galvez / CBS News: ICE halts \u201call movement\u201d at Texas detention facility due to measles infections \u2014 Add CBS News on Google \u2014 U.S. Immigration and Customs Enforcement halted \u201call movement\u201d at a detention center in Texas for families and quar\u2026",
+      "url": "https://www.memeorandum.com/260201/p77",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/07/9c38f6a8-18b5-412d-a982-37a7573a35d4/thumbnail/1200x630/5f203d0919fe3f63b1310cc0a2e9b176/ap19238586571720.jpg",
+      "publishedAt": "2026-02-02 02:25:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.090393",
+      "internal_id": "f9b04a350408558d366bfa308c599069964b67e65c93436d2bd7b7d1a1e57bbe",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27250,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Camilo  Montoya-Galvez",
+      "title": "ICE halts \"all movement\" at Texas detention facility due to measles infections",
+      "description": "The measles\u200b cases at the Dilley Immigration Processing Center were detected Friday, Department of Homeland Security spokesperson Tricia McLaughlin said in a statement to CBS News.",
+      "url": "https://www.cbsnews.com/news/ice-dilley-center-texas-measles-cases/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/07/9c38f6a8-18b5-412d-a982-37a7573a35d4/thumbnail/1200x630/5f203d0919fe3f63b1310cc0a2e9b176/ap19238586571720.jpg",
+      "publishedAt": "2026-02-02 00:56:14",
+      "content": "U.S. Immigration and Customs Enforcement halted \"all movement\" at a detention center in Texas for families and quarantined some migrants there after medical staff confirmed two detainees had \"active \u2026 [+2745 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.006065",
+      "internal_id": "47b29664e13a9577793c7c64ba9b6f614b02af6a0e90ee8798396d2b70ae653b",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27263,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Kano probes diphtheria, meningitis scare in community",
+      "description": "The Kano State government investigates a health scare in Gamji Village following reports of suspected diphtheria and meningitis cases, taking immediate act Read More: https://punchng.com/kano-probes-diphtheria-meningitis-scare-in-community/",
+      "url": "https://punchng.com/kano-probes-diphtheria-meningitis-scare-in-community/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/11/26155417/Map-of-Kano-State.jpeg",
+      "publishedAt": "2026-02-02 00:53:06",
+      "content": "The Kano State Government, through the Kano State Centre for Disease Control, has conducted case management activities, community sensitisation and sample collection in Gamji Village, Garko Local Gov\u2026 [+2612 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.955121",
+      "internal_id": "dd3cfb36ff368b89c92e4a87cbf38523924d9ce37f1b855d433876e4dd587f83",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27252,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Source: Measles outbreak reported at ICE's Dilley family detention facility (Stephanie Koithan/San Antonio Current)",
+      "description": "Stephanie Koithan / San Antonio Current: Source: Measles outbreak reported at ICE's Dilley family detention facility \u2014 After a week of public outcry over the South Texas Family Residential Center's treatment of young children behind its walls, the Dilley fa\u2026",
+      "url": "https://www.memeorandum.com/260201/p71",
+      "urlToImage": "https://i0.wp.com/www.sacurrent.com/wp-content/uploads/2026/01/IMG_9164.jpg?resize=780%2C585&ssl=1",
+      "publishedAt": "2026-02-02 00:50:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.051661",
+      "internal_id": "3aa0f01109fe8ce5bbcc10db9e03bdaa2fe87f250381594126e8e63eec0bacdc",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27257,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Grace Abels, PolitiFact",
+      "title": "A parent's guide to preventing measles infection and what to look for",
+      "description": "Measles cases are rising in the U.S., and for many parents, it's a never-before-seen disease. Here's how to spot the rash, and protect your family against this dangerous infection.",
+      "url": "https://www.pbs.org/newshour/health/a-parents-guide-to-preventing-measles-infection-and-what-to-look-for",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/08/2025-02-27T191853Z_344967874_RC233DACJKV1_RTRMADP_3_USA-HEALTH-MEASLES-TEXAS-1-1024x668.jpg",
+      "publishedAt": "2026-02-01 19:59:44",
+      "content": "This article originally appeared on PolitiFact. After being eliminated from the United States in 2000, measles is making a comeback and not only in Season 1 of HBO's popular drama, \"The Pitt.\" The c\u2026 [+8486 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.117997",
+      "internal_id": "16c84f35f1ec8ca70a7ee2463c81a8da7cd7cc577531c045b7248bc856357861",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27261,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Abc News",
+      "title": "Video South Carolina's measles outbreak becomes largest in US in years",
+      "description": "ABC News' Chief Medical Correspondent Dr. Darien Sutton reports on what's fueling the current outbreak in South Carolina and how to keep your family safe.",
+      "url": "https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459",
+      "urlToImage": "https://i.abcnewsfe.com/a/703f0fd3-ac8e-43fa-8954-d11218052e82/260201_gma_sutton_measles4_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-02-01 19:31:44",
+      "content": "DOJ releases more than 3 million pages related to Epstein 5-year-old boy takes flight from detention center in exclusive video Protecting your kids from AI chatbots and ra\u2026 [+4247 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.242661",
+      "internal_id": "d51b34293af305bdc313abd989780b9de794f5ddc9e7db3742195efafe68ccca",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27264,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Meningitis cases rise in major Midwestern city, prompting public health alert",
+      "description": "Chicago health officials issue urgent alert after seven meningococcal disease cases, including two deaths. Know the symptoms and warning signs.",
+      "url": "https://www.foxnews.com/health/meningitis-cases-rise-major-midwestern-city-prompting-public-health-alert",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/woman-sick-lying-on-couch.jpg",
+      "publishedAt": "2026-02-01 19:27:17",
+      "content": "Chicago health officials are warning residents to be alert for symptoms of meningococcal disease after several recent infections were reported in adults across the city. Seven cases of Neisseria men\u2026 [+2481 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.973534",
+      "internal_id": "40a379396b659a1f06aab41c2bbb2c808bcb0a6f5afa1102a42d54c4f77f9147",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27260,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Aaron Farrar",
+      "title": "\u2018Prevention becomes the key thing\u2019: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida",
+      "description": "The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.",
+      "url": "https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JZVZ7REGJ5E3ZECSG3FSMVVPVY.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2026-02-01 18:35:39",
+      "content": "JACKSONVILLE, Fla. The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.\u2026 [+2840 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.224316",
+      "internal_id": "5dfda959fd8b51464816add707145754f0357a5f714c2a82f2a70292089e649c",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27253,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Alessia Dunn",
+      "title": "World\u2019s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination",
+      "description": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, January 28. The announcement comes just days after Orange Count\u2026",
+      "url": "https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/disneyland-hotel-sign-steven-miller-flickr.jpg",
+      "publishedAt": "2026-02-01 16:24:23",
+      "content": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, Jan\u2026 [+8173 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.070275",
+      "internal_id": "5e535e7c7f573910801b6f97bda9d1e94aa85de043ffefe322a15b83c4ba95dc",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27254,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Theme Park Insider",
+      "author": null,
+      "title": "Traveler exposes Disneyland visitors to measles last week",
+      "description": "By Robert Niles: Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort last Wednesday.The traveler was from out of the country and arrived at Los\u2026",
+      "url": "https://www.themeparkinsider.com/flume/202602/12289/",
+      "urlToImage": "https://www.themeparkinsider.com/art/flume/12289.jpg",
+      "publishedAt": "2026-02-01 16:04:00",
+      "content": "February 1, 2026, 11:04 AM \u00b7 Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort \u2026 [+1656 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.080184",
+      "internal_id": "de6f02f82a906b4d7f40f0ba7248f8512d4552225ca7936bf68eb661ae895a32",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27262,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Dawid Szczyrbowski",
+      "title": "Ptasia grypa w Polsce. Lekarz weterynarii og\u0142osi\u0142 stref\u0119 zaka\u017cenia",
+      "description": "Ujawniono przypadek ptasiej grypy w woj. \u015bwi\u0119tokrzyskim. Powiatowy lekarz weterynarii w Opatowie og\u0142osi\u0142 \"stref\u0119 obj\u0119t\u0105 zaka\u017ceniem\", kt\u00f3ra dotyczy czterech miejscowo\u015bci w gminie Tar\u0142\u00f3w. Zarz\u0105dzenie wprowadza szereg nakaz\u00f3w i zakaz\u00f3w maj\u0105cych ograniczy\u0107 szerze\u2026",
+      "url": "https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983",
+      "urlToImage": "https://i.iplsc.com/-/000M9S8ADCNAE6NR-C461.jpg",
+      "publishedAt": "2026-02-01 12:10:30",
+      "content": "W skr\u00f3cie Grzegorz Partyka poinformowa o potwierdzeniu wirusa grypy ptak\u00f3w HPAI 26 stycznia we wsi Lene Chaupy w gminie Tar\u00f3w. Powiatowy lekarz weterynarii wyznaczy stref objt \u2026 [+2133 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.365819",
+      "internal_id": "991ebaf4dd4a6e0502fcf8d7fc3a631a7f497c3d4e8be87764f3f4133f99106e",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27249,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Haig Hovaness",
+      "title": "Links 2/1/2026",
+      "description": "Our strategic daily links: stationary motion, U.S. brain drain, measles, snow drought, Caribbean troubles, Chinese kindergarten, EU confusion, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles,\u2026",
+      "url": "https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Kingfishers.jpg",
+      "publishedAt": "2026-02-01 11:55:13",
+      "content": "This 3D floor in Thailand tricks your senses into feeling movement while you stay still. Daniyanizami11 pic.twitter.com/Og6hDPrkfz Science girl (@sciencegirl) January 30, 2026 Bezos\u2019s Blue Origi\u2026 [+7777 chars]",
+      "retrievedAt": "2026-02-03 07:22:41.968318",
+      "internal_id": "d826839f6040d85acd7c9065031200da9fd41a3a158a45d8d18f407ad2fcf9e3",
+      "publishedAtLabel": "Feb 1"
+    },
     {
       "id": 27248,
       "query": [

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-02-02 07:27
-- **Most recent article:** 2026-02-01 07:00:19
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-02-03 07:22
+- **Most recent article:** 2026-02-02 04:39:33
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 2 | 367 |
+| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 15 | 380 |
 | dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 0 | 93 |
 | rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 3 | 78 |
 | h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 0 | 72 |
 | malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 0 | 53 |
-| meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 1 | 50 |
+| meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 3 | 52 |
 | mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 0 | 44 |
 | chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 0 | 31 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
 | leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 0 | 23 |
+| hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
 | yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
-| hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 0 | 14 |
 | typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 0 | 10 |
 | pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 5 |
 
@@ -42,13 +42,47 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (meningitis)
 
+- [Kano probes diphtheria, meningitis scare in community](https://punchng.com/kano-probes-diphtheria-meningitis-scare-in-community/) (The Punch)
+
+- [Meningitis cases rise in major Midwestern city, prompting public health alert](https://www.foxnews.com/health/meningitis-cases-rise-major-midwestern-city-prompting-public-health-alert) (Fox News)
+
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
 
+- [2 measles infections confirmed at Texas facility where 5-year-old detained in Minnesota was held](https://www.nbcnews.com/news/us-news/2-measles-infections-confirmed-texas-facility-5-year-old-detained-minn-rcna256993) (NBC News)
+
+- [ICE halts ‘all movement’ due to measles at Texas detention center that held 5-year-old, dad](https://www.foxnews.com/us/ice-halts-all-movement-due-measles-texas-detention-center-held-5-year-old-dad) (Fox News)
+
+- [Trump DHS Locks Down ICE Detention Facility Where Liam Ramos Was Held Amid Measles Outbreak](https://www.mediaite.com/media/news/trump-dhs-locks-down-ice-detention-facility-where-liam-ramos-was-held-amid-measles-outbreak/) (Mediaite)
+
+- [2 measles cases reported inside Dilley, Texas, immigration detention center: DHS](https://abcnews.go.com/US/2-measles-cases-reported-inside-dilley-texas-immigration/story?id=129767053) (ABC News)
+
+- [ICE halts "all movement" at Texas detention facility due to measles infections (Camilo Montoya-Galvez/CBS News)](https://www.memeorandum.com/260201/p77) (Memeorandum.com)
+
+- [ICE halts "all movement" at Texas detention facility due to measles infections](https://www.cbsnews.com/news/ice-dilley-center-texas-measles-cases/) (CBS News)
+
+- [Source: Measles outbreak reported at ICE's Dilley family detention facility (Stephanie Koithan/San Antonio Current)](https://www.memeorandum.com/260201/p71) (Memeorandum.com)
+
+- [A parent's guide to preventing measles infection and what to look for](https://www.pbs.org/newshour/health/a-parents-guide-to-preventing-measles-infection-and-what-to-look-for) (PBS)
+
+- [Video South Carolina's measles outbreak becomes largest in US in years](https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459) (ABC News)
+
+- [‘Prevention becomes the key thing’: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida](https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/) (WJXT News4JAX)
+
+- [World’s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination](https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/) (Inside the Magic)
+
+- [Traveler exposes Disneyland visitors to measles last week](https://www.themeparkinsider.com/flume/202602/12289/) (Theme Park Insider)
+
+- [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
+
 - [Health officials warn of possible measles exposure at LAX, Disneyland](https://www.ocregister.com/2026/01/31/health-officials-warn-of-possible-measles-exposure-at-lax-disneyland/) (OCRegister)
 
 - [Second measles case in LAX Airport traveler confirmed by LA County Public Health officials](https://www.cbsnews.com/losangeles/news/los-angeles-county-measles-lax-airport-dunkin-donuts-woodland-hills/) (CBS News)
+
+## 26-6 (hpai)
+
+- [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-5 (zika)
 
