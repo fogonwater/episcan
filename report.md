@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2026-02-03 07:22
-- **Most recent article:** 2026-02-02 04:39:33
+- **New articles in last harvest:** 15
+- **Last harvest:** 2026-02-03 19:22
+- **Most recent article:** 2026-02-02 19:06:12
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 15 | 380 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 0 | 93 |
-| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 3 | 78 |
+| measles | 28 | 35 | 26 | 47 | 63 | 88 | 76 | 21 | 384 |
+| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 1 | 94 |
+| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 4 | 79 |
 | h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 0 | 72 |
-| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 0 | 53 |
+| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 3 | 56 |
 | meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 3 | 52 |
-| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 0 | 44 |
-| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 0 | 31 |
+| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 3 | 47 |
+| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 0 | 30 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
-| leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 0 | 23 |
+| leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 1 | 24 |
 | hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
-| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
+| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 14 |
 | typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 0 | 10 |
 | pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 5 |
 
@@ -34,11 +34,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (rabies)
 
+- [Rabid bobcat attacks Georgia man at cookout](https://www.wsbtv.com/news/georgia/rabid-bobcat-attacks-georgia-man-cookout/EN4QTVRKLVDMVBIUVHFQLZODOM/) (WSB Atlanta)
+
 - [Should I get a rabies shot if I got bit by a squirrel?](https://www.lifesciencesworld.com/should-i-get-a-rabies-shot-if-i-got-bit-by-a-squirrel/) (Lifesciencesworld.com)
 
 - [What to do if bats are near your house?](https://www.lifesciencesworld.com/what-to-do-if-bats-are-near-your-house/) (Lifesciencesworld.com)
 
 - [Do racoons scream when they have rabies?](https://www.lifesciencesworld.com/do-racoons-scream-when-they-have-rabies/) (Lifesciencesworld.com)
+
+## 26-6 (mpox)
+
+- [Что нужно знать об оспе обезьян? Как в мире вспыхнула новая эпидемия и грозит ли она России](https://lenta.ru/articles/2026/02/02/ospa-obezyan/) (Lenta)
+
+- [Оспа обезьян (Mpox) в 2026 году: симптомы, передача, лечение и профилактика после случая в Домодедове](https://life.ru/p/1837221) (Life.ru)
+
+- [Пациент с обезьяньей оспой госпитализирован в Подмосковье. Что известно](https://iz.ru/2035597/2026-02-02/patcient-s-obezianei-ospoi-gospitalizirovan-v-podmoskove-chto-izvestno) (Iz.ru)
 
 ## 26-6 (meningitis)
 
@@ -49,6 +59,18 @@ Source: [News API](https://newsapi.org/)
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
+
+- [Measles and the flu in Los Angeles County: Health officials see increase in influenza-related emergency room visits](https://abc7.com/post/measles-flu-los-angeles-county-health-officials-see-increase-influenza-related-emergency-room-visits/18528829/) (KABC-TV)
+
+- [UW-Madison student diagnosed with measles](https://www.wisn.com/article/uw-madison-student-diagnosed-with-measles/70225544) (WISN Milwaukee)
+
+- [NEWS: Measles Exposure Reported at Disneyland Resort](https://allears.net/2026/02/02/measles-exposure-reported-at-disneyland-resort/) (allears.net)
+
+- [NEWS: Potential Measles Exposure Reported at Disneyland](https://www.disneyfoodblog.com/2026/02/02/potential-measles-exposure-reported-at-disneyland/) (disneyfoodblog.com)
+
+- [DHS locks down detention center hit by measles outbreak (Max Rego/The Hill)](https://www.memeorandum.com/260202/p48) (Memeorandum.com)
+
+- [Latest immigration news after ICE releases 5-year-old boy from facility facing measles concerns](https://www.cbsnews.com/video/latest-immigration-news-after-ice-releases-5-year-old-boy-from-facility-facing-measles-concerns/) (CBS News)
 
 - [2 measles infections confirmed at Texas facility where 5-year-old detained in Minnesota was held](https://www.nbcnews.com/news/us-news/2-measles-infections-confirmed-texas-facility-5-year-old-detained-minn-rcna256993) (NBC News)
 
@@ -80,9 +102,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Second measles case in LAX Airport traveler confirmed by LA County Public Health officials](https://www.cbsnews.com/losangeles/news/los-angeles-county-measles-lax-airport-dunkin-donuts-woodland-hills/) (CBS News)
 
+## 26-6 (malaria)
+
+- [Triple Threat Malaria Drug Kills at Every Stage](https://scienceblog.com/triple-threat-malaria-drug-kills-at-every-stage/) (ScienceBlog.com)
+
+- [This global health leader praises Trump's aid plan -- and gears up to beat malaria](https://www.npr.org/2026/02/02/g-s1-107461/global-health-malaria-bill-steiger-trump) (NPR)
+
+- [60 Degrees Pharmaceuticals Expands Access to ARAKODA® with GoodRx Partnership](https://www.globenewswire.com/news-release/2026/02/02/3230236/0/en/60-Degrees-Pharmaceuticals-Expands-Access-to-ARAKODA-with-GoodRx-Partnership.html) (GlobeNewswire)
+
+## 26-6 (leptospirosis)
+
+- [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
+
 ## 26-6 (hpai)
 
 - [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
+
+## 26-6 (dengue)
+
+- [Juntos Contra a Dengue: EPTV lança campanha para alertar sobre perigos da doença e combater mosquito transmissor](https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/02/juntos-contra-a-dengue-eptv-lanca-campanha-para-alertar-sobre-perigos-da-doenca-e-combater-mosquito-transmissor.ghtml) (Globo)
 
 ## 26-5 (zika)
 
@@ -1770,10 +1808,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
-## 25-52 (yersinia)
-
-- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
-
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -1900,10 +1934,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
-- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
-
-- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
-
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -2001,5 +2031,3 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
-
-- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)
