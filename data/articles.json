@@ -1,8 +1,242 @@
 {
-  "last_updated": "2026-02-03 19:22",
-  "count_articles_total": 869,
-  "count_articles_new": 15,
+  "last_updated": "2026-02-04 07:23",
+  "count_articles_total": 886,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 27291,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva and Instituto Butantan Announce Initiation of a Pilot Vaccination Campaign in Brazil with Single-Shot Chikungunya Vaccine IXCHIQ\u00ae",
+      "description": "Lyon (France), Sao Paulo, (Brazil), February 3, 2026 \u2013Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company and Instituto Butantan, one of the world\u2019s largest biomedical research centers, today announced the initiation of a Pilot Vaccin\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/02/03/3230724/0/en/Valneva-and-Instituto-Butantan-Announce-Initiation-of-a-Pilot-Vaccination-Campaign-in-Brazil-with-Single-Shot-Chikungunya-Vaccine-IXCHIQ.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2026-02-03 06:00:00",
+      "content": "Lyon (France), Sao Paulo, (Brazil), February 3, 2026Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company and Instituto Butantan, one of the worlds largest biomedical research \u2026 [+10179 chars]",
+      "retrievedAt": "2026-02-04 07:23:26.373697",
+      "internal_id": "2be9a21bf67a24e524d4e3d8b524b38ff02ab853ae0a88b575a704c994d0e31f",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27286,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "World Socialist Web Site",
+      "author": null,
+      "title": "Measles outbreak at Dilley concentration camp: An indictment of Trump\u2019s war on immigrants and public health",
+      "description": "A measles outbreak is now ripping through the Dilley Immigration Processing Center in South Texas, where the Trump administration confines hundreds of immigrant families and children under conditions of deliberate brutality and medical neglect.",
+      "url": "https://www.wsws.org/en/articles/2026/02/03/gket-f03.html",
+      "urlToImage": "https://www.wsws.org/asset/e68c4a24-9c59-4d91-b8df-a1b38d6038c7?rendition=1600x900",
+      "publishedAt": "2026-02-03 04:14:13",
+      "content": "A section of the protest outside the Dilley detention facility in south Texas, January 28, 2026. A measles outbreak is now ripping through the Dilley Immigration Processing Center in South Texas, wh\u2026 [+9415 chars]",
+      "retrievedAt": "2026-02-04 07:23:24.780605",
+      "internal_id": "242200d53ef870e2484832ecea18330b46e389869d7ca8aca4b21599038483f9",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27288,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Vaimoana Mase",
+      "title": "Dengue fever outbreak: Travellers to the Pacific told to seek immediate medical help if ill on return home",
+      "description": "In the Cook Islands, 500 cases of dengue have been reported since last May.",
+      "url": "https://www.nzherald.co.nz/talanoa/dengue-fever-outbreak-travellers-to-the-pacific-told-to-seek-immediate-medical-help-if-ill-on-return-home/P4UHJUO64FB73CG2TK5H3D3WAI/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/JITFG56ABBD6PGMUYIJSSHGEJI.jpg?auth=4e107929c5609e94d83e41e2f2e4749637bd8d7c7667a13c9f73c10c7168e216&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2026-02-03 03:00:00",
+      "content": "The infant is the first dengue-related death reported in the island nation this year and the eighth child to die from the virus since a dengue outbreak was declared in Samoa last April. The outbreak\u2026 [+3340 chars]",
+      "retrievedAt": "2026-02-04 07:23:25.391526",
+      "internal_id": "4e69625805baa41d7a9c7b259a00c86825a01b49d4093f10b09c75cd77138019",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27282,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "LANCASTERONLINE | Staff",
+      "title": "5 cases of measles confirmed in Lancaster County: PA Dept of Health",
+      "description": "The Pennsylvania Department of Health has confirmed several cases of measles in Lancaster County according to a statement released Monday.",
+      "url": "https://lancasteronline.com/news/local/5-cases-of-measles-confirmed-in-lancaster-county-pa-dept-of-health/article_811e6aae-b9ea-4cad-9135-863e2687a295.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/45/345c950e-ed73-11e6-991a-d366eff56218/589a2cb79a9fe.image.png?crop=201%2C201%2C266%2C0&resize=200%2C200&order=crop%2Cresize",
+      "publishedAt": "2026-02-03 01:49:00",
+      "content": "The Pennsylvania Department of Health has confirmed several cases of measles in Lancaster County according to a statement released Monday. Officials said five cases of measles have been confirmed i\u2026 [+1322 chars]",
+      "retrievedAt": "2026-02-04 07:23:24.652161",
+      "internal_id": "f1ee25dc8ca991b23a77e9494c09f2de4e34cdce4d0791052aa5d737e76675d7",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27287,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Starcommunity.com.au",
+      "author": "Jin Hui",
+      "title": "Measles exposure sites listed in the South East",
+      "description": "Koo-wee-rup, Dandenong and Bangholme have been officially listed among public exposure sites for new measles cases. In an alert from Victoria\u2019s Chief Health Officer Dr Caroline McElnay, three recently-returned overseas travellers in Victoria have reportedly b\u2026",
+      "url": "https://berwicknews.starcommunity.com.au/news/2026-02-03/measles-exposure-sites-listed-in-the-south-east/",
+      "urlToImage": "https://berwicknews.starcommunity.com.au/files/2026/02/GENmeasles_454911_01.jpg",
+      "publishedAt": "2026-02-03 01:18:01",
+      "content": "Koo-wee-rup, Dandenong and Bangholme have been officially listed among public exposure sites for new measles cases. In an alert from Victorias Chief Health Officer Dr Caroline McElnay, three recentl\u2026 [+1874 chars]",
+      "retrievedAt": "2026-02-04 07:23:24.799323",
+      "internal_id": "34d9e5dd3339ca4907f0fb4c13c1b173995b08942c02854eb83340dc66eee70f",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27280,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Deadline",
+      "author": "Tomt",
+      "title": "Disneyland, Public Health Officials Respond To Measles Case Identified In Recent Visitor",
+      "description": "Public health officials in Orange and Los Angeles counties have confirmed a person infected with measles visited Disneyland last week. The individual was at Disneyland and California Adventure from approximately 12:30 p.m. to closing on Wednesday, January 28.\u2026",
+      "url": "http://deadline.com/2026/02/disneyland-measles-case-1236706661/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2025/02/GettyImages-2194098324.jpg?w=1024",
+      "publishedAt": "2026-02-03 01:16:11",
+      "content": "Public health officials in Orange and Los Angeles counties have confirmed a person infected with measles visited Disneyland last week. The individual was at Disneyland and California Adventure from \u2026 [+6397 chars]",
+      "retrievedAt": "2026-02-04 07:23:24.494132",
+      "internal_id": "60056b4c0d3188d90ae43e7b666db51676e8f091a1b81939460e455ec7a6b019",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27289,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "PR Newswire UK",
+      "author": null,
+      "title": "Total Investment of Approx. USD 8.8 Million in Malaria, Tuberculosis, and NTD R&D Projects with Partners Including Mahidol University, Barcelona Institute for Global Health, and Eisai",
+      "description": "TOKYO, Feb. 3, 2026 /PRNewswire/ -- The Global Health Innovative Technology (GHIT) Fund announced today a total investment of approximately JPY 1.39 billion (USD 8.8 million1) in six R&D projects for the development of drugs, diagnostics and vaccines for mala\u2026",
+      "url": "https://www.prnewswire.co.uk/news-releases/total-investment-of-approx-usd-8-8-million-in-malaria-tuberculosis-and-ntd-rd-projects-with-partners-including-mahidol-university-barcelona-institute-for-global-health-and-eisai-302675841.html",
+      "urlToImage": null,
+      "publishedAt": "2026-02-03 01:00:00",
+      "content": "TOKYO, Feb. 3, 2026 /PRNewswire/ -- The Global Health Innovative Technology (GHIT) Fund announced today a total investment of approximately JPY 1.39 billion (USD 8.8 million1) in six R&amp;D projects\u2026 [+22358 chars]",
+      "retrievedAt": "2026-02-04 07:23:25.899108",
+      "internal_id": "743326a5a15377b56e3a468733517af33fa4418753e61467927a71fafa48ad28",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27284,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PennLive",
+      "author": "Daniel Urie | Durie@pennlive.com",
+      "title": "Five measles cases confirmed in central Pa.: Dept. of Health",
+      "description": "The state is in the process of conducting contact tracing and informing locations where the individuals visited while contagious.",
+      "url": "https://www.pennlive.com/health/2026/02/five-measles-cases-confirmed-in-central-pa-dept-of-health.html",
+      "urlToImage": "https://www.pennlive.com/resizer/v2/SK3Z62HYLBFQZNTXBWKVCRDZVQ.jpg?auth=701a7d9e6ce297c7eb96c86e9b0c4533b56c59a07d561411858166245c4bf193&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-02-03 00:34:47",
+      "content": "The state has confirmed several cases of measles in Lancaster County. All of the cases are people who are not vaccinated, according to the Pennsylvania Department of Health. The department provided\u2026 [+1118 chars]",
+      "retrievedAt": "2026-02-04 07:23:24.689773",
+      "internal_id": "8bbdc476960cf77f4008cd6fc21bd9ce4ce875080589c5beda3bb251c52b9c3e",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27281,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Texas Tribune",
+      "author": "Lomi Kriel",
+      "title": "Measles Reported at ICE Jail in Dilley, Texas",
+      "description": "\u201cThis is an untenable situation with a simple solution \u2014 families should never be detained,\u201d said one lawyer.",
+      "url": "https://www.texastribune.org/2026/02/02/measles-dilley-immigrant-detention-facility-liam-ramos-texas/",
+      "urlToImage": "https://truthout.org/app/uploads/2026/02/GettyImages-1186718967.jpg",
+      "publishedAt": "2026-02-02 22:03:26",
+      "content": "Honest, paywall-free news is rare. Please support our boldly independent journalism with a donation of any size. Two detainees at the nations only current immigrant family detention center, 70 miles\u2026 [+7352 chars]",
+      "retrievedAt": "2026-02-04 07:23:24.557720",
+      "internal_id": "fd2aabd26c71733cf20c34b529e4fa7be86ccfaf0cb8c10ef084fc2ec33823ff",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27283,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Hafiz Rashid",
+      "title": "ICE Detention Center Under Lockdown Thanks to Measles Outbreak",
+      "description": "An ICE family detention center in Texas is halting \u201call movement\u201d after finding two cases of measles. The cases were detected Friday, Department of Homeland Security spokeswoman Tricia McLaughlin said in a statement, confirming that two detainees had \u201cactive \u2026",
+      "url": "https://newrepublic.com/post/206044/ice-detention-center-lockdown-measles-outbreak",
+      "urlToImage": "https://images.newrepublic.com/0e8afaeffaaf43f0f1106039407b434d90840bcd.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-02 21:19:11",
+      "content": "Some detainees have been quarantined, McLaughlin said, adding that everyone is being provided with proper medical care. The Dilley facility is where 5-year-old Liam Conejo Ramos, whose picture went \u2026 [+841 chars]",
+      "retrievedAt": "2026-02-04 07:23:24.662319",
+      "internal_id": "701f6019439c74d70566b2434ced2347699b574eeb695874737800c672946654",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27290,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Sarah Belline, Sarah Belline",
+      "title": "Interior de S\u00e3o Paulo d\u00e1 largada \u00e0 vacina\u00e7\u00e3o contra chikungunya",
+      "description": "Imuniza\u00e7\u00e3o come\u00e7ou em dez cidades do pa\u00eds; Mirassol \u00e9 a primeira a aplicar a vacina em moradores de 18 a 59 anos",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2026-02-02/interior-de-sao-paulo-da-largada-a-vacinacao-contra-chikungunya.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/eu/eb/yd/euebydt0y5t7a7vhjp2ys1nxf.jpg",
+      "publishedAt": "2026-02-02 20:17:03",
+      "content": "A vacina\u00e7\u00e3o contra a chikungunya teve in\u00edcio nesta segunda-feira (02) em dez cidades selecionadas pelo Minist\u00e9rio da Sa\u00fade em diferentes regi\u00f5es do Brasil. Mirassol, no interior de S\u00e3o Paulo, entrou \u2026 [+2184 chars]",
+      "retrievedAt": "2026-02-04 07:23:26.363065",
+      "internal_id": "8a4d8042dc3feca6aee266d13fee58e9c8d7e1b73c6f8f57d8c0945ae89d7b33",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27292,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Pedro Boaventura, Pedro Boaventura",
+      "title": "Estado de S\u00e3o Paulo inicia vacina\u00e7\u00e3o contra a chikungunya",
+      "description": "Campanha iniciou nesta segunda-feira (2) na cidade de Mirassol, no interior; munic\u00edpio recebeu cerca de 2.400 doses do imunizante",
+      "url": "https://saude.ig.com.br/2026-02-02/estado-de-sao-paulo-inicia-vacinacao-contra-a-chikungunya.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6u/3p/n3/6u3pn3kcq2v57log52gh6dsfy.jpg",
+      "publishedAt": "2026-02-02 19:41:57",
+      "content": "O estado de S\u00e3o Paulo iniciou uma campanha de vacina\u00e7\u00e3o contra a chikungunya nesta segunda-feira (2), na cidade de Mirassol, no interior paulista. O projeto \u00e9 pioneiro e marca o in\u00edcio da imuniza\u00e7\u00e3o \u2026 [+2176 chars]",
+      "retrievedAt": "2026-02-04 07:23:26.383547",
+      "internal_id": "be2983d2fb9b2b950ff1af84f06967cbdede3b4f5b350e2008f501b6c86d309b",
+      "publishedAtLabel": "Feb 2"
+    },
+    {
+      "id": 27285,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WEAU",
+      "author": "Juliana Tornabene",
+      "title": "Measles case reported in Dane County, Wisconsin Dept. of Health Services says",
+      "description": "Wisconsin Department of Health Services and Public Health Madison-Dane County said the person became exposed to the illness during international travel.",
+      "url": "https://www.weau.com/2026/02/02/measles-case-reported-dane-county-wisconsin-dept-health-services-says/",
+      "urlToImage": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/SQKODM5VTRHWTBFUILMS63YCGE.jpg?auth=38059a8fbfe15cb9b28aec1d5e288844b032446745768e6ec55c935830256fb5&width=1200&height=600&smart=true",
+      "publishedAt": "2026-02-02 19:32:33",
+      "content": "MADISON, Wis. (WMTV) - Wisconsin health officials confirmed a case of the measles in Dane County on Monday, marking the states second case of the illness this year. Wisconsin Department of Health S\u2026 [+2168 chars]",
+      "retrievedAt": "2026-02-04 07:23:24.770942",
+      "internal_id": "adafb1e69bdbd99f875aacf33a8b1f853cafae020c59c493f70a0b53d4bde027",
+      "publishedAtLabel": "Feb 2"
+    },
     {
       "id": 27265,
       "query": [
@@ -15682,6 +15916,78 @@
       "retrievedAt": "2025-12-23 07:10:40.791010",
       "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
       "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26407,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreak grows to 8 cases in Quebec",
+      "description": "On Sunday morning, Dr. Antonio D'Angelo, the head of the pediatric emergency department at CHU Sainte-Justine, told Radio-Canada there had been two confirmed cases of measles at his Montreal hospital over the past week.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507",
+      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-12-21 18:15:39",
+      "content": "The number of measles cases in Quebec is growing as an outbreak is underway. On the morning of Dec. 19, eight cases were confirmed in the Lanaudi\u00e8re region, the Laurentians, Laval, Que., and Montre\u2026 [+1342 chars]",
+      "retrievedAt": "2025-12-22 19:06:48.584798",
+      "internal_id": "eb793bfc18d96a058342631f57537964f36d318a189b7dd6dceaa37c85f1332f",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26410,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
+      "title": "\u0645\u0648\u0634\u200c\u0647\u0627 \u0646\u0627\u0642\u0644 \u0637\u0627\u0639\u0648\u0646 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0646\u0628\u0648\u062f\u0646\u062f\u061b \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0645\u062a\u0647\u0645 \u0627\u0635\u0644\u06cc \u0631\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646\u062f",
+      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u067e\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0686\u06af\u0648\u0646\u06af\u06cc \u0634\u06cc\u0648\u0639 \u0637\u0627\u0639\u0648\u0646 \u062f\u0631 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0628\u0648\u062f\u0646\u062f. \u067e\u0627\u0633\u062e \u0627\u06cc\u0646 \u0645\u0639\u0645\u0627 \u0646\u0647 \u062f\u0631 \u0628\u0642\u0627\u06cc\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u060c \u0628\u0644\u06a9\u0647 \u062f\u0631 \u062f\u0646\u062f\u0627\u0646 \u06cc\u06a9 \u062d\u06cc\u0648\u0627\u0646 \u0627\u0647\u0644\u06cc \u067e\u0646\u0647\u0627\u0646 \u0628\u0648\u062f.",
+      "url": "https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/",
+      "urlToImage": "https://api2.zoomit.ir/media/bronze-age-shepherd-tending-to-a-flock-of-primitive-looking-sheep-69429aef1173a30185c30ebd",
+      "publishedAt": "2025-12-21 17:45:00",
+      "content": ": . . . . : . . . . \u00ab \u00bb : . . (Yersinia pestis) . . . : ( ) . . . . . . . . . . . . ( ) . . . Cell .",
+      "retrievedAt": "2025-12-22 19:06:50.878529",
+      "internal_id": "d5634cb4939435ffb43fdba56bbece41ac087d04c373ce273a73fa4b2ecd541a",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26409,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez",
+      "title": "Secretar\u00eda de Salud alerta por emergencia de fiebre chikungunya en M\u00e9xico",
+      "description": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inform\u00f3 el Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (C\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/16/ssj-intensifica-campana-lava-voltea-1.jpg",
+      "publishedAt": "2025-12-21 16:14:46",
+      "content": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inf\u2026 [+4026 chars]",
+      "retrievedAt": "2025-12-22 19:06:50.243368",
+      "internal_id": "bdb8314e281e293eee8fb9243901da4d224798451ec19efaf7a170cb8aabfa42",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26408,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Out",
+      "author": "David Kesiena",
+      "title": "Measles cases surge despite 88% drop in deaths since 2000",
+      "description": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% reduction in measles deaths between 2000 and 2024, saving nearly\u2026",
+      "url": "https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
+      "publishedAt": "2025-12-21 11:20:08",
+      "content": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% redu\u2026 [+7093 chars]",
+      "retrievedAt": "2025-12-22 19:06:48.624928",
+      "internal_id": "c8ede8d881c75d73bb81e9dc98c7502ed8464cc9c3082c5faf92728c73973136",
+      "publishedAtLabel": "Dec 21"
     }
   ]
 }
