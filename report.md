@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-02-04 07:23
-- **Most recent article:** 2026-02-03 06:00:00
+- **New articles in last harvest:** 21
+- **Last harvest:** 2026-02-04 19:20
+- **Most recent article:** 2026-02-03 19:04:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 29 | 394 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 2 | 95 |
-| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 4 | 79 |
-| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 0 | 72 |
-| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 4 | 57 |
+| measles | 28 | 35 | 26 | 47 | 63 | 88 | 76 | 37 | 400 |
+| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 4 | 97 |
+| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 5 | 80 |
+| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 1 | 73 |
+| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 6 | 59 |
+| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 8 | 52 |
 | meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 3 | 52 |
-| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 3 | 47 |
-| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 3 | 34 |
+| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 3 | 33 |
+| leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 2 | 25 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
-| leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 1 | 24 |
 | hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
-| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
-| typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 0 | 10 |
+| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 14 |
+| typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
 | pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 5 |
 
 
@@ -32,7 +32,13 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 26-6 (typhoid)
+
+- [Editorial: GHS Mandatory Typhoid Vaccination For Food Vendors Is Very Laudable](https://thechronicle.com.gh/editorial-ghs-mandatory-typhoid-vaccination-for-food-vendors-is-very-laudable/) (Thechronicle.com.gh)
+
 ## 26-6 (rabies)
+
+- [Can I touch a bat?](https://www.lifesciencesworld.com/can-i-touch-a-bat/) (Lifesciencesworld.com)
 
 - [Rabid bobcat attacks Georgia man at cookout](https://www.wsbtv.com/news/georgia/rabid-bobcat-attacks-georgia-man-cookout/EN4QTVRKLVDMVBIUVHFQLZODOM/) (WSB Atlanta)
 
@@ -43,6 +49,16 @@ Source: [News API](https://newsapi.org/)
 - [Do racoons scream when they have rabies?](https://www.lifesciencesworld.com/do-racoons-scream-when-they-have-rabies/) (Lifesciencesworld.com)
 
 ## 26-6 (mpox)
+
+- [The mpox epidemic is not over: Reducing disproportionate burden in Africa and persistent global risk require a sustained response](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004893) (Plos.org)
+
+- [Jesús Prego, xefe de Epidemioloxía do Sergas: «O período de incubación da "mpox" é de 21 días; un pode non ter síntomas e contaxiar»](https://www.lavozdegalicia.es/noticia/sociedad/2026/02/03/span-langgljesus-prego-xefe-epidemioloxia-do-sergas-periodo-incubacion-da-mpox-e-21-dias-pode-non-ter-sintomas-contaxiarspan/00031770119653099389605.htm) (Lavozdegalicia.es)
+
+- [Jesús Prego, xefe de Epidemiología do Sergas: «O período de incubación da "mpox" é de 21 días; un pode non ter síntomas e contaxiar»](https://www.lavozdegalicia.es/noticia/sociedad/2026/02/03/jesus-prego-xefe-epidemiologia-do-sergas-periodo-incubacion-da-mpox-e-21-dias-pode-non-ter-sintomas-contaxiar/00031770119653099389605.htm) (Lavozdegalicia.es)
+
+- [Jesús Prego, xefe de Epidemioloxía de Sanidade: «O período de incubación da "mpox" é de 21 días; un pode non ter síntomas e contaxiar»](https://www.lavozdegalicia.es/noticia/sociedad/2026/02/03/span-langgljesus-prego-xefe-epidemioloxia-sanidade-periodo-incubacion-da-mpox-e-21-dias-pode-non-ter-sintomas-contaxiarspan/00031770119653099389605.htm) (Lavozdegalicia.es)
+
+- [13 new Mpox cases confirmed; total reaches 993](https://3news.com/13-new-mpox-cases-confirmed-total-reaches-993) (3news.com)
 
 - [Что нужно знать об оспе обезьян? Как в мире вспыхнула новая эпидемия и грозит ли она России](https://lenta.ru/articles/2026/02/02/ospa-obezyan/) (Lenta)
 
@@ -59,6 +75,22 @@ Source: [News API](https://newsapi.org/)
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
+
+- [Measles cases have been reported in Lancaster County; here's what you need to know](https://lancasteronline.com/news/health/measles-cases-have-been-reported-in-lancaster-county-heres-what-you-need-to-know/article_dd9f7d83-4028-4ae6-93ed-275e950e2dc5.html) (LancasterOnline)
+
+- [What are the symptoms of measles and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-rash-vaccine-outbreak-treatment-b2913278.html) (The-independent.com)
+
+- [CDC Refuses to Take Blame for Measles Spiraling out of Control](https://gizmodo.com/cdc-refuses-to-take-blame-for-measles-spiraling-out-of-control-2000717230) (Gizmodo.com)
+
+- [Five measles cases confirmed in Lancaster County](https://www.wgal.com/article/measles-five-cases-in-lancaster-county-pa/70235680) (WGAL Susquehanna Valley Pa.)
+
+- [Imo begins measles vaccination campaign](https://punchng.com/imo-begins-measles-vaccination-campaign/) (The Punch)
+
+- [South Carolina's Measles Milestone Is Everyone's Problem (Lisa Jarvis/Bloomberg)](https://www.memeorandum.com/260203/p30) (Memeorandum.com)
+
+- [Tuesday, February 3, 2026](https://kffhealthnews.org/morning-briefing/tuesday-february-3-2026/) (Kffhealthnews.org)
+
+- [CDC Warns Vaccinated People Can Still Get Measles](https://www.theepochtimes.com/health/cdc-warns-vaccinated-people-can-still-get-measles-5980063) (Theepochtimes.com)
 
 - [Measles outbreak at Dilley concentration camp: An indictment of Trump’s war on immigrants and public health](https://www.wsws.org/en/articles/2026/02/03/gket-f03.html) (World Socialist Web Site)
 
@@ -120,6 +152,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (malaria)
 
+- [Inhibitory NK receptor expression associates with altered antimalarial function of γδ T cells](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013460) (Plos.org)
+
+- [Health ministry records 8 000 malaria cases, 11 deaths in January](https://www.namibian.com.na/health-ministry-records-8-000-malaria-cases-11-deaths-in-january/) (Namibian)
+
 - [Total Investment of Approx. USD 8.8 Million in Malaria, Tuberculosis, and NTD R&D Projects with Partners Including Mahidol University, Barcelona Institute for Global Health, and Eisai](https://www.prnewswire.co.uk/news-releases/total-investment-of-approx-usd-8-8-million-in-malaria-tuberculosis-and-ntd-rd-projects-with-partners-including-mahidol-university-barcelona-institute-for-global-health-and-eisai-302675841.html) (PR Newswire UK)
 
 - [Triple Threat Malaria Drug Kills at Every Stage](https://scienceblog.com/triple-threat-malaria-drug-kills-at-every-stage/) (ScienceBlog.com)
@@ -130,13 +166,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (leptospirosis)
 
+- [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
+
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
 
 ## 26-6 (hpai)
 
 - [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
+## 26-6 (h5n1)
+
+- [Grippe aviaire : la prochaine crise sanitaire que personne ne voit venir](https://www.presse-citron.net/grippe-aviaire-prochaine-crise-sanitaire-personne-voit-venir/) (Presse-citron)
+
 ## 26-6 (dengue)
+
+- [Four new scrub typhus and dengue cases reported in Chitwan](https://english.khabarhub.com/2026/03/533676/) (Khabarhub.com)
+
+- [Oposição critica Governo após cinco mortes devido ao dengue](https://observador.pt/2026/02/03/oposicao-critica-governo-de-timor-leste-apos-cinco-mortes-devido-ao-dengue/) (Observador.pt)
 
 - [Dengue fever outbreak: Travellers to the Pacific told to seek immediate medical help if ill on return home](https://www.nzherald.co.nz/talanoa/dengue-fever-outbreak-travellers-to-the-pacific-told-to-seek-immediate-medical-help-if-ill-on-return-home/P4UHJUO64FB73CG2TK5H3D3WAI/) (New Zealand Herald)
 
@@ -1836,10 +1882,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
-## 25-52 (yersinia)
-
-- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
-
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -1966,10 +2008,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
-- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
-
-- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
-
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -2067,5 +2105,3 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
-
-- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)

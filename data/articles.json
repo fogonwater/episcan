@@ -1,8 +1,386 @@
 {
-  "last_updated": "2026-02-04 07:23",
-  "count_articles_total": 886,
-  "count_articles_new": 13,
+  "last_updated": "2026-02-04 19:20",
+  "count_articles_total": 903,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 27297,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "LANCASTERONLINE | Staff",
+      "title": "Measles cases have been reported in Lancaster County; here's what you need to know",
+      "description": "Five cases of measles were reported in Lancaster County this week. While details remain scarce, the state Department of Health is conducting contact tracing to identify those who may have been near the affected individuals.",
+      "url": "https://lancasteronline.com/news/health/measles-cases-have-been-reported-in-lancaster-county-heres-what-you-need-to-know/article_dd9f7d83-4028-4ae6-93ed-275e950e2dc5.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/67/667294f2-6c4d-11e9-b2c5-af037d34783d/5cc9fde0a0ad7.image.jpg?crop=1200%2C630%2C0%2C76",
+      "publishedAt": "2026-02-03 19:04:00",
+      "content": "Five cases of measles were reported in Lancaster County this week. While details remain scarce, the state Department of Health is conducting contact tracing to identify those who may have been near t\u2026 [+5049 chars]",
+      "retrievedAt": "2026-02-04 19:20:00.808008",
+      "internal_id": "4fc710c52fb8fdbc0d103c40709c599465180d906e0d8f9ec38222d7013ae633",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27298,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Phoebe Williams and Archana Koirala",
+      "title": "What are the symptoms of measles and how long does the vaccine last?",
+      "description": "As measles outbreaks occur across the world \u2013 experts have answer key questions on the virus",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-symptoms-rash-vaccine-outbreak-treatment-b2913278.html",
+      "urlToImage": "https://static.the-independent.com/2026/01/02/08/02083959-9da67e51-0378-4ae3-b713-e87bcee5929d.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-02-03 18:37:03",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+7049 chars]",
+      "retrievedAt": "2026-02-04 19:20:00.827317",
+      "internal_id": "c4d31374494907088b123f9c6bf191ed1b1f5d54bb3041ba065782eeee34862c",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27294,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "CDC Refuses to Take Blame for Measles Spiraling out of Control",
+      "description": "In a WSJ editorial this week, CDC principal deputy director Ralph Abraham tried to push back against criticism.",
+      "url": "https://gizmodo.com/cdc-refuses-to-take-blame-for-measles-spiraling-out-of-control-2000717230",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/measles-rash-1200x675.jpg",
+      "publishedAt": "2026-02-03 18:30:01",
+      "content": "Measles is making an unwelcome comeback in the United States, and the Centers for Disease Control and Prevention is looking to dodge any responsibility for it. In a recent editorial for the Wall Str\u2026 [+4477 chars]",
+      "retrievedAt": "2026-02-04 19:20:00.637024",
+      "internal_id": "e05a4a24e75c2a3fdea129af11d52492317287f264a3c77cfc9f20452475fe81",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27300,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WGAL Susquehanna Valley Pa.",
+      "author": "Rachael Lardani",
+      "title": "Five measles cases confirmed in Lancaster County",
+      "description": "The Pennsylvania Department of Health confirmed that five cases of measles have been detected in Lancaster County.",
+      "url": "https://www.wgal.com/article/measles-five-cases-in-lancaster-county-pa/70235680",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1328334860-69822157b8f69.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2026-02-03 16:59:07",
+      "content": "LANCASTER COUNTY, Pa. \u2014The Pennsylvania Department of Health confirmed that five cases of measles have been detected in Lancaster County. Video above: Headlines from WGAL News 8 Today. The departm\u2026 [+1872 chars]",
+      "retrievedAt": "2026-02-04 19:20:00.879545",
+      "internal_id": "20de145af068ca778baf998ba81b3ccc965acaee329400e78e990a23bcf23c7a",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27296,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Imo begins measles vaccination campaign",
+      "description": "Imo State has launched a measles\u2013rubella vaccination campaign to protect children. Learn about this crucial public health initiative across the state. Read More: https://punchng.com/imo-begins-measles-vaccination-campaign/",
+      "url": "https://punchng.com/imo-begins-measles-vaccination-campaign/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/12/02165905/IMG_5341.jpeg",
+      "publishedAt": "2026-02-03 16:08:05",
+      "content": "The Imo State Government has commenced a statewide MeaslesRubella vaccination campaign across the 27 local government areas of the state. The campaign was officially flagged off on Tuesday in Owerri\u2026 [+3096 chars]",
+      "retrievedAt": "2026-02-04 19:20:00.747380",
+      "internal_id": "4a934d853eca317570c38e2a574c672fab4604e8980668a2a75b9f104218c495",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27302,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Presse-citron",
+      "author": "Camille Coirault",
+      "title": "Grippe aviaire : la prochaine crise sanitaire que personne ne voit venir",
+      "description": "Nous ne voulons pas jouer les oiseaux de mauvaise augure, mais les donn\u00e9es en provenance de plusieurs laboratoires mondiaux sont peu reluisantes. Le plus grand danger \u00e9tant ne pas les regarder en face : le virus H5N1 est de retour, et il est plus costaud que \u2026",
+      "url": "https://www.presse-citron.net/grippe-aviaire-prochaine-crise-sanitaire-personne-voit-venir/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2026/02/Poulet-1600x900.jpg",
+      "publishedAt": "2026-02-03 16:02:07",
+      "content": "S\u2019il y a bien une chose que le COVID nous a appris une fois le haut de la vague pass\u00e9 : en virologie, le co\u00fbt de l\u2019inaction est toujours plus \u00e9lev\u00e9 que celui de la pr\u00e9vention. La pand\u00e9mie nous semble\u2026 [+7365 chars]",
+      "retrievedAt": "2026-02-04 19:20:01.163187",
+      "internal_id": "4621698cdd9b6c3ae9cdbc29c1f0039c09e240175455cdfa5d3ccb7dedb59cf9",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27295,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "South Carolina's Measles Milestone Is Everyone's Problem (Lisa Jarvis/Bloomberg)",
+      "description": "Lisa Jarvis / Bloomberg: South Carolina's Measles Milestone Is Everyone's Problem \u2014 A fast-moving measles outbreak in South Carolina reached a grim milestone last week: It is now the biggest outbreak in the US in a quarter century. \u2014 It's the latest publi\u2026",
+      "url": "https://www.memeorandum.com/260203/p30",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixkJME.bXtyg/v1/1200x800.jpg",
+      "publishedAt": "2026-02-03 14:25:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-02-04 19:20:00.721008",
+      "internal_id": "48b9f1179a9eec9cfe22d35e1ad6b4f92a53a83887c85710a29a12d97836290b",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27299,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Tuesday, February 3, 2026",
+      "description": "",
+      "url": "https://kffhealthnews.org/morning-briefing/tuesday-february-3-2026/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-03 14:04:46",
+      "content": "Measles Reported At Crowded ICE Site In Texas; Doctors Seek Urgent Action One San Antonio-based physician implored the state to take \"an immediate, unified command-and-control of the measles outbrea\u2026 [+11020 chars]",
+      "retrievedAt": "2026-02-04 19:20:00.836941",
+      "internal_id": "253196c61d56bc62a5814070a7057d7772f3534595d0f712720559beb36f68dc",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27305,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Meagan E. Olive, Perri C. Callaway, Mikias Ilala, Justine Levan, Gonzalo R. Acevedo, Felistas Nankya, Emmanuel Arinaitwe, John Rek, Prasanna Jagannathan, Grant Dorsey, Moses R. Kamya, Margaret E. Feeney",
+      "title": "Inhibitory NK receptor expression associates with altered antimalarial function of \u03b3\u03b4 T cells",
+      "description": "Author summary Malaria remains one of the deadliest infectious diseases, disproportionately affecting young children in sub-Saharan Africa who succumb to sequelae of Plasmodium falciparum infection. However, children living in highly endemic areas experience \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013460",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013460.g004&size=inline",
+      "publishedAt": "2026-02-03 14:00:00",
+      "content": "Abstract Gamma delta () T cells are important mediators of the immune response to childhood malaria. Human V9+V2+ T cells possess intrinsic, HLA-independent responsiveness to Plasmodium falciparum p\u2026 [+65035 chars]",
+      "retrievedAt": "2026-02-04 19:20:01.810394",
+      "internal_id": "eb888c41d538b794bd2168d27bb9580af316e70834f3caf437ddb9f5a4175c62",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27307,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dieudonn\u00e9 Mwamba Kazadi, Rosamund F. Lewis, Pierre Akilimali, Danny Kalala, Maria Van Kerkhove, Chikwe Ihekweazu",
+      "title": "The mpox epidemic is not over: Reducing disproportionate burden in Africa and persistent global risk require a sustained response",
+      "description": "The 2022 mpox outbreak quickly made headlines and galvanized global attention; but the epidemic is not over. In this Perspective, Rosamund Lewis and colleagues highlight ongoing mpox outbreaks across Africa and the world, and advocate for a sustained global r\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004893",
+      "urlToImage": null,
+      "publishedAt": "2026-02-03 14:00:00",
+      "content": "Citation: Kazadi DM, Lewis RF, Akilimali P, Kalala D, Van Kerkhove M, Ihekweazu C (2026) The mpox epidemic is not over: Reducing disproportionate burden in Africa and persistent global risk require a\u2026 [+11946 chars]",
+      "retrievedAt": "2026-02-04 19:20:02.218498",
+      "internal_id": "e7a31fa5f9aa5f0ffaa6435fc8806cc804bb8863c4e1bb8ee4b7bb26a4b817b7",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27313,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shilei Zhang, Lianjie Ma, Qi Cao, Meijing Zhang, Guixin Yan, Wanqi Jiang, Xufeng Xie, Wenlong Zhang, Yongguo Cao",
+      "title": "Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters",
+      "description": "Author summary Leptospirosis, a widespread zoonotic disease, remains difficult to control due to limitations of current vaccines, which often lack broad protection. This study introduces Limosilactobacillus caviae JL20, a bacterial strain that enhances the ef\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013951.g007&size=inline",
+      "publishedAt": "2026-02-03 14:00:00",
+      "content": "Citation: Zhang S, Ma L, Cao Q, Zhang M, Yan G, Jiang W, et al. (2026) Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in \u2026 [+42243 chars]",
+      "retrievedAt": "2026-02-04 19:20:02.511360",
+      "internal_id": "66171c2aaa7fdc8dc9ae4e0eb688ab6124e65c7d83278bc1a44340403b471067",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27308,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Mar\u00eda Vi\u00f1as",
+      "title": "Jes\u00fas Prego, xefe de Epidemiolox\u00eda do Sergas: \u00abO per\u00edodo de incubaci\u00f3n da \"mpox\" \u00e9 de 21 d\u00edas; un pode non ter s\u00edntomas e contaxiar\u00bb",
+      "description": "Un brote de variola do mono, con polo menos nove casos (sete na provincia da Coru\u00f1a e dous na de Pontevedra, todos homes), mant\u00e9n en alerta as autoridades sanitarias galegas",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2026/02/03/span-langgljesus-prego-xefe-epidemioloxia-do-sergas-periodo-incubacion-da-mpox-e-21-dias-pode-non-ter-sintomas-contaxiarspan/00031770119653099389605.htm",
+      "urlToImage": "https://img.lavdg.com/sc/LREHPizdMiobNkEaPTVLo9C63Fc=/1280x/2026/02/03/00121770121981584423841/Foto/j_20260203_132545000.jpg",
+      "publishedAt": "2026-02-03 12:54:00",
+      "content": "Entre o 15 de decembro e o 25 de xaneiro, o Sergas detectou nove casos de mpox \u2014antiga variola do mono\u2014 na comunidade, sete deles na provincia da Coru\u00f1a e dous na de Pontevedra, todos Contenido excl\u2026 [+105 chars]",
+      "retrievedAt": "2026-02-04 19:20:02.236559",
+      "internal_id": "c4e36890e15c75720924cde377446ea5641c0a69ea0e233dca02c5a683e5ad37",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27309,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Mar\u00eda Vi\u00f1as",
+      "title": "Jes\u00fas Prego, xefe de Epidemiolog\u00eda do Sergas: \u00abO per\u00edodo de incubaci\u00f3n da \"mpox\" \u00e9 de 21 d\u00edas; un pode non ter s\u00edntomas e contaxiar\u00bb",
+      "description": "Un brote de variola do mono, con polo menos nove casos (sete na provincia da Coru\u00f1a e dous na de Pontevedra, todos homes), mant\u00e9n en alerta as autoridades sanitarias galegas",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2026/02/03/jesus-prego-xefe-epidemiologia-do-sergas-periodo-incubacion-da-mpox-e-21-dias-pode-non-ter-sintomas-contaxiar/00031770119653099389605.htm",
+      "urlToImage": "https://img.lavdg.com/sc/LREHPizdMiobNkEaPTVLo9C63Fc=/1280x/2026/02/03/00121770121981584423841/Foto/j_20260203_132545000.jpg",
+      "publishedAt": "2026-02-03 12:54:00",
+      "content": "Entre o 15 de decembro e o 25 de xaneiro, o Sergas detectou nove casos de mpox \u2014antiga variola do mono\u2014 na comunidade, sete deles na provincia da Coru\u00f1a e dous na de Pontevedra, todos Contenido excl\u2026 [+105 chars]",
+      "retrievedAt": "2026-02-04 19:20:02.246336",
+      "internal_id": "9afa8ee8a513c2a47b38947bb0e980d3868a7492e791f8c1f120243ce113294b",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27310,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "Mar\u00eda Vi\u00f1as",
+      "title": "Jes\u00fas Prego, xefe de Epidemiolox\u00eda de Sanidade: \u00abO per\u00edodo de incubaci\u00f3n da \"mpox\" \u00e9 de 21 d\u00edas; un pode non ter s\u00edntomas e contaxiar\u00bb",
+      "description": "Un brote de variola do mono, con polo menos nove casos (sete na provincia da Coru\u00f1a e dous na de Pontevedra, todos homes), mant\u00e9n en alerta as autoridades sanitarias galegas",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2026/02/03/span-langgljesus-prego-xefe-epidemioloxia-sanidade-periodo-incubacion-da-mpox-e-21-dias-pode-non-ter-sintomas-contaxiarspan/00031770119653099389605.htm",
+      "urlToImage": "https://img.lavdg.com/sc/LREHPizdMiobNkEaPTVLo9C63Fc=/1280x/2026/02/03/00121770121981584423841/Foto/j_20260203_132545000.jpg",
+      "publishedAt": "2026-02-03 12:54:00",
+      "content": "Entre o 15 de decembro e o 25 de xaneiro, o Sergas detectou nove casos de mpox \u2014antiga variola do mono\u2014 na comunidade, sete deles na provincia da Coru\u00f1a e dous na de Pontevedra, todos Contenido excl\u2026 [+105 chars]",
+      "retrievedAt": "2026-02-04 19:20:02.255459",
+      "internal_id": "5797d6150cd688fba148009ad754d3ef599f6cfe92bcfcbb50f9741fe31e17a3",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27301,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Theepochtimes.com",
+      "author": "Zachary Stieber",
+      "title": "CDC Warns Vaccinated People Can Still Get Measles",
+      "description": "\u2018We can\u2019t rely exclusively on vaccination,\u2019 the agency\u2019s principal deputy director said.",
+      "url": "https://www.theepochtimes.com/health/cdc-warns-vaccinated-people-can-still-get-measles-5980063",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2026/02/03/id5980126-EpochImages-8634586898-xl-AV-1080x720.jpg",
+      "publishedAt": "2026-02-03 12:08:01",
+      "content": "The Centers for Disease Control and Prevention is warning people that even those who have received a measles vaccine can still contract the disease. Although vaccinated individuals are at low risk o\u2026 [+97 chars]",
+      "retrievedAt": "2026-02-04 19:20:00.937997",
+      "internal_id": "0bd538c0b2b29e21fe0c1bf2d9d33648135af16869bca8fff31acf164f6e58a2",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27304,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Four new scrub typhus and dengue cases reported in Chitwan",
+      "description": "CHITWAN: Four new cases of scrub typhus and dengue have been reported in Chitwan district over the past 24 hours. According to the daily update released by the Chitwan District Public Health Office, two cases of scrub typhus and two cases of dengue were confi\u2026",
+      "url": "https://english.khabarhub.com/2026/03/533676/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2026-02-03 10:45:52",
+      "content": "CHITWAN: Four new cases of scrub typhus and dengue have been reported in Chitwan district over the past 24 hours. According to the daily update released by the Chitwan District Public Health Office,\u2026 [+648 chars]",
+      "retrievedAt": "2026-02-04 19:20:01.363877",
+      "internal_id": "851c3cefff4c0e95ad12bc289edadbc7f6b18245b5a76782897d6a5245cbf5f4",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27311,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "3news.com",
+      "author": "Raphael Ghartey",
+      "title": "13 new Mpox cases confirmed; total reaches 993",
+      "description": "The Ghana Health Service (GHS) has confirmed 13 new cases of Mpox, pushing the country\u2019s cumulative case count to 993 as of January 25. The latest update reflec",
+      "url": "https://3news.com/13-new-mpox-cases-confirmed-total-reaches-993",
+      "urlToImage": "https://editors.3news.com/wp-content/uploads/2025/07/MPOX-death.jpg",
+      "publishedAt": "2026-02-03 10:25:01",
+      "content": "Raphael Ghartey is writer and reporter with the MG News team at Media General, serving TV3, 3News, Onua FM, Onua TV and more platforms.",
+      "retrievedAt": "2026-02-04 19:20:02.272845",
+      "internal_id": "0941d0ae3971745a7c3e7dad757fe03012bb53c163055ba5b39e6f715ff1849d",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27306,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Namibian",
+      "author": "Nishi Felton",
+      "title": "Health ministry records 8 000 malaria cases, 11 deaths in January",
+      "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% The Ministry of Health and Social Services has recorded 8 760 cases of malaria and 11 deaths in the northern and north eastern parts of Namibia.",
+      "url": "https://www.namibian.com.na/health-ministry-records-8-000-malaria-cases-11-deaths-in-january/",
+      "urlToImage": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-03-at-8.34.17-AM.jpeg",
+      "publishedAt": "2026-02-03 09:35:50",
+      "content": "The Ministry of Health and Social Services has recorded 8 760 cases of malaria and 11 deaths in the northern and north eastern parts of Namibia. The ministry says this is a 68% increase compared to \u2026 [+1863 chars]",
+      "retrievedAt": "2026-02-04 19:20:01.820485",
+      "internal_id": "c27083f6b41ec9c6212b3944303296c87dfcafe62cfd16b7d370c44cafa73e4a",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27303,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Oposi\u00e7\u00e3o critica Governo ap\u00f3s cinco mortes devido ao dengue",
+      "description": "Dados do minist\u00e9rio da Sa\u00fade timorense indicam que o total de casos de dengue registados desde o in\u00edcio do ano \u00e9 de 1.310. A doen\u00e7a provocou a morte a cinco crian\u00e7as.",
+      "url": "https://observador.pt/2026/02/03/oposicao-critica-governo-de-timor-leste-apos-cinco-mortes-devido-ao-dengue/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F11%2F07024715%2F22110458.jpg?layer=obstop:T",
+      "publishedAt": "2026-02-03 08:53:16",
+      "content": "A Frente Revolucion\u00e1ria do Timor-Leste Independente (Fretilin, na oposi\u00e7\u00e3o) criticou esta ter\u00e7a-feira a resposta do Governo timorense ao surto de dengue que est\u00e1 a afetar o pa\u00eds e que j\u00e1 provocou cin\u2026 [+1834 chars]",
+      "retrievedAt": "2026-02-04 19:20:01.319762",
+      "internal_id": "f9a139b10a7a34118e463780aa5cb849604662aeb22aabcdb09b4faee1218189",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27312,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Thechronicle.com.gh",
+      "author": "THE CHRONICLE",
+      "title": "Editorial: GHS Mandatory Typhoid Vaccination For Food Vendors Is Very Laudable",
+      "description": "The Ghana Health Service (GHS) has announced plans to introduce a mandatory typhoid vaccination programme for food handlers across the country. The initiative will target workers in the food and beverage sector, including street food vendors, market traders, \u2026",
+      "url": "https://thechronicle.com.gh/editorial-ghs-mandatory-typhoid-vaccination-for-food-vendors-is-very-laudable/",
+      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2021/07/Untitled-design-7-5.jpg",
+      "publishedAt": "2026-02-03 08:51:56",
+      "content": "The Ghana Health Service (GHS) has announced plans to introduce a mandatory typhoid vaccination programme for food handlers across the country. The initiative will target workers in the food and beve\u2026 [+4402 chars]",
+      "retrievedAt": "2026-02-04 19:20:02.373056",
+      "internal_id": "dd1219203c9ce8a290b85b2b0baf432e1b1e27f39060c03524f6605911803cee",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27293,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Can I touch a bat?",
+      "description": "Can I Touch a Bat? A Comprehensive Guide Absolutely not! Touching a bat can be incredibly dangerous, risking exposure to rabies and other diseases. Can I touch a bat? is a question that should always be answered with a firm \u201cNo!\u201d for your safety and the bat\u2019s\u2026",
+      "url": "https://www.lifesciencesworld.com/can-i-touch-a-bat/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-03 08:08:38",
+      "content": "Can I Touch a Bat? A Comprehensive Guide Absolutely not!Touching a bat can be incredibly dangerous, risking exposure to rabies and other diseases. Can I touch a bat? is a question that should always\u2026 [+10375 chars]",
+      "retrievedAt": "2026-02-04 19:20:00.390718",
+      "internal_id": "e3a0aa106c98e0afa42efdc4a7b4639022b317f0bc1cf44ad25770abaed188ba",
+      "publishedAtLabel": "Feb 3"
+    },
     {
       "id": 27291,
       "query": [
@@ -15916,78 +16294,6 @@
       "retrievedAt": "2025-12-23 07:10:40.791010",
       "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
       "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 26407,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Measles outbreak grows to 8 cases in Quebec",
-      "description": "On Sunday morning, Dr. Antonio D'Angelo, the head of the pediatric emergency department at CHU Sainte-Justine, told Radio-Canada there had been two confirmed cases of measles at his Montreal hospital over the past week.",
-      "url": "https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507",
-      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-      "publishedAt": "2025-12-21 18:15:39",
-      "content": "The number of measles cases in Quebec is growing as an outbreak is underway. On the morning of Dec. 19, eight cases were confirmed in the Lanaudi\u00e8re region, the Laurentians, Laval, Que., and Montre\u2026 [+1342 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.584798",
-      "internal_id": "eb793bfc18d96a058342631f57537964f36d318a189b7dd6dceaa37c85f1332f",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26410,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Zoomit.ir",
-      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
-      "title": "\u0645\u0648\u0634\u200c\u0647\u0627 \u0646\u0627\u0642\u0644 \u0637\u0627\u0639\u0648\u0646 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0646\u0628\u0648\u062f\u0646\u062f\u061b \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0645\u062a\u0647\u0645 \u0627\u0635\u0644\u06cc \u0631\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646\u062f",
-      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u067e\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0686\u06af\u0648\u0646\u06af\u06cc \u0634\u06cc\u0648\u0639 \u0637\u0627\u0639\u0648\u0646 \u062f\u0631 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0628\u0648\u062f\u0646\u062f. \u067e\u0627\u0633\u062e \u0627\u06cc\u0646 \u0645\u0639\u0645\u0627 \u0646\u0647 \u062f\u0631 \u0628\u0642\u0627\u06cc\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u060c \u0628\u0644\u06a9\u0647 \u062f\u0631 \u062f\u0646\u062f\u0627\u0646 \u06cc\u06a9 \u062d\u06cc\u0648\u0627\u0646 \u0627\u0647\u0644\u06cc \u067e\u0646\u0647\u0627\u0646 \u0628\u0648\u062f.",
-      "url": "https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/",
-      "urlToImage": "https://api2.zoomit.ir/media/bronze-age-shepherd-tending-to-a-flock-of-primitive-looking-sheep-69429aef1173a30185c30ebd",
-      "publishedAt": "2025-12-21 17:45:00",
-      "content": ": . . . . : . . . . \u00ab \u00bb : . . (Yersinia pestis) . . . : ( ) . . . . . . . . . . . . ( ) . . . Cell .",
-      "retrievedAt": "2025-12-22 19:06:50.878529",
-      "internal_id": "d5634cb4939435ffb43fdba56bbece41ac087d04c373ce273a73fa4b2ecd541a",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26409,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Blanca Valadez",
-      "title": "Secretar\u00eda de Salud alerta por emergencia de fiebre chikungunya en M\u00e9xico",
-      "description": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inform\u00f3 el Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (C\u2026",
-      "url": "https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/16/ssj-intensifica-campana-lava-voltea-1.jpg",
-      "publishedAt": "2025-12-21 16:14:46",
-      "content": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inf\u2026 [+4026 chars]",
-      "retrievedAt": "2025-12-22 19:06:50.243368",
-      "internal_id": "bdb8314e281e293eee8fb9243901da4d224798451ec19efaf7a170cb8aabfa42",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26408,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Rolling Out",
-      "author": "David Kesiena",
-      "title": "Measles cases surge despite 88% drop in deaths since 2000",
-      "description": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% reduction in measles deaths between 2000 and 2024, saving nearly\u2026",
-      "url": "https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
-      "publishedAt": "2025-12-21 11:20:08",
-      "content": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% redu\u2026 [+7093 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.624928",
-      "internal_id": "c8ede8d881c75d73bb81e9dc98c7502ed8464cc9c3082c5faf92728c73973136",
-      "publishedAtLabel": "Dec 21"
     }
   ]
 }
