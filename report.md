@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2026-02-04 19:20
-- **Most recent article:** 2026-02-03 19:04:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2026-02-05 07:26
+- **Most recent article:** 2026-02-04 06:02:42
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 28 | 35 | 26 | 47 | 63 | 88 | 76 | 37 | 400 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 4 | 97 |
-| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 5 | 80 |
+| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 45 | 410 |
+| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 5 | 98 |
+| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 6 | 81 |
 | h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 1 | 73 |
 | malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 6 | 59 |
 | mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 8 | 52 |
 | meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 3 | 52 |
-| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 3 | 33 |
+| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 3 | 34 |
 | leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 2 | 25 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
 | hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
-| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 14 |
+| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
 | typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
 | pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 5 |
 
@@ -37,6 +37,8 @@ Source: [News API](https://newsapi.org/)
 - [Editorial: GHS Mandatory Typhoid Vaccination For Food Vendors Is Very Laudable](https://thechronicle.com.gh/editorial-ghs-mandatory-typhoid-vaccination-for-food-vendors-is-very-laudable/) (Thechronicle.com.gh)
 
 ## 26-6 (rabies)
+
+- [What if my dog came in contact with a raccoon?](https://www.lifesciencesworld.com/what-if-my-dog-came-in-contact-with-a-raccoon/) (Lifesciencesworld.com)
 
 - [Can I touch a bat?](https://www.lifesciencesworld.com/can-i-touch-a-bat/) (Lifesciencesworld.com)
 
@@ -75,6 +77,22 @@ Source: [News API](https://newsapi.org/)
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
+
+- [Measles outbreak declared over but health officials warn of ongoing risk with Tauranga case](https://www.nzherald.co.nz/bay-of-plenty-times/news/measles-outbreak-declared-over-but-health-officials-warn-of-ongoing-risk-with-tauranga-case/B6RWVTDLE5HKPCQQHOWYNUXVEE/) (New Zealand Herald)
+
+- ['Highly contagious': Measles case confirmed in Pensacola area](https://weartv.com/news/local/highly-contagious-measles-case-confirmed-in-pensacola-area) (WEAR)
+
+- [Measles outbreak confirmed in Lancaster County](https://www.post-gazette.com/news/health/2026/02/03/measles-outbreak-lancaster-county-pa/stories/202602030063) (Pittsburgh Post-Gazette)
+
+- [Measles case in person who hadn't travelled 'very much a concern'](https://www.abc.net.au/news/2026-02-04/measles-case-in-adelaide-prompts-exposure-site-release/106302520) (ABC News (AU))
+
+- [Measles case confirmed in park; Warning issues to employees, visitors...](https://www.the-sun.com/news/15885325/disneyland-measles-alert-americans-warned/) (The-sun.com)
+
+- [Measles outbreak linked to a Florida university, as cases keep rising in the U.S.](https://www.nbcnews.com/health/health-news/measles-outbreak-linked-florida-university-cases-keep-rising-us-rcna257220) (NBC News)
+
+- [Measles exposure risk identified at major airport and theme park, health officials warn](https://www.foxnews.com/health/measles-exposure-risk-identified-major-airport-theme-park-health-officials-warn) (Fox News)
+
+- [Lancaster County's 5 measles cases are 1st cases in Pennsylvania this year](https://lancasteronline.com/news/health/lancaster-countys-5-measles-cases-are-1st-cases-in-pennsylvania-this-year/article_3521f657-d3c4-46c1-a0f8-6ab63454c8cf.html) (LancasterOnline)
 
 - [Measles cases have been reported in Lancaster County; here's what you need to know](https://lancasteronline.com/news/health/measles-cases-have-been-reported-in-lancaster-county-heres-what-you-need-to-know/article_dd9f7d83-4028-4ae6-93ed-275e950e2dc5.html) (LancasterOnline)
 
@@ -179,6 +197,8 @@ Source: [News API](https://newsapi.org/)
 - [Grippe aviaire : la prochaine crise sanitaire que personne ne voit venir](https://www.presse-citron.net/grippe-aviaire-prochaine-crise-sanitaire-personne-voit-venir/) (Presse-citron)
 
 ## 26-6 (dengue)
+
+- [Las claves detrás de la baja de casos de dengue y las alertas de los especialistas](https://www.lanacion.com.ar/sociedad/las-claves-detras-de-la-baja-de-casos-de-dengue-y-las-alertas-de-los-especialistas-nid03022026/) (La Nacion)
 
 - [Four new scrub typhus and dengue cases reported in Chitwan](https://english.khabarhub.com/2026/03/533676/) (Khabarhub.com)
 
@@ -1882,6 +1902,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
+## 25-52 (yersinia)
+
+- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
+
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -2008,6 +2032,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
+- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
+
+- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
+
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -2105,3 +2133,5 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
+
+- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)

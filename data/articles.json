@@ -1,8 +1,188 @@
 {
-  "last_updated": "2026-02-04 19:20",
-  "count_articles_total": 903,
-  "count_articles_new": 21,
+  "last_updated": "2026-02-05 07:26",
+  "count_articles_total": 917,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 27314,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What if my dog came in contact with a raccoon?",
+      "description": "What If My Dog Came In Contact With a Raccoon? Protecting Your Pup If your dog encounters a raccoon, the outcome can range from a minor scuffle to a serious health risk. Immediately assess your dog for injuries and potential exposure to rabies or other diseas\u2026",
+      "url": "https://www.lifesciencesworld.com/what-if-my-dog-came-in-contact-with-a-raccoon/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-04 06:02:42",
+      "content": "What If My Dog Came In Contact With a Raccoon? Protecting Your Pup If your dog encounters a raccoon, the outcome can range from a minor scuffle to a serious health risk. Immediately assess your dog \u2026 [+9153 chars]",
+      "retrievedAt": "2026-02-05 07:26:41.404295",
+      "internal_id": "7ff78d4728096fa50bcf33bb1701fa922491d38ba9efc8ff696e4de5983acb38",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27322,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "Bay of Plenty Times",
+      "title": "Measles outbreak declared over but health officials warn of ongoing risk with Tauranga case",
+      "description": "A recent travel-linked measles case in Tauranga shows the risk is not over.",
+      "url": "https://www.nzherald.co.nz/bay-of-plenty-times/news/measles-outbreak-declared-over-but-health-officials-warn-of-ongoing-risk-with-tauranga-case/B6RWVTDLE5HKPCQQHOWYNUXVEE/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/DYF76CFSQBFSXHLSBRJXBLAD5Y.jpg?auth=3feca0d5f954a3ad5ddaae784a8d1b4960f276b8a5db5c8df2c97cb2ed39e3e2&width=1200&height=675&quality=70&focal=986%2C670&smart=false",
+      "publishedAt": "2026-02-04 05:00:00",
+      "content": "Being able to close this outbreak is a significant achievement. Our outbreak response involved public health services working across the country with local communities over the past four months to ma\u2026 [+1048 chars]",
+      "retrievedAt": "2026-02-05 07:26:42.024288",
+      "internal_id": "5828f0e3b1729313604df95e66c4f2edb0ecc1240c925f21fc46cd2f327486a3",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27320,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WEAR",
+      "author": "Wear Staff",
+      "title": "'Highly contagious': Measles case confirmed in Pensacola area",
+      "description": "PENSACOLA, Fla. -- One case of measles has been confirmed in the Pensacola area.",
+      "url": "https://weartv.com/news/local/highly-contagious-measles-case-confirmed-in-pensacola-area",
+      "urlToImage": "https://weartv.com/resources/media2/16x9/3240/1320/0x169/90/cddd9d2a-52bd-49ea-ac07-856fa36326b0-GettyImages2217825829.jpg",
+      "publishedAt": "2026-02-04 03:20:25",
+      "content": "PENSACOLA, Fla. -- One case of measles has been confirmed in the Pensacola area. Pensacola Pediatrics says they were recently notified of this case. \"Measles is highly contagious, and unvaccinate\u2026 [+382 chars]",
+      "retrievedAt": "2026-02-05 07:26:42.004613",
+      "internal_id": "f288dcf1364910f3e32f8555f56589c6d2d187c17d84a6529976bbde58f79bc3",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27321,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pittsburgh Post-Gazette",
+      "author": "Hanna Webster",
+      "title": "Measles outbreak confirmed in Lancaster County",
+      "description": "Measles outbreak confirmed in Lancaster Countypost-gazette.com",
+      "url": "https://www.post-gazette.com/news/health/2026/02/03/measles-outbreak-lancaster-county-pa/stories/202602030063",
+      "urlToImage": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202602030063/1140x_a10-7_cTC/Measles-Vaccination-Rates_1770140558.jpg",
+      "publishedAt": "2026-02-04 00:46:55",
+      "content": "MENU",
+      "retrievedAt": "2026-02-05 07:26:42.014148",
+      "internal_id": "1aaed667463d9e7fec34b660a0a312fbda0b7e75e30ccb1998bbe9b180c6a873",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27315,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": null,
+      "title": "Measles case in person who hadn't travelled 'very much a concern'",
+      "description": "South Australia's health department says undetected measles is circulating in Adelaide, after an infection was identified in someone who had not recently travelled.",
+      "url": "https://www.abc.net.au/news/2026-02-04/measles-case-in-adelaide-prompts-exposure-site-release/106302520",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/f226ef8f811f45ee207cc37a3acbd026?impolicy=wcms_watermark_news&cropH=1518&cropW=2699&xPos=0&yPos=138&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-02-04 00:22:35",
+      "content": "South Australia's health department says undetected measles is circulating in Adelaide, after an infection was identified in someone who had not recently travelled. SA Health said the adult acquired\u2026 [+2978 chars]",
+      "retrievedAt": "2026-02-05 07:26:41.774959",
+      "internal_id": "a3eabd62dd4cb362dc1d6e80f82716d6522966111cfb18908552580c4a802d28",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27316,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-sun.com",
+      "author": "the us sun",
+      "title": "Measles case confirmed in park; Warning issues to employees, visitors...",
+      "description": "",
+      "url": "https://www.the-sun.com/news/15885325/disneyland-measles-alert-americans-warned/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-03 23:00:14",
+      "content": "DISNEYLAND has confirmed a measles case at a hotel and theme park. Health officials have issued an urgent warning to visitors after a child became sick with the highly contagious viral infection. T\u2026",
+      "retrievedAt": "2026-02-05 07:26:41.877739",
+      "internal_id": "ac8dda0560d47ed00b0b3c5d266def8172ec6027857242845d2c611e570d6da9",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27317,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Measles outbreak linked to a Florida university, as cases keep rising in the U.S.",
+      "description": "Measles cases in the U.S. are spreading beyond mostly schoolkids and their families.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-outbreak-linked-florida-university-cases-keep-rising-us-rcna257220",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260203-measles-vaccine-mn-1030-857d09.jpg",
+      "publishedAt": "2026-02-03 22:28:31",
+      "content": "Measles cases in the U.S. are spreading beyond mostly schoolkids and their families. At least 12 people have tested positive for measles at Ave Maria University, a private Catholic college near Nap\u2026 [+2897 chars]",
+      "retrievedAt": "2026-02-05 07:26:41.905315",
+      "internal_id": "dbb4207e01b9ac8e62235d3ab6100f6098f408b1b4e4e46ec92058bc0652a150",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27319,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Measles exposure risk identified at major airport and theme park, health officials warn",
+      "description": "Health officials warn of potential measles risk at LAX and Disneyland after international traveler's visit. Here's what to know about windows of exposure.",
+      "url": "https://www.foxnews.com/health/measles-exposure-risk-identified-major-airport-theme-park-health-officials-warn",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/crowd-at-disneyland-california-1.jpg",
+      "publishedAt": "2026-02-03 22:22:35",
+      "content": "Health officials are warning the public of potential measles exposure after an international traveler visited several high-traffic locations in Southern California, including Los Angeles Internationa\u2026 [+2946 chars]",
+      "retrievedAt": "2026-02-05 07:26:41.985319",
+      "internal_id": "f6e7aad2ae9fd50f69faa2148dcceb71d002db1f1d319cb9460ecbbab74ee89b",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27318,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "ANNE GARBER | Deputy Correspondent Coordinator",
+      "title": "Lancaster County's 5 measles cases are 1st cases in Pennsylvania this year",
+      "description": "The five cases of measles reported in Lancaster County on Monday are the first identified in the state this year and meet the federal definition of an outbreak, prompting urgent action by public health officials to control the virus\u2019 spread.",
+      "url": "https://lancasteronline.com/news/health/lancaster-countys-5-measles-cases-are-1st-cases-in-pennsylvania-this-year/article_3521f657-d3c4-46c1-a0f8-6ab63454c8cf.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/67/667294f2-6c4d-11e9-b2c5-af037d34783d/5cc9fde0a0ad7.image.jpg?crop=1200%2C630%2C0%2C76",
+      "publishedAt": "2026-02-03 22:14:00",
+      "content": "The five cases of measles reported in Lancaster County on Monday are the first identified in the state this year and meet the federal definition of an outbreak, prompting urgent action by public heal\u2026 [+2433 chars]",
+      "retrievedAt": "2026-02-05 07:26:41.940864",
+      "internal_id": "92dedd9e64bb9c9deb18294bdb09115cfa7d65f4be3a8e15916b7a2692d8c268",
+      "publishedAtLabel": "Feb 3"
+    },
+    {
+      "id": 27323,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Alejandro Horvat",
+      "title": "Las claves detr\u00e1s de la baja de casos de dengue y las alertas de los especialistas",
+      "description": "Tras dos temporadas marcadas por una circulaci\u00f3n r\u00e9cord del virus, el inicio de 2026 muestra un descenso pronunciado de casos en la Argentina",
+      "url": "https://www.lanacion.com.ar/sociedad/las-claves-detras-de-la-baja-de-casos-de-dengue-y-las-alertas-de-los-especialistas-nid03022026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-casos-de-dengue-se-mantienen-en-niveles-bajos-IHH4AMNJUBFKBBAQNJZLYLW5VM.jpg?auth=99885fd0bab1bc1eabd0ffea115655e2ee38b25c1a5bfafe3d82f76a984bdc8e&width=1200&quality=70&smart=false&height=806",
+      "publishedAt": "2026-02-03 19:26:02",
+      "content": "Despu\u00e9s de dos veranos consecutivos marcados por una circulaci\u00f3n intensa del dengue, con cifras r\u00e9cord de casos y muertes asociadas, el inicio de 2026 muestra un escenario muy distinto en la Argentin\u2026 [+6462 chars]",
+      "retrievedAt": "2026-02-05 07:26:42.800174",
+      "internal_id": "7d2af4941c7cb0e6f5bbe90a5015fe99eb5494fb9c22f488dfbcac5a2e4cb9eb",
+      "publishedAtLabel": "Feb 3"
+    },
     {
       "id": 27297,
       "query": [
@@ -16294,6 +16474,78 @@
       "retrievedAt": "2025-12-23 07:10:40.791010",
       "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
       "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26407,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreak grows to 8 cases in Quebec",
+      "description": "On Sunday morning, Dr. Antonio D'Angelo, the head of the pediatric emergency department at CHU Sainte-Justine, told Radio-Canada there had been two confirmed cases of measles at his Montreal hospital over the past week.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507",
+      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-12-21 18:15:39",
+      "content": "The number of measles cases in Quebec is growing as an outbreak is underway. On the morning of Dec. 19, eight cases were confirmed in the Lanaudi\u00e8re region, the Laurentians, Laval, Que., and Montre\u2026 [+1342 chars]",
+      "retrievedAt": "2025-12-22 19:06:48.584798",
+      "internal_id": "eb793bfc18d96a058342631f57537964f36d318a189b7dd6dceaa37c85f1332f",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26410,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
+      "title": "\u0645\u0648\u0634\u200c\u0647\u0627 \u0646\u0627\u0642\u0644 \u0637\u0627\u0639\u0648\u0646 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0646\u0628\u0648\u062f\u0646\u062f\u061b \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0645\u062a\u0647\u0645 \u0627\u0635\u0644\u06cc \u0631\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646\u062f",
+      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u067e\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0686\u06af\u0648\u0646\u06af\u06cc \u0634\u06cc\u0648\u0639 \u0637\u0627\u0639\u0648\u0646 \u062f\u0631 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0628\u0648\u062f\u0646\u062f. \u067e\u0627\u0633\u062e \u0627\u06cc\u0646 \u0645\u0639\u0645\u0627 \u0646\u0647 \u062f\u0631 \u0628\u0642\u0627\u06cc\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u060c \u0628\u0644\u06a9\u0647 \u062f\u0631 \u062f\u0646\u062f\u0627\u0646 \u06cc\u06a9 \u062d\u06cc\u0648\u0627\u0646 \u0627\u0647\u0644\u06cc \u067e\u0646\u0647\u0627\u0646 \u0628\u0648\u062f.",
+      "url": "https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/",
+      "urlToImage": "https://api2.zoomit.ir/media/bronze-age-shepherd-tending-to-a-flock-of-primitive-looking-sheep-69429aef1173a30185c30ebd",
+      "publishedAt": "2025-12-21 17:45:00",
+      "content": ": . . . . : . . . . \u00ab \u00bb : . . (Yersinia pestis) . . . : ( ) . . . . . . . . . . . . ( ) . . . Cell .",
+      "retrievedAt": "2025-12-22 19:06:50.878529",
+      "internal_id": "d5634cb4939435ffb43fdba56bbece41ac087d04c373ce273a73fa4b2ecd541a",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26409,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez",
+      "title": "Secretar\u00eda de Salud alerta por emergencia de fiebre chikungunya en M\u00e9xico",
+      "description": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inform\u00f3 el Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (C\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/16/ssj-intensifica-campana-lava-voltea-1.jpg",
+      "publishedAt": "2025-12-21 16:14:46",
+      "content": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inf\u2026 [+4026 chars]",
+      "retrievedAt": "2025-12-22 19:06:50.243368",
+      "internal_id": "bdb8314e281e293eee8fb9243901da4d224798451ec19efaf7a170cb8aabfa42",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26408,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Out",
+      "author": "David Kesiena",
+      "title": "Measles cases surge despite 88% drop in deaths since 2000",
+      "description": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% reduction in measles deaths between 2000 and 2024, saving nearly\u2026",
+      "url": "https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
+      "publishedAt": "2025-12-21 11:20:08",
+      "content": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% redu\u2026 [+7093 chars]",
+      "retrievedAt": "2025-12-22 19:06:48.624928",
+      "internal_id": "c8ede8d881c75d73bb81e9dc98c7502ed8464cc9c3082c5faf92728c73973136",
+      "publishedAtLabel": "Dec 21"
     }
   ]
 }
