@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-02-05 07:26
-- **Most recent article:** 2026-02-04 06:02:42
+- **New articles in last harvest:** 12
+- **Last harvest:** 2026-02-05 19:19
+- **Most recent article:** 2026-02-04 18:32:01
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 45 | 410 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 5 | 98 |
+| measles | 28 | 35 | 26 | 47 | 63 | 88 | 76 | 48 | 411 |
+| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 6 | 99 |
 | rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 6 | 81 |
-| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 1 | 73 |
-| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 6 | 59 |
+| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 3 | 75 |
+| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 10 | 63 |
 | mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 8 | 52 |
 | meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 3 | 52 |
-| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 3 | 34 |
-| leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 2 | 25 |
+| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 3 | 33 |
+| leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 26 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
 | hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
-| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
+| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 14 |
 | typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
-| pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 0 | 5 |
+| pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 6 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -49,6 +49,10 @@ Source: [News API](https://newsapi.org/)
 - [What to do if bats are near your house?](https://www.lifesciencesworld.com/what-to-do-if-bats-are-near-your-house/) (Lifesciencesworld.com)
 
 - [Do racoons scream when they have rabies?](https://www.lifesciencesworld.com/do-racoons-scream-when-they-have-rabies/) (Lifesciencesworld.com)
+
+## 26-6 (pertussis)
+
+- [Research: Pertussis: laboratory confirmed cases reported in England 2025](https://www.gov.uk/government/publications/pertussis-laboratory-confirmed-cases-reported-in-england-2025) (Www.gov.uk)
 
 ## 26-6 (mpox)
 
@@ -77,6 +81,12 @@ Source: [News API](https://newsapi.org/)
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
+
+- [CDC Deputy Director Unclear On How It's *His* Job To Prevent Contagious Diseases Like Measles](https://www.wonkette.com/p/cdc-deputy-director-unclear-on-how) (Wonkette.com)
+
+- [Soludo’s wife urges parents to embrace measles-rubella vaccination](https://punchng.com/?p=2055046) (The Punch)
+
+- [14th fatality: Infant dies of measles](https://www.israelnationalnews.com/news/421938) (Israelnationalnews.com)
 
 - [Measles outbreak declared over but health officials warn of ongoing risk with Tauranga case](https://www.nzherald.co.nz/bay-of-plenty-times/news/measles-outbreak-declared-over-but-health-officials-warn-of-ongoing-risk-with-tauranga-case/B6RWVTDLE5HKPCQQHOWYNUXVEE/) (New Zealand Herald)
 
@@ -170,6 +180,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (malaria)
 
+- [Health ministry accused of failing to spray mosquitoes as malaria cases surge in northern Namibia](https://www.namibian.com.na/health-ministry-accused-of-failing-to-spray-mosquitoes-as-malaria-cases-surge-in-northern-namibia/) (Namibian)
+
+- [Authorities uncover illicit biolab operating in Las Vegas home](https://www.wnd.com/2026/02/authorities-uncover-illicit-biolab-operating-las-vegas-home/) (Wnd.com)
+
+- [FBI desmantela biolaboratorio con muestras para covid, VIH y malaria en una casa de Las Vegas](https://www.milenio.com/internacional/fbi-investiga-biolaboratorio-ilegal-hallado-residencia-vegas) (Milenio)
+
+- [Field evaluation of drone and AI assisted larval source management in Ghana](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340690) (Plos.org)
+
 - [Inhibitory NK receptor expression associates with altered antimalarial function of γδ T cells](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013460) (Plos.org)
 
 - [Health ministry records 8 000 malaria cases, 11 deaths in January](https://www.namibian.com.na/health-ministry-records-8-000-malaria-cases-11-deaths-in-january/) (Namibian)
@@ -184,6 +202,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (leptospirosis)
 
+- [Pathogenic Leptospira species identified in dogs and cats during neutering in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013421) (Plos.org)
+
 - [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
 
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
@@ -194,9 +214,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (h5n1)
 
+- [Crow deaths in Chennai due to avian influenza, Centre cautions TN](https://timesofindia.indiatimes.com/city/chennai/crow-deaths-in-chennai-due-to-avian-influenza-centre-cautions-tn/articleshow/127915449.cms) (The Times of India)
+
+- [New nasal vaccine shows strong protection against H5N1 bird flu](https://www.sciencedaily.com/releases/2026/02/260204114343.htm) (Science Daily)
+
 - [Grippe aviaire : la prochaine crise sanitaire que personne ne voit venir](https://www.presse-citron.net/grippe-aviaire-prochaine-crise-sanitaire-personne-voit-venir/) (Presse-citron)
 
 ## 26-6 (dengue)
+
+- [Correction: Demographic-environmental effect on dengue outbreaks in 11 countries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342211) (Plos.org)
 
 - [Las claves detrás de la baja de casos de dengue y las alertas de los especialistas](https://www.lanacion.com.ar/sociedad/las-claves-detras-de-la-baja-de-casos-de-dengue-y-las-alertas-de-los-especialistas-nid03022026/) (La Nacion)
 
@@ -1902,10 +1928,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
-## 25-52 (yersinia)
-
-- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
-
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -2032,10 +2054,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
-- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
-
-- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
-
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -2133,5 +2151,3 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
-
-- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)

@@ -1,8 +1,224 @@
 {
-  "last_updated": "2026-02-05 07:26",
-  "count_articles_total": 917,
-  "count_articles_new": 10,
+  "last_updated": "2026-02-05 19:19",
+  "count_articles_total": 925,
+  "count_articles_new": 12,
   "articles": [
+    {
+      "id": 27325,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "CDC Deputy Director Unclear On How It's *His* Job To Prevent Contagious Diseases Like Measles",
+      "description": "Dr. Ralph Abraham has said measles are just 'the cost of doing business'",
+      "url": "https://www.wonkette.com/p/cdc-deputy-director-unclear-on-how",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!18c9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ab01d27-1038-478b-8219-63dc730a4b4e_1024x647.jpeg",
+      "publishedAt": "2026-02-04 18:32:01",
+      "content": "As of Tuesday, there have been 876 cases in South Carolinas measles outbreak, making it the largest outbreak in the United States since the disease was first considered eradicated in 2000. So far, no\u2026 [+6387 chars]",
+      "retrievedAt": "2026-02-05 19:19:56.776672",
+      "internal_id": "46b3674e4534d9a1b9403e64a29c9e33c40f024824e3ae5d9ea7fee91642c633",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27327,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Soludo\u2019s wife urges parents to embrace measles-rubella vaccination",
+      "description": "Dr. Nonye Soludo, Anambra\u2019s First Lady, launches a state-wide measles-rubella vaccination campaign, urging parents to protect their children. Read More: https://punchng.com/soludos-wife-urges-parents-to-embrace-measles-rubella-vaccination/",
+      "url": "https://punchng.com/?p=2055046",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/02/04183947/IMG-20260204-WA0054-1-768x512.jpg",
+      "publishedAt": "2026-02-04 17:50:06",
+      "content": "The wife of the Anambra State Governor, Dr Nonye Soludo, has officiallyflagged off the Measles-Rubella vaccination in the state, reminding residents that vaccination remains one of the most effective\u2026 [+3422 chars]",
+      "retrievedAt": "2026-02-05 19:19:56.854161",
+      "internal_id": "790ea990ab6e333d6cbd1f8b155c4f6de19d8e285ce522c43d27e22769918b99",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27329,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "P Oppili,Omjasvin M D",
+      "title": "Crow deaths in Chennai due to avian influenza, Centre cautions TN",
+      "description": "CHENNAI: The deaths of several crows in Chennai last month has now been attributed to the H5N1 avian influenza.Following a TOI article on the unexplai.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/crow-deaths-in-chennai-due-to-avian-influenza-centre-cautions-tn/articleshow/127915449.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-127915434,width-1280,height-720,imgsize-793675,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-04 17:16:38",
+      "content": "Follow Us On Social Media No mobile connectivity in 238 Koraput &amp; Rayagada villages: MinisterDelhi Metro completes pollution-control installations at its elevated stations: CM GuptaLavanya Tripa\u2026 [+1600 chars]",
+      "retrievedAt": "2026-02-05 19:19:57.417426",
+      "internal_id": "e3ee60ee605b5d45ebf6a80b52597adef5a3556f6734640c1a3670c777841164",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27334,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Namibian",
+      "author": "Puyeipawa Nakashole",
+      "title": "Health ministry accused of failing to spray mosquitoes as malaria cases surge in northern Namibia",
+      "description": "%%title%% %%sep%% %%primary_category%% %%sep%% %%sitename%% %%sep%% The Ministry of Health and Social Services has been accused of failing to properly implement malaria prevention measures, leading to an increase in the number of cases, including one death.",
+      "url": "https://www.namibian.com.na/health-ministry-accused-of-failing-to-spray-mosquitoes-as-malaria-cases-surge-in-northern-namibia/",
+      "urlToImage": "https://d4f7y6nbupj5z.cloudfront.net/wp-content/uploads/2026/02/Esperance-Luvindao.jpg",
+      "publishedAt": "2026-02-04 17:15:19",
+      "content": "The Ministry of Health and Social Services has been accused of failing to properly implement malaria prevention measures, leading to an increase in the number of cases, including one death. Former h\u2026 [+5234 chars]",
+      "retrievedAt": "2026-02-05 19:19:58.281256",
+      "internal_id": "dfb70284603b279e7b2b016169c0b8f734c8ea4a1cd0faf7ee49fb7c80622a11",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27328,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "New nasal vaccine shows strong protection against H5N1 bird flu",
+      "description": "As bird flu continues to circulate in animals and spill over into humans, researchers are racing to stop it before it adapts to spread widely between people. A new nasal spray vaccine showed strong protection against H5N1 in animal tests, outperforming tradit\u2026",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260204114343.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/intranasal-or-nasal-spray-vaccine.webp",
+      "publishedAt": "2026-02-04 16:43:43",
+      "content": "H5N1 avian influenza, often called bird flu, was first identified in the United States in 2014. Since then, the virus has moved beyond wild birds, spreading into farm animals and eventually infecting\u2026 [+5895 chars]",
+      "retrievedAt": "2026-02-05 19:19:57.398658",
+      "internal_id": "af8cae7820316fdf47beaa8946397f829626ab07ac396a8bbeaf84bf8da5c9e8",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27332,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wnd.com",
+      "author": "Bob Unruh",
+      "title": "Authorities uncover illicit biolab operating in Las Vegas home",
+      "description": "CDC identifies at least 20 potentially infectious agents, including HIV, tuberculosis, and the deadliest form of malaria",
+      "url": "https://www.wnd.com/2026/02/authorities-uncover-illicit-biolab-operating-las-vegas-home/",
+      "urlToImage": "https://www.wnd.com/wp-content/uploads/2026/02/biolab-las-vegas-hazmat-suits-jpg.jpg",
+      "publishedAt": "2026-02-04 16:29:09",
+      "content": "A federal investigation has been launched after the discovery of an illicit biolab operating in a Las Vegas home. Terrifyingly, vials were found labeled HIV, malaria, TB, COVID-19, Ebola and more. \u2026 [+1804 chars]",
+      "retrievedAt": "2026-02-05 19:19:58.261369",
+      "internal_id": "28b5f252fc4989f65a7f886636513fdf20e9568986483a2d5add7559058b9c51",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27331,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Agencia AP",
+      "title": "FBI desmantela biolaboratorio con muestras para covid, VIH y malaria en una casa de Las Vegas",
+      "description": "Un supuesto biolaboratorio hallado en una casa de Las Vegas y ahora bajo investigaci\u00f3n por las autoridades, est\u00e1 vinculado al propietario de un biolaboratorio no autorizado en California que fue arrestado en 2023, dijeron las autoridades el lunes.Los agentes \u2026",
+      "url": "https://www.milenio.com/internacional/fbi-investiga-biolaboratorio-ilegal-hallado-residencia-vegas",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2026/02/04/fbi-participa-investigacion-autoridades-aseguran.jpg",
+      "publishedAt": "2026-02-04 15:28:17",
+      "content": "Un supuesto biolaboratorio hallado en una casa de Las Vegas y ahora bajo investigaci\u00f3n por las autoridades, est\u00e1 vinculado al propietario de un biolaboratorio no autorizado en California que fue arre\u2026 [+2269 chars]",
+      "retrievedAt": "2026-02-05 19:19:58.234096",
+      "internal_id": "0a48bf59f12b245cf30dfb0f8891a2986a7a7cfd9f0ae44766648e8e538fc78a",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27330,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anamul Haque Sajib, Sabina Akter, Goutam Saha, Zakir Hossain",
+      "title": "Correction: Demographic-environmental effect on dengue outbreaks in 11 countries",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342211",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0342211.g001&size=inline",
+      "publishedAt": "2026-02-04 14:00:00",
+      "content": "Citation: Sajib AH, Akter S, Saha G, Hossain Z (2026) Correction: Demographic-environmental effect on dengue outbreaks in 11 countries. PLoS One 21(2): e0342211. https://doi.org/10.1371/journal.po\u2026 [+306 chars]",
+      "retrievedAt": "2026-02-05 19:19:57.617290",
+      "internal_id": "edbea346e1ae22ca4edbb111e304a27d1176274751ec8405518cb15dfd57b134",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27333,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Godfred A. Bokpin, Francis A. Adzei, Samuel Dadzie, Masaki Umeda, Juhoe Kim",
+      "title": "Field evaluation of drone and AI assisted larval source management in Ghana",
+      "description": "Background Malaria remains a major public health burden in sub-Saharan Africa. In Ghana, in particular, larval source management (LSM) is increasingly recognized as a complementary vector control strategy. This study evaluates a field-adapted LSM approach tha\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340690",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0340690.g010&size=inline",
+      "publishedAt": "2026-02-04 14:00:00",
+      "content": "Abstract Background Malaria remains a major public health burden in sub-Saharan Africa. In Ghana, in particular, larval source management (LSM) is increasingly recognized as a complementary vector \u2026 [+70040 chars]",
+      "retrievedAt": "2026-02-05 19:19:58.270878",
+      "internal_id": "ac2cd78ec569c2dfe3a9cc30ec3e9517d701e763cfc1889162e572996847311d",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27335,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Metawee Thongdee, Somjit Chaiwattanarungruengpaisan, Weena Paungpin, Sivapong Sungpradit, Sineenard Jiemtaweeboon, Ekasit Tiyanun, Kanin Ruchisereekul, Sarin Suwanpakdee, Janjira Thaipadungpanit",
+      "title": "Pathogenic Leptospira species identified in dogs and cats during neutering in Thailand",
+      "description": "Author summary Leptospirosis, a neglected zoonotic disease caused by pathogenic species of genus Leptospira, can be transmitted to humans through contact with infected animal body fluids or contaminated environments. Free-ranging dogs and cats can shed infect\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013421",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013421.g003&size=inline",
+      "publishedAt": "2026-02-04 14:00:00",
+      "content": "Introduction The genus Leptospira comprises Gram-negative spirochetes. The primary pathogenic species that cause human leptospirosis worldwide are L. interrogans and L. borgpetersenii [1,2]. Many ma\u2026 [+25833 chars]",
+      "retrievedAt": "2026-02-05 19:19:59.145601",
+      "internal_id": "a3688a7c8e77dc9a31d286b5ec08dd10dcb5e8d52c974f8085d3271a64502545",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27324,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Pertussis: laboratory confirmed cases reported in England 2025",
+      "description": "Laboratory confirmed cases of pertussis reported to the enhanced pertussis surveillance programme in England.",
+      "url": "https://www.gov.uk/government/publications/pertussis-laboratory-confirmed-cases-reported-in-england-2025",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-02-04 10:43:35",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2026-02-05 19:19:55.752557",
+      "internal_id": "93b303ee6809effe2ca7c62d8817562734cb206bfb1c47dd3ebf298572108418",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27326,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "14th fatality: Infant dies of measles",
+      "description": "One-year-old infant brought to hospital with measles complications is declared dead.",
+      "url": "https://www.israelnationalnews.com/news/421938",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1051672.jpg",
+      "publishedAt": "2026-02-04 07:54:00",
+      "content": "An one-year-old infant died Wednesday morning of measles, bringing the number of deaths during the current outbreak to 14. Earlier on Wednesday morning, the infant was brought to a Jerusalem hospita\u2026 [+327 chars]",
+      "retrievedAt": "2026-02-05 19:19:56.836294",
+      "internal_id": "04ce6a0c05e3af842eb627d2001a6ecf59becb9d824e6d65759c441a1f5bab15",
+      "publishedAtLabel": "Feb 4"
+    },
     {
       "id": 27314,
       "query": [
@@ -16474,78 +16690,6 @@
       "retrievedAt": "2025-12-23 07:10:40.791010",
       "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
       "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 26407,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Measles outbreak grows to 8 cases in Quebec",
-      "description": "On Sunday morning, Dr. Antonio D'Angelo, the head of the pediatric emergency department at CHU Sainte-Justine, told Radio-Canada there had been two confirmed cases of measles at his Montreal hospital over the past week.",
-      "url": "https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507",
-      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-      "publishedAt": "2025-12-21 18:15:39",
-      "content": "The number of measles cases in Quebec is growing as an outbreak is underway. On the morning of Dec. 19, eight cases were confirmed in the Lanaudi\u00e8re region, the Laurentians, Laval, Que., and Montre\u2026 [+1342 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.584798",
-      "internal_id": "eb793bfc18d96a058342631f57537964f36d318a189b7dd6dceaa37c85f1332f",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26410,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Zoomit.ir",
-      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
-      "title": "\u0645\u0648\u0634\u200c\u0647\u0627 \u0646\u0627\u0642\u0644 \u0637\u0627\u0639\u0648\u0646 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0646\u0628\u0648\u062f\u0646\u062f\u061b \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0645\u062a\u0647\u0645 \u0627\u0635\u0644\u06cc \u0631\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646\u062f",
-      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u067e\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0686\u06af\u0648\u0646\u06af\u06cc \u0634\u06cc\u0648\u0639 \u0637\u0627\u0639\u0648\u0646 \u062f\u0631 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0628\u0648\u062f\u0646\u062f. \u067e\u0627\u0633\u062e \u0627\u06cc\u0646 \u0645\u0639\u0645\u0627 \u0646\u0647 \u062f\u0631 \u0628\u0642\u0627\u06cc\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u060c \u0628\u0644\u06a9\u0647 \u062f\u0631 \u062f\u0646\u062f\u0627\u0646 \u06cc\u06a9 \u062d\u06cc\u0648\u0627\u0646 \u0627\u0647\u0644\u06cc \u067e\u0646\u0647\u0627\u0646 \u0628\u0648\u062f.",
-      "url": "https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/",
-      "urlToImage": "https://api2.zoomit.ir/media/bronze-age-shepherd-tending-to-a-flock-of-primitive-looking-sheep-69429aef1173a30185c30ebd",
-      "publishedAt": "2025-12-21 17:45:00",
-      "content": ": . . . . : . . . . \u00ab \u00bb : . . (Yersinia pestis) . . . : ( ) . . . . . . . . . . . . ( ) . . . Cell .",
-      "retrievedAt": "2025-12-22 19:06:50.878529",
-      "internal_id": "d5634cb4939435ffb43fdba56bbece41ac087d04c373ce273a73fa4b2ecd541a",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26409,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Blanca Valadez",
-      "title": "Secretar\u00eda de Salud alerta por emergencia de fiebre chikungunya en M\u00e9xico",
-      "description": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inform\u00f3 el Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (C\u2026",
-      "url": "https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/16/ssj-intensifica-campana-lava-voltea-1.jpg",
-      "publishedAt": "2025-12-21 16:14:46",
-      "content": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inf\u2026 [+4026 chars]",
-      "retrievedAt": "2025-12-22 19:06:50.243368",
-      "internal_id": "bdb8314e281e293eee8fb9243901da4d224798451ec19efaf7a170cb8aabfa42",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26408,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Rolling Out",
-      "author": "David Kesiena",
-      "title": "Measles cases surge despite 88% drop in deaths since 2000",
-      "description": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% reduction in measles deaths between 2000 and 2024, saving nearly\u2026",
-      "url": "https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
-      "publishedAt": "2025-12-21 11:20:08",
-      "content": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% redu\u2026 [+7093 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.624928",
-      "internal_id": "c8ede8d881c75d73bb81e9dc98c7502ed8464cc9c3082c5faf92728c73973136",
-      "publishedAtLabel": "Dec 21"
     }
   ]
 }
