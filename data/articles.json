@@ -1,8 +1,296 @@
 {
-  "last_updated": "2026-02-05 19:19",
-  "count_articles_total": 925,
-  "count_articles_new": 12,
+  "last_updated": "2026-02-06 07:24",
+  "count_articles_total": 945,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 27346,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Detecting Influenza A(H5N1) Viruses through Severe Acute Respiratory Infection Surveillance, Cambodia",
+      "description": "Detecting Influenza A(H5N1) Viruses through Severe Acute Respiratory Infection Surveillance",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/3/25-0832_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-02-05 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Novel influenza A viruses \u2026 [+5877 chars]",
+      "retrievedAt": "2026-02-06 07:24:21.223377",
+      "internal_id": "14be529ed01e38fbd3566cc342f0daa7b1dd913de05238c0275d60d54cb82380",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27350,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Chikungunya in Suriname",
+      "description": "There is an outbreak of chikungunya in Suriname. You can protect yourself by preventing mosquito bites.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-suriname",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2026-02-05 05:00:00",
+      "content": "Chikungunya disease is caused by the chikungunya virus and is spread to humans through mosquito bites. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, the Caribbean, and India\u2026 [+700 chars]",
+      "retrievedAt": "2026-02-06 07:24:22.206553",
+      "internal_id": "9299fb3d5d0748ce966f584d67d423905cc8a814afad16e98408ed2b03c310a8",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27351,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Chikungunya in Seychelles",
+      "description": "There is an outbreak of chikungunya in Seychelles. You can protect yourself by preventing mosquito bites.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-seychelles",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2026-02-05 05:00:00",
+      "content": "Chikungunya disease is caused by the chikungunya virus and is spread to humans through mosquito bites. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, the Caribbean, and India\u2026 [+700 chars]",
+      "retrievedAt": "2026-02-06 07:24:22.215856",
+      "internal_id": "7f757c0283e120b72151e85ab63a2aace10e1ef8d97806632be8de8a80afaa85",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27340,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Timothy Geigner",
+      "title": "Measles Has Now Begun To Infect Immigrant Detention Camps",
+      "description": "It\u2019s darkly funny, in a way, to recall a racist trope that gets trotted out about immigration all the time: immigrants bring disease into the country. That in itself isn\u2019t funny, obviously. The funny part is that it seems like we\u2019re proving the opposite to be\u2026",
+      "url": "https://www.techdirt.com/2026/02/04/measles-has-now-begun-to-infect-immigrant-detention-camps/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-02-05 03:55:24",
+      "content": "from the cascading-failure dept It\u2019s darkly funny, in a way, to recall a racist trope that gets trotted out about immigration all the time: immigrants bring disease into the country. That in itself \u2026 [+4640 chars]",
+      "retrievedAt": "2026-02-06 07:24:20.695444",
+      "internal_id": "e9c851547d45e22d31d4ce3fc7db4c693f5fe4a6ccee564d101df6368eef9f92",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27337,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Can you fly a dog out of Hawaii?",
+      "description": "Can You Fly A Dog Out Of Hawaii? A Comprehensive Guide Yes, you absolutely can fly a dog out of Hawaii. However, due to Hawaii\u2019s strict quarantine laws to protect against rabies, it\u2019s essential to understand and meticulously follow the necessary procedures to\u2026",
+      "url": "https://www.lifesciencesworld.com/can-you-fly-a-dog-out-of-hawaii/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-05 03:25:32",
+      "content": "Yes, you absolutely can fly a dog out of Hawaii.However, due to Hawaii\u2019s strict quarantine laws to protect against rabies, it\u2019s essential to understand and meticulously follow the necessary procedure\u2026 [+9091 chars]",
+      "retrievedAt": "2026-02-06 07:24:20.429456",
+      "internal_id": "24b6cb5454dcd6cff00c4771f4888d5255f28b88b7551403a8358d99b24ec466",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27336,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What happens if a possum bites a human?",
+      "description": "What Happens If a Possum Bites a Human? A possum bite, while relatively rare, can lead to localized pain, swelling, and a risk of bacterial infection; however, the likelihood of contracting rabies from a possum bite is extremely low due to their unique physio\u2026",
+      "url": "https://www.lifesciencesworld.com/what-happens-if-a-possum-bites-a-human/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-05 02:46:11",
+      "content": "What Happens If a Possum Bites a Human? A possum bite, while relatively rare, can lead to localized pain, swelling, and a risk of bacterial infection; however, the likelihood of contracting rabies f\u2026 [+7988 chars]",
+      "retrievedAt": "2026-02-06 07:24:20.411535",
+      "internal_id": "a8ce3a31bd98027900f35597d66c6305a6c9dc8981bf23cff44e44184439aff1",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27338,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "kottke.org",
+      "author": "Jason Kottke",
+      "title": "Measles Is Causing Brain Swelling in Children in South...",
+      "description": "Measles Is Causing Brain Swelling in Children in South Carolina. 876 measles cases in the state so far, and some children have developed encephalitis. \u201cAmong ch",
+      "url": "https://kottke.org/26/02/0048322-measles-is-causing-brain-",
+      "urlToImage": "",
+      "publishedAt": "2026-02-05 02:04:01",
+      "content": "\u00d7Hello! In order to comment or fave, you need to be a current kottke.org member. If you'd like to sign up for a membership to support the site and join the conversation, you can explore your option\u2026 [+341 chars]",
+      "retrievedAt": "2026-02-06 07:24:20.677180",
+      "internal_id": "27cf0656c5fa951b301879d69095aa08f004bb7838a7660664dacaf8fa915f77",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27339,
+      "query": [
+        "measles"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera Staff",
+      "title": "UN agency warns of \u2018sharp increase\u2019 in measles cases in the Americas",
+      "description": "Mexico and the US both reported thousands of measles cases last year, threatening their measles elimination status.",
+      "url": "https://www.aljazeera.com/news/2026/2/5/un-agency-warns-of-sharp-increase-in-measles-cases-in-the-americas",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/02/AP26035677803248-1770245614.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-02-05 00:32:11",
+      "content": "The Pan American Health Organization (PAHO), a United Nations agency, has issued a new report warning of an uptick in measles cases throughout the region. On Wednesday, the organisation issued an ep\u2026 [+4375 chars]",
+      "retrievedAt": "2026-02-06 07:24:20.686767",
+      "internal_id": "0393652d59044d8c4b14011b039ad6d3211826748181f956d5ba1183e79c90b3",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27347,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Francisco Corval\u00e1n",
+      "title": "Luis Emilio Pizarro: \u201cVa a haber dengue en Chile; es importante decir c\u00f3mo nos vamos a preparar para eso\u201d",
+      "description": "El director de la ONG DNDi, Dr. Luis Pizarro, advierte que la llegada del Aedes aegypti a Santiago marca un punto de inflexi\u00f3n: Chile deja de ser la excepci\u00f3n y enfrenta el desaf\u00edo de anticiparse al dengue y otras enfermedades antes de que se transformen en c\u2026",
+      "url": "https://www.latercera.com/nacional/noticia/luis-emilio-pizarro-va-a-haber-dengue-en-chile-es-importante-decir-como-nos-vamos-a-preparar-para-eso/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/YRKVZGQXTVG6NAC5SQVHC5YZGE.JPG?auth=2da3a21d6e93370fb71a37c9eaf35aa45a2f85444966965269b91c42aaef5e27&height=630&width=1200&smart=true",
+      "publishedAt": "2026-02-04 23:43:14",
+      "content": "El m\u00e9dico chileno-franc\u00e9s, Luis Emilio Pizarro, observa el avance del mosquito Aedes aegypti con la distancia de quien lleva a\u00f1os siguiendo su expansi\u00f3n global. Ha dedicado su carrera a enfrentar las\u2026 [+6103 chars]",
+      "retrievedAt": "2026-02-06 07:24:21.449336",
+      "internal_id": "14792cc56414aade9cf3b28bf89f34ba6818fc7d3c63c96e6d27401149f2f035",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27342,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "Measles outbreak in South Carolina continues but may be slowing",
+      "description": "South Carolina released the newest numbers on its measles outbreak, and there's news of other cases around the country.",
+      "url": "https://www.npr.org/2026/02/04/nx-s1-5697043/measles-outbreak-in-south-carolina-continues-but-may-be-slowing",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "publishedAt": "2026-02-04 22:41:30",
+      "content": "South Carolina released the newest numbers on its measles outbreak, and there's news of other cases around the country.",
+      "retrievedAt": "2026-02-06 07:24:20.754069",
+      "internal_id": "96711567c4c539223a875d9d461a97bf5c62c39ad0448a80ecac0458b8d421f7",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27343,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Regional health organization issues alert as measles cases surge across the Americas",
+      "description": "The Pan American Health Organization has issued an alert due to a surge in measles cases across the Americas, with Mexico reporting the highest numbers",
+      "url": "https://abcnews.go.com/International/wireStory/regional-health-organization-issues-alert-measles-cases-surge-129865049",
+      "urlToImage": "https://i.abcnewsfe.com/a/6fe153c3-cce7-4876-9435-f7cd9670fa14/wirestory_2739da761b7909df529bee3cbf16e74d_16x9.jpg?w=1600",
+      "publishedAt": "2026-02-04 22:38:33",
+      "content": "MEXICO CITY -- The Pan American Health Organization, PAHO, on Wednesday issued a new epidemiological alert following a surge of measles cases across the Americas, with Mexico reporting the highest nu\u2026 [+2585 chars]",
+      "retrievedAt": "2026-02-06 07:24:20.846597",
+      "internal_id": "65c70fa68a0188225f59097dbdebc6e26a573fa581629088fb86a8617ff677d0",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27349,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Wattsupwiththat.com",
+      "author": "Charles Rotter",
+      "title": "Turning \u201cWhat If\u201d into \u201cHow Many\u201d: The Rhetorical Alchemy of Climate Modeling",
+      "description": "Deep in the paper, uncertainty is emphasized, limitations are acknowledged, and projections are framed as exploratory. In the abstract, figures, and conclusions, those same exploratory outputs are converted into quantified impacts with an unmistakable air of \u2026",
+      "url": "https://wattsupwiththat.com/2026/02/04/turning-what-if-into-how-many-the-rhetorical-alchemy-of-climate-modeling/",
+      "urlToImage": "https://i0.wp.com/wattsupwiththat.com/wp-content/uploads/2026/02/Gemini_climate-model-house-of-cards.webp?fit=1024%2C512&quality=75&ssl=1",
+      "publishedAt": "2026-02-04 22:00:00",
+      "content": "Charles Rotter A recent Nature paper, Projected impacts of climate change on malaria in Africa, provides a textbook example of how layered model uncertainty can be transformedthrough careful framing\u2026 [+11401 chars]",
+      "retrievedAt": "2026-02-06 07:24:21.870810",
+      "internal_id": "805a1d90993373a5b4114c053cba248e8643d95a64d38b616816c354e44a84c1",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27344,
+      "query": [
+        "measles"
+      ],
+      "source_id": "wired",
+      "source_name": "Wired",
+      "author": "Emily Mullin",
+      "title": "Measles Is Causing Brain Swelling in Children in South Carolina",
+      "description": "In the ongoing measles outbreak in South Carolina that has infected more than 800 people, some children have developed a rare but serious complication called encephalitis.",
+      "url": "https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/",
+      "urlToImage": "https://media.wired.com/photos/698395e087ec5034b0c0037c/191:100/w_1280,c_limit/Measles-Cases-Leading-to-Encephalitis-Science-1339206252.jpg",
+      "publishedAt": "2026-02-04 21:15:18",
+      "content": "Some children affected by measles in the ongoing South Carolina outbreak have developed a serious complication of the disease called encephalitis, or swelling of the brain, state epidemiologist Linda\u2026 [+3383 chars]",
+      "retrievedAt": "2026-02-06 07:24:20.871614",
+      "internal_id": "3c58813a9e2ef7fd60091c46ba6873f9d77eb1af2e1e1c670e8f4c10ffe63f58",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27348,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Mondoweiss",
+      "author": "Tareq S. Hajjaj",
+      "title": "A deadly meningitis outbreak is threatening Gaza\u2019s children",
+      "description": "Bacterial meningitis is spreading among children in Gaza, including those who are vaccinated. Officials say conditions in Gaza's displacement camps, widespread malnutrition, and Israeli bans on the entry of medicines are increasing the deadly risk.",
+      "url": "https://mondoweiss.net/2026/02/a-deadly-meningitis-outbreak-is-threatening-gazas-children/",
+      "urlToImage": "https://mondoweiss.net/wp-content/uploads/2026/02/300126_Khan_Yunes_TM_004-scaled.jpg",
+      "publishedAt": "2026-02-04 20:18:27",
+      "content": "On January 23, 11-year-old Aline Asfour received her third-grade graduation certificate with honors, scoring in the 98th percentile and ranking first in her class. Her family celebrated her academic \u2026 [+8906 chars]",
+      "retrievedAt": "2026-02-06 07:24:21.617123",
+      "internal_id": "291210b01c685fdd8807d2b192a186e3397b2ff22dfbae09d25f731df7a67dcd",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27345,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "ANNE GARBER | Deputy Correspondent Coordinator",
+      "title": "Those at Lancaster County school district, performing arts academy possibly exposed to measles",
+      "description": "Cocalico School District and Lancaster Academy of Performing Arts are helping the state perform contact tracing related to the five cases of measles confirmed in Lancaster County on Monday.",
+      "url": "https://lancasteronline.com/news/health/those-at-lancaster-county-school-district-performing-arts-academy-possibly-exposed-to-measles/article_cf7af5b1-24fb-423b-9e3b-5356e034cbe1.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/61/361b007e-98d1-11e7-a449-7fc7aa9497dc/59b9ae7048922.image.jpg?crop=1781%2C935%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-02-04 20:12:00",
+      "content": "Cocalico School District and Lancaster Academy of Performing Arts are helping the state perform contact tracing related to the five cases of measles confirmed in Lancaster County on Monday. Individu\u2026 [+1255 chars]",
+      "retrievedAt": "2026-02-06 07:24:20.928160",
+      "internal_id": "0693da8625543a450cb27702a31096c368455d12e14c54db70323d3d17c9780a",
+      "publishedAtLabel": "Feb 4"
+    },
+    {
+      "id": 27341,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "NewsHound Ellen",
+      "title": "Measles Broke Out At TX Detention Center Holding Liam Ramos",
+      "description": "I\u2019m not normally a conspiracy theorist but this story has deep overtones of Nazi concentration camps. According to The Texas Tribune, two measles cases were \u201cfirst confirmed\u201d on Saturday at the country\u2019s only immigrant family detention center, 70 miles south\u2026",
+      "url": "https://crooksandliars.com/2026/02/measles-broke-out-tx-detention-center",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/26/02/liam_ramos_for_020326.png",
+      "publishedAt": "2026-02-04 19:41:09",
+      "content": "Im not normally a conspiracy theorist but this story has deep overtones of Nazi concentration camps. According to The Texas Tribune, two measles cases were first confirmed on Saturday at the countr\u2026 [+1478 chars]",
+      "retrievedAt": "2026-02-06 07:24:20.712947",
+      "internal_id": "611e9f4f09084771fbcb3b337ea688eb11f75a01d7f83e9b5382f4d2498e790f",
+      "publishedAtLabel": "Feb 4"
+    },
     {
       "id": 27325,
       "query": [
@@ -16690,6 +16978,78 @@
       "retrievedAt": "2025-12-23 07:10:40.791010",
       "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
       "publishedAtLabel": "Dec 22"
+    },
+    {
+      "id": 26407,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreak grows to 8 cases in Quebec",
+      "description": "On Sunday morning, Dr. Antonio D'Angelo, the head of the pediatric emergency department at CHU Sainte-Justine, told Radio-Canada there had been two confirmed cases of measles at his Montreal hospital over the past week.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507",
+      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2025-12-21 18:15:39",
+      "content": "The number of measles cases in Quebec is growing as an outbreak is underway. On the morning of Dec. 19, eight cases were confirmed in the Lanaudi\u00e8re region, the Laurentians, Laval, Que., and Montre\u2026 [+1342 chars]",
+      "retrievedAt": "2025-12-22 19:06:48.584798",
+      "internal_id": "eb793bfc18d96a058342631f57537964f36d318a189b7dd6dceaa37c85f1332f",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26410,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Zoomit.ir",
+      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
+      "title": "\u0645\u0648\u0634\u200c\u0647\u0627 \u0646\u0627\u0642\u0644 \u0637\u0627\u0639\u0648\u0646 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0646\u0628\u0648\u062f\u0646\u062f\u061b \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0645\u062a\u0647\u0645 \u0627\u0635\u0644\u06cc \u0631\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646\u062f",
+      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u067e\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0686\u06af\u0648\u0646\u06af\u06cc \u0634\u06cc\u0648\u0639 \u0637\u0627\u0639\u0648\u0646 \u062f\u0631 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0628\u0648\u062f\u0646\u062f. \u067e\u0627\u0633\u062e \u0627\u06cc\u0646 \u0645\u0639\u0645\u0627 \u0646\u0647 \u062f\u0631 \u0628\u0642\u0627\u06cc\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u060c \u0628\u0644\u06a9\u0647 \u062f\u0631 \u062f\u0646\u062f\u0627\u0646 \u06cc\u06a9 \u062d\u06cc\u0648\u0627\u0646 \u0627\u0647\u0644\u06cc \u067e\u0646\u0647\u0627\u0646 \u0628\u0648\u062f.",
+      "url": "https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/",
+      "urlToImage": "https://api2.zoomit.ir/media/bronze-age-shepherd-tending-to-a-flock-of-primitive-looking-sheep-69429aef1173a30185c30ebd",
+      "publishedAt": "2025-12-21 17:45:00",
+      "content": ": . . . . : . . . . \u00ab \u00bb : . . (Yersinia pestis) . . . : ( ) . . . . . . . . . . . . ( ) . . . Cell .",
+      "retrievedAt": "2025-12-22 19:06:50.878529",
+      "internal_id": "d5634cb4939435ffb43fdba56bbece41ac087d04c373ce273a73fa4b2ecd541a",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26409,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Milenio",
+      "author": "Blanca Valadez",
+      "title": "Secretar\u00eda de Salud alerta por emergencia de fiebre chikungunya en M\u00e9xico",
+      "description": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inform\u00f3 el Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (C\u2026",
+      "url": "https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/16/ssj-intensifica-campana-lava-voltea-1.jpg",
+      "publishedAt": "2025-12-21 16:14:46",
+      "content": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inf\u2026 [+4026 chars]",
+      "retrievedAt": "2025-12-22 19:06:50.243368",
+      "internal_id": "bdb8314e281e293eee8fb9243901da4d224798451ec19efaf7a170cb8aabfa42",
+      "publishedAtLabel": "Dec 21"
+    },
+    {
+      "id": 26408,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Out",
+      "author": "David Kesiena",
+      "title": "Measles cases surge despite 88% drop in deaths since 2000",
+      "description": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% reduction in measles deaths between 2000 and 2024, saving nearly\u2026",
+      "url": "https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
+      "publishedAt": "2025-12-21 11:20:08",
+      "content": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% redu\u2026 [+7093 chars]",
+      "retrievedAt": "2025-12-22 19:06:48.624928",
+      "internal_id": "c8ede8d881c75d73bb81e9dc98c7502ed8464cc9c3082c5faf92728c73973136",
+      "publishedAtLabel": "Dec 21"
     }
   ]
 }

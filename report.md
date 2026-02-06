@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2026-02-05 19:19
-- **Most recent article:** 2026-02-04 18:32:01
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-02-06 07:24
+- **Most recent article:** 2026-02-05 05:00:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 28 | 35 | 26 | 47 | 63 | 88 | 76 | 48 | 411 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 6 | 99 |
-| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 6 | 81 |
-| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 3 | 75 |
-| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 10 | 63 |
+| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 56 | 421 |
+| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 7 | 100 |
+| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 8 | 83 |
+| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 4 | 76 |
+| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 11 | 64 |
+| meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 53 |
 | mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 8 | 52 |
-| meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 3 | 52 |
-| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 3 | 33 |
+| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 5 | 36 |
 | leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 26 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
 | hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
-| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 14 |
+| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
 | typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
 | pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 6 |
 
@@ -37,6 +37,10 @@ Source: [News API](https://newsapi.org/)
 - [Editorial: GHS Mandatory Typhoid Vaccination For Food Vendors Is Very Laudable](https://thechronicle.com.gh/editorial-ghs-mandatory-typhoid-vaccination-for-food-vendors-is-very-laudable/) (Thechronicle.com.gh)
 
 ## 26-6 (rabies)
+
+- [Can you fly a dog out of Hawaii?](https://www.lifesciencesworld.com/can-you-fly-a-dog-out-of-hawaii/) (Lifesciencesworld.com)
+
+- [What happens if a possum bites a human?](https://www.lifesciencesworld.com/what-happens-if-a-possum-bites-a-human/) (Lifesciencesworld.com)
 
 - [What if my dog came in contact with a raccoon?](https://www.lifesciencesworld.com/what-if-my-dog-came-in-contact-with-a-raccoon/) (Lifesciencesworld.com)
 
@@ -74,6 +78,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (meningitis)
 
+- [A deadly meningitis outbreak is threatening Gaza’s children](https://mondoweiss.net/2026/02/a-deadly-meningitis-outbreak-is-threatening-gazas-children/) (Mondoweiss)
+
 - [Kano probes diphtheria, meningitis scare in community](https://punchng.com/kano-probes-diphtheria-meningitis-scare-in-community/) (The Punch)
 
 - [Meningitis cases rise in major Midwestern city, prompting public health alert](https://www.foxnews.com/health/meningitis-cases-rise-major-midwestern-city-prompting-public-health-alert) (Fox News)
@@ -81,6 +87,22 @@ Source: [News API](https://newsapi.org/)
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
+
+- [Measles Has Now Begun To Infect Immigrant Detention Camps](https://www.techdirt.com/2026/02/04/measles-has-now-begun-to-infect-immigrant-detention-camps/) (Techdirt)
+
+- [Measles Is Causing Brain Swelling in Children in South...](https://kottke.org/26/02/0048322-measles-is-causing-brain-) (kottke.org)
+
+- [UN agency warns of ‘sharp increase’ in measles cases in the Americas](https://www.aljazeera.com/news/2026/2/5/un-agency-warns-of-sharp-increase-in-measles-cases-in-the-americas) (Al Jazeera English)
+
+- [Measles outbreak in South Carolina continues but may be slowing](https://www.npr.org/2026/02/04/nx-s1-5697043/measles-outbreak-in-south-carolina-continues-but-may-be-slowing) (NPR)
+
+- [Regional health organization issues alert as measles cases surge across the Americas](https://abcnews.go.com/International/wireStory/regional-health-organization-issues-alert-measles-cases-surge-129865049) (ABC News)
+
+- [Measles Is Causing Brain Swelling in Children in South Carolina](https://www.wired.com/story/measles-is-causing-brain-swelling-in-children-in-south-carolina/) (Wired)
+
+- [Those at Lancaster County school district, performing arts academy possibly exposed to measles](https://lancasteronline.com/news/health/those-at-lancaster-county-school-district-performing-arts-academy-possibly-exposed-to-measles/article_cf7af5b1-24fb-423b-9e3b-5356e034cbe1.html) (LancasterOnline)
+
+- [Measles Broke Out At TX Detention Center Holding Liam Ramos](https://crooksandliars.com/2026/02/measles-broke-out-tx-detention-center) (Crooksandliars.com)
 
 - [CDC Deputy Director Unclear On How It's *His* Job To Prevent Contagious Diseases Like Measles](https://www.wonkette.com/p/cdc-deputy-director-unclear-on-how) (Wonkette.com)
 
@@ -180,6 +202,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (malaria)
 
+- [Turning “What If” into “How Many”: The Rhetorical Alchemy of Climate Modeling](https://wattsupwiththat.com/2026/02/04/turning-what-if-into-how-many-the-rhetorical-alchemy-of-climate-modeling/) (Wattsupwiththat.com)
+
 - [Health ministry accused of failing to spray mosquitoes as malaria cases surge in northern Namibia](https://www.namibian.com.na/health-ministry-accused-of-failing-to-spray-mosquitoes-as-malaria-cases-surge-in-northern-namibia/) (Namibian)
 
 - [Authorities uncover illicit biolab operating in Las Vegas home](https://www.wnd.com/2026/02/authorities-uncover-illicit-biolab-operating-las-vegas-home/) (Wnd.com)
@@ -214,6 +238,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (h5n1)
 
+- [Detecting Influenza A(H5N1) Viruses through Severe Acute Respiratory Infection Surveillance, Cambodia](https://wwwnc.cdc.gov/eid/article/32/3/25-0832_article) (Cdc.gov)
+
 - [Crow deaths in Chennai due to avian influenza, Centre cautions TN](https://timesofindia.indiatimes.com/city/chennai/crow-deaths-in-chennai-due-to-avian-influenza-centre-cautions-tn/articleshow/127915449.cms) (The Times of India)
 
 - [New nasal vaccine shows strong protection against H5N1 bird flu](https://www.sciencedaily.com/releases/2026/02/260204114343.htm) (Science Daily)
@@ -221,6 +247,8 @@ Source: [News API](https://newsapi.org/)
 - [Grippe aviaire : la prochaine crise sanitaire que personne ne voit venir](https://www.presse-citron.net/grippe-aviaire-prochaine-crise-sanitaire-personne-voit-venir/) (Presse-citron)
 
 ## 26-6 (dengue)
+
+- [Luis Emilio Pizarro: “Va a haber dengue en Chile; es importante decir cómo nos vamos a preparar para eso”](https://www.latercera.com/nacional/noticia/luis-emilio-pizarro-va-a-haber-dengue-en-chile-es-importante-decir-como-nos-vamos-a-preparar-para-eso/) (Latercera.com)
 
 - [Correction: Demographic-environmental effect on dengue outbreaks in 11 countries](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342211) (Plos.org)
 
@@ -235,6 +263,10 @@ Source: [News API](https://newsapi.org/)
 - [Juntos Contra a Dengue: EPTV lança campanha para alertar sobre perigos da doença e combater mosquito transmissor](https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/02/juntos-contra-a-dengue-eptv-lanca-campanha-para-alertar-sobre-perigos-da-doenca-e-combater-mosquito-transmissor.ghtml) (Globo)
 
 ## 26-6 (chikungunya)
+
+- [Level 2 - Chikungunya in Suriname](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-suriname) (Cdc.gov)
+
+- [Level 2 - Chikungunya in Seychelles](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-seychelles) (Cdc.gov)
 
 - [Valneva and Instituto Butantan Announce Initiation of a Pilot Vaccination Campaign in Brazil with Single-Shot Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2026/02/03/3230724/0/en/Valneva-and-Instituto-Butantan-Announce-Initiation-of-a-Pilot-Vaccination-Campaign-in-Brazil-with-Single-Shot-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
 
@@ -1928,6 +1960,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
+## 25-52 (yersinia)
+
+- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
+
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -2054,6 +2090,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
+- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
+
+- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
+
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -2151,3 +2191,5 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
+
+- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)
