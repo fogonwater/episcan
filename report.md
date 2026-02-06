@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2026-02-06 07:24
-- **Most recent article:** 2026-02-05 05:00:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2026-02-06 19:19
+- **Most recent article:** 2026-02-05 19:10:29
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 56 | 421 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 7 | 100 |
-| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 8 | 83 |
-| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 4 | 76 |
-| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 11 | 64 |
+| measles | 28 | 35 | 26 | 47 | 63 | 88 | 76 | 62 | 425 |
+| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 9 | 102 |
+| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 10 | 85 |
+| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 5 | 77 |
+| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 13 | 66 |
+| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 10 | 54 |
 | meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 53 |
-| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 8 | 52 |
-| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 5 | 36 |
+| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 5 | 35 |
 | leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 26 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
 | hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
-| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
+| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 14 |
 | typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
 | pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 6 |
 
@@ -37,6 +37,10 @@ Source: [News API](https://newsapi.org/)
 - [Editorial: GHS Mandatory Typhoid Vaccination For Food Vendors Is Very Laudable](https://thechronicle.com.gh/editorial-ghs-mandatory-typhoid-vaccination-for-food-vendors-is-very-laudable/) (Thechronicle.com.gh)
 
 ## 26-6 (rabies)
+
+- [Gabriellas, 24, rabiesskräck i Vietnam: ”Demonhund”](https://www.expressen.se/nyheter/varlden/gabriellas-24-rabiesskrack-i-vietnam-demonhund/) (Expressen.se)
+
+- [Can you get rabies from a hedgehog bite?](https://www.lifesciencesworld.com/can-you-get-rabies-from-a-hedgehog-bite/) (Lifesciencesworld.com)
 
 - [Can you fly a dog out of Hawaii?](https://www.lifesciencesworld.com/can-you-fly-a-dog-out-of-hawaii/) (Lifesciencesworld.com)
 
@@ -59,6 +63,10 @@ Source: [News API](https://newsapi.org/)
 - [Research: Pertussis: laboratory confirmed cases reported in England 2025](https://www.gov.uk/government/publications/pertussis-laboratory-confirmed-cases-reported-in-england-2025) (Www.gov.uk)
 
 ## 26-6 (mpox)
+
+- [Ascienden a 12 los casos de viruela del mono detectados en Galicia](https://www.europapress.es/galicia/noticia-ascienden-12-casos-viruela-mono-detectados-galicia-20260205185409.html) (Europapress.es)
+
+- [Los casos del brote de «mpox» en Galicia se elevan a 12](https://www.lavozdegalicia.es/noticia/sociedad/2026/02/05/casos-brote-mpox-galicia-elevan-12/00031770310690982347265.htm) (Lavozdegalicia.es)
 
 - [The mpox epidemic is not over: Reducing disproportionate burden in Africa and persistent global risk require a sustained response](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004893) (Plos.org)
 
@@ -87,6 +95,18 @@ Source: [News API](https://newsapi.org/)
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
+
+- [Measles outbreak in Mexico prompts health alert in World Cup host Jalisco](https://abcnews.go.com/Health/wireStory/measles-outbreak-mexico-prompts-health-alert-world-cup-129892256) (ABC News)
+
+- [South Carolina measles outbreak is triggering dangerous brain swelling in some children](https://www.scientificamerican.com/article/south-carolina-measles-outbreak-triggering-encephalitis-brain-swelling/) (Scientific American)
+
+- [Measles Infection Count in January Topped Total Cases in 2023 and 2024 Combined](https://truthout.org/articles/measles-infection-count-in-january-topped-total-cases-in-2023-and-2024-combined/) (Truthout)
+
+- [Measles continues to spread in the US, but with some letup](https://www.npr.org/2026/02/05/nx-s1-5698522/measles-south-carolina-ice-detention-facilities) (NPR)
+
+- [America’s Future With Measles Is Hanging in the Balance](https://www.theatlantic.com/health/2026/02/measles-vaccination-rebound-when/685889/) (The Atlantic)
+
+- [Manitoba still faces challenge in curbing measles a year into outbreak: community health prof](https://www.cbc.ca/news/canada/manitoba/measles-confirmed-cases-1-year-outbreak-9.7074702) (CBC News)
 
 - [Measles Has Now Begun To Infect Immigrant Detention Camps](https://www.techdirt.com/2026/02/04/measles-has-now-begun-to-infect-immigrant-detention-camps/) (Techdirt)
 
@@ -202,6 +222,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (malaria)
 
+- [emod-malaria 2.32.0](https://pypi.org/project/emod-malaria/2.32.0/) (Pypi.org)
+
+- [KZN Health reassures residents as malaria cases rise in flood-hit Mpumalanga](https://www.ecr.co.za/news/news/kzn-health-reassures-malaria-cases-flood-mpumalanga/) (Ecr.co.za)
+
 - [Turning “What If” into “How Many”: The Rhetorical Alchemy of Climate Modeling](https://wattsupwiththat.com/2026/02/04/turning-what-if-into-how-many-the-rhetorical-alchemy-of-climate-modeling/) (Wattsupwiththat.com)
 
 - [Health ministry accused of failing to spray mosquitoes as malaria cases surge in northern Namibia](https://www.namibian.com.na/health-ministry-accused-of-failing-to-spray-mosquitoes-as-malaria-cases-surge-in-northern-namibia/) (Namibian)
@@ -238,6 +262,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (h5n1)
 
+- [Nova vacina nasal mostra proteção promissora contra gripe aviária H5N1](https://www.metropoles.com/saude/vacina-nasal-contra-gripe-aviaria) (Metropoles.com)
+
 - [Detecting Influenza A(H5N1) Viruses through Severe Acute Respiratory Infection Surveillance, Cambodia](https://wwwnc.cdc.gov/eid/article/32/3/25-0832_article) (Cdc.gov)
 
 - [Crow deaths in Chennai due to avian influenza, Centre cautions TN](https://timesofindia.indiatimes.com/city/chennai/crow-deaths-in-chennai-due-to-avian-influenza-centre-cautions-tn/articleshow/127915449.cms) (The Times of India)
@@ -247,6 +273,10 @@ Source: [News API](https://newsapi.org/)
 - [Grippe aviaire : la prochaine crise sanitaire que personne ne voit venir](https://www.presse-citron.net/grippe-aviaire-prochaine-crise-sanitaire-personne-voit-venir/) (Presse-citron)
 
 ## 26-6 (dengue)
+
+- [Planta aromática e fácil de cultivar ajuda a afastar mosquitos em casa](https://www.metropoles.com/vida-e-estilo/planta-aromatica-e-facil-de-cultivar-ajuda-a-afastar-mosquitos-em-casa) (Metropoles.com)
+
+- [Aumenta para sete o número de mortos devido à dengue](https://observador.pt/2026/02/05/aumenta-para-sete-o-numero-de-mortos-devido-a-dengue-em-timor-leste/) (Observador.pt)
 
 - [Luis Emilio Pizarro: “Va a haber dengue en Chile; es importante decir cómo nos vamos a preparar para eso”](https://www.latercera.com/nacional/noticia/luis-emilio-pizarro-va-a-haber-dengue-en-chile-es-importante-decir-como-nos-vamos-a-preparar-para-eso/) (Latercera.com)
 
@@ -1960,10 +1990,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
-## 25-52 (yersinia)
-
-- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
-
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -2090,10 +2116,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
-- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
-
-- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
-
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -2191,5 +2213,3 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
-
-- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)

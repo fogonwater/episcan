@@ -1,8 +1,278 @@
 {
-  "last_updated": "2026-02-06 07:24",
-  "count_articles_total": 945,
-  "count_articles_new": 16,
+  "last_updated": "2026-02-06 19:19",
+  "count_articles_total": 956,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 27359,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "The Associated Press",
+      "title": "Measles outbreak in Mexico prompts health alert in World Cup host Jalisco",
+      "description": "The Mexican state of Jalisco has issued a health alert and mandated face masks in schools due to a measles outbreak in the state capital",
+      "url": "https://abcnews.go.com/Health/wireStory/measles-outbreak-mexico-prompts-health-alert-world-cup-129892256",
+      "urlToImage": "https://i.abcnewsfe.com/a/0cca4d93-9afe-4790-99c8-208f29d243e7/wirestory_7af7f612db487976c1e6e4a4936f0b7d_16x9.jpg?w=1600",
+      "publishedAt": "2026-02-05 19:10:29",
+      "content": "ZAPOPAN, Mexico -- The Mexican state of Jalisco on Thursday issued a health alert and mandated the use of face masks in schools as a measles outbreak hit the state capital, a key host city for the up\u2026 [+2656 chars]",
+      "retrievedAt": "2026-02-06 19:19:36.695980",
+      "internal_id": "965e418263ac91cf101ee742a78f357037e8565238cd0a2ba161a1fea081c05c",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27355,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Meghan Bartels",
+      "title": "South Carolina measles outbreak is triggering dangerous brain swelling in some children",
+      "description": "The South Carolina measles outbreak has triggered rare but serious brain swelling in some children",
+      "url": "https://www.scientificamerican.com/article/south-carolina-measles-outbreak-triggering-encephalitis-brain-swelling/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/10b98f7b4b79561c/original/GettyImages-1142840106_web.jpeg?m=1770316807.415&w=1200",
+      "publishedAt": "2026-02-05 18:40:00",
+      "content": "A straightforward case of measles is nasty\u2014but the disease\u2019s complications are even worse. One of those complications has been confirmed in the ongoing, record-breaking measles outbreak in South Caro\u2026 [+2513 chars]",
+      "retrievedAt": "2026-02-06 19:19:36.461168",
+      "internal_id": "131b7545f6c95fc05b54069337fba355b6bf0ad9d891c6318b11940dff498e9a",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27365,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Ascienden a 12 los casos de viruela del mono detectados en Galicia",
+      "description": "La Direcci\u00f3n Xeral de Sa\u00fade P\u00fablica ha notificado que la cifra de casos de Mpox --conocido como viruela del mono-- detectados en Galicia ha ascendido a 12.",
+      "url": "https://www.europapress.es/galicia/noticia-ascienden-12-casos-viruela-mono-detectados-galicia-20260205185409.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260205185409_1200.jpg",
+      "publishedAt": "2026-02-05 17:54:09",
+      "content": "SANTIAGO DE COMPOSTELA, 5 Feb. (EUROPA PRESS) - La Direcci\u00f3n Xeral de Sa\u00fade P\u00fablica ha notificado que la cifra de casos de Mpox --conocido como viruela del mono-- detectados en Galicia ha ascend\u2026 [+1507 chars]",
+      "retrievedAt": "2026-02-06 19:19:38.767033",
+      "internal_id": "be968ace6c10316dcfc2349aac762c4612e58a2c6218cf4ef6bb999f2bb4e299",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27363,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "emod-malaria 2.32.0",
+      "description": "PyPI distribution of EMOD for the Malaria sim type",
+      "url": "https://pypi.org/project/emod-malaria/2.32.0/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-05 17:49:59",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-02-06 19:19:38.301874",
+      "internal_id": "5d4fce2bd8434017418ace172b30a67b5109a348ab26b72d156d6b3a35ad2f0b",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27366,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "Los casos del brote de \u00abmpox\u00bb en Galicia se elevan a 12",
+      "description": "Todos los casos declarados son hombres, con un rango de edad de entre los 35 y los 65 a\u00f1os. Diez se registraron en la provincia de A Coru\u00f1a, sin que se haya podido establecer un v\u00ednculo com\u00fan",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2026/02/05/casos-brote-mpox-galicia-elevan-12/00031770310690982347265.htm",
+      "urlToImage": "https://img.lavdg.com/sc/MleRR48Ma6JxL7ioI7tkVyoALn8=/1280x/2025/01/07/00121736248681879758765/Foto/reu_20241106_183103166.jpg",
+      "publishedAt": "2026-02-05 17:33:00",
+      "content": "El brote de mpox\u2014viruela del mono\u2014 detectado en Galicia asciende ya a 12 casos, seg\u00fan los \u00faltimos datos hechos p\u00fablicos por la Direcci\u00f3n Xeral de Sa\u00fade P\u00fablica. La mayor\u00eda \u201410\u2014 se han registrado en l\u2026 [+2027 chars]",
+      "retrievedAt": "2026-02-06 19:19:38.802814",
+      "internal_id": "2577bbee55e2eb30446ff215def418b3ca7f102eac43db0b290913a2a307bd44",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27360,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Nova vacina nasal mostra prote\u00e7\u00e3o promissora contra gripe avi\u00e1ria H5N1",
+      "description": "Vacina funciona melhor que imunizantes tradicionais em testes com animais e mant\u00e9m efic\u00e1cia mesmo em quem j\u00e1 teve contato com a gripe comum",
+      "url": "https://www.metropoles.com/saude/vacina-nasal-contra-gripe-aviaria",
+      "urlToImage": "https://images.metroimg.com/2025/04/08155618/h5n1.jpg",
+      "publishedAt": "2026-02-05 16:49:59",
+      "content": "Uma vacina em spray nasal desenvolvida por pesquisadores dos Estados Unidos mostrou uma prote\u00e7\u00e3o promissora contra a gripe avi\u00e1ria H5N1 em testes com animais. A proposta da vacina \u00e9 barrar o v\u00edrus lo\u2026 [+3151 chars]",
+      "retrievedAt": "2026-02-06 19:19:37.190386",
+      "internal_id": "3d9dd2a4203708800ecf7e10746329ea0ccf199fbadd7407bd9fa367e1acc996",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27357,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Truthout",
+      "author": "Truthout",
+      "title": "Measles Infection Count in January Topped Total Cases in 2023 and 2024 Combined",
+      "description": "If infections continue at their current pace, the US could see triple the number of measles cases seen last year.",
+      "url": "https://truthout.org/articles/measles-infection-count-in-january-topped-total-cases-in-2023-and-2024-combined/",
+      "urlToImage": "https://truthout.org/app/uploads/2026/02/2026_0205-measles.jpg",
+      "publishedAt": "2026-02-05 16:48:30",
+      "content": "Truthout is an indispensable resource for activists, movement leaders and workers everywhere. Please make this work possible with a quick donation. The Centers for Disease Control and Prevention (CD\u2026 [+4450 chars]",
+      "retrievedAt": "2026-02-06 19:19:36.574503",
+      "internal_id": "e162cbf3724e8278797cf0ca76b4d1d0abc16194789daecd90dd00c5ba0f5fd5",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27362,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Planta arom\u00e1tica e f\u00e1cil de cultivar ajuda a afastar mosquitos em casa",
+      "description": "Bot\u00e2nico Guilherme Ceolin explica como a planta atua como repelente natural e por que \u00e9 uma \u00f3tima op\u00e7\u00e3o para se ter em casa",
+      "url": "https://www.metropoles.com/vida-e-estilo/planta-aromatica-e-facil-de-cultivar-ajuda-a-afastar-mosquitos-em-casa",
+      "urlToImage": "https://images.metroimg.com/2025/11/01163114/mosquito-2.jpg",
+      "publishedAt": "2026-02-05 14:20:50",
+      "content": "Nativa da \u00cdndia, mas de f\u00e1cil cultivo no Brasil, a citronela (Cymbopogon winterianus) \u00e9 uma das poucas plantas que comprovadamente afastam mosquitos, incluindo o transmissor da dengue. Seu aroma atua\u2026 [+2419 chars]",
+      "retrievedAt": "2026-02-06 19:19:37.748681",
+      "internal_id": "f9aa0940bd362e4ca09a8969871f08aae0674801b0a16574b387e89a0c227304",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27358,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "Measles continues to spread in the US, but with some letup",
+      "description": "As South Carolina's outbreak grows to 876 confirmed cases, vaccinations in the state surged in January. Cases have also been reported in two ICE detention facilities.",
+      "url": "https://www.npr.org/2026/02/05/nx-s1-5698522/measles-south-carolina-ice-detention-facilities",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+156/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc0%2F10%2F83c61f4540be989e93ae3fcc8c75%2Fgettyimages-2258579619.jpg",
+      "publishedAt": "2026-02-05 13:18:06",
+      "content": "South Carolina's measles outbreak continues to grow , with a total of 876 confirmed cases, which is the biggest outbreak the U.S. has seen in decades. But there are some positive signs in this curre\u2026 [+3838 chars]",
+      "retrievedAt": "2026-02-06 19:19:36.651884",
+      "internal_id": "dd36996237b247ffccd28089751a0d85ae34ad286025584bb5e322a5683acddb",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27361,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Aumenta para sete o n\u00famero de mortos devido \u00e0 dengue",
+      "description": "Respons\u00e1vel do Hospital Nacional Guido Valadares, Vidal de Jesus Lopes salienta que desde 1 de janeiro at\u00e9 esta quinta-feira foram registados no principal hospital de Timor-Leste mais de 400 casos.",
+      "url": "https://observador.pt/2026/02/05/aumenta-para-sete-o-numero-de-mortos-devido-a-dengue-em-timor-leste/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1122%3Anowe%3A0%3A59%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2024%2F10%2F20075205%2F21926261.jpg?layer=obstop:T",
+      "publishedAt": "2026-02-05 13:02:25",
+      "content": "Timor-Leste registou sete mortes provocadas pela dengue desde o in\u00edcio do ano, disse esta quinta-feira, o diretor dos Servi\u00e7os de Apoio Diagn\u00f3stico e Terap\u00eautico do Hospital Nacional Guido Valadares,\u2026 [+1377 chars]",
+      "retrievedAt": "2026-02-06 19:19:37.729894",
+      "internal_id": "b3f8da6aaa343b7ca8577ce4fb1c6f332960598c1374d8946464d686f42a3d9b",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27354,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Katherine J. Wu",
+      "title": "America\u2019s Future With Measles Is Hanging in the Balance",
+      "description": "How many deaths might tip vaccination rates back upwards?",
+      "url": "https://www.theatlantic.com/health/2026/02/measles-vaccination-rebound-when/685889/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/f_lhNVNlTwbNz6YTwELyx33u0-8=/0x43:2000x1085/1200x625/media/img/mt/2026/02/measelsNew/original.gif",
+      "publishedAt": "2026-02-05 13:00:00",
+      "content": "Since measles vaccination became common among Americans, the logic of outbreaks has been simple: When vaccination rates fall, infections rapidly rise; when vaccination rates increase, cases abate. Th\u2026 [+11170 chars]",
+      "retrievedAt": "2026-02-06 19:19:36.451084",
+      "internal_id": "7d997d80d641598b4de83bbf52f98a8d0d4cc137cd6bf6d716698bc88c737688",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27356,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba still faces challenge in curbing measles a year into outbreak: community health prof",
+      "description": "It's been one year since the first measles cases in the latest outbreak were reported in Manitoba \u2014 and there's no sign the spread of the highly contagious disease is slowing.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-confirmed-cases-1-year-outbreak-9.7074702",
+      "urlToImage": "https://i.cbc.ca/ais/a946bdf5-4831-4113-958b-2985c772e45f,1770256290250/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C259%2C6000%2C3375%29%3BResize%3D620",
+      "publishedAt": "2026-02-05 11:00:00",
+      "content": "It's been one year since the first measles cases in the latest outbreak were reported in Manitoba and there's no sign the spread of the highly contagious disease is slowing. \"It's been very busy,\" s\u2026 [+6604 chars]",
+      "retrievedAt": "2026-02-06 19:19:36.505099",
+      "internal_id": "f197d94e00437ad0fcd3c0d8d9be92d30816bd7c404f1976aeb8e514e1ef0445",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27353,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "filip.bolmgren@expressen.se (Filip Bolmgren)",
+      "title": "Gabriellas, 24, rabiesskr\u00e4ck i Vietnam: \u201dDemonhund\u201d",
+      "description": "Mitt p\u00e5 semestern i Vietnam gick den misst\u00e4nkta rabieshunden till attack. Ett snabbt agerande fr\u00e5n b\u00e5de Gabriella Wallenberg Berglund och hotellpersonalen r\u00e4ddade henne. Nu vill hon varna andra efter skr\u00e4ckupplevelsen. \u2013 Det var som en demonhund som s\u00e5g svart\u2026",
+      "url": "https://www.expressen.se/nyheter/varlden/gabriellas-24-rabiesskrack-i-vietnam-demonhund/",
+      "urlToImage": "https://static.bonniernews.se/images/53/1c/531cec4926954c0a871675b1e73b7f8e/16x9/original.png",
+      "publishedAt": "2026-02-05 10:50:10",
+      "content": "ARTIKELN I KORTHET Gabriella Wallenberg Berglund attackerades av en misst\u00e4nkt rabiessmittad hund i Vietna. Tack vare snabb v\u00e5rd gick allt bra men hon vill nu uppmana andra att vara f\u00f6rsiktiga och\u2026 [+2788 chars]",
+      "retrievedAt": "2026-02-06 19:19:36.192919",
+      "internal_id": "41bec434a0b4b05cd72001eb5bdd25048d30bbd4cea66b005113cfc7b2fc703b",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27364,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ecr.co.za",
+      "author": "Tsakane Mhlongo",
+      "title": "KZN Health reassures residents as malaria cases rise in flood-hit Mpumalanga",
+      "description": "KZN Health says malaria remains under control despite flooding, while Mpumalanga reports a rise in cases.",
+      "url": "https://www.ecr.co.za/news/news/kzn-health-reassures-malaria-cases-flood-mpumalanga/",
+      "urlToImage": "https://turntable.kagiso.io/images/Malaria_Limpopo.max-800x600_1.width-400.jpg",
+      "publishedAt": "2026-02-05 08:15:00",
+      "content": "Health officials in Mpumalanga have reported a rise in cases, with more than 300 infections confirmed last month. The Mpumalanga Health Department says the figure is four times higher than the numbe\u2026 [+1069 chars]",
+      "retrievedAt": "2026-02-06 19:19:38.364095",
+      "internal_id": "96fe1446094527d2db6a620288fa27fe86648bf8c1788f8d965295819f7d8b9f",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27352,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Can you get rabies from a hedgehog bite?",
+      "description": "Can You Get Rabies From a Hedgehog Bite? Understanding the Risk The short answer is that the risk of contracting rabies from a hedgehog bite is extremely low, although not entirely impossible. Can you get rabies from a hedgehog bite? This article will delve i\u2026",
+      "url": "https://www.lifesciencesworld.com/can-you-get-rabies-from-a-hedgehog-bite/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-05 07:35:02",
+      "content": "The short answer is that the risk of contracting rabies from a hedgehog bite is extremely low, although not entirely impossible. Can you get rabies from a hedgehog bite? This article will delve into \u2026 [+6957 chars]",
+      "retrievedAt": "2026-02-06 19:19:36.140809",
+      "internal_id": "7182b2e18e076a69331915e8afcfcf45b74715ae97221b73c6cd466cfdaf777b",
+      "publishedAtLabel": "Feb 5"
+    },
     {
       "id": 27346,
       "query": [
@@ -16978,78 +17248,6 @@
       "retrievedAt": "2025-12-23 07:10:40.791010",
       "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
       "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 26407,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Measles outbreak grows to 8 cases in Quebec",
-      "description": "On Sunday morning, Dr. Antonio D'Angelo, the head of the pediatric emergency department at CHU Sainte-Justine, told Radio-Canada there had been two confirmed cases of measles at his Montreal hospital over the past week.",
-      "url": "https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507",
-      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-      "publishedAt": "2025-12-21 18:15:39",
-      "content": "The number of measles cases in Quebec is growing as an outbreak is underway. On the morning of Dec. 19, eight cases were confirmed in the Lanaudi\u00e8re region, the Laurentians, Laval, Que., and Montre\u2026 [+1342 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.584798",
-      "internal_id": "eb793bfc18d96a058342631f57537964f36d318a189b7dd6dceaa37c85f1332f",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26410,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Zoomit.ir",
-      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
-      "title": "\u0645\u0648\u0634\u200c\u0647\u0627 \u0646\u0627\u0642\u0644 \u0637\u0627\u0639\u0648\u0646 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0646\u0628\u0648\u062f\u0646\u062f\u061b \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0645\u062a\u0647\u0645 \u0627\u0635\u0644\u06cc \u0631\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646\u062f",
-      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u067e\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0686\u06af\u0648\u0646\u06af\u06cc \u0634\u06cc\u0648\u0639 \u0637\u0627\u0639\u0648\u0646 \u062f\u0631 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0628\u0648\u062f\u0646\u062f. \u067e\u0627\u0633\u062e \u0627\u06cc\u0646 \u0645\u0639\u0645\u0627 \u0646\u0647 \u062f\u0631 \u0628\u0642\u0627\u06cc\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u060c \u0628\u0644\u06a9\u0647 \u062f\u0631 \u062f\u0646\u062f\u0627\u0646 \u06cc\u06a9 \u062d\u06cc\u0648\u0627\u0646 \u0627\u0647\u0644\u06cc \u067e\u0646\u0647\u0627\u0646 \u0628\u0648\u062f.",
-      "url": "https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/",
-      "urlToImage": "https://api2.zoomit.ir/media/bronze-age-shepherd-tending-to-a-flock-of-primitive-looking-sheep-69429aef1173a30185c30ebd",
-      "publishedAt": "2025-12-21 17:45:00",
-      "content": ": . . . . : . . . . \u00ab \u00bb : . . (Yersinia pestis) . . . : ( ) . . . . . . . . . . . . ( ) . . . Cell .",
-      "retrievedAt": "2025-12-22 19:06:50.878529",
-      "internal_id": "d5634cb4939435ffb43fdba56bbece41ac087d04c373ce273a73fa4b2ecd541a",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26409,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Blanca Valadez",
-      "title": "Secretar\u00eda de Salud alerta por emergencia de fiebre chikungunya en M\u00e9xico",
-      "description": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inform\u00f3 el Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (C\u2026",
-      "url": "https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/16/ssj-intensifica-campana-lava-voltea-1.jpg",
-      "publishedAt": "2025-12-21 16:14:46",
-      "content": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inf\u2026 [+4026 chars]",
-      "retrievedAt": "2025-12-22 19:06:50.243368",
-      "internal_id": "bdb8314e281e293eee8fb9243901da4d224798451ec19efaf7a170cb8aabfa42",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26408,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Rolling Out",
-      "author": "David Kesiena",
-      "title": "Measles cases surge despite 88% drop in deaths since 2000",
-      "description": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% reduction in measles deaths between 2000 and 2024, saving nearly\u2026",
-      "url": "https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
-      "publishedAt": "2025-12-21 11:20:08",
-      "content": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% redu\u2026 [+7093 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.624928",
-      "internal_id": "c8ede8d881c75d73bb81e9dc98c7502ed8464cc9c3082c5faf92728c73973136",
-      "publishedAtLabel": "Dec 21"
     }
   ]
 }
