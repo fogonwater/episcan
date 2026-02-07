@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2026-02-07 07:17
-- **Most recent article:** 2026-02-06 05:11:39
+- **New articles in last harvest:** 19
+- **Last harvest:** 2026-02-07 19:11
+- **Most recent article:** 2026-02-06 17:10:56
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 70 | 435 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 9 | 102 |
+| measles | 28 | 35 | 26 | 47 | 63 | 88 | 76 | 81 | 444 |
+| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 13 | 106 |
 | rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 86 |
-| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 8 | 80 |
-| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 14 | 67 |
-| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 10 | 54 |
+| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 9 | 81 |
+| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 68 |
+| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 55 |
 | meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 53 |
-| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 6 | 37 |
+| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 7 | 37 |
 | leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 26 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
+| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 1 | 15 |
 | hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
-| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
 | typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
 | pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 6 |
 
@@ -31,6 +31,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-6 (yersinia)
+
+- [Μαζικός τάφος στην Ιορδανία ρίχνει φως στην πρώτη γνωστή πανδημία που εξόντωσε δεκάδες εκατ. ανθρώπους](https://www.naftemporiki.gr/techscience/2069163/mazikos-tafos-stin-iordania-richnei-fos-stin-proti-gnosti-pandimia-poy-exontose-dekades-ekat-anthropoys/) (Naftemporiki.gr)
 
 ## 26-6 (typhoid)
 
@@ -66,6 +70,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (mpox)
 
+- [Barcelona detecta en tres meses 12 casos de la variante más contagiosa de la viruela del mono](https://www.elperiodico.com/es/sanidad/20260206/barcelona-viruela-mono-aumentan-casos-variante-mas-contagiosa-126486286) (Elperiodico.com)
+
 - [Ascienden a 12 los casos de viruela del mono detectados en Galicia](https://www.europapress.es/galicia/noticia-ascienden-12-casos-viruela-mono-detectados-galicia-20260205185409.html) (Europapress.es)
 
 - [Los casos del brote de «mpox» en Galicia se elevan a 12](https://www.lavozdegalicia.es/noticia/sociedad/2026/02/05/casos-brote-mpox-galicia-elevan-12/00031770310690982347265.htm) (Lavozdegalicia.es)
@@ -97,6 +103,28 @@ Source: [News API](https://newsapi.org/)
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
+
+- [Fear in Minnesota’s Somali community deepens, hampering progress on measles vaccination](https://www.bostonherald.com/2026/02/06/measles-vaccine-misinformation/) (Boston Herald)
+
+- [Newly obtained emails undermine RFK Jr.'s testimony about 2019 Samoa trip before measles outbreak](https://www.pbs.org/newshour/health/newly-obtained-emails-undermine-rfk-jr-s-testimony-about-2019-samoa-trip-before-measles-outbreak) (PBS)
+
+- [Masks in schools mandated as measles outbreak prompts health alert in World Cup host Jalisco, Mexico](https://www.cbc.ca/news/health/mexico-measles-world-cup-9.7077259) (CBC News)
+
+- [Surging measles cases nationwide prompt county officials to urge vaccinations](https://www.kpbs.org/news/national/2026/02/06/surging-measles-cases-nationwide-prompt-county-officials-to-urge-vaccinations) (KPBS)
+
+- [Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak (Michelle R Smith/The Guardian)](https://www.memeorandum.com/260206/p52) (Memeorandum.com)
+
+- [US experiencing largest measles outbreak since 2000 – 5 essential reads on the risks, what to do and what’s coming next](https://theconversation.com/us-experiencing-largest-measles-outbreak-since-2000-5-essential-reads-on-the-risks-what-to-do-and-whats-coming-next-275164) (The Conversation Africa)
+
+- [FAQ: What you need to know to protect yourself from measles](https://www.channelnewsasia.com/singapore/measles-what-you-need-know-vaccination-travellers-5912886) (CNA)
+
+- [Newly obtained emails undermine RFK Jr.’s testimony about 2019 Samoa trip before measles outbreak](https://www.bostonherald.com/2026/02/06/new-emails-rfk-measles-samoa/) (Boston Herald)
+
+- [Newly obtained emails undermine RFK Jr.'s testimony about 2019 Samoa trip before measles outbreak](https://abcnews.go.com/Technology/wireStory/newly-obtained-emails-undermine-rfk-jrs-testimony-2019-129911315) (ABC News)
+
+- [Fear among Minnesota's Somali community compounds a public health woe: Low measles vaccination rates](https://abcnews.go.com/Technology/wireStory/fear-minnesotas-somali-community-compounds-public-health-woe-129909480) (ABC News)
+
+- [Singapore sees rise in measles cases, steps up measures like mandatory isolation and contact tracing](https://www.channelnewsasia.com/singapore/measles-cases-singapore-isolation-contact-tracing-quarantine-5912111) (CNA)
 
 - [February 5, 2026 - PBS News Hour full episode](https://www.pbs.org/newshour/show/february-5-2026-pbs-news-hour-full-episode) (PBS)
 
@@ -240,6 +268,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (malaria)
 
+- [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
+
 - [Podcast Episode 23: Generating Evidence for the Future of Malaria Prevention](https://blog.givewell.org/2026/02/05/podcast-episode-23-generating-evidence-for-the-future-of-malaria-prevention/) (Givewell.org)
 
 - [emod-malaria 2.32.0](https://pypi.org/project/emod-malaria/2.32.0/) (Pypi.org)
@@ -282,6 +312,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (h5n1)
 
+- [Vogelgrippe-Virus grassiert in Berlin: Vor allem Gänse und Schwäne betroffen](https://www.morgenpost.de/berlin/article411130747/vogelgrippe-virus-grassiert-in-berlin-vor-allem-gaense-und-schwaene-betroffen.html) (Berliner Morgenpost)
+
 - [Chennai Bird Flu: चेन्नई में सैकड़ों कौवों की मौत, H5N1 की पुष्टि से मचा हड़कंप, स्वास्थ्य विभाग सतर्क](https://hindi.moneycontrol.com/india/hundreds-of-crows-die-in-chennai-h5n1-confirmed-health-department-on-alert-article-2363063.html) (Moneycontrol)
 
 - [H5N1 avian flu scare in Chennai: Several crow deaths reported; public health advisory issued](https://timesofindia.indiatimes.com/city/chennai/h5n1-avian-flu-scare-in-chennai-several-crow-deaths-reported-public-health-advisory-issued/articleshow/127969962.cms) (The Times of India)
@@ -299,6 +331,14 @@ Source: [News API](https://newsapi.org/)
 - [Grippe aviaire : la prochaine crise sanitaire que personne ne voit venir](https://www.presse-citron.net/grippe-aviaire-prochaine-crise-sanitaire-personne-voit-venir/) (Presse-citron)
 
 ## 26-6 (dengue)
+
+- [Minsal refuerza alertas sanitarias en verano: aumentan brotes alimentarios y casos importados de dengue y chikungunya](https://www.latercera.com/nacional/noticia/minsal-refuerza-alertas-sanitarias-en-verano-aumentan-brotes-alimentarios-y-casos-importados-de-dengue-y-chikungunya/) (Latercera.com)
+
+- [Atraparon a “Dengue”, un delincuente buscado por reiterados robos con armas en La Boca](https://www.lanacion.com.ar/seguridad/atraparon-a-dengue-un-delincuente-buscado-por-reiterados-robos-con-armas-en-la-boca-nid06022026/) (La Nacion)
+
+- [SP anuncia início de campanha de vacinação contra a dengue em 1 dose](https://www.metropoles.com/sao-paulo/sp-anuncia-inicio-vacinacao-dengue) (Metropoles.com)
+
+- [Governo de SP inicia segunda-feira campanha de vacinação contra a dengue](https://valor.globo.com/brasil/noticia/2026/02/06/governo-de-sp-inicia-segunda-feira-campanha-de-vacinao-contra-a-dengue.ghtml) (Globo)
 
 - [Planta aromática e fácil de cultivar ajuda a afastar mosquitos em casa](https://www.metropoles.com/vida-e-estilo/planta-aromatica-e-facil-de-cultivar-ajuda-a-afastar-mosquitos-em-casa) (Metropoles.com)
 
@@ -319,6 +359,8 @@ Source: [News API](https://newsapi.org/)
 - [Juntos Contra a Dengue: EPTV lança campanha para alertar sobre perigos da doença e combater mosquito transmissor](https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/02/juntos-contra-a-dengue-eptv-lanca-campanha-para-alertar-sobre-perigos-da-doenca-e-combater-mosquito-transmissor.ghtml) (Globo)
 
 ## 26-6 (chikungunya)
+
+- [Minsal refuerza alertas sanitarias en verano: aumentan brotes alimentarios y casos importados de dengue y chikungunya](https://www.latercera.com/nacional/noticia/minsal-refuerza-alertas-sanitarias-en-verano-aumentan-brotes-alimentarios-y-casos-importados-de-dengue-y-chikungunya/) (Latercera.com)
 
 - [Live-attenuated chikungunya vaccine in children: a randomized phase 2 trial](https://www.nature.com/articles/s41591-025-04197-2) (Nature.com)
 
@@ -2018,10 +2060,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
-## 25-52 (yersinia)
-
-- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
-
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -2148,10 +2186,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
-- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
-
-- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
-
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -2249,5 +2283,3 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
-
-- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)

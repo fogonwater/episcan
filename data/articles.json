@@ -1,8 +1,351 @@
 {
-  "last_updated": "2026-02-07 07:17",
-  "count_articles_total": 974,
-  "count_articles_new": 14,
+  "last_updated": "2026-02-07 19:11",
+  "count_articles_total": 989,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 27382,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Fear in Minnesota\u2019s Somali community deepens, hampering progress on measles vaccination",
+      "description": "Public health officials say a measles crisis has long been brewing in Minnesota.",
+      "url": "https://www.bostonherald.com/2026/02/06/measles-vaccine-misinformation/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/02/Measles_Vaccine_Misinformation_63945.jpg?w=1024&h=683",
+      "publishedAt": "2026-02-06 17:10:56",
+      "content": "By DEVI SHASTRI MINNEAPOLIS (AP) Public health officials and community leaders say that even before federal immigration authorities launched a crackdown in Minneapolis, a crisis was brewing. Measle\u2026 [+8320 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.479828",
+      "internal_id": "0ea0520ce41b7e19253a7c4bafa8606957625cb338f4c055b90c7eabb533268d",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27391,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Michelle R. Smith, The Guardian, Ali Swenson, Associated Press",
+      "title": "Newly obtained emails undermine RFK Jr.'s testimony about 2019 Samoa trip before measles outbreak",
+      "description": "Documents obtained by The Guardian and The Associated Press undermine Robert F. Kennedy Jr.'s testimony during his Senate confirmation hearings that the 2019 trip he took to Samoa before a devastating measles outbreak had \"nothing to do with vaccines.\"",
+      "url": "https://www.pbs.org/newshour/health/newly-obtained-emails-undermine-rfk-jr-s-testimony-about-2019-samoa-trip-before-measles-outbreak",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/02/AP26037063973178-1024x683.jpg",
+      "publishedAt": "2026-02-06 16:45:33",
+      "content": "Over two days of questioning during his Senate confirmation hearings last year, Robert F. Kennedy Jr. repeated the same answer. He said the closely scrutinized 2019 trip he took to Samoa, which came\u2026 [+10084 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.673625",
+      "internal_id": "4c75ac05b5115f2d7cc46307497c6225e9812bd9f97dd650e818d11cb60c95d7",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27389,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Masks in schools mandated as measles outbreak prompts health alert in World Cup host Jalisco, Mexico",
+      "description": "Jalisco state in west-central Mexico is issuing a health alert and mandating the use of face masks in schools amid a measles outbreak in the state capital ahead of serving as a host city for upcoming 2026 FIFA World Cup.",
+      "url": "https://www.cbc.ca/news/health/mexico-measles-world-cup-9.7077259",
+      "urlToImage": "https://i.cbc.ca/ais/3b2a97b5-2744-45f4-84b1-2a6354af099e,1770394004812/full/max/0/default.jpg?im=Crop%2Crect%3D%28108%2C465%2C5175%2C2910%29%3BResize%3D620",
+      "publishedAt": "2026-02-06 16:41:17",
+      "content": "The Mexican state of Jalisco issued a health alert and mandated the use of face masks in schools as a measles outbreak hit the state capital, a key host city for the upcoming 2026 FIFA World Cup. Th\u2026 [+3780 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.619899",
+      "internal_id": "bae2397a217e3689a39e11d22d873fc9099416e2d642e35a00ccc5501445248a",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27394,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Javiera Ortiz",
+      "title": "Minsal refuerza alertas sanitarias en verano: aumentan brotes alimentarios y casos importados de dengue y chikungunya",
+      "description": "En el marco de la Campa\u00f1a de Verano 2026, se abord\u00f3 la situaci\u00f3n sanitaria del pa\u00eds en materia de alertas alimentarias, vigilancia del mosquito Aedes aegypti, la fragata portuguesa y el caso importado de sarampi\u00f3n anunciado el jueves.",
+      "url": "https://www.latercera.com/nacional/noticia/minsal-refuerza-alertas-sanitarias-en-verano-aumentan-brotes-alimentarios-y-casos-importados-de-dengue-y-chikungunya/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/XABZP6GO4BBNBC4UYH3IZJTYUQ.jpg?auth=ecdba2c7bfb1bc3ca46beef24123d42531f505700d160b6bec5b94d1be7390bc&height=630&width=1200&smart=true",
+      "publishedAt": "2026-02-06 16:05:13",
+      "content": "Durante la ma\u00f1ana del mi\u00e9rcoles, el Ministerio de Salud (Minsal) entreg\u00f3 un nuevo balance de la Campa\u00f1a de Verano 2026, instancia en que abordaron la situaci\u00f3n sanitaria del pa\u00eds en materia de alerta\u2026 [+2510 chars]",
+      "retrievedAt": "2026-02-07 19:11:19.320926",
+      "internal_id": "71c7e7c3e0dee95d7bc39e8fe25e7d9bdfc8c2aa6fad10b1970fc26d4d6aac03",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27390,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KPBS",
+      "author": "City News Service",
+      "title": "Surging measles cases nationwide prompt county officials to urge vaccinations",
+      "description": "According to the U.S. Centers for Disease Control, measles is one of the most contagious of infectious diseases. If not immunized, a person exposed to someone with measles has a 95% chance of becoming infected.",
+      "url": "https://www.kpbs.org/news/national/2026/02/06/surging-measles-cases-nationwide-prompt-county-officials-to-urge-vaccinations",
+      "urlToImage": "https://cdn.kpbs.org/dims4/default/9b0e2c9/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/90/?url=http%3A%2F%2Fkpbs-brightspot.s3.us-west-2.amazonaws.com%2Fd2%2F3d%2F7a49ce40447cbaa3b1b66e6ea28a%2Fap26035567131994.jpg",
+      "publishedAt": "2026-02-06 15:40:34",
+      "content": "County health officials Thursday urged residents to protect themselves from measles by vaccinating as cases surge across the country, including local cases in Los Angeles and Orange counties. No cas\u2026 [+3254 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.655516",
+      "internal_id": "0d61a172eeeb0b53edde04e525ff647820191ee471ecf064022c85d1b1efbb23",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27395,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Atraparon a \u201cDengue\u201d, un delincuente buscado por reiterados robos con armas en La Boca",
+      "description": "Era intensamente buscado por una serie de asaltos a mano armada cometidos en la zona tur\u00edstica del barrio porte\u00f1o; se escond\u00eda en un conventillo",
+      "url": "https://www.lanacion.com.ar/seguridad/atraparon-a-dengue-un-delincuente-buscado-por-reiterados-robos-con-armas-en-la-boca-nid06022026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/atraparon-a-dengue-un-delincuente-al-que-buscaban-HBCN7M7W4VDNRLLYXZVB6MZAIA.jpeg?auth=92a827f57e17f6391300643ddc110eae627f7ae65edad7aae31fdff6a166892a&width=1200&quality=70&smart=false&height=2134",
+      "publishedAt": "2026-02-06 15:09:17",
+      "content": "Un delincuente, apodado Dengue, fue detenido tras un allanamiento en un conventillo acusado de realizar al menos tres robos a mano armada durante enero a comercios del barrio porte\u00f1o de La Boca. Seg\u2026 [+1389 chars]",
+      "retrievedAt": "2026-02-07 19:11:19.339430",
+      "internal_id": "0bc2e2cebb5589e1337ee153a0e76f810aaa1def06301092ddc7740555fe4e15",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27387,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak (Michelle R Smith/The Guardian)",
+      "description": "Michelle R Smith / The Guardian: Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak \u2014 Kennedy later said the purpose of his trip had nothing to do with vaccines. US embassy and UN staff at the time said otherwi\u2026",
+      "url": "https://www.memeorandum.com/260206/p52",
+      "urlToImage": "https://i.guim.co.uk/img/media/0d21fa4fc7c709efa612ee8b908850b47e3b7b84/70_0_5859_4688/master/5859.jpg?width=300&dpr=2&s=none",
+      "publishedAt": "2026-02-06 15:00:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.583899",
+      "internal_id": "d73b123d4118140cd84b4ca9fcf9b0d39ca61e2ea661f84459b3a7bbbb630a32",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27397,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Gideon Agyare, David Courtin, Samuel Asamoah Sakyi, Gideon Kwesi Nakotey, Naa Adjeley Frempong, Prince Amoah Barnie, Samuel Kofi Tchum, Samuel Victor Nuvor, Benjamin Amoani",
+      "title": "Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens",
+      "description": "Background The coexistence of type 2 diabetes mellitus (T2DM) and malaria presents a significant public health concern, particularly in malaria-endemic regions. T2DM\u2019s immunomodulatory effects may influence immune responses to infectious diseases, but its imp\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0341659.g001&size=inline",
+      "publishedAt": "2026-02-06 14:00:00",
+      "content": "Citation: Agyare G, Courtin D, Asamoah Sakyi S, Nakotey GK, Adjeley Frempong N, Barnie PA, et al. (2026) Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to mal\u2026 [+27273 chars]",
+      "retrievedAt": "2026-02-07 19:11:19.800132",
+      "internal_id": "ebab37b8b9f0e1175640affb0fb5b4db849fa1c1c0b2fef90b2b0ed913e9b39f",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27393,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "SP anuncia in\u00edcio de campanha de vacina\u00e7\u00e3o contra a dengue em 1 dose",
+      "description": "Vacina desenvolvida pelo Instituto Butantan \u00e9 a primeira em dose \u00fanica. Etapa inicial da campanha contempla profissionais da sa\u00fade",
+      "url": "https://www.metropoles.com/sao-paulo/sp-anuncia-inicio-vacinacao-dengue",
+      "urlToImage": "https://images.metroimg.com/2026/02/vacina-dengue-butantan.jpg",
+      "publishedAt": "2026-02-06 13:52:06",
+      "content": "Come\u00e7a na pr\u00f3xima segunda-feira (9/2), no estado de S\u00e3o Paulo, a campanha de vacina\u00e7\u00e3o contra a dengue com a Butantan-DV, imunizante desenvolvido pelo Instituto Butantan. A vacina \u00e9 a primeira do mun\u2026 [+1823 chars]",
+      "retrievedAt": "2026-02-07 19:11:19.302237",
+      "internal_id": "f6992fe8588e752010b8d9a1f1b6519e030a6cc140b811c6656ee0fd4e127c1a",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27384,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Alla Katsnelson, Associate Health Editor, The Conversation",
+      "title": "US experiencing largest measles outbreak since 2000 \u2013 5 essential reads on the risks, what to do and what\u2019s coming next",
+      "description": "Public health scholars worry that the resurgence of measles may signal a coming wave of other vaccine-preventable diseases.",
+      "url": "https://theconversation.com/us-experiencing-largest-measles-outbreak-since-2000-5-essential-reads-on-the-risks-what-to-do-and-whats-coming-next-275164",
+      "urlToImage": "https://images.theconversation.com/files/716678/original/file-20260205-66-dbbqx1.jpg?ixlib=rb-4.1.0&rect=0%2C575%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-02-06 13:41:27",
+      "content": "The vast majority of people who get measles are not vaccinated against the measles virus. Andrzej Rostek/istock via Getty Images Plus The measles outbreak in South Carolina reached 876 cases on Feb.\u2026 [+6730 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.510847",
+      "internal_id": "fe8962223c3f5a1f7b5bc9cbdf496528c7724f58a213b9e4f56acb5576d3ec8a",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27381,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "FAQ: What you need to know to protect yourself from measles",
+      "description": "Singapore recorded 11 measles cases in January, almost six times the number reported in the same month last year.",
+      "url": "https://www.channelnewsasia.com/singapore/measles-what-you-need-know-vaccination-travellers-5912886",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--WPH9V44j--/c_crop,h_900,w_1600,x_0,y_62/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/02/06/mmr-vaccine.jpg?itok=uyXFA267",
+      "publishedAt": "2026-02-06 13:02:07",
+      "content": "How bad is the situation around the world? Measles is one of the worlds most contagious diseases, according to the World Health Organization (WHO). The WHO reported 11 million measles infections gl\u2026 [+2799 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.460983",
+      "internal_id": "e6ae03504c376192018520cab474e802996cc87a82baccd4186561e1e96e476d",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27386,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Newly obtained emails undermine RFK Jr.\u2019s testimony about 2019 Samoa trip before measles outbreak",
+      "description": "The uncovered emails counter RFK Jr.'s confirmation hearing statements regarding his 2019 Samoa trip.",
+      "url": "https://www.bostonherald.com/2026/02/06/new-emails-rfk-measles-samoa/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/02/Kennedy_Measles_Samoa_73178.jpg?w=1024&h=683",
+      "publishedAt": "2026-02-06 12:43:05",
+      "content": "By MICHELLE R. SMITH/THE GUARDIAN and ALI SWENSON/Associated Press Over two days of questioning during his Senate confirmation hearings last year, Robert F. Kennedy Jr. repeated the same answer. He\u2026 [+10013 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.557182",
+      "internal_id": "600da68e914e73d7248c9594d20e9e8f2411335f91ca8784274390bc2f6eb5c4",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27396,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Governo de SP inicia segunda-feira campanha de vacina\u00e7\u00e3o contra a dengue",
+      "description": "Nesta primeira etapa a imuniza\u00e7\u00e3o ser\u00e1 destinada aos profissionais da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade, da rede municipal",
+      "url": "https://valor.globo.com/brasil/noticia/2026/02/06/governo-de-sp-inicia-segunda-feira-campanha-de-vacinao-contra-a-dengue.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2026-02-06 12:30:03",
+      "content": "O governo de S\u00e3o Paulo inicia na pr\u00f3xima segunda-feira (9) a campanha de vacina\u00e7\u00e3o contra a dengue em todos os 645 munic\u00edpios paulistas. Ser\u00e1 usada a com a Butantan-DV, desenvolvida pelo Instituto Bu\u2026 [+745 chars]",
+      "retrievedAt": "2026-02-07 19:11:19.366578",
+      "internal_id": "73a2695f3da8cdf2a295e00b0ed41c292f2acb29ba37721c2778a927d6e4b8b9",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27388,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MICHELLE R. SMITH/THE GUARDIAN Associated Press, ALI SWENSON/AP THE GUARDIAN AND Associated Press",
+      "title": "Newly obtained emails undermine RFK Jr.'s testimony about 2019 Samoa trip before measles outbreak",
+      "description": "Documents obtained by The Guardian and The Associated Press undermine Robert F_ Kennedy Jr_'s testimony during his Senate confirmation hearings that the 2019 trip he took to Samoa before a devastating measles outbreak had \u201cnothing to do with vaccines.\u201d",
+      "url": "https://abcnews.go.com/Technology/wireStory/newly-obtained-emails-undermine-rfk-jrs-testimony-2019-129911315",
+      "urlToImage": "https://i.abcnewsfe.com/a/29ebeac0-d5f2-475d-a551-e24e8350f732/wirestory_e04686f052e8c78b5a52be1e4fbcf62f_16x9.jpg?w=1600",
+      "publishedAt": "2026-02-06 12:13:38",
+      "content": "Over two days of questioning during his Senate confirmation hearings last year, Robert F. Kennedy Jr. repeated the same answer. He said the closely scrutinized 2019 trip he took to Samoa, which came\u2026 [+9523 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.601984",
+      "internal_id": "fd7d48014c3d5a479be6a59e0a1150dc3c3769524b39857938de772af9ee9106",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27385,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "DEVI SHASTRI Associated Press",
+      "title": "Fear among Minnesota's Somali community compounds a public health woe: Low measles vaccination rates",
+      "description": "Public health officials say a measles crisis has long been brewing in Minnesota",
+      "url": "https://abcnews.go.com/Technology/wireStory/fear-minnesotas-somali-community-compounds-public-health-woe-129909480",
+      "urlToImage": "https://i.abcnewsfe.com/a/9a24b76b-f9b1-4c74-81ba-44823e2a3ba8/wirestory_d69f2969f104cd9cd2da9fd120dd1025_16x9.jpg?w=1600",
+      "publishedAt": "2026-02-06 10:45:53",
+      "content": "MINNEAPOLIS -- Public health officials and community leaders say that even before federal immigration authorities launched a crackdown in Minneapolis, a crisis was brewing. Measles vaccination rate\u2026 [+7810 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.546832",
+      "internal_id": "b415a615b38521c5eaf08dc933240ded42a86276bd9469ed690ef3fc4a2c31f0",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27392,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Vivien Valentiner",
+      "title": "Vogelgrippe-Virus grassiert in Berlin: Vor allem G\u00e4nse und Schw\u00e4ne betroffen",
+      "description": "Im Oktober war das Virus in zwei Bezirken nachgewiesen worden. Nun wurde bekannt: Das Problem ist weitaus gr\u00f6\u00dfer \u2013 auch durch den Winter.",
+      "url": "https://www.morgenpost.de/berlin/article411130747/vogelgrippe-virus-grassiert-in-berlin-vor-allem-gaense-und-schwaene-betroffen.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/411131571/411131571_1770373933_v16_9_1600.jpeg",
+      "publishedAt": "2026-02-06 10:32:13",
+      "content": "Das Vogelgrippe-Virus H5N1 zirkuliert in Berlin unter Wildv\u00f6geln. Das hat die Senatsverwaltung f\u00fcr Justiz und Verbraucherschutz am Freitag bekannt gegeben. Demnach wurden am 25. Oktober letzten Jahre\u2026 [+3366 chars]",
+      "retrievedAt": "2026-02-07 19:11:19.040375",
+      "internal_id": "94cca9e09849a43fd08c896e012496da0e75be1af4db64e57d3a386f7d28545d",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27398,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Beatriz P\u00e9rez",
+      "title": "Barcelona detecta en tres meses 12 casos de la variante m\u00e1s contagiosa de la viruela del mono",
+      "description": "Barcelona ha registrado 12 casos de viruela del mono (mpox) del clado 1 desde octubre de 2025 y hasta finales de a\u00f1o, seg\u00fan la Ag\u00e8ncia de Salut P\u00fablica de Barcelona (ASPB). La ASPB no dispone a\u00fan de datos del mes de enero. Hasta ahora los contagios que se hab\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20260206/barcelona-viruela-mono-aumentan-casos-variante-mas-contagiosa-126486286",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/82930b8f-ec38-42cf-945a-04848aeb076e_16-9-discover-aspect-ratio_default_0_x576y255.jpg",
+      "publishedAt": "2026-02-06 09:44:51",
+      "content": "Barcelona ha registrado 12 casos de viruela del mono (mpox) del clado 1 desde octubre de 2025 y hasta finales de a\u00f1o, seg\u00fan la Ag\u00e8ncia de Salut P\u00fablica de Barcelona (ASPB). La ASPB no dispone a\u00fan de \u2026 [+3381 chars]",
+      "retrievedAt": "2026-02-07 19:11:20.254031",
+      "internal_id": "8c4045e49b387e17f1f2c83ab32ba1fd88774cc2a18b73ebd79a7d0fc9e1d717",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27399,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Naftemporiki.gr",
+      "author": "\u0398\u03bf\u03b4\u03c9\u03c1\u03ae\u03c2 \u039b\u03b1\u0390\u03bd\u03b1\u03c2",
+      "title": "\u039c\u03b1\u03b6\u03b9\u03ba\u03cc\u03c2 \u03c4\u03ac\u03c6\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u0399\u03bf\u03c1\u03b4\u03b1\u03bd\u03af\u03b1 \u03c1\u03af\u03c7\u03bd\u03b5\u03b9 \u03c6\u03c9\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03b3\u03bd\u03c9\u03c3\u03c4\u03ae \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 \u03c0\u03bf\u03c5 \u03b5\u03be\u03cc\u03bd\u03c4\u03c9\u03c3\u03b5 \u03b4\u03b5\u03ba\u03ac\u03b4\u03b5\u03c2 \u03b5\u03ba\u03b1\u03c4. \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2",
+      "description": "\u0394\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03b9\u03ba\u03ae \u03bf\u03bc\u03ac\u03b4\u03b1 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c3\u03b5 \u03c4\u03bf\u03bd \u03c0\u03c1\u03ce\u03c4\u03bf \u03bc\u03b1\u03b6\u03b9\u03ba\u03cc \u03c4\u03ac\u03c6\u03bf \u03c3\u03c4\u03b7 \u039c\u03b5\u03c3\u03cc\u03b3\u03b5\u03b9\u03bf \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bd\u03b4\u03ad\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03b1\u03b9\u03cc\u03c4\u03b5\u03c1\u03b7 \u03ba\u03b1\u03c4\u03b1\u03b3\u03b5\u03b3\u03c1\u03b1\u03bc\u03bc\u03ad\u03bd\u03b7 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 \u03c3\u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf, \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03b1\u03c2 \u03bd\u03ad\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03a0\u03b1\u03bd\u03ce\u03bb\u03b7 \u03c4\u03bf\u03c5 \u0399\u03bf\u03c5\u03c3\u03c4\u03b9\u03bd\u03b9\u03b1\u03bd\u03bf\u03cd \u03b7 \u03bf\u03c0\u03bf\u03af\u03b1 \u03c3\u03ba\u03cc\u03c4\u03c9\u03c3\u03b5\u2026 \u039c\u03b1\u03b6\u03b9\u03ba\u03cc\u03c2 \u03c4\u03ac\u03c6\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u0399\u03bf\u03c1\u03b4\u03b1\u03bd\u03af\u03b1 \u03c1\u03af\u03c7\u03bd\u03b5\u03b9 \u03c6\u03c9\u03c2 \u03c3\u03c4\u03b7\u03bd \u2026",
+      "url": "https://www.naftemporiki.gr/techscience/2069163/mazikos-tafos-stin-iordania-richnei-fos-stin-proti-gnosti-pandimia-poy-exontose-dekades-ekat-anthropoys/",
+      "urlToImage": "https://www.naftemporiki.gr/wp-content/uploads/2020/05/1601394.jpeg",
+      "publishedAt": "2026-02-06 08:29:53",
+      "content": ", 6 8 . \u00abJournal of Archaeological Science\u00bb , . DNA Jerash, 541 750 .. \u00ab \u00bb , . Yersinia pestis . : , . \u00ab . . , . , . \u00bb , . DNA . , \u00ab\u00bb , Covid. \u00ab . , . , \u00bb , . 200 \u00ab \u00bb . , , \u00ab \u00bb. \u00ab , , . \u2026 [+87 chars]",
+      "retrievedAt": "2026-02-07 19:11:20.659687",
+      "internal_id": "3716f53e027b024f8ac2163f13d2cfd65d08d2fa9cdfda496c0f7653aea632b0",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27383,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Singapore sees rise in measles cases, steps up measures like mandatory isolation and contact tracing",
+      "description": "Eleven cases were detected in January, with the possibility of undetected local transmission in the community.",
+      "url": "https://www.channelnewsasia.com/singapore/measles-cases-singapore-isolation-contact-tracing-quarantine-5912111",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--EZKMTJFy--/c_crop,h_576,w_1024,x_0,y_51/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/02/06/000_74vz6t3.jpg?itok=IrcRMlGN",
+      "publishedAt": "2026-02-06 08:00:20",
+      "content": "Speaking to reporters, Senior Minister of State for Health Koh Poh Koon cautioned frequent travellers to remain vigilant and to take necessary precautions. \"For Singaporeans who like to travel a lo\u2026 [+2315 chars]",
+      "retrievedAt": "2026-02-07 19:11:18.489287",
+      "internal_id": "4476847fd38bcaf9daa92b67ceb1e03b4cc5aa513ac8f293a7129849bd93c7a5",
+      "publishedAtLabel": "Feb 6"
+    },
     {
       "id": 27378,
       "query": [
@@ -17500,78 +17843,6 @@
       "retrievedAt": "2025-12-23 07:10:40.791010",
       "internal_id": "b0e26d4ede874ea6879d29f64c3c54b654020f73ed96ad2f1980335ed6eb766e",
       "publishedAtLabel": "Dec 22"
-    },
-    {
-      "id": 26407,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Measles outbreak grows to 8 cases in Quebec",
-      "description": "On Sunday morning, Dr. Antonio D'Angelo, the head of the pediatric emergency department at CHU Sainte-Justine, told Radio-Canada there had been two confirmed cases of measles at his Montreal hospital over the past week.",
-      "url": "https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507",
-      "urlToImage": "https://i.cbc.ca/ais/b8544bc6-8756-444f-9a39-0a1512d5215e,1762546195349/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
-      "publishedAt": "2025-12-21 18:15:39",
-      "content": "The number of measles cases in Quebec is growing as an outbreak is underway. On the morning of Dec. 19, eight cases were confirmed in the Lanaudi\u00e8re region, the Laurentians, Laval, Que., and Montre\u2026 [+1342 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.584798",
-      "internal_id": "eb793bfc18d96a058342631f57537964f36d318a189b7dd6dceaa37c85f1332f",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26410,
-      "query": [
-        "yersinia"
-      ],
-      "source_id": null,
-      "source_name": "Zoomit.ir",
-      "author": "\u063a\u0632\u0644 \u0627\u0645\u06cc\u0631\u06cc",
-      "title": "\u0645\u0648\u0634\u200c\u0647\u0627 \u0646\u0627\u0642\u0644 \u0637\u0627\u0639\u0648\u0646 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0646\u0628\u0648\u062f\u0646\u062f\u061b \u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0645\u062a\u0647\u0645 \u0627\u0635\u0644\u06cc \u0631\u0627 \u067e\u06cc\u062f\u0627 \u06a9\u0631\u062f\u0646\u062f",
-      "description": "\u062f\u0627\u0646\u0634\u0645\u0646\u062f\u0627\u0646 \u0647\u0645\u06cc\u0634\u0647 \u062f\u0631 \u067e\u06cc \u06cc\u0627\u0641\u062a\u0646 \u0686\u06af\u0648\u0646\u06af\u06cc \u0634\u06cc\u0648\u0639 \u0637\u0627\u0639\u0648\u0646 \u062f\u0631 \u0639\u0635\u0631 \u0628\u0631\u0646\u0632 \u0628\u0648\u062f\u0646\u062f. \u067e\u0627\u0633\u062e \u0627\u06cc\u0646 \u0645\u0639\u0645\u0627 \u0646\u0647 \u062f\u0631 \u0628\u0642\u0627\u06cc\u0627\u06cc \u0627\u0646\u0633\u0627\u0646\u060c \u0628\u0644\u06a9\u0647 \u062f\u0631 \u062f\u0646\u062f\u0627\u0646 \u06cc\u06a9 \u062d\u06cc\u0648\u0627\u0646 \u0627\u0647\u0644\u06cc \u067e\u0646\u0647\u0627\u0646 \u0628\u0648\u062f.",
-      "url": "https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/",
-      "urlToImage": "https://api2.zoomit.ir/media/bronze-age-shepherd-tending-to-a-flock-of-primitive-looking-sheep-69429aef1173a30185c30ebd",
-      "publishedAt": "2025-12-21 17:45:00",
-      "content": ": . . . . : . . . . \u00ab \u00bb : . . (Yersinia pestis) . . . : ( ) . . . . . . . . . . . . ( ) . . . Cell .",
-      "retrievedAt": "2025-12-22 19:06:50.878529",
-      "internal_id": "d5634cb4939435ffb43fdba56bbece41ac087d04c373ce273a73fa4b2ecd541a",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26409,
-      "query": [
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Milenio",
-      "author": "Blanca Valadez",
-      "title": "Secretar\u00eda de Salud alerta por emergencia de fiebre chikungunya en M\u00e9xico",
-      "description": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inform\u00f3 el Comit\u00e9 Nacional para la Vigilancia Epidemiol\u00f3gica (C\u2026",
-      "url": "https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya",
-      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/05/16/ssj-intensifica-campana-lava-voltea-1.jpg",
-      "publishedAt": "2025-12-21 16:14:46",
-      "content": "En M\u00e9xico se han notificado 13 mil 754 casos confirmados de fiebre chikungunya entre 2014 y el 6 de diciembre de 2025, de los cuales 99.6 por ciento fueron aut\u00f3ctonos y 0.4 por ciento importados, inf\u2026 [+4026 chars]",
-      "retrievedAt": "2025-12-22 19:06:50.243368",
-      "internal_id": "bdb8314e281e293eee8fb9243901da4d224798451ec19efaf7a170cb8aabfa42",
-      "publishedAtLabel": "Dec 21"
-    },
-    {
-      "id": 26408,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Rolling Out",
-      "author": "David Kesiena",
-      "title": "Measles cases surge despite 88% drop in deaths since 2000",
-      "description": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% reduction in measles deaths between 2000 and 2024, saving nearly\u2026",
-      "url": "https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/",
-      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/02/shutterstock_1391758727-scaled.jpg",
-      "publishedAt": "2025-12-21 11:20:08",
-      "content": "Measles is staging a troubling comeback around the world despite decades of progress in reducing deaths from the highly contagious disease. While global immunization efforts have achieved an 88% redu\u2026 [+7093 chars]",
-      "retrievedAt": "2025-12-22 19:06:48.624928",
-      "internal_id": "c8ede8d881c75d73bb81e9dc98c7502ed8464cc9c3082c5faf92728c73973136",
-      "publishedAtLabel": "Dec 21"
     }
   ]
 }
