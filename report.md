@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2026-02-06 19:19
-- **Most recent article:** 2026-02-05 19:10:29
+- **New articles in last harvest:** 14
+- **Last harvest:** 2026-02-07 07:17
+- **Most recent article:** 2026-02-06 05:11:39
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 28 | 35 | 26 | 47 | 63 | 88 | 76 | 62 | 425 |
+| measles | 30 | 35 | 26 | 47 | 63 | 88 | 76 | 70 | 435 |
 | dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 9 | 102 |
-| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 10 | 85 |
-| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 5 | 77 |
-| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 13 | 66 |
+| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 86 |
+| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 8 | 80 |
+| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 14 | 67 |
 | mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 10 | 54 |
 | meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 53 |
-| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 5 | 35 |
+| chikungunya | 7 | 3 | 0 | 3 | 1 | 9 | 8 | 6 | 37 |
 | leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 26 |
 | zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
 | hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
-| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 14 |
+| yersinia | 1 | 2 | 0 | 1 | 4 | 2 | 5 | 0 | 15 |
 | typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
 | pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 6 |
 
@@ -37,6 +37,8 @@ Source: [News API](https://newsapi.org/)
 - [Editorial: GHS Mandatory Typhoid Vaccination For Food Vendors Is Very Laudable](https://thechronicle.com.gh/editorial-ghs-mandatory-typhoid-vaccination-for-food-vendors-is-very-laudable/) (Thechronicle.com.gh)
 
 ## 26-6 (rabies)
+
+- [What does it mean when a racoon is out during the day?](https://www.lifesciencesworld.com/what-does-it-mean-when-a-racoon-is-out-during-the-day/) (Lifesciencesworld.com)
 
 - [Gabriellas, 24, rabiesskräck i Vietnam: ”Demonhund”](https://www.expressen.se/nyheter/varlden/gabriellas-24-rabiesskrack-i-vietnam-demonhund/) (Expressen.se)
 
@@ -96,11 +98,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (measles)
 
+- [February 5, 2026 - PBS News Hour full episode](https://www.pbs.org/newshour/show/february-5-2026-pbs-news-hour-full-episode) (PBS)
+
+- [Measles outbreak linked to Florida university](https://www.cbsnews.com/video/measles-outbreak-linked-to-florida-university/) (CBS News)
+
+- [Measles is raging worldwide: are you at risk?](https://www.nature.com/articles/d41586-026-00367-5) (Nature.com)
+
+- [What to know about South Carolina's big measles outbreak and who is most at risk](https://www.pbs.org/newshour/show/what-to-know-about-south-carolinas-big-measles-outbreak-and-who-is-most-at-risk) (PBS)
+
+- [Measles outbreak in Mexico prompts health alert in World Cup host Jalisco](https://www.bostonherald.com/2026/02/05/measles-outbreak-jalisco/) (Boston Herald)
+
+- [Why a child rights approach to measles vaccination is urgently needed](https://speakingofmedicine.plos.org/2026/02/05/why-a-child-rights-approach-to-measles-vaccination-is-urgently-needed/) (Plos.org)
+
 - [Measles outbreak in Mexico prompts health alert in World Cup host Jalisco](https://abcnews.go.com/Health/wireStory/measles-outbreak-mexico-prompts-health-alert-world-cup-129892256) (ABC News)
 
 - [South Carolina measles outbreak is triggering dangerous brain swelling in some children](https://www.scientificamerican.com/article/south-carolina-measles-outbreak-triggering-encephalitis-brain-swelling/) (Scientific American)
 
+- [This Measles Outbreak at a Detention Center Perfectly Encapsulates America Right Now](http://futurism.com/health-medicine/measles-detainment-united-states) (Futurism)
+
 - [Measles Infection Count in January Topped Total Cases in 2023 and 2024 Combined](https://truthout.org/articles/measles-infection-count-in-january-topped-total-cases-in-2023-and-2024-combined/) (Truthout)
+
+- [Measles Outbreaks, Preventative Cardiology, and Other News](https://insights.som.yale.edu/podcasts/health-veritas/measles-outbreaks-preventative-cardiology-and-other-news) (Yale.edu)
 
 - [Measles continues to spread in the US, but with some letup](https://www.npr.org/2026/02/05/nx-s1-5698522/measles-south-carolina-ice-detention-facilities) (NPR)
 
@@ -222,6 +240,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (malaria)
 
+- [Podcast Episode 23: Generating Evidence for the Future of Malaria Prevention](https://blog.givewell.org/2026/02/05/podcast-episode-23-generating-evidence-for-the-future-of-malaria-prevention/) (Givewell.org)
+
 - [emod-malaria 2.32.0](https://pypi.org/project/emod-malaria/2.32.0/) (Pypi.org)
 
 - [KZN Health reassures residents as malaria cases rise in flood-hit Mpumalanga](https://www.ecr.co.za/news/news/kzn-health-reassures-malaria-cases-flood-mpumalanga/) (Ecr.co.za)
@@ -262,6 +282,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (h5n1)
 
+- [Chennai Bird Flu: चेन्नई में सैकड़ों कौवों की मौत, H5N1 की पुष्टि से मचा हड़कंप, स्वास्थ्य विभाग सतर्क](https://hindi.moneycontrol.com/india/hundreds-of-crows-die-in-chennai-h5n1-confirmed-health-department-on-alert-article-2363063.html) (Moneycontrol)
+
+- [H5N1 avian flu scare in Chennai: Several crow deaths reported; public health advisory issued](https://timesofindia.indiatimes.com/city/chennai/h5n1-avian-flu-scare-in-chennai-several-crow-deaths-reported-public-health-advisory-issued/articleshow/127969962.cms) (The Times of India)
+
+- [Bird flu scare in Tamil Nadu as over 1,000 crows found dead in Chennai, nearby areas: Check avian flu signs, symptoms and how you can stay safe](https://economictimes.indiatimes.com/news/new-updates/bird-flu-scare-in-tamil-nadu-as-over-1000-crows-found-dead-in-chennai-nearby-areas-check-avian-flu-signs-symptoms-and-how-you-can-stay-safe/articleshow/127969925.cms) (The Times of India)
+
 - [Nova vacina nasal mostra proteção promissora contra gripe aviária H5N1](https://www.metropoles.com/saude/vacina-nasal-contra-gripe-aviaria) (Metropoles.com)
 
 - [Detecting Influenza A(H5N1) Viruses through Severe Acute Respiratory Infection Surveillance, Cambodia](https://wwwnc.cdc.gov/eid/article/32/3/25-0832_article) (Cdc.gov)
@@ -293,6 +319,8 @@ Source: [News API](https://newsapi.org/)
 - [Juntos Contra a Dengue: EPTV lança campanha para alertar sobre perigos da doença e combater mosquito transmissor](https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/02/juntos-contra-a-dengue-eptv-lanca-campanha-para-alertar-sobre-perigos-da-doenca-e-combater-mosquito-transmissor.ghtml) (Globo)
 
 ## 26-6 (chikungunya)
+
+- [Live-attenuated chikungunya vaccine in children: a randomized phase 2 trial](https://www.nature.com/articles/s41591-025-04197-2) (Nature.com)
 
 - [Level 2 - Chikungunya in Suriname](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-suriname) (Cdc.gov)
 
@@ -1990,6 +2018,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
 
+## 25-52 (yersinia)
+
+- [موش‌ها ناقل طاعون عصر برنز نبودند؛ دانشمندان متهم اصلی را پیدا کردند](https://www.zoomit.ir/health-medical/454042-bronze-age-plague-sheep-discovery/) (Zoomit.ir)
+
 ## 25-52 (rabies)
 
 - [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
@@ -2116,6 +2148,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
 
+- [Measles outbreak grows to 8 cases in Quebec](https://www.cbc.ca/news/canada/montreal/measles-montreal-sites-of-exposure-9.7024507) (CBC News)
+
+- [Measles cases surge despite 88% drop in deaths since 2000](https://rollingout.com/2025/12/21/measles-cases-surge-drop-vaccination/) (Rolling Out)
+
 ## 25-52 (malaria)
 
 - [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
@@ -2213,3 +2249,5 @@ Source: [News API](https://newsapi.org/)
 - [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
 
 - [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
+
+- [Secretaría de Salud alerta por emergencia de fiebre chikungunya en México](https://www.milenio.com/ciencia-y-salud/ssa-alerta-por-emergencia-de-fiebre-chikungunya) (Milenio)
