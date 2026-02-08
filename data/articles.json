@@ -1,8 +1,80 @@
 {
-  "last_updated": "2026-02-08 07:20",
-  "count_articles_total": 901,
-  "count_articles_new": 10,
+  "last_updated": "2026-02-08 19:12",
+  "count_articles_total": 900,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 27410,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Stone",
+      "author": "Elisabeth Garber-Paul",
+      "title": "Measles Isn\u2019t \u2018Just a Childhood Disease\u2019 \u2014 And Outbreaks Could Have Lingering Effects",
+      "description": "The United States is on track to lose its \"elimination status\" for measles, and that could be bad for all of us.",
+      "url": "http://www.rollingstone.com/culture/culture-features/measles-outbreak-complications-disease-lintering-effects-1235512523/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/02/lingering-measles-symptoms.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-02-07 15:00:00",
+      "content": "Last year, the United States had the highest number of measles cases in more than three decades \u2014 and 2026 is already on track to surpass it. According to the Centers for Disease Control and Preventi\u2026 [+8459 chars]",
+      "retrievedAt": "2026-02-08 19:12:03.672281",
+      "internal_id": "213ae0d8321e50701a1b113d32d21984bdb3946c8949c62329af4ddc8011f682",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 27412,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Vacina\u00e7\u00e3o contra dengue: governo de SP inicia campanha com imunizante do Butantan em todo o Estado",
+      "description": "Imuniza\u00e7\u00e3o com a Butantan-DV come\u00e7a nesta segunda-feira, 9, e ser\u00e1 destinada, nesta primeira etapa, aos profissionais da Aten\u00e7\u00e3o Prim\u00e1ria \u00e0 Sa\u00fade",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/vacinacao-contra-dengue-governo-de-sp-inicia-campanha-com-imunizante-do-butantan-em-todo-o-estado,30c63bfb987f0b3ced6be2d2e4a2af68g67404gg.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2026-02-07 13:15:12",
+      "content": "O governo de S\u00e3o Paulo inicia nesta segunda-feira, 9, a campanha de vacina\u00e7\u00e3o contra a dengue com a Butantan-DV em todos os 645 munic\u00edpios do Estado. Desenvolvido pelo Instituto Butantan, o imunizant\u2026 [+2372 chars]",
+      "retrievedAt": "2026-02-08 19:12:04.613952",
+      "internal_id": "874eebddc8e32028a780a7c8f6a772bcdc31572cca11ab703e6bf2176cc96dcd",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 27413,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Gessika Cristiny Santos de Oliveira",
+      "title": "Esta mistura simples de soro caseiro \u00e9 a arma mais poderosa contra a desidrata\u00e7\u00e3o profunda",
+      "description": "Enfrentando viroses ou dengue? O soro caseiro pode ser seu maior aliado mas apenas se voc\u00ea seguir estas instru\u00e7\u00f5es obrigat\u00f3rias que revelamos no guia completo. O post Esta mistura simples de soro caseiro \u00e9 a arma mais poderosa contra a desidrata\u00e7\u00e3o profunda a\u2026",
+      "url": "https://catracalivre.com.br/saude-bem-estar/esta-mistura-simples-de-soro-caseiro-e-a-arma-mais-poderosa-contra-a-desidratacao-profunda/",
+      "urlToImage": "https://i.catracalivre.com.br/YsWSt0ANeaSzqNud6sbYyAX3Sjs=/1200x630/smart/filters:quality(60)/catracalivre.com.br/wp-content/uploads/2026/02/freepik-copo-de-vidro-transparente-com-soro-caseiro-pronto-75104.png",
+      "publishedAt": "2026-02-07 11:26:40",
+      "content": "O soro caseiro \u00e9 uma solu\u00e7\u00e3o simples utilizada para ajudar no combate \u00e0 desidrata\u00e7\u00e3o leve a moderada, principalmente em situa\u00e7\u00f5es de diarreia e v\u00f4mitos. Por ser feito com ingredientes comuns, acaba s\u2026 [+4927 chars]",
+      "retrievedAt": "2026-02-08 19:12:04.633131",
+      "internal_id": "a23d11631d1f3c35dc7bec4b349dbf70d130e369b045be11d023032bf0a3ccc6",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 27411,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TOI Astrology",
+      "title": "6 Amazing Vastu benefits of using Camphor at home",
+      "description": "Camphor holds sacred significance in Vedic rituals and Vastu Shastra, believed to dispel negativity and attract divine blessings. Its ability to sublimate when burned symbolizes ego dissolution, purifying spaces and aligning home energies with cosmic harmony.\u2026",
+      "url": "https://timesofindia.indiatimes.com/astrology/vastu-feng-shui/6-amazing-vastu-benefits-of-using-camphor-at-home/articleshow/127911045.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-127911067,width-1280,height-720,imgsize-54472,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-07 09:03:44",
+      "content": "Follow Us On Social Media Chennai: Income Tax Penalty, GCC, H5N1 Avian Flu &amp; MoreYour Woke Gender ideology Is Un-American: Josh Hawley Shuts Down Netflix CEO In Fiery GrillingKochi: ED Raids, Cr\u2026 [+3118 chars]",
+      "retrievedAt": "2026-02-08 19:12:04.440125",
+      "internal_id": "b08e99b53e2280179181f8aba5e58b85f4e84e820fb48a0cc33826a4f7b889ed",
+      "publishedAtLabel": "Feb 7"
+    },
     {
       "id": 27408,
       "query": [
@@ -16158,96 +16230,6 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26510,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Live Science",
-      "author": "Nicoletta Lanese",
-      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
-      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
-      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
-      "publishedAt": "2025-12-28 15:00:00",
-      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
-      "retrievedAt": "2025-12-29 19:06:37.716406",
-      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26512,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
-      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 14:10:33",
-      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.025368",
-      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26513,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Diario EL PAIS Uruguay",
-      "author": "Nicolas Lauber",
-      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
-      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
-      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
-      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
-      "publishedAt": "2025-12-28 13:45:17",
-      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
-      "retrievedAt": "2025-12-29 19:06:40.126081",
-      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26509,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Madhyamam.com",
-      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
-      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
-      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
-      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
-      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
-      "publishedAt": "2025-12-28 10:24:23",
-      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
-      "retrievedAt": "2025-12-29 19:06:37.550099",
-      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26511,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
-      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 10:04:39",
-      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.014393",
-      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]

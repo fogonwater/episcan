@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-02-08 07:20
-- **Most recent article:** 2026-02-07 05:46:12
+- **New articles in last harvest:** 4
+- **Last harvest:** 2026-02-08 19:12
+- **Most recent article:** 2026-02-07 15:00:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 33 | 26 | 47 | 63 | 88 | 76 | 89 | 422 |
-| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 13 | 94 |
-| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 11 | 73 |
-| rabies | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 67 |
-| malaria | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 56 |
+| measles | 32 | 26 | 47 | 63 | 88 | 76 | 90 | 422 |
+| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 15 | 96 |
+| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 74 |
+| rabies | 7 | 6 | 10 | 10 | 12 | 10 | 11 | 66 |
+| malaria | 3 | 0 | 13 | 8 | 7 | 8 | 15 | 54 |
 | mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 50 |
 | meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 49 |
 | chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 7 | 31 |
-| leptospirosis | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 24 |
+| leptospirosis | 3 | 4 | 2 | 1 | 4 | 6 | 3 | 23 |
 | zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 22 |
 | yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 14 |
 | hpai | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 13 |
@@ -103,6 +103,8 @@ Source: [News API](https://newsapi.org/)
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
+
+- [Measles Isn’t ‘Just a Childhood Disease’ — And Outbreaks Could Have Lingering Effects](http://www.rollingstone.com/culture/culture-features/measles-outbreak-complications-disease-lintering-effects-1235512523/) (Rolling Stone)
 
 - [Thousands may have been exposed to measles at Brandon Ag Days event, Manitoba warns](https://www.cbc.ca/news/canada/manitoba/ag-days-brandon-measles-exposure-9.7078546) (CBC News)
 
@@ -328,6 +330,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (h5n1)
 
+- [6 Amazing Vastu benefits of using Camphor at home](https://timesofindia.indiatimes.com/astrology/vastu-feng-shui/6-amazing-vastu-benefits-of-using-camphor-at-home/articleshow/127911045.cms) (The Times of India)
+
 - [New 6-bed ICU brings specialised lung care for children to RML Hospital](https://timesofindia.indiatimes.com/city/delhi/new-6-bed-icu-brings-specialised-lung-care-for-children-to-rml-hospital/articleshow/128021805.cms) (The Times of India)
 
 - [Is wearing black colour good or bad?](https://timesofindia.indiatimes.com/astrology/others/is-wearing-the-black-colour-good-or-bad/articleshow/127938192.cms) (The Times of India)
@@ -351,6 +355,10 @@ Source: [News API](https://newsapi.org/)
 - [Grippe aviaire : la prochaine crise sanitaire que personne ne voit venir](https://www.presse-citron.net/grippe-aviaire-prochaine-crise-sanitaire-personne-voit-venir/) (Presse-citron)
 
 ## 26-6 (dengue)
+
+- [Vacinação contra dengue: governo de SP inicia campanha com imunizante do Butantan em todo o Estado](https://www.terra.com.br/vida-e-estilo/saude/vacinacao-contra-dengue-governo-de-sp-inicia-campanha-com-imunizante-do-butantan-em-todo-o-estado,30c63bfb987f0b3ced6be2d2e4a2af68g67404gg.html) (Terra.com.br)
+
+- [Esta mistura simples de soro caseiro é a arma mais poderosa contra a desidratação profunda](https://catracalivre.com.br/saude-bem-estar/esta-mistura-simples-de-soro-caseiro-e-a-arma-mais-poderosa-contra-a-desidratacao-profunda/) (Catracalivre.com.br)
 
 - [Minsal refuerza alertas sanitarias en verano: aumentan brotes alimentarios y casos importados de dengue y chikungunya](https://www.latercera.com/nacional/noticia/minsal-refuerza-alertas-sanitarias-en-verano-aumentan-brotes-alimentarios-y-casos-importados-de-dengue-y-chikungunya/) (Latercera.com)
 
@@ -1924,8 +1932,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What happens to the cat after it bites someone?](https://www.lifesciencesworld.com/what-happens-to-the-cat-after-it-bites-someone/) (Lifesciencesworld.com)
 
-- [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
-
 ## 25-53 (pertussis)
 
 - [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
@@ -2018,8 +2024,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Petah Tikva joins list of measles outbreak hotspots](https://www.israelnationalnews.com/news/420035) (Israelnationalnews.com)
 
-- [Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses](https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses) (Live Science)
-
 ## 25-53 (malaria)
 
 - [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
@@ -2028,10 +2032,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
 
-- [School assembly news headlines for December 29: Top national, international & sports updates](https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms) (The Times of India)
-
-- [India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah](https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms) (The Times of India)
-
 ## 25-53 (leptospirosis)
 
 - [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
@@ -2039,8 +2039,6 @@ Source: [News API](https://newsapi.org/)
 - [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
 
 - [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
-
-- [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
 
 ## 25-53 (h5n1)
 
