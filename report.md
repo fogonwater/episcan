@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2026-02-07 19:11
-- **Most recent article:** 2026-02-06 17:10:56
+- **New articles in last harvest:** 10
+- **Last harvest:** 2026-02-08 07:20
+- **Most recent article:** 2026-02-07 05:46:12
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-52 | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
-|--|-|-|-|-|-|-|-|-|-|
-| measles | 28 | 35 | 26 | 47 | 63 | 88 | 76 | 81 | 444 |
-| dengue | 11 | 4 | 1 | 12 | 22 | 27 | 16 | 13 | 106 |
-| rabies | 19 | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 86 |
-| h5n1 | 10 | 2 | 1 | 12 | 8 | 17 | 22 | 9 | 81 |
-| malaria | 12 | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 68 |
-| mpox | 5 | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 55 |
-| meningitis | 4 | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 53 |
-| chikungunya | 6 | 3 | 0 | 3 | 1 | 9 | 8 | 7 | 37 |
-| leptospirosis | 2 | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 26 |
-| zika | 3 | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 25 |
-| yersinia | 0 | 2 | 0 | 1 | 4 | 2 | 5 | 1 | 15 |
-| hpai | 2 | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 15 |
-| typhoid | 0 | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
-| pertussis | 2 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 6 |
+| Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 33 | 26 | 47 | 63 | 88 | 76 | 89 | 422 |
+| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 13 | 94 |
+| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 11 | 73 |
+| rabies | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 67 |
+| malaria | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 56 |
+| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 50 |
+| meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 49 |
+| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 7 | 31 |
+| leptospirosis | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 24 |
+| zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 22 |
+| yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 14 |
+| hpai | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 13 |
+| typhoid | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
+| pertussis | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -103,6 +103,22 @@ Source: [News API](https://newsapi.org/)
 - [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
+
+- [Thousands may have been exposed to measles at Brandon Ag Days event, Manitoba warns](https://www.cbc.ca/news/canada/manitoba/ag-days-brandon-measles-exposure-9.7078546) (CBC News)
+
+- [Manitoba reports 74 measles cases in January, highest monthly case count of latest outbreak](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-public-health-confirmed-cases-9.7077478) (CBC News)
+
+- [Measles outbreak poses risk of 'irreversible' brain damage, health officials warn](https://www.foxnews.com/health/measles-outbreak-poses-risk-irreversible-brain-damage-health-officials-warn) (Fox News)
+
+- [What if the polio vaccine becomes optional?](https://www.wbur.org/onpoint/2026/02/06/cdc-polio-vaccine-optional-advisory-panel) (WBUR)
+
+- [Measles Outbreak in South Carolina Linked to Brain Swelling in Kids](https://gizmodo.com/measles-outbreak-in-south-carolina-linked-to-brain-swelling-in-kids-2000718913) (Gizmodo.com)
+
+- [Fear in Minnesota's Somali community deepens, hampering progress on measles vaccination](https://richmond.com/news/nation-world/article_5e2d6980-9e4a-53d6-be5f-97cd47ec3d90.html) (Richmond.com)
+
+- [Fear in Minnesota's Somali community deepens, hampering progress on measles vaccination](https://roanoke.com/news/nation-world/article_a79cd501-8e3b-5cee-afa9-4b8c2b6bb8ce.html) (Roanoke Times)
+
+- [New Details Emerge on How RFK Jr. Helped Cause a Measles Outbreak](https://newrepublic.com/post/206268/robert-f-kennedy-jr-emails-measles-outbreak-samoa) (The New Republic)
 
 - [Fear in Minnesota’s Somali community deepens, hampering progress on measles vaccination](https://www.bostonherald.com/2026/02/06/measles-vaccine-misinformation/) (Boston Herald)
 
@@ -311,6 +327,10 @@ Source: [News API](https://newsapi.org/)
 - [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-6 (h5n1)
+
+- [New 6-bed ICU brings specialised lung care for children to RML Hospital](https://timesofindia.indiatimes.com/city/delhi/new-6-bed-icu-brings-specialised-lung-care-for-children-to-rml-hospital/articleshow/128021805.cms) (The Times of India)
+
+- [Is wearing black colour good or bad?](https://timesofindia.indiatimes.com/astrology/others/is-wearing-the-black-colour-good-or-bad/articleshow/127938192.cms) (The Times of India)
 
 - [Vogelgrippe-Virus grassiert in Berlin: Vor allem Gänse und Schwäne betroffen](https://www.morgenpost.de/berlin/article411130747/vogelgrippe-virus-grassiert-in-berlin-vor-allem-gaense-und-schwaene-betroffen.html) (Berliner Morgenpost)
 
@@ -1882,8 +1902,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Systematic analysis of spontaneous tandem genome amplification events in Yersinia pestis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338460) (Plos.org)
 
-- [[Перевод] Как древняя чума изменила человечество 5000 лет назад](https://habr.com/ru/articles/963048/#post-content-body) (Habr.com)
-
 ## 25-53 (typhoid)
 
 - [쿼드메디슨, GSK와 장티푸스 백신 MAP 보강 계약 체결](https://www.venturesquare.net/1029749) (Venturesquare.net)
@@ -2002,10 +2020,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses](https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses) (Live Science)
 
-- [Newark Airport passenger may have exposed others to measles, New Jersey Health Department says](https://abc7ny.com/post/newark-airport-passenger-may-have-exposed-others-measles-new-jersey-health-department-says/18325181/) (WABC-TV)
-
-- [N.J. health officials warn of potential measles exposures at Newark Liberty Airport. Here's what we know.](https://www.cbsnews.com/newyork/news/newark-liberty-airport-terminal-b-and-c-measles-exposure/) (CBS News)
-
 ## 25-53 (malaria)
 
 - [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
@@ -2042,8 +2056,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Thambili Lahiru, who contracted dengue, has been hospitalized.](https://english.gossiplankanews.com/2025/12/thambili-lahiru-who-contracted-dengue.html) (Gossiplankanews.com)
 
-- [Singapore sees lowest annual dengue cases since 2018](https://www.straitstimes.com/singapore/health/dengue-cases-in-spore-hit-7-year-low-in-2025-amid-global-decrease) (The Straits Times)
-
 ## 25-53 (chikungunya)
 
 - [Valneva, Serum Institute of India discontinue chikungunya vaccine pact](https://thefly.com/permalinks/entry.php/id4262980/VALN-Valneva-Serum-Institute-of-India-discontinue-chikungunya-vaccine-pact) (Thefly.com)
@@ -2051,235 +2063,3 @@ Source: [News API](https://newsapi.org/)
 - [Valneva and Serum Institute of India Announce Discontinuation of Chikungunya Vaccine License Agreement](https://www.globenewswire.com/news-release/2025/12/31/3211836/0/en/Valneva-and-Serum-Institute-of-India-Announce-Discontinuation-of-Chikungunya-Vaccine-License-Agreement.html) (GlobeNewswire)
 
 - [Valneva et le Serum Institute of India annoncent la fin de leur accord de licence pour le vaccin contre le chikungunya](https://www.globenewswire.com/news-release/2025/12/31/3211836/0/fr/Valneva-et-le-Serum-Institute-of-India-annoncent-la-fin-de-leur-accord-de-licence-pour-le-vaccin-contre-le-chikungunya.html) (GlobeNewswire)
-
-## 25-52 (zika)
-
-- [Spatial pattern assessment of Aedes mosquito bite risk in a subtropical metropolitan area: A case study in Shenzhen](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013843) (Plos.org)
-
-- [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
-
-- [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
-
-## 25-52 (rabies)
-
-- [Australia flags fake Abhyarab rabies vaccine; IIL disputes scope of the advisory](https://www.indiatoday.in/health/story/australia-flags-fake-abhyarab-rabies-vaccine-iil-disputes-scope-of-the-advisory-2842698-2025-12-27) (India Today)
-
-- [Indian Immunologicals writes to Australian health authorities about counterfeit rabies vaccine](https://www.thehindubusinessline.com/news/indian-immunologicals-writes-to-australian-health-authorities-about-counterfeit-rabies-vaccine/article70442960.ece) (BusinessLine)
-
-- [Abhayrab rabies vaccine: IIL says counterfeit batch no longer available](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/abhayrab-rabies-vaccine-iil-says-counterfeit-batch-no-longer-available/articleshow/126201186.cms) (The Times of India)
-
-- [Can you stop rabies before it reaches the brain?](https://www.lifesciencesworld.com/can-you-stop-rabies-before-it-reaches-the-brain/) (Lifesciencesworld.com)
-
-- [Rabid raccoon captured in Norfolk center](https://www.thesunchronicle.com/news/local_news/rabid-raccoon-captured-in-norfolk-center/article_9096cdb5-c8f0-434c-add9-4e7b8a49b0d8.html) (The Sun Chronicle)
-
-- [Rabies Infection on the Rise in Sudurpaschim](https://english.khabarhub.com/2025/26/513183/) (Khabarhub.com)
-
-- [Dog bite and rabies: A public health risk](https://punchng.com/dog-bite-and-rabies-a-public-health-risk/) (The Punch)
-
-- [At what age do ferrets get vaccinated?](https://www.lifesciencesworld.com/at-what-age-do-ferrets-get-vaccinated/) (Lifesciencesworld.com)
-
-- [Should you get a rabies shot if a possum bites you?](https://www.lifesciencesworld.com/should-you-get-a-rabies-shot-if-a-possum-bites-you/) (Lifesciencesworld.com)
-
-- [Illinois Health Officials Report First Dog Rabies Case in 31 Years](https://gizmodo.com/illinois-health-officials-report-first-dog-rabies-case-in-31-years-2000702963) (Gizmodo.com)
-
-- [rabies 0.5.5](https://pypi.org/project/rabies/0.5.5/) (Pypi.org)
-
-- [Chicago dog tests positive for rabies for 1st time in decades, Illinois Department of Public Health says](https://abc7chicago.com/post/chicago-dog-tests-positive-rabies-1st-time-decades-illinois-department-public-health-says/18308990/) (WLS-TV)
-
-- [Level 1 - Rabies in Morocco](https://wwwnc.cdc.gov/travel/notices/level1/rabies-morocco) (Cdc.gov)
-
-- [Bat Reovirus as Cause of Acute Respiratory Disease and Encephalitis in Humans, Bangladesh, 2022–2023](https://wwwnc.cdc.gov/eid/article/31/12/25-0797_article) (Cdc.gov)
-
-- [Chicago dog tests positive for rabies in first case in decades](https://www.nbcchicago.com/news/local/chicago-dog-is-the-first-to-test-positive-for-rabies-in-illinois-in-decades/3866990/) (NBC Chicago)
-
-- [Primate: Troy Kotsur featurette and audience reaction promo build the hype for horror film about a rabies-crazed chimp](https://www.joblo.com/primate-promos/) (JoBlo.com)
-
-- [Should I get a rabies shot if bitten by a squirrel?](https://www.lifesciencesworld.com/should-i-get-a-rabies-shot-if-bitten-by-a-squirrel/) (Lifesciencesworld.com)
-
-- [How long can a fox have rabies before it dies?](https://www.lifesciencesworld.com/how-long-can-a-fox-have-rabies-before-it-dies/) (Lifesciencesworld.com)
-
-- [Portable Bilayer Microneedle Patch for Rapid and Patient-Friendly Administration of Rabies Immunoglobulin and Enhanced Wound Healing](https://pubs.rsc.org/en/content/articlelanding/2026/tb/d5tb01351h) (Royal Society of Chemistry)
-
-## 25-52 (pertussis)
-
-- [Whooping Cough Symptoms: Spot Pertussis & Child Coughing Fits Early Before It's Too Late](https://www.medicaldaily.com/whooping-cough-symptoms-spot-pertussis-child-coughing-fits-early-before-its-too-late-474104) (Medical Daily)
-
-- [Research: Pertussis: laboratory confirmed cases reported in England 2024](https://www.gov.uk/government/publications/pertussis-laboratory-confirmed-cases-reported-in-england-2024) (Www.gov.uk)
-
-## 25-52 (mpox)
-
-- [Anchorage man tests positive for mpox, the first case in a year](https://alaskapublic.org/news/health/2025-12-26/anchorage-man-tests-positive-for-mpox-the-first-case-in-a-year) (Alaska Public Media News)
-
-- [Health officials confirm mpox in Anchorage adult who traveled out of state](https://www.adn.com/alaska-news/anchorage/2025/12/22/health-officials-confirm-mpox-in-anchorage-adult-who-traveled-out-of-state/) (Anchorage Daily News)
-
-- [La inteligencia artificial abre una nueva puerta en la lucha contra la viruela del mono](https://wwwhatsnew.com/2025/12/22/la-inteligencia-artificial-abre-una-nueva-puerta-en-la-lucha-contra-la-viruela-del-mono/) (Wwwhatsnew.com)
-
-- [Mpox, VIH, Covid, rougeole… Ce premier quart de siècle a été marqué par plusieurs pandémies](https://www.lavenir.net/actu/2025/12/22/mpox-vih-covid-rougeole-ce-premier-quart-de-siecle-a-ete-marque-par-plusieurs-pandemies-K6ND4UROOVAVVH6FSG4S4CI3MA/) (Lavenir.net)
-
-- [Vaccinia virus mRNAs containing long 5′-poly(A)-leaders lack a canonical 5′-methylguanosine cap](https://www.nature.com/articles/s41467-025-67916-w) (Nature.com)
-
-## 25-52 (meningitis)
-
-- [Depew High School senior barred from school over vaccine](https://buffalonews.com/news/local/article_06830d67-2599-410b-a6ed-ad40d9621756.html) (Buffalo News)
-
-- [Critical illness claim rejected by insurer? Here's what you can do](https://www.livemint.com/money/personal-finance/critical-illness-claim-rejection-insurance-policy-insurance-ombudsman-11766651971140.html) (Livemint)
-
-- [Metatranscriptomic Identification of Trubanaman Virus Sequences in Patient with Encephalitis, Australia](https://wwwnc.cdc.gov/eid/article/31/12/25-1190_article) (Cdc.gov)
-
-- [Yuletide: NCDC warns against Lassa fever, meningitis, others](https://punchng.com/yuletide-ncdc-warns-against-lassa-fever-meningitis-others/) (The Punch)
-
-## 25-52 (measles)
-
-- [Massachusetts Public Health Officials alert residents about potential exposure to measles in multiple locations as cases increase nationwide - NewsBreak](https://www.newsbreak.com/share/4414631085179-massachusetts-public-health-officials-alert-residents-about-potential-exposure-to-measles-in-multiple-locations-as-cases-increase-nationwide?_f=app_share&amp;pd=06vkfAbG&amp;lang=en_US&amp;send_time=1766858050&amp;trans_data=%7B%22platform%22%3A0%2C%22cv%22%3A%2225.14.0.43%22%2C%22languages%22%3A%22en%22%7D&amp;s=i2) (Newsbreak.com)
-
-- [New SC measles cases linked to school exposure](https://www.wsoctv.com/news/local/new-sc-measles-cases-linked-school-exposure/4FVMFSM4LFAS3ASDNSCLSJMTZI/) (WSOC Charlotte)
-
-- [Health officials warn of measles exposure at Newark Liberty International Airport](https://newjersey.news12.com/health-officials-warn-of-measles-exposure-at-newark-liberty-international-airport) (News12.com)
-
-- [‘Cholera, Lassa fever, others killed 1,738 in 2025’](https://punchng.com/cholera-lassa-fever-others-killed-1738-in-2025/) (The Punch)
-
-- [Possible Measles Exposure At Newark Airport Amid Holiday Travel: Health Officials](https://patch.com/new-jersey/newarknj/possible-measles-exposure-newark-airport-amid-holidays) (Avon, CT Patch)
-
-- [Comments - What the Public Health Agency of Canada Isn’t Telling You About Measles](https://tedkuntz.substack.com/p/what-the-public-health-agency-of/comment/180507435) (Substack.com)
-
-- [Officials warn about possible measles exposures in Boston and Westborough](https://www.boston.com/news/health/2025/12/24/officials-warn-possible-measles-exposures-boston-westborough/) (Boston.com)
-
-- [State health officials warn of possible measles exposure in Boston, Westboro - Boston News, Weather, Sports | WHDH 7News](https://whdh.com/news/state-health-officials-warn-of-possible-measles-exposure-in-boston-westboro/) (Boston News, Weather, Sports | WHDH 7News)
-
-- [Mass. health officials warn of possible measles exposures](https://www.boston25news.com/news/local/mass-health-officials-warn-possible-exposures/XAKR2FDV3ZB6HGDF5HM6FCKKYE/) (Boston 25 News)
-
-- [Massachusetts DPH warns residents about possible measles exposures in multiple locations](https://www.bostonherald.com/2025/12/24/massachusetts-dph-warns-residents-about-possible-measles-exposures-in-multiple-locations/) (Boston Herald)
-
-- [Measles exposure in Massachusetts, health officials say](https://www.nbcboston.com/news/local/measles-in-massachusetts-health-officials-warn-of-possible-exposure-in-boston-westborough/3867121/) (NBC10 Boston)
-
-- [Health officials warn of potential measles exposure at DIA](https://www.cpr.org/2025/12/23/dia-potential-measles-exposure/) (Colorado Public Radio)
-
-- [Measles death toll hits 153 in 11 months](https://punchng.com/measles-death-toll-hits-153-in-11-months/) (The Punch)
-
-- [Winkler clinic, Morden entertainment venue among latest measles exposure sites](https://www.cbc.ca/news/canada/manitoba/measles-exposure-manitoba-dec23-2025-9.7026902) (CBC News)
-
-- [Possible measles exposure at Denver International Airport](https://www.denverpost.com/2025/12/23/measles-denver-international-airport/) (The Denver Post)
-
-- [Health officials warn of possible measles exposure at Denver International Airport](https://www.kktv.com/2025/12/23/health-officials-warn-possible-measles-exposure-denver-international-airport/) (KKTV 11 News)
-
-- [Fewer people would recommend MMR vaccine: Survey (Nathaniel Weixel/The Hill)](https://www.memeorandum.com/251223/p62) (Memeorandum.com)
-
-- [Ogun to vaccinate 2.9m children against measles, rubella](https://punchng.com/ogun-to-vaccinate-2-9m-children-against-measles-rubella/) (The Punch)
-
-- [Nigeria records 19,213 measles cases, 153 deaths in 11 months — NCDC](https://punchng.com/nigeria-records-19213-measles-cases-153-deaths-in-11-months-ncdc/) (The Punch)
-
-- [Measles could spread during holiday gatherings, Utah health officials warn](https://www.sltrib.com/news/2025/12/23/measles-could-spread-during/) (Salt Lake Tribune)
-
-- [As federal public health collapses under Trump, states are improvising](https://www.salon.com/2025/12/23/as-federal-public-health-collapses-under-trump-states-are-improvising/) (Salon)
-
-- [Public Health Services head: '20% of measles hospitalizations and deaths were malnourished children'](https://www.israelnationalnews.com/flashes/672959) (Israelnationalnews.com)
-
-- [Schools, restaurant among new measles exposure sites in southern Manitoba](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-exposure-sites-dec22-9.7025815) (CBC News)
-
-- [Health officials warn of potential measles exposure at Raleigh-Durham International Airport](https://www.wyff4.com/article/raleigh-durham-international-airport-measles-exposure-health/69840609) (WYFF4 Greenville)
-
-- [Health officials confirm six new measles cases in Utah County](https://kutv.com/news/local/health-officials-confirm-six-new-measles-cases-in-utah-county) (KUTV 2News)
-
-- [Sudan’s Darfur grapples with severe measles outbreak amid ongoing violence](https://www.aljazeera.com/news/2025/12/22/sudans-darfur-grapples-with-severe-measles-outbreak-amid-ongoing-violence) (Al Jazeera English)
-
-- [Guidance: MMRV Vaccine Factsheet – Information for Parents and Caregivers](https://www.gov.uk/government/publications/mmrv-vaccine-factsheet-information-for-parents-and-caregivers) (Www.gov.uk)
-
-- [Measles cases triple in Australia as global outbreaks continue](https://www.abc.net.au/news/2025-12-22/measles-cases-triple-in-australia-2025-global-outbreaks-continue/106017266) (ABC News (AU))
-
-## 25-52 (malaria)
-
-- [Systemic infection with insect-specific viruses does not affect Plasmodium sporozoite formation in Anopheles mosquitoes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013848) (Plos.org)
-
-- [Amplicon-based DNA sequencing to characterize Duffy antigen polymorphisms and analysis of Duffy blood system and glucose-6-phosphate dehydrogenase deficiency in Mauritania](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013882) (Plos.org)
-
-- [【薬】マラリア治療に新たな希望、新薬「ガンラム」が97.4%の治癒率を示す](https://www.2nn.jp/scienceplus/1766663235/) (Www.2nn.jp)
-
-- [‘Staff shortage, poor infrastructure threaten service delivery in PHCs’](https://guardian.ng/features/health/staff-shortage-poor-infrastructure-threaten-service-delivery-in-phcs/) (Guardian Nigeria)
-
-- [Metabolic reprogramming and gut microbiota ecology drive divergent Plasmodium vivax infection outcomes in Anopheles darlingi](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013823) (Plos.org)
-
-- [Lagos council offers senior citizens free medical check](https://punchng.com/lagos-council-offers-senior-citizens-free-medical-check/) (The Punch)
-
-- [Jigawa launches anti-malaria campaign](https://punchng.com/jigawa-launches-anti-malaria-campaign/) (The Punch)
-
-- [Malaria fight can’t be won by govt alone, say NIMR scientists](https://punchng.com/malaria-fight-cant-be-won-by-govt-alone-say-nimr-scientists/) (The Punch)
-
-- [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
-
-- [Inhibition of Wnt signaling in primary human hepatocytes promotes Plasmodium falciparum liver stage development](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013800) (Plos.org)
-
-- [Ni cruces, ni magia: arqueólogos investigan por qué los nubios tatuaban la cara a sus hijos hace 1.400 años](https://muyinteresante.okdiario.com/historia/hallazgo-nubios-tatuajes-infantiles-cristianismo-sudan.html) (Okdiario.com)
-
-- [New infant malaria drug, vaccines light path to hope](https://www.standardmedia.co.ke/health/health-science/article/2001537070/new-infant-malaria-drug-vaccines-light-path-to-hope) (Standard Digital)
-
-## 25-52 (leptospirosis)
-
-- [Can your body fight leptospirosis?](https://www.lifesciencesworld.com/can-your-body-fight-leptospirosis/) (Lifesciencesworld.com)
-
-- [What diseases can my dog get from a possum?](https://www.lifesciencesworld.com/what-diseases-can-my-dog-get-from-a-possum/) (Lifesciencesworld.com)
-
-## 25-52 (hpai)
-
-- [Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Poultry Farm Workers, Washington, USA, 2024](https://wwwnc.cdc.gov/eid/article/31/12/25-1118_article) (Cdc.gov)
-
-- [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
-
-## 25-52 (h5n1)
-
-- [Forscher modellieren Vogelgrippe-Pandemie bei Menschen – „Gefahr ist real“](https://www.morgenpost.de/ratgeber-wissen/article410775029/forscher-modellieren-vogelgrippe-pandemie-bei-menschen-gefahr-ist-real.html) (Berliner Morgenpost)
-
-- [El riesgo de la gripe aviar en vacas lecheras y su amenaza para Europa](https://www.gastronomiaycia.com/el-riesgo-de-la-gripe-aviar-en-vacas-lecheras-y-su-amenaza-para-europa/) (Gastronomiaycia.com)
-
-- [Hasičům pomáhají s likvidací nakaženého velkochovu slepic na Havlíčkobrodsku i vězni](https://www.novinky.cz/clanek/domaci-zpravy-kraj-vysocina-hasicum-pomahaji-s-likvidaci-nakazeneho-velkochovu-slepic-na-havlickobrodsku-i-vezni-40554696) (Novinky.cz)
-
-- [De la peste porcina a la gripe aviar: Cataluña se enfrenta a dos peligrosos brotes víricos de consecuencias inciertas](https://www.elespanol.com/ciencia/20251226/peste-porcina-gripe-aviar-cataluna-enfrenta-peligrosos-brotes-viricos-consecuencias-inciertas/1003744069580_0.html) (Elespanol.com)
-
-- [Figyelmeztetnek a kutatók: súlyos világjárvány robbanhat ki a közeljövőben](https://www.portfolio.hu/gazdasag/20251225/figyelmeztetnek-a-kutatok-sulyos-vilagjarvany-robbanhat-ki-a-kozeljovoben-807894) (Portfolio.hu)
-
-- [Figyelmeztetnek a kutatók: súlyos világjárvány van robbanhat ki a közeljövőben](https://www.portfolio.hu/gazdasag/20251225/figyelmeztetnek-a-kutatok-sulyos-vilagjarvany-van-robbanhat-ki-a-kozeljovoben-807894) (Portfolio.hu)
-
-- [Protection areas in place following bird flu outbreaks](https://www.bbc.com/news/articles/c5y9j44k9dxo) (BBC News)
-
-- [Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus Infection in Poultry Farm Workers, Washington, USA, 2024](https://wwwnc.cdc.gov/eid/article/31/12/25-1118_article) (Cdc.gov)
-
-- [Thousands of birds are dying on a remote island with no end in sight](https://www.abc.net.au/news/2025-12-23/bird-flu-h5n1-virus-outbreak-ground-zero-no-end-in-sight/106023290) (ABC News (AU))
-
-- [New Bird Flu Strains Appear to Target Dairy Cattle More Effectively](https://legalinsurrection.com/2025/12/new-bird-flu-strains-appear-to-target-dairy-cattle-more-effectively/) (Legalinsurrection.com)
-
-## 25-52 (dengue)
-
-- [La semFYC reclama planes de preparación ante epidemias: gripe aviar, H7 y dengue, bajo vigilancia](https://www.infosalus.com/actualidad/noticia-semfyc-reclama-planes-preparacion-epidemias-gripe-aviar-h7-dengue-vigilancia-20251227085017.html) (Infosalus.com)
-
-- [Allarme chikungunya: quasi 50mila casi e 34 decessi, ecco i sintomi da non sottovalutare. L’esperto: “Può essere grave per anziani e bambini”](https://www.ilfattoquotidiano.it/2025/12/26/allarme-chikungunya-quasi-50mila-casi-e-34-decessi-ecco-i-sintomi-da-non-sottovalutare-lesperto-puo-essere-grave-per-anziani-e-bambini/8238547/) (Ilfattoquotidiano.it)
-
-- [Dengue deve atingir 1,8 milhão de brasileiros em 2026 com metade das infecções em SP](https://valor.globo.com/brasil/noticia/2025/12/26/dengue-deve-atingir-18-milhao-de-brasileiros-em-2026-com-metade-das-infeccoes-em-sp.ghtml) (Globo)
-
-- [El investigador brasileño que 'tunea' mosquitos contra el dengue](https://www.elmundo.es/ciencia-y-salud/salud/2025/12/24/6949361fe85ece5a018b456f.html) (El Mundo)
-
-- [Husband to the police, claiming his wife died at IDH not from dengue, but due to a substandard drug.](https://english.gossiplankanews.com/2025/12/husband-to-police-claiming-his-wife.html) (Gossiplankanews.com)
-
-- [Spatial pattern assessment of Aedes mosquito bite risk in a subtropical metropolitan area: A case study in Shenzhen](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013843) (Plos.org)
-
-- [La grave epidemia de enfermedades virales que agrava el colapso sanitario de Cuba](https://www.latercera.com/mundo/noticia/la-grave-epidemia-de-enfermedades-virales-que-agrava-el-colapso-sanitario-de-cuba/) (Latercera.com)
-
-- [Mosquito da dengue tem relógio biológico](https://super.abril.com.br/ciencia/mosquito-da-dengue-tem-relogio-biologico/) (Abril.com.br)
-
-- [Insecticide resistance levels, spatial distribution, and kdr mutations in the dengue vector Aedes albopictus of Hong Kong](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013792) (Plos.org)
-
-- [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
-
-- [Failure of pyriproxyfen at recommended application frequency and doses to control Aedes mosquitoes in Thailand](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013042) (Plos.org)
-
-## 25-52 (chikungunya)
-
-- [Allarme chikungunya: quasi 50mila casi e 34 decessi, ecco i sintomi da non sottovalutare. L’esperto: “Può essere grave per anziani e bambini”](https://www.ilfattoquotidiano.it/2025/12/26/allarme-chikungunya-quasi-50mila-casi-e-34-decessi-ecco-i-sintomi-da-non-sottovalutare-lesperto-puo-essere-grave-per-anziani-e-bambini/8238547/) (Ilfattoquotidiano.it)
-
-- [Trans-complementation of chikungunya virus replicase mutants reveals alphavirus replication complexity and supports antiviral tool development](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013838) (Plos.org)
-
-- [Spatial pattern assessment of Aedes mosquito bite risk in a subtropical metropolitan area: A case study in Shenzhen](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013843) (Plos.org)
-
-- [La grave epidemia de enfermedades virales que agrava el colapso sanitario de Cuba](https://www.latercera.com/mundo/noticia/la-grave-epidemia-de-enfermedades-virales-que-agrava-el-colapso-sanitario-de-cuba/) (Latercera.com)
-
-- [Understanding the social determinants of Aedes-borne diseases in Iran: A qualitative exploration of challenges and policy solutions](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013850) (Plos.org)
-
-- [Chikungunya à La Réunion : pourquoi le risque de nouvelle épidémie est faible](https://sante.ouest-france.fr/maladies/chikungunya/chikungunya-a-la-reunion-pourquoi-le-risque-de-nouvelle-epidemie-est-faible-ce16ae7c-df14-11f0-84e2-922db77b2982) (Ouest-France)
