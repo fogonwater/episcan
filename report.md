@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2026-02-09 07:29
-- **Most recent article:** 2026-02-08 05:19:00
+- **New articles in last harvest:** 3
+- **Last harvest:** 2026-02-09 19:33
+- **Most recent article:** 2026-02-08 18:48:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 33 | 26 | 47 | 63 | 88 | 76 | 101 | 0 | 434 |
+| measles | 32 | 26 | 47 | 63 | 88 | 76 | 101 | 2 | 435 |
 | dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 0 | 97 |
-| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 0 | 74 |
-| rabies | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 0 | 67 |
-| malaria | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 0 | 56 |
+| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 1 | 75 |
+| rabies | 7 | 6 | 10 | 10 | 12 | 10 | 11 | 0 | 66 |
+| malaria | 3 | 0 | 13 | 8 | 7 | 8 | 15 | 0 | 54 |
 | mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 1 | 51 |
 | meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 0 | 49 |
 | chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 0 | 32 |
-| leptospirosis | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 24 |
+| leptospirosis | 3 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 23 |
 | zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 0 | 22 |
 | yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 0 | 14 |
 | typhoid | 2 | 2 | 3 | 0 | 2 | 1 | 2 | 1 | 13 |
@@ -39,6 +39,16 @@ Source: [News API](https://newsapi.org/)
 ## 26-7 (mpox)
 
 - [¿Vuelve la mpox? Todo lo que debe saber para estar protegido](https://www.elmundo.es/ciencia-y-salud/salud/2026/02/08/6985aacefdddff64568b4571.html) (El Mundo)
+
+## 26-7 (measles)
+
+- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
+
+- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
+
+## 26-7 (h5n1)
+
+- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-6 (yersinia)
 
@@ -1968,8 +1978,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What happens to the cat after it bites someone?](https://www.lifesciencesworld.com/what-happens-to-the-cat-after-it-bites-someone/) (Lifesciencesworld.com)
 
-- [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
-
 ## 25-53 (pertussis)
 
 - [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
@@ -2062,8 +2070,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Petah Tikva joins list of measles outbreak hotspots](https://www.israelnationalnews.com/news/420035) (Israelnationalnews.com)
 
-- [Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses](https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses) (Live Science)
-
 ## 25-53 (malaria)
 
 - [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
@@ -2072,10 +2078,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
 
-- [School assembly news headlines for December 29: Top national, international & sports updates](https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms) (The Times of India)
-
-- [India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah](https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms) (The Times of India)
-
 ## 25-53 (leptospirosis)
 
 - [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
@@ -2083,8 +2085,6 @@ Source: [News API](https://newsapi.org/)
 - [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
 
 - [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
-
-- [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
 
 ## 25-53 (h5n1)
 
