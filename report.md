@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2026-02-08 19:12
-- **Most recent article:** 2026-02-07 15:00:00
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-02-09 07:29
+- **Most recent article:** 2026-02-08 05:19:00
 
 ---
 
@@ -10,33 +10,43 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 32 | 26 | 47 | 63 | 88 | 76 | 90 | 422 |
-| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 15 | 96 |
-| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 74 |
-| rabies | 7 | 6 | 10 | 10 | 12 | 10 | 11 | 66 |
-| malaria | 3 | 0 | 13 | 8 | 7 | 8 | 15 | 54 |
-| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 50 |
-| meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 49 |
-| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 7 | 31 |
-| leptospirosis | 3 | 4 | 2 | 1 | 4 | 6 | 3 | 23 |
-| zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 22 |
-| yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 14 |
-| hpai | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 13 |
-| typhoid | 2 | 2 | 3 | 0 | 2 | 1 | 1 | 11 |
-| pertussis | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 4 |
+| Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
+|--|-|-|-|-|-|-|-|-|-|
+| measles | 33 | 26 | 47 | 63 | 88 | 76 | 101 | 0 | 434 |
+| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 0 | 97 |
+| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 0 | 74 |
+| rabies | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 0 | 67 |
+| malaria | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 0 | 56 |
+| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 1 | 51 |
+| meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 0 | 49 |
+| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 0 | 32 |
+| leptospirosis | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 24 |
+| zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 0 | 22 |
+| yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 0 | 14 |
+| typhoid | 2 | 2 | 3 | 0 | 2 | 1 | 2 | 1 | 13 |
+| hpai | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 0 | 13 |
+| pertussis | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
 
+## 26-7 (typhoid)
+
+- [Ramadan bazaar traders reminded to get typhoid jabs, maintain cleanliness](https://www.thestar.com.my/news/nation/2026/02/08/ramadan-bazaar-traders-reminded-to-get-typhoid-jabs-maintain-cleanliness) (The Star Online)
+
+## 26-7 (mpox)
+
+- [¿Vuelve la mpox? Todo lo que debe saber para estar protegido](https://www.elmundo.es/ciencia-y-salud/salud/2026/02/08/6985aacefdddff64568b4571.html) (El Mundo)
+
 ## 26-6 (yersinia)
 
 - [Μαζικός τάφος στην Ιορδανία ρίχνει φως στην πρώτη γνωστή πανδημία που εξόντωσε δεκάδες εκατ. ανθρώπους](https://www.naftemporiki.gr/techscience/2069163/mazikos-tafos-stin-iordania-richnei-fos-stin-proti-gnosti-pandimia-poy-exontose-dekades-ekat-anthropoys/) (Naftemporiki.gr)
 
 ## 26-6 (typhoid)
+
+- [Hidden dangers: How Lagos residents risk health for cheap street meals](https://punchng.com/hidden-dangers-how-lagos-residents-risk-health-for-cheap-street-meals/) (The Punch)
 
 - [Editorial: GHS Mandatory Typhoid Vaccination For Food Vendors Is Very Laudable](https://thechronicle.com.gh/editorial-ghs-mandatory-typhoid-vaccination-for-food-vendors-is-very-laudable/) (Thechronicle.com.gh)
 
@@ -108,7 +118,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Thousands may have been exposed to measles at Brandon Ag Days event, Manitoba warns](https://www.cbc.ca/news/canada/manitoba/ag-days-brandon-measles-exposure-9.7078546) (CBC News)
 
+- [Person with measles traveled through Mitchell International](https://www.wisn.com/article/person-confirmed-case-of-measles-traveled-through-mitchell-international/70273354) (WISN Milwaukee)
+
+- [Maine has 1st measles case since 2019; patient in Bangor, Etna](https://www.nbcboston.com/news/local/maine-measles-bangor-etna/3892496/) (NBC10 Boston)
+
 - [Manitoba reports 74 measles cases in January, highest monthly case count of latest outbreak](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-public-health-confirmed-cases-9.7077478) (CBC News)
+
+- [Maine confirms 1st measles case since 2019](http://www.bangordailynews.com/2026/02/06/penobscot/penobscot-health/maine-1st-measles-case-since-2019/) (Bangor Daily News)
 
 - [Measles outbreak poses risk of 'irreversible' brain damage, health officials warn](https://www.foxnews.com/health/measles-outbreak-poses-risk-irreversible-brain-damage-health-officials-warn) (Fox News)
 
@@ -130,6 +146,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Surging measles cases nationwide prompt county officials to urge vaccinations](https://www.kpbs.org/news/national/2026/02/06/surging-measles-cases-nationwide-prompt-county-officials-to-urge-vaccinations) (KPBS)
 
+- [Measles case confirmed at St. Pete Catholic High School](https://www.fox13news.com/news/measles-case-confirmed-st-pete-catholic-high-school) (FOX 13 Tampa Bay)
+
 - [Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak (Michelle R Smith/The Guardian)](https://www.memeorandum.com/260206/p52) (Memeorandum.com)
 
 - [US experiencing largest measles outbreak since 2000 – 5 essential reads on the risks, what to do and what’s coming next](https://theconversation.com/us-experiencing-largest-measles-outbreak-since-2000-5-essential-reads-on-the-risks-what-to-do-and-whats-coming-next-275164) (The Conversation Africa)
@@ -138,11 +156,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Newly obtained emails undermine RFK Jr.’s testimony about 2019 Samoa trip before measles outbreak](https://www.bostonherald.com/2026/02/06/new-emails-rfk-measles-samoa/) (Boston Herald)
 
+- [Newly obtained emails undermine RFK Jr.’s testimony about 2019 Samoa trip before measles outbreak](https://www.denverpost.com/2026/02/06/new-emails-rfk-measles-samoa/) (The Denver Post)
+
 - [Newly obtained emails undermine RFK Jr.'s testimony about 2019 Samoa trip before measles outbreak](https://abcnews.go.com/Technology/wireStory/newly-obtained-emails-undermine-rfk-jrs-testimony-2019-129911315) (ABC News)
 
 - [Fear among Minnesota's Somali community compounds a public health woe: Low measles vaccination rates](https://abcnews.go.com/Technology/wireStory/fear-minnesotas-somali-community-compounds-public-health-woe-129909480) (ABC News)
 
 - [Singapore sees rise in measles cases, steps up measures like mandatory isolation and contact tracing](https://www.channelnewsasia.com/singapore/measles-cases-singapore-isolation-contact-tracing-quarantine-5912111) (CNA)
+
+- [North Dakota confirms first measles case of the year](https://www.inforum.com/health/north-dakota-confirms-first-measles-case-of-the-year) (INFORUM)
 
 - [February 5, 2026 - PBS News Hour full episode](https://www.pbs.org/newshour/show/february-5-2026-pbs-news-hour-full-episode) (PBS)
 
@@ -164,7 +186,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Infection Count in January Topped Total Cases in 2023 and 2024 Combined](https://truthout.org/articles/measles-infection-count-in-january-topped-total-cases-in-2023-and-2024-combined/) (Truthout)
 
+- [Health officials warn of possible measles exposure in Collegeville, Pennsylvania](https://6abc.com/post/health-officials-warn-possible-measles-exposure-collegeville-pennsylvania/18547385/) (WPVI-TV)
+
 - [Measles Outbreaks, Preventative Cardiology, and Other News](https://insights.som.yale.edu/podcasts/health-veritas/measles-outbreaks-preventative-cardiology-and-other-news) (Yale.edu)
+
+- [Officials warn of possible measles exposure at urgent care](https://www.nbcphiladelphia.com/news/health/possible-measles-exposure-montgomery-county-patient-first-primary-and-urgent-care-collegeville/4346074/) (NBC 10 Philadelphia)
+
+- [Montgomery County health officials warn of possible exposure after person with measles traveled through county](https://www.wfmz.com/news/area/southeastern-pa/montgomery-county-health-officials-warn-of-possible-exposure-after-person-with-measles-traveled-through-county/article_8f742c21-4e64-4b3a-9e31-3c8ee16a238e.html) (WFMZ Allentown)
 
 - [Measles continues to spread in the US, but with some letup](https://www.npr.org/2026/02/05/nx-s1-5698522/measles-south-carolina-ice-detention-facilities) (NPR)
 
@@ -174,9 +202,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Has Now Begun To Infect Immigrant Detention Camps](https://www.techdirt.com/2026/02/04/measles-has-now-begun-to-infect-immigrant-detention-camps/) (Techdirt)
 
+- [New measles case reported in Northern Virginia adu;t](https://www.nbcwashington.com/news/health/new-measles-case-reported-in-northern-virginia-adult-check-potential-exposure-sites-and-dates/4054715/) (NBC4 Washington)
+
 - [Measles Is Causing Brain Swelling in Children in South...](https://kottke.org/26/02/0048322-measles-is-causing-brain-) (kottke.org)
 
 - [UN agency warns of ‘sharp increase’ in measles cases in the Americas](https://www.aljazeera.com/news/2026/2/5/un-agency-warns-of-sharp-increase-in-measles-cases-in-the-americas) (Al Jazeera English)
+
+- [Lincoln-Lancaster County Health Department again detects Measles in wastewater](https://www.1011now.com/2026/02/04/lincoln-lancaster-county-health-department-again-detects-measles-wastewater/) (1011now)
 
 - [Measles outbreak in South Carolina continues but may be slowing](https://www.npr.org/2026/02/04/nx-s1-5697043/measles-outbreak-in-south-carolina-continues-but-may-be-slowing) (NPR)
 
@@ -356,6 +388,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-6 (dengue)
 
+- [Urine test for dengue could predict infection severity](https://www.straitstimes.com/singapore/health/proteins-in-urine-can-be-used-to-test-for-dengue-show-likely-severity-of-disease-researchers-find) (The Straits Times)
+
 - [Vacinação contra dengue: governo de SP inicia campanha com imunizante do Butantan em todo o Estado](https://www.terra.com.br/vida-e-estilo/saude/vacinacao-contra-dengue-governo-de-sp-inicia-campanha-com-imunizante-do-butantan-em-todo-o-estado,30c63bfb987f0b3ced6be2d2e4a2af68g67404gg.html) (Terra.com.br)
 
 - [Esta mistura simples de soro caseiro é a arma mais poderosa contra a desidratação profunda](https://catracalivre.com.br/saude-bem-estar/esta-mistura-simples-de-soro-caseiro-e-a-arma-mais-poderosa-contra-a-desidratacao-profunda/) (Catracalivre.com.br)
@@ -387,6 +421,8 @@ Source: [News API](https://newsapi.org/)
 - [Juntos Contra a Dengue: EPTV lança campanha para alertar sobre perigos da doença e combater mosquito transmissor](https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/02/juntos-contra-a-dengue-eptv-lanca-campanha-para-alertar-sobre-perigos-da-doenca-e-combater-mosquito-transmissor.ghtml) (Globo)
 
 ## 26-6 (chikungunya)
+
+- [Moskovassa leviää kahta harvinaista tartuntatautia – Terveys­viranomainen: ”Tilanne on hallinnassa”](https://www.iltalehti.fi/ulkomaat/a/8b6c7219-b822-47b8-91d4-c9035029b406) (Iltalehti.fi)
 
 - [Minsal refuerza alertas sanitarias en verano: aumentan brotes alimentarios y casos importados de dengue y chikungunya](https://www.latercera.com/nacional/noticia/minsal-refuerza-alertas-sanitarias-en-verano-aumentan-brotes-alimentarios-y-casos-importados-de-dengue-y-chikungunya/) (Latercera.com)
 
@@ -1932,6 +1968,8 @@ Source: [News API](https://newsapi.org/)
 
 - [What happens to the cat after it bites someone?](https://www.lifesciencesworld.com/what-happens-to-the-cat-after-it-bites-someone/) (Lifesciencesworld.com)
 
+- [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
+
 ## 25-53 (pertussis)
 
 - [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
@@ -2024,6 +2062,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Petah Tikva joins list of measles outbreak hotspots](https://www.israelnationalnews.com/news/420035) (Israelnationalnews.com)
 
+- [Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses](https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses) (Live Science)
+
 ## 25-53 (malaria)
 
 - [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
@@ -2032,6 +2072,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
 
+- [School assembly news headlines for December 29: Top national, international & sports updates](https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms) (The Times of India)
+
+- [India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah](https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms) (The Times of India)
+
 ## 25-53 (leptospirosis)
 
 - [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
@@ -2039,6 +2083,8 @@ Source: [News API](https://newsapi.org/)
 - [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
 
 - [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
+
+- [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
 
 ## 25-53 (h5n1)
 

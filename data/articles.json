@@ -1,8 +1,98 @@
 {
-  "last_updated": "2026-02-08 19:12",
-  "count_articles_total": 900,
-  "count_articles_new": 4,
+  "last_updated": "2026-02-09 07:29",
+  "count_articles_total": 921,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 27429,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Ramadan bazaar traders reminded to get typhoid jabs, maintain cleanliness",
+      "description": "SEREMBAN: All food traders, especially those involved in Ramadan bazaars, have been reminded to take food safety matters seriously, take the typhoid vaccination and comply with the highest hygiene standards when preparing buka puasa (breaking of fast) food. R\u2026",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/08/ramadan-bazaar-traders-reminded-to-get-typhoid-jabs-maintain-cleanliness",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/08/3760106.jpg",
+      "publishedAt": "2026-02-08 05:19:00",
+      "content": "SEREMBAN: All food traders, especially those involved in Ramadan bazaars, have been reminded to take food safety matters seriously, take the typhoid vaccination and comply with the highest hygiene s\u2026 [+1610 chars]",
+      "retrievedAt": "2026-02-09 07:29:57.359740",
+      "internal_id": "cb3e27c04a192dcf58ea2b56c0c498b9b45733c3bceae89d112552b0d2ef3db9",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27427,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Enfermera Saturada",
+      "title": "\u00bfVuelve la mpox? Todo lo que debe saber para estar protegido",
+      "description": "Sanidad ha confirmado un brote de viruela del mono en Galicia y las alarmas han saltado de nuevo. Se trata de un total de 9 casos confirmados, y aunque puedan parecer pocos, son...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2026/02/08/6985aacefdddff64568b4571.html",
+      "urlToImage": "https://e01-phantom-elmundo.uecdn.es/9bf7cad40a5a58b217dc8efc8b4b48a2/crop/0x0/3069x2046/resize/1200/f/webp/assets/multimedia/imagenes/2024/08/16/17238311230496.jpg",
+      "publishedAt": "2026-02-08 00:49:19",
+      "content": "Sanidad ha confirmado un brote de viruela del mono en Galicia y las alarmas han saltado de nuevo. Se trata de un total de 9 casos confirmados, y aunque puedan parecer pocos, son m\u00e1s que todos los det\u2026 [+4133 chars]",
+      "retrievedAt": "2026-02-09 07:29:57.182246",
+      "internal_id": "5ed0306b47c59791e9757bd4902ad8168e1b79cce358ef43b7afd371adfd930b",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27428,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Hidden dangers: How Lagos residents risk health for cheap street meals",
+      "description": "Discover the health risks of Lagos street food. Many residents rely on cheap meals, but unhygienic conditions can lead to typhoid, cholera, and food poison Read More: https://punchng.com/hidden-dangers-how-lagos-residents-risk-health-for-cheap-street-meals/",
+      "url": "https://punchng.com/hidden-dangers-how-lagos-residents-risk-health-for-cheap-street-meals/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/02/07221416/Some-customers-at-a-fruit-stand-along-Ogba-road-at-night-1200x630.jpg",
+      "publishedAt": "2026-02-07 23:35:52",
+      "content": "Street food remains a staple in major cities due to its affordability and accessibility, but it is often prepared by vendors operating under unhygienic conditions. IBRAHIM ADAM reports that despite o\u2026 [+20069 chars]",
+      "retrievedAt": "2026-02-09 07:29:57.349217",
+      "internal_id": "24b706aec0b42fd169d8f2fed44a5c0cc267e67c35f600c05d79264c210dc4a2",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 27425,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Zhaki Abdullah",
+      "title": "Urine test for dengue could predict infection severity",
+      "description": "Researchers have found that proteins in urine could be used in a take-home dengue test kit to determine infection and predict its severity. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/proteins-in-urine-can-be-used-to-test-for-dengue-show-likely-severity-of-disease-researchers-find",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/85ac8d25974eded54926a59ec469a10210fbfa102119b26784e963927f287fc6",
+      "publishedAt": "2026-02-07 21:01:28",
+      "content": "SINGAPORE In the future, a take-home test kit can not only determine whether you have dengue, but also how severe the infection is likely to be, using nothing more than your urine. Currently, the m\u2026 [+4017 chars]",
+      "retrievedAt": "2026-02-09 07:29:56.037013",
+      "internal_id": "7b92d81e1c5d7252fe2b62a8158e1cb5d43d1ed087f056365ec4cd75ccee420e",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
+      "id": 27426,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "Moskovassa levi\u00e4\u00e4 kahta harvinaista tartuntatautia \u2013 Terveys\u00adviranomainen: \u201dTilanne on hallinnassa\u201d",
+      "description": "Ven\u00e4j\u00e4n terveysviranomaiset vakuuttavat tilanteen olevan hallinnassa, eik\u00e4 tautien laajamittaisesta levi\u00e4misest\u00e4 ole merkkej\u00e4. Moskovan alueella on viime p\u00e4ivin\u00e4 todettu kahta harvinaista tartuntatautia, apinarokkoa ja chikungunyakuumetta, kertovat Ven\u00e4j\u00e4n te\u2026",
+      "url": "https://www.iltalehti.fi/ulkomaat/a/8b6c7219-b822-47b8-91d4-c9035029b406",
+      "urlToImage": "https://img.ilcdn.fi/DStLox64F8wO7zfIpuP7tZ3u0eY=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/ec6bc2f503e8c60de97b836400d526947b76c698089d02ae05d6fe0a52d08a15.jpg",
+      "publishedAt": "2026-02-07 20:00:41",
+      "content": "Moskovan alueella on viime p\u00e4ivin\u00e4 todettu kahta harvinaista tartuntatautia, apinarokkoa ja chikungunyakuumetta, kertovat Ven\u00e4j\u00e4n terveysviranomaiset. Ven\u00e4j\u00e4n kuluttajansuoja- ja terveysviranomaisen\u2026 [+1692 chars]",
+      "retrievedAt": "2026-02-09 07:29:56.970711",
+      "internal_id": "9e61800d19fbf64982dd651db212622b08e3add37bbcce539a48d8d641da7a47",
+      "publishedAtLabel": "Feb 7"
+    },
     {
       "id": 27410,
       "query": [
@@ -130,6 +220,42 @@
       "publishedAtLabel": "Feb 7"
     },
     {
+      "id": 27417,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WISN Milwaukee",
+      "author": "Amy Fleury",
+      "title": "Person with measles traveled through Mitchell International",
+      "description": "Wisconsin Department of Health Services says person traveled to Walworth County",
+      "url": "https://www.wisn.com/article/person-confirmed-case-of-measles-traveled-through-mitchell-international/70273354",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/d9f90a01-4dfb-41b1-a7f1-60c4236e6bf3/4541bdf3-d53c-465b-a94c-8a4e12be208b.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2026-02-06 23:23:25",
+      "content": "MILWAUKEE \u2014There has been measles exposures in Milwaukee County, according to the Wisconsin Department of Health Services. A person with a confirmed case of measles traveled through Mitchell Intern\u2026 [+1186 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.319180",
+      "internal_id": "9cdf04aeed00f3ff8b31278bd7c004700684be4d33d970f9aa537f68b0d8f449",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27422,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC10 Boston",
+      "author": "Asher Klein",
+      "title": "Maine has 1st measles case since 2019; patient in Bangor, Etna",
+      "description": "The measles patient, an adult from Penobscot County, may have exposed others to the virus in Bangor and Etna during the period they were infectious, the Maine\u2026",
+      "url": "https://www.nbcboston.com/news/local/maine-measles-bangor-etna/3892496/",
+      "urlToImage": "https://media.nbcboston.com/2026/01/GettyImages-2217823925.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-02-06 23:20:58",
+      "content": "A person has been diagnosed with measles in Maine for the first time in seven years, state health officials said Friday. The measles patient, an adult from Penobscot County, may have exposed others \u2026 [+1129 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.368900",
+      "internal_id": "007a5161d8523c752ad2750516c86fa5b9438d8c34c655946016ea6cadb9bd91",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
       "id": 27403,
       "query": [
         "measles"
@@ -145,6 +271,24 @@
       "content": "After a year of measles circulating in Manitoba, the number of confirmed cases continues to grow, and there's no sign the spread of the highly contagious illness is slowing down as the province break\u2026 [+2853 chars]",
       "retrievedAt": "2026-02-08 07:20:25.083374",
       "internal_id": "9e55652ad7e86edbeb4ede4052790ae9a6258b6d470770dd4b05555b671d5dfc",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27420,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Bangor Daily News",
+      "author": "Ethan Andrews",
+      "title": "Maine confirms 1st measles case since 2019",
+      "description": "The case was confirmed on Thursday in an adult from Penobscot County who recently traveled to a state with measles cases, according to the Maine CDC.",
+      "url": "http://www.bangordailynews.com/2026/02/06/penobscot/penobscot-health/maine-1st-measles-case-since-2019/",
+      "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/02/California-Vaccination-Legislation.jpg?fit=1200%2C885&ssl=1",
+      "publishedAt": "2026-02-06 21:25:37",
+      "content": "The Maine Center for Disease Control and Prevention on Friday reported the first case of measles in Maine since 2019. The case was confirmed at St. Joseph Healthcare in Bangor on Thursday in an adul\u2026 [+1693 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.348640",
+      "internal_id": "8b9e8c59e6c1e079692153d05decb2d3bd8ed81cdc2e43e748a46bccabead447",
       "publishedAtLabel": "Feb 6"
     },
     {
@@ -347,6 +491,24 @@
       "publishedAtLabel": "Feb 6"
     },
     {
+      "id": 27424,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "FOX 13 Tampa Bay",
+      "author": "Fox 13 News",
+      "title": "Measles case confirmed at St. Pete Catholic High School",
+      "description": "St. Petersburg Catholic High has confirmed a case of measles in one of their sophomore students.",
+      "url": "https://www.fox13news.com/news/measles-case-confirmed-st-pete-catholic-high-school",
+      "urlToImage": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2026/02/1200/630/vlcsnap-2026-02-06-08h35m32s491.png?ve=1&tl=1",
+      "publishedAt": "2026-02-06 15:19:30",
+      "content": "ST. PETERSBURG, Fla. - St. Petersburg Catholic High has confirmed a case of measles in one of their sophomore students. What we know: The school sent a message to parents and guardians, confirming \u2026 [+1161 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.389502",
+      "internal_id": "57afea3c0c67a48a34c656ebe93d54662f86d334eb8f1bf4d06ba5088d44cdc7",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
       "id": 27395,
       "query": [
         "dengue"
@@ -470,6 +632,24 @@
       "content": "By MICHELLE R. SMITH/THE GUARDIAN and ALI SWENSON/Associated Press Over two days of questioning during his Senate confirmation hearings last year, Robert F. Kennedy Jr. repeated the same answer. He\u2026 [+10013 chars]",
       "retrievedAt": "2026-02-07 19:11:18.557182",
       "internal_id": "600da68e914e73d7248c9594d20e9e8f2411335f91ca8784274390bc2f6eb5c4",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27414,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "The Associated Press",
+      "title": "Newly obtained emails undermine RFK Jr.\u2019s testimony about 2019 Samoa trip before measles outbreak",
+      "description": "The uncovered emails counter RFK Jr.'s confirmation hearing statements regarding his 2019 Samoa trip.",
+      "url": "https://www.denverpost.com/2026/02/06/new-emails-rfk-measles-samoa/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/02/Kennedy_Measles_Samoa_73178.jpg?w=1024&h=683",
+      "publishedAt": "2026-02-06 12:43:05",
+      "content": "By MICHELLE R. SMITH/THE GUARDIAN and ALI SWENSON/Associated Press Over two days of questioning during his Senate confirmation hearings last year, Robert F. Kennedy Jr. repeated the same answer. He\u2026 [+10013 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.276350",
+      "internal_id": "1eb3659af1785dffe503f1906d5ab8eb0fdc988484d841959d0d90542ab0246d",
       "publishedAtLabel": "Feb 6"
     },
     {
@@ -668,6 +848,24 @@
       "content": "What does it mean when a raccoon is out during the day? Seeing a raccoon during daylight hours doesn\u2019t automatically indicate rabies; while it can be a sign of illness, it\u2019s often due to other factor\u2026 [+8120 chars]",
       "retrievedAt": "2026-02-07 07:17:00.747033",
       "internal_id": "bb68ac327c3ebfa79a634c77f297274b85e44a3d831139998f57bc3fd4fa0e72",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27415,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "INFORUM",
+      "author": "Michael Mcgurran",
+      "title": "North Dakota confirms first measles case of the year",
+      "description": "An unvaccinated person has been confirmed as North Dakota\u2019s first measles case of the year. Measles can cause fever, cough, runny nose, red eyes, rash, and can lead to serious complications.",
+      "url": "https://www.inforum.com/health/north-dakota-confirms-first-measles-case-of-the-year",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/1b052dc/2147483647/strip/true/crop/626x425+0+0/resize/1570x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2Ff2%2F24%2Fa5a338944e19a1690ad8906c41f8%2Fmeasles-boy-cdc.jpg",
+      "publishedAt": "2026-02-06 01:08:23",
+      "content": "FARGO The North Dakota Department of Health and Human Services confirmed the states first measles case of the year. It comes after 36 confirmed cases of measles in 2025, after more than a decade wit\u2026 [+1889 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.298766",
+      "internal_id": "3f1d344872f1f915573d3c5fbb8f0c581401cd4164f462d4acd0ab0e9c63f42d",
       "publishedAtLabel": "Feb 6"
     },
     {
@@ -959,6 +1157,24 @@
       "publishedAtLabel": "Feb 5"
     },
     {
+      "id": 27423,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "Health officials warn of possible measles exposure in Collegeville, Pennsylvania",
+      "description": "Health officials are warning the public of a possible measles exposure in Montgomery County.",
+      "url": "https://6abc.com/post/health-officials-warn-possible-measles-exposure-collegeville-pennsylvania/18547385/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18391700_011226-wpvi-measles-img.jpg?w=1600",
+      "publishedAt": "2026-02-05 16:20:43",
+      "content": "COLLEGEVILLE, Pa. (WPVI) -- Health officials are warning the public of a possible measles exposure in Montgomery County. Authorities say someone who recently traveled through the county tested posit\u2026 [+935 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.379098",
+      "internal_id": "2fe3767b17b714cbda5a79ec9808803c905090341642c14ca42e9165c29be28a",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
       "id": 27374,
       "query": [
         "measles"
@@ -974,6 +1190,42 @@
       "content": "Howie and Harlan discuss an escalating measles outbreak in the U.S. and a project piloted by Yale School of Medicine professor Erica Spatz to deliver preventative care in barbershops and beauty salon\u2026 [+1537 chars]",
       "retrievedAt": "2026-02-07 07:17:01.283627",
       "internal_id": "486349feafece9e6597a233d4eafe197bbed873aaf85fe3f3d0a89b68e82da19",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27418,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC 10 Philadelphia",
+      "author": "Cherise Lynch",
+      "title": "Officials warn of possible measles exposure at urgent care",
+      "description": "Officials said an individual with measles was at Patient First Primary and Urgent Care-Collegeville on January 29 between 1:15 p.m. and 4:15 p.m.",
+      "url": "https://www.nbcphiladelphia.com/news/health/possible-measles-exposure-montgomery-county-patient-first-primary-and-urgent-care-collegeville/4346074/",
+      "urlToImage": "https://media.nbcphiladelphia.com/2024/03/measles.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-02-05 15:11:43",
+      "content": "Health officials in Montgomery County have issued a warning to residents after a person with measles visited an urgent care in Collegeville while contagious. Officials said the individual with meas\u2026 [+1668 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.329073",
+      "internal_id": "f685af5d0fd376390836646bcd7cee671b4e69944678b99a22180e9836a7d930",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27421,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WFMZ Allentown",
+      "author": "Jacob Kise",
+      "title": "Montgomery County health officials warn of possible exposure after person with measles traveled through county",
+      "description": "Montgomery County health officials warn of possible exposure after person with measles traveled through countywfmz.com",
+      "url": "https://www.wfmz.com/news/area/southeastern-pa/montgomery-county-health-officials-warn-of-possible-exposure-after-person-with-measles-traveled-through-county/article_8f742c21-4e64-4b3a-9e31-3c8ee16a238e.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/37/1371c7bb-e892-46db-85f0-49a389716fdc/6984aee2af1bf.image.jpg?crop=1279%2C673%2C0%2C23&resize=1200%2C631&order=crop%2Cresize",
+      "publishedAt": "2026-02-05 15:09:25",
+      "content": "NORRISTOWN, Pa. - The Montgomery County Department of Health and Human Services Office of Public Health is warning residents after it confirmed a case of measles in a person who traveled through Mont\u2026 [+2622 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.358510",
+      "internal_id": "d46137cafd6f6fdff38b53f1eaebed925d5c0caabe2aa3400fe9d3fa6327c25d",
       "publishedAtLabel": "Feb 5"
     },
     {
@@ -1193,6 +1445,24 @@
       "publishedAtLabel": "Feb 5"
     },
     {
+      "id": 27416,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC4 Washington",
+      "author": "Jordan Young",
+      "title": "New measles case reported in Northern Virginia adu;t",
+      "description": "Virginia health officials said they have identified a measles case in an adult in Northern Virginia.",
+      "url": "https://www.nbcwashington.com/news/health/new-measles-case-reported-in-northern-virginia-adult-check-potential-exposure-sites-and-dates/4054715/",
+      "urlToImage": "https://media.nbcwashington.com/2026/01/GettyImages-1328334860.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-02-05 03:34:54",
+      "content": "Virginia health officials said Wednesday they have identified a measles case in an adult in Northern Virginia. Here's where and when the Virginia Department of Health (VDH) says people may have been\u2026 [+3552 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.308752",
+      "internal_id": "7fb204ad1d390057599900236e3d90ecaa928d46b2d6c269a3c595503f7cbec5",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
       "id": 27337,
       "query": [
         "rabies"
@@ -1262,6 +1532,24 @@
       "content": "The Pan American Health Organization (PAHO), a United Nations agency, has issued a new report warning of an uptick in measles cases throughout the region. On Wednesday, the organisation issued an ep\u2026 [+4375 chars]",
       "retrievedAt": "2026-02-06 07:24:20.686767",
       "internal_id": "0393652d59044d8c4b14011b039ad6d3211826748181f956d5ba1183e79c90b3",
+      "publishedAtLabel": "Feb 5"
+    },
+    {
+      "id": 27419,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "1011now",
+      "author": "10/11 Now",
+      "title": "Lincoln-Lancaster County Health Department again detects Measles in wastewater",
+      "description": "The Lincoln-Lancaster County Health Department on Wednesday reported that Measles has again been detected in Lincoln wastewater.",
+      "url": "https://www.1011now.com/2026/02/04/lincoln-lancaster-county-health-department-again-detects-measles-wastewater/",
+      "urlToImage": "https://gray-koln-prod.gtv-cdn.com/resizer/v2/HWGTYSXODRHAJBFZB6J2QEEILU.jpg?auth=32eb5aa2d9e53952b946103f0c2f8f96112d6435d63a7df6c2a81520fe9fef73&width=1200&height=600&smart=true",
+      "publishedAt": "2026-02-05 00:28:12",
+      "content": "LINCOLN, Neb. (KOLN) - The Lincoln-Lancaster County Health Department on Wednesday reported that Measles has again been detected in Lincoln wastewater. Measles was detected in samples taken Jan. 26 \u2026 [+1838 chars]",
+      "retrievedAt": "2026-02-09 07:29:55.338650",
+      "internal_id": "fd3dcb4544381518a328fc688ac3f01f29ba91b8a225cd381ffba6230b28ce39",
       "publishedAtLabel": "Feb 5"
     },
     {
@@ -16230,6 +16518,96 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26510,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
+      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
+      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
+      "publishedAt": "2025-12-28 15:00:00",
+      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
+      "retrievedAt": "2025-12-29 19:06:37.716406",
+      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26512,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
+      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 14:10:33",
+      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.025368",
+      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26513,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Diario EL PAIS Uruguay",
+      "author": "Nicolas Lauber",
+      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
+      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
+      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
+      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
+      "publishedAt": "2025-12-28 13:45:17",
+      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
+      "retrievedAt": "2025-12-29 19:06:40.126081",
+      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26509,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Madhyamam.com",
+      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
+      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
+      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
+      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
+      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
+      "publishedAt": "2025-12-28 10:24:23",
+      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
+      "retrievedAt": "2025-12-29 19:06:37.550099",
+      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26511,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
+      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 10:04:39",
+      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.014393",
+      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]
