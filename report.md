@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2026-02-09 19:33
-- **Most recent article:** 2026-02-08 18:48:00
+- **New articles in last harvest:** 25
+- **Last harvest:** 2026-02-10 07:29
+- **Most recent article:** 2026-02-09 05:00:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 32 | 26 | 47 | 63 | 88 | 76 | 101 | 2 | 435 |
+| measles | 33 | 26 | 47 | 63 | 88 | 76 | 106 | 17 | 456 |
 | dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 0 | 97 |
-| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 1 | 75 |
-| rabies | 7 | 6 | 10 | 10 | 12 | 10 | 11 | 0 | 66 |
-| malaria | 3 | 0 | 13 | 8 | 7 | 8 | 15 | 0 | 54 |
-| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 1 | 51 |
+| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 2 | 76 |
+| rabies | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 2 | 69 |
+| malaria | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 0 | 56 |
+| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 3 | 53 |
 | meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 0 | 49 |
 | chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 0 | 32 |
-| leptospirosis | 3 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 23 |
+| leptospirosis | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 24 |
 | zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 0 | 22 |
 | yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 0 | 14 |
 | typhoid | 2 | 2 | 3 | 0 | 2 | 1 | 2 | 1 | 13 |
@@ -36,17 +36,59 @@ Source: [News API](https://newsapi.org/)
 
 - [Ramadan bazaar traders reminded to get typhoid jabs, maintain cleanliness](https://www.thestar.com.my/news/nation/2026/02/08/ramadan-bazaar-traders-reminded-to-get-typhoid-jabs-maintain-cleanliness) (The Star Online)
 
+## 26-7 (rabies)
+
+- [Can a dog get rabies from biting a possum?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-biting-a-possum/) (Lifesciencesworld.com)
+
+- [Pelottava tauti leviää Moskovassa](https://www.is.fi/ulkomaat/art-2000011803842.html) (Www.is.fi)
+
 ## 26-7 (mpox)
+
+- [Characteristics and Transmission Dynamics of Global Travel-Related Mpox Cases Caused by Clade Ib Monkeypox Virus](https://wwwnc.cdc.gov/eid/article/32/2/25-1530_article) (Cdc.gov)
+
+- [Multiplex PCR to Differentiate Monkeypox Virus Clades](https://wwwnc.cdc.gov/eid/article/32/2/25-0686_article) (Cdc.gov)
 
 - [¿Vuelve la mpox? Todo lo que debe saber para estar protegido](https://www.elmundo.es/ciencia-y-salud/salud/2026/02/08/6985aacefdddff64568b4571.html) (El Mundo)
 
 ## 26-7 (measles)
+
+- [Dr. Oz urges Americans to get measles vaccine as cases surge](https://www.nydailynews.com/2026/02/08/dr-oz-urges-americans-measles-vaccine-amid-case-surge/) (New York Daily News)
+
+- [Top U.S. Health Official Urges Measles Vaccination](https://news.themissinglinkhub.com/?brief_id=163105&traffic_source=x) (Themissinglinkhub.com)
+
+- [March for Life attendees may have been exposed to measles, DC Health warns](https://www.npr.org/2026/02/08/nx-s1-5705972/measles-march-for-life-dc-reagan-national-union-station-metro) (NPR)
+
+- [Doctor, virologist caution against attending large public gatherings if unvaccinated against measles](https://www.cbc.ca/news/canada/manitoba/measles-unvaccinated-public-health-advice-9.7080188) (CBC News)
+
+- [Dr. Oz begs Americans to get inoculated against measles as outbreaks spiral around the country. ‘Take the vaccine, please’](https://fortune.com/2026/02/08/dr-oz-cms-measles-vaccine-shot-outbreaks-rfk-jr/) (Fortune)
+
+- [‘Take the vaccine, please,’ a top U.S. health official says in an appeal as measles cases rise](https://www.nbcwashington.com/news/national-international/dr-oz-encourages-measles-vaccine-us-cases-rise/4056720/) (NBC4 Washington)
+
+- [‘Take the vaccine, please’](https://www.bostonherald.com/2026/02/08/take-the-vaccine-please/) (Boston Herald)
+
+- [Gonzales defends conditions at Texas detention center with measles outbreak](https://www.cbsnews.com/news/tony-gonzales-dilley-detention-facility-conditions-measles/) (CBS News)
+
+- ['Take the vaccine, please,' a top U.S. health official says in an appeal as measles cases rise](https://japantoday.com/category/features/health/%27take-the-vaccine-please-%27-a-top-us-health-official-says-in-an-appeal-as-measles-cases-rise) (Japan Today)
+
+- [Measles outbreak in USA: Top U.S. health expert sends chilling warning. All you need to know](https://economictimes.indiatimes.com/news/international/us/measles-outbreak-in-usa-top-u-s-health-experts-sends-chilling-warning-all-you-need-to-know/articleshow/128085571.cms) (The Times of India)
+
+- [Dr. Mehmet Oz urges public to take the measles vaccine as U.S. cases rise](https://www.pbs.org/newshour/health/dr-mehmet-oz-urges-public-to-take-the-measles-vaccine-as-u-s-cases-rise) (PBS)
+
+- ['Take The Vaccine, Please,' A Top U.S. Health Official Says In An Appeal As Measles Cases Rise](https://www.huffpost.com/entry/ap-us-measles-cases-surge-vaccine_n_6988f173e4b0959e2d91340b) (HuffPost)
+
+- [‘Take the vaccine, please,’ a top US health official says in an appeal as measles cases rise](https://www.denverpost.com/2026/02/08/measles-vaccine-mehmet-oz/) (The Denver Post)
+
+- [Oz urges Americans to get measles vaccine amid outbreaks (Max Rego/The Hill)](https://www.memeorandum.com/260208/p40) (Memeorandum.com)
+
+- ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
 - [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
 
 - [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
 
 ## 26-7 (h5n1)
+
+- [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
 
 - [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
@@ -126,6 +168,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Isn’t ‘Just a Childhood Disease’ — And Outbreaks Could Have Lingering Effects](http://www.rollingstone.com/culture/culture-features/measles-outbreak-complications-disease-lintering-effects-1235512523/) (Rolling Stone)
 
+- [Measles detected in Washington County wastewater, Vt. health officials say](https://www.wcax.com/2026/02/06/measles-detected-washington-county-wastewater-vt-health-officials-say/) (WCAX)
+
 - [Thousands may have been exposed to measles at Brandon Ag Days event, Manitoba warns](https://www.cbc.ca/news/canada/manitoba/ag-days-brandon-measles-exposure-9.7078546) (CBC News)
 
 - [Person with measles traveled through Mitchell International](https://www.wisn.com/article/person-confirmed-case-of-measles-traveled-through-mitchell-international/70273354) (WISN Milwaukee)
@@ -150,15 +194,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Fear in Minnesota’s Somali community deepens, hampering progress on measles vaccination](https://www.bostonherald.com/2026/02/06/measles-vaccine-misinformation/) (Boston Herald)
 
+- [Fear in Minnesota's Somali community hampering progress on measles vaccination, medical experts say](https://www.cbsnews.com/minnesota/news/somali-minnesota-measles-vaccine-skepticism-immigration-fears/) (CBS News)
+
 - [Newly obtained emails undermine RFK Jr.'s testimony about 2019 Samoa trip before measles outbreak](https://www.pbs.org/newshour/health/newly-obtained-emails-undermine-rfk-jr-s-testimony-about-2019-samoa-trip-before-measles-outbreak) (PBS)
 
 - [Masks in schools mandated as measles outbreak prompts health alert in World Cup host Jalisco, Mexico](https://www.cbc.ca/news/health/mexico-measles-world-cup-9.7077259) (CBC News)
+
+- [4 times as many measles cases in a few weeks than US typically averages in a whole year: CDC](https://abcnews.go.com/Health/us-sees-733-measles-cases-nationwide-month/story?id=129921325) (ABC News)
 
 - [Surging measles cases nationwide prompt county officials to urge vaccinations](https://www.kpbs.org/news/national/2026/02/06/surging-measles-cases-nationwide-prompt-county-officials-to-urge-vaccinations) (KPBS)
 
 - [Measles case confirmed at St. Pete Catholic High School](https://www.fox13news.com/news/measles-case-confirmed-st-pete-catholic-high-school) (FOX 13 Tampa Bay)
 
 - [Newly revealed emails undermine RFK Jr testimony about 2019 Samoa trip ahead of measles outbreak (Michelle R Smith/The Guardian)](https://www.memeorandum.com/260206/p52) (Memeorandum.com)
+
+- [askST: What are Singapore’s enhanced measures to contain the risk of measles infections?](https://www.straitstimes.com/singapore/health/askst-singapores-enhanced-measures-to-contain-the-risk-of-measles-infections) (The Straits Times)
 
 - [US experiencing largest measles outbreak since 2000 – 5 essential reads on the risks, what to do and what’s coming next](https://theconversation.com/us-experiencing-largest-measles-outbreak-since-2000-5-essential-reads-on-the-risks-what-to-do-and-whats-coming-next-275164) (The Conversation Africa)
 
@@ -171,6 +221,8 @@ Source: [News API](https://newsapi.org/)
 - [Newly obtained emails undermine RFK Jr.'s testimony about 2019 Samoa trip before measles outbreak](https://abcnews.go.com/Technology/wireStory/newly-obtained-emails-undermine-rfk-jrs-testimony-2019-129911315) (ABC News)
 
 - [Fear among Minnesota's Somali community compounds a public health woe: Low measles vaccination rates](https://abcnews.go.com/Technology/wireStory/fear-minnesotas-somali-community-compounds-public-health-woe-129909480) (ABC News)
+
+- [S’pore heightens precautions against measles amid global and local surge, possible local transmission](https://www.straitstimes.com/singapore/health/spore-heightens-precautions-against-measles-amid-global-local-surge-possible-local-transmission) (The Straits Times)
 
 - [Singapore sees rise in measles cases, steps up measures like mandatory isolation and contact tracing](https://www.channelnewsasia.com/singapore/measles-cases-singapore-isolation-contact-tracing-quarantine-5912111) (CNA)
 
@@ -1978,6 +2030,8 @@ Source: [News API](https://newsapi.org/)
 
 - [What happens to the cat after it bites someone?](https://www.lifesciencesworld.com/what-happens-to-the-cat-after-it-bites-someone/) (Lifesciencesworld.com)
 
+- [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
+
 ## 25-53 (pertussis)
 
 - [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
@@ -2070,6 +2124,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Petah Tikva joins list of measles outbreak hotspots](https://www.israelnationalnews.com/news/420035) (Israelnationalnews.com)
 
+- [Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses](https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses) (Live Science)
+
 ## 25-53 (malaria)
 
 - [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
@@ -2078,6 +2134,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
 
+- [School assembly news headlines for December 29: Top national, international & sports updates](https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms) (The Times of India)
+
+- [India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah](https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms) (The Times of India)
+
 ## 25-53 (leptospirosis)
 
 - [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
@@ -2085,6 +2145,8 @@ Source: [News API](https://newsapi.org/)
 - [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
 
 - [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
+
+- [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
 
 ## 25-53 (h5n1)
 

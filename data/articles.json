@@ -1,8 +1,368 @@
 {
-  "last_updated": "2026-02-09 19:33",
-  "count_articles_total": 919,
-  "count_articles_new": 3,
+  "last_updated": "2026-02-10 07:29",
+  "count_articles_total": 949,
+  "count_articles_new": 25,
   "articles": [
+    {
+      "id": 27456,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Characteristics and Transmission Dynamics of Global Travel-Related Mpox Cases Caused by Clade Ib Monkeypox Virus",
+      "description": "Travel-Related Mpox Cases Caused by Clade Ib MPXV",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/2/25-1530_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-02-09 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.In September 2023, an outb\u2026 [+8029 chars]",
+      "retrievedAt": "2026-02-10 07:29:50.251488",
+      "internal_id": "5b982f90f56661e9c19bef575f692a9c7269274bb1ade2ba32e2d42a1dce5ce3",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27457,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Multiplex PCR to Differentiate Monkeypox Virus Clades",
+      "description": "PCR to Differentiate Monkeypox Virus Clades",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/2/25-0686_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-02-09 05:00:00",
+      "content": "Mpox is a zoonotic viral disease caused by monkeypox virus (MPXV). There are 2 MPXV clades; clade I is historically associated with a higher disease severity and case-fatality ratio compared with cla\u2026 [+8478 chars]",
+      "retrievedAt": "2026-02-10 07:29:50.262234",
+      "internal_id": "f6ad9bc5acd6386735ab6055c9c8befe9d0b7eef497ca6246822090fb6243ab6",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27433,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Can a dog get rabies from biting a possum?",
+      "description": "Can Dogs Contract Rabies from Possums? Unveiling the Truth While theoretically possible, the risk of a dog contracting rabies from biting a possum is exceptionally low. Possums are surprisingly resistant to the disease, making transmission unlikely. Introduct\u2026",
+      "url": "https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-biting-a-possum/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-09 03:20:42",
+      "content": "Can Dogs Contract Rabies from Possums? Unveiling the Truth While theoretically possible, the risk of a dog contracting rabies from biting a possum is exceptionally low. Possums are surprisingly resi\u2026 [+9996 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.284194",
+      "internal_id": "5d2cfe6025e7386baef6d66d9132343176df549c200b1f29230d0f549f198140",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27449,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New York Daily News",
+      "author": "Theresa Braine",
+      "title": "Dr. Oz urges Americans to get measles vaccine as cases surge",
+      "description": "Dr. Mehmet Oz, administrator for the Centers for Medicare & Medicaid Services, urged Americans on Sunday to get vaccinated for measles as outbreaks spread across several U.S. states.",
+      "url": "https://www.nydailynews.com/2026/02/08/dr-oz-urges-americans-measles-vaccine-amid-case-surge/",
+      "urlToImage": "https://www.nydailynews.com/wp-content/uploads/2026/02/AP26037006970984.jpg?w=1024&h=683",
+      "publishedAt": "2026-02-09 01:00:16",
+      "content": "Dr. Mehmet Oz, administrator for the Centers for Medicare &amp; Medicaid Services, on Sunday urged Americans to get vaccinated for measles as outbreaks spread across several U.S. states. Take the va\u2026 [+2517 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.945682",
+      "internal_id": "2f8c754994a863b500976ae500c34d1c57d69eebb1c3694986071ad25a25f406",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27453,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Themissinglinkhub.com",
+      "author": "Newsdigest",
+      "title": "Top U.S. Health Official Urges Measles Vaccination",
+      "description": "Top U.S. Health Official Urges Measles Vaccinationthemissinglinkhub.com",
+      "url": "https://news.themissinglinkhub.com/?brief_id=163105&traffic_source=x",
+      "urlToImage": "https://www.rawstory.com/media-library/image.jpg?id=64009276&width=1200&height=600&coordinates=0%2C167%2C0%2C167",
+      "publishedAt": "2026-02-09 00:28:41",
+      "content": "Copy Link Full Story A leading U.S. health official, Dr. Mehmet Oz, urged Americans on Feb. 8 to get inoculated against measles as outbreaks spread across several states and the nation faces the ri\u2026 [+24153 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.994812",
+      "internal_id": "04db6c5b1042e3094a8bd743457ca0d7dbaf6f7987bd50544cf5b1a39d52fb0a",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27455,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uae40\ud604\uc218 \uae30\uc790 khs@kyunghyang.com",
+      "title": "\uacbd\ubd81 \ubd09\ud654 \uc0b0\ub780\uacc4 \ub18d\uc7a5 \uace0\ubcd1\uc6d0\uc131 AI \ud655\uc9c4\u00b7\u00b7\u00b739\ub9cc \ub9c8\ub9ac \uc0b4\ucc98\ubd84",
+      "description": "\uacbd\ubd81\ub3c4\uccad\uc0ac \uc804\uacbd. \uacbd\ubd81\ub3c4 \uc81c\uacf5\uacbd\ubd81\ub3c4\ub294 \ubd09\ud654\uad70 \ud55c \uc0b0\ub780\uacc4 \ub18d\uc7a5\uc5d0\uc11c \uc2e0\uace0\ub41c \uc758\uc0ac\ud658\ucd95\uc774 \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(H5N1\ud615)\ub85c \ucd5c\uc885 \ud655\uc9c4\ub428\uc5d0 \ub530\ub77c \ucd94\uac00 \ud655\uc0b0 \ubc29\uc9c0\ub97c \uc704\ud55c \uae34\uae09 \ubc29\uc5ed \uc870\uce58\ub97c \uc2dc\ud589\ud558\uace0 \uc788\ub2e4\uace0 8\uc77c \ubc1d\ud614\ub2e4.\ubd09\ud654\uad70 \ud574\ub2f9 \ub18d\uc7a5\uc740 \ud655\uc9c4 \uc9c1\ud6c4 \ucd9c\uc785\uc774 \ud1b5\uc81c\ub410\uc73c\uba70, \uc0b0\ub780\uacc4 39\ub9cc \ub9c8\ub9ac\uc5d0 \ub300\ud574 \uae34\uae09 \uc0b4\ucc98\ubd84\uc744 \uc2e4\uc2dc\ud588\ub2e4. \ub610 \ubc29\uc5ed\ub300 10\u339e \uc774\ub0b4 \uac00\uae08 \uc804\uc5c5\ub18d\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202602090915001",
+      "urlToImage": "https://img.khan.co.kr/news/2026/02/09/news-p.v1.20260208.777bd6007a1c4741a1a5c483ad2a96a6_P1.jpg",
+      "publishedAt": "2026-02-09 00:15:00",
+      "content": "AI \u00b7\u00b7\u00b739 2026.02.09 09:15 . (H5N1) 8 . , 39 . 10\u339e 36 463 , 29 . . PICK PICK ",
+      "retrievedAt": "2026-02-10 07:29:49.428592",
+      "internal_id": "bff92ceb0671ea2a5be61a78590286014326dc5b3859fcb85263288674cec698",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27440,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Kristin Wright",
+      "title": "March for Life attendees may have been exposed to measles, DC Health warns",
+      "description": "D.C. health officials are contacting people possibly exposed to measles at the March for Life in January, as confirmed cases rise nationwide.",
+      "url": "https://www.npr.org/2026/02/08/nx-s1-5705972/measles-march-for-life-dc-reagan-national-union-station-metro",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5393x3034+0+428/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F47%2F063c954e493bb0371b93c6cb5fcf%2Fgettyimages-2257848471.jpg",
+      "publishedAt": "2026-02-09 00:06:08",
+      "content": "Health officials are warning that confirmed cases of measles may have spread at this year's National March for Life rally and concert in Washington, D.C. Thousands of anti-abortion demonstrators con\u2026 [+2966 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.703552",
+      "internal_id": "80eb1193c53044530309e608f4825ae9c234f377f8c8fa85cfa0121d2f7d1272",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27444,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Doctor, virologist caution against attending large public gatherings if unvaccinated against measles",
+      "description": "With the number of measles cases in Manitoba swelling, experts caution those who aren't vaccinated for the disease to stay away from large public gatherings until the outbreak settles down.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-unvaccinated-public-health-advice-9.7080188",
+      "urlToImage": "https://i.cbc.ca/ais/1.7538025,1747494921000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C150%2C3100%2C1743%29%3BResize%3D620",
+      "publishedAt": "2026-02-08 22:41:52",
+      "content": "With the number of measles cases in Manitoba swelling, experts caution those who aren't vaccinated for the disease to stay away from large public gatherings until the outbreak settles down. The war\u2026 [+5511 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.781236",
+      "internal_id": "5a91297b8c638c55075c4f7987315dfad22323154f701536d143293726059520",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27439,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "Matt Brown, The Associated Press",
+      "title": "Dr. Oz begs Americans to get inoculated against measles as outbreaks spiral around the country. \u2018Take the vaccine, please\u2019",
+      "description": "An outbreak in South Carolina in the hundreds has surpassed the recorded case count in Texas\u2019 2025 outbreak, and there is also one on the Utah-Arizona border.",
+      "url": "https://fortune.com/2026/02/08/dr-oz-cms-measles-vaccine-shot-outbreaks-rfk-jr/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/02/AP26037006970984-e1770589905423.jpg?resize=1200,600",
+      "publishedAt": "2026-02-08 22:39:09",
+      "content": "Take the vaccine, please, said Dr. Mehmet Oz, the Centers for Medicare and Medicaid Services administrator whose boss has raised suspicion about the safety and importance of vaccines. We have a solut\u2026 [+6178 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.676646",
+      "internal_id": "2990643bc7d7d65f394e51d485e5e7f7ca01c8fa62ab08170fc72bbb3ef19b62",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27454,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC4 Washington",
+      "author": "Matt Brown | The Associated Press",
+      "title": "\u2018Take the vaccine, please,\u2019 a top U.S. health official says in an appeal as measles cases rise",
+      "description": "Medicare and Medicaid will continue to cover the measles vaccine as part of the insurance programs, Dr. Mehmet Oz said.",
+      "url": "https://www.nbcwashington.com/news/national-international/dr-oz-encourages-measles-vaccine-us-cases-rise/4056720/",
+      "urlToImage": "https://media.nbcwashington.com/2026/02/AP26037006970984.jpg?quality=85&strip=all&crop=0px%2C77px%2C4169px%2C2345px&resize=1200%2C675",
+      "publishedAt": "2026-02-08 22:12:23",
+      "content": "A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing its measles elim\u2026 [+6593 chars]",
+      "retrievedAt": "2026-02-10 07:29:49.004627",
+      "internal_id": "f053c2c83cd1d606fc166c628ae4d72d8773cf892a37f7d7dcbf2d98f01bc9d6",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27436,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "\u2018Take the vaccine, please\u2019",
+      "description": "A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing its measles elimination status.",
+      "url": "https://www.bostonherald.com/2026/02/08/take-the-vaccine-please/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/02/AP26037016578250.jpg?w=1024&h=683",
+      "publishedAt": "2026-02-08 22:09:43",
+      "content": "WASHINGTON A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing its m\u2026 [+2872 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.637595",
+      "internal_id": "6f481de325edfbce5d823b7a272862baec7744941707cfb43b2f48f5f4fde1e6",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27435,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Ibrahim  Aksoy",
+      "title": "Gonzales defends conditions at Texas detention center with measles outbreak",
+      "description": "Rep. Tony Gonzales said the Dilley detention facility, the only immigration facility that houses children, is \"nicer than some elementary schools.\"",
+      "url": "https://www.cbsnews.com/news/tony-gonzales-dilley-detention-facility-conditions-measles/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/02/08/55da5a9c-4000-47ea-9917-29aba354a4cd/thumbnail/1200x630/ff406991269cb3894b455b79a1f4bcdb/1770574397170.png",
+      "publishedAt": "2026-02-08 21:57:50",
+      "content": "Rep. Tony Gonzales said Sunday that the Texas immigration detention center in which 5-year-old Liam Ramos was detained is \"nicer than some elementary schools\" amid reports of a measles outbreak and c\u2026 [+4238 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.580693",
+      "internal_id": "9cd3b35f438e4c419bead6c6e86ee7b11095b2c30370cb5ed9c35409a2e7d55d",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27437,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "'Take the vaccine, please,' a top U.S. health official says in an appeal as measles cases rise",
+      "description": "A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing its measles elimination status. \u201cTake the vaccine, please,\u201d said Dr Mehmet O\u2026",
+      "url": "https://japantoday.com/category/features/health/%27take-the-vaccine-please-%27-a-top-us-health-official-says-in-an-appeal-as-measles-cases-rise",
+      "urlToImage": null,
+      "publishedAt": "2026-02-08 21:38:12",
+      "content": "A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing its measles elim\u2026 [+6554 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.648262",
+      "internal_id": "1d6d337fb5d99ab0770b84586f23c7a6789b105a004239248283f4ad9db35963",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27441,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Global Desk",
+      "title": "Measles outbreak in USA: Top U.S. health expert sends chilling warning. All you need to know",
+      "description": "An outbreak in South Carolina in the hundreds has surpassed the recorded case count in Texas\u2019 2025 outbreak, and there is also one on the Utah-Arizona border.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/measles-outbreak-in-usa-top-u-s-health-experts-sends-chilling-warning-all-you-need-to-know/articleshow/128085571.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128085571,width-1200,height-630,imgsize-548014,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-08 21:08:19",
+      "content": "A leading U.S. health official today urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing its measles eliminat\u2026 [+1493 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.749733",
+      "internal_id": "7f4a95d80b93a1249bea181b4bb8fda62fe51e80dc6de0d7c623e354cdd9e32b",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27445,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Matt Brown, Associated Press",
+      "title": "Dr. Mehmet Oz urges public to take the measles vaccine as U.S. cases rise",
+      "description": "\"Take the vaccine, please,\" said Dr. Mehmet Oz, the Centers for Medicare and Medicaid Services administrator. \"We have a solution for our problem.\"",
+      "url": "https://www.pbs.org/newshour/health/dr-mehmet-oz-urges-public-to-take-the-measles-vaccine-as-u-s-cases-rise",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/02/2025-12-18T192257Z_1369029078_RC27JIAYCYMP_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+      "publishedAt": "2026-02-08 21:05:51",
+      "content": "WASHINGTON (AP) A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing \u2026 [+6999 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.817820",
+      "internal_id": "489c44cb9000d0482d3f1f798f4da2d25dfb95ed537b7583dd7ecee35dc6f9e0",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27434,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.is.fi",
+      "author": "Akseli Vanhala",
+      "title": "Pelottava tauti levi\u00e4\u00e4 Moskovassa",
+      "description": "Taudin levi\u00e4minen on johtanut rajoitustoimiin.",
+      "url": "https://www.is.fi/ulkomaat/art-2000011803842.html",
+      "urlToImage": "https://images.sanoma-sndp.fi/615f21f106b09362fdfaceb095d660a1/some/is-default.jpg",
+      "publishedAt": "2026-02-08 20:41:00",
+      "content": "Taudin levi\u00e4minen on johtanut rajoitustoimiin.Reutovissa Moskovan alueella el\u00e4imiss\u00e4 levi\u00e4\u00e4 rabies eli raivotauti. Taudin levi\u00e4misen vuoksi yksi rakennus kaupungissa on m\u00e4\u00e4r\u00e4tty karanteeniin, The Mos\u2026 [+843 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.312768",
+      "internal_id": "6ff172ba7615189b7080d8963359969e1e3a8e35c37de2e5b0152b7635b5a9b1",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27443,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "HuffPost",
+      "title": "'Take The Vaccine, Please,' A Top U.S. Health Official Says In An Appeal As Measles Cases Rise",
+      "description": "A leading U.S. health official is urging people to get inoculated against the measles at a time of outbreaks across several states.",
+      "url": "https://www.huffpost.com/entry/ap-us-measles-cases-surge-vaccine_n_6988f173e4b0959e2d91340b",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6988f1dc220000e1426d9b6c.jpeg?ops=1200_630",
+      "publishedAt": "2026-02-08 20:30:57",
+      "content": "WASHINGTON (AP) A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing \u2026 [+6912 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.770440",
+      "internal_id": "fc5f532f04b61dbef651ad3301b8db8da87974176fd19bd2c558d476a1698c82",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27446,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Matt Brown",
+      "title": "\u2018Take the vaccine, please,\u2019 a top US health official says in an appeal as measles cases rise",
+      "description": "A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing its measles elimination status.",
+      "url": "https://www.denverpost.com/2026/02/08/measles-vaccine-mehmet-oz/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/02/Trump_70984-1.jpg?w=1024&h=683",
+      "publishedAt": "2026-02-08 20:30:02",
+      "content": "WASHINGTON \u2014 A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing its\u2026 [+6564 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.854544",
+      "internal_id": "5d34a5192696d7c31e4369929969fec14ad89a7d7c5be411f82b037f5b7589a8",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27438,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Oz urges Americans to get measles vaccine amid outbreaks (Max Rego/The Hill)",
+      "description": "Max Rego / The Hill: Oz urges Americans to get measles vaccine amid outbreaks \u2014 Dr. Mehmet Oz, the administrator of the Center for Medicare and Medicaid Services (CMS), said Americans should get vaccinated against measles amid rising cases of the disease. \u2026",
+      "url": "https://www.memeorandum.com/260208/p40",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/01/ozmehmet_031425gn09_w.jpg?w=1280",
+      "publishedAt": "2026-02-08 20:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.658075",
+      "internal_id": "3ff8b8c5d99fbb7d224d7fda7666b85343128bb201f36435d1ec125f542d1fe0",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27442,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "MATT BROWN Associated Press",
+      "title": "'Take the vaccine, please,' a top US health official says in an appeal as measles cases rise",
+      "description": "A leading U.S. health official is urging people to get inoculated against the measles at a time of outbreaks across several states",
+      "url": "https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374",
+      "urlToImage": "https://i.abcnewsfe.com/a/e6a69003-5127-4512-8d0f-0c7b588025ff/wirestory_971a576fe28cc741a915f3dbf310de02_16x9.jpg?w=1600",
+      "publishedAt": "2026-02-08 20:19:48",
+      "content": "WASHINGTON -- A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing it\u2026 [+6421 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.760315",
+      "internal_id": "e8be81c292df08f70c70726c3781bfd2549b22d51f5b08909d41eb33637378b1",
+      "publishedAtLabel": "Feb 8"
+    },
     {
       "id": 27430,
       "query": [
@@ -256,6 +616,24 @@
       "publishedAtLabel": "Feb 7"
     },
     {
+      "id": 27452,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WCAX",
+      "author": "Wcax News Team",
+      "title": "Measles detected in Washington County wastewater, Vt. health officials say",
+      "description": "Measles detected in Washington County wastewater, Vt. health officials saywcax.com",
+      "url": "https://www.wcax.com/2026/02/06/measles-detected-washington-county-wastewater-vt-health-officials-say/",
+      "urlToImage": "https://gray-wcax-prod.gtv-cdn.com/resizer/v2/DWK3M7ZSCFEFTKW6QGUCBPOQ5A.jpg?auth=426c47d87ed9b11340912fa92b76df1d9f59d59c703d66c39de5d20283068bd8&width=1200&height=600&smart=true",
+      "publishedAt": "2026-02-07 01:20:24",
+      "content": "WASHINGTON COUNTY, Vt. (WCAX) - Measles has been detected in Washington County wastewater, according to the Vermont Health Department. Officials found the virus during routine testing earlier this w\u2026 [+299 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.984679",
+      "internal_id": "542677d47fcfdd9860eb910de3ccff2367c4c185ef826ef717000ca457d046d5",
+      "publishedAtLabel": "Feb 7"
+    },
+    {
       "id": 27402,
       "query": [
         "measles"
@@ -472,6 +850,24 @@
       "publishedAtLabel": "Feb 6"
     },
     {
+      "id": 27447,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "February 6",
+      "title": "Fear in Minnesota's Somali community hampering progress on measles vaccination, medical experts say",
+      "description": "Fear in Minnesota's Somali community hampering progress on measles vaccination, medical experts saycbsnews.com",
+      "url": "https://www.cbsnews.com/minnesota/news/somali-minnesota-measles-vaccine-skepticism-immigration-fears/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/01/06/e97e8307-adb5-4fab-b768-88bf36de6261/thumbnail/1200x630/042c41e3d1e8779a5cc58202ca13c6df/cbsn-fusion-doctor-breaks-down-changes-to-cdc-vaccine-guidelines-thumbnail.jpg",
+      "publishedAt": "2026-02-06 17:02:19",
+      "content": "Public health officials and community leaders say that even before federal immigration authorities launched a crackdown in Minneapolis, a crisis was brewing. Measles vaccination rates among the sta\u2026 [+7632 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.925751",
+      "internal_id": "8589159923295de21f965f1892cd7cb5068baccf7f310c78187f954621352bed",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
       "id": 27391,
       "query": [
         "measles"
@@ -505,6 +901,24 @@
       "content": "The Mexican state of Jalisco issued a health alert and mandated the use of face masks in schools as a measles outbreak hit the state capital, a key host city for the upcoming 2026 FIFA World Cup. Th\u2026 [+3780 chars]",
       "retrievedAt": "2026-02-07 19:11:18.619899",
       "internal_id": "bae2397a217e3689a39e11d22d873fc9099416e2d642e35a00ccc5501445248a",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27451,
+      "query": [
+        "measles"
+      ],
+      "source_id": "abc-news",
+      "source_name": "ABC News",
+      "author": "Youri Benadjaoud",
+      "title": "4 times as many measles cases in a few weeks than US typically averages in a whole year: CDC",
+      "description": "4 times as many measles cases in a few weeks than US typically averages in a whole year: CDCgo.com",
+      "url": "https://abcnews.go.com/Health/us-sees-733-measles-cases-nationwide-month/story?id=129921325",
+      "urlToImage": "https://i.abcnewsfe.com/a/94af99c6-5588-4295-996f-f1b57795d94c/measles-1-gty-er-260120_1768925917623_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-02-06 16:12:16",
+      "content": "There have been at least 733 confirmed measles cases reported across the nation, the latest data from the Centers for Disease Control and Prevention showed Friday. In just a few weeks, the United St\u2026 [+1395 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.974726",
+      "internal_id": "2809d894fc8c81b6328cd3c954bb7eb7f584e36bbf5c91010d2480a1bf9d572e",
       "publishedAtLabel": "Feb 6"
     },
     {
@@ -596,6 +1010,24 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2026-02-07 19:11:18.583899",
       "internal_id": "d73b123d4118140cd84b4ca9fcf9b0d39ca61e2ea661f84459b3a7bbbb630a32",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27450,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Yap Wei Qiang",
+      "title": "askST: What are Singapore\u2019s enhanced measures to contain the risk of measles infections?",
+      "description": "Singapore recorded 11 measles cases within the first month of 2026. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/askst-singapores-enhanced-measures-to-contain-the-risk-of-measles-infections",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/e73c119afcfc4a077a41d1d18f20c3286ebf30d10d0bc27128f4e2db73305b71",
+      "publishedAt": "2026-02-06 14:40:00",
+      "content": "SINGAPORE The Communicable Diseases Agency (CDA) stepped up precautionary measures against measles on Feb 6 to prevent community transmission of the highly contagious virus. The Straits Times looks \u2026 [+4516 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.959688",
+      "internal_id": "521ad7dd5b2a9581f1252450da739d6aebe5ad519793c8a2f3f8f69ebc7b36e9",
       "publishedAtLabel": "Feb 6"
     },
     {
@@ -812,6 +1244,24 @@
       "content": ", 6 8 . \u00abJournal of Archaeological Science\u00bb , . DNA Jerash, 541 750 .. \u00ab \u00bb , . Yersinia pestis . : , . \u00ab . . , . , . \u00bb , . DNA . , \u00ab\u00bb , Covid. \u00ab . , . , \u00bb , . 200 \u00ab \u00bb . , , \u00ab \u00bb. \u00ab , , . \u2026 [+87 chars]",
       "retrievedAt": "2026-02-07 19:11:20.659687",
       "internal_id": "3716f53e027b024f8ac2163f13d2cfd65d08d2fa9cdfda496c0f7653aea632b0",
+      "publishedAtLabel": "Feb 6"
+    },
+    {
+      "id": 27448,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Yap Wei Qiang",
+      "title": "S\u2019pore heightens precautions against measles amid global and local surge, possible local transmission",
+      "description": "Singapore is enhancing public health measures against measles following a surge in cases and possible local transmission, urging vaccination. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/spore-heightens-precautions-against-measles-amid-global-local-surge-possible-local-transmission",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/4d6429144254f59119594f1205fe93747a9b2cf6237575b595d997de5ebde86b",
+      "publishedAt": "2026-02-06 08:06:50",
+      "content": "SINGAPORE Eleven measles cases were detected in Singapore in January 2026, the same number as for the whole of 2024. The cases include three infants too young to be vaccinated. In addition, cases cou\u2026 [+6148 chars]",
+      "retrievedAt": "2026-02-10 07:29:48.935975",
+      "internal_id": "7d82fd802cc9070b731ea30a161fd44b34ddd52cc76240da420ecd7e39e9212c",
       "publishedAtLabel": "Feb 6"
     },
     {
@@ -16572,6 +17022,96 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26510,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
+      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
+      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
+      "publishedAt": "2025-12-28 15:00:00",
+      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
+      "retrievedAt": "2025-12-29 19:06:37.716406",
+      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26512,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
+      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 14:10:33",
+      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.025368",
+      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26513,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Diario EL PAIS Uruguay",
+      "author": "Nicolas Lauber",
+      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
+      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
+      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
+      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
+      "publishedAt": "2025-12-28 13:45:17",
+      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
+      "retrievedAt": "2025-12-29 19:06:40.126081",
+      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26509,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Madhyamam.com",
+      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
+      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
+      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
+      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
+      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
+      "publishedAt": "2025-12-28 10:24:23",
+      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
+      "retrievedAt": "2025-12-29 19:06:37.550099",
+      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26511,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
+      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 10:04:39",
+      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.014393",
+      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]
