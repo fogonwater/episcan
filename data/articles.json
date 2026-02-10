@@ -1,8 +1,495 @@
 {
-  "last_updated": "2026-02-10 07:29",
-  "count_articles_total": 949,
-  "count_articles_new": 25,
+  "last_updated": "2026-02-10 19:29",
+  "count_articles_total": 972,
+  "count_articles_new": 28,
   "articles": [
+    {
+      "id": 27477,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Profissionais da sa\u00fade come\u00e7am a receber vacina do Butantan contra a dengue",
+      "description": "At\u00e9 o fim de 2026, o governo federal pretende iniciar a imuniza\u00e7\u00e3o da popula\u00e7\u00e3o em geral, entre 15 e 59 anos",
+      "url": "https://valor.globo.com/brasil/noticia/2026/02/09/profissionais-da-saude-comecam-a-receber-vacina-do-butantan-contra-a-dengue.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/V1UqmGPMlfyLGLep7uZOf_Wmfgg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/c/A/UXCddZSXAHr4wkaY3yWg/vacina-dengue-11.jpg",
+      "publishedAt": "2026-02-09 19:00:36",
+      "content": "O governo federal come\u00e7ou nesta segunda-feira (9) a vacina\u00e7\u00e3o contra a dengue com a Butantan-DV, vacina de dose \u00fanica, nacional, produzida pelo Instituto Butantan. A primeira fase da campanha de vaci\u2026 [+3113 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.366356",
+      "internal_id": "c7ced2c8314cc54da49c6ac87dade636e1219c005bec520fe94a2f061c026e23",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27459,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Riyan Ramanath V",
+      "title": "BMC to catch and rehabilitate stray dogs in phases from 457 institutions",
+      "description": "Bhubaneswar Municipal Corporation is tackling stray dog issues at 457 problem spots, including stadiums and hospitals. Around 5,000 of the city's 48,000 stray dogs will be caught and rehabilitated in phases. Mass anti-rabies vaccination begins in March, along\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-to-catch-and-rehabilitate-stray-dogs-in-phases-from-457-institutions/articleshow/128125606.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128125578,width-1280,height-720,imgsize-135198,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-09 18:00:31",
+      "content": "Follow Us On Social Media William And Kate Break Silence As Andrew's Epstein Revelations Rock Royals | WatchUK Troops Fighting: Russia BLASTS Britain Over Direct Military Role In Ukraine |'De Facto \u2026 [+1499 chars]",
+      "retrievedAt": "2026-02-10 19:29:28.534959",
+      "internal_id": "8b04a4e87d3313fb155e361d692d2c2a32a7fce69fde61787b706dc99b649d25",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27461,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Garrett Owen",
+      "title": "Dr. Oz begs Americans to take the measles vaccine as infections soar",
+      "description": "The call for vaccinations runs counter to Kennedy's vaccine-skeptical agenda",
+      "url": "https://www.salon.com/2026/02/09/dr-oz-begs-americans-to-take-the-measles-vaccine-as-infections-soar/",
+      "urlToImage": "https://www.salon.com/app/uploads/2026/02/dr-mehmet-ox-GettyImages-2259619597.jpg",
+      "publishedAt": "2026-02-09 17:58:58",
+      "content": "The U.S. is in the grips of a historic measles surge, with more than 3,000 measles cases reported in 45 states across the country since the start of 2025. So far, two unvaccinated children have died \u2026 [+2575 chars]",
+      "retrievedAt": "2026-02-10 19:29:28.963736",
+      "internal_id": "f05b987edb1038c088261cd9d11b68b48a45e749aede1f048c1fdf66b064b5e9",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27471,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TheWrap",
+      "author": "Alex Welch",
+      "title": "Dr. Oz Urges Americans to \u2018Take the Vaccine, Please\u2019 in Response to Recent Measles Outbreaks",
+      "description": "\"We have a solution for a problem,\" the CMS administrator says The post Dr. Oz Urges Americans to \u2018Take the Vaccine, Please\u2019 in Response to Recent Measles Outbreaks appeared first on TheWrap.",
+      "url": "https://www.thewrap.com/media-platforms/politics/dr-oz-measles-vaccine-south-carolina-outbreak-cnn-video/",
+      "urlToImage": "https://www.thewrap.com/wp-content/uploads/2026/02/Dr-Oz-CNN-2-8-26.jpg",
+      "publishedAt": "2026-02-09 17:32:10",
+      "content": "Centers for Medicare and Medicaid Services Administrator Dr. Mehmet Oz responded to a recent surge in measles cases throughout America, urging Americans in a CNN interview to \u201ctake the vaccine, pleas\u2026 [+2645 chars]",
+      "retrievedAt": "2026-02-10 19:29:29.384391",
+      "internal_id": "62bcb1c14500ab5c9d4577057746f840ab149cd964cc27f31cc99a382134f5b6",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27467,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PEOPLE",
+      "author": "people.com",
+      "title": "Rising measles cases spark panic as even Dr Oz begs 'take the vaccine!'",
+      "description": "",
+      "url": "https://people.com/dr-oz-urges-americans-to-take-measles-vaccine-11902542",
+      "urlToImage": null,
+      "publishedAt": "2026-02-09 17:00:15",
+      "content": "People should \u201cfor sure\u201d fear measles, top health official Dr. Mehmet Oz said, as the U.S. continues to struggle with an ongoing rise in measles cases that began last year.",
+      "retrievedAt": "2026-02-10 19:29:29.174812",
+      "internal_id": "eae7eb93f0d0fe94cfb0932a5be08bdcfe277280f34999f25a1a3849820e8258",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27462,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Hafiz Rashid",
+      "title": "Turns Out the March for Life Was a Measles Superspreader Event",
+      "description": "Anti-abortion demonstrators at the March for Life may have helped spread a potentially fatal disease.The march and concert, held on January 23 in Washington, D.C., draw thousands to the National Mall each year. This time, though, the D.C. Department of Health\u2026",
+      "url": "https://newrepublic.com/post/206352/march-for-life-measles",
+      "urlToImage": "https://images.newrepublic.com/4a2d1d932f9ba2060de1dfbac4a377b0deba9ae2.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-09 16:47:06",
+      "content": "He was then detained and held in a cell with several other immigrants before being flown to an Immigration and Customs Enforcement facility in Buffalo, New York, where he was asked to sign papers agr\u2026 [+982 chars]",
+      "retrievedAt": "2026-02-10 19:29:28.991497",
+      "internal_id": "0f157181b0595c464ed1f7a251c99954f4b4d805d32806ffdc405dc457899cb6",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27473,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Lula anuncia aporte para vacinas no 1\u00ba evento em SP em ano eleitoral",
+      "description": "Presidente anunciou investimento de R$ 1,4 bilh\u00e3o para o Instituto Butantan e lan\u00e7ou a vacina\u00e7\u00e3o contra dengue para agentes de sa\u00fade",
+      "url": "https://www.metropoles.com/sao-paulo/lula-anuncia-aporte-para-vacinas-no-1o-evento-em-sp-em-ano-eleitoral",
+      "urlToImage": "https://images.metroimg.com/2026/02/lula-no-butantan-1.jpg",
+      "publishedAt": "2026-02-09 16:39:56",
+      "content": "Na primeira viagem a S\u00e3o Paulo neste ano eleitoral, o presidente Luiz In\u00e1cio Lula da Silva (PT) participou nesta segunda-feira (9/2) do an\u00fancio de R$ 1,4 bilh\u00e3o para o Instituto Butantan desenvolver \u2026 [+2627 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.297532",
+      "internal_id": "0e12dc1d98451ce09c00ae003b015c5f11c2c7800110dfe9a22d7692dbdbee96",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27464,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Texas Tribune",
+      "author": "Colleen DeGuzman",
+      "title": "Tuberculosis and COVID-19 Detected at Camp East Montana ICE Jail in El Paso",
+      "description": "News of the infections comes less than a week after two cases of measles were identified at another Texas ICE jail.",
+      "url": "https://www.texastribune.org/2026/02/07/ice-facility-el-paso-tuberculosis/",
+      "urlToImage": "https://truthout.org/app/uploads/2026/02/20250709-Camp-East-Montana-ICE-PR-06.webp",
+      "publishedAt": "2026-02-09 16:37:04",
+      "content": "Truthout is a vital news source and a living history of political struggle. If you think our work is valuable, support us with a donation of any size. Two cases of tuberculosis and 18 cases of COVID\u2026 [+5470 chars]",
+      "retrievedAt": "2026-02-10 19:29:29.064775",
+      "internal_id": "9513d45cf79473a6b209bad507c0013256a0fac20f1a4ce8312b415bf39eae29",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27480,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Pablo Retamal N.",
+      "title": "Muere el destacado poeta chileno Germ\u00e1n Carrasco",
+      "description": "A los 55 a\u00f1os parte una de las voces fundamentales de la poes\u00eda contempor\u00e1nea. Autor de obras clave como La insidia del sol sobre las cosas, Carrasco deja un legado marcado por la observaci\u00f3n aguda de la periferia y el cine. Obtuvo galardones como el Premio P\u2026",
+      "url": "https://www.latercera.com/culto/noticia/muere-el-destacado-poeta-german-carrasco/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/EGCZSIRUJBDH3EZE5XJLNDEQJE.jpg?auth=94f851d3e3d4967c7eee633a6f95a28cfbc35ccae64a8efa47a2ef1f65f2357c&height=630&width=1200&smart=true",
+      "publishedAt": "2026-02-09 15:35:25",
+      "content": "Este lunes 9 de febrero ha fallecido el poeta nacional Germ\u00e1n Carrasco. Seg\u00fan confirmaron fuentes cercanas a Culto, su deceso ocurri\u00f3 a las 01.00 de la madrugada producto de una meningitis. Nacido e\u2026 [+1113 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.531634",
+      "internal_id": "f5fa29dce95b4af2de390c8685f743008f2ace2c18bb4e0b07213197bc5906db",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27458,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d0\u05d9\u05ea\u05df \u05d2\u05dc\u05d9\u05e7\u05de\u05df, \u05d0\u05d5\u05e8 \u05d4\u05d3\u05e8",
+      "title": "\u05e9\u05e2\u05dc\u05ea \u05d1\u05e7\u05d9\u05e1\u05e8\u05d9\u05d4: \u05d0\u05e8\u05d1\u05e2\u05d4 \u05d9\u05dc\u05d3\u05d9\u05dd \u05e0\u05d3\u05d1\u05e7\u05d5, 60 \u05e7\u05d9\u05d1\u05dc\u05d5 \u05d8\u05d9\u05e4\u05d5\u05dc \u05de\u05d5\u05e0\u05e2",
+      "description": "\u05d0\u05e8\u05d1\u05e2\u05d4 \u05d9\u05dc\u05d3\u05d9\u05dd \u05d0\u05d5\u05de\u05ea\u05d5 \u05e2\u05dd \u05e9\u05e2\u05dc\u05ea, \u05de\u05d4\u05dd \u05e9\u05dc\u05d5\u05e9\u05d4 \u05d1\u05e9\u05e0\u05d9 \u05d2\u05e0\u05d9\u05dd \u05d1\u05e7\u05d9\u05e1\u05e8\u05d9\u05d4. \u05db\u05da \u05e2\u05d5\u05dc\u05d4 \u05de\u05d1\u05d3\u05d9\u05e7\u05d4 \u05e9\u05d1\u05d9\u05e6\u05e2 \u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d1\u05de\u05e1\u05d2\u05e8\u05ea \u05d7\u05e7\u05d9\u05e8\u05d4 \u05d0\u05e4\u05d9\u05d3\u05de\u05d9\u05d5\u05dc\u05d5\u05d2\u05d9\u05ea. \u05d4\u05d4\u05d5\u05e8\u05d9\u05dd \u05d4\u05d5\u05e0\u05d7\u05d5 \u05e2\u05dc \u05d8\u05d9\u05e4\u05d5\u05dc \u05de\u05d5\u05e0\u05e2 \u05d5\u05de\u05e2\u05e7\u05d1 \u05e8\u05e4\u05d5\u05d0\u05d9",
+      "url": "https://www.ynet.co.il/health/article/rjcsbddpwe",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/09/Skbj00DOwPZg/Skbj00DOwPZg_0_0_1000_563_0_large.jpg",
+      "publishedAt": "2026-02-09 15:06:07",
+      "content": "(Bordetella Pertussis). . . , . . .",
+      "retrievedAt": "2026-02-10 19:29:28.167759",
+      "internal_id": "4f71ef9ab9ff2c9a9c4892275e36131fe88cb7ddb3db757bda1e823953e47db7",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27475,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "AstuteAnalytica India Pvt. Ltd.",
+      "title": "Insect Pest Control Market Poised to Hit US$ 25.47 Billion by 2035 Driven by Record-High Vector-Borne Disease Incidence | Astute Analytica",
+      "description": "Record-breaking 2024 dengue (14.6M cases) and malaria (263M cases) surges, plus Lyme disease spikes, fuel urgent demand for insect pest control. Leaders like Rollins expand via acquisitions; IoT/AI tech rises; new chemicals combat resistance. Regulations tigh\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/02/09/3234637/0/en/Insect-Pest-Control-Market-Poised-to-Hit-US-25-47-Billion-by-2035-Driven-by-Record-High-Vector-Borne-Disease-Incidence-Astute-Analytica.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "publishedAt": "2026-02-09 14:30:00",
+      "content": "Chicago, Feb. 09, 2026 (GLOBE NEWSWIRE) -- The global insect pest control market size was valued at USD 12.36 billion in 2025 and is projected to hit the market valuation of USD 25.47 billion by 2035\u2026 [+16956 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.328033",
+      "internal_id": "aa50780b30a12df3ecf4b2c7f72b8ef538e97b3ce97d9f69f72480f89d75f8ea",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27476,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anne Hauner, Jaide Aroni Sierra, Xiomara Merino, Carlos Villa, Fiorella Torres, Ole Lagatie, Michael Talledo, Kevin K. Ari\u00ebn, Francesca Falconi-Agapito",
+      "title": "Assessing the diagnostic performance of clinical, serological and molecular approaches to improve dengue case detection in the Peruvian Amazon",
+      "description": "Author summary Dengue is a viral infection spread by Aedes mosquitos that causes fever and, in some cases, can lead to severe illness. For proper patient care and outbreak control, timely and accurate case confirmation is essential. However, in many dengue en\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013984",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013984.g004&size=inline",
+      "publishedAt": "2026-02-09 14:00:00",
+      "content": "1. Introduction In low- and middle-income countries (LMICs) fever is a frequent reason for seeking medical care. In the case of no evident localized focus of infection, these cases are classified as\u2026 [+52810 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.338359",
+      "internal_id": "23fe373184ac776042f716038dcc3b68bc82f5f177310c8375a299c9c24b0915",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27482,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rhian L. O'Connor, Georgia M. Cook, Jacqueline Hankinson, Ksenia Fominykh, Samantha H. Cheng, Daniel A. Nash, Aur\u00e9lie Cenier, Komal M. Nayak, Stephen C. Graham, Janet E. Deane, Matthias Zilbauer, Andrew E. Firth, Valeria Lulla",
+      "title": "Flexibility and modulation of translation initiation in enterovirus genomes",
+      "description": "Author summary Enteroviruses cause over a billion infections annually, leading to serious conditions such as hand, foot, and mouth disease and viral meningitis. While these viruses are known to encode proteins through a single polyprotein and an upstream open\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013967",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013967.strk&size=inline",
+      "publishedAt": "2026-02-09 14:00:00",
+      "content": "Citation: O'Connor RL, Cook GM, Hankinson J, Fominykh K, Cheng SH, Nash DA, et al. (2026) Flexibility and modulation of translation initiation in enterovirus genomes. PLoS Pathog 22(2): e1013967. \u2026 [+72472 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.554545",
+      "internal_id": "f8afb6b7b4b56464964df990b5aeb9922e36e78ab4042400705f18f7ef8a1292",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27483,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Terrence Q. Lo, Elijah Paa Edu-Quansah, John Dogba, Fahn Taweh, Lekilay Tehmeh, Thomas Nagbe, Paul Whesseh, Dore Diabe, Eric Houpt, Jie Liu, Darwin J. Operario, Maame Amo-Addae, Davis Ashaba, Victoria Katawera, Daniel W. Martin, Denise Roth Allen, Amanda Balish, Barry Fields, Gulu Gwesa, Mosoka Fallah, Desmond Williams",
+      "title": "Acute febrile illness surveillance using TaqMan Array Cards in two urban health facilities, Monrovia, Liberia, December 2018\u2013March 2020",
+      "description": "Author summary Among sick patients, fever is a very common symptom for many infectious diseases including those that have the potential to cause epidemics. In many low resource countries such as Liberia, the number of patients at healthcare facilities with fe\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013961",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013961.g003&size=inline",
+      "publishedAt": "2026-02-09 14:00:00",
+      "content": "Abstract Introduction Fever is a common symptom of infectious diseases including for those with epidemic potential. Beyond malaria, the causes of undifferentiated (i.e., non-respiratory, non-diarrh\u2026 [+44687 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.793243",
+      "internal_id": "d9d281fbe4de0c9b4cf8d4d3ec97719800e1d533b6e5090758e3d9528cd2ae64",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27484,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Julie M.J. Verhoef, Ezra T. Bekkering, Cas Boshoven, Megan Hannon, Felix Evers, Nicholas I. Proellochs, Cornelia G. Spruijt, Taco W. A. Kooij",
+      "title": "Plasmodium falciparum stomatin-like protein forms a putative complex with a metalloprotease in distinct mitochondrial loci",
+      "description": "Author summary Malaria parasites depend on a single mitochondrion that is essential for their growth and survival. This organelle differs from the mitochondrion in human cells, making it an attractive drug target. Proteins of the SPFH family are conserved mem\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013922",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013922.strk&size=inline",
+      "publishedAt": "2026-02-09 14:00:00",
+      "content": "Abstract Members of the Stomatin, Prohibitin, Flotillin and HflK/C (SPFH) protein family form large membrane anchored or spanning complexes and are involved in various functions in different organel\u2026 [+74319 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.812946",
+      "internal_id": "52a23fbbd3ddf04e609a326e11913ce13519d9859b6554a5cb8cbcfa962d70e2",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27485,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Melaku Laikemariam, Alemayehu Molla Wollie, Amare Mebrat Delie, Abebe Yenesew, Abateneh Melkamu, Habtamu Ayele, Yihalem Abeje",
+      "title": "Mpox knowledge and positive attitudes in Sub-Saharan African healthcare workers after 2022 outbreak of disease: A systematic review and meta-analysis",
+      "description": "Author summary Mpox still poses a major public health issue in Sub-Saharan Africa. Healthcare workers stand right on the front lines against these outbreaks. Despite their crucial role, there has been no comprehensive regional assessment of their preparedness\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013977",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013977.g006&size=inline",
+      "publishedAt": "2026-02-09 14:00:00",
+      "content": "Citation: Laikemariam M, Wollie AM, Delie AM, Yenesew A, Melkamu A, Ayele H, et al. (2026) Mpox knowledge and positive attitudes in Sub-Saharan African healthcare workers after 2022 outbreak of disea\u2026 [+22984 chars]",
+      "retrievedAt": "2026-02-10 19:29:31.433559",
+      "internal_id": "293711c56337245dd8b960d19625faf58913af5d9c4e55572ddff0f1188de300",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27470,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Polly Davis Doig",
+      "title": "Dr. Oz: 'Take the Vaccine, Please'",
+      "description": "The Centers for Medicare and Medicaid Services administrator on Sunday urged people to get inoculated against the measles amid outbreaks across several states and as the US risks losing its measles elimination status. \"Take the vaccine, please,\" said Dr. Mehm\u2026",
+      "url": "https://www.newser.com/story/383361/dr-oz-take-the-vaccine-please.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1663643-12-20260209080035.jpeg",
+      "publishedAt": "2026-02-09 13:28:00",
+      "content": "The Centers for Medicare and Medicaid Services administrator on Sunday urged people to get inoculated against the measles amid outbreaks across several states and as the US risks losing its measles e\u2026 [+2019 chars]",
+      "retrievedAt": "2026-02-10 19:29:29.347461",
+      "internal_id": "f4a0d230d3384fc9c2a20a8fc8e85f92755d61fe8ce5c8e30b955eaeded7cc13",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27468,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d0\u05d5\u05e8 \u05d4\u05d3\u05e8",
+      "title": "\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d0\u05d9\u05e9\u05e8 \u05dc\u05d4\u05e8\u05d7\u05d9\u05e7 \u05d9\u05dc\u05d3\u05d9\u05dd \u05de\u05d4\u05d2\u05df \u05db\u05d9 \u05dc\u05d0 \u05d7\u05d5\u05e1\u05e0\u05d5 \u05e0\u05d2\u05d3 \u05d7\u05e6\u05d1\u05ea | \u05e4\u05e8\u05e1\u05d5\u05dd \u05e8\u05d0\u05e9\u05d5\u05df",
+      "description": "\u05d1\u05e6\u05e2\u05d3 \u05d7\u05e8\u05d9\u05d2 \u05d1\u05d9\u05d5\u05ea\u05e8 \u05d4\u05d5\u05e8\u05d7\u05e7\u05d5 \u05e9\u05d9\u05e9\u05d4 \u05d9\u05dc\u05d3\u05d9\u05dd \u05dc\u05d0-\u05de\u05d7\u05d5\u05e1\u05e0\u05d9\u05dd \u05de\u05e9\u05e0\u05d9 \u05d2\u05e0\u05d9 \u05d9\u05dc\u05d3\u05d9\u05dd \u05d1\u05d9\u05d9\u05e9\u05d5\u05d1 \u05d1\u05e9\u05d5\u05de\u05e8\u05d5\u05df \u05dc\u05d0\u05d7\u05e8 \u05e9\u05e0\u05d7\u05e9\u05e4\u05d5 \u05dc\u05d7\u05d5\u05dc\u05d4 \u05d7\u05e6\u05d1\u05ea. \u05d3\"\u05e8 \u05d0\u05d5\u05e8 \u05e7\u05e8\u05d9\u05d2\u05e8, \u05e1\u05d2\u05df \u05e8\u05d0\u05e9 \u05d7\u05d8\u05d9\u05d1\u05ea \u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d4\u05e6\u05d9\u05d1\u05d5\u05e8 \u05d1\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea: \"\u05d4\u05d5\u05e8\u05d9\u05dd \u05dc\u05d0 \u05d9\u05db\u05d5\u05dc\u05d9\u05dd \u05dc\u05d4\u05d7\u05dc\u05d9\u05d8 \u05d1\u05e2\u05d1\u05d5\u05e8 \u05d9\u05dc\u05d3\u05d9\u05dd \u05d0\u05d7\u05e8\u05d9\u05dd\". \u05d4\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea \u05d2\u05d1\u05ea\u05d4 \u05e2\u05d3 \u05db\u05d4 \u05d0\u05ea \u05d7\u05d9\u05d9\u05d4\u05dd \u05e9\u05dc 14 \u05d9\u05dc\u05d3\u05d9\u05dd. 20 \u05d7\u05d5\u05dc\u05d9\u05dd \u05de\u05d0\u05d5\u05e9\u05e4\u05d6\u05d9\u2026",
+      "url": "https://www.ynet.co.il/health/article/skzozudw11g",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/26/H1lXRuPVWZg/H1lXRuPVWZg_0_0_1000_563_0_large.jpg",
+      "publishedAt": "2026-02-09 12:55:42",
+      "content": ", , -90% . \" , , . , , \", \" . , , . 21 . (Measles virus), . , . -1,000, . , , 10-7 , , . \" , \", \" , , ynet. \" , 72 , \". \" \", \" . \" , , , . , , , , \". , , -2,900 . , , -10,000. 20 , . : , , , , \u2026 [+79 chars]",
+      "retrievedAt": "2026-02-10 19:29:29.309097",
+      "internal_id": "e2ad8a66d2b6df8507e8a4992773ef1835a0d16237ca211e8a79e9922e7ee100",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27463,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Susie Madrak",
+      "title": "Even Bootlicking Dr. Oz Is Telling People To Get Measles Vaccine",
+      "description": "How about that? A Trump administration official is actually encouraging Americans to get measles vaccines at a time when outbreaks across several states and puts the U.S. at risk of losing its measles elimination status. \"Take the vaccine, please,\" said Mehme\u2026",
+      "url": "https://crooksandliars.com/2026/02/even-bootlicking-dr-oz-telling-people-get",
+      "urlToImage": "https://crooksandliars.com/files/embeds/2026/02/69087.jpg",
+      "publishedAt": "2026-02-09 12:41:55",
+      "content": "How about that? A Trump administration official is actually encouraging Americans to get measles vaccines at a time when outbreaks across several states and puts the U.S. at risk of losing its measle\u2026 [+1261 chars]",
+      "retrievedAt": "2026-02-10 19:29:29.001929",
+      "internal_id": "07534e59e60ade8478251ab81db7a440765d17953095680b6b2d3c3b9aa81291",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27466,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "\u2018Take the vaccine, please,\u2019 a top US health official says in an appeal as measles cases rise",
+      "description": "A leading U.S. health official is urging people to get inoculated against the measles.",
+      "url": "https://www.bostonherald.com/2026/02/09/measles-oz-urges-taking-vaccine/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/02/Trump_70984-1.jpg?w=1024&h=682",
+      "publishedAt": "2026-02-09 12:01:37",
+      "content": "By MATT BROWN, Associated Press WASHINGTON (AP) A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the Un\u2026 [+6880 chars]",
+      "retrievedAt": "2026-02-10 19:29:29.120660",
+      "internal_id": "bf16a8bb40a2d4de3bf4f423713ea52300f486a4fe9a83810159cd476ca9f0bc",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27465,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Peoplefor.org",
+      "author": "Kyle Mantyla",
+      "title": "March For Measles",
+      "description": "What Did You Expect? Board Of Profits How To Gain Salvation",
+      "url": "https://www.peoplefor.org/rightwingwatch/march-measles",
+      "urlToImage": "https://www.peoplefor.org/sites/default/files/styles/social/public/images/briefing-logo.png?itok=815kfNVx",
+      "publishedAt": "2026-02-09 12:00:00",
+      "content": "Pete Hegseth Donald Trump's pick to run the Department of Defense, Hegseth left the military after colleagues raised concerns about his tattoos associated with the Crusades and embraced by white nat\u2026 [+393 chars]",
+      "retrievedAt": "2026-02-10 19:29:29.092740",
+      "internal_id": "c04e3dd1bb7ba4795a77988d9a4e87deb4145e3f66b0daa00e7342668389676d",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27474,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Iv\u00e1n Rosas",
+      "title": "VIDEO: Claudia Sheinbaum firma acuerdo para producir vacunas de \u00faltima generaci\u00f3n en M\u00e9xico",
+      "description": "El proyecto contempla no solo la fabricaci\u00f3n de vacunas, sino tambi\u00e9n la investigaci\u00f3n cient\u00edfica para desarrollar tratamientos futuros contra el dengue y el c\u00e1ncer",
+      "url": "https://www.tribuna.com.mx/mexico/2026/2/9/video-claudia-sheinbaum-firma-acuerdo-para-producir-vacunas-de-ultima-generacion-en-mexico-429107.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/9/f1280x720-491771_623446_5050.jpg",
+      "publishedAt": "2026-02-09 12:00:00",
+      "content": "Ciudad de M\u00e9xico.- El gobierno de M\u00e9xico est\u00e1 dado un paso fundamental hacia la autonom\u00eda sanitaria mediante la firma de un acuerdo de colaboraci\u00f3n que re\u00fane al sector p\u00fablico y a la iniciativa priva\u2026 [+2293 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.308208",
+      "internal_id": "c9fadeabe1af7820bb3bc1a98aef508a5e65c0ef942d5efd67ee4d553e4d792a",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27472,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Pedro Pupulim",
+      "title": "Lula, Alckmin e Padilha anunciam investimento bilion\u00e1rio no Instituto Butantan em SP",
+      "description": "Evento marca in\u00edcio da vacina\u00e7\u00e3o dos profissionais de sa\u00fade da Aten\u00e7\u00e3o Prim\u00e1ria do SUS contra a dengue, com a Butantan-DV, uma vacina 100% nacional",
+      "url": "https://veja.abril.com.br/politica/lula-alckmin-e-padilha-anunciam-investimento-bilionario-no-instituto-butantan-em-sp/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2021/03/fachadainstituto_butantan1112203493.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-02-09 11:30:59",
+      "content": "Pular para o conte\u00fado Abril Day: Assine VEJA por apenas 9,90Fachada do Instituto Butantan (Antonio COR da Costa/Instituto Butantan/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O presidente Lula, o vice-p\u2026 [+646 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.259509",
+      "internal_id": "b9fcea346818366af5d532ef2e8a323950e405fc2cb52369f3624061aaafe223",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27481,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Spektrum.de",
+      "author": "Claudia Christine Wolf",
+      "title": "Terminale Luzidit\u00e4t: R\u00e4tselhafte Klarheit kurz vor dem Tod",
+      "description": "F\u00fcr Angeh\u00f6rige sind sie ein Geschenk, f\u00fcr Forschende ein Mysterium: geistig klare Momente bei Sterbenden und schwer Demenzkranken.",
+      "url": "https://www.spektrum.de/news/terminale-luziditaet-fuer-ein-paar-stunden-von-demenz-geheilt/2285620",
+      "urlToImage": "https://static.spektrum.de/fm/912/f1920x1080/GettyImages-1765285131.jpg",
+      "publishedAt": "2026-02-09 11:00:00",
+      "content": "\u00c4hnliches beobachtet man auch bei anderen neurologischen und psychiatrischen Leiden, beispielsweise Schlaganf\u00e4llen, Meningitis, Schizophrenie, Hirntumoren und -verletzungen. Sogar bei Menschen im Kom\u2026 [+12132 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.544556",
+      "internal_id": "fb8b75aeea37fb076e66194344bf41af944d9a2cbc899c3f033c53f5328a151d",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27478,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Resinta Sulistiyandari",
+      "title": "Indonesia pushes regional strategy to curb dengue across SE Asia",
+      "description": "Indonesia is strengthening collaboration with the Joint Coalition Against Dengue (KOBAR) at a Southeast Asia regional forum to support efforts to eliminate ...",
+      "url": "https://en.antaranews.com/news/403658/indonesia-pushes-regional-strategy-to-curb-dengue-across-se-asia",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/02/02/pengasapan-untuk-mencegah-penyebaran-kasus-dbd-di-palangka-raya-2720222.jpg",
+      "publishedAt": "2026-02-09 10:36:27",
+      "content": "Jakarta (ANTARA) - Indonesia is strengthening collaboration with the Joint Coalition Against Dengue (KOBAR) at a Southeast Asia regional forum to support efforts to eliminate dengue-related deaths by\u2026 [+1968 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.385501",
+      "internal_id": "28dd0a6b6ced372eb46e1dd098f096ac16488b074ba6a27cba8ce9b94bfc627a",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27479,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Ida, Kenzu",
+      "title": "Indonesia urges stronger ASEAN cooperation against dengue threat",
+      "description": "Indonesia has called for deeper regional collaboration among ASEAN member states to tackle the rising number of dengue cases, which continue to pose a serious ...",
+      "url": "https://en.antaranews.com/news/403654/indonesia-urges-stronger-asean-cooperation-against-dengue-threat",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/02/02/pengasapan-untuk-mencegah-penyebaran-kasus-dbd-di-palangka-raya-2720238.jpg",
+      "publishedAt": "2026-02-09 10:07:45",
+      "content": "Jakarta (ANTARA) - Indonesia has called for deeper regional collaboration among ASEAN member states to tackle the rising number of dengue cases, which continue to pose a serious public health challen\u2026 [+1516 chars]",
+      "retrievedAt": "2026-02-10 19:29:30.395222",
+      "internal_id": "5d3814add5f0b9fd76d467ddbefb90fe782c4bd2f09a1bf8f3d5194c064211db",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27469,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Ladowntownnews.com",
+      "author": "By Alicia Venter, LA Downtown News Editor",
+      "title": "Measles in LA County: Third case confirmed, all travel-related",
+      "description": "The Los Angeles County Department of Public Health has confirmed a third case of measles in the county, and is urging the community to take recommended precautions. The cases are all travel-related \u2014 the most recent confirmed case is a\u2026",
+      "url": "https://www.ladowntownnews.com/health/measles-in-la-county-third-case-confirmed-all-travel-related/article_9306306c-b8ca-4b04-a1c5-5d99c7eeea00.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/ladowntownnews.com/content/tncms/assets/v3/editorial/a/3d/a3db500f-2c34-42f9-b600-cbf660ff47f1/698a2d93a794f.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-02-09 08:00:00",
+      "content": "The Los Angeles County Department of Public Health has confirmed a third case of measles in the county, and is urging the community to take recommended precautions. The cases are all travel-related t\u2026 [+2622 chars]",
+      "retrievedAt": "2026-02-10 19:29:29.328371",
+      "internal_id": "4879a9cb855ddbf4f9f1f0c5ffc21fd6a832cd1bb15b2b1151cf72c4e219e4c9",
+      "publishedAtLabel": "Feb 9"
+    },
     {
       "id": 27456,
       "query": [
@@ -127,6 +614,24 @@
       "content": "Health officials are warning that confirmed cases of measles may have spread at this year's National March for Life rally and concert in Washington, D.C. Thousands of anti-abortion demonstrators con\u2026 [+2966 chars]",
       "retrievedAt": "2026-02-10 07:29:48.703552",
       "internal_id": "80eb1193c53044530309e608f4825ae9c234f377f8c8fa85cfa0121d2f7d1272",
+      "publishedAtLabel": "Feb 9"
+    },
+    {
+      "id": 27460,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Flora Graham",
+      "title": "Daily briefing: The dark side of the battery boom",
+      "description": "\u2018Greener\u2019 tech comes at an invisible human cost, writes journalist Nicolas Niarchos. Plus, the risks of measles outbreaks for vaccinated people and how a five-day break in complete darkness changes your body.",
+      "url": "https://www.nature.com/articles/d41586-026-00436-9",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00436-9/d41586-026-00436-9_52041866.png",
+      "publishedAt": "2026-02-09 00:00:00",
+      "content": "Hello Nature readers, would you like to get this Briefing in your inbox free every day? Sign up here. Measles has been so rare in many countries that some physicians have never seen a case but that \u2026 [+6002 chars]",
+      "retrievedAt": "2026-02-10 19:29:28.953426",
+      "internal_id": "0bfc5feec9c8b638ca2a9d311affbeba4341283d5e18d20295ee2f9402b2a29c",
       "publishedAtLabel": "Feb 9"
     },
     {
@@ -17022,96 +17527,6 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26510,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Live Science",
-      "author": "Nicoletta Lanese",
-      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
-      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
-      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
-      "publishedAt": "2025-12-28 15:00:00",
-      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
-      "retrievedAt": "2025-12-29 19:06:37.716406",
-      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26512,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
-      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 14:10:33",
-      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.025368",
-      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26513,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Diario EL PAIS Uruguay",
-      "author": "Nicolas Lauber",
-      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
-      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
-      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
-      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
-      "publishedAt": "2025-12-28 13:45:17",
-      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
-      "retrievedAt": "2025-12-29 19:06:40.126081",
-      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26509,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Madhyamam.com",
-      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
-      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
-      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
-      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
-      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
-      "publishedAt": "2025-12-28 10:24:23",
-      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
-      "retrievedAt": "2025-12-29 19:06:37.550099",
-      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26511,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
-      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 10:04:39",
-      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.014393",
-      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]

@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2026-02-10 07:29
-- **Most recent article:** 2026-02-09 05:00:00
+- **New articles in last harvest:** 28
+- **Last harvest:** 2026-02-10 19:29
+- **Most recent article:** 2026-02-09 19:00:36
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 33 | 26 | 47 | 63 | 88 | 76 | 106 | 17 | 456 |
-| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 0 | 97 |
+| measles | 32 | 26 | 47 | 63 | 88 | 76 | 106 | 29 | 467 |
+| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 8 | 105 |
 | h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 2 | 76 |
-| rabies | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 2 | 69 |
-| malaria | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 0 | 56 |
-| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 3 | 53 |
-| meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 0 | 49 |
+| rabies | 7 | 6 | 10 | 10 | 12 | 10 | 11 | 3 | 69 |
+| malaria | 3 | 0 | 13 | 8 | 7 | 8 | 15 | 3 | 57 |
+| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 4 | 54 |
+| meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 3 | 52 |
 | chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 0 | 32 |
-| leptospirosis | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 24 |
+| leptospirosis | 3 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 23 |
 | zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 0 | 22 |
 | yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 0 | 14 |
 | typhoid | 2 | 2 | 3 | 0 | 2 | 1 | 2 | 1 | 13 |
 | hpai | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 0 | 13 |
-| pertussis | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 4 |
+| pertussis | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 5 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -38,11 +38,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (rabies)
 
+- [BMC to catch and rehabilitate stray dogs in phases from 457 institutions](https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-to-catch-and-rehabilitate-stray-dogs-in-phases-from-457-institutions/articleshow/128125606.cms) (The Times of India)
+
 - [Can a dog get rabies from biting a possum?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-biting-a-possum/) (Lifesciencesworld.com)
 
 - [Pelottava tauti leviää Moskovassa](https://www.is.fi/ulkomaat/art-2000011803842.html) (Www.is.fi)
 
+## 26-7 (pertussis)
+
+- [שעלת בקיסריה: ארבעה ילדים נדבקו, 60 קיבלו טיפול מונע](https://www.ynet.co.il/health/article/rjcsbddpwe) (Ynet)
+
 ## 26-7 (mpox)
+
+- [Mpox knowledge and positive attitudes in Sub-Saharan African healthcare workers after 2022 outbreak of disease: A systematic review and meta-analysis](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013977) (Plos.org)
 
 - [Characteristics and Transmission Dynamics of Global Travel-Related Mpox Cases Caused by Clade Ib Monkeypox Virus](https://wwwnc.cdc.gov/eid/article/32/2/25-1530_article) (Cdc.gov)
 
@@ -50,13 +58,45 @@ Source: [News API](https://newsapi.org/)
 
 - [¿Vuelve la mpox? Todo lo que debe saber para estar protegido](https://www.elmundo.es/ciencia-y-salud/salud/2026/02/08/6985aacefdddff64568b4571.html) (El Mundo)
 
+## 26-7 (meningitis)
+
+- [Muere el destacado poeta chileno Germán Carrasco](https://www.latercera.com/culto/noticia/muere-el-destacado-poeta-german-carrasco/) (Latercera.com)
+
+- [Flexibility and modulation of translation initiation in enterovirus genomes](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013967) (Plos.org)
+
+- [Terminale Luzidität: Rätselhafte Klarheit kurz vor dem Tod](https://www.spektrum.de/news/terminale-luziditaet-fuer-ein-paar-stunden-von-demenz-geheilt/2285620) (Spektrum.de)
+
 ## 26-7 (measles)
+
+- [Dr. Oz begs Americans to take the measles vaccine as infections soar](https://www.salon.com/2026/02/09/dr-oz-begs-americans-to-take-the-measles-vaccine-as-infections-soar/) (Salon)
+
+- [Dr. Oz Urges Americans to ‘Take the Vaccine, Please’ in Response to Recent Measles Outbreaks](https://www.thewrap.com/media-platforms/politics/dr-oz-measles-vaccine-south-carolina-outbreak-cnn-video/) (TheWrap)
+
+- [Rising measles cases spark panic as even Dr Oz begs 'take the vaccine!'](https://people.com/dr-oz-urges-americans-to-take-measles-vaccine-11902542) (PEOPLE)
+
+- [Turns Out the March for Life Was a Measles Superspreader Event](https://newrepublic.com/post/206352/march-for-life-measles) (The New Republic)
+
+- [Tuberculosis and COVID-19 Detected at Camp East Montana ICE Jail in El Paso](https://www.texastribune.org/2026/02/07/ice-facility-el-paso-tuberculosis/) (The Texas Tribune)
+
+- [Dr. Oz: 'Take the Vaccine, Please'](https://www.newser.com/story/383361/dr-oz-take-the-vaccine-please.html) (Newser)
+
+- [משרד הבריאות אישר להרחיק ילדים מהגן כי לא חוסנו נגד חצבת | פרסום ראשון](https://www.ynet.co.il/health/article/skzozudw11g) (Ynet)
+
+- [Even Bootlicking Dr. Oz Is Telling People To Get Measles Vaccine](https://crooksandliars.com/2026/02/even-bootlicking-dr-oz-telling-people-get) (Crooksandliars.com)
+
+- [‘Take the vaccine, please,’ a top US health official says in an appeal as measles cases rise](https://www.bostonherald.com/2026/02/09/measles-oz-urges-taking-vaccine/) (Boston Herald)
+
+- [March For Measles](https://www.peoplefor.org/rightwingwatch/march-measles) (Peoplefor.org)
+
+- [Measles in LA County: Third case confirmed, all travel-related](https://www.ladowntownnews.com/health/measles-in-la-county-third-case-confirmed-all-travel-related/article_9306306c-b8ca-4b04-a1c5-5d99c7eeea00.html) (Ladowntownnews.com)
 
 - [Dr. Oz urges Americans to get measles vaccine as cases surge](https://www.nydailynews.com/2026/02/08/dr-oz-urges-americans-measles-vaccine-amid-case-surge/) (New York Daily News)
 
 - [Top U.S. Health Official Urges Measles Vaccination](https://news.themissinglinkhub.com/?brief_id=163105&traffic_source=x) (Themissinglinkhub.com)
 
 - [March for Life attendees may have been exposed to measles, DC Health warns](https://www.npr.org/2026/02/08/nx-s1-5705972/measles-march-for-life-dc-reagan-national-union-station-metro) (NPR)
+
+- [Daily briefing: The dark side of the battery boom](https://www.nature.com/articles/d41586-026-00436-9) (Nature.com)
 
 - [Doctor, virologist caution against attending large public gatherings if unvaccinated against measles](https://www.cbc.ca/news/canada/manitoba/measles-unvaccinated-public-health-advice-9.7080188) (CBC News)
 
@@ -86,11 +126,37 @@ Source: [News API](https://newsapi.org/)
 
 - [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
 
+## 26-7 (malaria)
+
+- [Insect Pest Control Market Poised to Hit US$ 25.47 Billion by 2035 Driven by Record-High Vector-Borne Disease Incidence | Astute Analytica](https://www.globenewswire.com/news-release/2026/02/09/3234637/0/en/Insect-Pest-Control-Market-Poised-to-Hit-US-25-47-Billion-by-2035-Driven-by-Record-High-Vector-Borne-Disease-Incidence-Astute-Analytica.html) (GlobeNewswire)
+
+- [Acute febrile illness surveillance using TaqMan Array Cards in two urban health facilities, Monrovia, Liberia, December 2018–March 2020](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013961) (Plos.org)
+
+- [Plasmodium falciparum stomatin-like protein forms a putative complex with a metalloprotease in distinct mitochondrial loci](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013922) (Plos.org)
+
 ## 26-7 (h5n1)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
 
 - [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
+
+## 26-7 (dengue)
+
+- [Profissionais da saúde começam a receber vacina do Butantan contra a dengue](https://valor.globo.com/brasil/noticia/2026/02/09/profissionais-da-saude-comecam-a-receber-vacina-do-butantan-contra-a-dengue.ghtml) (Globo)
+
+- [Lula anuncia aporte para vacinas no 1º evento em SP em ano eleitoral](https://www.metropoles.com/sao-paulo/lula-anuncia-aporte-para-vacinas-no-1o-evento-em-sp-em-ano-eleitoral) (Metropoles.com)
+
+- [Insect Pest Control Market Poised to Hit US$ 25.47 Billion by 2035 Driven by Record-High Vector-Borne Disease Incidence | Astute Analytica](https://www.globenewswire.com/news-release/2026/02/09/3234637/0/en/Insect-Pest-Control-Market-Poised-to-Hit-US-25-47-Billion-by-2035-Driven-by-Record-High-Vector-Borne-Disease-Incidence-Astute-Analytica.html) (GlobeNewswire)
+
+- [Assessing the diagnostic performance of clinical, serological and molecular approaches to improve dengue case detection in the Peruvian Amazon](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013984) (Plos.org)
+
+- [VIDEO: Claudia Sheinbaum firma acuerdo para producir vacunas de última generación en México](https://www.tribuna.com.mx/mexico/2026/2/9/video-claudia-sheinbaum-firma-acuerdo-para-producir-vacunas-de-ultima-generacion-en-mexico-429107.html) (Tribuna.com.mx)
+
+- [Lula, Alckmin e Padilha anunciam investimento bilionário no Instituto Butantan em SP](https://veja.abril.com.br/politica/lula-alckmin-e-padilha-anunciam-investimento-bilionario-no-instituto-butantan-em-sp/) (Abril.com.br)
+
+- [Indonesia pushes regional strategy to curb dengue across SE Asia](https://en.antaranews.com/news/403658/indonesia-pushes-regional-strategy-to-curb-dengue-across-se-asia) (Antaranews.com)
+
+- [Indonesia urges stronger ASEAN cooperation against dengue threat](https://en.antaranews.com/news/403654/indonesia-urges-stronger-asean-cooperation-against-dengue-threat) (Antaranews.com)
 
 ## 26-6 (yersinia)
 
@@ -2030,8 +2096,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What happens to the cat after it bites someone?](https://www.lifesciencesworld.com/what-happens-to-the-cat-after-it-bites-someone/) (Lifesciencesworld.com)
 
-- [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
-
 ## 25-53 (pertussis)
 
 - [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
@@ -2124,8 +2188,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Petah Tikva joins list of measles outbreak hotspots](https://www.israelnationalnews.com/news/420035) (Israelnationalnews.com)
 
-- [Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses](https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses) (Live Science)
-
 ## 25-53 (malaria)
 
 - [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
@@ -2134,10 +2196,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
 
-- [School assembly news headlines for December 29: Top national, international & sports updates](https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms) (The Times of India)
-
-- [India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah](https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms) (The Times of India)
-
 ## 25-53 (leptospirosis)
 
 - [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
@@ -2145,8 +2203,6 @@ Source: [News API](https://newsapi.org/)
 - [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
 
 - [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
-
-- [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
 
 ## 25-53 (h5n1)
 
