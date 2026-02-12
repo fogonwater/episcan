@@ -1,8 +1,170 @@
 {
-  "last_updated": "2026-02-11 19:26",
-  "count_articles_total": 1000,
-  "count_articles_new": 11,
+  "last_updated": "2026-02-12 07:27",
+  "count_articles_total": 1014,
+  "count_articles_new": 9,
   "articles": [
+    {
+      "id": 27522,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Le Progr\u00e8s",
+      "author": "En partenariat avec Destination Sant\u00e9",
+      "title": "Sant\u00e9. Mpox : l\u2019origine de la variole du singe\u2026 ne serait pas le singe !",
+      "description": "Alors que le Mpox - anciennement appel\u00e9 variole du singe - continue de se manifester dans plusieurs r\u00e9gions du monde, notamment \u00e0 la R\u00e9union ou \u00e0 Mayotte o\u00f9 plusieurs cas ont \u00e9t\u00e9 r\u00e9cemment recens\u00e9s, la question du r\u00e9servoir naturel du virus reste ouverte. Une\u2026",
+      "url": "https://www.leprogres.fr/magazine-sante/2026/02/11/mpox-l-origine-de-la-variole-du-singe-ne-serait-pas-le-singe",
+      "urlToImage": "https://cdn-s-www.ledauphine.com/images/79722244-E5A6-4F05-ADF5-9B21B3261CCA/FB1200/photo-1770643839.jpg",
+      "publishedAt": "2026-02-11 06:00:00",
+      "content": "Le 22 janvier 2026, un premier cas confirm\u00e9 de Mpox a \u00e9t\u00e9 identifi\u00e9 \u00e0 la R\u00e9union par l\u2019Agence R\u00e9gionale de Sant\u00e9. Il s\u2019agit d\u2019une personne r\u00e9sidant sur l\u2019\u00eele et revenant de Madagascar, pays o\u00f9 le vir\u2026 [+3965 chars]",
+      "retrievedAt": "2026-02-12 07:27:55.794199",
+      "internal_id": "6702db78888c6c8f3a41119815f78b46f41659299c8e890b3f4157c8993da294",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27519,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thechronicle.com.gh",
+      "author": "admin",
+      "title": "NAFDAC seizes \u20a63bn worth of fake malaria drugs, cosmetics in Lagos raid",
+      "description": "The National Agency for Food and Drug Administration and Control (NAFDAC) has seized more than 10 million doses of counterfeit malaria medications and cosmetic products valued at approximately \u20a63 billion from the Trade Fair Market in Lagos. NAFDAC\u2019s Director \u2026",
+      "url": "https://thechronicle.com.gh/nafdac-seizes-\u20a63bn-worth-of-fake-malaria-drugs-cosmetics-in-lagos-raid/",
+      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2026/02/NAFDAC-Director-General-Mojisola-Adeyeye.jpeg",
+      "publishedAt": "2026-02-11 05:46:20",
+      "content": "The National Agency for Food and Drug Administration and Control (NAFDAC) has seized more than 10 million doses of counterfeit malaria medications and cosmetic products valued at approximately 3 bill\u2026 [+1335 chars]",
+      "retrievedAt": "2026-02-12 07:27:55.247494",
+      "internal_id": "432b0af8c05e30441864c4b1d928c332588886f2530b3522aa0d35295275df6a",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27516,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Nienke Beintema",
+      "title": "Sterfte onder roofmeeuwen op Antarctica is veroorzaakt door vogelgriep",
+      "description": "Virologie: De oorzaak van de sterfte onder grote bruine roofmeeuwen op Antarctica is vastgesteld: het sinds 2021 rondwarende, zeer besmettelijke vogelgriepvirus H5N1.",
+      "url": "https://www.nrc.nl/nieuws/2026/02/11/sterfte-onder-roofmeeuwen-op-antarctica-is-veroorzaakt-door-vogelgriep-a4920001",
+      "urlToImage": "https://images.nrc.nl/rcK-Ikdp7ApRejvJ3XVABKuZ1BQ=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/02/06154455/100226WET_2031410035_Vogelgriep2.jpg",
+      "publishedAt": "2026-02-11 05:00:00",
+      "content": "De opvallende sterfte onder skuas (grote bruine roofmeeuwen) op Antarctica is veroorzaakt door de beruchte, hoogpathogene H5N1-variant van het vogelgriepvirus. Dat meldde een internationaal onderzoek\u2026 [+4403 chars]",
+      "retrievedAt": "2026-02-12 07:27:54.480099",
+      "internal_id": "5e574073880f880c650c06cee25491a93d96fcab4af4eda66e37807a937253a0",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27514,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Do baby opossums carry diseases?",
+      "description": "Do Baby Opossums Carry Diseases? Understanding the Risks Do baby opossums carry diseases? While opossums are relatively resistant to rabies, baby opossums can carry and transmit diseases through parasites, feces, and direct contact, posing potential health ri\u2026",
+      "url": "https://www.lifesciencesworld.com/do-baby-opossums-carry-diseases/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-11 04:42:19",
+      "content": "Do Baby Opossums Carry Diseases? Understanding the Risks Do baby opossums carry diseases? While opossums are relatively resistant to rabies, baby opossums can carry and transmit diseases through par\u2026 [+7445 chars]",
+      "retrievedAt": "2026-02-12 07:27:53.684867",
+      "internal_id": "be37ee23b818ff878d7339d3bca0a71e7f4c04dcba7be1a1b571f0d9227037f2",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27515,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Public may have been exposed to measles at 9 locations across southern Manitoba, health officials say",
+      "description": "Manitoba health officials say members of the public may have been exposed to measles at multiple sites across southern Manitoba \u2014 including four locations in Brandon \u2014 over the last few weeks.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-measles-exposures-9.7083768",
+      "urlToImage": "https://i.cbc.ca/ais/b382e8bf-75bf-4303-a592-9b5fc9cba065,1767723518557/full/max/0/default.jpg?im=Crop%2Crect%3D%2815%2C0%2C802%2C451%29%3BResize%3D620",
+      "publishedAt": "2026-02-11 01:33:06",
+      "content": "Manitoba health officials say members of the public may have been exposed to measles at multiple sites across southern Manitoba including four locations in Brandon over the last few weeks. There ha\u2026 [+3197 chars]",
+      "retrievedAt": "2026-02-12 07:27:54.191475",
+      "internal_id": "bef639b262c8cd5c4353b5c9a76ba488ec5b12d0b3f6b6bef7aa726b717ce21e",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27520,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press Spanish",
+      "title": "Casos por chikungunya aumentan en Bolivia. Declaran alerta en Santa Cruz tras muerte de una persona",
+      "description": "Associated Press LA PAZ, Bolivia (AP) \u2014 Las autoridades de Salud informaron el martes que los casos del virus chikungunya han aumentado en Bolivia, principalmente en la regi\u00f3n de Santa Cruz, la m\u00e1s poblada del pa\u00eds andino, donde se ha declarado la alerta m\u00e1xi\u2026",
+      "url": "https://www.bostonherald.com/2026/02/10/casos-por-chikungunya-aumentan-en-bolivia-declaran-alerta-en-santa-cruz-tras-muerte-de-una-persona/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2018/11/Herald_BridgePhoto.jpg",
+      "publishedAt": "2026-02-11 00:02:49",
+      "content": "Associated Press LA PAZ, Bolivia (AP) \u2014 Las autoridades de Salud informaron el martes que los casos del virus chikungunya han aumentado en Bolivia, principalmente en la regi\u00f3n de Santa Cruz, la m\u00e1s \u2026 [+1611 chars]",
+      "retrievedAt": "2026-02-12 07:27:55.516389",
+      "internal_id": "b9d555d282a21c4d123fa94cbbb5be15f1f62f4cda037338be1ec5d704beb0b4",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27521,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Edyth Parker, Christian Happi",
+      "title": "Squirrels could be a reservoir for the virus that causes mpox",
+      "description": "The species in which monkeypox virus naturally circulates is uncertain, but wildlife surveillance data suggest that the fire-footed rope squirrel is a likely candidate.",
+      "url": "https://www.nature.com/articles/d41586-026-00175-x",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-00175-x/d41586-026-00175-x_52014814.jpg",
+      "publishedAt": "2026-02-11 00:00:00",
+      "content": "Riutord-Fe, C. et al.Nature https://doi.org/10.1038/s41586-025-10086-y (2026). Article Google Scholar Khodakevich, L., Jezek, Z. &amp; Kinzanzka, K. Lancet1, 9899 (1986). Article \u2026 [+1088 chars]",
+      "retrievedAt": "2026-02-12 07:27:55.775094",
+      "internal_id": "ec4becc4522cf5482b81990c8d61d8235ecbc7268aad65080a4d93499767a8c7",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27517,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Ale\u0161 Fuksa",
+      "title": "Veterin\u00e1\u0159i varuj\u00ed: Pta\u010d\u00ed ch\u0159ipka je na vzestupu, bu\u010fte obez\u0159etn\u00ed",
+      "description": "Jinak klidnou hladinu \u0159eky Moravy v Uhersk\u00e9m Hradi\u0161ti roz\u010de\u0159ila zpr\u00e1va, kter\u00e1 d\u011bl\u00e1 vr\u00e1sky na \u010dele p\u0159edev\u0161\u00edm chovatel\u016fm dr\u016fbe\u017ee. Laboratorn\u00ed testy St\u00e1tn\u00edho veterin\u00e1rn\u00edho \u00fastavu v Praze v minul\u00fdch dnech potvrdily, \u017ee labu\u0165 nalezen\u00e1 koncem ledna v Uhersk\u00e9m Hradi\u2026",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_QN_2/5bKGt.jpeg?fl=cro,0,0,5100,2868%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2026-02-10 23:04:44",
+      "content": "Dne 26. ledna byla na ece Morav v Uhersk\u00e9m Hraditi nalezena uhynul\u00e1 labu, u kter\u00e9 byl ve St\u00e1tn\u00edm veterin\u00e1rn\u00edm \u00fastavu Praha laboratorn potvrzen vysoce patogenn\u00ed virus pta\u00ed chipky subtypu H5N1, upozorn\u2026 [+2129 chars]",
+      "retrievedAt": "2026-02-12 07:27:54.498900",
+      "internal_id": "48d0ea0214cc99a7dffb9b6c9c446cf7a6605483783547f31682f6f80bfd97e4",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 27518,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Hola",
+      "author": "Adriana Casado",
+      "title": "Patricia P\u00e9rez revela el nuevo problema de salud que enfrenta Luis Canut tras quedarse ciego y ponen tierra de por medio",
+      "description": "El productor audiovisual fue diagnosticado con meningitis criptoc\u00f3cica en 2023, lo cual ha derivado en varias secuelas f\u00edsicas",
+      "url": "https://www.hola.com/actualidad/20260210883128/patricia-perez-actualizacion-luis-canut-ceguera/",
+      "urlToImage": "https://www.hola.com/horizon/landscape/19bb5ee377ef-europapress1591532patriciaperezluiscanutvuelvenlasextamostrarhyggeruta.jpg?im=Resize=(1200)",
+      "publishedAt": "2026-02-10 19:41:37",
+      "content": "Patricia P\u00e9rez y Luis Canut no empezaron el 2026 como desear\u00edan. La presentadora y el productor audiovisual estuvieron unos d\u00edas el mes pasado en el hospital de Valencia debido a la rotura de cadera \u2026 [+4969 chars]",
+      "retrievedAt": "2026-02-12 07:27:54.963897",
+      "internal_id": "47945489831e5c1098112836441936fd9d75c8f101ec947ae3f1675cb7d29750",
+      "publishedAtLabel": "Feb 10"
+    },
     {
       "id": 27505,
       "query": [
@@ -18031,6 +18193,96 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26510,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
+      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
+      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
+      "publishedAt": "2025-12-28 15:00:00",
+      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
+      "retrievedAt": "2025-12-29 19:06:37.716406",
+      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26512,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
+      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 14:10:33",
+      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.025368",
+      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26513,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Diario EL PAIS Uruguay",
+      "author": "Nicolas Lauber",
+      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
+      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
+      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
+      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
+      "publishedAt": "2025-12-28 13:45:17",
+      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
+      "retrievedAt": "2025-12-29 19:06:40.126081",
+      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26509,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Madhyamam.com",
+      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
+      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
+      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
+      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
+      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
+      "publishedAt": "2025-12-28 10:24:23",
+      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
+      "retrievedAt": "2025-12-29 19:06:37.550099",
+      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26511,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
+      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 10:04:39",
+      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.014393",
+      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]
