@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-02-12 07:27
-- **Most recent article:** 2026-02-11 06:00:00
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-02-12 19:26
+- **Most recent article:** 2026-02-11 18:37:39
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 33 | 26 | 47 | 63 | 88 | 76 | 107 | 44 | 484 |
-| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 14 | 111 |
+| measles | 32 | 26 | 47 | 63 | 88 | 76 | 107 | 50 | 489 |
+| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 17 | 114 |
 | h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 4 | 78 |
-| rabies | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 6 | 73 |
-| malaria | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 6 | 62 |
-| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 6 | 56 |
-| meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 5 | 54 |
-| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 1 | 33 |
-| leptospirosis | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 24 |
+| rabies | 7 | 6 | 10 | 10 | 12 | 10 | 11 | 7 | 73 |
+| malaria | 3 | 0 | 13 | 8 | 7 | 8 | 15 | 7 | 61 |
+| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 7 | 57 |
+| meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 6 | 55 |
+| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 5 | 37 |
+| leptospirosis | 3 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 23 |
 | zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 0 | 22 |
 | yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 1 | 15 |
 | hpai | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 1 | 14 |
@@ -42,6 +42,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (rabies)
 
+- [Dödlig sjukdom sprids i Moskva – Finland agerar](https://www.expressen.se/nyheter/varlden/dodlig-sjukdom-sprids-i-moskva-finland-agerar/) (Expressen.se)
+
 - [Do baby opossums carry diseases?](https://www.lifesciencesworld.com/do-baby-opossums-carry-diseases/) (Lifesciencesworld.com)
 
 - [Primate, horror film about a rabies-crazed chimp, is now on digital](https://www.joblo.com/primate-digital/) (JoBlo.com)
@@ -60,6 +62,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (mpox)
 
+- [Madagascar fait face à un nombre grandissant de cas de Mpox](https://www.france24.com/fr/vid%C3%A9o/20260211-madagascar-fait-face-%C3%A0-un-nombre-grandissant-de-cas-de-mpox) (FRANCE 24 English)
+
 - [Santé. Mpox : l’origine de la variole du singe… ne serait pas le singe !](https://www.leprogres.fr/magazine-sante/2026/02/11/mpox-l-origine-de-la-variole-du-singe-ne-serait-pas-le-singe) (Le Progrès)
 
 - [Squirrels could be a reservoir for the virus that causes mpox](https://www.nature.com/articles/d41586-026-00175-x) (Nature.com)
@@ -74,6 +78,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (meningitis)
 
+- [Patricia Pérez se rompe al hablar de la ceguera de su marido: "Él no ve nada, no ve ni luz"](https://www.libertaddigital.com/chic/corazon/2026-02-11/patricia-perez-se-rompe-al-hablar-de-la-ceguera-de-su-marido-el-no-ve-nada-no-ve-ni-luz-7357795/) (Libertaddigital.com)
+
 - [Patricia Pérez revela el nuevo problema de salud que enfrenta Luis Canut tras quedarse ciego y ponen tierra de por medio](https://www.hola.com/actualidad/20260210883128/patricia-perez-actualizacion-luis-canut-ceguera/) (Hola)
 
 - [A los 54 años, murió el escritor chileno Germán Carrasco](https://www.lanacion.com.ar/cultura/a-los-54-anos-murio-el-escritor-chileno-german-carrasco-nid10022026/) (La Nacion)
@@ -85,6 +91,18 @@ Source: [News API](https://newsapi.org/)
 - [Terminale Luzidität: Rätselhafte Klarheit kurz vor dem Tod](https://www.spektrum.de/news/terminale-luziditaet-fuer-ein-paar-stunden-von-demenz-geheilt/2285620) (Spektrum.de)
 
 ## 26-7 (measles)
+
+- [The Families In Notorious Detention Center Face An ‘Impossible Choice’](https://www.huffpost.com/entry/children-dilley-immigration-jail_n_698c9cd5e4b04325c3fde06a) (HuffPost)
+
+- [In Mexico, at least 28 have died from measles outbreak that started 2025](https://www.internazionale.it/ultime-notizie-reuters/2026/02/11/in-mexico-at-least-28-have-died-from-measles-outbreak-that-started-2025) (Internazionale.it)
+
+- [Measles cases drop in 2025 across Europe and Central Asia, but outbreak risks remain](https://news.un.org/en/story/2026/02/1166940) (UN News)
+
+- [Measles cases in Europe, Central Asia drop 75% in 2025, but outbreak risk lingers, agencies say](https://economictimes.indiatimes.com/news/international/world-news/measles-cases-plummet-75-in-europe-and-central-asia-say-agencies/articleshow/128197694.cms) (The Times of India)
+
+- [Measles cases in Europe, Central Asia drop 75% in 2025, agencies say](https://www.internazionale.it/ultime-notizie-reuters/2026/02/11/measles-cases-in-europe-central-asia-drop-75-in-2025-agencies-say) (Internazionale.it)
+
+- [Measles Cases Spread on College Campuses](https://www.insidehighered.com/news/students/physical-mental-health/2026/02/11/measles-cases-spread-campuses) (Inside Higher Ed)
 
 - [Public may have been exposed to measles at 9 locations across southern Manitoba, health officials say](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-exposures-9.7083768) (CBC News)
 
@@ -176,6 +194,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (malaria)
 
+- [Almost every forest bird in Hawaiʻi is spreading avian malaria](https://www.sciencedaily.com/releases/2026/02/260211073016.htm) (Science Daily)
+
 - [NAFDAC seizes ₦3bn worth of fake malaria drugs, cosmetics in Lagos raid](https://thechronicle.com.gh/nafdac-seizes-₦3bn-worth-of-fake-malaria-drugs-cosmetics-in-lagos-raid/) (Thechronicle.com.gh)
 
 - [Postpartum cytokine shifts and IL-10–mediated immune suppression in malaria-infected primigravid women](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342675) (Plos.org)
@@ -203,6 +223,12 @@ Source: [News API](https://newsapi.org/)
 - [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
+
+- [Distribution of Aedes aegypti and Aedes albopictus, and the current situation of dengue fever and chikungunya in Iran and neighboring countries: a review study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013965) (Plos.org)
+
+- [Pimenta-de-macaco: planta do quintal da avó pode ajudar na saúde feminina; entenda](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/02/11/pimenta-de-macaco-planta-do-quintal-da-avo-pode-ajudar-na-saude-feminina-entenda.ghtml) (Globo)
+
+- [A mutação silenciosa que fez o mosquito da dengue abandonar a mata para morar no seu quintal e se alimentar exclusivamente de sangue humano para não entrar em extinção](https://catracalivre.com.br/noticias/a-mutacao-silenciosa-que-fez-o-mosquito-da-dengue-abandonar-a-mata-para-morar-no-seu-quintal-e-se-alimentar-exclusivamente-de-sangue-humano-para-nao-entrar-em-extincao/) (Catracalivre.com.br)
 
 - [Sheinbaum firma acuerdo para la producción de vacunas de ARN mensajero en México](https://forbes.com.mx/sheinbaum-firma-acuerdo-para-la-produccion-de-vacunas-de-arn-mensajero-en-mexico/) (Forbes.com.mx)
 
@@ -233,6 +259,14 @@ Source: [News API](https://newsapi.org/)
 - [Indonesia urges stronger ASEAN cooperation against dengue threat](https://en.antaranews.com/news/403654/indonesia-urges-stronger-asean-cooperation-against-dengue-threat) (Antaranews.com)
 
 ## 26-7 (chikungunya)
+
+- [CDC issues urgent travel alert as virus outbreak hits exclusive sunny islands destination](https://www.foxnews.com/travel/cdc-issues-urgent-travel-alert-virus-outbreak-hits-exclusive-sunny-islands-destination) (Fox News)
+
+- [MHRA introduces additional restrictions for use of the Chikungunya vaccine (IXCHIQ)](https://www.gov.uk/government/news/mhra-introduces-additional-restrictions-for-use-of-the-chikungunya-vaccine-ixchiq) (Www.gov.uk)
+
+- [Distribution of Aedes aegypti and Aedes albopictus, and the current situation of dengue fever and chikungunya in Iran and neighboring countries: a review study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013965) (Plos.org)
+
+- [63 chikungunya cases reported in Jitra housing area](https://www.thestar.com.my/news/nation/2026/02/11/63-chikungunya-cases-reported-in-jitra-housing-area) (The Star Online)
 
 - [Casos por chikungunya aumentan en Bolivia. Declaran alerta en Santa Cruz tras muerte de una persona](https://www.bostonherald.com/2026/02/10/casos-por-chikungunya-aumentan-en-bolivia-declaran-alerta-en-santa-cruz-tras-muerte-de-una-persona/) (Boston Herald)
 
@@ -2176,8 +2210,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What happens to the cat after it bites someone?](https://www.lifesciencesworld.com/what-happens-to-the-cat-after-it-bites-someone/) (Lifesciencesworld.com)
 
-- [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
-
 ## 25-53 (pertussis)
 
 - [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
@@ -2270,8 +2302,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Petah Tikva joins list of measles outbreak hotspots](https://www.israelnationalnews.com/news/420035) (Israelnationalnews.com)
 
-- [Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses](https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses) (Live Science)
-
 ## 25-53 (malaria)
 
 - [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
@@ -2280,10 +2310,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
 
-- [School assembly news headlines for December 29: Top national, international & sports updates](https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms) (The Times of India)
-
-- [India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah](https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms) (The Times of India)
-
 ## 25-53 (leptospirosis)
 
 - [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
@@ -2291,8 +2317,6 @@ Source: [News API](https://newsapi.org/)
 - [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
 
 - [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
-
-- [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
 
 ## 25-53 (h5n1)
 

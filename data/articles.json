@@ -1,8 +1,297 @@
 {
-  "last_updated": "2026-02-12 07:27",
-  "count_articles_total": 1014,
-  "count_articles_new": 9,
+  "last_updated": "2026-02-12 19:26",
+  "count_articles_total": 1025,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 27527,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "HuffPost",
+      "title": "The Families In Notorious Detention Center Face An \u2018Impossible Choice\u2019",
+      "description": "Many parents have decided that keeping their kids with them in detention \u2014 despite the horrific conditions and measles cases \u2014 is better than the alternative.",
+      "url": "https://www.huffpost.com/entry/children-dilley-immigration-jail_n_698c9cd5e4b04325c3fde06a",
+      "urlToImage": "https://img.huffingtonpost.com/asset/698cb71a1500000a23bb857a.jpeg?ops=1200_630",
+      "publishedAt": "2026-02-11 18:37:39",
+      "content": "The detainees at the Dilley Immigration Processing Center in Texas, the largest detention center in the U.S. for children and families, describe nightmarish conditions: moldy food, contaminated drink\u2026 [+7775 chars]",
+      "retrievedAt": "2026-02-12 19:26:52.714203",
+      "internal_id": "16bdda951cb9d362ada8588017010ef1c8e09eedb68dd52645053950fc66ba49",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27537,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "CDC issues urgent travel alert as virus outbreak hits exclusive sunny islands destination",
+      "description": "CDC issues urgent travel alert for Seychelles islands due to Chikungunya virus outbreak. Travelers advised to get vaccinated and prevent mosquito bites.",
+      "url": "https://www.foxnews.com/travel/cdc-issues-urgent-travel-alert-virus-outbreak-hits-exclusive-sunny-islands-destination",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/virus-outbreak-travel-warning-cdc-fox-news.jpg",
+      "publishedAt": "2026-02-11 18:37:26",
+      "content": "A group of exclusive sunny islands are on alert as the U.S. Centers for Disease Control and Prevention (CDC) has issued an urgent warning of a virus outbreak. The Seychelles, a group of islands in t\u2026 [+1739 chars]",
+      "retrievedAt": "2026-02-12 19:26:54.894515",
+      "internal_id": "44bcb02c3cbf4e653fca79dd595bfd4ed9d4e42e39ef0fdd7e6d1e9cdbd01c31",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27538,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "FRANCE 24 English",
+      "author": "FRANCE24",
+      "title": "Madagascar fait face \u00e0 un nombre grandissant de cas de Mpox",
+      "description": "Madagascar fait d\u00e9sormais partie des 93 pays dans le monde touch\u00e9s par le Mpox, une maladie contagieuse. Sur la Grande \u00cele, le bilan s'alourdit rapidement : 245 cas ont \u00e9t\u00e9 officiellement recens\u00e9s depuis l'apparition du virus en d\u00e9cembre dernier. Le Mpox vien\u2026",
+      "url": "https://www.france24.com/fr/vid%C3%A9o/20260211-madagascar-fait-face-%C3%A0-un-nombre-grandissant-de-cas-de-mpox",
+      "urlToImage": "https://s.france24.com/media/display/101a9a50-075a-11f1-afd9-005056a97e36/w:1280/p:16x9/FR-20260210-215345-215549-CS.jpg",
+      "publishedAt": "2026-02-11 15:29:02",
+      "content": "Madagascar fait d\u00e9sormais partie des 93 pays dans le monde touch\u00e9s par le Mpox, une maladie contagieuse. Sur la Grande \u00cele, le bilan s'alourdit rapidement : 245 cas ont \u00e9t\u00e9 officiellement recens\u00e9s de\u2026 [+184 chars]",
+      "retrievedAt": "2026-02-12 19:26:55.102007",
+      "internal_id": "e17873a0282af4d2ed19f525c9401fc1ebbf822256fc02d09a80b126a740543d",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27525,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "In Mexico, at least 28 have died from measles outbreak that started 2025",
+      "description": "MEXICO CITY, Feb 11 (Reuters) - Mexican Health Minister David Kershenobich said on Wednesday that at least 28 people in the country have died from the measles outbreak th\u2026 Leggi",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/11/in-mexico-at-least-28-have-died-from-measles-outbreak-that-started-2025",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2026-02-11 14:59:03",
+      "content": "MEXICO CITY, Feb 11 (Reuters) - Mexican Health Minister David Kershenobich said on Wednesday that at least 28 people in the country have died from the measles outbreak that began in 2025. Authoritie\u2026 [+184 chars]",
+      "retrievedAt": "2026-02-12 19:26:52.457064",
+      "internal_id": "e5ae67152dc2d170cd63f704a319cecd7efa4c70ed44cfa90e3a688d2fc982ca",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27536,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "Medicines and Healthcare products Regulatory Agency",
+      "title": "MHRA introduces additional restrictions for use of the Chikungunya vaccine (IXCHIQ)",
+      "description": "The vaccine should not be used in people aged 60 or over, and in individuals of any age who have high blood pressure, heart disease, diabetes, or chronic kidney disease.",
+      "url": "https://www.gov.uk/government/news/mhra-introduces-additional-restrictions-for-use-of-the-chikungunya-vaccine-ixchiq",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-02-11 14:58:11",
+      "content": "The Medicines and Healthcare products Regulatory Agency (MHRA) has today, 11 February 2026, announced changes to the use of the Chikungunya vaccine, IXCHIQ, following recommendations by the Commissio\u2026 [+3498 chars]",
+      "retrievedAt": "2026-02-12 19:26:54.881768",
+      "internal_id": "2962635a83087bda49eebcd94960c825620ab40f86e49ab2d3e9cec232bf45c7",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27531,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mohammad Shoushtari, Hasan Bakhshi, Mostafa Salehi-Vaziri, Morteza Zaim, Ahmadali Enayati, Mohammad Hassan Pouriayevali, Ghobad Moradi, Mohammad Mahdi Sedaghat, Abdolreza Mirolyaei, Ehsan Mostafavi, Fahimeh Bagheri Amiri",
+      "title": "Distribution of Aedes aegypti and Aedes albopictus, and the current situation of dengue fever and chikungunya in Iran and neighboring countries: a review study",
+      "description": "Introduction Aedes-borne diseases, such as dengue and chikungunya, are public health threats worldwide. Due to climate change and the expansion of Aedes mosquitoes, several countries are reporting the local transmission of Aedes-borne arboviruses. In 2024, Ir\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013965",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013965.g002&size=inline",
+      "publishedAt": "2026-02-11 14:00:00",
+      "content": "Abstract Introduction Aedes-borne diseases, such as dengue and chikungunya, are public health threats worldwide. Due to climate change and the expansion of Aedes mosquitoes, several countries are r\u2026 [+47199 chars]",
+      "retrievedAt": "2026-02-12 19:26:53.626482",
+      "internal_id": "727b35b55796acf5e2589d4cc787665b70aededc18aec54a0cd9f6e0c6abb7c9",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27534,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Almost every forest bird in Hawai\u02bbi is spreading avian malaria",
+      "description": "Avian malaria is spreading across Hawai\u02bbi in a way scientists didn\u2019t fully grasp until now: nearly every forest bird species can help keep the disease alive. Researchers found the parasite at 63 of 64 sites statewide, revealing that both native honeycreepers \u2026",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260211073016.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/iiwi-hawaiian-honeycreeper-bird.webp",
+      "publishedAt": "2026-02-11 13:04:23",
+      "content": "A sweeping new study led by a researcher at the University of Hawai\u02bbi at M\u0101noa reveals that almost every forest bird species in Hawai\u02bbi can transmit avian malaria. That widespread ability to spread i\u2026 [+3892 chars]",
+      "retrievedAt": "2026-02-12 19:26:54.281458",
+      "internal_id": "2934133031aa4ecbd85da76f3a46ac225ae2b9f9f03d62a3f3a87a45ef43c5a5",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27529,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Measles cases drop in 2025 across Europe and Central Asia, but outbreak risks remain",
+      "description": "Measles cases across Europe and Central Asia declined by 75 per cent in 2025 compared to 2024, according to preliminary data released on Wednesday by the World Health Organization (WHO), which warned of remaining outbreak risks. Read Full Story on UN News The\u2026",
+      "url": "https://news.un.org/en/story/2026/02/1166940",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/14-12-2023_UNICEF_Kyrgyzstan.jpg/image770x420cropped.jpg",
+      "publishedAt": "2026-02-11 12:00:00",
+      "content": "While cases have reduced, the conditions that led to the resurgence of this deadly disease in recent years remain and must be addressed, said Regina De Dominicis, the UN Children Fund (UNICEF) region\u2026 [+3295 chars]",
+      "retrievedAt": "2026-02-12 19:26:52.794838",
+      "internal_id": "7752dc5c918a7bcceffda732ce9db3f9a94e99c1f21afbba9012b8c04aa2c074",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27532,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Pimenta-de-macaco: planta do quintal da av\u00f3 pode ajudar na sa\u00fade feminina; entenda",
+      "description": "Pimenta-de-macaco: planta do quintal da av\u00f3 ajuda contra inflama\u00e7\u00f5es e afasta a dengue Ela pode passar despercebida em uma caminhada pelo Cerrado ou pela Mata Atl\u00e2ntica, muitas vezes confundida com um \"mato qualquer\" em quintais e beiras de estrada. No entant\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/02/11/pimenta-de-macaco-planta-do-quintal-da-avo-pode-ajudar-na-saude-feminina-entenda.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/Nivq4Qjee8xylDQQMZCxlXWpdDs=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/j/IqqkzFRFa7E2LvNiBwHw/design-sem-nome-67-.jpg",
+      "publishedAt": "2026-02-11 11:55:06",
+      "content": "Um projeto recente de valida\u00e7\u00e3o farmacol\u00f3gica, unindo pesquisadores da Funda\u00e7\u00e3o Oswaldo Cruz (Fiocruz) e do Cons\u00f3rcio Acad\u00eamico Brasileiro de Sa\u00fade Integrativa (CABSIN), mergulhou nos tratados m\u00e9dico\u2026 [+3824 chars]",
+      "retrievedAt": "2026-02-12 19:26:53.661962",
+      "internal_id": "5afa2c7237bfa20f49a465db2043f4ceb5134c6ca010ca162918195b9176950c",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27523,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Expressen.se",
+      "author": "albin.lindstrom@expressen.se (Albin Lindstr\u00f6m)",
+      "title": "D\u00f6dlig sjukdom sprids i Moskva \u2013 Finland agerar",
+      "description": "En d\u00f6dlig sjukdom uppges sprida sig i Moskva-regionen. Nu vidtar Finland \u00e5tg\u00e4rder f\u00f6r att skydda sig. \u2013 Det h\u00e4r \u00e4r en etablerad och effektiv metod, s\u00e4ger Tiina Nokireki, vid landets livsmedelsverk till Ilta Sanomat .",
+      "url": "https://www.expressen.se/nyheter/varlden/dodlig-sjukdom-sprids-i-moskva-finland-agerar/",
+      "urlToImage": "https://static.bonniernews.se/images/87/f1/87f13e15ba4f4a08bc6fec53296c16ba/16x9/original.png",
+      "publishedAt": "2026-02-11 11:20:13",
+      "content": "Omkring 200 000 fiskluktande vaccinpaket har nyligen placerats ut l\u00e4ngs Finlands syd\u00f6stra gr\u00e4ns mot Ryssland. Bakgrunden \u00e4r rapporter om att den d\u00f6dliga sjukdomen rabies sprider sig i Moskva-regione\u2026 [+1531 chars]",
+      "retrievedAt": "2026-02-12 19:26:52.008493",
+      "internal_id": "1f53fc1de2019966dd51244bc3696d9097ae9aa3adbe6a3f1850be6f22df7516",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27530,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Catracalivre.com.br",
+      "author": "Joaquim Luppi Fernandes",
+      "title": "A muta\u00e7\u00e3o silenciosa que fez o mosquito da dengue abandonar a mata para morar no seu quintal e se alimentar exclusivamente de sangue humano para n\u00e3o entrar em extin\u00e7\u00e3o",
+      "description": "Entenda como a adapta\u00e7\u00e3o biol\u00f3gica trouxe mosquitos das florestas para o seu jardim. Saiba proteger seu espa\u00e7o externo e garantir a sa\u00fade da sua fam\u00edlia agora. O post A muta\u00e7\u00e3o silenciosa que fez o mosquito da dengue abandonar a mata para morar no seu quintal\u2026",
+      "url": "https://catracalivre.com.br/noticias/a-mutacao-silenciosa-que-fez-o-mosquito-da-dengue-abandonar-a-mata-para-morar-no-seu-quintal-e-se-alimentar-exclusivamente-de-sangue-humano-para-nao-entrar-em-extincao/",
+      "urlToImage": "https://i.catracalivre.com.br/ogsHXkphXlZRV4YX8m0TnO6-z0E=/1200x630/smart/filters:quality(60)/catracalivre.com.br/wp-content/uploads/2026/02/freepik-imagem-de-um-jardim-bem-cuidado-com-plantas-e-flor-79431.png",
+      "publishedAt": "2026-02-11 09:56:02",
+      "content": "A presen\u00e7a constante de insetos em nossas \u00e1reas de lazer externas deixou de ser apenas um inc\u00f4modo para se tornar um risco biol\u00f3gico sofisticado. Uma muta\u00e7\u00e3o silenciosa alterou o comportamento de esp\u2026 [+4142 chars]",
+      "retrievedAt": "2026-02-12 19:26:53.534868",
+      "internal_id": "8d65243b666d706522a18d2902765fe99c7f4a2b1880c5b76ba083f035daf3b0",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27533,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "Javier Del Pozo",
+      "title": "Patricia P\u00e9rez se rompe al hablar de la ceguera de su marido: \"\u00c9l no ve nada, no ve ni luz\"",
+      "description": "La presentadora relata en Antena 3 las secuelas de la meningitis que sufri\u00f3 Luis Canut, un proceso marcado por meses de ingreso y una recuperaci\u00f3n.",
+      "url": "https://www.libertaddigital.com/chic/corazon/2026-02-11/patricia-perez-se-rompe-al-hablar-de-la-ceguera-de-su-marido-el-no-ve-nada-no-ve-ni-luz-7357795/",
+      "urlToImage": "https://s1.staticld.com/2026/02/11/1200/675/patricia-perez-sonsoles.jpg",
+      "publishedAt": "2026-02-11 09:39:33",
+      "content": "Patricia P\u00e9rez reapareci\u00f3 este martes en el programa Y ahora Sonsoles de Antena 3 despu\u00e9s de vivir los meses m\u00e1s complicados de su vida. La reconocida presentadora y divulgadora de h\u00e1bitos saludables\u2026 [+3408 chars]",
+      "retrievedAt": "2026-02-12 19:26:53.882447",
+      "internal_id": "4d10038ef33db86028542a7fccc443994744549003ef69ccd2b6242ec590cb7b",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27528,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Reuters",
+      "title": "Measles cases in Europe, Central Asia drop 75% in 2025, but outbreak risk lingers, agencies say",
+      "description": "Measles cases in Europe and Central Asia saw a significant drop of 75% in 2025 compared to the previous year, as per agencies. Preliminary data shows a substantial decrease in reported infections. However, health organizations warn that the threat of new outb\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/measles-cases-plummet-75-in-europe-and-central-asia-say-agencies/articleshow/128197694.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128198417,width-1200,height-630,imgsize-160178,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-11 08:58:20",
+      "content": "Measles cases across Europe and Central Asia fell 75% in 2025 from a year earlier, preliminary data from 53 countries in the WHO European Region showed, though U.N. children's agency UNICEF and the W\u2026 [+1520 chars]",
+      "retrievedAt": "2026-02-12 19:26:52.760395",
+      "internal_id": "7cf22e96be63d64adddf90650c6e1ca0590b1ca6dfb5b3bb526725e770f20eae",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27535,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "63 chikungunya cases reported in Jitra housing area",
+      "description": "ALOR SETAR: Sixty-three cases of chikungunya have been recorded in Taman Mahsuri Phase 2C near Jitra since Jan 3. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/11/63-chikungunya-cases-reported-in-jitra-housing-area",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/11/3765477.png",
+      "publishedAt": "2026-02-11 08:12:00",
+      "content": "ALOR SETAR: Sixty-three cases of chikungunya have been recorded in Taman Mahsuri Phase 2C near Jitra since Jan 3. No deaths have been reported so far. Kedah housing, local government and health com\u2026 [+1072 chars]",
+      "retrievedAt": "2026-02-12 19:26:54.834116",
+      "internal_id": "d3b9c534912a0eb2c6405e89995aa376cd771a8dbc91115b32f1b773bba4012a",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27526,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Internazionale.it",
+      "author": "Internazionale",
+      "title": "Measles cases in Europe, Central Asia drop 75% in 2025, agencies say",
+      "description": "Feb 11 (Reuters) - Measles cases across Europe and Central Asia fell 75% in 2025 from a year earlier, preliminary data from 53 countries in the WHO European Region showed\u2026 Leggi",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/11/measles-cases-in-europe-central-asia-drop-75-in-2025-agencies-say",
+      "urlToImage": "https://static.internazionale.it/assets/img/internazionale-icon.png",
+      "publishedAt": "2026-02-11 08:10:01",
+      "content": "L11 febbraio (Reuters) - I casi di morbillo in Europa e Asia centrale sono diminuiti del 75% nel 2025 rispetto allanno precedente, secondo i dati preliminari di 53 paesi della Regione europea dellOMS\u2026 [+1975 chars]",
+      "retrievedAt": "2026-02-12 19:26:52.469533",
+      "internal_id": "5c19dac00582aa29804818af96fd7a20d7db8221c3efbac8d8852fa3c8157b33",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27524,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside Higher Ed",
+      "author": "Sara Weissman",
+      "title": "Measles Cases Spread on College Campuses",
+      "description": "Measles Cases Spread on College Campuses Sara Weissman Wed, 02/11/2026 - 03:00 AM As the virus surges nationwide, experts say campuses are especially susceptible to outbreaks. Some institutions are already handling infections among their students. \u2026",
+      "url": "https://www.insidehighered.com/news/students/physical-mental-health/2026/02/11/measles-cases-spread-campuses",
+      "urlToImage": "https://www.insidehighered.com/sites/default/files/styles/large/public/2026-02/GettyImages-1249292221.jpg?itok=U8wvfo5L",
+      "publishedAt": "2026-02-11 08:00:00",
+      "content": "Measles cases are sweeping several U.S. campuses as the contagious virus spreads across the country. In Florida, five students at Ave Maria University presented with rashes and have been quarantined\u2026 [+5417 chars]",
+      "retrievedAt": "2026-02-12 19:26:52.444700",
+      "internal_id": "4dad5b24c56ddedbdeb797f1a91adc2396fff7f1a5da2b5dac443000231842af",
+      "publishedAtLabel": "Feb 11"
+    },
     {
       "id": 27522,
       "query": [
@@ -18193,96 +18482,6 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26510,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Live Science",
-      "author": "Nicoletta Lanese",
-      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
-      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
-      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
-      "publishedAt": "2025-12-28 15:00:00",
-      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
-      "retrievedAt": "2025-12-29 19:06:37.716406",
-      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26512,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
-      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 14:10:33",
-      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.025368",
-      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26513,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Diario EL PAIS Uruguay",
-      "author": "Nicolas Lauber",
-      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
-      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
-      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
-      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
-      "publishedAt": "2025-12-28 13:45:17",
-      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
-      "retrievedAt": "2025-12-29 19:06:40.126081",
-      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26509,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Madhyamam.com",
-      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
-      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
-      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
-      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
-      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
-      "publishedAt": "2025-12-28 10:24:23",
-      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
-      "retrievedAt": "2025-12-29 19:06:37.550099",
-      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26511,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
-      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 10:04:39",
-      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.014393",
-      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]
