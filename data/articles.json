@@ -1,8 +1,260 @@
 {
-  "last_updated": "2026-02-12 19:26",
-  "count_articles_total": 1025,
-  "count_articles_new": 16,
+  "last_updated": "2026-02-13 07:26",
+  "count_articles_total": 1044,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 27540,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Has a wolf ever attacked a human?",
+      "description": "Has a Wolf Ever Attacked a Human? Understanding the Rare but Real Risk While wolf attacks are exceedingly rare, the answer is unequivocally yes. Documented cases exist, although they are typically associated with specific circumstances like rabies infection, \u2026",
+      "url": "https://www.lifesciencesworld.com/has-a-wolf-ever-attacked-a-human/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-12 06:54:58",
+      "content": "While wolf attacks are exceedingly rare, the answer is unequivocally yes. Documented cases exist, although they are typically associated with specific circumstances like rabies infection, provocation\u2026 [+8440 chars]",
+      "retrievedAt": "2026-02-13 07:26:46.542835",
+      "internal_id": "7be6a188e99c51052684069d49d5cac9cd3f16968d3ddbca077b8d0e87a3b8f7",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27548,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "H5N1 bird flu kills more than 50 skuas in first Antarctica wildlife die off",
+      "description": "For the first time, deadly H5N1 bird flu has been confirmed as the cause of a wildlife die-off in Antarctica, killing more than 50 skuas during the 2023\u20132024 summers. Researchers on an Antarctic expedition found the virus ravaging these powerful seabirds, wit\u2026",
+      "url": "https://www.sciencedaily.com/releases/2026/02/260211073029.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/researchers-examine-skua-carcasses-in-antarctica.webp",
+      "publishedAt": "2026-02-12 06:31:45",
+      "content": "More than 50 skuas died in Antarctica during the summers of 2023 and 2024 after becoming infected with the highly pathogenic avian influenza virus H5N1. Researchers say this marks the first confirmed\u2026 [+4819 chars]",
+      "retrievedAt": "2026-02-13 07:26:47.607009",
+      "internal_id": "c24d456e54abb97efe92ef0ec382b24a019775f464b50783dc4f23fd349d81f0",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27545,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Enugu vaccinates 1.5 million children against measles, rubella in one week",
+      "description": "Enugu State\u2019s vaccination campaign has successfully immunized 1.5 million children against measles and rubella, aiming for zero cases in the state. Read More: https://punchng.com/enugu-vaccinates-1-5-million-children-against-measles-rubella-in-one-week/",
+      "url": "https://punchng.com/enugu-vaccinates-1-5-million-children-against-measles-rubella-in-one-week/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/05/09182600/Screenshot-2025-05-09-182618.jpg",
+      "publishedAt": "2026-02-12 05:36:38",
+      "content": "The Enugu State Government says over 1.5 million children have so far received vaccination against measles and rubella within one week of the ongoing statewide immunisation campaign against the disea\u2026 [+3807 chars]",
+      "retrievedAt": "2026-02-13 07:26:47.048028",
+      "internal_id": "c362548403c817ba419825b130a9d84e3ca6f8768cc0e4e6e38351a70ed9d63f",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27546,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Measles Outbreak Driven by Nosocomial Transmission, Armenia, February\u2013July 2023",
+      "description": "Measles Outbreak Driven by Nosocomial Transmission",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/2/25-0474_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-02-12 05:00:00",
+      "content": "In 2002, Armenia adopted the World Health Organization (WHO)s measles elimination plan and incorporated the trivalent live measles, mumps, and rubella (MMR) vaccine into its national immunization sch\u2026 [+8874 chars]",
+      "retrievedAt": "2026-02-13 07:26:47.119518",
+      "internal_id": "aac4647905de485004ba16892cdaede884d2c232ac8b83c4a5974eca2bec78db",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27549,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Avian Influenza A(H9N2) Virus Transmission across Chicken Production and Distribution Networks, Vietnam",
+      "description": "Avian Influenza A(H9N2) Transmission, Vietnam",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/2/25-1416_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-02-12 05:00:00",
+      "content": "High-pathogenicity avian influenza A subtype H5N1 viruses of the Goose/Guangdong/1/96 lineage and low pathogenicity avian influenza A subtype H9N2 viruses are endemic in Southeast Asia, including Vie\u2026 [+9597 chars]",
+      "retrievedAt": "2026-02-13 07:26:47.904653",
+      "internal_id": "178c35f174a8c79c643f2c99e0ff72899e6ee97b492b5bb68825355770a51cbf",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27541,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Iltalehti.fi",
+      "author": null,
+      "title": "Moskovassa levi\u00e4\u00e4 tappava tauti \u2013 Asiantuntija: T\u00e4m\u00e4 on Suomessa paljon suurempi riski",
+      "description": "Moskovassa levi\u00e4\u00e4 tappava tauti. Millainen riski Suomessa on, ett\u00e4 luonnonvaraisista el\u00e4imist\u00e4 h\u00e4vinnyt tauti palaa takaisin? Moskovan alueen Reutovissa levi\u00e4\u00e4 rabies, Iltalehti kertoi aiemmin. El\u00e4inten joukkokokoontumiset sek\u00e4 muut tapahtumat, joihin liittyy\u2026",
+      "url": "https://www.iltalehti.fi/terveysuutiset/a/55864461-1f8a-4069-a04c-8443146cf24c",
+      "urlToImage": "https://img.ilcdn.fi/6Ao92ZX_vzZUK5H-WIlA1_cRHCs=/1200x630/top/filters:watermark(assets.ilcdn.fi/ilsome_v2.jpg,25,0,0)/img-s3.ilcdn.fi/dd66ed656bc7334b77e86a9e94e98052b9bff820e90217b8a9e1484536d4d223.jpg",
+      "publishedAt": "2026-02-12 04:35:32",
+      "content": "Moskovan alueen Reutovissa levi\u00e4\u00e4 rabies, Iltalehti kertoi aiemmin. El\u00e4inten joukkokokoontumiset sek\u00e4 muut tapahtumat, joihin liittyy el\u00e4inten siirt\u00e4mist\u00e4 paikasta toiseen, ovat kiellettyj\u00e4 kaupungi\u2026 [+3238 chars]",
+      "retrievedAt": "2026-02-13 07:26:46.579837",
+      "internal_id": "d57cc7081960d39d077dd733c7a6a598ce491c12180b061896c7481ec87abc6b",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27544,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases rising in Mexico and the U.S.? #health",
+      "description": "Recent outbreaks and the public\u2011health response Health authorities in both Mexico and the United States are confronting surges in measles cases that have prompted reinstated precautions and urgent appeals for vaccination. In Mexico, a growing outbreak prompte\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-mexico-and-the-u-s",
+      "urlToImage": "https://alltoc.com/cdn/1039/og.png",
+      "publishedAt": "2026-02-12 04:08:40",
+      "content": "Health authorities in both Mexico and the United States are confronting surges in measles cases that have prompted reinstated precautions and urgent appeals for vaccination. In Mexico, a growing outb\u2026 [+1723 chars]",
+      "retrievedAt": "2026-02-13 07:26:46.935927",
+      "internal_id": "cb462c570eb541c88dc8fcb8eeeb173dfea4ec549e59ed3250d4a7e65f6aea74",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27539,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "How do I know if my baby animal has rabies?",
+      "description": "How to Tell If Your Baby Animal Has Rabies: Spotting the Signs and Taking Action Determining how to know if your baby animal has rabies requires observing specific behavioral and physical changes; while a definitive diagnosis requires laboratory testing, earl\u2026",
+      "url": "https://www.lifesciencesworld.com/how-do-i-know-if-my-baby-animal-has-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-12 03:29:21",
+      "content": "How to Tell If Your Baby Animal Has Rabies: Spotting the Signs and Taking Action Determining how to know if your baby animal has rabies requires observing specific behavioral and physical changes; w\u2026 [+8312 chars]",
+      "retrievedAt": "2026-02-13 07:26:46.475992",
+      "internal_id": "0176def271c00a19ba9e466289e05666bce77ed2082cc083c872ed8b9a2e0989",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27552,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "KGO-TV",
+      "author": "Stephanie Sierra",
+      "title": "Bubba's Story: Health officials warn of leptospirosis, a highly contagious deadly bacterial disease affecting dogs and people",
+      "description": "Health departments are sounding the alarm about a contagious bacterial disease that can be deadly in dogs -- and in rare cases, can spread to humans.",
+      "url": "https://abc7news.com/post/bubbas-story-health-officials-warn-leptospirosis-highly-contagious-deadly-bacterial-disease-affecting-dogs-people/18580688/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18588524_021126-kgo-dog-virus-img-final.jpg?w=1600",
+      "publishedAt": "2026-02-12 02:43:37",
+      "content": "SAN FRANCISCO (KGO) -- Health departments across California are sounding the alarm about a highly contagious bacterial disease that can be deadly in dogs if not treated. And in rare cases, it can spr\u2026 [+6995 chars]",
+      "retrievedAt": "2026-02-13 07:26:49.984827",
+      "internal_id": "c10c7ba52e70e3a87972c4b2d849791655fbc72ffb3960e76f78e673555ba96f",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27543,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Edith Olmsted",
+      "title": "Trump Secretly Yanks National Guard Out of Three Blue Cities",
+      "description": "In a humiliating defeat for Donald Trump\u2019s administration, all federalized National Guard troops have been pulled out of American cities that never wanted them there after failing to accomplish what the president asked them to do. Hundreds of servicemembers d\u2026",
+      "url": "https://newrepublic.com/post/206499/donald-trump-national-guard-blue-cities",
+      "urlToImage": "https://images.newrepublic.com/db33bb9235ddb7aac709715a563e1b8dc97a8f51.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-11 22:24:16",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, severe dehydration, and can resu\u2026 [+852 chars]",
+      "retrievedAt": "2026-02-13 07:26:46.901327",
+      "internal_id": "5432f3c813530c8529082dd91ba848e57f1055804cc1b25c0ab566cb994e9357",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27542,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Ellie Quinlan Houghtaling",
+      "title": "RFK Jr.\u2019s Anti-Vaxx Nonsense Has Helped Spread Measles to Mexico",
+      "description": "The measles situation in the U.S. is so bad that the disease is spreading south of the border.Answering a question from a reporter Wednesday, Mexican President Claudia Sheinbaum revealed that the sudden resurgence of measles in Mexico had originated from the \u2026",
+      "url": "https://newrepublic.com/post/206496/robert-f-kennedy-jr-anti-vaccine-measles-mexico",
+      "urlToImage": "https://images.newrepublic.com/425e6edb2f4540b90526b2e02b13a821ace0e189.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-11 22:12:48",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, severe dehydration, and can resu\u2026 [+852 chars]",
+      "retrievedAt": "2026-02-13 07:26:46.889113",
+      "internal_id": "dbbe98ca04c2994bfafc001fa105291701778f7a180675f23f26367a46be560e",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27547,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "ANNE GARBER | Deputy Correspondent Coordinator",
+      "title": "2 new cases of measles reported in Montgomery County",
+      "description": "Two new cases of measles have been detected in Montgomery County, but no new cases in Lancaster County, the state Department of Health reported Wednesday.",
+      "url": "https://lancasteronline.com/news/health/2-new-cases-of-measles-reported-in-montgomery-county/article_6b62cd86-8bc1-4b83-80ee-2351bfd998d9.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/8/35/8353b91c-39f1-11e5-801d-4f28122a969e/55bf8421b36da.image.jpg?crop=1781%2C935%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-02-11 21:52:00",
+      "content": "Two new cases of measles have been detected in Montgomery County, but no new cases in Lancaster County, the state Department of Health reported Wednesday. The newly diagnosed individuals in Montgome\u2026 [+883 chars]",
+      "retrievedAt": "2026-02-13 07:26:47.220562",
+      "internal_id": "a6f049820ebc99b0945ffb24ff6260b036a7a6394968acb81cdd00b40d85b38b",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27551,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "AFP",
+      "title": "OPS alerta por rebrote de chikungunya en Am\u00e9rica",
+      "description": "Enfermedad transmitida por el mosquito Aedes aegypti reaparece en zonas donde no se registraban contagios desde hace a\u00f1os.",
+      "url": "https://www.nacion.com/el-mundo/ops-alerta-por-rebrote-de-chikungunya-en-america/LEQ3AGKMAVDL5AZOR7FWZHOA6E/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/OBKKOEWHIJAE3JXNAOC4FDQB5Q.jpeg?smart=true&auth=e00f809a229923c6ed1b3ccd8a0701359909bf109de76823811b189b1ab692a3&width=1440",
+      "publishedAt": "2026-02-11 21:27:22",
+      "content": "Washington, Estados Unidos. La Organizaci\u00f3n Panamericana de la Salud (OPS) alert\u00f3 sobre el aumento sostenido de casos de chikungu\u00f1a en varios pa\u00edses del continente americano desde finales de 2025, in\u2026 [+1162 chars]",
+      "retrievedAt": "2026-02-13 07:26:49.393075",
+      "internal_id": "7045db69a8b49a5d2d1f9603ce909170b0e63acae21b8a3f368333088d1cccf7",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
+      "id": 27550,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Sa\u00fade inicia vacina\u00e7\u00e3o contra dengue em todo pa\u00eds, mas atrasa no DF",
+      "description": "A Secretaria de Sa\u00fade do DF disse que n\u00e3o recebeu nenhuma dose da vacina do Butantan, que imuniza contra dengue em dose \u00fanica",
+      "url": "https://www.metropoles.com/distrito-federal/saude-inicia-vacinacao-contra-dengue-em-todo-pais-mas-atrasa-no-df",
+      "urlToImage": "https://images.metroimg.com/2026/02/vacina-butantan-.jpg",
+      "publishedAt": "2026-02-11 20:40:17",
+      "content": "O Minist\u00e9rio da Sa\u00fade anunciou o come\u00e7o da vacina\u00e7\u00e3o contra dengue para profissionais de sa\u00fade da Aten\u00e7\u00e3o Prim\u00e1ria de todo pa\u00eds. Segundo a pasta, a estrat\u00e9gia, que teve in\u00edcio nesta ter\u00e7a-feira (11/2\u2026 [+698 chars]",
+      "retrievedAt": "2026-02-13 07:26:48.251012",
+      "internal_id": "729532961c6b2a5c511a43d6d41817e0011c15c5e75f88f958a43c0607250795",
+      "publishedAtLabel": "Feb 11"
+    },
     {
       "id": 27527,
       "query": [
@@ -18482,6 +18734,96 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26510,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
+      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
+      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
+      "publishedAt": "2025-12-28 15:00:00",
+      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
+      "retrievedAt": "2025-12-29 19:06:37.716406",
+      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26512,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
+      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 14:10:33",
+      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.025368",
+      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26513,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Diario EL PAIS Uruguay",
+      "author": "Nicolas Lauber",
+      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
+      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
+      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
+      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
+      "publishedAt": "2025-12-28 13:45:17",
+      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
+      "retrievedAt": "2025-12-29 19:06:40.126081",
+      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26509,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Madhyamam.com",
+      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
+      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
+      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
+      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
+      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
+      "publishedAt": "2025-12-28 10:24:23",
+      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
+      "retrievedAt": "2025-12-29 19:06:37.550099",
+      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26511,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
+      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 10:04:39",
+      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.014393",
+      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]

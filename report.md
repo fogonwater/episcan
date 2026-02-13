@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2026-02-12 19:26
-- **Most recent article:** 2026-02-11 18:37:39
+- **New articles in last harvest:** 14
+- **Last harvest:** 2026-02-13 07:26
+- **Most recent article:** 2026-02-12 06:54:58
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 32 | 26 | 47 | 63 | 88 | 76 | 107 | 50 | 489 |
-| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 17 | 114 |
-| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 4 | 78 |
-| rabies | 7 | 6 | 10 | 10 | 12 | 10 | 11 | 7 | 73 |
-| malaria | 3 | 0 | 13 | 8 | 7 | 8 | 15 | 7 | 61 |
+| measles | 33 | 26 | 47 | 63 | 88 | 76 | 107 | 56 | 496 |
+| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 18 | 115 |
+| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 6 | 80 |
+| rabies | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 10 | 77 |
+| malaria | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 7 | 63 |
 | mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 7 | 57 |
 | meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 6 | 55 |
-| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 5 | 37 |
-| leptospirosis | 3 | 4 | 2 | 1 | 4 | 6 | 3 | 0 | 23 |
+| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 6 | 38 |
+| leptospirosis | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 1 | 25 |
 | zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 0 | 22 |
 | yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 1 | 15 |
 | hpai | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 1 | 14 |
@@ -41,6 +41,12 @@ Source: [News API](https://newsapi.org/)
 - [Ramadan bazaar traders reminded to get typhoid jabs, maintain cleanliness](https://www.thestar.com.my/news/nation/2026/02/08/ramadan-bazaar-traders-reminded-to-get-typhoid-jabs-maintain-cleanliness) (The Star Online)
 
 ## 26-7 (rabies)
+
+- [Has a wolf ever attacked a human?](https://www.lifesciencesworld.com/has-a-wolf-ever-attacked-a-human/) (Lifesciencesworld.com)
+
+- [Moskovassa leviää tappava tauti – Asiantuntija: Tämä on Suomessa paljon suurempi riski](https://www.iltalehti.fi/terveysuutiset/a/55864461-1f8a-4069-a04c-8443146cf24c) (Iltalehti.fi)
+
+- [How do I know if my baby animal has rabies?](https://www.lifesciencesworld.com/how-do-i-know-if-my-baby-animal-has-rabies/) (Lifesciencesworld.com)
 
 - [Dödlig sjukdom sprids i Moskva – Finland agerar](https://www.expressen.se/nyheter/varlden/dodlig-sjukdom-sprids-i-moskva-finland-agerar/) (Expressen.se)
 
@@ -91,6 +97,18 @@ Source: [News API](https://newsapi.org/)
 - [Terminale Luzidität: Rätselhafte Klarheit kurz vor dem Tod](https://www.spektrum.de/news/terminale-luziditaet-fuer-ein-paar-stunden-von-demenz-geheilt/2285620) (Spektrum.de)
 
 ## 26-7 (measles)
+
+- [Enugu vaccinates 1.5 million children against measles, rubella in one week](https://punchng.com/enugu-vaccinates-1-5-million-children-against-measles-rubella-in-one-week/) (The Punch)
+
+- [Measles Outbreak Driven by Nosocomial Transmission, Armenia, February–July 2023](https://wwwnc.cdc.gov/eid/article/32/2/25-0474_article) (Cdc.gov)
+
+- [Why are measles cases rising in Mexico and the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-mexico-and-the-u-s) (Alltoc.com)
+
+- [Trump Secretly Yanks National Guard Out of Three Blue Cities](https://newrepublic.com/post/206499/donald-trump-national-guard-blue-cities) (The New Republic)
+
+- [RFK Jr.’s Anti-Vaxx Nonsense Has Helped Spread Measles to Mexico](https://newrepublic.com/post/206496/robert-f-kennedy-jr-anti-vaccine-measles-mexico) (The New Republic)
+
+- [2 new cases of measles reported in Montgomery County](https://lancasteronline.com/news/health/2-new-cases-of-measles-reported-in-montgomery-county/article_6b62cd86-8bc1-4b83-80ee-2351bfd998d9.html) (LancasterOnline)
 
 - [The Families In Notorious Detention Center Face An ‘Impossible Choice’](https://www.huffpost.com/entry/children-dilley-immigration-jail_n_698c9cd5e4b04325c3fde06a) (HuffPost)
 
@@ -208,11 +226,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Plasmodium falciparum stomatin-like protein forms a putative complex with a metalloprotease in distinct mitochondrial loci](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013922) (Plos.org)
 
+## 26-7 (leptospirosis)
+
+- [Bubba's Story: Health officials warn of leptospirosis, a highly contagious deadly bacterial disease affecting dogs and people](https://abc7news.com/post/bubbas-story-health-officials-warn-leptospirosis-highly-contagious-deadly-bacterial-disease-affecting-dogs-people/18580688/) (KGO-TV)
+
 ## 26-7 (hpai)
 
 - [Helport AI Outlines Global Strategy for Scalable, Expert-Level Artificial Intelligence Delivery](https://www.globenewswire.com/news-release/2026/02/10/3235324/0/en/Helport-AI-Outlines-Global-Strategy-for-Scalable-Expert-Level-Artificial-Intelligence-Delivery.html) (GlobeNewswire)
 
 ## 26-7 (h5n1)
+
+- [H5N1 bird flu kills more than 50 skuas in first Antarctica wildlife die off](https://www.sciencedaily.com/releases/2026/02/260211073029.htm) (Science Daily)
+
+- [Avian Influenza A(H9N2) Virus Transmission across Chicken Production and Distribution Networks, Vietnam](https://wwwnc.cdc.gov/eid/article/32/2/25-1416_article) (Cdc.gov)
 
 - [Sterfte onder roofmeeuwen op Antarctica is veroorzaakt door vogelgriep](https://www.nrc.nl/nieuws/2026/02/11/sterfte-onder-roofmeeuwen-op-antarctica-is-veroorzaakt-door-vogelgriep-a4920001) (Www.nrc.nl)
 
@@ -223,6 +249,8 @@ Source: [News API](https://newsapi.org/)
 - [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
+
+- [Saúde inicia vacinação contra dengue em todo país, mas atrasa no DF](https://www.metropoles.com/distrito-federal/saude-inicia-vacinacao-contra-dengue-em-todo-pais-mas-atrasa-no-df) (Metropoles.com)
 
 - [Distribution of Aedes aegypti and Aedes albopictus, and the current situation of dengue fever and chikungunya in Iran and neighboring countries: a review study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013965) (Plos.org)
 
@@ -259,6 +287,8 @@ Source: [News API](https://newsapi.org/)
 - [Indonesia urges stronger ASEAN cooperation against dengue threat](https://en.antaranews.com/news/403654/indonesia-urges-stronger-asean-cooperation-against-dengue-threat) (Antaranews.com)
 
 ## 26-7 (chikungunya)
+
+- [OPS alerta por rebrote de chikungunya en América](https://www.nacion.com/el-mundo/ops-alerta-por-rebrote-de-chikungunya-en-america/LEQ3AGKMAVDL5AZOR7FWZHOA6E/story/) (Nacion.com)
 
 - [CDC issues urgent travel alert as virus outbreak hits exclusive sunny islands destination](https://www.foxnews.com/travel/cdc-issues-urgent-travel-alert-virus-outbreak-hits-exclusive-sunny-islands-destination) (Fox News)
 
@@ -2210,6 +2240,8 @@ Source: [News API](https://newsapi.org/)
 
 - [What happens to the cat after it bites someone?](https://www.lifesciencesworld.com/what-happens-to-the-cat-after-it-bites-someone/) (Lifesciencesworld.com)
 
+- [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
+
 ## 25-53 (pertussis)
 
 - [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
@@ -2302,6 +2334,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Petah Tikva joins list of measles outbreak hotspots](https://www.israelnationalnews.com/news/420035) (Israelnationalnews.com)
 
+- [Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses](https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses) (Live Science)
+
 ## 25-53 (malaria)
 
 - [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
@@ -2310,6 +2344,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
 
+- [School assembly news headlines for December 29: Top national, international & sports updates](https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms) (The Times of India)
+
+- [India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah](https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms) (The Times of India)
+
 ## 25-53 (leptospirosis)
 
 - [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
@@ -2317,6 +2355,8 @@ Source: [News API](https://newsapi.org/)
 - [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
 
 - [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
+
+- [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
 
 ## 25-53 (h5n1)
 
