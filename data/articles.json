@@ -1,8 +1,549 @@
 {
-  "last_updated": "2026-02-13 07:26",
-  "count_articles_total": 1044,
-  "count_articles_new": 14,
+  "last_updated": "2026-02-13 19:20",
+  "count_articles_total": 1069,
+  "count_articles_new": 30,
   "articles": [
+    {
+      "id": 27555,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Abcnews.com",
+      "author": "Mary Kekatos",
+      "title": "Mexico could be at risk of losing its measles elimination status",
+      "description": "Mexico could be at risk of losing its measles elimination status as the virus continues to spread across the country.",
+      "url": "https://abcnews.com/Health/mexico-risk-losing-measles-elimination-status-after-9000/story?id=130095118",
+      "urlToImage": "https://i.abcnewsfe.com/a/c2ec409d-e019-40c0-a08c-27aea7aa5cdb/measles-vaccine-mexico-gty-jt-260212_1770909789497_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2026-02-12 19:20:28",
+      "content": "Mexico could be at risk of losing its measles elimination status as the virus continues to spread across the country. As of Wednesday, more than 9,100 measles cases have been confirmed since the beg\u2026 [+3479 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.120377",
+      "internal_id": "73d88ffb4d70d1180c6bb13a5ea033553d83322d3a69b8ee6cb8c2ad8607bc9e",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27566,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Soaring rates of respiratory virus and measles make Manitoba a sick province, chief doctor says",
+      "description": "Manitoba's health system is inundated with surging flu rates and an ongoing measles outbreak, the province's chief public health officer says.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-respiratory-virus-measles-rates-roussin-9.7086440",
+      "urlToImage": "https://i.cbc.ca/ais/2d8d184d-cfd4-4259-9798-62598ba5fe21,1770910798531/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2026-02-12 17:01:55",
+      "content": "Manitoba's health system is inundated with surging flu rates and an ongoing measles outbreak, the province's chief public health officer says. \"This season has brought particularly high levels of re\u2026 [+2068 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.555809",
+      "internal_id": "476598034c31eddf627471085869eb7c8e0ba7fdca3002493ef8a4cc11f8515e",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27558,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Edith Olmsted",
+      "title": "Democratic Governor Bans ICE From State Property",
+      "description": "New Jersey\u2019s newly elected Governor Mikie Sherill is the latest Democratic state leader to take action to protect her state\u2019s residents from President Donald Trump\u2019s deadly federal immigration crackdown. Sherill signed an executive order Wednesday barring Imm\u2026",
+      "url": "https://newrepublic.com/post/206525/democratic-governor-bans-ice-state-property-new-jersey",
+      "urlToImage": "https://images.newrepublic.com/3ee863dbede86e91267fb6ba24ce7add6fde874a.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-12 16:44:44",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, and severe dehydration, and can \u2026 [+829 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.201112",
+      "internal_id": "3a273fb1f979cb4013217b64d75fc61a3a0434d9479a0a0affca9c8e353bc15d",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27560,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Ellie Quinlan Houghtaling",
+      "title": "MAGA Senator Accuses Minnesota A.G. of Causing Alex Pretti\u2019s Death",
+      "description": "A MAGA lawmaker is blaming ICE\u2019s heightened violence on local Minnesota leaders.Senator Ron Johnson tore into Minnesota Attorney General Keith Ellison during a Senate hearing Thursday, accusing him of causing the deaths of U.S. citizens Alex Pretti and Renee \u2026",
+      "url": "https://newrepublic.com/post/206520/maga-senator-minnesota-attorney-general-alex-pretti-renee-0",
+      "urlToImage": "https://images.newrepublic.com/8d51dd711065a81eef55014123b576dc2e5904f2.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-12 16:36:05",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, and severe dehydration, and can \u2026 [+829 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.225332",
+      "internal_id": "02b179f27e8a71ea4a6320fb2dd061ec79495b63ff85b4b7d71d0e7f700fe893",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27563,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What is behind the recent measles outbreaks? #health",
+      "description": "Gaps in vaccination and local outbreaks are driving cases Health officials have reported clusters of measles across several places, prompting targeted responses. In Mexico a growing outbreak led the state of Jalisco to issue a health alert, step up screening \u2026",
+      "url": "https://alltoc.com/health/what-is-behind-the-recent-measles-outbreaks",
+      "urlToImage": "https://alltoc.com/cdn/1041/og.png",
+      "publishedAt": "2026-02-12 16:08:49",
+      "content": "Health officials have reported clusters of measles across several places, prompting targeted responses. In Mexico a growing outbreak led the state of Jalisco to issue a health alert, step up screenin\u2026 [+1383 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.285690",
+      "internal_id": "b59db5fb519e1f1cab67cf974497a81664632d0b8b043482ef3ca4b038c29014",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27573,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How did H5N1 reach Antarctica? #science",
+      "description": "First confirmed avian flu die off on the Antarctic continent For the first time, highly pathogenic avian influenza (H5N1) has been reported in Antarctica, where more than 50 skuas were found dead. The outbreak marks a concerning geographic expansion of a viru\u2026",
+      "url": "https://alltoc.com/science/how-did-h5n1-reach-antarctica",
+      "urlToImage": "https://alltoc.com/cdn/1041/og.png",
+      "publishedAt": "2026-02-12 16:04:34",
+      "content": "For the first time, highly pathogenic avian influenza (H5N1) has been reported in Antarctica, where more than 50 skuas were found dead. The outbreak marks a concerning geographic expansion of a virus\u2026 [+1682 chars]",
+      "retrievedAt": "2026-02-13 19:20:48.014238",
+      "internal_id": "069be947e12d0f95737f3f7fad32363c952cc1089bdcd6869cf004a9dd2fb745",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27581,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Opas alerta para aumento de casos e risco de surto de chikungunya",
+      "description": "Casos voltam a crescer em pa\u00edses das Am\u00e9ricas e Opas recomenda refor\u00e7ar vigil\u00e2ncia, controlar o mosquito e preparar os servi\u00e7os de sa\u00fade",
+      "url": "https://www.metropoles.com/saude/opas-alerta-risco-surto-chikungunya",
+      "urlToImage": "https://images.metroimg.com/6a2766bb-aedes-aegypti.-zika-dengue-chikungunya.jpg",
+      "publishedAt": "2026-02-12 15:43:39",
+      "content": "O aumento recente de casos de chikungunya em diferentes pa\u00edses das Am\u00e9ricas levou a Organiza\u00e7\u00e3o Pan-Americana da Sa\u00fade (Opas) a emitir um novo alerta epidemiol\u00f3gico nessa quarta-feira (11/2). A entid\u2026 [+3012 chars]",
+      "retrievedAt": "2026-02-13 19:20:49.835221",
+      "internal_id": "a7fab595d5510646d5da324a10d3c58c3935df54b73ec34d863c3f80471ac5aa",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27559,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Malcolm Ferguson",
+      "title": "Gen Z Men Have Lost Faith in Trump After Just One Year: Poll",
+      "description": "Two-thirds of young American men disapprove of President Trump, according to a damning new poll from the centrist Third Way think tank.A nationwide survey of 1,462 men between the ages of 18 and 29 found only 38 percent generally approve of Trump\u2019s first year\u2026",
+      "url": "https://newrepublic.com/post/206517/gen-z-men-disapprove-trump-one-year-poll",
+      "urlToImage": "https://images.newrepublic.com/2f6ad8bedff3a2955077412ef86087c5e81861ee.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-12 15:28:29",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, and severe dehydration, and can \u2026 [+829 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.213406",
+      "internal_id": "4121846be1da10644faa7ce22276db4a0d100c0bbe4e5099bdff5da7cc25fd4b",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27570,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Edith Olmsted",
+      "title": "Bondi Torched After Photo Shows She Tracks Lawmakers\u2019 Epstein Searches",
+      "description": "Attorney General Pam Bondi was slammed for spying on members of Congress who viewed the Department of Justice\u2019s unredacted files on Jeffrey Epstein. When Bondi appeared at a House Judiciary Committee hearing Wednesday, she repeatedly referred to a binder of p\u2026",
+      "url": "https://newrepublic.com/post/206516/pam-bondi-photo-tracks-lawmakers-epstein-searches",
+      "urlToImage": "https://images.newrepublic.com/f8b663939a9db4301cf846311a23b255a979c0b1.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-12 15:17:20",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, and severe dehydration, and can \u2026 [+829 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.694245",
+      "internal_id": "1d45b7b668a48f247041e74196b31dbd89a7768aa50e45cbbca62aaef7dc0c0e",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27568,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Ellie Quinlan Houghtaling",
+      "title": "Surprise! Melania Trump Is Also in the Epstein Files",
+      "description": "Newly unredacted emails from the Epstein files reveal that Melania Trump was in friendly contact with Ghislaine Maxwell.The first lady warmly reached out to Maxwell after New York magazine published its famed profile on Maxwell\u2019s longtime criminal associate a\u2026",
+      "url": "https://newrepublic.com/post/206513/melania-trump-epstein-files-ghislaine-maxwell",
+      "urlToImage": "https://images.newrepublic.com/f78324ad9145a598cb4fd5746c413dbb7f194eeb.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-12 15:10:17",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, and severe dehydration, and can \u2026 [+829 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.669784",
+      "internal_id": "3f2eff5cb9d761f39f900064a806de382eef86eea986c744b716331dc34e27e3",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27575,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Vict\u00f3ria Ribeiro",
+      "title": "O brasileiro que colocou a dengue na defensiva e entrou para a lista de 100 influentes da sa\u00fade no mundo",
+      "description": "Luciano Moreira \u00e9 o \u00fanico brasileiro na TIME100 Health 2026 ap\u00f3s criar o m\u00e9todo Wolbachia, que impede a dengue ao transformar o mosquito em aliado",
+      "url": "https://veja.abril.com.br/saude/o-brasileiro-que-colocou-a-dengue-na-defensiva-e-entrou-para-a-lista-de-100-influentes-da-saude-no-mundo/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/12/PRIMEIRA-PESSOA-LUCIANO-MOREIRA.png.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-02-12 15:06:31",
+      "content": "Pular para o conte\u00fado Oferta Rel\u00e2mpago: VEJA por apenas 9,90Luciano Moreira \u00e9 diretor executivo da Wolbito do Brasil e foi pesquisador de sa\u00fade p\u00fablica da Fiocruz (./Arquivo pessoal) Continua ap\u00f3s \u2026 [+3539 chars]",
+      "retrievedAt": "2026-02-13 19:20:48.332026",
+      "internal_id": "5e5ad730dd7fae929337985254c9f0500ddad3623db5f44b6521b484d02fc9ff",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27569,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Hafiz Rashid",
+      "title": "Trump Border Czar Announces End to Deadly ICE Crackdown in Minneapolis",
+      "description": "Donald Trump\u2019s border czar Tom Homan announced Thursday that the Trump administration is ending its ICE crackdown in Minneapolis.\u201cAs a result of our efforts here Minnesota is now less of a sanctuary state for criminals,\u201d Homan said at a press conference. \u201cI h\u2026",
+      "url": "https://newrepublic.com/post/206512/trump-border-czar-announces-end-ice-crackdown-minneapolis",
+      "urlToImage": "https://images.newrepublic.com/c8a02199bdb2c8d9b6dd31f988b44488a0ba55e4.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-12 14:45:00",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, and severe dehydration, and can \u2026 [+829 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.682213",
+      "internal_id": "de145df888c1dfc6cf224587c061fe51036646aa0d3473a38998a1da1ba26b6c",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27557,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Malcolm Ferguson",
+      "title": "Dr. Oz Becomes the Latest Trump Official in the Epstein Files",
+      "description": "Just days after Commerce Secretary Howard Lutnick was exposed for his complete lie about cutting off contact with sexual predator Jeffrey Epstein, yet another Trump official was discovered to be in the Epstein files.In 2016, Dr. Mehmet Oz, now the administrat\u2026",
+      "url": "https://newrepublic.com/post/206510/dr-oz-epstein-files",
+      "urlToImage": "https://images.newrepublic.com/04cc2dcef1522eb1b084627cea810effbc192261.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-12 14:08:43",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, and severe dehydration, and can \u2026 [+829 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.189265",
+      "internal_id": "63dc3dffa34d83803ff18f761bb7f314b4cdf5b924d36e765e62aa1a937d5920",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27582,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Spur f\u00fchrt nach Westafrika: M\u00f6glicher Ursprung des Affenpockenvirus entdeckt",
+      "description": "Forscher weisen erstmals nach, wie das Affenpockenvirus in der Wildnis \u00fcberspringt. Ein kleines Nagetier gilt als wahrscheinlicher Ursprung der Infektionskette. Genetische Spuren in Affenkot spielten dabei eine entscheidende Rolle.",
+      "url": "https://www.n-tv.de/wissen/Moeglicher-Ursprung-des-Affenpockenvirus-entdeckt-id30355639.html",
+      "urlToImage": "https://www.n-tv.de/img/30355790/1770903021/Img_16_9/1200/Hollywood-resident-Victor-Infante-35-shows-two-blisters-or-pimples-on-his-back-caused-by-the-mpox-virus-on-July-20-2022-A-rash-can-also-be-seen-on-his-back-that-was-caused-by-an-allergic-reaction-to-medication-from-a-previous-accident-unrelated-to-mpox-Al-Diaz-Miami-Herald-TNS-ABACAPRESS.jpg",
+      "publishedAt": "2026-02-12 14:01:54",
+      "content": "Spur f\u00fchrt nach WestafrikaM\u00f6glicher Ursprung des Affenpockenvirus entdeckt Mpox ist eine zoonotische Infektionskrankheit, wird also vom Tier auf den Menschen \u00fcbertragen. Beim Menschen kann sie zu sc\u2026 [+4313 chars]",
+      "retrievedAt": "2026-02-13 19:20:50.109847",
+      "internal_id": "c190fc8457f561d94d3b25a4e6b33451044cb1d3761920dc49ea80b7c3f682b4",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27567,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Alemayehu Workiye Haile, Ebissa Bayana Kebede, Vinod Bagilkar, Teklu Wosenyeleh Mamo, Maycas Gembe",
+      "title": "Uptake of measles second dose vaccine among children aged 15\u201335 months at Mettu Woreda, Illu Aba Bor Zone, Ethiopia: A community-based cross-sectional study",
+      "description": "Background Measles remains a significant global health threat, especially for Children. Its prevention can be achieved through a safe and affordable vaccine. However, there is a paucity of information about the uptake of the measles second-dose vaccine and as\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342931",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0342931.g002&size=inline",
+      "publishedAt": "2026-02-12 14:00:00",
+      "content": "Abstract Background Measles remains a significant global health threat, especially for Children. Its prevention can be achieved through a safe and affordable vaccine. However, there is a paucity of\u2026 [+37345 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.634411",
+      "internal_id": "ccb0befcfea3a9f15c1317b533fb0382889d04a2948ef53dca6d67000a052a18",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27571,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ronald Petie, Eduardo de Freitas Costa, Christian Kampichler, Roy Slaterus, Jose L. Gonzales",
+      "title": "Identifying avian influenza hotspots in wild birds in the Netherlands",
+      "description": "Highly Pathogenic Avian Influenza (HPAI) threatens wild and domestic birds, mammals, and humans. The global spread of HPAI through wild birds requires timely, spatially accurate detection for enhanced preventive measures. However, detecting outbreaks in wildl\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341829",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0341829.g009&size=inline",
+      "publishedAt": "2026-02-12 14:00:00",
+      "content": "Citation: Petie R, Costa EdF, Kampichler C, Slaterus R, Gonzales JL (2026) Identifying avian influenza hotspots in wild birds in the Netherlands. PLoS One 21(2): e0341829. https://doi.org/10.1371/\u2026 [+34141 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.846905",
+      "internal_id": "b871a67dbb91db2418e6c8431df8bade9415b581c618c34121f5acf6f0b98d42",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27576,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Leah C. Katzelnick, Emmanuelle Quentin, Savannah Colston, Thien-An Ha, Paulina Andrade, Joseph N. S. Eisenberg, Patricio Ponce, Josefina Coloma, Varsovia Cevallos",
+      "title": "Correction: Increasing transmission of dengue virus across ecologically diverse regions of Ecuador and associated risk factors",
+      "description": "",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013993",
+      "urlToImage": null,
+      "publishedAt": "2026-02-12 14:00:00",
+      "content": "An additional affiliation is missing for the fifth author. Paulina Andrade is also affiliated with the Biotechnology Department, School of Environmental Sciences, Universidad San Francisco de Quito, \u2026 [+623 chars]",
+      "retrievedAt": "2026-02-13 19:20:48.466864",
+      "internal_id": "d54cd64296bacb732ea3ec070d19ffc21cedf527d0fc8fdc2c848b9ce864b803",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27577,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yifan Xing, Rong Lu, Wenjia Tian, Zelin Li, Wei Zhang, Kai Xu, Liangli Deng, Shuangfeng Fan",
+      "title": "Bacterial community structure and diversity of common mosquito species in Chengdu: Insights from PacBio third-generation sequencing and public health implications",
+      "description": "Author summary Mosquito-borne diseases like dengue and Japanese encephalitis disproportionately affect subtropical regions. Understanding how mosquitoes\u2019 native microbes influence disease transmission remains a critical challenge, especially in under-resource\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013177",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013177.g010&size=inline",
+      "publishedAt": "2026-02-12 14:00:00",
+      "content": "Introduction As a critical medical vector, mosquitoes transmit a spectrum of diseases, including Japanese encephalitis, dengue fever, and yellow fever, resulting in approximately 1 million deaths an\u2026 [+47596 chars]",
+      "retrievedAt": "2026-02-13 19:20:48.491130",
+      "internal_id": "507267729eed9d6ba72bccc2f36b0500cd4305f94bb4d85c7c23b8eaf7cfc685",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27579,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Wisdom Deborah Cleanclay, Fabrice Banadzem Kernyuy, Irrinus Fonyuy Kintung, Nina Ghislaine Yensii, Joan Amban Chick, Agnes Mbiaya Mbeng Obi",
+      "title": "Evaluating paratransgenesis using engineered symbiotic bacteria for Plasmodium inhibition in mosquito vectors: A systematic review",
+      "description": "Author summary Malaria is one of the key world health problems, especially in sub-Saharan Africa, where the rising resistance to insecticides and antimalarial drugs is posing a threat to the current control mechanisms. New strategies are urgently needed to br\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013654",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013654.g003&size=inline",
+      "publishedAt": "2026-02-12 14:00:00",
+      "content": "Abstract Malaria is a significant health problem in the world and has been increased by the emerging resistance to insecticides and antimalarial drugs. New measures must therefore be implemented as \u2026 [+47681 chars]",
+      "retrievedAt": "2026-02-13 19:20:49.078236",
+      "internal_id": "b40a0827f6c2a3b042fdb752c283eb914221368789fec84058f16e0e468c290a",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27580,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Brian N. Dang, Karen Kikuta, Trevon Fuller, Patricia Brasil, Zilton Vasconcelos, Dulce H. G. Orofino, Maria Elizabeth L. Moreira, Karin Nielsen-Saines",
+      "title": "Cardiac findings in infants with in utero exposure to Zika virus \u2013 a follow up longitudinal study",
+      "description": "Author summary Zika virus (ZIKV) is best known for affecting the fetal brain and causing Congenital Zika Syndrome (CZS), but growing evidence suggests it may also impact heart development. We studied infants born to mothers with PCR-confirmed ZIKV infection d\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014009",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014009.g002&size=inline",
+      "publishedAt": "2026-02-12 14:00:00",
+      "content": "Abstract Background Zika virus (ZIKV) is primarily known for its impact on the fetal central nervous system potentially leading to Congenital Zika Syndrome (CZS). Emerging evidence suggests ZIKV ma\u2026 [+41648 chars]",
+      "retrievedAt": "2026-02-13 19:20:49.453357",
+      "internal_id": "726086b232d5146fbb0b026726ba7c3d58d6c2edc572699e2b7accf9c443d045",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27556,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The New Republic",
+      "author": "Hafiz Rashid",
+      "title": "Six Republicans Rebuke Trump\u2019s Canada Tariffs\u2014and One Democrat Doesn\u2019t",
+      "description": "Donald Trump got a rare rebuke from the House Wednesday night as six Republicans joined all but one Democrat to vote against his tariffs against Canada. Representatives Don Bacon of Nebraska, Dan Newhouse of Washington, Kevin Kiley of California, Thomas Massi\u2026",
+      "url": "https://newrepublic.com/post/206508/six-republicans-vote-against-trump-canada-tariffs-one-democrat-doesnt",
+      "urlToImage": "https://images.newrepublic.com/2f6f095ec4d97e00d86c20adbde9afe06a53cbb6.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg",
+      "publishedAt": "2026-02-12 13:46:58",
+      "content": "Measles does not have a cure. The highly contagious disease can spur a blotchy rash, pink eye, a high fever, white spots inside the mouth, full body aches, pneumonia, and severe dehydration, and can \u2026 [+829 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.176983",
+      "internal_id": "5819c85e1bf879c7d182fd929178e3bc62be7633b2cebb0480008b610fdc3eff",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27564,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are health officials urging measles vaccination? #health",
+      "description": "Public health alerts intensify as measles spreads Health officials in the United States and Mexico have stepped up pleas for vaccination as confirmed measles cases rise in multiple settings. U.S. public health leaders have publicly urged people to get immuniz\u2026",
+      "url": "https://alltoc.com/health/why-are-health-officials-urging-measles-vaccination",
+      "urlToImage": "https://alltoc.com/cdn/1041/og.png",
+      "publishedAt": "2026-02-12 12:07:12",
+      "content": "Health officials in the United States and Mexico have stepped up pleas for vaccination as confirmed measles cases rise in multiple settings. U.S. public health leaders have publicly urged people to g\u2026 [+1516 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.298569",
+      "internal_id": "d7e3909ffa8999fc9685ee362259addb6e4a93137388b30c22b6440213fd65c4",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27574,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Ludmila \u017dl\u00e1bkov\u00e1",
+      "title": "Na Kr\u00e1lov\u00e9hradecku potvrdili prvn\u00ed leto\u0161n\u00ed ohnisko pta\u010d\u00ed ch\u0159ipky v komer\u010dn\u00edm chovu",
+      "description": "V komer\u010dn\u00edm velkochovu kachen v obci Kosi\u010dky - T\u0159esice na Kr\u00e1lov\u00e9hradecku byla potvrzena vysoce patogenn\u00ed pta\u010d\u00ed ch\u0159ipka H5N1. V chovu spole\u010dnosti Perena se v sou\u010dasn\u00e9 dob\u011b nach\u00e1z\u00ed bezm\u00e1la 6800 kus\u016f chovn\u00fdch kachen. Ve\u0161ker\u00e1 dr\u016fbe\u017e v chovu bude utracena. Jde o \u2026",
+      "url": "https://www.novinky.cz/clanek/domaci-na-kralovehradecku-potvrdili-prvni-letosni-ohnisko-ptaci-chripky-v-komercnim-chovu-40562271",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_gU_f/MupOs2.jpeg?fl=cro,0,97,1280,720%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2026-02-12 11:46:21",
+      "content": "Na veterin\u00e1e se chovatel\u00e9 obr\u00e1tili pot\u00e9, co zaznamenali pokles sn\u00e1ky. Po odebr\u00e1n\u00ed vzork byl v\u00fdskyt pta\u00ed chipky potvrzen. Kolem ohniska bude vymezeno t\u00edkilometrov\u00e9 ochrann\u00e9 p\u00e1smo a desetikilometrov\u00e9 p\u2026 [+1807 chars]",
+      "retrievedAt": "2026-02-13 19:20:48.059478",
+      "internal_id": "27636a1669dda93d04e1908fc71c3c0ee2b7026a93524ae1384a58da17cd1d43",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27565,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases rising in the U.S. and Mexico? #health",
+      "description": "The outbreak picture and public health response Public health officials in both countries are reporting growing measles activity and urging vaccination to contain spread. In Mexico, a notable outbreak prompted state authorities in Jalisco to increase health s\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s-and-mexico",
+      "urlToImage": "https://alltoc.com/cdn/1041/og.png",
+      "publishedAt": "2026-02-12 09:53:53",
+      "content": "Public-health officials in both countries are reporting growing measles activity and urging vaccination to contain spread. In Mexico, a notable outbreak prompted state authorities in Jalisco to incre\u2026 [+1552 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.365534",
+      "internal_id": "a52025aa4bc1b0dc5db3c640d7f98dc6b1c75ba1906240f22b69402fd8a71505",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27572,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is H5N1 appearing in Antarctica? #science",
+      "description": "First confirmed avian flu die off on the Antarctic continent Scientists have recorded an unprecedented event: highly pathogenic avian influenza (H5N1) killed more than 50 skuas in Antarctica, marking the first known wildlife die\u2011off from this strain on the co\u2026",
+      "url": "https://alltoc.com/science/why-is-h5n1-appearing-in-antarctica",
+      "urlToImage": "https://alltoc.com/cdn/1041/og.png",
+      "publishedAt": "2026-02-12 09:50:12",
+      "content": "Scientists have recorded an unprecedented event: highly pathogenic avian influenza (H5N1) killed more than 50 skuas in Antarctica, marking the first known wildlife dieoff from this strain on the cont\u2026 [+1587 chars]",
+      "retrievedAt": "2026-02-13 19:20:48.001642",
+      "internal_id": "86f411108576cf7fccd2daedbcb7137a6ba4d787dce42c3f3714e4bc52163359",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27562,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What\u2019s driving recent measles outbreaks? #health",
+      "description": "Spread, root causes and public health implications Health officials in multiple countries are investigating rising measles activity after clusters of cases appeared where coverage has slipped. In Mexico, authorities warned the nation could lose its measles\u2011fr\u2026",
+      "url": "https://alltoc.com/health/whats-driving-recent-measles-outbreaks",
+      "urlToImage": "https://alltoc.com/cdn/1041/og.png",
+      "publishedAt": "2026-02-12 09:32:52",
+      "content": "Health officials in multiple countries are investigating rising measles activity after clusters of cases appeared where coverage has slipped. In Mexico, authorities warned the nation could lose its m\u2026 [+1538 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.273050",
+      "internal_id": "2ceec35e7cc26aa8b27abd5dd2676513d277e95da3acfb01809a4967735c670b",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27554,
+      "query": [
+        "rabies",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": null,
+      "title": "\u00d8get eftersp\u00f8rgsel p\u00e5 rejsevacciner giver v\u00e6kst hos Bavarian",
+      "description": "Vacciner mod TBE og rabies driver v\u00e6kst hos Bavarian Nordic, mens chikungunya-vaccine har lagt godt fra land.",
+      "url": "https://www.bt.dk/erhverv/oeget-efterspoergsel-paa-rejsevacciner-giver-vaekst-hos-bavarian",
+      "urlToImage": "https://www.bt.dk/brands/bt/share.jpg",
+      "publishedAt": "2026-02-12 08:26:44",
+      "content": "\u00d8get eftersp\u00f8rgsel p\u00e5 rejsevacciner er med til at give vaccineselskabet Bavarian Nordic v\u00e6kst i oms\u00e6tningen. Selskabet har torsdag morgen offentliggjort forel\u00f8bige tal fra 2025. Her fremg\u00e5r det, at\u2026 [+1082 chars]",
+      "retrievedAt": "2026-02-13 19:20:46.765109",
+      "internal_id": "dd83e3f7be45388f07f22c265565b82151ec60461bb880023d467efa2c02dd6e",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27578,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Tomshw.it",
+      "author": "Antonello Buzzi",
+      "title": "Hawaii, quasi ogni uccello trasmette la malaria aviaria",
+      "description": "La malaria aviaria alle Hawaii si conferma una minaccia pervasiva e difficile da contrastare: un nuovo studio pubblicato sulla rivista Nature Communications il 10 febbraio rivela che praticamente tutt...",
+      "url": "https://www.tomshw.it/scienze/malaria-aviaria-colpisce-quasi-tutti-gli-uccelli-hawaiani-2026-02-12",
+      "urlToImage": "https://www.tomshw.it/storage/media/2026/02/83570/malaria-aviaria-colpisce-quasi-tutti-gli-uccelli-hawaiani-2026-OAvyiz.jpg",
+      "publishedAt": "2026-02-12 08:09:37",
+      "content": "La malaria aviaria alle Hawaii si conferma una minaccia pervasiva e difficile da contrastare: un nuovo studio pubblicato sulla rivista Nature Communications il 10 febbraio rivela che praticamente tut\u2026 [+4240 chars]",
+      "retrievedAt": "2026-02-13 19:20:49.032476",
+      "internal_id": "28c83990831efab890104bb7451c02e1e2a3c582bc3dc13c8f48cd1ab1398fab",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27561,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases rising now? #health",
+      "description": "How outbreaks have spread and the public health response Health officials in multiple countries are reporting growing measles outbreaks. In the United States, confirmed cases have appeared in several states and public health authorities are contacting people \u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-rising-now",
+      "urlToImage": "https://alltoc.com/cdn/1039/og.png",
+      "publishedAt": "2026-02-12 08:07:18",
+      "content": "Health officials in multiple countries are reporting growing measles outbreaks. In the United States, confirmed cases have appeared in several states and public health authorities are contacting peop\u2026 [+1672 chars]",
+      "retrievedAt": "2026-02-13 19:20:47.260762",
+      "internal_id": "8b113e09c8e147d01e29db64dcd72b157b103b725149243e4cfc65705929a913",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27553,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Can you get rabies from indirect contact?",
+      "description": "Can You Get Rabies From Indirect Contact? Understanding the Real Risks The risk of contracting rabies from indirect contact is extremely low. However, understanding the nuances of transmission is crucial for public health. Rabies: A Deadly But Preventable Dis\u2026",
+      "url": "https://www.lifesciencesworld.com/can-you-get-rabies-from-indirect-contact/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-12 07:44:24",
+      "content": "The risk of contracting rabies from indirect contact is extremely low. However, understanding the nuances of transmission is crucial for public health. Rabies: A Deadly But Preventable Disease Rabi\u2026 [+8185 chars]",
+      "retrievedAt": "2026-02-13 19:20:46.720732",
+      "internal_id": "fe83700143549ff927b612368a35bc612f84b94befe8b7e8dcc03fd5d19a24e6",
+      "publishedAtLabel": "Feb 12"
+    },
     {
       "id": 27540,
       "query": [
@@ -18734,96 +19275,6 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26510,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Live Science",
-      "author": "Nicoletta Lanese",
-      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
-      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
-      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
-      "publishedAt": "2025-12-28 15:00:00",
-      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
-      "retrievedAt": "2025-12-29 19:06:37.716406",
-      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26512,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
-      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 14:10:33",
-      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.025368",
-      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26513,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Diario EL PAIS Uruguay",
-      "author": "Nicolas Lauber",
-      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
-      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
-      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
-      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
-      "publishedAt": "2025-12-28 13:45:17",
-      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
-      "retrievedAt": "2025-12-29 19:06:40.126081",
-      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26509,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Madhyamam.com",
-      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
-      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
-      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
-      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
-      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
-      "publishedAt": "2025-12-28 10:24:23",
-      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
-      "retrievedAt": "2025-12-29 19:06:37.550099",
-      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26511,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
-      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 10:04:39",
-      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.014393",
-      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]
