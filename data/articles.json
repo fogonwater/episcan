@@ -1,8 +1,314 @@
 {
-  "last_updated": "2026-02-13 19:20",
-  "count_articles_total": 1069,
-  "count_articles_new": 30,
+  "last_updated": "2026-02-14 07:18",
+  "count_articles_total": 1093,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 27599,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u682a\u5f0f\u4f1a\u793eGRAND\u306b\u611f\u8b1d\u72b6\u3092\u8d08\u5448 \u8c4a\u4e2d\u3064\u3070\u3055\u516c\u5712\u300ema-zika\u300f\u6574\u5099\u306b\u8ca2\u732e",
+      "description": "[\u8c4a\u4e2d\u5e02] \u8c4a\u4e2d\u5e02\u3067\u306f\u3001\u307e\u3061\u306e\u5c06\u6765\u50cf\u300c\u307f\u3089\u3044\u5275\u9020\u90fd\u5e02 \u3068\u3088\u306a\u304b\uff5e\u660e\u65e5\u304c\u3082\u3063\u3068\u697d\u3057\u307f\u306a\u307e\u3061\uff5e\u300d\u306e\u5b9f\u73fe\u306b\u5411\u3051\u3001\u4f01\u696d\u7248\u3075\u308b\u3055\u3068\u7d0d\u7a0e\u306a\u3069\u3001\u3055\u307e\u3056\u307e\u306a\u304b\u305f\u3061\u3067\u5e02\u306e\u53d6\u308a\u7d44\u307f\u3092\u5fdc\u63f4\u3044\u305f\u3060\u3051\u308b\u4f01\u696d\u3068\u306e\u5354\u50cd\u3092\u9032\u3081\u3066\u3044\u307e\u3059\u3002 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000953.000078420.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/78420/953/78420-953-0f2aea1a1e9a954d1dab51984eeb7f59-2048x1365.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-02-13 06:49:27",
+      "content": "Copyright \u00a9 PR TIMES Corporation All Rights Reserved.",
+      "retrievedAt": "2026-02-14 07:18:51.411417",
+      "internal_id": "0e8e8eb49c537843d569462d37da17304a4b6241e138c21d756fa5bf0a00a1a3",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27598,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u682a\u5f0f\u4f1a\u793e\u30a2\u30c9\u30df\u30cb\u306b\u611f\u8b1d\u72b6\u3092\u8d08\u5448 \u8c4a\u4e2d\u3064\u3070\u3055\u516c\u5712\u300ema-zika\u300f\u6574\u5099\u306b\u8ca2\u732e",
+      "description": "[\u8c4a\u4e2d\u5e02] \u8c4a\u4e2d\u5e02\u3067\u306f\u3001\u307e\u3061\u306e\u5c06\u6765\u50cf\u300c\u307f\u3089\u3044\u5275\u9020\u90fd\u5e02 \u3068\u3088\u306a\u304b\uff5e\u660e\u65e5\u304c\u3082\u3063\u3068\u697d\u3057\u307f\u306a\u307e\u3061\uff5e\u300d\u306e\u5b9f\u73fe\u306b\u5411\u3051\u3001\u4f01\u696d\u7248\u3075\u308b\u3055\u3068\u7d0d\u7a0e\u306a\u3069\u3001\u3055\u307e\u3056\u307e\u306a\u304b\u305f\u3061\u3067\u5e02\u306e\u53d6\u308a\u7d44\u307f\u3092\u5fdc\u63f4\u3044\u305f\u3060\u3051\u308b\u4f01\u696d\u3068\u306e\u5354\u50cd\u3092\u9032\u3081\u3066\u3044\u307e\u3059\u3002 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000952.000078420.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/78420/952/78420-952-42d0b78b250cf0a31efb30e6790b2d68-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-02-13 05:56:40",
+      "content": "Copyright \u00a9 PR TIMES Corporation All Rights Reserved.",
+      "retrievedAt": "2026-02-14 07:18:51.398391",
+      "internal_id": "cda59e17042e555a30ad48ddbf5069bc6f5ec78c5fdb6a307ff7d48f674cdcb6",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27583,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "How can you tell if a possum has rabies?",
+      "description": "How to Identify Rabies in a Possum: Signs and Symptoms Determining if a possum has rabies can be challenging, but observing abnormal behavior such as daytime activity, aggression, or unsteadiness, combined with physical signs, may indicate the need for expert\u2026",
+      "url": "https://www.lifesciencesworld.com/how-can-you-tell-if-a-possum-has-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-13 04:23:37",
+      "content": "Determining if a possum has rabies can be challenging, but observing abnormal behavior such as daytime activity, aggression, or unsteadiness, combined with physical signs, may indicate the need for e\u2026 [+8538 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.120338",
+      "internal_id": "88dbf121fd33f84eb0a17bea487d94257b36fd1f826561236b3fa8c5db5d9a73",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27585,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "josefine.jacobsen@amedia.no (Josefine Glerup Jacobsen)",
+      "title": "Flere og flere danskere lader sig vaccinere mod rabies: 'N\u00e5r sygdommen bryder ud, er den 100 procent d\u00f8delig'",
+      "description": "Danske L\u00e6gers Vaccinations Service har oplevet en fordobling af antallet af danskere, der lader sig vaccinere mod den alvorlige virussygdom, som kan f\u00f8re til en d\u00f8delig hjernebet\u00e6ndelse.",
+      "url": "https://www.bt.dk/sundhed/flere-og-flere-danskere-lader-sig-vaccinere-mod-rabies-naar-sygdommen-bryder-ud-er-den-100-procent-doedelig",
+      "urlToImage": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/144442418.webp?t[strip]=true&t[resize][width]=1440&t[quality]=70&accessToken=44e4f14a1245396e18cd9a2938f90b6c413aff839eb0df266a45e235ecdef485",
+      "publishedAt": "2026-02-13 04:10:33",
+      "content": "P\u00e5 popul\u00e6re destinationer som Thailand og Tyrkiet l\u00f8ber der ofte gadehunde rundt mellem de mange turister. Men k\u00e6ler du med hundene og bliver bidt eller kradset, kan det g\u00e5 grueligt galt. Og det er\u2026 [+2909 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.190458",
+      "internal_id": "ead7cc0cfed984d3393905dcabf81dd96c63ee4f99df4e49499714f6594201fa",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27588,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How bad is the measles resurgence? #health",
+      "description": "Current spread and public health response Outbreaks are appearing in multiple places and health officials are urging stronger vaccine uptake. U.S. authorities and state health departments have reported rising confirmed cases, while officials in Mexico have an\u2026",
+      "url": "https://alltoc.com/health/how-bad-is-the-measles-resurgence",
+      "urlToImage": "https://alltoc.com/cdn/1043/og.png",
+      "publishedAt": "2026-02-13 04:06:53",
+      "content": "Outbreaks are appearing in multiple places and health officials are urging stronger vaccine uptake. U.S. authorities and state health departments have reported rising confirmed cases, while officials\u2026 [+1593 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.571291",
+      "internal_id": "2760be1b3411ba33c11544a35439cdc52dcde65f6e1c5741e60b31637adcc033",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27590,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Measles outbreak at Florida university climbs to nearly 60 cases",
+      "description": "Measles cases at Ave Maria University near Naples, Florida, continue to soar, with the outbreak climbing to nearly 60 cases this week. Cristian Benavides reports.",
+      "url": "https://www.cbsnews.com/video/measles-outbreak-at-florida-university-climbs-to-nearly-60-cases/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/02/13/51d9eaa1-40f0-4e85-854a-93cf03697845/thumbnail/1200x630/680df51cc0674666180c120130630015/cbsn-fusion-measles-outbreak-at-florida-university-climbs-to-nearly-60-cases-thumbnail.jpg",
+      "publishedAt": "2026-02-13 01:00:00",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-02-14 07:18:49.709978",
+      "internal_id": "dfec50bef345a330f36eb987dc7dd5a7250943b3c9b3e40efcd3bf2b04a081b7",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27584,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Do I need a rabies shot if there was a bat in my house?",
+      "description": "Do I Need a Rabies Shot If There Was a Bat in My House? The answer is often yes, especially if direct contact with the bat cannot be definitively ruled out. It\u2019s crucial to seek immediate medical attention and consult with a healthcare professional or your lo\u2026",
+      "url": "https://www.lifesciencesworld.com/do-i-need-a-rabies-shot-if-there-was-a-bat-in-my-house/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-13 00:16:05",
+      "content": "The answer is often yes, especially if direct contact with the bat cannot be definitively ruled out. It\u2019s crucial to seek immediate medical attention and consult with a healthcare professional or you\u2026 [+7053 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.166218",
+      "internal_id": "ad31f48daccc647c871926cd3756f884f8abe36c439d5b06ce546ef15effcf54",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27589,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Is measles spreading in Mexico and the US? #health",
+      "description": "Growing outbreaks and public health responses Health authorities in both Mexico and the United States are confronting rising measles activity that has prompted alerts and vaccination appeals. Mexican states including Jalisco have declared health alerts and re\u2026",
+      "url": "https://alltoc.com/health/is-measles-spreading-in-mexico-and-the-us",
+      "urlToImage": "https://alltoc.com/cdn/1043/og.png",
+      "publishedAt": "2026-02-13 00:07:49",
+      "content": "Health authorities in both Mexico and the United States are confronting rising measles activity that has prompted alerts and vaccination appeals. Mexican states including Jalisco have declared health\u2026 [+1557 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.640811",
+      "internal_id": "eec47326e492a75e8840699a66726dfd8862f43fee9a4ce770606869c282ed87",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27596,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Xavier Rod\u00f3, Pamela P. Martinez, Amir Siraj, Mercedes Pascual",
+      "title": "Author Correction: Malaria trends in Ethiopian highlands track the 2000 \u2018slowdown\u2019 in global warming",
+      "description": "Nature Communications - Author Correction: Malaria trends in Ethiopian highlands track the 2000 \u2018slowdown\u2019 in global warming",
+      "url": "https://www.nature.com/articles/s41467-026-69644-1",
+      "urlToImage": null,
+      "publishedAt": "2026-02-13 00:00:00",
+      "content": "ICREA and CLIMA (Climate and Health) Program, ISGlobal, Barcelona, Spain Xavier Rod\u00f3 Department of Epidemiology, Center for Communicable Disease Dynamics, T.H. Chan School of Public He\u2026 [+341 chars]",
+      "retrievedAt": "2026-02-14 07:18:51.211487",
+      "internal_id": "ec748d9c0cc444cd3485e065e1e8ae9b518935aa15278a6d435da608282f6293",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27597,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Karen O\u2019Leary",
+      "title": "Climate change could hinder malaria eradication efforts",
+      "description": "Climate change could result in an additional 123 million malaria cases in Africa by 2050, driven mostly by extreme weather events \u2014 which calls for climate-resilient malaria control strategies.",
+      "url": "https://www.nature.com/articles/d41591-026-00009-3",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41591-026-00009-3/d41591-026-00009-3_52055938.jpg",
+      "publishedAt": "2026-02-13 00:00:00",
+      "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain the best experience, we recommend you use a more up to date browser (or turn off compatibi\u2026 [+139 chars]",
+      "retrievedAt": "2026-02-14 07:18:51.224834",
+      "internal_id": "0bb68830ce301b7d40a36dc36db45ba21536006aa8f592effeaa55db3c8fbc22",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27601,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Royal Society of Chemistry",
+      "author": "Satheesh Natarajan, David Skrodzki, Nandhakumar Ponnusamy, Dipanjan Pan, Ketan Dighe",
+      "title": "Clade-Specific, Amplification-Free Molecular Lateral Flow Platform for On-Site Detection of Mpox",
+      "description": "Chem. Commun., 2026, Accepted ManuscriptDOI: 10.1039/D5CC06114H, CommunicationSatheesh Natarajan, David Skrodzki, Nandhakumar Ponnusamy, Dipanjan Pan, Ketan DigheMpox, an urgent global health threat, requires rapid and accessible Clade-specific diagnostics. H\u2026",
+      "url": "https://pubs.rsc.org/en/content/articlelanding/2026/cc/d5cc06114h",
+      "urlToImage": null,
+      "publishedAt": "2026-02-13 00:00:00",
+      "content": "Mpox, an urgent global health threat, requires rapid and accessible Clade-specific diagnostics. Here, a portable amplification-free molecular lateral flow assay was developed to distinguish Mpox Clad\u2026 [+2044 chars]",
+      "retrievedAt": "2026-02-14 07:18:51.742333",
+      "internal_id": "e8c20055abba809efd5a3093da6ab8488d3debafcbbdad69133fcdb603b0b2ea",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27591,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "esquire.com",
+      "author": "Chris Hatler",
+      "title": "U.S. States Are Taking Steps to Defy the Reign of Secretary Snake Oil",
+      "description": "More governors should join the Global Outbreak Alert and Response Network. Then maybe wouldn\u2019t have measles outbreaks.",
+      "url": "https://www.esquire.com/news-politics/politics/a70336549/new-york-illinois-california-who-rfk-jr/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/secretary-of-health-and-human-services-robert-f-kennedy-jr-news-photo-1770938063.pjpeg?crop=1xw:0.75013xh;center,top&resize=1200:*",
+      "publishedAt": "2026-02-12 23:14:00",
+      "content": "(Permanent Musical Accompaniment to This Post) Being our semi-regular weekly survey of what's going down in the several states where, as we know, the real work of governmentin' gets done, and where \u2026 [+7525 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.733927",
+      "internal_id": "acb9a698c716ee978de02b08c7d6ce3b06c02f1e687dd2ae6f3c451230936188",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27586,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Elizabeth Bruenig",
+      "title": "This Is How a Child Dies of Measles",
+      "description": "When your family becomes a data point in an outbreak",
+      "url": "https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/KBL1lfa4be-MhPa8WcGNhxKPYT0=/234x246:1956x1143/1200x625/media/img/mt/2026/02/2026_02_12_Bruenig_Measles_death_final-2/original.png",
+      "publishedAt": "2026-02-12 20:30:00",
+      "content": "This article was featured in the One Story to Read Today newsletter. Sign up for it here. The birthday-party invitation said siblings welcome, which means you can bring your 11-month-old son while y\u2026 [+18192 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.454553",
+      "internal_id": "baa00ce06037a5ded6c57fd910fefa34e27e22a114db0f4f30337f0b3caa0f2a",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27587,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases rising? #health",
+      "description": "Outbreaks linked to falling immunity and exposure events Public health officials are reporting rising measles activity in multiple places, and authorities are urging vaccination as the primary defense. Several factors are driving the uptick: lower vaccination\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-rising",
+      "urlToImage": "https://alltoc.com/cdn/1043/og.png",
+      "publishedAt": "2026-02-12 20:08:54",
+      "content": "Public health officials are reporting rising measles activity in multiple places, and authorities are urging vaccination as the primary defense. Several factors are driving the uptick: lower vaccinat\u2026 [+1610 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.558406",
+      "internal_id": "0b4e00af3e3dd26a9584d9834532066394a517ff21614004ceea42eb5f5b416f",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27600,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Advaita Suresh",
+      "title": "CDC warns travelers as virus outbreak hits Seychelles: Symptoms, precautions and more",
+      "description": "The CDC has issued a health advisory for travelers to the Seychelles after a chikungunya virus outbreak was confirmed. Spread by mosquitoes, chikungunya causes fever, joint pain, rashes, and fatigue, with some facing prolonged joint pain for months to years. \u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/cdc-warns-travelers-as-virus-outbreak-hits-seychelles-symptoms-precautions-and-more/articleshow/128274862.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128274862,width-1200,height-630,imgsize-160564,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-12 20:07:48",
+      "content": "The Centers for Disease Control and Prevention (CDC) has issued a health advisory for travelers to the Seychelles, a famous island destination popular for its white-sand beaches, crystal-clear turquo\u2026 [+2074 chars]",
+      "retrievedAt": "2026-02-14 07:18:51.578816",
+      "internal_id": "159663336bd64fc7a3515aa9d12a8404b0bb4bc07067c96236b3a16361b143cf",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27592,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "PAT BYWATER | Work & Play Deputy Team Leader",
+      "title": "New measles case reported in Lancaster County",
+      "description": "Another case of measles has been confirmed in Lancaster County, boosting the total here to six since last week, the state reported Thursday.",
+      "url": "https://lancasteronline.com/news/local/new-measles-case-reported-in-lancaster-county/article_dae78f52-af1c-480c-b876-3436b8de5bca.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/67/667294f2-6c4d-11e9-b2c5-af037d34783d/5cc9fde0a0ad7.image.jpg?crop=1200%2C630%2C0%2C76",
+      "publishedAt": "2026-02-12 19:49:00",
+      "content": "Another case of measles has been confirmed in Lancaster County, boosting the total here to six since last week, the state reported Thursday. The single case confirmed Thursday was a person who had a\u2026 [+2851 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.860327",
+      "internal_id": "86cdbcbdcfdd642b7b899206d0d87008502ce551618c7603bb49765332dec634",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27595,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Americana confirma primeira morte por dengue em 2026",
+      "description": "Larvas do mosquito do Aedes aegypti, transmissor da dengue Carlos Bassan/Prefeitura de Campinas A Prefeitura de Americana (SP) confirmou, nesta quinta-feira (12), a primeira morte por dengue registrada em 2026. O paciente \u00e9 um homem, de 56 anos, que tinha hip\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/12/americana-confirma-primeira-morte-por-dengue-em-2026.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/IUlSHBS78bc9dRlPe_5mMznwrD0=/2364x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/A/r/qwpfvgRdAxAcKwA223fg/211124-dengue-aedes-aegypti-larvas-e-mosquiro-foto-carlos-bassan-16-.jpg",
+      "publishedAt": "2026-02-12 19:20:51",
+      "content": "O caso \u00e9 o primeiro da regi\u00e3o de Campinas no ano. Segundo a administra\u00e7\u00e3o municipal, a v\u00edtima residia no bairro Jardim da Paz e estava internado em uma hospital da rede privada. A v\u00edtima faleceu no\u2026 [+1620 chars]",
+      "retrievedAt": "2026-02-14 07:18:50.801701",
+      "internal_id": "71b0ea5eedd82b12916094dc089ab3b4c28fb55fabc8adffed3065557f9cd270",
+      "publishedAtLabel": "Feb 12"
+    },
     {
       "id": 27555,
       "query": [
@@ -833,6 +1139,24 @@
       "publishedAtLabel": "Feb 11"
     },
     {
+      "id": 27593,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPXI Pittsburgh",
+      "author": "Natalie Dreier",
+      "title": "Measles outbreaks surge in the US with over 730 cases reported",
+      "description": "Measles is spreading in several parts of the country. There have been more than 730 cases in the country in 2026.",
+      "url": "https://www.wpxi.com/news/trending/measles-outbreaks-what-know-about-signs-symptoms/ZXSRMOU3LRDCLA5XAV3J5OZR5M/",
+      "urlToImage": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FC2IWPKMYDZGXXFUVIDNUWRZHWI.jpeg?auth=cba16faab1fb133d4f97f3a53c358460c5fbb305a7c21bc517658f7519764d7c&width=1200&height=630&smart=true",
+      "publishedAt": "2026-02-11 16:44:19",
+      "content": "Measles is spreading in several parts of the country. There have been more than 730 cases in the country in 2026. An outbreak last fall in South Carolina sickened more than 900 people, mostly childre\u2026 [+3409 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.954498",
+      "internal_id": "1ef44b11aa5a35e4638adcac456fdba4792144725ac30b0f0c9c4271f4c33820",
+      "publishedAtLabel": "Feb 11"
+    },
+    {
       "id": 27538,
       "query": [
         "mpox"
@@ -1227,6 +1551,24 @@
       "content": "Dne 26. ledna byla na ece Morav v Uhersk\u00e9m Hraditi nalezena uhynul\u00e1 labu, u kter\u00e9 byl ve St\u00e1tn\u00edm veterin\u00e1rn\u00edm \u00fastavu Praha laboratorn potvrzen vysoce patogenn\u00ed virus pta\u00ed chipky subtypu H5N1, upozorn\u2026 [+2129 chars]",
       "retrievedAt": "2026-02-12 07:27:54.498900",
       "internal_id": "48d0ea0214cc99a7dffb9b6c9c446cf7a6605483783547f31682f6f80bfd97e4",
+      "publishedAtLabel": "Feb 10"
+    },
+    {
+      "id": 27594,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "Lancaster County confirms first measles case in ongoing outbreak",
+      "description": "The South Carolina Department of Public Health confirmed the first case of measles in a Lancaster County resident Tuesday.",
+      "url": "https://www.wsoctv.com/news/local/lancaster-county-confirms-first-measles-case-ongoing-outbreak/4HR5YXFANFADLPNRFZ6EJX6N6I/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FCHK35NPWDNHDHLTNPXZDNCY6WE.jpeg?auth=de661b912a9f02fbb035a287b9541aa387990dcd9c757b944010360785222729&width=1200&height=630&smart=true",
+      "publishedAt": "2026-02-10 19:44:08",
+      "content": "LANCASTER COUNTY, S.C. \u2014 The South Carolina Department of Public Health confirmed the first case of measles in a Lancaster County resident Tuesday. The department is reporting 13 new cases of measle\u2026 [+742 chars]",
+      "retrievedAt": "2026-02-14 07:18:49.967370",
+      "internal_id": "ae667c3edaf133a686647e504b8dedf0479ea845261b8942f81d0ae3f5d1231d",
       "publishedAtLabel": "Feb 10"
     },
     {
@@ -19275,6 +19617,96 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26510,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Live Science",
+      "author": "Nicoletta Lanese",
+      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
+      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
+      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
+      "publishedAt": "2025-12-28 15:00:00",
+      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
+      "retrievedAt": "2025-12-29 19:06:37.716406",
+      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26512,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
+      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 14:10:33",
+      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.025368",
+      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26513,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Diario EL PAIS Uruguay",
+      "author": "Nicolas Lauber",
+      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
+      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
+      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
+      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
+      "publishedAt": "2025-12-28 13:45:17",
+      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
+      "retrievedAt": "2025-12-29 19:06:40.126081",
+      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26509,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Madhyamam.com",
+      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
+      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
+      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
+      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
+      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
+      "publishedAt": "2025-12-28 10:24:23",
+      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
+      "retrievedAt": "2025-12-29 19:06:37.550099",
+      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
+      "publishedAtLabel": "Dec 28"
+    },
+    {
+      "id": 26511,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
+      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2025-12-28 10:04:39",
+      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
+      "retrievedAt": "2025-12-29 19:06:39.014393",
+      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]
