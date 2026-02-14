@@ -1,8 +1,369 @@
 {
-  "last_updated": "2026-02-14 07:18",
-  "count_articles_total": 1093,
-  "count_articles_new": 19,
+  "last_updated": "2026-02-14 19:11",
+  "count_articles_total": 1108,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 27606,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Cristian  Benavides",
+      "title": "Measles cases at university in Florida soar to nearly 60",
+      "description": "Twenty one states in the U.S. have confirmed cases of measles.",
+      "url": "https://www.cbsnews.com/news/measles-cases-at-university-in-florida-soar-amid-growing-outbreaks-nationwide/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/13/3fddb457-f19b-423b-a501-fde02b7e647b/thumbnail/1200x630/049cb1a280165cc913cd0d45eff3e911/ave-maria-university.jpg",
+      "publishedAt": "2026-02-13 17:29:05",
+      "content": "At least 21 U.S. states have confirmed cases of measles as outbreaks continue spread across the country. At Ave Maria University near Naples, Florida, measles cases have soared to nearly 60. A sopho\u2026 [+2290 chars]",
+      "retrievedAt": "2026-02-14 19:11:07.354627",
+      "internal_id": "08c36f35935d7b58ac1b9c570e2ddc67ce57d827bd17d3cf0315449c3f2613f7",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27620,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "menshealth.com",
+      "author": null,
+      "title": "Deleted CDC Page: Risk of Clade 1 Mpox Outbreaks Among Gay, Bisexual, and Other Men Who Have Sex With Men in the United States",
+      "description": "The US Government doesn't think you should see this. Our experts disagree.",
+      "url": "https://www.menshealth.com/health/a70306633/cdc-cfa-modeling-and-forecasting-mpox-gbmsm-technical-brief-mpox-gbmsm-tech-brief2024-index/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/mh-cdc-mpox-698d2217ccf69.jpg?crop=1xw:1xh;center,top&resize=1200:*",
+      "publishedAt": "2026-02-13 17:08:00",
+      "content": "The below is text from a real informational webpage that was on the U.S. Centers for Disease Control and Prevention website. The original page was deleted following executive orders from president Do\u2026 [+16497 chars]",
+      "retrievedAt": "2026-02-14 19:11:09.883468",
+      "internal_id": "d0af3595d32f97bfbdc66ada70689b357cf6d4e7fa43a2e09f1700fa7779899d",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27617,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva Provides Update on Recommendations for Use of IXCHIQ\u00ae in the United Kingdom",
+      "description": "Lyon (France), February 13, 2026 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that following a review of the benefits and risks of the Company\u2019s single\u2011dose chikungunya vaccine, IXCHIQ\u00ae, the United Kingdom\u2019s \u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/02/13/3238213/0/en/Valneva-Provides-Update-on-Recommendations-for-Use-of-IXCHIQ-in-the-United-Kingdom.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2026-02-13 16:45:00",
+      "content": "Lyon (France), February 13, 2026 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), a specialty vaccine company, today announced that following a review of the benefits and risks of the Companys single\u2026 [+5857 chars]",
+      "retrievedAt": "2026-02-14 19:11:09.653298",
+      "internal_id": "1a1a8e410234a9fc0d6b0de66d57cedda123092265779a46bc213cbc3be6444a",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27618,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "VALNEVA",
+      "title": "Valneva fait un point sur l\u2019utilisation du vaccin IXCHIQ\u00ae au Royaume-Uni",
+      "description": "Lyon (France), le 13 f\u00e9vrier 2026 \u2013 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourd\u2019hui qu\u2019\u00e0 la suite d\u2019une revue des b\u00e9n\u00e9fices et risques du vaccin contre le chikungunya de la soci\u00e9t\u00e9, IXCHIQ\u00ae, la Comm\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/02/13/3238213/0/fr/Valneva-fait-un-point-sur-l-utilisation-du-vaccin-IXCHIQ-au-Royaume-Uni.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/04f398df-96ac-4b7a-8544-2a2ce2495778",
+      "publishedAt": "2026-02-13 16:45:00",
+      "content": "Lyon (France), le 13 f\u00e9vrier 2026 Valneva SE (Nasdaq: VALN; Euronext Paris: VLA), soci\u00e9t\u00e9 sp\u00e9cialis\u00e9e dans les vaccins, a annonc\u00e9 aujourdhui qu\u00e0 la suite dune revue des b\u00e9n\u00e9fices et risques du vacci\u2026 [+7010 chars]",
+      "retrievedAt": "2026-02-14 19:11:09.667475",
+      "internal_id": "1da754ec189f19d93a24e1111eb3189d7a65771cd740fc3c2a577ad6f1090c65",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27602,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Is measles spreading in Mexico and the U.S.? #health",
+      "description": "Outbreaks are growing and officials are urging vaccination Health authorities in Mexico and parts of the United States are confronting rising numbers of measles cases. Mexican officials report thousands of infections since last year and dozens of deaths, whil\u2026",
+      "url": "https://alltoc.com/health/is-measles-spreading-in-mexico-and-the-u-s",
+      "urlToImage": "https://alltoc.com/cdn/1043/og.png",
+      "publishedAt": "2026-02-13 16:08:02",
+      "content": "Health authorities in Mexico and parts of the United States are confronting rising numbers of measles cases. Mexican officials report thousands of infections since last year and dozens of deaths, whi\u2026 [+1455 chars]",
+      "retrievedAt": "2026-02-14 19:11:07.211399",
+      "internal_id": "97d541ab0631d9a78bf1c2a4a4c7061b69c5d0294fc46eefbb0f1476d6b14c66",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27607,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "Oz call for measles vaccine uptake 'too little, too late'",
+      "description": "Measles is still spreading in the US, but calls from government officials for Americans to roll up their sleeves won\u2019t be enough to keep the country from losing a quarter-century of success eradicating the disease.",
+      "url": "https://www.dw.com/en/oz-call-for-measles-vaccine-uptake-too-little-too-late/a-75951461",
+      "urlToImage": "https://static.dw.com/image/75952928_6.jpg",
+      "publishedAt": "2026-02-13 14:07:00",
+      "content": "What you need to know Measles cases have risen for over a year in the US, and the country is likely to lose its 'measles-free' status. Other world regions had lower case numbers in\u2026 [+5281 chars]",
+      "retrievedAt": "2026-02-14 19:11:07.407042",
+      "internal_id": "dd858fecb3df26f42d1f1057ce715edb74d4580bf8a43f59d3034a7151608052",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27609,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Matthew Ward Agius",
+      "title": "Mehmet Oz's vaccine call is 'too little, too late'",
+      "description": "Measles is still spreading in the US but calls from government officials for Americans to vaccinate now won\u2019t be enough to keep the country from losing a quarter-century of success eradicating the disease.",
+      "url": "https://www.dw.com/en/mehmet-oz-measles-vaccine-recommendation-case-numbers-increase-in-us-down-europe-central-asia/a-75951461",
+      "urlToImage": "https://static.dw.com/image/75952928_6.jpg",
+      "publishedAt": "2026-02-13 14:07:00",
+      "content": "What you need to know Measles cases have risen for over a year in the US and the country is likely to lose its \"measles-free\" status. Other world regions had lower case numbers in \u2026 [+4625 chars]",
+      "retrievedAt": "2026-02-14 19:11:07.434929",
+      "internal_id": "336f04c1f2352e865ac9502634ca22bb69eb9e1fa157759bbb001e8400a26691",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27608,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Measles cases climb to nearly 60 at university in Florida as outbreaks surge across U.S.",
+      "description": "Measles is spreading across the U.S. at its fastest rate in a generation with 21 U.S. states having confirmed cases. At Ave Maria University near Naples, Florida, the outbreak climbed to nearly 60 cases this week. Cristian Benavides reports.",
+      "url": "https://www.cbsnews.com/video/measles-cases-climb-to-nearly-60-at-university-in-florida-as-outbreaks-surge-across-us/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/02/13/7cfb6058-fcba-4339-9280-1123c6efc31f/thumbnail/1200x630/533feefcf56b5792341b9ccca77b54b5/cbsn-fusion-measles-cases-climb-to-nearly-60-at-university-in-florida-as-outbreaks-surge-across-us-thumbnail.jpg",
+      "publishedAt": "2026-02-13 14:01:00",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-02-14 19:11:07.420962",
+      "internal_id": "47a0f2fbe146270fe4acfa076c644dfe301f8d6a4885175c2623f2456b9c7186",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27605,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Rolling Stone",
+      "author": "Kate Storey",
+      "title": "The Senator Who Has Made It Her Mission to Stop RFK Jr.",
+      "description": "Sen. Angela Alsobrooks on Kennedy's first year as health secretary: 'His leadership has been absolutely disastrous'",
+      "url": "http://www.rollingstone.com/politics/politics-features/rfk-jr-hhs-one-year-senator-alsobrooks-1235513693/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/02/senator-alsobrooks.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-02-13 14:00:00",
+      "content": "Today marks Robert F. Kennedy Jr.\u2019s first year in office as the nation\u2019s health secretary and evidence of his tenure is everywhere. A surging measles outbreak in South Carolina is nearing 1,000 case\u2026 [+8208 chars]",
+      "retrievedAt": "2026-02-14 19:11:07.302732",
+      "internal_id": "f8f3f1655287274ad5c9235cd05a738997e6e1175627ec0c031edcde7a163e33",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27615,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mergiory Labadie-Bracho, Gaitree K. Baldewsingh, H\u00e9l\u00e8ne Hiwat van Laar, Malti R. Adhin",
+      "title": "A six-pronged approach to manage a Plasmodium vivax outbreak in a low- and middle-income country on the road to malaria elimination",
+      "description": "Author summary In 2004, Suriname still had the highest concentration of Plasmodium falciparum malaria cases in the Americas. Thanks to intensive control and surveillance efforts, the country reported zero indigenous cases since 2021. However, imported cases f\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013970",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013970.g001&size=inline",
+      "publishedAt": "2026-02-13 14:00:00",
+      "content": "After a malaria-free period exceeding five years, Pelele Tepoe experienced a P. vivax outbreak starting in 2019. The index case was suspected to be a Pelele Tepoe resident who visited Palumeu, a neig\u2026 [+14577 chars]",
+      "retrievedAt": "2026-02-14 19:11:09.178310",
+      "internal_id": "17567707279c916cff652f2d8313d2d8ba3f698d40a2a8e6c33f7aa743ec5b57",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27621,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Shahin Seidi, Ehsan Mostafavi, Abbasali Raz, Fateh Karimian, Fariba Khanzadeh, Zeynab Hayati, Naseh Maleki-Ravasan",
+      "title": "Xenopsylla buxtoni fleas as a dominant species harboring multiple infections of Wolbachia lineages in the ancient plague epicenters of Iran",
+      "description": "Author summary Fleas are important vectors of zoonotic diseases, including plague caused by Yersinia pestis. We investigated flea diversity and the presence of Wolbachia endosymbionts in western Iran\u2014a region with a long history of plague outbreaks. Among 1,4\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013890",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013890.strk&size=inline",
+      "publishedAt": "2026-02-13 14:00:00",
+      "content": "Citation: Seidi S, Mostafavi E, Raz A, Karimian F, Khanzadeh F, Hayati Z, et al. (2026) Xenopsylla buxtoni fleas as a dominant species harboring multiple infections of Wolbachia lineages in the ancie\u2026 [+55001 chars]",
+      "retrievedAt": "2026-02-14 19:11:10.449470",
+      "internal_id": "e541252286996d33fa06a2b42dc097ed0c209ec6a30bd8481b866528025c1031",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27611,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d0\u05d5\u05e8 \u05d4\u05d3\u05e8",
+      "title": "\u05d9\u05dc\u05d3 \u05d1\u05df \u05ea\u05e9\u05e2 \u05e9\u05dc\u05d0 \u05d7\u05d5\u05e1\u05df \u05de\u05ea \u05de\u05d7\u05e6\u05d1\u05ea - \u05d4\u05e7\u05d5\u05e8\u05d1\u05df \u05d4\u05de\u05d1\u05d5\u05d2\u05e8 \u05d1\u05d9\u05d5\u05ea\u05e8 \u05d1\u05d2\u05dc \u05d4\u05ea\u05d7\u05dc\u05d5\u05d0\u05d4",
+      "description": "\u05d4\u05d9\u05dc\u05d3 \u05de\u05de\u05d5\u05e9\u05d1 \u05d1\u05de\u05e8\u05db\u05d6 \u05d4\u05d0\u05e8\u05e5 \u05d4\u05d5\u05d1\u05d0 \u05d1\u05de\u05e6\u05d1 \u05d0\u05e0\u05d5\u05e9 \u05dc\u05d1\u05d9\u05ea \u05d4\u05d7\u05d5\u05dc\u05d9\u05dd, \u05e9\u05dd \u05e0\u05e7\u05d1\u05e2 \u05de\u05d5\u05ea\u05d5 \u05d1\u05ea\u05d5\u05dd \u05de\u05d0\u05de\u05e6\u05d9 \u05d4\u05d7\u05d9\u05d9\u05d0\u05d4. \u05e8\u05d5\u05d1 \u05d4\u05e7\u05d5\u05e8\u05d1\u05e0\u05d5\u05ea \u05d4\u05d0\u05d7\u05e8\u05d9\u05dd \u05d4\u05d9\u05d5 \u05ea\u05d9\u05e0\u05d5\u05e7\u05d5\u05ea \u05d1\u05e8\u05d9\u05d0\u05d9\u05dd \u05dc\u05dc\u05d0 \u05de\u05d7\u05dc\u05d5\u05ea \u05e8\u05e7\u05e2. \u05d4\u05e9\u05d1\u05d5\u05e2 \u05e4\u05d5\u05e8\u05e1\u05dd \u05dc\u05e8\u05d0\u05e9\u05d5\u05e0\u05d4 \u05d1-ynet \u05e9\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d4\u05d5\u05e8\u05d4 \u05d1\u05d9\u05de\u05d9\u05dd \u05d4\u05d0\u05d7\u05e8\u05d5\u05e0\u05d9\u05dd \u05d1\u05e6\u05e2\u05d3 \u05d7\u05e8\u05d9\u05d2 \u05dc\u05d4\u05e8\u05d7\u05d9\u05e7 \u05de\u05de\u05d5\u05e1\u05d3\u05d5\u05ea \u05d7\u05d9\u05e0\u05d5\u05da \u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05d1\u05d0\u05d5 \u05d1\u05de\u05d2\u05e2 \u05e2\u05dd \u05d7\u05d5\u05dc\u05d4 \u05d7\u05e6\u05d1\u05ea \u05d5\u05e9\u2026",
+      "url": "https://www.ynet.co.il/health/article/bke0isnpwx",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/26/Sk11X0OvVZWx/Sk11X0OvVZWx_1_0_1000_563_0_large.jpg",
+      "publishedAt": "2026-02-13 13:55:23",
+      "content": ". (') . , , . -15 . , . . (Measles virus), . , . -1,000, . , , 10-7 , , . , , -2,900 . , 10,000-15,000 . , -1,000 , . , . , , . '. , 18. . , , , ( ), . , .",
+      "retrievedAt": "2026-02-14 19:11:07.604922",
+      "internal_id": "5589f3136b80dd5f6d094176e9667772897e67ca9cb543664489ca3b122880ce",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27614,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Haryana notifies strict regulations pertaining to vector-borne diseases, imposes penalties for violators",
+      "description": "Haryana has introduced strict rules for malaria, dengue, and other vector-borne diseases. All hospitals must report confirmed cases within 24 hours. New regulations ensure standardized diagnosis and treatment. Penalties will be imposed for violations. These m\u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/haryana-notifies-strict-regulations-pertaining-to-vector-borne-diseases-imposes-penalties-for-violators/articleshow/128305549.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128305609,width-1200,height-630,imgsize-91292,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-13 12:06:42",
+      "content": "Chandigarh: Haryana government has notified strict regulations about malaria, dengue and other vector-borne diseases, making it mandatory for all hospitals to report every confirmed case within 24 ho\u2026 [+3833 chars]",
+      "retrievedAt": "2026-02-14 19:11:08.565545",
+      "internal_id": "061219a3631e22652f8cc1356ac2a517c627ff9294bcfb3c6f46ed1530529a40",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27619,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Okdiario.com",
+      "author": "efernandez",
+      "title": "Por qu\u00e9 este descubrimiento sobre ardillas y viruela del mono preocupa a los expertos en salud p\u00fablica",
+      "description": "Un brote en primates salvajes permiti\u00f3 reconstruir con precisi\u00f3n el recorrido de un virus en plena selva africana. El estudio revela una pieza clave en la ecolog\u00eda del mpox que podr\u00eda cambiar c\u00f3mo se eval\u00faan los riesgos futuros.",
+      "url": "https://muyinteresante.okdiario.com/ciencia/ardillas-mpox-transmision-selva-africa.html",
+      "urlToImage": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/02/ardi4-og.jpg",
+      "publishedAt": "2026-02-13 12:00:00",
+      "content": "Creado: 13.02.2026 | 13:00 Actualizado: 13.02.2026 | 13:00 La viruela del mono, conocida hoy como mpox, ha dejado de ser una infecci\u00f3n limitada a brotes aislados en zonas rurales de \u00c1frica para c\u2026 [+8048 chars]",
+      "retrievedAt": "2026-02-14 19:11:09.856187",
+      "internal_id": "f90a4620d229fcdec99ea7d1f3167632adcf0d1b00d95e4ce428f81b2b5d107f",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27612,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Gefl\u00fcgelpest: Erster Vogelgrippe-Ausbruch vor 20 Jahren - Millionenschaden",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eGefl\u00fcgelpest\u201c. Lesen Sie jetzt \u201eErster Vogelgrippe-Ausbruch vor 20 Jahren - Millionenschaden\u201c.",
+      "url": "https://www.zeit.de/news/2026-02/13/erster-vogelgrippe-ausbruch-vor-20-jahren-millionenschaden",
+      "urlToImage": "https://img.zeit.de/news/2026-02/13/erster-vogelgrippe-ausbruch-vor-20-jahren-millionenschaden-image-group/wide__1300x731",
+      "publishedAt": "2026-02-13 11:57:10",
+      "content": "Vor 20 Jahren, am 14. Februar 2006, ist erstmals in Deutschland das Vogelgrippe-Virus H5N1 nachgewiesen worden. Betroffen waren zwei tote Schw\u00e4ne auf der Insel R\u00fcgen. Hunderte weitere Zugv\u00f6gel verend\u2026 [+3519 chars]",
+      "retrievedAt": "2026-02-14 19:11:08.041639",
+      "internal_id": "e9f1cb6788af58ca8db738eb4a0e913b7cbf307170873873689c6e114ee0a674",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27613,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gefl\u00fcgelpest: Erster Vogelgrippe-Ausbruch vor 20 Jahren - Millionenschaden",
+      "description": "Der erste Ausbruch der Vogelgrippe in Deutschland war im Februar 2006 auf der Insel R\u00fcgen. Das H5N1-Virus wird seither immer bedrohlicher. Was k\u00f6nnte Impfen ausrichten?",
+      "url": "https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/gefluegelpest--erster-vogelgrippe-ausbruch-vor-20-jahren---millionenschaden-37134658.html",
+      "urlToImage": "https://image.stern.de/37134660/t/wB/v1/w1440/r1.7778/-/13--dy3g2ypxi2v13axs2048jpeg---05cdbfacfd2fc983.jpg",
+      "publishedAt": "2026-02-13 11:57:10",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Der erste Ausbruch der Vogelgrippe in Deutschland war im Februar 2006 auf der Insel R\u00fcgen. Das H5N1-Virus wird seither immer bedrohlicher. Was k\u00f6\u2026 [+3704 chars]",
+      "retrievedAt": "2026-02-14 19:11:08.068642",
+      "internal_id": "ee8fd12e4edd6b5ec881841261ddf0470d4b0502dfe089aa9f71e3313a1e74c6",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27616,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Chip.com.tr",
+      "author": "Levent \u00d6zt\u00fcrk",
+      "title": "Chikungunya alarm\u0131: Tropik cennetlere gidenleri bu kez G\u00fcne\u015f de\u011fil, vir\u00fcs bekliyor",
+      "description": "Turkuaz sular\u0131yla bilinen Sey\u015feller ve G\u00fcney Amerika\u2019daki Surinam, Chikungunya vakalar\u0131ndaki art\u0131\u015fla g\u00fcndemde. CDC, b\u00f6lgeye gidecek gezginler i\u00e7in a\u015f\u0131 ve s\u0131k\u0131 korunma \u00f6nlemlerini hat\u0131rlatt\u0131.",
+      "url": "https://www.chip.com.tr/guncel/chikungunya-alarmi-tropik-cennetlere-gidenleri-bu-kez-gunes-degil-virus-bekliyor_177569.html",
+      "urlToImage": "https://img.chip.com.tr/rcman/Cw1280h720q95gm/storage/files/images/2026/02/11/bir-isirikla-tatil-kabusa-donebilir-cdcden-chikungunya-alarmi-z9sx.jpg",
+      "publishedAt": "2026-02-13 11:09:26",
+      "content": "D\u00fcnya\u2019n\u0131n en g\u00f6zde tatil rotalar\u0131ndan biri olan ve turkuaz sular\u0131yla tan\u0131nan Sey\u015feller ile G\u00fcney Amerika'n\u0131n egzotik duraklar\u0131ndan Surinam, bug\u00fcnlerde korkutucu bir sa\u011fl\u0131k uyar\u0131s\u0131yla g\u00fcndemde. ABD Ha\u2026 [+2448 chars]",
+      "retrievedAt": "2026-02-14 19:11:09.587429",
+      "internal_id": "c22e8d05508f0a6ec86b43340da504a2c959785e91dc39acc27c34ee1b922998",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27610,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Rural hospitals might buckle under the pressure if measles spread continues: doctor",
+      "description": "If the measles outbreak continues to get worse, rural health-care facilities in southwestern Manitoba might not have the capacity to house all the sick, according to a Neepawa family physician.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-outbreak-brandon-ag-days-vaccination-children-exposure-9.7087800",
+      "urlToImage": "https://i.cbc.ca/ais/1.7087053,1705533360000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C5971%2C3358%29%3BResize%3D620",
+      "publishedAt": "2026-02-13 11:00:00",
+      "content": "If the measles outbreak continues to get worse, rural health-care facilities in southwestern Manitoba might not have the capacity to house all the sick, according to a Neepawa family physician. Thes\u2026 [+3760 chars]",
+      "retrievedAt": "2026-02-14 19:11:07.564945",
+      "internal_id": "b341f1e84d2e2d90a4ffa2edc869059a7f01833b0416db8cb9adf815227c9e52",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27604,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "2 new measles cases in Singapore; authorities refute online claims of childcare centre infection",
+      "description": "This brings the total number of measles cases in Singapore this year to 13.",
+      "url": "https://www.channelnewsasia.com/singapore/measles-cda-childcare-centres-preschools-online-rumours-5929051",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--CE-W6cTP--/c_crop,h_900,w_1600,x_0,y_31/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2025/05/19/istock-2152300156.jpg?itok=HTXzA5OS",
+      "publishedAt": "2026-02-13 08:54:51",
+      "content": "SINGAPORE: Two new measles cases were detected in Singapore in the first week of February, bringing the country's total cases this year to 13. The Communicable Diseases Agency's (CDA) latest weekly\u2026 [+1690 chars]",
+      "retrievedAt": "2026-02-14 19:11:07.262892",
+      "internal_id": "ba5fc163bd927015a220d056d4458698caca5a60e260edc7ba8586ff9df0bb71",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27603,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases rising in the US? #health",
+      "description": "Measles resurgence: how outbreaks are spreading and what it means Recent spikes in measles cases across the United States reflect a mix of falling childhood vaccination rates, large public gatherings, and international importations. Health departments have co\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-the-us",
+      "urlToImage": "https://alltoc.com/cdn/1043/og.png",
+      "publishedAt": "2026-02-13 08:06:17",
+      "content": "Recent spikes in measles cases across the United States reflect a mix of falling childhood vaccination rates, large public gatherings, and international importations. Health departments have confirme\u2026 [+1699 chars]",
+      "retrievedAt": "2026-02-14 19:11:07.248696",
+      "internal_id": "7af6b09fac39c74ff322d97b82e7e68c1fc22d8e8fee8ea507a4f1c20b13d01a",
+      "publishedAtLabel": "Feb 13"
+    },
     {
       "id": 27599,
       "query": [
@@ -19617,96 +19978,6 @@
       "content": "Israel's Health Ministry announced Sunday evening that the city of Petah Tikva has officially been declared a city with an active measles outbreak. The decision was made following several confirmed \u2026 [+1267 chars]",
       "retrievedAt": "2025-12-30 07:09:55.777623",
       "internal_id": "a57b94f2fba2618e8b279f3cf343043c28f10085112079c4378121fe8af15c8e",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26510,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Live Science",
-      "author": "Nicoletta Lanese",
-      "title": "Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses",
-      "description": "Catch up on the latest trends in health news in this roundup of long-reads compiled by Live Science's health channel editor.",
-      "url": "https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kwKTV7AX2qkhQxBTxFRViW-1920-80.jpg",
-      "publishedAt": "2025-12-28 15:00:00",
-      "content": "Groundbreaking medical treatments; mysteries of fundamental biology; the impacts of health policy upheavals. Live Science covered all these topics and more in 2025 \u2014 and you can catch up on some of o\u2026 [+8606 chars]",
-      "retrievedAt": "2025-12-29 19:06:37.716406",
-      "internal_id": "ccfd28220bac20a122064bbb0e93d04824396dbeba46d8947c8fe8978622ba58",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26512,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "School assembly news headlines for December 29: Top national, international & sports updates",
-      "description": "News headlines December 29: India is seeing a significant drop in malaria cases. The civil aviation ministry has established a 24x7 control room for passenger assistance. Rolls Royce aims to make India a home market for its jet engines and naval propulsion. C\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126216266,width-1200,height-630,imgsize-937493,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 14:10:33",
-      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus Buy low &amp; sell high with access to Stock Score, Upside potential &amp; more. BigBull Portfolio G\u2026 [+439 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.025368",
-      "internal_id": "87da0ddafbd927a0abfec3525b605aea0050a1998be65f9e035bad33203e6bf4",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26513,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Diario EL PAIS Uruguay",
-      "author": "Nicolas Lauber",
-      "title": "Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a \"la Profe\" de \"Gran Hermano\" 2007",
-      "description": "La exparticipante de la edici\u00f3n 2007 del reality argentino se encuentra internada en una cl\u00ednica de Buenos Aires donde fue ingresada a terapia intensiva a ra\u00edz de una leptospirosis.",
-      "url": "https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007",
-      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/c11fe25/2147483647/strip/true/crop/1000x486+0+0/resize/1440x700!/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F27%2F2d%2F0f06212a4413bab9353d97fde5c4%2Fsin-titulo.jpg",
-      "publishedAt": "2025-12-28 13:45:17",
-      "content": "Redacci\u00f3n El Pa\u00edsSilvina Scheffler, ex participante de Gran Hermano 2007, ganadora del certamen Hawaian Tropic Internacional en Punta del Este a inicios de 2009 y conocida popularmente como La Profe,\u2026 [+2144 chars]",
-      "retrievedAt": "2025-12-29 19:06:40.126081",
-      "internal_id": "acb7f8de1693fba4afd554d465e8e380e18cda0f29eadd12762f67bf5c3f3496",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26509,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Madhyamam.com",
-      "author": "\u0d35\u0d46\u0d2c\u0d4d \u0d21\u0d46\u0d38\u0d4d\u0d15\u0d4d",
-      "title": "Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges",
-      "description": "\u0d2e\u0d46\u0d7d\u0d2c\u0d7a: \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d28\u0d3f\u0d7c\u0d2e\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u2018\u0d05\u0d2d\u0d2f\u0d31\u0d3e\u0d2c\u0d4d\u2019 \u0d0e\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d7b \u0d35\u0d4d\u0d2f\u0d3e\u0d1c\u0d2e\u0d46\u0d28\u0d4d\u0d28 \u0d2e\u0d41\u0d28\u0d4d\u0d28\u0d31\u0d3f\u0d2f\u0d3f\u0d2a\u0d4d\u0d2a\u0d41\u0d2e\u0d3e\u0d2f\u0d3f \u0d06\u0d38\u0d4d\u0d1f\u0d4d\u0d30\u0d47\u0d32\u0d3f\u0d2f. 2023 \u0d28\u0d35\u0d02\u0d2c\u0d7c \u0d2e\u0d41\u0d24\u0d7d \u0d07\u0d28\u0d4d\u0d24\u0d4d\u0d2f\u0d2f\u0d3f\u0d7d \u0d2a\u0d4d\u0d30\u0d1a\u0d30\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d28\u0d4d\u0d28 \u0d06\u0d28\u0d4d\u0d31\u0d3f \u0d31\u0d3e\u0d2c\u0d3f\u0d38\u0d4d \u0d35\u0d3e\u0d15\u0d4d\u0d38\u0d3f\u0d28\u0d41\u0d15\u0d33\u0d41\u0d1f\u0d46 \u2018\u0d35\u0d4d\u0d2f\u0d3e\u0d1c \u0d2c\u0d3e\u0d1a\u0d4d\u0d1a\u0d41\u0d15\u0d7e\u2019...",
-      "url": "https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034",
-      "urlToImage": "https://www.madhyamam.com/h-upload/2025/12/28/2761153-anti-rabis.jpg",
-      "publishedAt": "2025-12-28 10:24:23",
-      "content": "Don't miss the exclusive news, Stay updated Subscribe to our Newsletter",
-      "retrievedAt": "2025-12-29 19:06:37.550099",
-      "internal_id": "68d81884bf3d12cafbff3be462ac2ac8265c27ee24c54d22cae3d44e2559e115",
-      "publishedAtLabel": "Dec 28"
-    },
-    {
-      "id": 26511,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah",
-      "description": "India has achieved a remarkable 97 percent reduction in malaria cases, Union Home Minister Amit Shah announced. The nation is on track to be malaria-free in a short time. He highlighted significant progress in healthcare, including a 1 percent mortality rate \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126214495,width-1200,height-630,imgsize-104830,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2025-12-28 10:04:39",
-      "content": "Ahmedabad: Union Home Minister Amit Shah on Sunday said India has recorded a 97 per cent reduction in malaria cases and the country will be free of the disease in a \"short time\".He was addressing the\u2026 [+3330 chars]",
-      "retrievedAt": "2025-12-29 19:06:39.014393",
-      "internal_id": "2351565285d17334cf49e990d8b7a2f2c4b5a8186f7090fdad25a88ceea086e1",
       "publishedAtLabel": "Dec 28"
     }
   ]

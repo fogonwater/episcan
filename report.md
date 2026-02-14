@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2026-02-14 07:18
-- **Most recent article:** 2026-02-13 06:49:27
+- **New articles in last harvest:** 20
+- **Last harvest:** 2026-02-14 19:11
+- **Most recent article:** 2026-02-13 17:29:05
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
 |--|-|-|-|-|-|-|-|-|-|
-| measles | 33 | 26 | 47 | 63 | 88 | 76 | 107 | 81 | 521 |
-| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 22 | 119 |
-| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 9 | 83 |
-| rabies | 8 | 6 | 10 | 10 | 12 | 10 | 11 | 15 | 82 |
-| malaria | 5 | 0 | 13 | 8 | 7 | 8 | 15 | 11 | 67 |
-| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 9 | 59 |
+| measles | 32 | 26 | 47 | 63 | 88 | 76 | 107 | 91 | 530 |
+| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 23 | 120 |
+| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 11 | 85 |
+| rabies | 7 | 6 | 10 | 10 | 12 | 10 | 11 | 15 | 81 |
+| malaria | 3 | 0 | 13 | 8 | 7 | 8 | 15 | 13 | 67 |
+| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 11 | 61 |
 | meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 6 | 55 |
-| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 9 | 41 |
+| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 12 | 44 |
 | zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 3 | 25 |
-| leptospirosis | 4 | 4 | 2 | 1 | 4 | 6 | 3 | 1 | 25 |
+| leptospirosis | 3 | 4 | 2 | 1 | 4 | 6 | 3 | 1 | 24 |
+| yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 2 | 16 |
 | hpai | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 2 | 15 |
-| yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 1 | 15 |
 | typhoid | 2 | 2 | 3 | 0 | 2 | 1 | 2 | 1 | 13 |
 | pertussis | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 5 |
 
@@ -41,6 +41,8 @@ Source: [News API](https://newsapi.org/)
 - [Cardiac findings in infants with in utero exposure to Zika virus – a follow up longitudinal study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014009) (Plos.org)
 
 ## 26-7 (yersinia)
+
+- [Xenopsylla buxtoni fleas as a dominant species harboring multiple infections of Wolbachia lineages in the ancient plague epicenters of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013890) (Plos.org)
 
 - [Tuima tauti kaatoi suomalais­hiihtäjän](https://www.iltalehti.fi/milano-cortinan-olympialaiset-2026/a/89e187b4-2d35-43d7-b02f-e554576be13d) (Iltalehti.fi)
 
@@ -86,6 +88,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (mpox)
 
+- [Deleted CDC Page: Risk of Clade 1 Mpox Outbreaks Among Gay, Bisexual, and Other Men Who Have Sex With Men in the United States](https://www.menshealth.com/health/a70306633/cdc-cfa-modeling-and-forecasting-mpox-gbmsm-technical-brief-mpox-gbmsm-tech-brief2024-index/) (menshealth.com)
+
+- [Por qué este descubrimiento sobre ardillas y viruela del mono preocupa a los expertos en salud pública](https://muyinteresante.okdiario.com/ciencia/ardillas-mpox-transmision-selva-africa.html) (Okdiario.com)
+
 - [Clade-Specific, Amplification-Free Molecular Lateral Flow Platform for On-Site Detection of Mpox](https://pubs.rsc.org/en/content/articlelanding/2026/cc/d5cc06114h) (Royal Society of Chemistry)
 
 - [Spur führt nach Westafrika: Möglicher Ursprung des Affenpockenvirus entdeckt](https://www.n-tv.de/wissen/Moeglicher-Ursprung-des-Affenpockenvirus-entdeckt-id30355639.html) (N-tv.de)
@@ -119,6 +125,26 @@ Source: [News API](https://newsapi.org/)
 - [Terminale Luzidität: Rätselhafte Klarheit kurz vor dem Tod](https://www.spektrum.de/news/terminale-luziditaet-fuer-ein-paar-stunden-von-demenz-geheilt/2285620) (Spektrum.de)
 
 ## 26-7 (measles)
+
+- [Measles cases at university in Florida soar to nearly 60](https://www.cbsnews.com/news/measles-cases-at-university-in-florida-soar-amid-growing-outbreaks-nationwide/) (CBS News)
+
+- [Is measles spreading in Mexico and the U.S.? #health](https://alltoc.com/health/is-measles-spreading-in-mexico-and-the-u-s) (Alltoc.com)
+
+- [Oz call for measles vaccine uptake 'too little, too late'](https://www.dw.com/en/oz-call-for-measles-vaccine-uptake-too-little-too-late/a-75951461) (DW (English))
+
+- [Mehmet Oz's vaccine call is 'too little, too late'](https://www.dw.com/en/mehmet-oz-measles-vaccine-recommendation-case-numbers-increase-in-us-down-europe-central-asia/a-75951461) (DW (English))
+
+- [Measles cases climb to nearly 60 at university in Florida as outbreaks surge across U.S.](https://www.cbsnews.com/video/measles-cases-climb-to-nearly-60-at-university-in-florida-as-outbreaks-surge-across-us/) (CBS News)
+
+- [The Senator Who Has Made It Her Mission to Stop RFK Jr.](http://www.rollingstone.com/politics/politics-features/rfk-jr-hhs-one-year-senator-alsobrooks-1235513693/) (Rolling Stone)
+
+- [ילד בן תשע שלא חוסן מת מחצבת - הקורבן המבוגר ביותר בגל התחלואה](https://www.ynet.co.il/health/article/bke0isnpwx) (Ynet)
+
+- [Rural hospitals might buckle under the pressure if measles spread continues: doctor](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-brandon-ag-days-vaccination-children-exposure-9.7087800) (CBC News)
+
+- [2 new measles cases in Singapore; authorities refute online claims of childcare centre infection](https://www.channelnewsasia.com/singapore/measles-cda-childcare-centres-preschools-online-rumours-5929051) (CNA)
+
+- [Why are measles cases rising in the US? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-us) (Alltoc.com)
 
 - [How bad is the measles resurgence? #health](https://alltoc.com/health/how-bad-is-the-measles-resurgence) (Alltoc.com)
 
@@ -284,6 +310,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (malaria)
 
+- [A six-pronged approach to manage a Plasmodium vivax outbreak in a low- and middle-income country on the road to malaria elimination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013970) (Plos.org)
+
+- [Haryana notifies strict regulations pertaining to vector-borne diseases, imposes penalties for violators](https://economictimes.indiatimes.com/news/india/haryana-notifies-strict-regulations-pertaining-to-vector-borne-diseases-imposes-penalties-for-violators/articleshow/128305549.cms) (The Times of India)
+
 - [Author Correction: Malaria trends in Ethiopian highlands track the 2000 ‘slowdown’ in global warming](https://www.nature.com/articles/s41467-026-69644-1) (Nature.com)
 
 - [Climate change could hinder malaria eradication efforts](https://www.nature.com/articles/d41591-026-00009-3) (Nature.com)
@@ -318,6 +348,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (h5n1)
 
+- [Geflügelpest: Erster Vogelgrippe-Ausbruch vor 20 Jahren - Millionenschaden](https://www.zeit.de/news/2026-02/13/erster-vogelgrippe-ausbruch-vor-20-jahren-millionenschaden) (Die Zeit)
+
+- [Geflügelpest: Erster Vogelgrippe-Ausbruch vor 20 Jahren - Millionenschaden](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/gefluegelpest--erster-vogelgrippe-ausbruch-vor-20-jahren---millionenschaden-37134658.html) (STERN.de)
+
 - [How did H5N1 reach Antarctica? #science](https://alltoc.com/science/how-did-h5n1-reach-antarctica) (Alltoc.com)
 
 - [Na Královéhradecku potvrdili první letošní ohnisko ptačí chřipky v komerčním chovu](https://www.novinky.cz/clanek/domaci-na-kralovehradecku-potvrdili-prvni-letosni-ohnisko-ptaci-chripky-v-komercnim-chovu-40562271) (Novinky.cz)
@@ -337,6 +371,8 @@ Source: [News API](https://newsapi.org/)
 - [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
+
+- [Haryana notifies strict regulations pertaining to vector-borne diseases, imposes penalties for violators](https://economictimes.indiatimes.com/news/india/haryana-notifies-strict-regulations-pertaining-to-vector-borne-diseases-imposes-penalties-for-violators/articleshow/128305549.cms) (The Times of India)
 
 - [Americana confirma primeira morte por dengue em 2026](https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/12/americana-confirma-primeira-morte-por-dengue-em-2026.ghtml) (Globo)
 
@@ -383,6 +419,12 @@ Source: [News API](https://newsapi.org/)
 - [Indonesia urges stronger ASEAN cooperation against dengue threat](https://en.antaranews.com/news/403654/indonesia-urges-stronger-asean-cooperation-against-dengue-threat) (Antaranews.com)
 
 ## 26-7 (chikungunya)
+
+- [Valneva Provides Update on Recommendations for Use of IXCHIQ® in the United Kingdom](https://www.globenewswire.com/news-release/2026/02/13/3238213/0/en/Valneva-Provides-Update-on-Recommendations-for-Use-of-IXCHIQ-in-the-United-Kingdom.html) (GlobeNewswire)
+
+- [Valneva fait un point sur l’utilisation du vaccin IXCHIQ® au Royaume-Uni](https://www.globenewswire.com/news-release/2026/02/13/3238213/0/fr/Valneva-fait-un-point-sur-l-utilisation-du-vaccin-IXCHIQ-au-Royaume-Uni.html) (GlobeNewswire)
+
+- [Chikungunya alarmı: Tropik cennetlere gidenleri bu kez Güneş değil, virüs bekliyor](https://www.chip.com.tr/guncel/chikungunya-alarmi-tropik-cennetlere-gidenleri-bu-kez-gunes-degil-virus-bekliyor_177569.html) (Chip.com.tr)
 
 - [CDC warns travelers as virus outbreak hits Seychelles: Symptoms, precautions and more](https://economictimes.indiatimes.com/news/international/us/cdc-warns-travelers-as-virus-outbreak-hits-seychelles-symptoms-precautions-and-more/articleshow/128274862.cms) (The Times of India)
 
@@ -2342,8 +2384,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What happens to the cat after it bites someone?](https://www.lifesciencesworld.com/what-happens-to-the-cat-after-it-bites-someone/) (Lifesciencesworld.com)
 
-- [Australia warns India's anti-rabies vaccine is fake; vaccine manufacturer challenges](https://www.madhyamam.com/health/beauty-fitness/australia-warns-indias-anti-rabies-vaccine-is-fake-vaccine-manufacturer-challenges-1481034) (Madhyamam.com)
-
 ## 25-53 (pertussis)
 
 - [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
@@ -2436,8 +2476,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Petah Tikva joins list of measles outbreak hotspots](https://www.israelnationalnews.com/news/420035) (Israelnationalnews.com)
 
-- [Year in review: The standout health stories of 2025, from measles outbreaks to AI-made viruses](https://www.livescience.com/health/year-in-review-the-standout-health-stories-of-2025-from-measles-outbreaks-to-ai-made-viruses) (Live Science)
-
 ## 25-53 (malaria)
 
 - [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
@@ -2446,10 +2484,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
 
-- [School assembly news headlines for December 29: Top national, international & sports updates](https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-for-december-29-top-national-international-sports-updates/articleshow/126216202.cms) (The Times of India)
-
-- [India records 97% drop in malaria cases, to eliminate disease soon: Amit Shah](https://economictimes.indiatimes.com/news/india/india-records-97-drop-in-malaria-cases-to-eliminate-disease-soon-amit-shah/articleshow/126214482.cms) (The Times of India)
-
 ## 25-53 (leptospirosis)
 
 - [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
@@ -2457,8 +2491,6 @@ Source: [News API](https://newsapi.org/)
 - [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
 
 - [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
-
-- [Preocupa la salud de Silvina Scheffler: le detectaron una grave enfermedad a "la Profe" de "Gran Hermano" 2007](https://www.elpais.com.uy/tvshow/tv-y-radio/preocupa-la-salud-de-silvina-scheffler-le-detectaron-una-grave-enfermedad-a-la-profe-de-gran-hermano-2007) (Diario EL PAIS Uruguay)
 
 ## 25-53 (h5n1)
 
