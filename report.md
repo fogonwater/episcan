@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2026-02-14 19:11
-- **Most recent article:** 2026-02-13 17:29:05
+- **New articles in last harvest:** 10
+- **Last harvest:** 2026-02-15 07:20
+- **Most recent article:** 2026-02-14 04:06:41
 
 ---
 
@@ -10,22 +10,22 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 25-53 | 26-1 | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
-|--|-|-|-|-|-|-|-|-|-|
-| measles | 32 | 26 | 47 | 63 | 88 | 76 | 107 | 91 | 530 |
-| dengue | 3 | 1 | 12 | 22 | 27 | 16 | 16 | 23 | 120 |
-| h5n1 | 2 | 1 | 12 | 8 | 17 | 22 | 12 | 11 | 85 |
-| rabies | 7 | 6 | 10 | 10 | 12 | 10 | 11 | 15 | 81 |
-| malaria | 3 | 0 | 13 | 8 | 7 | 8 | 15 | 13 | 67 |
-| mpox | 0 | 1 | 14 | 9 | 11 | 4 | 11 | 11 | 61 |
-| meningitis | 10 | 5 | 11 | 10 | 2 | 7 | 4 | 6 | 55 |
-| chikungunya | 3 | 0 | 3 | 1 | 9 | 8 | 8 | 12 | 44 |
-| zika | 2 | 0 | 4 | 6 | 3 | 7 | 0 | 3 | 25 |
-| leptospirosis | 3 | 4 | 2 | 1 | 4 | 6 | 3 | 1 | 24 |
-| yersinia | 1 | 0 | 1 | 4 | 2 | 5 | 1 | 2 | 16 |
-| hpai | 0 | 0 | 2 | 3 | 4 | 3 | 1 | 2 | 15 |
-| typhoid | 2 | 2 | 3 | 0 | 2 | 1 | 2 | 1 | 13 |
-| pertussis | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 5 |
+| Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 47 | 63 | 88 | 76 | 107 | 97 | 478 |
+| dengue | 12 | 22 | 27 | 16 | 16 | 23 | 116 |
+| h5n1 | 12 | 8 | 17 | 22 | 12 | 11 | 82 |
+| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 68 |
+| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 65 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 12 | 61 |
+| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 41 |
+| meningitis | 11 | 10 | 2 | 7 | 4 | 6 | 40 |
+| zika | 4 | 6 | 3 | 7 | 0 | 3 | 23 |
+| leptospirosis | 2 | 1 | 4 | 6 | 3 | 1 | 17 |
+| hpai | 2 | 3 | 4 | 3 | 1 | 3 | 16 |
+| yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 15 |
+| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 9 |
+| pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -51,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 - [Ramadan bazaar traders reminded to get typhoid jabs, maintain cleanliness](https://www.thestar.com.my/news/nation/2026/02/08/ramadan-bazaar-traders-reminded-to-get-typhoid-jabs-maintain-cleanliness) (The Star Online)
 
 ## 26-7 (rabies)
+
+- [Can you tell if a dead bat has rabies?](https://www.lifesciencesworld.com/can-you-tell-if-a-dead-bat-has-rabies/) (Lifesciencesworld.com)
 
 - [How can you tell if a possum has rabies?](https://www.lifesciencesworld.com/how-can-you-tell-if-a-possum-has-rabies/) (Lifesciencesworld.com)
 
@@ -87,6 +89,8 @@ Source: [News API](https://newsapi.org/)
 - [שעלת בקיסריה: ארבעה ילדים נדבקו, 60 קיבלו טיפול מונע](https://www.ynet.co.il/health/article/rjcsbddpwe) (Ynet)
 
 ## 26-7 (mpox)
+
+- [เรือนจำพิเศษธนบุรีพบผู้ต้องขังเข้าใหม่ 1 ราย แพทย์สงสัยป่วย “ฝีดาษลิง”](https://www.thairath.co.th/news/local/2914171) (Thairath.co.th)
 
 - [Deleted CDC Page: Risk of Clade 1 Mpox Outbreaks Among Gay, Bisexual, and Other Men Who Have Sex With Men in the United States](https://www.menshealth.com/health/a70306633/cdc-cfa-modeling-and-forecasting-mpox-gbmsm-technical-brief-mpox-gbmsm-tech-brief2024-index/) (menshealth.com)
 
@@ -125,6 +129,18 @@ Source: [News API](https://newsapi.org/)
 - [Terminale Luzidität: Rätselhafte Klarheit kurz vor dem Tod](https://www.spektrum.de/news/terminale-luziditaet-fuer-ein-paar-stunden-von-demenz-geheilt/2285620) (Spektrum.de)
 
 ## 26-7 (measles)
+
+- [What caused the measles outbreak at Ave Maria University? #health](https://alltoc.com/health/what-caused-the-measles-outbreak-at-ave-maria-university) (Alltoc.com)
+
+- [Why are measles outbreaks rising in U.S. colleges? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising-in-u-s-colleges) (Alltoc.com)
+
+- [Manitoba saw spike in measles cases, exposure at Jets game last week](https://www.cbc.ca/news/canada/manitoba/measles-cases-february-9.7089341) (CBC News)
+
+- [Measles cases surpass 900 in US with infections in 24 states: CDC](https://abcnews.com/Health/measles-cases-surpass-900-us-infections-24-states/story?id=130139484) (Abcnews.com)
+
+- [Why are U.S. measles cases rising? #health](https://alltoc.com/health/why-are-u-s-measles-cases-rising) (Alltoc.com)
+
+- [The Atlantic’s Elizabeth Bruenig on her “hypothetical,” heavily reported measles essay](https://www.niemanlab.org/2026/02/the-atlantics-elizabeth-bruenig-on-her-hypothetical-heavily-reported-measles-essay/) (Niemanlab.org)
 
 - [Measles cases at university in Florida soar to nearly 60](https://www.cbsnews.com/news/measles-cases-at-university-in-florida-soar-amid-growing-outbreaks-nationwide/) (CBS News)
 
@@ -310,6 +326,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (malaria)
 
+- [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
+
 - [A six-pronged approach to manage a Plasmodium vivax outbreak in a low- and middle-income country on the road to malaria elimination](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013970) (Plos.org)
 
 - [Haryana notifies strict regulations pertaining to vector-borne diseases, imposes penalties for violators](https://economictimes.indiatimes.com/news/india/haryana-notifies-strict-regulations-pertaining-to-vector-borne-diseases-imposes-penalties-for-violators/articleshow/128305549.cms) (The Times of India)
@@ -341,6 +359,8 @@ Source: [News API](https://newsapi.org/)
 - [Bubba's Story: Health officials warn of leptospirosis, a highly contagious deadly bacterial disease affecting dogs and people](https://abc7news.com/post/bubbas-story-health-officials-warn-leptospirosis-highly-contagious-deadly-bacterial-disease-affecting-dogs-people/18580688/) (KGO-TV)
 
 ## 26-7 (hpai)
+
+- [批判の矛先が張本智和＆三苫薫へも…中国語圏内でプロパガンダ映像反響呼ぶ](https://news.livedoor.com/article/detail/30582002/) (Livedoor.com)
 
 - [Identifying avian influenza hotspots in wild birds in the Netherlands](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341829) (Plos.org)
 
@@ -1992,8 +2012,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
-- [Dipolog: AMAHAN NAGPOST SA SOCIAL MEDIA KABAHIN SA IYANG KASAGMUYO SA RHU ROXAS, DR. ATIENZA MIPASABOT SA KAHIMTANGAN SA PASILIDAD](https://rpnradio.com/dipolog-amahan-nagpost-sa-social-media-kabahin-sa-iyang-kasagmuyo-sa-rhu-roxas-dr-atienza-mipasabot-sa-kahimtangan-sa-pasilidad/) (Rpnradio.com)
-
 ## 26-2 (mpox)
 
 - [Mpox: entenda a doença viral que preocupa autoridades de saúde](https://www.terra.com.br/vida-e-estilo/saude/mpox-entenda-a-doenca-viral-que-preocupa-autoridades-de-saude,57b0dc32bb523887bdbb205314e4eed8k936sacw.html) (Terra.com.br)
@@ -2243,273 +2261,3 @@ Source: [News API](https://newsapi.org/)
 - [Mosquitos infectados com bactérias: como a genética atua na luta contra dengue, Zika e chikungunya](https://www.terra.com.br/noticias/mosquitos-infectados-com-bacterias-como-a-genetica-atua-na-luta-contra-dengue-zika-e-chikungunya,c9e30daca376678b179a6b7eccf567378ial7yht.html) (Terra.com.br)
 
 - [Development of a PCB–based Electrochemical Aptasensor for Chikungunya Virus Protein Detection](https://pubs.rsc.org/en/content/articlelanding/2026/an/d5an01261a) (Royal Society of Chemistry)
-
-## 26-1 (typhoid)
-
-- [Water contamination scare now in Gandhinagar, B'luru; gastrointestinal illness, typhoid cases see a spike](https://timesofindia.indiatimes.com/india/water-contamination-scare-now-in-gandhinagar-bluru-gastrointestinal-illness-typhoid-cases-see-a-spike/articleshow/126327613.cms) (The Times of India)
-
-- [Gandhinagar typhoid surge: Over 100 people hospitalized; Amit Shah reviews situation](https://economictimes.indiatimes.com/news/india/gandhinagar-typhoid-surge-over-100-persons-hospitalized-amit-shah-reviews-situation/articleshow/126322093.cms) (The Times of India)
-
-## 26-1 (rabies)
-
-- [How likely is it to get rabies from a bat?](https://www.lifesciencesworld.com/how-likely-is-it-to-get-rabies-from-a-bat/) (Lifesciencesworld.com)
-
-- [Animal officials urge caution after rise in rabies cases](https://www.wsbradio.com/news/local/animal-officials-urge-caution-after-rise-rabies-cases/HFK3C22TJNHSDLASMXKOLEPZAU/) (WSB Radio)
-
-- [RTI: Four of 10 faculty posts vacant across 11 AIIMS](https://timesofindia.indiatimes.com/india/rti-four-of-10-faculty-posts-vacant-across-11-aiims/articleshow/126294251.cms) (The Times of India)
-
-- [NMC orders hospitals to stock rabies drugs after Supreme Court flags stray threat](https://timesofindia.indiatimes.com/india/nmc-orders-hosps-to-stock-rabies-drugs-after-supreme-court-flags-stray-threat/articleshow/126294063.cms) (The Times of India)
-
-- [Wayne Gretzky vs Connor McDavid: Net worth, cars, lifestyle, legacy compared and more](https://timesofindia.indiatimes.com/sports/nhl/news/wayne-gretzky-vs-connor-mcdavid-net-worth-cars-lifestyle-legacy-compared-and-more/articleshow/126291549.cms) (The Times of India)
-
-- [Can a human get rabies from a possum?](https://www.lifesciencesworld.com/can-a-human-get-rabies-from-a-possum/) (Lifesciencesworld.com)
-
-## 26-1 (mpox)
-
-- [Monkeypox Symptoms in 2026: New Mpox Signs and How to Spot the Contagious Rash](https://www.medicaldaily.com/monkeypox-symptoms-2026-new-mpox-signs-how-spot-contagious-rash-474101) (Medical Daily)
-
-## 26-1 (meningitis)
-
-- [Cricket 2026: Damien Martyn wakes up from induced coma after meningitis, health update for cricket great, Adam Gilchrist, latest news](https://www.foxsports.com.au/cricket/australia/cricket-2026-damien-martyn-meningitis-induced-coma-family-give-update-over-health-recovery/news-story/5c766d1326dce3ad3881560c1f1e531f) (Fox Sports)
-
-- [‘Progressing well’: Damien Martyn’s family issues first statement about cricketer’s recovery from meningitis since he was placed in induced coma](https://indianexpress.com/article/sports/cricket/damien-martyn-meningitis-coma-recovering-well-family-10453895/) (The Indian Express)
-
-- [Damien Martyn health update: Adam Gilchrist gives big update as ex-Australian batter battles meningitis; here’s what he said](https://economictimes.indiatimes.com/news/international/australia/damien-martyn-health-update-adam-gilchrist-gives-big-update-as-ex-australian-batter-battles-meningitis-heres-what-he-said/articleshow/126303572.cms) (The Times of India)
-
-- [Gilchrist says 'encouraging signs' as Damien Martyn treated for meningitis](https://www.abc.net.au/news/2026-01-02/damien-martyn-meningitis-health-update-adam-gilchrist/106193746) (ABC News (AU))
-
-- [Aussie cricket star Damien Martyn hospitalised for meningitis. Apollo doc explains how it can affect brain and even cause death](https://economictimes.indiatimes.com/magazines/panache/aussie-cricket-star-damien-martyn-hospitalised-for-meningitis-apollo-doc-explains-how-it-can-affect-brain-and-even-cause-death/articleshow/126282747.cms) (The Times of India)
-
-## 26-1 (measles)
-
-- [Possible measles exposure in Gaston County](https://www.wsoctv.com/news/local/possible-measles-exposure-gaston-county/3UBNTYBQZBBGXLHJSYIFFBPOWQ/) (WSOC Charlotte)
-
-- [Measles exposure reported in Gaston County, NC Department of Health and Human Services says](https://abc11.com/post/measles-exposure-reported-gaston-county-nc-department-health-human-services-says/18347587/) (WTVD-TV)
-
-- [Measles exposure warning issued for Gaston County restaurant and Christmas event](https://www.wbtv.com/2026/01/03/measles-exposure-warning-issued-gaston-county-restaurant-christmas-event/) (WBTV)
-
-- [NCDHHS: Someone with measles traveled through Gaston County](https://www.qcnews.com/news/u-s/north-carolina/gaston-county/ncdhhs-someone-with-measles-traveled-through-gaston-county/) (Qcnews.com)
-
-- [Health Authorities Issue Measles Alert at Creationist Museum (William Vaillancourt/The Daily Beast)](https://www.memeorandum.com/260103/p2) (Memeorandum.com)
-
-- [Health Authorities Issue Measles Alert at Creationist Museum](https://www.thedailybeast.com/health-authorities-issue-measles-alert-at-creationist-museum/) (Daily Beast)
-
-- [America on verge of losing measles elimination status, outbreak surges in SCarolina...](https://www.themirror.com/news/us-news/verge-losing-measles-elimination-status-1591286) (Themirror.com)
-
-- [Morden church, rec centre latest measles exposure sites in Manitoba](https://www.cbc.ca/news/canada/manitoba/morden-church-rec-centre-measles-exposures-9.7032467) (CBC News)
-
-- ['It's very worrisome': Health officials urge vaccination amid North Carolina measles case](https://wlos.com/news/local/polk-county-measles-case-linked-north-upstate-south-carolina-outbreak-department-health-care-hospital-confirmed-unvaccinated-vaccines-child-quarantine-safe-exposure) (WLOS)
-
-- [US Measles Cases Reach Highest Level In 30 Years Thanks To Outbreaks In South Carolina, Arizona, And Utah](https://brobible.com/culture/article/us-measles-cases-highest-level-30-years/) (BroBible)
-
-- [South Carolina measles outbreak grows to 185 cases amid vaccination worries](https://www.aljazeera.com/news/2026/1/2/south-carolina-measles-outbreak-grows-to-185-cases-amid-vaccination-worries) (Al Jazeera English)
-
-- [Measles scare hits creationist Ark Encounter as unvaccinated visitor spreads infection](https://www.rawstory.com/ark-encounter-measles/) (Raw Story)
-
-- [SC measles outbreak grows, spreads to North Carolina](https://www.postandcourier.com/health/sc-measles-outbreak-growing-north-carolina/article_2291762f-8892-4941-b721-b61021c07561.html) (Charleston Post Courier)
-
-- [Children who miss early vaccines more likely to not get the MMR shot by age 2: Study](https://abcnews.go.com/Health/children-miss-early-vaccines-mmr-shot-age-2/story?id=128843493) (ABC News)
-
-- [New Truveta research published in JAMA Network Open reveals declining timeliness in childhood MMR vaccination and identifies early predictors of missed immunizations](https://www.globenewswire.com/news-release/2026/01/02/3212201/0/en/New-Truveta-research-published-in-JAMA-Network-Open-reveals-declining-timeliness-in-childhood-MMR-vaccination-and-identifies-early-predictors-of-missed-immunizations.html) (GlobeNewswire)
-
-- [Parents who delay baby's first vaccines also likely to skip measles shots](https://www.nbcnews.com/health/kids-health/delaying-vaccines-measles-risk-report-rfk-jr-rcna251735) (NBC News)
-
-- [Landmark chickenpox vaccine rollout begins](https://news.sky.com/story/chickenpox-vaccine-being-rolled-out-on-nhs-for-first-time-13489556) (Sky.com)
-
-- [U.S. reports over 2,000 measles cases in 2025, highest since 1992](https://www.thestar.com.my/news/world/2026/01/02/us-reports-over-2000-measles-cases-in-2025-highest-since-1992) (The Star Online)
-
-- [Over 2K measles cases reported in US in 2025 as ongoing outbreaks threaten elimination status](https://abc30.com/post/2k-measles-cases-reported-us-2025-ongoing-outbreaks-threaten-elimination-status/18339323/) (KFSN-TV)
-
-- [Over 2K measles cases reported in US in 2025 as ongoing outbreaks threaten elimination status](https://abc7ny.com/post/2k-measles-cases-reported-us-2025-ongoing-outbreaks-threaten-elimination-status/18339323/) (WABC-TV)
-
-- [Over 2K measles cases reported in US in 2025 as ongoing outbreaks threaten elimination status](https://abc7chicago.com/post/2k-measles-cases-reported-us-2025-ongoing-outbreaks-threaten-elimination-status/18339323/) (WLS-TV)
-
-- [US records 2,065 measles cases in 2025](https://www.wisn.com/article/us-measles-2025-cases/69897360) (WISN Milwaukee)
-
-- [US records 2,065 measles cases in 2025](https://www.kcci.com/article/us-measles-2025-cases/69897360) (KCCI Des Moines)
-
-- [US records 2,065 measles cases in 2025](https://www.wesh.com/article/us-measles-2025-cases/69897360) (WESH Orlando)
-
-- [Kentucky health officials warn of potential measles exposure at Grant County hotel, Ark Encounter](https://www.wlwt.com/article/kentucky-health-measles-exposure-grant-county-hotel-ark-encounter/69896258) (WLWT Cincinnati)
-
-- [Measles NC | Child in North Carolina treated for measles in Polk County after visiting area linked to outbreak in South Carolina](https://abc11.com/post/measles-nc-child-north-carolina-treated-polk-county-visiting-area-linked-outbreak-south/18336942/) (WTVD-TV)
-
-## 26-1 (leptospirosis)
-
-- ["Recen por mí": el desgarrador pedido de ex "Gran Hermano" tras agravarse su salud por una rara infección](https://www.elpais.com.uy/tvshow/personajes/recen-por-mi-el-desgarrador-pedido-de-ex-gran-hermano-tras-agravarse-su-salud-por-una-rara-infeccion) (Diario EL PAIS Uruguay)
-
-- [Silvina Scheffler recibió el alta tras una semana de internación: "Gracias a cada oración"](https://exitoina.perfil.com/noticias/destacada/silvina-scheffler-recibio-alta-tras-semana-internacion-gracias-oracion.phtml) (Perfil.com)
-
-- [La ex Gran Hermano Silvina Scheffler fue dada de alta luego de pasar 10 días en terapia intensiva](https://www.lanacion.com.ar/espectaculos/personajes/la-ex-gran-hermano-silvina-scheffler-fue-dada-de-alta-luego-de-pasar-10-dias-en-terapia-intensiva-nid02012026/) (La Nacion)
-
-- [Doctors fear ‘swamp fever’ spreading in flood-hit Gaza](https://www.aljazeera.com/video/newsfeed/2026/1/1/doctors-fear-swamp-fever-spreading-in-flood-hit-gaza) (Al Jazeera English)
-
-## 26-1 (h5n1)
-
-- [La grippe aviaire, une épidémie hors norme pour la faune sauvage](https://www.mediapart.fr/journal/ecologie/030126/la-grippe-aviaire-une-epidemie-hors-norme-pour-la-faune-sauvage) (Mediapart)
-
-## 26-1 (dengue)
-
-- [Willingness to pay for a dengue vaccine in Iran: Insights from a contingent valuation study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013869) (Plos.org)
-
-## 25-53 (zika)
-
-- [Flavivirus NS1-triggered endothelial dysfunction promotes virus dissemination](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013811) (Plos.org)
-
-- [In vivo and in vitro susceptibility and inflammatory response of postnatal mouse cortical neurons and glial cells to zika virus infection](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339900) (Plos.org)
-
-## 25-53 (yersinia)
-
-- [Systematic analysis of spontaneous tandem genome amplification events in Yersinia pestis](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0338460) (Plos.org)
-
-## 25-53 (typhoid)
-
-- [쿼드메디슨, GSK와 장티푸스 백신 MAP 보강 계약 체결](https://www.venturesquare.net/1029749) (Venturesquare.net)
-
-- [How Mary Todd Lincoln Lands Totally Out of Context](https://www.theatlantic.com/ideas/2025/12/oh-mary-theater-trump/685446/) (The Atlantic)
-
-## 25-53 (rabies)
-
-- [Coyote who attacked metro Atlanta resident and dog tests positive for rabies](https://www.wsbradio.com/news/local/coyote-who-attacked-metro-atlanta-resident-dog-tests-positive-rabies/XSMTCFFJNFE7ZNM7B7R4Y7TQQI/) (WSB Radio)
-
-- [Primate, horror film about a rabies-crazed chimp, earns an R rating with strong bloody violent content and gore](https://www.joblo.com/primate-r-rating/) (JoBlo.com)
-
-- [Why do possums foam at the mouth?](https://www.lifesciencesworld.com/why-do-possums-foam-at-the-mouth/) (Lifesciencesworld.com)
-
-- [Primate clip shows a creepy moment involving the rabies-crazed chimp](https://www.joblo.com/primate-clip/) (JoBlo.com)
-
-- [Australia Flags Counterfeit Rabies Vaccine In India; Manufacturer Responds](https://www.ndtvprofit.com/business/australia-flags-counterfeit-rabies-vaccine-in-india-manufacturer-responds) (Ndtvprofit.com)
-
-- [How a raita served at a funeral sparked a rabies scare among 200 villagers in UP](https://economictimes.indiatimes.com/news/india/how-a-raita-served-at-a-funeral-sparked-a-rabies-scare-among-200-villagers-in-up/articleshow/126230084.cms) (The Times of India)
-
-- [What happens to the cat after it bites someone?](https://www.lifesciencesworld.com/what-happens-to-the-cat-after-it-bites-someone/) (Lifesciencesworld.com)
-
-## 25-53 (pertussis)
-
-- [Pertussis: What to know about the whooping cough, including symptoms, treatments and DTap/Tdap vaccination options](https://www.cnn.com/2025/12/30/health/pertussis-vaccine-symptoms-whooping-cough) (CNN)
-
-## 25-53 (meningitis)
-
-- [Former Australian player Damien Martyn in hospital in a coma](https://english.gossiplankanews.com/2025/12/former-australian-player-damien-martyn.html) (Gossiplankanews.com)
-
-- [Ex-Australia batter in induced coma after contracting meningitis](https://news.sky.com/story/ex-australia-batter-damien-martyn-in-induced-coma-after-contracting-meningitis-13488986) (Sky.com)
-
-- [Meningitis: Damien Martyn’s ICU battle reveals the deadly risks of this brain infection; Symptoms, causes, and treatment](https://economictimes.indiatimes.com/news/new-updates/meningitis-damien-martyns-icu-battle-reveals-the-deadly-risks-of-this-brain-infection-symptoms-causes-and-treatment/articleshow/126264771.cms) (The Times of India)
-
-- [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
-
-- [Ex-Australia batter Martyn in coma with meningitis](https://www.bbc.com/sport/cricket/articles/c3013de0g88o) (BBC News)
-
-- [Australian cricket great Damien Martyn placed in induced coma: Check the actual reason behind his critical condition](https://economictimes.indiatimes.com/news/international/australia/australian-cricket-great-damien-martyn-placed-in-induced-coma-check-the-actual-reason-behind-his-critical-condition/articleshow/126263156.cms) (The Times of India)
-
-- [What Is Meningitis? Ex-Australia Cricketer Damien Martyn In Induced Coma After Diagnosis](https://www.ndtvprofit.com/trending/what-is-meningitis-ex-australia-cricketer-damien-martyn-in-induced-coma-after-diagnosis) (Ndtvprofit.com)
-
-- [Former Australian cricketer Damien Martyn is in serious condition in a Brisbane hospital](https://economictimes.indiatimes.com/news/sports/former-australian-cricketer-damien-martyn-is-in-serious-condition-in-a-brisbane-hospital/articleshow/126262504.cms) (The Times of India)
-
-- [Former Australian cricketer Damien Martyn seriously ill in induced coma](https://www.abc.net.au/news/2025-12-31/former-australian-cricketer-damien-martyn-in-induced-coma/106189352) (ABC News (AU))
-
-- [Australian cricket great Damien Martyn rushed to hospital and placed in induced coma with meningitis](https://www.nzherald.co.nz/sport/australian-cricket-great-damien-martyn-rushed-to-hospital-and-placed-in-induced-coma-with-meningitis/W4ZFBWDT65AUJASVD3MS4D5DLU/) (New Zealand Herald)
-
-## 25-53 (measles)
-
-- [2025: The Year The USA Got Infected With Both Measles And Robert F. Kennedy Jr.](https://www.wonkette.com/p/2025-the-year-the-usa-got-infected) (Wonkette.com)
-
-- [Joe Rogan sparks controversy with misleading measles take - Here's the truth](https://www.marca.com/en/ufc/2025/12/31/69559be346163fb6568b4572.html) (Marca)
-
-- [NCDHHS: Child in North Carolina was likely positive for measles](https://www.wxii12.com/article/ncdhss-child-presumed-positive-measles/69895436) (WXII12 Winston-Salem)
-
-- [More than 2,000 measles cases reported in the US this year as ongoing outbreaks threaten elimination status | CNN](https://www.cnn.com/2025/12/31/health/measles-cases-outbreaks-continue) (CNN)
-
-- [Nebraska officials report another confirmed case of measles](https://www.ketv.com/article/nebraska-second-confirmed-measles-case-platte-county/69894967) (KETV Omaha)
-
-- [Where vaccination rates declined the most, by county (Herb Scribner/Axios)](https://www.memeorandum.com/251231/p56) (Memeorandum.com)
-
-- [U.S. Reaches Over 2,000 Measles Cases as 2 Airports Detect Cases Over Holidays](https://legalinsurrection.com/2025/12/u-s-reaches-over-2000-measles-cases-as-2-airports-detect-cases-over-holidays/) (Legalinsurrection.com)
-
-- [Congrats to RFK Jr., As the U.S. Is Poised to Lose Its Measles Elimination Status After 25 Years](https://www.jezebel.com/measles-united-states-elimination-status-lost-rfk-jr-cases-south-carolina-cdc-spread-transmission) (Jezebel)
-
-- [Measles Mania 2025: Don’t Fear the Measles](https://www.globalresearch.ca/measles-mania-2025-dont-fear-measles/5910688) (Globalresearch.ca)
-
-- [Joe Rogan Slammed for Calling Measles 'Harmless' as Experts Warn of Dangerous Misinformation](https://www.ibtimes.com/joe-rogan-slammed-calling-measles-harmless-experts-warn-dangerous-misinformation-3794038) (International Business Times)
-
-- [Immigrant Derangement Syndrome (Paul Krugman)](https://www.memeorandum.com/251231/p6) (Memeorandum.com)
-
-- [2025 Measles Cases In America Surpass The 2,000 Mark](https://www.techdirt.com/2025/12/30/2025-measles-cases-in-america-surpass-the-2000-mark/) (Techdirt)
-
-- [Measles alert: NSW Health urges public to monitor for symptoms after infectious traveller lands in Sydney](https://www.9news.com.au/national/measles-alert-public-health-warning-after-infectious-traveller-lands-in-sydney-new-south-wales/0230a709-0e74-408c-a079-bed896d0aa83) (9News)
-
-- [‘I Hope You Like Measles’: U.S. Measles Cases Hit Three-Decade High a Year After Jake Tapper’s Prediction About RFK Jr. Leading HHS](https://www.mediaite.com/media/tv/i-hope-you-like-measles-u-s-measles-cases-hit-three-decade-high-a-year-after-jake-tappers-prediction-about-rfk-jr-leading-hhs/) (Mediaite)
-
-- [US measles cases surpass 2,000 this year (Joseph Choi/The Hill)](https://www.memeorandum.com/251230/p77) (Memeorandum.com)
-
-- [U.S. measles cases reach highest level in over 30 years: CDC (Julianna Bragg/Axios)](https://www.memeorandum.com/251230/p76) (Memeorandum.com)
-
-- [New measles cases in South Carolina put U.S. on the verge of losing elimination status](https://www.nbcnews.com/health/health-news/measles-south-carolina-us-elimination-status-rcna251515) (NBC News)
-
-- [Measles case reported in Platte County, Nebraska](https://omaha.com/news/local/business/health-care/article_135ae254-53cb-4684-b6ea-3b4df3a1d584.html) (Omaha World-Herald)
-
-- [US measles cases surpass 2,000, highest in 30 years: CDC](https://abcnews.go.com/Health/us-measles-cases-surpass-2000-highest-30-years/story?id=128747603) (ABC News)
-
-- [World's most contagious virus detected at two major US airports amid holiday traffic](https://www.foxnews.com/travel/worlds-most-contagious-virus-detected-two-major-us-airports-amid-holiday-traffic) (Fox News)
-
-- [Nebraska confirmed case of measles reported by officials](https://www.ketv.com/article/nebraska-confirmed-measles-case-platte-county-columbus/69888372) (KETV Omaha)
-
-- [Nebraska health department reports case of measles in Platte County](https://www.klkntv.com/nebraska-health-department-reports-case-of-measles-in-platte-county/) (KLKN)
-
-- [Health unit in northwestern Ontario confirms measles case, capping a year of alarming rise in Canadian cases](https://www.cbc.ca/news/health/northwestern-health-unit-confirms-measles-case-in-a-year-canada-saw-alarming-rise-in-numbers-9.7030205) (CBC News)
-
-- [As Measles Cases Top 2,000, the U.S. Is on Brink of Losing Its Elimination Status](https://gizmodo.com/as-measles-cases-top-2000-the-u-s-is-on-brink-of-losing-its-elimination-status-2000704258) (Gizmodo.com)
-
-- [Health alert as traveller inflected with measles visits urgent care clinic in Perth’s south](https://www.perthnow.com.au/news/public-health/health-alert-as-traveller-inflected-with-measles-visits-urgent-care-clinic-in-perths-south-c-21159999) (PerthNow)
-
-- [Northeast B.C. measles outbreak to continue into 2026, health officials say](https://www.cbc.ca/news/canada/british-columbia/northern-bc-measles-outbreak-outlook-2026-9.7029625) (CBC News)
-
-- [Highly-contagious measles case confirmed in Walnut Creek and Lafayette, Contra Costa County health officials say](https://abc7news.com/post/highly-contagious-measles-case-confirmed-walnut-creek-lafayette-contra-costa-county-health-officials-say/18331222/) (KGO-TV)
-
-- [Possible measles exposure at East Bay shopping mall, health officials warn](https://www.ktvu.com/news/measles-walnut-creek-exposure) (KTVU San Francisco)
-
-- [Christmas gathering, hardware store among Manitoba's latest measles exposure sites](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-exposures-dec29-2025-9.7029414) (CBC News)
-
-- [7 Important Health Stories We’ll Be Following in 2026](https://www.scientificamerican.com/article/7-important-health-stories-well-be-following-in-2026/) (Scientific American)
-
-- [Bauchi inoculates 3.7m children against measles, rubella](https://punchng.com/bauchi-inoculates-3-7m-children-against-measles-rubella/) (The Punch)
-
-- [Petah Tikva joins list of measles outbreak hotspots](https://www.israelnationalnews.com/news/420035) (Israelnationalnews.com)
-
-## 25-53 (malaria)
-
-- [Apple Raises $3 Million for Global Fund’s Fight Against AIDS Via Apple Pay Promo](https://www.mactrast.com/2025/12/apple-raises-3-million-for-global-funds-fight-against-aids-via-apple-pay-promo/) (Mactrast.com)
-
-- [US commits $480M in health funding to Ivory Coast, the latest to sign ‘America First’ health deals](https://www.bostonherald.com/2025/12/30/ivory-coast-us-health-deal/) (Boston Herald)
-
-- [Tu dosis anual de buenas noticias (2025) [EN]](https://www.meneame.net/m/actualidad/tu-dosis-anual-buenas-noticias-2025) (Meneame.net)
-
-## 25-53 (leptospirosis)
-
-- [El duro audio de Silvina Scheffler tras su internación por leptospirosis: "Bastante complicada"](https://exitoina.perfil.com/noticias/destacada/duro-audio-silvina-scheffler-tras-internacion-leptospirosis-bastante-complicada.phtml) (Perfil.com)
-
-- [مأساة جديدة بغزة.. "ليبتوسبيروز" مرض تنقله الفئران والقوارض يهدد النازحين](https://www.aljazeera.net/news/2025/12/31/%d9%85%d8%a3%d8%b3%d8%a7%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a8%d8%ba%d8%b2%d8%a9-%d9%84%d9%8a%d8%a8%d8%aa%d9%88%d8%b3%d8%a8%d9%8a%d8%b1%d9%88%d8%b2-%d9%85%d8%b1%d8%b6) (Aljazeera.net)
-
-- [Disease risks rise in Gaza as official warns of leptospirosis among displaced](https://www.thestar.com.my/news/world/2025/12/31/disease-risks-rise-in-gaza-as-official-warns-of-leptospirosis-among-displaced) (The Star Online)
-
-## 25-53 (h5n1)
-
-- [Grippe aviaire : cette modélisation explique pourquoi la prochaine pandémie serait fulgurante](https://www.futura-sciences.com/sante/actualites/grippe-aviaire-grippe-aviaire-cette-modelisation-explique-prochaine-pandemie-serait-fulgurante-129611/) (Futura)
-
-- [Na Havlíčkobrodsku začala likvidace dalšího chovu slepic, opět pomáhají vězni](https://www.idnes.cz/jihlava/zpravy/ptaci-chripka-habry-havlickobrodsko-likvidace-chovu.A251230_084445_jihlava-zpravy_evs) (Idnes.cz)
-
-## 25-53 (dengue)
-
-- [Flavivirus NS1-triggered endothelial dysfunction promotes virus dissemination](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013811) (Plos.org)
-
-- [A promising Dengue fever drug was shelved. Now its data is hard to ignore](https://newatlas.com/infectious-diseases/dengue-fever-drug/) (New Atlas)
-
-- [Thambili Lahiru, who contracted dengue, has been hospitalized.](https://english.gossiplankanews.com/2025/12/thambili-lahiru-who-contracted-dengue.html) (Gossiplankanews.com)
-
-## 25-53 (chikungunya)
-
-- [Valneva, Serum Institute of India discontinue chikungunya vaccine pact](https://thefly.com/permalinks/entry.php/id4262980/VALN-Valneva-Serum-Institute-of-India-discontinue-chikungunya-vaccine-pact) (Thefly.com)
-
-- [Valneva and Serum Institute of India Announce Discontinuation of Chikungunya Vaccine License Agreement](https://www.globenewswire.com/news-release/2025/12/31/3211836/0/en/Valneva-and-Serum-Institute-of-India-Announce-Discontinuation-of-Chikungunya-Vaccine-License-Agreement.html) (GlobeNewswire)
-
-- [Valneva et le Serum Institute of India annoncent la fin de leur accord de licence pour le vaccin contre le chikungunya](https://www.globenewswire.com/news-release/2025/12/31/3211836/0/fr/Valneva-et-le-Serum-Institute-of-India-annoncent-la-fin-de-leur-accord-de-licence-pour-le-vaccin-contre-le-chikungunya.html) (GlobeNewswire)
