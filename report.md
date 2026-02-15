@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 10
-- **Last harvest:** 2026-02-15 07:20
-- **Most recent article:** 2026-02-14 04:06:41
+- **Last harvest:** 2026-02-15 19:12
+- **Most recent article:** 2026-02-14 16:06:37
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 47 | 63 | 88 | 76 | 107 | 97 | 478 |
-| dengue | 12 | 22 | 27 | 16 | 16 | 23 | 116 |
-| h5n1 | 12 | 8 | 17 | 22 | 12 | 11 | 82 |
-| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 68 |
-| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 65 |
-| mpox | 14 | 9 | 11 | 4 | 11 | 12 | 61 |
+| measles | 46 | 63 | 88 | 76 | 107 | 102 | 482 |
+| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 117 |
+| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 83 |
+| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 67 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 63 |
+| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 63 |
 | chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 41 |
-| meningitis | 11 | 10 | 2 | 7 | 4 | 6 | 40 |
+| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 40 |
 | zika | 4 | 6 | 3 | 7 | 0 | 3 | 23 |
 | leptospirosis | 2 | 1 | 4 | 6 | 3 | 1 | 17 |
 | hpai | 2 | 3 | 4 | 3 | 1 | 3 | 16 |
 | yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 15 |
-| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 9 |
+| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 8 |
 | pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 4 |
 
 
@@ -90,6 +90,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (mpox)
 
+- [New recombinant mpox strain detected in UK and India, WHO urges continued monitoring](https://news.un.org/en/story/2026/02/1166966) (UN News)
+
+- [ราชทัณฑ์ เผยไม่มีผู้ต้องขังป่วย “ฝีดาษลิง” เพิ่ม ยันเรือนจำและทัณฑสถานทุกแห่งปลอดภัย](https://www.thairath.co.th/news/local/2914244) (Thairath.co.th)
+
 - [เรือนจำพิเศษธนบุรีพบผู้ต้องขังเข้าใหม่ 1 ราย แพทย์สงสัยป่วย “ฝีดาษลิง”](https://www.thairath.co.th/news/local/2914171) (Thairath.co.th)
 
 - [Deleted CDC Page: Risk of Clade 1 Mpox Outbreaks Among Gay, Bisexual, and Other Men Who Have Sex With Men in the United States](https://www.menshealth.com/health/a70306633/cdc-cfa-modeling-and-forecasting-mpox-gbmsm-technical-brief-mpox-gbmsm-tech-brief2024-index/) (menshealth.com)
@@ -116,6 +120,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (meningitis)
 
+- [St. Pierre: Kids pay price when vaccine policy is political](https://www.bostonherald.com/2026/02/14/st-pierre-kids-pay-price-when-vaccine-policy-is-political/) (Boston Herald)
+
 - [Patricia Pérez se rompe al hablar de la ceguera de su marido: "Él no ve nada, no ve ni luz"](https://www.libertaddigital.com/chic/corazon/2026-02-11/patricia-perez-se-rompe-al-hablar-de-la-ceguera-de-su-marido-el-no-ve-nada-no-ve-ni-luz-7357795/) (Libertaddigital.com)
 
 - [Patricia Pérez revela el nuevo problema de salud que enfrenta Luis Canut tras quedarse ciego y ponen tierra de por medio](https://www.hola.com/actualidad/20260210883128/patricia-perez-actualizacion-luis-canut-ceguera/) (Hola)
@@ -129,6 +135,16 @@ Source: [News API](https://newsapi.org/)
 - [Terminale Luzidität: Rätselhafte Klarheit kurz vor dem Tod](https://www.spektrum.de/news/terminale-luziditaet-fuer-ein-paar-stunden-von-demenz-geheilt/2285620) (Spektrum.de)
 
 ## 26-7 (measles)
+
+- [Why are measles outbreaks increasing? #health](https://alltoc.com/health/why-are-measles-outbreaks-increasing) (Alltoc.com)
+
+- [What caused the US measles surge? #health](https://alltoc.com/health/what-caused-the-us-measles-surge) (Alltoc.com)
+
+- [What's driving the measles outbreaks? #health](https://alltoc.com/health/what-s-driving-the-measles-outbreaks) (Alltoc.com)
+
+- [What is driving the measles surge? #health](https://alltoc.com/health/what-is-driving-the-measles-surge) (Alltoc.com)
+
+- [RFK Jr. May Say No to Measles Vaccines, But He Was Once Not Above Doing Lines Off a Toilet](https://www.jezebel.com/rfk-jr-may-say-no-to-measles-vaccines-but-he-was-once-not-above-doing-lines-off-a-toilet) (Jezebel)
 
 - [What caused the measles outbreak at Ave Maria University? #health](https://alltoc.com/health/what-caused-the-measles-outbreak-at-ave-maria-university) (Alltoc.com)
 
@@ -368,6 +384,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (h5n1)
 
+- [Ptačí chřipka se potvrdila u racka z pražské náplavky](https://www.novinky.cz/clanek/domaci-zpravy-hlavni-mesto-praha-ptaci-chripka-se-potvrdila-u-racka-z-prazske-naplavky-40562588) (Novinky.cz)
+
 - [Geflügelpest: Erster Vogelgrippe-Ausbruch vor 20 Jahren - Millionenschaden](https://www.zeit.de/news/2026-02/13/erster-vogelgrippe-ausbruch-vor-20-jahren-millionenschaden) (Die Zeit)
 
 - [Geflügelpest: Erster Vogelgrippe-Ausbruch vor 20 Jahren - Millionenschaden](https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/gefluegelpest--erster-vogelgrippe-ausbruch-vor-20-jahren---millionenschaden-37134658.html) (STERN.de)
@@ -391,6 +409,8 @@ Source: [News API](https://newsapi.org/)
 - [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
+
+- [From phishing protection to coverage for HFMD and EV batteries, are niche insurance plans worth buying?](https://www.channelnewsasia.com/today/adulting/niche-insurance-specialised-lifestyle-health-medical-need-5919356) (CNA)
 
 - [Haryana notifies strict regulations pertaining to vector-borne diseases, imposes penalties for violators](https://economictimes.indiatimes.com/news/india/haryana-notifies-strict-regulations-pertaining-to-vector-borne-diseases-imposes-penalties-for-violators/articleshow/128305549.cms) (The Times of India)
 
@@ -1990,8 +2010,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
-- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
-
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2009,8 +2027,6 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
-
-- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2063,8 +2079,6 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
-
-- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2160,8 +2174,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
-
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2185,10 +2197,6 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
-
-- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
-
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 
