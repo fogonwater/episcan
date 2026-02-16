@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-02-16 07:29
-- **Most recent article:** 2026-02-15 05:00:00
+- **New articles in last harvest:** 11
+- **Last harvest:** 2026-02-16 19:17
+- **Most recent article:** 2026-02-15 18:42:32
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 47 | 63 | 88 | 76 | 107 | 106 | 3 | 490 |
-| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 1 | 118 |
-| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 0 | 83 |
-| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 0 | 68 |
-| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 0 | 65 |
-| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 1 | 64 |
-| meningitis | 11 | 10 | 2 | 7 | 4 | 7 | 0 | 41 |
-| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 0 | 41 |
+| measles | 46 | 63 | 88 | 76 | 107 | 106 | 7 | 493 |
+| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 3 | 120 |
+| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 3 | 86 |
+| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 0 | 67 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 2 | 65 |
+| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 0 | 63 |
+| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 1 | 42 |
+| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 2 | 42 |
 | zika | 4 | 6 | 3 | 7 | 0 | 3 | 0 | 23 |
-| leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 0 | 18 |
+| leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 1 | 19 |
 | hpai | 2 | 3 | 4 | 3 | 1 | 3 | 0 | 16 |
 | yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 0 | 15 |
-| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 0 | 9 |
+| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 0 | 8 |
 | pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
@@ -34,9 +34,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (mpox)
 
+- ["ราชทัณฑ์" ยังไม่พบป่วยเพิ่ม หลังมีผู้ต้องขังติดเชื้อ "ฝีดาษลิง" เสียชีวิต](https://www.thairath.co.th/news/local/2914377) (Thairath.co.th)
+
 - [Monkeypox Virus Antibodies in Healthy Persons after Vaccination with MVA-BN, United Kingdom](https://wwwnc.cdc.gov/eid/article/32/2/25-1553_article) (Cdc.gov)
 
+## 26-8 (meningitis)
+
+- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
+
+- [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
+
 ## 26-8 (measles)
+
+- [Worst US measles outbreak in 30 years: South Carolina, Florida battle health crisis, several college campuses hit badly](https://economictimes.indiatimes.com/news/international/us/worst-us-measles-outbreak-in-30-years-south-carolina-florida-battles-health-crisis-several-college-campuses-hit-badly/articleshow/128387603.cms) (The Times of India)
+
+- ['Fast-spreading' measles outbreak hits several schools in London](https://www.bbc.com/news/articles/cev7edxxzm7o) (BBC News)
+
+- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
+
+- [What's driving recent measles outbreaks? #health](https://alltoc.com/health/what-s-driving-recent-measles-outbreaks) (Alltoc.com)
 
 - [Why is measles spreading in north London? #health](https://alltoc.com/health/why-is-measles-spreading-in-north-london) (Alltoc.com)
 
@@ -44,9 +60,29 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles cases rising in north London? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-north-london) (Alltoc.com)
 
+## 26-8 (leptospirosis)
+
+- [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
+
+## 26-8 (h5n1)
+
+- [В Антарктиде подтверждена массовая гибель поморников от птичьего гриппа H5N1](https://overclockers.ru/blog/This_is_the_way/show/249831/V-Antarktide-podtverzhdena-massovaya-gibel-pomornikov-ot-ptich-ego-grippa-H5N1) (Overclockers.ru)
+
+- [Why has H5N1 appeared in Antarctica? #science](https://alltoc.com/science/why-has-h5n1-appeared-in-antarctica) (Alltoc.com)
+
+- [What does H5N1 in Antarctica mean for wildlife? #science](https://alltoc.com/science/what-does-h5n1-in-antarctica-mean-for-wildlife) (Alltoc.com)
+
 ## 26-8 (dengue)
 
+- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
+
+- [El ‘charco-lago’ de La Sabana y la amenaza del dengue](https://www.nacion.com/opinion/cartas/el-charco-lago-de-la-sabana-y-la-amenaza-del/USRTT4KV6BAUXKH224MBLOZXLA/story/) (Nacion.com)
+
 - [Using Routine Surveillance Data to Assess Dengue Virus Transmission Risk in Travelers Returning to the United States](https://wwwnc.cdc.gov/eid/article/32/2/25-1217_article) (Cdc.gov)
+
+## 26-8 (chikungunya)
+
+- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
 
 ## 26-7 (zika)
 
@@ -2036,8 +2072,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
-- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
-
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2055,8 +2089,6 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
-
-- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2109,8 +2141,6 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
-
-- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2206,8 +2236,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
-
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2231,10 +2259,6 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
-
-- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
-
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 
