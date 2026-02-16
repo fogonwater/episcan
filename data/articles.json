@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-02-15 19:12",
-  "count_articles_total": 1008,
+  "last_updated": "2026-02-16 07:29",
+  "count_articles_total": 1023,
   "count_articles_new": 10,
   "articles": [
+    {
+      "id": 27649,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Using Routine Surveillance Data to Assess Dengue Virus Transmission Risk in Travelers Returning to the United States",
+      "description": "Surveillance Data to Assess Dengue Virus Risk",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/2/25-1217_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-02-15 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Dengue is a mosquitoborne \u2026 [+28073 chars]",
+      "retrievedAt": "2026-02-16 07:29:06.386666",
+      "internal_id": "dfceb21e8e899442ab2d7df5ad0c5d14809702c528a7019965049ad2cf29f521",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27650,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Monkeypox Virus Antibodies in Healthy Persons after Vaccination with MVA-BN, United Kingdom",
+      "description": "Monkeypox Virus Antibodies in Healthy Persons after Vaccination with MVA-BN, United Kingdom",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/2/25-1553_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-02-15 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Mpox is a zoonotic viral d\u2026 [+6274 chars]",
+      "retrievedAt": "2026-02-16 07:29:07.673893",
+      "internal_id": "f0596ef79bd6c25e8c3231870f2ffec2befbcae872bbd9c5d7c50ff55a3de442",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27644,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is measles spreading in north London? #health",
+      "description": "Outbreak centered in Enfield linked to low vaccination coverage Health officials say the recent cluster of cases began among children who attend schools and a nursery in the Enfield area. More than 60 children have now been reported ill across seven schools a\u2026",
+      "url": "https://alltoc.com/health/why-is-measles-spreading-in-north-london",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-15 04:07:14",
+      "content": "Health officials say the recent cluster of cases began among children who attend schools and a nursery in the Enfield area. More than 60 children have now been reported ill across seven schools and a\u2026 [+1549 chars]",
+      "retrievedAt": "2026-02-16 07:29:05.520524",
+      "internal_id": "2d7797a14bebaac289d8af8175073b7b679d3fd57d318a3af6cef4c0f84d707f",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27642,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "'Fast-spreading' measles outbreak in north London leaves over 60 children infected",
+      "description": "Health authorities are urging families to vaccinate their children against measles as a surge in cases in several Enfield and Haringey schools threatens to spark a widespread outbreak.",
+      "url": "https://news.sky.com/story/fast-spreading-measles-outbreak-in-north-london-leaves-over-60-children-infected-13507769",
+      "urlToImage": "https://e3.365dm.com/26/02/1600x900/skynews-measles-rash-child_7165383.jpg?20260215023848",
+      "publishedAt": "2026-02-15 01:29:00",
+      "content": "A measles outbreak has spread across several schools in north London with some children needing hospital treatment. More than 60 suspected cases of measles have been recorded across seven schools an\u2026 [+2513 chars]",
+      "retrievedAt": "2026-02-16 07:29:05.384819",
+      "internal_id": "7353d2daf50256dc99d706d8307128cd1ca8beba1cd624bc0e6adc6c89cad0e4",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27643,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases rising in north London? #health",
+      "description": "Outbreak linked to low vaccination and school exposure Health officials in Enfield report more than 60 children infected across seven schools and a nursery, a cluster that reflects how measles exploits gaps in community immunity. The virus spreads very easily\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-north-london",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-15 00:06:40",
+      "content": "Health officials in Enfield report more than 60 children infected across seven schools and a nursery, a cluster that reflects how measles exploits gaps in community immunity. The virus spreads very e\u2026 [+1842 chars]",
+      "retrievedAt": "2026-02-16 07:29:05.496348",
+      "internal_id": "2299a547303c05965fea7eb089b63144fd9c320e739d7bf98939a8aca8f11909",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27647,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wmtv15news.com",
+      "author": "Tabitha Bland",
+      "title": "Health officials investigate new measles exposure at Madison hotel",
+      "description": "Public Health Madison & Dane County is investigating a new measles exposure in Dane County. The exposure is not related to the confirmed case of measles reported last week.",
+      "url": "https://www.wmtv15news.com/2026/02/14/health-officials-investigate-new-measles-exposure-madison-hotel/",
+      "urlToImage": "https://gray-wmtv-prod.gtv-cdn.com/resizer/v2/CEOFAKJT7BCTFMXSVM6H3VN3KQ.jpeg?auth=268e662e12ddecf78b257a38ebbeb10b59a1385300a0a579ba66afca564839a0&width=1200&height=600&smart=true",
+      "publishedAt": "2026-02-14 22:14:22",
+      "content": "MADISON, Wis. (WMTV) -Public Health Madison &amp; Dane County is investigating a new measles exposure in Dane County. The exposure is not related to the confirmed case of measles reported last week. \u2026 [+1038 chars]",
+      "retrievedAt": "2026-02-16 07:29:05.651740",
+      "internal_id": "4a989b1da9f2f35dd768312946326b6ac7d0a58895392ecb2a474afb842e601b",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 27651,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Michael Condon and Cara Jeffery",
+      "title": "'More outbreaks' of deadly zoonotic disease in southern Australia",
+      "description": "Researchers say leptospirosis is emerging as a climate\u2011driven health threat in Australia, with frequent storms, floods and heatwaves pushing the disease further south.",
+      "url": "https://www.abc.net.au/news/2026-02-15/climate-change-linked-to-increasing-leptospirosis-disease-risk/106312420",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dc66862c070740845a7602835db9b4e0?impolicy=wcms_watermark_news&cropH=2549&cropW=4532&xPos=0&yPos=66&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-02-14 19:32:25",
+      "content": "Sylvia Morris was in her second year of veterinary science studies in Townsville when she became seriously unwell with what appeared to be a cold. The illness quickly progressed to pneumonia, and sh\u2026 [+4510 chars]",
+      "retrievedAt": "2026-02-16 07:29:08.175738",
+      "internal_id": "f3e844bae9792429e4da218f5c18b18dd30c61b56e46eb974603accbddc61e00",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 27646,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Madison.com",
+      "author": "Anna Hansen",
+      "title": "Measles exposure reported at Madison hotel",
+      "description": "An out of state visitor who stayed the Holiday Inn Express, 5150 High Crossing Blvd. on February 6 later tested positive for the virus.",
+      "url": "https://madison.com/news/local/business/health-care/article_6586ead9-1762-4954-9cf1-f4c8da0295d9.html",
+      "urlToImage": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/6/58/6586ead9-1762-4954-9cf1-f4c8da0295d9/6990bd96d8891.preview.jpg?crop=1728%2C907%2C0%2C43&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-02-14 19:12:03",
+      "content": "Colleen Wallace, R.N., discusses how people exposed to measles have up to 72 hours to get a dose of MMR vaccine for protection.",
+      "retrievedAt": "2026-02-16 07:29:05.639407",
+      "internal_id": "d99d2db62d01e79a7d8d44abda4665fc0bd4237db0a0b41c6fce2be4aaf534e6",
+      "publishedAtLabel": "Feb 14"
+    },
     {
       "id": 27635,
       "query": [
@@ -508,6 +652,24 @@
       "publishedAtLabel": "Feb 13"
     },
     {
+      "id": 27645,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "9-year-old boy dies from measles",
+      "description": "Ministry warns unvaccinated individuals to avoid large events in outbreak areas and recommends accelerated immunization schedule.",
+      "url": "https://www.israelnationalnews.com/news/422389",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1206788.jpg",
+      "publishedAt": "2026-02-13 14:00:30",
+      "content": "The Ministry of Health announced on Friday that a nonvaccinated nine-year-old boy had died from measles. The child was brought to the hospital in critical condition, where he was pronounced dead afte\u2026 [+958 chars]",
+      "retrievedAt": "2026-02-16 07:29:05.621934",
+      "internal_id": "215815ddc9058d74d0e57566bb59bad61880c95ce552a908395230c8e163d19f",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
       "id": 27605,
       "query": [
         "measles"
@@ -956,6 +1118,24 @@
       "content": "This article was featured in the One Story to Read Today newsletter. Sign up for it here. The birthday-party invitation said siblings welcome, which means you can bring your 11-month-old son while y\u2026 [+18192 chars]",
       "retrievedAt": "2026-02-14 07:18:49.454553",
       "internal_id": "baa00ce06037a5ded6c57fd910fefa34e27e22a114db0f4f30337f0b3caa0f2a",
+      "publishedAtLabel": "Feb 12"
+    },
+    {
+      "id": 27648,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Deidre McPhillips, Matt Stiles, Annette Choi, Alex  Leeds Matthews",
+      "title": "Tracking measles cases in the United States through maps and charts",
+      "description": "Recent outbreaks of measles in the United States are driving up case counts and raising alarm among public health experts, especially as vaccination rates among children lag.",
+      "url": "https://www.cnn.com/health/tracking-measles-cases-us-maps-vis",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/measles-tracker-card-20260211144410241.png?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-02-12 20:28:15",
+      "content": "Recent outbreaks of measles in the United States are driving up case counts and raising alarm among public health experts, especially as vaccination rates among children lag. US cases surged to a re\u2026 [+3164 chars]",
+      "retrievedAt": "2026-02-16 07:29:05.664843",
+      "internal_id": "6d82d4271e35c8358210aba39cac60ba2dbfb5c96c4dabd8d1b6e6e6d0c65e56",
       "publishedAtLabel": "Feb 12"
     },
     {
@@ -18176,6 +18356,97 @@
       "content": "It has been so positive that theyre hopeful he will be able to move out of the ICU into another part of the hospital which is representative of what a great recovery its been and how quickly it has f\u2026 [+1103 chars]",
       "retrievedAt": "2026-01-06 07:12:07.878525",
       "internal_id": "37969dfc79237ef6a028f575061badd5d1a372edfc8bdbc3bb2931975ad9c2a3",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26629,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Delhi: Human rabies to be declared notifiable disease",
+      "description": "Delhi is set to declare Human Rabies a Notifiable Disease. This move aims to improve tracking and treatment of rabies cases. All health facilities must report suspected and confirmed cases. The government is also enhancing vaccination programs for humans and \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126335397,width-1200,height-630,imgsize-56024,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-04 13:23:57",
+      "content": "New Delhi, The Delhi Government is all set to declare Human Rabies as a Notifiable Disease in the national capital under the Epidemic Diseases Act in an effort to strengthen surveillance and ensure t\u2026 [+2822 chars]",
+      "retrievedAt": "2026-01-05 19:08:44.369217",
+      "internal_id": "50a7aa827b13690a1248b848477ed25d39e7a52ce9ad15c7a3fe079c8bbe31cb",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26632,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Guardian Nigeria",
+      "author": "Olayide Soaga",
+      "title": "Limited healthcare access leaves Makoko dependent on alternative medicine for malaria",
+      "description": "Here, in a settlement built on water and largely cut off from formal health services, residents frequently treat malaria-like symptoms",
+      "url": "https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/",
+      "urlToImage": "https://cdn.guardian.ng/wp-content/uploads/2026/01/unnamed-1.jpg",
+      "publishedAt": "2026-01-04 10:50:49",
+      "content": "The lagoon in Makoko, one of Nigerias largest informal settlements, commonly referred to as Nigerias Venice, lay so dark it was almost impossible to see the reflection of the sun. The creeks colour w\u2026 [+21808 chars]",
+      "retrievedAt": "2026-01-05 19:08:46.600358",
+      "internal_id": "02a9372a0b7a4a4ca1db479b6bb76804a25da3622ce42f509e43e0ef0a8804e8",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26631,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Bridget McArthur",
+      "title": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
+      "description": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.",
+      "url": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5d1fd8c3b32c81e3b2aab3dae5f52373?impolicy=wcms_watermark_news&cropH=1350&cropW=2400&xPos=293&yPos=184&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-01-04 08:57:18",
+      "content": "Australian cricket great Damien Martyn has woken up from an induced coma after falling ill with meningitis an infection that causes swelling around the brain. The 54-year-old former Test batsman wa\u2026 [+1953 chars]",
+      "retrievedAt": "2026-01-05 19:08:46.287996",
+      "internal_id": "8815a835d0e6b496834d36f4db9b5cca86c46fbc9b0a731eaacc5c9993017e2f",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26630,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "FG vaccinates millions of Nigerians against measles, yellow fever \u2014 Minister",
+      "description": "The Nigerian government has administered over 25 million measles and 22 million yellow fever vaccine doses, alongside new malaria and HPV vaccine rollouts. Read More: https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minist\u2026",
+      "url": "https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/10/03233354/PROF-ALI-1200x630.jpg",
+      "publishedAt": "2026-01-04 08:05:09",
+      "content": "The Coordinating Minister of Health and Social Welfare, Prof. Muhammad Pate, says the Federal Government has administered over 25 million doses of measles vaccine and 22 million yellow fever vaccinat\u2026 [+4396 chars]",
+      "retrievedAt": "2026-01-05 19:08:44.943013",
+      "internal_id": "460e1e3f20e212d7034aba83c9879f8c586f13923a83638583f720888a2ec02a",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26633,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike",
+      "description": "Water contamination crisis: Following 10 deaths in Indore, Gandhinagar and Bengaluru are now grappling with public health emergencies due to sewage-contaminated drinking water. Gandhinagar faces a typhoid outbreak with 70 active cases, while Bengaluru residen\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126332402,width-1200,height-630,imgsize-1152005,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-04 07:34:24",
+      "content": "After 10 deaths in Indore due to sewage-contaminated drinking water, Gandhinagar and Bengaluru are now facing similar public health emergencies, according to a TOI report. Residents in both cities ar\u2026 [+3447 chars]",
+      "retrievedAt": "2026-01-05 19:08:47.287107",
+      "internal_id": "d8696412e116e23dd0795f9ae766ca67b076a5a7fb39436914efd6170667d984",
       "publishedAtLabel": "Jan 4"
     }
   ]

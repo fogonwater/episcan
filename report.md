@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 10
-- **Last harvest:** 2026-02-15 19:12
-- **Most recent article:** 2026-02-14 16:06:37
+- **Last harvest:** 2026-02-16 07:29
+- **Most recent article:** 2026-02-15 05:00:00
 
 ---
 
@@ -10,27 +10,43 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 46 | 63 | 88 | 76 | 107 | 102 | 482 |
-| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 117 |
-| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 83 |
-| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 67 |
-| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 63 |
-| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 63 |
-| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 41 |
-| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 40 |
-| zika | 4 | 6 | 3 | 7 | 0 | 3 | 23 |
-| leptospirosis | 2 | 1 | 4 | 6 | 3 | 1 | 17 |
-| hpai | 2 | 3 | 4 | 3 | 1 | 3 | 16 |
-| yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 15 |
-| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 8 |
-| pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 4 |
+| Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 47 | 63 | 88 | 76 | 107 | 106 | 3 | 490 |
+| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 1 | 118 |
+| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 0 | 83 |
+| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 0 | 68 |
+| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 0 | 65 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 1 | 64 |
+| meningitis | 11 | 10 | 2 | 7 | 4 | 7 | 0 | 41 |
+| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 0 | 41 |
+| zika | 4 | 6 | 3 | 7 | 0 | 3 | 0 | 23 |
+| leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 0 | 18 |
+| hpai | 2 | 3 | 4 | 3 | 1 | 3 | 0 | 16 |
+| yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 0 | 15 |
+| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 0 | 9 |
+| pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-8 (mpox)
+
+- [Monkeypox Virus Antibodies in Healthy Persons after Vaccination with MVA-BN, United Kingdom](https://wwwnc.cdc.gov/eid/article/32/2/25-1553_article) (Cdc.gov)
+
+## 26-8 (measles)
+
+- [Why is measles spreading in north London? #health](https://alltoc.com/health/why-is-measles-spreading-in-north-london) (Alltoc.com)
+
+- ['Fast-spreading' measles outbreak in north London leaves over 60 children infected](https://news.sky.com/story/fast-spreading-measles-outbreak-in-north-london-leaves-over-60-children-infected-13507769) (Sky.com)
+
+- [Why are measles cases rising in north London? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-north-london) (Alltoc.com)
+
+## 26-8 (dengue)
+
+- [Using Routine Surveillance Data to Assess Dengue Virus Transmission Risk in Travelers Returning to the United States](https://wwwnc.cdc.gov/eid/article/32/2/25-1217_article) (Cdc.gov)
 
 ## 26-7 (zika)
 
@@ -136,6 +152,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-7 (measles)
 
+- [Health officials investigate new measles exposure at Madison hotel](https://www.wmtv15news.com/2026/02/14/health-officials-investigate-new-measles-exposure-madison-hotel/) (Wmtv15news.com)
+
+- [Measles exposure reported at Madison hotel](https://madison.com/news/local/business/health-care/article_6586ead9-1762-4954-9cf1-f4c8da0295d9.html) (Madison.com)
+
 - [Why are measles outbreaks increasing? #health](https://alltoc.com/health/why-are-measles-outbreaks-increasing) (Alltoc.com)
 
 - [What caused the US measles surge? #health](https://alltoc.com/health/what-caused-the-us-measles-surge) (Alltoc.com)
@@ -168,6 +188,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles cases climb to nearly 60 at university in Florida as outbreaks surge across U.S.](https://www.cbsnews.com/video/measles-cases-climb-to-nearly-60-at-university-in-florida-as-outbreaks-surge-across-us/) (CBS News)
 
+- [9-year-old boy dies from measles](https://www.israelnationalnews.com/news/422389) (Israelnationalnews.com)
+
 - [The Senator Who Has Made It Her Mission to Stop RFK Jr.](http://www.rollingstone.com/politics/politics-features/rfk-jr-hhs-one-year-senator-alsobrooks-1235513693/) (Rolling Stone)
 
 - [ילד בן תשע שלא חוסן מת מחצבת - הקורבן המבוגר ביותר בגל התחלואה](https://www.ynet.co.il/health/article/bke0isnpwx) (Ynet)
@@ -187,6 +209,8 @@ Source: [News API](https://newsapi.org/)
 - [U.S. States Are Taking Steps to Defy the Reign of Secretary Snake Oil](https://www.esquire.com/news-politics/politics/a70336549/new-york-illinois-california-who-rfk-jr/) (esquire.com)
 
 - [This Is How a Child Dies of Measles](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/) (The Atlantic)
+
+- [Tracking measles cases in the United States through maps and charts](https://www.cnn.com/health/tracking-measles-cases-us-maps-vis) (CNN)
 
 - [Why are measles cases rising? #health](https://alltoc.com/health/why-are-measles-cases-rising) (Alltoc.com)
 
@@ -371,6 +395,8 @@ Source: [News API](https://newsapi.org/)
 - [Plasmodium falciparum stomatin-like protein forms a putative complex with a metalloprotease in distinct mitochondrial loci](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013922) (Plos.org)
 
 ## 26-7 (leptospirosis)
+
+- ['More outbreaks' of deadly zoonotic disease in southern Australia](https://www.abc.net.au/news/2026-02-15/climate-change-linked-to-increasing-leptospirosis-disease-risk/106312420) (ABC News (AU))
 
 - [Bubba's Story: Health officials warn of leptospirosis, a highly contagious deadly bacterial disease affecting dogs and people](https://abc7news.com/post/bubbas-story-health-officials-warn-leptospirosis-highly-contagious-deadly-bacterial-disease-affecting-dogs-people/18580688/) (KGO-TV)
 
@@ -2010,6 +2036,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
+- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
+
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2027,6 +2055,8 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
+
+- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2079,6 +2109,8 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
+
+- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2174,6 +2206,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
+- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
+
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2197,6 +2231,10 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
+
+- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
+
+- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 
