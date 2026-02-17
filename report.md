@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-02-16 19:17
-- **Most recent article:** 2026-02-15 18:42:32
+- **New articles in last harvest:** 22
+- **Last harvest:** 2026-02-17 07:26
+- **Most recent article:** 2026-02-16 06:55:00
 
 ---
 
@@ -12,25 +12,33 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 46 | 63 | 88 | 76 | 107 | 106 | 7 | 493 |
-| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 3 | 120 |
-| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 3 | 86 |
-| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 0 | 67 |
+| measles | 47 | 63 | 88 | 76 | 107 | 112 | 18 | 511 |
+| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 4 | 121 |
+| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 5 | 88 |
+| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 0 | 68 |
 | mpox | 14 | 9 | 11 | 4 | 11 | 14 | 2 | 65 |
-| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 0 | 63 |
+| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 0 | 65 |
+| meningitis | 11 | 10 | 2 | 7 | 4 | 7 | 2 | 43 |
 | chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 1 | 42 |
-| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 2 | 42 |
-| zika | 4 | 6 | 3 | 7 | 0 | 3 | 0 | 23 |
-| leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 1 | 19 |
+| zika | 4 | 6 | 3 | 7 | 0 | 3 | 1 | 24 |
+| leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 2 | 20 |
 | hpai | 2 | 3 | 4 | 3 | 1 | 3 | 0 | 16 |
 | yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 0 | 15 |
-| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 0 | 8 |
+| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 1 | 10 |
 | pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-8 (zika)
+
+- [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
+
+## 26-8 (typhoid)
+
+- [The privileged life and tragic death of an 11-year-old Tipperary girl](https://www.irishtimes.com/life-style/people/2026/02/16/the-privileged-life-and-tragic-death-of-an-11-year-old-tipperary-girl/) (The Irish Times)
 
 ## 26-8 (mpox)
 
@@ -46,9 +54,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (measles)
 
+- [Q&A with The Atlantic's Liz Bruenig on her hypothetical creative nonfiction measles essay, writing in second person, persuading parents about vaccines, and more (Laura Hazard Owen/Nieman Lab)](https://mediagazer.com/260216/p1) (Mediagazer.com)
+
+- [Why are measles cases surging? #health](https://alltoc.com/health/why-are-measles-cases-surging) (Alltoc.com)
+
+- [Person with measles passed through Philadelphia International Airport, health officials say](https://www.cbsnews.com/philadelphia/news/measles-philadelphia-international-airport/) (CBS News)
+
+- [Measles exposure reported at Philadelphia International Airport](https://6abc.com/post/measles-exposure-reported-philadelphia-international-airport/18605914/) (WPVI-TV)
+
+- [Health officials warn of measles exposure at Philadelphia Airport](https://www.nbcphiladelphia.com/news/local/measles-exposure-phl-airport/4353084/) (NBC 10 Philadelphia)
+
+- [Why are measles cases surging now? #health](https://alltoc.com/health/why-are-measles-cases-surging-now) (Alltoc.com)
+
+- [Why is measles surging in London and the US? #health](https://alltoc.com/health/why-is-measles-surging-in-london-and-the-us) (Alltoc.com)
+
+- [‘Big measles outbreak’ affecting children under 10 confirmed in London](https://www.independent.ie/world-news/britain/big-measles-outbreak-affecting-children-under-10-confirmed-in-london/a1972459778.html) (Independent.ie)
+
 - [Worst US measles outbreak in 30 years: South Carolina, Florida battle health crisis, several college campuses hit badly](https://economictimes.indiatimes.com/news/international/us/worst-us-measles-outbreak-in-30-years-south-carolina-florida-battles-health-crisis-several-college-campuses-hit-badly/articleshow/128387603.cms) (The Times of India)
 
+- [UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBC](https://www.lbc.co.uk/article/uk-measles-outbreak-vaccinations-london-5HjdSMs_2/) (LBC)
+
+- [I’m not very worried about measles spreading in Singapore, says Health Minister Ong Ye Kung](https://www.straitstimes.com/singapore/not-very-worried-health-minister-ong-ye-kung-on-potential-for-measles-spread-in-singapore) (The Straits Times)
+
 - ['Fast-spreading' measles outbreak hits several schools in London](https://www.bbc.com/news/articles/cev7edxxzm7o) (BBC News)
+
+- [North London measles outbreak hits several schools with at least 34 children infected](https://www.bbc.co.uk/news/articles/cev7edxxzm7o) (BBC News)
 
 - [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
 
@@ -62,9 +92,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (leptospirosis)
 
+- [What to do with possum poo?](https://www.lifesciencesworld.com/what-to-do-with-possum-poo/) (Lifesciencesworld.com)
+
 - [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (h5n1)
+
+- [Центр Гамалеи разрабатывает "вакцинные консервы" против оспы обезьян](https://www.interfax.ru/russia/1072953) (Interfax.ru)
+
+- [Директор Центра Гамалеи Логунов рассказал о разработке вакцины от оспы обезьян](https://news.mail.ru/society/69824299/) (Mail.ru)
 
 - [В Антарктиде подтверждена массовая гибель поморников от птичьего гриппа H5N1](https://overclockers.ru/blog/This_is_the_way/show/249831/V-Antarktide-podtverzhdena-massovaya-gibel-pomornikov-ot-ptich-ego-grippa-H5N1) (Overclockers.ru)
 
@@ -73,6 +109,8 @@ Source: [News API](https://newsapi.org/)
 - [What does H5N1 in Antarctica mean for wildlife? #science](https://alltoc.com/science/what-does-h5n1-in-antarctica-mean-for-wildlife) (Alltoc.com)
 
 ## 26-8 (dengue)
+
+- [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
 
 - [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
 
@@ -190,6 +228,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Health officials investigate new measles exposure at Madison hotel](https://www.wmtv15news.com/2026/02/14/health-officials-investigate-new-measles-exposure-madison-hotel/) (Wmtv15news.com)
 
+- [New measles exposure in Madison prompts urgent health investigation](https://www.wkow.com/news/new-measles-exposure-in-madison-prompts-urgent-health-investigation/article_9a74091b-0e37-42cd-aac7-020d61ff8f28.html) (WKOW)
+
 - [Measles exposure reported at Madison hotel](https://madison.com/news/local/business/health-care/article_6586ead9-1762-4954-9cf1-f4c8da0295d9.html) (Madison.com)
 
 - [Why are measles outbreaks increasing? #health](https://alltoc.com/health/why-are-measles-outbreaks-increasing) (Alltoc.com)
@@ -208,11 +248,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Manitoba saw spike in measles cases, exposure at Jets game last week](https://www.cbc.ca/news/canada/manitoba/measles-cases-february-9.7089341) (CBC News)
 
+- [68 measle cases reported in Florida this year, count continues to rise](https://www.sun-sentinel.com/2026/02/13/68-measle-cases-reported-in-florida-this-year-count-continues-to-rise/) (Sun Sentinel)
+
 - [Measles cases surpass 900 in US with infections in 24 states: CDC](https://abcnews.com/Health/measles-cases-surpass-900-us-infections-24-states/story?id=130139484) (Abcnews.com)
 
 - [Why are U.S. measles cases rising? #health](https://alltoc.com/health/why-are-u-s-measles-cases-rising) (Alltoc.com)
 
 - [The Atlantic’s Elizabeth Bruenig on her “hypothetical,” heavily reported measles essay](https://www.niemanlab.org/2026/02/the-atlantics-elizabeth-bruenig-on-her-hypothetical-heavily-reported-measles-essay/) (Niemanlab.org)
+
+- [County Health Officials Report Two More Measles Cases In Western Riverside County](https://www.nbcpalmsprings.com/2026/02/13/county-health-officials-report-two-more-measles-cases-in-western-riverside-county) (NBC Palm Springs)
 
 - [Measles cases at university in Florida soar to nearly 60](https://www.cbsnews.com/news/measles-cases-at-university-in-florida-soar-amid-growing-outbreaks-nationwide/) (CBS News)
 
@@ -234,7 +278,13 @@ Source: [News API](https://newsapi.org/)
 
 - [2 new measles cases in Singapore; authorities refute online claims of childcare centre infection](https://www.channelnewsasia.com/singapore/measles-cda-childcare-centres-preschools-online-rumours-5929051) (CNA)
 
+- [2 new measles cases detected in Singapore, bringing total to 13 for 2026 so far](https://www.straitstimes.com/singapore/health/2-new-measles-cases-detected-in-singapore) (The Straits Times)
+
 - [Why are measles cases rising in the US? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-us) (Alltoc.com)
+
+- [Health officials have yet to find measles in wastewater](https://www.tmj4.com/news/milwaukee-county/milwaukee-health-officials-have-yet-to-find-measles-in-wastewater-following-possible-airport-exposures) (WTMJ-TV)
+
+- [How officials are tracking possible measles cases in Penobscot County](http://www.bangordailynews.com/2026/02/13/bangor/bangor-health/tracking-measles-cases-penobscot-county-joam40zk0w/) (Bangor Daily News)
 
 - [How bad is the measles resurgence? #health](https://alltoc.com/health/how-bad-is-the-measles-resurgence) (Alltoc.com)
 
@@ -2072,6 +2122,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
+- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
+
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2089,6 +2141,8 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
+
+- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2141,6 +2195,8 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
+
+- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2236,6 +2292,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
+- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
+
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2259,6 +2317,10 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
+
+- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
+
+- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 

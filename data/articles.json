@@ -1,8 +1,225 @@
 {
-  "last_updated": "2026-02-16 19:17",
-  "count_articles_total": 1029,
-  "count_articles_new": 11,
+  "last_updated": "2026-02-17 07:26",
+  "count_articles_total": 1056,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 27663,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mediagazer.com",
+      "author": null,
+      "title": "Q&A with The Atlantic's Liz Bruenig on her hypothetical creative nonfiction measles essay, writing in second person, persuading parents about vaccines, and more (Laura Hazard Owen/Nieman Lab)",
+      "description": "Laura Hazard Owen / Nieman Lab: Q&A with The Atlantic's Liz Bruenig on her hypothetical creative nonfiction measles essay, writing in second person, persuading parents about vaccines, and more \u2014 \u201cWe were attracted to the idea of providing a play-by-play of \u2026",
+      "url": "https://mediagazer.com/260216/p1",
+      "urlToImage": "https://www.niemanlab.org/images/atlantic-this-is-how-a-child-dies-of-measles-700x394.jpg",
+      "publishedAt": "2026-02-16 06:55:00",
+      "content": "Mediagazer presents the day's must-read media news on a single page. The media business is in tumult: from the production side to the distribution side, new technologies are upending the industry. \u2026 [+416 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.381202",
+      "internal_id": "35d770f874ebfd68da5d12c2fe04261f68d969654f10a573c51c862ee1e08095",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27683,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Rosita Boland",
+      "title": "The privileged life and tragic death of an 11-year-old Tipperary girl",
+      "description": "Dorothy May Petronell Grubb died of typhoid in 1919. She is memorialised in Tipperary\u2019s Museum of Hidden History",
+      "url": "https://www.irishtimes.com/life-style/people/2026/02/16/the-privileged-life-and-tragic-death-of-an-11-year-old-tipperary-girl/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/5CUCBA5FBNC5PNM64ONKBOOSM4.jpg?smart=true&auth=a4042d29fd002ef2be12ee2949eec1b481c132d931e69d194af6f93e40e347d0&width=1200&height=630",
+      "publishedAt": "2026-02-16 06:00:00",
+      "content": "Our national treasures and artefacts are rightly held in our national museums, but regional museums also hold many local unexpected gems that have the capacity to make us catch our breath. Some month\u2026 [+11067 chars]",
+      "retrievedAt": "2026-02-17 07:26:31.928817",
+      "internal_id": "57dcb3884939a7e5a629296a6364a413124a2b84462431be1d033d6e8b659eb0",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27680,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Interfax.ru",
+      "author": null,
+      "title": "\u0426\u0435\u043d\u0442\u0440 \u0413\u0430\u043c\u0430\u043b\u0435\u0438 \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \"\u0432\u0430\u043a\u0446\u0438\u043d\u043d\u044b\u0435 \u043a\u043e\u043d\u0441\u0435\u0440\u0432\u044b\" \u043f\u0440\u043e\u0442\u0438\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u0418\u043d\u0442\u0435\u0440\u0444\u0430\u043a\u0441: \u041d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u044d\u043f\u0438\u0434\u0435\u043c\u0438\u043e\u043b\u043e\u0433\u0438\u0438 \u0438 \u043c\u0438\u043a\u0440\u043e\u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0438 \u0438\u043c\u0435\u043d\u0438 \u0413\u0430\u043c\u0430\u043b\u0435\u0438 \u041c\u0438\u043d\u0437\u0434\u0440\u0430\u0432\u0430 \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u0435\u0442 \"\u043a\u043e\u043d\u0441\u0435\u0440\u0432\u044b\" \u0432\u0430\u043a\u0446\u0438\u043d, \u0432 \u0442\u043e\u043c \u0447\u0438\u0441\u043b\u0435 \u043f\u0440\u043e\u0442\u0438\u0432 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430, \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0438 \u043a\u043b\u0435\u0449\u0435\u0432\u043e\u0433\u043e \u044d\u043d\u0446\u0435\u0444\u0430\u043b\u0438\u0442\u0430, \u0441\u043e\u043e\u0431\u0449\u0438\u043b \"\u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u043e\u0439 \u043f\u0440\u0430\u0432\u0434\u0435\" \u0434\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u0446\u0435\u043d\u0442\u0440\u0430, \u0430\u043a\u2026",
+      "url": "https://www.interfax.ru/russia/1072953",
+      "urlToImage": "https://www.interfax.ru/aspimg/1072953.jpg",
+      "publishedAt": "2026-02-16 05:08:00",
+      "content": ". 16 . INTERFAX.RU - \"\" , , , \" \" , . \" \"\" H5N1 ( ), , , () , . - \", - . , \" \" \"-\" - . . - . , , . - , . \" , , \", - .",
+      "retrievedAt": "2026-02-17 07:26:30.295117",
+      "internal_id": "ea8172d2d5b901713a83b0bc67545977ec7e87ce166ff7f9a15d8f7f44af9633",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27681,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Mail.ru",
+      "author": "\u0414\u0438\u0430\u043d\u0430 \u0414\u044c\u044f\u043a\u043e\u0432\u0430",
+      "title": "\u0414\u0438\u0440\u0435\u043a\u0442\u043e\u0440 \u0426\u0435\u043d\u0442\u0440\u0430 \u0413\u0430\u043c\u0430\u043b\u0435\u0438 \u041b\u043e\u0433\u0443\u043d\u043e\u0432 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b \u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u0432\u0430\u043a\u0446\u0438\u043d\u044b \u043e\u0442 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d",
+      "description": "\u041b\u043e\u0433\u0443\u043d\u043e\u0432 \u0437\u0430\u044f\u0432\u0438\u043b, \u0447\u0442\u043e \u0432 \u0420\u043e\u0441\u0441\u0438\u0438 \u0435\u0441\u0442\u044c \u043d\u0430\u0440\u0430\u0431\u043e\u0442\u043a\u0438 \u0432\u0430\u043a\u0446\u0438\u043d \u043e\u0442 \u0448\u0435\u0441\u0442\u0438 \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439.",
+      "url": "https://news.mail.ru/society/69824299/",
+      "urlToImage": "https://resizer.mail.ru/p/517fbf29-84c8-562f-ad1f-b0c86ed2ef29/AQAGJOjdt0GqXj_-Ogq7ObYW3gDdjxSIJl8CiGPbEIER5eJeuPi1T4xdY2CKe_BXoFeHdA7J-Kizi1P1hfOxNTKdYng.jpg",
+      "publishedAt": "2026-02-16 05:07:14",
+      "content": "\u00ab \u201c\u201d H5N1 ( ), , , , . - \u00bb, \u2014 .",
+      "retrievedAt": "2026-02-17 07:26:30.341394",
+      "internal_id": "59fd4b25208d2468aef517d7878af0a62107af88b39071cc3b709eb9783b2fb5",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27665,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases surging? #health",
+      "description": "Measles outbreaks are spreading across multiple countries Clusters of measles have intensified in several places, prompting public\u2011health alerts and renewed vaccination campaigns. Local health authorities in parts of London reported dozens of children infecte\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-surging",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-16 04:06:19",
+      "content": "Clusters of measles have intensified in several places, prompting publichealth alerts and renewed vaccination campaigns. Local health authorities in parts of London reported dozens of children infect\u2026 [+1483 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.530745",
+      "internal_id": "b1617b71570aad5b42c5072b7fe82b221107034c83eb47c1f8b46a8a7ee6e138",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27684,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What to do with possum poo?",
+      "description": "What to Do With Possum Poo: A Comprehensive Guide Wondering what to do with possum poo? Don\u2019t fret! The best course of action is to treat it with care, focusing on safe removal and proper sanitation to prevent the spread of diseases like Leptospirosis and Sal\u2026",
+      "url": "https://www.lifesciencesworld.com/what-to-do-with-possum-poo/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-16 03:00:20",
+      "content": "Wondering what to do with possum poo? Don\u2019t fret! The best course of action is to treat it with care, focusing on safe removal and proper sanitation to prevent the spread of diseases like Leptospiros\u2026 [+8103 chars]",
+      "retrievedAt": "2026-02-17 07:26:32.155283",
+      "internal_id": "4b4cfd1e9486f27d72648c83003ff90a87416d61c653c6c2844e3f0c0510545c",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27669,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Laura Fay",
+      "title": "Person with measles passed through Philadelphia International Airport, health officials say",
+      "description": "A person with measles traveled through Philadelphia International Airport last week, health officials said.",
+      "url": "https://www.cbsnews.com/philadelphia/news/measles-philadelphia-international-airport/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/06/11/5597b246-a8f7-4c23-9a4a-21393e58da58/thumbnail/1200x630/3d300a25ec0463ccbdfa8edb8a6f0520/gettyimages-2216284027.jpg",
+      "publishedAt": "2026-02-16 02:59:31",
+      "content": "A person with measles traveled through Philadelphia International Airport last week, health officials said. The Philadelphia Department of Public Health is warning about a possible measles exposure\u2026 [+2486 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.685730",
+      "internal_id": "616d670e21c99f21017c5976d7092739906e73b4eb2852f5ad324141d3735e6f",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27677,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "Measles exposure reported at Philadelphia International Airport",
+      "description": "The Philadelphia Department of Public Health is warning travelers about a measles exposure at Philadelphia International Airport.",
+      "url": "https://6abc.com/post/measles-exposure-reported-philadelphia-international-airport/18605914/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/14517664_031224-wpvi-this-just-in-2024-generic-img.png?w=1600",
+      "publishedAt": "2026-02-16 02:50:32",
+      "content": "PHILADELPHIA (WPVI) - The Philadelphia Department of Public Health is warning travelers about a measles exposure at Philadelphia International Airport. Officials say a person with measles passed thr\u2026 [+712 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.791731",
+      "internal_id": "c7b0b1ad30b7616edca8d9d52f596167b8d9c2e3b21d9bf2b9bbffc26a162e21",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27670,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC 10 Philadelphia",
+      "author": "Brendan Brightman",
+      "title": "Health officials warn of measles exposure at Philadelphia Airport",
+      "description": "A person with measles traveled through PHL Airport this past Thursday, the Philadelphia Department of Public Health announced on Sunday.",
+      "url": "https://www.nbcphiladelphia.com/news/local/measles-exposure-phl-airport/4353084/",
+      "urlToImage": "https://media.nbcphiladelphia.com/2025/03/GettyImages-930111234.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-02-16 02:25:38",
+      "content": "A person with measles traveled through PHL Airport this past Thursday, the Philadelphia Department of Public Health announced on Sunday. The measles exposure occurred at Terminal E between 1:35 p.m\u2026 [+1170 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.698762",
+      "internal_id": "9bbe931258cfc8dfe226efc60e0908c45c06b4b9c19f75b1820a3e4f25b0c93c",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27664,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases surging now? #health",
+      "description": "Measles is reappearing where immunity has fallen A cluster of outbreaks in several countries and settings reflects gaps in vaccination and local vulnerabilities. Large recent pockets of infection include multiple outbreaks in the United States, a fast spreadi\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-surging-now",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-16 00:07:57",
+      "content": "A cluster of outbreaks in several countries and settings reflects gaps in vaccination and local vulnerabilities. Large recent pockets of infection include multiple outbreaks in the United States, a f\u2026 [+1769 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.506356",
+      "internal_id": "a7425b4edd832b13da2690f5fd2e0345311d495cc24eb9db11db2be839e93a7f",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27682,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Pmn.co.nz",
+      "author": "Khalia Strong",
+      "title": "From Fof\u014d to the Lab: Can Pacific healing help fight deadly viruses?",
+      "description": "Measles, dengue, and Zika still threaten Pasifika. A scientist is testing whether traditional plant remedies could help create new antiviral treatments.",
+      "url": "https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses",
+      "urlToImage": "https://cdn.sanity.io/images/vl4boe2z/production/8eb7688dc2ec78c0a0bc4eb09147abd62c7fc33f-1600x900.png",
+      "publishedAt": "2026-02-15 23:35:09",
+      "content": "As a child, Dr Natalie Netzler remembers lying still while her father pressed his hands to her aching head. The traditional Smoan massage, known as fof, felt intense. Then suddenly, the pain was gon\u2026 [+3898 chars]",
+      "retrievedAt": "2026-02-17 07:26:30.605524",
+      "internal_id": "1e0562cbb13352f20e3bf37204e3029e8ef3e3586f247a33d44ef37f01ba1e9a",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27666,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is measles surging in London and the US? #health",
+      "description": "Outbreaks tied to low vaccination and fast spread Several recent clusters have exposed how quickly measles can re\u2011establish itself when population immunity falls. In north\u2011east London, more than 60 children \u2014 including cases in multiple schools and a nursery \u2026",
+      "url": "https://alltoc.com/health/why-is-measles-surging-in-london-and-the-us",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-15 20:07:27",
+      "content": "Several recent clusters have exposed how quickly measles can reestablish itself when population immunity falls. In northeast London, more than 60 children including cases in multiple schools and a nu\u2026 [+1860 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.543612",
+      "internal_id": "c8fe7b10932bff2a1bcedf25cdb248a699fd2eea8562d4070714d2a4a7ff7b10",
+      "publishedAtLabel": "Feb 15"
+    },
     {
       "id": 27659,
       "query": [
@@ -20,6 +237,24 @@
       "content": "Os casos prov\u00e1veis de chikungunya em Santa Catarina mais que dobraram entre janeiro e fevereiro de 2026 em rela\u00e7\u00e3o ao mesmo per\u00edodo do ano passado. De acordo com dados da Secretaria de Estado da Sa\u00fad\u2026 [+2889 chars]",
       "retrievedAt": "2026-02-16 19:17:20.937006",
       "internal_id": "452d076fb68ab702f32c31e1405dc63a5f7ae7a06d9584e4a1cfa3d8c473ff72",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27667,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Sam Hall",
+      "title": "\u2018Big measles outbreak\u2019 affecting children under 10 confirmed in London",
+      "description": "A \u201cbig measles outbreak\u201d in parts of London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.",
+      "url": "https://www.independent.ie/world-news/britain/big-measles-outbreak-affecting-children-under-10-confirmed-in-london/a1972459778.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/6WTTVg1BhVEASdLj9aVFI8difwg=/629x460/smart/prod-mh-ireland/19ea93d4-e12b-4924-83e5-94b3ba256c9d/668fc77d-09c9-4531-8b48-3c4a342d408c/19ea93d4-e12b-4924-83e5-94b3ba256c9d.jpg",
+      "publishedAt": "2026-02-15 16:39:47",
+      "content": "The UK Health Security Agency said the outbreak in schools and nurseries had left some youngsters requiring hospital treatment A big measles outbreak in parts of London is affecting unvaccinated chi\u2026 [+3633 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.625814",
+      "internal_id": "37477ed454e530e30632a607913b960a293610610bf4b4c57da8169ab7a3d303",
       "publishedAtLabel": "Feb 15"
     },
     {
@@ -56,6 +291,42 @@
       "content": "Es preocupante el charco de La Sabana en San Jos\u00e9 (antes, lago) porque se ha convertido en foco ideal para la proliferaci\u00f3n del zancudo del dengue. Es contradictorio que Costa Rica afirme combatir se\u2026 [+3312 chars]",
       "retrievedAt": "2026-02-16 19:17:20.982668",
       "internal_id": "d217e5b5708fb07602d968a6399555e31423a729b945783f4eb99e6046b35819",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27676,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LBC",
+      "author": "Flaminia Luck",
+      "title": "UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBC",
+      "description": "UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBClbc.co.uk",
+      "url": "https://www.lbc.co.uk/article/uk-measles-outbreak-vaccinations-london-5HjdSMs_2/",
+      "urlToImage": "https://images.globalplayer.com/images/792869?crop=16_9&width=1200&signature=C0ynjqVKE3X1zTcVSxKWrDngiVI=",
+      "publishedAt": "2026-02-15 14:05:48",
+      "content": "Global health officials announced earlier this year that the UK is no longer considered to have eliminated measles. Dozens of suspected cases have now been reported in north London, amid an outbreak \u2026 [+2725 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.778972",
+      "internal_id": "aedbc14287093893d2b34cf1d0b4369fe0b27558bf69a9ed73dcd56c34d88e8e",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27674,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Ng Keng Gene",
+      "title": "I\u2019m not very worried about measles spreading in Singapore, says Health Minister Ong Ye Kung",
+      "description": "Health Minister Ong Ye Kung states he is not concerned about measles spreading in Singapore due to high adult immunity, despite a rise in cases. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/not-very-worried-health-minister-ong-ye-kung-on-potential-for-measles-spread-in-singapore",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/0a628537266d66c580dac5f7a2dc904a232b43b4bcc5645bdfbd67fec7a76892",
+      "publishedAt": "2026-02-15 14:01:59",
+      "content": "SINGAPORE Health Minister Ong Ye Kung said on Feb 15 that he is not very worried about measles spreading in Singapore, amid the increase in cases here in 2026. This is as 99 per cent of Singapores a\u2026 [+2742 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.753480",
+      "internal_id": "d66198fe9d52fcb1fce8c4b5edb9d27d273012fdc525c299ca4c0e1cf97baac2",
       "publishedAtLabel": "Feb 15"
     },
     {
@@ -110,6 +381,24 @@
       "content": "She said: \"Measles is a nasty illness for any child, but for some it can lead to long term complications and tragically death, but is so easily preventable with two doses of the MMRV [measles, mumps,\u2026 [+30 chars]",
       "retrievedAt": "2026-02-16 19:17:19.752235",
       "internal_id": "d2f5ea29bfa85bfd138551c4c0e4ecfeee8a44a86e51a06b7205949a77b525d1",
+      "publishedAtLabel": "Feb 15"
+    },
+    {
+      "id": 27668,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Maia Davies",
+      "title": "North London measles outbreak hits several schools with at least 34 children infected",
+      "description": "A number of children have been hospitalised as officials urge families to check they are up to date with their vaccines.",
+      "url": "https://www.bbc.co.uk/news/articles/cev7edxxzm7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9864/live/b008a410-0a4a-11f1-aeec-d316ccfb6391.jpg",
+      "publishedAt": "2026-02-15 09:03:01",
+      "content": "Dr Vanessa Saliba from the UKHSA said the \"big\" outbreak was \"mostly affecting unvaccinated children under 10 in schools and nurseries\". She said: \"Measles is a nasty illness for any child, but for \u2026 [+598 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.650237",
+      "internal_id": "4a35f1265908581be2258d2c3400450214c010b5c05e264b16e0490d81c37496",
       "publishedAtLabel": "Feb 15"
     },
     {
@@ -328,6 +617,24 @@
       "content": "Sylvia Morris was in her second year of veterinary science studies in Townsville when she became seriously unwell with what appeared to be a cold. The illness quickly progressed to pneumonia, and sh\u2026 [+4510 chars]",
       "retrievedAt": "2026-02-16 07:29:08.175738",
       "internal_id": "f3e844bae9792429e4da218f5c18b18dd30c61b56e46eb974603accbddc61e00",
+      "publishedAtLabel": "Feb 14"
+    },
+    {
+      "id": 27672,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WKOW",
+      "author": "Lauryn Abozeid",
+      "title": "New measles exposure in Madison prompts urgent health investigation",
+      "description": "MADISON, (WKOW) \u2014 Public Health Madison &amp; Dane County is investigating a new measles exposure in Dane County.",
+      "url": "https://www.wkow.com/news/new-measles-exposure-in-madison-prompts-urgent-health-investigation/article_9a74091b-0e37-42cd-aac7-020d61ff8f28.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wkow.com/content/tncms/assets/v3/editorial/1/b7/1b7d8ecf-2adf-4a61-9bfe-748ae2d0179b/68a8b09d5df43.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-02-14 19:28:17",
+      "content": "MADISON, (WKOW) Public Health Madison &amp; Dane County is investigating a new measles exposure in Dane County. This case is not linked to the recent measles case confirmed last week. A traveler fr\u2026 [+1189 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.727449",
+      "internal_id": "08f7899fe78cb16a717978f964ebced563c1e34aeb09611ea25ef83c73706b61",
       "publishedAtLabel": "Feb 14"
     },
     {
@@ -637,6 +944,24 @@
       "publishedAtLabel": "Feb 13"
     },
     {
+      "id": 27678,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sun Sentinel",
+      "author": "Cindy Krischer Goodman",
+      "title": "68 measle cases reported in Florida this year, count continues to rise",
+      "description": "Measles is spreading in Florida, with 68 cases of the highly infectious disease reported in the state already this year. Two of the cases are in South Florida.",
+      "url": "https://www.sun-sentinel.com/2026/02/13/68-measle-cases-reported-in-florida-this-year-count-continues-to-rise/",
+      "urlToImage": "https://www.sun-sentinel.com/wp-content/uploads/2026/01/Measles_71091_e7f875.jpg?w=1024&h=682",
+      "publishedAt": "2026-02-13 22:26:14",
+      "content": "Measles is now spreading in Florida, with 68 cases reported in the state already this year. Florida Department of Health tracking shows that as of Feb. 7, the most recent data available, most cases \u2026 [+2942 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.804523",
+      "internal_id": "a498fcac4e99825fb040b78d1fa09c521f6dfd6569be156acb99b94c4166252f",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
       "id": 27630,
       "query": [
         "malaria"
@@ -706,6 +1031,24 @@
       "content": "\u201cThe birthday-party invitation said \u2018siblings welcome,\u2019 which means you can bring your 11-month-old son while your husband is out of town,\u201d Elizabeth Bruenig\u2019s piece begins.\u201cThis is how a child dies \u2026 [+11375 chars]",
       "retrievedAt": "2026-02-15 07:20:05.407883",
       "internal_id": "9d13bc63f0e0d7217090059cca7735879a7da3ed3c797dc7875cf60074fed929",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27675,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NBC Palm Springs",
+      "author": "Nbc Palm Springs",
+      "title": "County Health Officials Report Two More Measles Cases In Western Riverside County",
+      "description": "County Health Officials Report Two More Measles Cases In Western Riverside Countynbcpalmsprings.com",
+      "url": "https://www.nbcpalmsprings.com/2026/02/13/county-health-officials-report-two-more-measles-cases-in-western-riverside-county",
+      "urlToImage": "https://nbcpalmspringsmedia.com/preroll/1771008489429_Measles-Vaccine.jpg",
+      "publishedAt": "2026-02-13 18:49:00",
+      "content": "Copyright \u00a9 2026 Entravision All rights reserved.",
+      "retrievedAt": "2026-02-17 07:26:29.766465",
+      "internal_id": "7f430442995f2f5dca3a54edf8f137518a39854bf861da1b253e4c2aae0943ad",
       "publishedAtLabel": "Feb 13"
     },
     {
@@ -1070,6 +1413,24 @@
       "publishedAtLabel": "Feb 13"
     },
     {
+      "id": 27671,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Straits Times",
+      "author": "Yap Wei Qiang",
+      "title": "2 new measles cases detected in Singapore, bringing total to 13 for 2026 so far",
+      "description": "Singapore detects 13 measles cases in 2026, prompting enhanced public health measures and epidemiological investigations. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/health/2-new-measles-cases-detected-in-singapore",
+      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/28b1c87cb0a6268b7f794dc43bedaa1bb95e7abd82e2af976105510f12820ab1",
+      "publishedAt": "2026-02-13 08:16:36",
+      "content": "SINGAPORE Another two new measles cases have been detected in Singapore, bringing the countrys total count in 2026 to 13 cases the second highest annual count in the past six years despite it only be\u2026 [+3783 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.714421",
+      "internal_id": "548db3a8c8779a1fae76ce9c5deee217648ced1ddaa966c139cd734e7e428cc7",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
       "id": 27603,
       "query": [
         "measles"
@@ -1103,6 +1464,42 @@
       "content": "Copyright \u00a9 PR TIMES Corporation All Rights Reserved.",
       "retrievedAt": "2026-02-14 07:18:51.411417",
       "internal_id": "0e8e8eb49c537843d569462d37da17304a4b6241e138c21d756fa5bf0a00a1a3",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27679,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WTMJ-TV",
+      "author": "Brendyn Jones",
+      "title": "Health officials have yet to find measles in wastewater",
+      "description": "Health officials say the latest wastewater measles test results show no detection following possible Milwaukee Mitchell Airport exposures. Experts encourage getting the vaccine.",
+      "url": "https://www.tmj4.com/news/milwaukee-county/milwaukee-health-officials-have-yet-to-find-measles-in-wastewater-following-possible-airport-exposures",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/256c526/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fc1%2F8f%2F02ed5eb04c5ab54fe5efad00794a%2Fmixcollage-12-feb-2026-08-51-pm-9805.jpg",
+      "publishedAt": "2026-02-13 06:33:56",
+      "content": "MILWAUKEE Milwaukee health officials tell TMJ4 that no traces of measles were detected in Milwaukee County wastewater samples collected on February 8. Milwaukee health officials have been using was\u2026 [+3472 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.817643",
+      "internal_id": "d347a4468e5e1652cbb11d24fd991750effb5623d429075f116dbe6b72eba13e",
+      "publishedAtLabel": "Feb 13"
+    },
+    {
+      "id": 27673,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Bangor Daily News",
+      "author": "Kasey Turman",
+      "title": "How officials are tracking possible measles cases in Penobscot County",
+      "description": "The Maine CDC has been tracing the steps of the person who was infected \"hour-by-hour\" to determine where they went and who they may have encountered.",
+      "url": "http://www.bangordailynews.com/2026/02/13/bangor/bangor-health/tracking-measles-cases-penobscot-county-joam40zk0w/",
+      "urlToImage": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/02/AP25147596898532.jpg?fit=1200%2C800&ssl=1",
+      "publishedAt": "2026-02-13 06:07:49",
+      "content": "State officials are tracing the possible spread of measles in Maine after a case was confirmed last week in Penobscot County. No new measles cases had been confirmed as of Wednesday, Maine Departmen\u2026 [+4282 chars]",
+      "retrievedAt": "2026-02-17 07:26:29.740073",
+      "internal_id": "9cdadd6e2c851e077e7c6f1d98d535970256c01f148d689224224a78d3e333ca",
       "publishedAtLabel": "Feb 13"
     },
     {
@@ -18557,6 +18954,97 @@
       "content": "It has been so positive that theyre hopeful he will be able to move out of the ICU into another part of the hospital which is representative of what a great recovery its been and how quickly it has f\u2026 [+1103 chars]",
       "retrievedAt": "2026-01-06 07:12:07.878525",
       "internal_id": "37969dfc79237ef6a028f575061badd5d1a372edfc8bdbc3bb2931975ad9c2a3",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26629,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Delhi: Human rabies to be declared notifiable disease",
+      "description": "Delhi is set to declare Human Rabies a Notifiable Disease. This move aims to improve tracking and treatment of rabies cases. All health facilities must report suspected and confirmed cases. The government is also enhancing vaccination programs for humans and \u2026",
+      "url": "https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126335397,width-1200,height-630,imgsize-56024,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-04 13:23:57",
+      "content": "New Delhi, The Delhi Government is all set to declare Human Rabies as a Notifiable Disease in the national capital under the Epidemic Diseases Act in an effort to strengthen surveillance and ensure t\u2026 [+2822 chars]",
+      "retrievedAt": "2026-01-05 19:08:44.369217",
+      "internal_id": "50a7aa827b13690a1248b848477ed25d39e7a52ce9ad15c7a3fe079c8bbe31cb",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26632,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Guardian Nigeria",
+      "author": "Olayide Soaga",
+      "title": "Limited healthcare access leaves Makoko dependent on alternative medicine for malaria",
+      "description": "Here, in a settlement built on water and largely cut off from formal health services, residents frequently treat malaria-like symptoms",
+      "url": "https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/",
+      "urlToImage": "https://cdn.guardian.ng/wp-content/uploads/2026/01/unnamed-1.jpg",
+      "publishedAt": "2026-01-04 10:50:49",
+      "content": "The lagoon in Makoko, one of Nigerias largest informal settlements, commonly referred to as Nigerias Venice, lay so dark it was almost impossible to see the reflection of the sun. The creeks colour w\u2026 [+21808 chars]",
+      "retrievedAt": "2026-01-05 19:08:46.600358",
+      "internal_id": "02a9372a0b7a4a4ca1db479b6bb76804a25da3622ce42f509e43e0ef0a8804e8",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26631,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "abc-news-au",
+      "source_name": "ABC News (AU)",
+      "author": "Bridget McArthur",
+      "title": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
+      "description": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.",
+      "url": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5d1fd8c3b32c81e3b2aab3dae5f52373?impolicy=wcms_watermark_news&cropH=1350&cropW=2400&xPos=293&yPos=184&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-01-04 08:57:18",
+      "content": "Australian cricket great Damien Martyn has woken up from an induced coma after falling ill with meningitis an infection that causes swelling around the brain. The 54-year-old former Test batsman wa\u2026 [+1953 chars]",
+      "retrievedAt": "2026-01-05 19:08:46.287996",
+      "internal_id": "8815a835d0e6b496834d36f4db9b5cca86c46fbc9b0a731eaacc5c9993017e2f",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26630,
+      "query": [
+        "measles",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "FG vaccinates millions of Nigerians against measles, yellow fever \u2014 Minister",
+      "description": "The Nigerian government has administered over 25 million measles and 22 million yellow fever vaccine doses, alongside new malaria and HPV vaccine rollouts. Read More: https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minist\u2026",
+      "url": "https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/10/03233354/PROF-ALI-1200x630.jpg",
+      "publishedAt": "2026-01-04 08:05:09",
+      "content": "The Coordinating Minister of Health and Social Welfare, Prof. Muhammad Pate, says the Federal Government has administered over 25 million doses of measles vaccine and 22 million yellow fever vaccinat\u2026 [+4396 chars]",
+      "retrievedAt": "2026-01-05 19:08:44.943013",
+      "internal_id": "460e1e3f20e212d7034aba83c9879f8c586f13923a83638583f720888a2ec02a",
+      "publishedAtLabel": "Jan 4"
+    },
+    {
+      "id": 26633,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike",
+      "description": "Water contamination crisis: Following 10 deaths in Indore, Gandhinagar and Bengaluru are now grappling with public health emergencies due to sewage-contaminated drinking water. Gandhinagar faces a typhoid outbreak with 70 active cases, while Bengaluru residen\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-126332402,width-1200,height-630,imgsize-1152005,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-01-04 07:34:24",
+      "content": "After 10 deaths in Indore due to sewage-contaminated drinking water, Gandhinagar and Bengaluru are now facing similar public health emergencies, according to a TOI report. Residents in both cities ar\u2026 [+3447 chars]",
+      "retrievedAt": "2026-01-05 19:08:47.287107",
+      "internal_id": "d8696412e116e23dd0795f9ae766ca67b076a5a7fb39436914efd6170667d984",
       "publishedAtLabel": "Jan 4"
     }
   ]
