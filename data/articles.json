@@ -1,8 +1,242 @@
 {
-  "last_updated": "2026-02-17 07:26",
-  "count_articles_total": 1056,
-  "count_articles_new": 22,
+  "last_updated": "2026-02-17 19:24",
+  "count_articles_total": 1064,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 27691,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Largest measles outbreak in recent history reported on southwestern college campus",
+      "description": "A historic measles outbreak has hit Ave Maria University in Florida with over 40 infections, marking the largest wave of college campus infections in recent history.",
+      "url": "https://www.foxnews.com/health/largest-measles-outbreak-recent-history-reported-southwestern-college-campus",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/ave-maria-university-1.jpg",
+      "publishedAt": "2026-02-16 19:10:28",
+      "content": "More than 40 measles cases have been reported at Ave Maria University in southwest Florida, marking the largest outbreak on an American college campus in recent history. The situation at the privat\u2026 [+2171 chars]",
+      "retrievedAt": "2026-02-17 19:24:02.099653",
+      "internal_id": "997272f331a1cd84e3c2a466be74bbf2cd19424269fb35564a9b2fbbca2f1349",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27697,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Eleconomista.es",
+      "author": "elEconomista.es",
+      "title": "La OMS advierte a nivel mundial de la reaparici\u00f3n de una enfermedad muy temida en el pasado: \"Puede haber m\u00e1s casos de los que se notifican actualmente\"",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado de que, pese a detectarse dos casos de una cepa recombinante del virus de la viruela del mono (MPXV) que combina los clados Ib y IIb, el riesgo para la salud p\u00fablica relacionado con la mpox se mantiene si\u2026",
+      "url": "https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13779716/02/26/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-una-enfermedad-muy-temida-en-el-pasado-puede-haber-mas-casos-de-los-que-se-notifican-actualmente.html",
+      "urlToImage": "https://s03.s3c.es/imag/_v0/1200x655/d/3/d/mpox-salud.jpg",
+      "publishedAt": "2026-02-16 15:27:17",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado de que, pese a detectarse dos casos de una cepa recombinante del virus de la viruela del mono (MPXV) que combina los clados Ib y IIb, el riesgo \u2026 [+2069 chars]",
+      "retrievedAt": "2026-02-17 19:24:04.755365",
+      "internal_id": "730dfdaf9696aa9f642af2d3383ef02ba79b3f5b2a8dee8e20201ae62d31e134",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27696,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "La OMS asegura que el riesgo de mpox se mantiene pese a nueva cepa recombinante",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado de que, pese a detectarse dos casos de una cepa recombinante del virus de la viruela del mono (MPXV) que combina los clados Ib y IIb, el riesgo para la salud p\u00fablica relacionado con la mpox se mantiene si\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-oms-asegura-riesgo-mpox-mantiene-pese-nueva-cepa-recombinante-20260216151802.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260216151802_1200.jpg",
+      "publishedAt": "2026-02-16 14:18:02",
+      "content": "MADRID 16 Feb. (EUROPA PRESS) - La Organizaci\u00f3n Mundial de la Salud (OMS) ha informado de que, pese a detectarse dos casos de una cepa recombinante del virus de la viruela del mono (MPXV) que comb\u2026 [+2004 chars]",
+      "retrievedAt": "2026-02-17 19:24:04.742185",
+      "internal_id": "c7d73483b4f18f4429335eab3728b80becda81004d9396e3356e9af00098eb01",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27690,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Guidance: Easy read guide to the MMR vaccination",
+      "description": "Easy read guide providing information on the MMR vaccine.",
+      "url": "https://www.gov.uk/government/publications/easy-read-guide-to-the-mmr-vaccination",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-02-16 14:08:10",
+      "content": "This easy read guide explains the MMR vaccination for anyone over the age of 6 who has missed an injection, or both injections: the signs and symptoms of measles, mumps and rubellaw\u2026 [+572 chars]",
+      "retrievedAt": "2026-02-17 19:24:02.076333",
+      "internal_id": "2baa55701d50e2a246bef1737872163e3ff71153541ab024485e215123855bd3",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27688,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Camilla Foster",
+      "title": "Six subtle symptoms of measles in children \u2013 and how to get the vaccine",
+      "description": "The early symptoms of measles can appear similar to other illnesses \u2013 here\u2019s what to look out for",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-outbreak-vaccine-symptoms-london-b2921219.html",
+      "urlToImage": "https://static.the-independent.com/2026/02/16/13/16112026-027396cf-c140-47a4-a23d-0660b7653818.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-02-16 13:48:27",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+5628 chars]",
+      "retrievedAt": "2026-02-17 19:24:02.040534",
+      "internal_id": "0607f4787518e9b381493ba9f64215bee2d86e6324f8101536a8ed39c0db32ae",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27689,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Camilla Foster",
+      "title": "6 subtle warning signs of measles in children \u2013 and how to prevent it",
+      "description": "Measles tends to start with cold-like symptoms.",
+      "url": "https://www.the-independent.com/life-style/health-and-families/children-sunday-times-london-vaccination-nhs-b2921194.html",
+      "urlToImage": "https://static.the-independent.com/2026/02/16/13/16111300-fd4dc6cc-6bbc-492f-8bd3-1e5c9108a61a.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-02-16 12:56:29",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+5644 chars]",
+      "retrievedAt": "2026-02-17 19:24:02.064173",
+      "internal_id": "e04fd0bdb5cf92ac1ab477284e68af816d99d28d139fcee4f65ae527cd3bc6cd",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27692,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Life.ru",
+      "author": "\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u041e\u0437\u0435\u0440\u043e\u0432",
+      "title": "\u0412 \u0426\u0435\u043d\u0442\u0440\u0435 \u0413\u0430\u043c\u0430\u043b\u0435\u0438 \u043f\u043e\u044f\u0432\u0438\u043b\u0438\u0441\u044c \u00ab\u043a\u043e\u043d\u0441\u0435\u0440\u0432\u044b\u00bb \u0432\u0430\u043a\u0446\u0438\u043d \u043f\u0440\u043e\u0442\u0438\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d \u0438 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u043f\u043e\u044f\u0432\u0438\u043b\u0438\u0441\u044c \u043f\u0440\u043e\u0442\u043e\u0442\u0438\u043f\u044b \u0432\u0430\u043a\u0446\u0438\u043d \u043f\u0440\u043e\u0442\u0438\u0432 \u043e\u0441\u043f\u044b \u043e\u0431\u0435\u0437\u044c\u044f\u043d, \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u043e\u043f\u0430\u0441\u043d\u044b\u0445 \u0438\u043d\u0444\u0435\u043a\u0446\u0438\u0439. \u041e\u0431 \u044d\u0442\u043e\u043c Kp.ru \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b \u0430\u043a\u0430\u0434\u0435\u043c\u0438\u043a \u0420\u0410\u041d \u0438 \u0434\u043e\u043a\u0442\u043e\u0440 \u0431\u0438\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043d\u0430\u0443\u043a \u0414\u0435\u043d\u0438\u0441 \u041b\u043e\u0433\u0443\u043d\u043e\u0432.",
+      "url": "https://life.ru/p/1842471",
+      "urlToImage": "https://static.life.ru/ip/unsafe/rs:fit:1200:/q:98/sh:0.5/czM6Ly9saWZlLXN0YXRpYy9wdWJsaWNhdGlvbnMvMjAyNi8yLzE2LzI3MTA4MzY2ODgxNi40OTcyLmpwZw==.webp",
+      "publishedAt": "2026-02-16 12:10:31",
+      "content": ", . Kp.ru . , \u00ab\u00bb H5N1, , , , . \u00ab \u00ab\u00bb H5N1 ( ), , , , . - \u00bb, . , . , , . . , . , , . , . , \u00ab\u00bb Life.ru.",
+      "retrievedAt": "2026-02-17 19:24:02.858672",
+      "internal_id": "ff400976514711385971455b1af73f8b04c5e3e46508eef74963b6d8c8a0d420",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27686,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What's causing the measles outbreaks? #health",
+      "description": "How the outbreaks have unfolded and what officials are urging Large, fast moving clusters of measles have appeared in several places recently, with public health authorities pointing to low vaccination coverage as the main driver. In parts of north\u2011east Londo\u2026",
+      "url": "https://alltoc.com/health/what-s-causing-the-measles-outbreaks",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-16 12:07:43",
+      "content": "Large, fast-moving clusters of measles have appeared in several places recently, with public-health authorities pointing to low vaccination coverage as the main driver. In parts of northeast London, \u2026 [+1635 chars]",
+      "retrievedAt": "2026-02-17 19:24:01.360141",
+      "internal_id": "cfb3be339c7ac3022acac80c2e197ca1746d676d2746d024c0c4078d8e790a85",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27694,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "African leaders mobilise malaria funding at AU summit",
+      "description": "African leaders at the AU Summit issue a unified call for new malaria funding in Africa, warning that stalled progress and funding cuts threaten decades of Read More: https://punchng.com/african-leaders-mobilise-malaria-funding-at-au-summit/",
+      "url": "https://punchng.com/african-leaders-mobilise-malaria-funding-at-au-summit/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/06/12193718/African-Union-logo.jpg",
+      "publishedAt": "2026-02-16 11:38:36",
+      "content": "African Heads of State and Government on Monday issued a unified call for a new era of malaria financing at the 39th African Union Summit in Ethiopia. According to a statement issued by the leaders \u2026 [+7411 chars]",
+      "retrievedAt": "2026-02-17 19:24:03.715360",
+      "internal_id": "1e1c66ff5bac59b1bfe0a9ad837f092ced609edc39877be07c4605f44e018f16",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27685,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Unvaccinated pupils could be excluded from school as measles hits north London",
+      "description": "Children identified as close contacts of people with the disease could be excluded for three weeks",
+      "url": "https://www.bbc.com/news/articles/c99jyexve1jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4ef6/live/01b9f430-0b27-11f1-a204-b3f033b84443.jpg",
+      "publishedAt": "2026-02-16 11:32:57",
+      "content": "\"We've been working closely to contain the infection, the spread, but also increase public knowledge and awareness,\" she said.",
+      "retrievedAt": "2026-02-17 19:24:01.254152",
+      "internal_id": "4612add19ac224c02f5868c235cacd2ae3b7ca70fbe2ea4c9d1044ff53b1a733",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27695,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Standard Digital",
+      "author": "Jasmine Atieno",
+      "title": "Malaria in Kilifi South: Drug misuse, mosquitoes and poverty fuel crisis",
+      "description": "For Mariam Katana, caring for her 15\u2011year\u2011old granddaughter Joyce, who has battled malaria for two days, the illness feels like a permanent member of the household.",
+      "url": "https://www.standardmedia.co.ke/health/health-science/article/2001540954/malaria-in-kilifi-south-drug-misuse-mosquitoes-and-poverty-fuel-crisis",
+      "urlToImage": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/DC3yGsvoSK7KH5kyy7o4A9JwrMNRGW07j5R0HueC.jpg",
+      "publishedAt": "2026-02-16 09:31:29",
+      "content": "Kilifi South continues to record significant malaria cases, with sharp monthly and annual fluctuations. [Courtesy] In Chasimba, Kilifi South, malaria is not just a disease, it is a constant visitor.\u2026 [+6406 chars]",
+      "retrievedAt": "2026-02-17 19:24:03.761561",
+      "internal_id": "6dca4d2eddc0fb6a54a1f8ecfc9d18d67d16ba842d0c74f6b0d0919fcec76cb3",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27687,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles outbreaks spreading now? #health",
+      "description": "How recent outbreaks started and who is at risk Public\u2011health authorities are confronting multiple measles outbreaks in different regions, with clusters among children and at schools and universities. Large outbreaks have been reported abroad and at home: one\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-outbreaks-spreading-now",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-16 08:06:57",
+      "content": "Publichealth authorities are confronting multiple measles outbreaks in different regions, with clusters among children and at schools and universities. Large outbreaks have been reported abroad and a\u2026 [+1748 chars]",
+      "retrievedAt": "2026-02-17 19:24:01.837031",
+      "internal_id": "c69d9ad978a968acec735994d702de817213c4716e779a703151ab59c59a0b41",
+      "publishedAtLabel": "Feb 16"
+    },
+    {
+      "id": 27693,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "V\u00e9ge a nyugalomnak: bet\u00f6rt az \u00e9rintetlen kontinensre a rettegett v\u00edrus",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/tudomany/2026/02/h5n1-madarinfluenza-antarktisz-tomeges-pusztulas",
+      "urlToImage": "https://cdn.origo.hu/2026/02/ytwtjiUGqxVBVltX6ONpemcCNE07SLkkkEyU6wpdOA8/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzdkMDA3NWE4ODM0MjRjMGZiNDFiZjdkNWU1MGNlMDBk.webp",
+      "publishedAt": "2026-02-16 07:56:56",
+      "content": "A kutat\u00f3k a 2023-as \u00e9s 2024-es ny\u00e1ri idszakban vizsg\u00e1lt\u00e1k a t\u00e9rs\u00e9get, \u00e9s az eredm\u00e9nyek aggaszt\u00f3ak: egy\u00e9rtelmen a H5N1 mad\u00e1rinfluenza felels a vizsg\u00e1lt madarak hal\u00e1l\u00e1\u00e9rt. A felfedez\u00e9st a hollandiai Er\u2026 [+3034 chars]",
+      "retrievedAt": "2026-02-17 19:24:02.926782",
+      "internal_id": "48af92bce75c7c0c2d4247b5242c4ac391b0562e91f06d314e47e2c19a1c6880",
+      "publishedAtLabel": "Feb 16"
+    },
     {
       "id": 27663,
       "query": [
@@ -18954,97 +19188,6 @@
       "content": "It has been so positive that theyre hopeful he will be able to move out of the ICU into another part of the hospital which is representative of what a great recovery its been and how quickly it has f\u2026 [+1103 chars]",
       "retrievedAt": "2026-01-06 07:12:07.878525",
       "internal_id": "37969dfc79237ef6a028f575061badd5d1a372edfc8bdbc3bb2931975ad9c2a3",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26629,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Delhi: Human rabies to be declared notifiable disease",
-      "description": "Delhi is set to declare Human Rabies a Notifiable Disease. This move aims to improve tracking and treatment of rabies cases. All health facilities must report suspected and confirmed cases. The government is also enhancing vaccination programs for humans and \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126335397,width-1200,height-630,imgsize-56024,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-04 13:23:57",
-      "content": "New Delhi, The Delhi Government is all set to declare Human Rabies as a Notifiable Disease in the national capital under the Epidemic Diseases Act in an effort to strengthen surveillance and ensure t\u2026 [+2822 chars]",
-      "retrievedAt": "2026-01-05 19:08:44.369217",
-      "internal_id": "50a7aa827b13690a1248b848477ed25d39e7a52ce9ad15c7a3fe079c8bbe31cb",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26632,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Guardian Nigeria",
-      "author": "Olayide Soaga",
-      "title": "Limited healthcare access leaves Makoko dependent on alternative medicine for malaria",
-      "description": "Here, in a settlement built on water and largely cut off from formal health services, residents frequently treat malaria-like symptoms",
-      "url": "https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/",
-      "urlToImage": "https://cdn.guardian.ng/wp-content/uploads/2026/01/unnamed-1.jpg",
-      "publishedAt": "2026-01-04 10:50:49",
-      "content": "The lagoon in Makoko, one of Nigerias largest informal settlements, commonly referred to as Nigerias Venice, lay so dark it was almost impossible to see the reflection of the sun. The creeks colour w\u2026 [+21808 chars]",
-      "retrievedAt": "2026-01-05 19:08:46.600358",
-      "internal_id": "02a9372a0b7a4a4ca1db479b6bb76804a25da3622ce42f509e43e0ef0a8804e8",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26631,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Bridget McArthur",
-      "title": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
-      "description": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.",
-      "url": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5d1fd8c3b32c81e3b2aab3dae5f52373?impolicy=wcms_watermark_news&cropH=1350&cropW=2400&xPos=293&yPos=184&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-01-04 08:57:18",
-      "content": "Australian cricket great Damien Martyn has woken up from an induced coma after falling ill with meningitis an infection that causes swelling around the brain. The 54-year-old former Test batsman wa\u2026 [+1953 chars]",
-      "retrievedAt": "2026-01-05 19:08:46.287996",
-      "internal_id": "8815a835d0e6b496834d36f4db9b5cca86c46fbc9b0a731eaacc5c9993017e2f",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26630,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Punch Newspapers",
-      "title": "FG vaccinates millions of Nigerians against measles, yellow fever \u2014 Minister",
-      "description": "The Nigerian government has administered over 25 million measles and 22 million yellow fever vaccine doses, alongside new malaria and HPV vaccine rollouts. Read More: https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minist\u2026",
-      "url": "https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/10/03233354/PROF-ALI-1200x630.jpg",
-      "publishedAt": "2026-01-04 08:05:09",
-      "content": "The Coordinating Minister of Health and Social Welfare, Prof. Muhammad Pate, says the Federal Government has administered over 25 million doses of measles vaccine and 22 million yellow fever vaccinat\u2026 [+4396 chars]",
-      "retrievedAt": "2026-01-05 19:08:44.943013",
-      "internal_id": "460e1e3f20e212d7034aba83c9879f8c586f13923a83638583f720888a2ec02a",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26633,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike",
-      "description": "Water contamination crisis: Following 10 deaths in Indore, Gandhinagar and Bengaluru are now grappling with public health emergencies due to sewage-contaminated drinking water. Gandhinagar faces a typhoid outbreak with 70 active cases, while Bengaluru residen\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126332402,width-1200,height-630,imgsize-1152005,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-04 07:34:24",
-      "content": "After 10 deaths in Indore due to sewage-contaminated drinking water, Gandhinagar and Bengaluru are now facing similar public health emergencies, according to a TOI report. Residents in both cities ar\u2026 [+3447 chars]",
-      "retrievedAt": "2026-01-05 19:08:47.287107",
-      "internal_id": "d8696412e116e23dd0795f9ae766ca67b076a5a7fb39436914efd6170667d984",
       "publishedAtLabel": "Jan 4"
     }
   ]

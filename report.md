@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 22
-- **Last harvest:** 2026-02-17 07:26
-- **Most recent article:** 2026-02-16 06:55:00
+- **New articles in last harvest:** 13
+- **Last harvest:** 2026-02-17 19:24
+- **Most recent article:** 2026-02-16 19:10:28
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 47 | 63 | 88 | 76 | 107 | 112 | 18 | 511 |
+| measles | 46 | 63 | 88 | 76 | 107 | 112 | 25 | 517 |
 | dengue | 12 | 22 | 27 | 16 | 16 | 24 | 4 | 121 |
-| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 5 | 88 |
-| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 0 | 68 |
-| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 2 | 65 |
-| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 0 | 65 |
-| meningitis | 11 | 10 | 2 | 7 | 4 | 7 | 2 | 43 |
+| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 7 | 90 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 4 | 67 |
+| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 0 | 67 |
+| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 2 | 65 |
 | chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 1 | 42 |
+| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 2 | 42 |
 | zika | 4 | 6 | 3 | 7 | 0 | 3 | 1 | 24 |
 | leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 2 | 20 |
 | hpai | 2 | 3 | 4 | 3 | 1 | 3 | 0 | 16 |
 | yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 0 | 15 |
-| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 1 | 10 |
+| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 1 | 9 |
 | pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
@@ -42,6 +42,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (mpox)
 
+- [La OMS advierte a nivel mundial de la reaparición de una enfermedad muy temida en el pasado: "Puede haber más casos de los que se notifican actualmente"](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13779716/02/26/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-una-enfermedad-muy-temida-en-el-pasado-puede-haber-mas-casos-de-los-que-se-notifican-actualmente.html) (Eleconomista.es)
+
+- [La OMS asegura que el riesgo de mpox se mantiene pese a nueva cepa recombinante](https://www.infosalus.com/salud-investigacion/noticia-oms-asegura-riesgo-mpox-mantiene-pese-nueva-cepa-recombinante-20260216151802.html) (Infosalus.com)
+
 - ["ราชทัณฑ์" ยังไม่พบป่วยเพิ่ม หลังมีผู้ต้องขังติดเชื้อ "ฝีดาษลิง" เสียชีวิต](https://www.thairath.co.th/news/local/2914377) (Thairath.co.th)
 
 - [Monkeypox Virus Antibodies in Healthy Persons after Vaccination with MVA-BN, United Kingdom](https://wwwnc.cdc.gov/eid/article/32/2/25-1553_article) (Cdc.gov)
@@ -53,6 +57,20 @@ Source: [News API](https://newsapi.org/)
 - [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (measles)
+
+- [Largest measles outbreak in recent history reported on southwestern college campus](https://www.foxnews.com/health/largest-measles-outbreak-recent-history-reported-southwestern-college-campus) (Fox News)
+
+- [Guidance: Easy read guide to the MMR vaccination](https://www.gov.uk/government/publications/easy-read-guide-to-the-mmr-vaccination) (Www.gov.uk)
+
+- [Six subtle symptoms of measles in children – and how to get the vaccine](https://www.the-independent.com/life-style/health-and-families/measles-outbreak-vaccine-symptoms-london-b2921219.html) (The-independent.com)
+
+- [6 subtle warning signs of measles in children – and how to prevent it](https://www.the-independent.com/life-style/health-and-families/children-sunday-times-london-vaccination-nhs-b2921194.html) (The-independent.com)
+
+- [What's causing the measles outbreaks? #health](https://alltoc.com/health/what-s-causing-the-measles-outbreaks) (Alltoc.com)
+
+- [Unvaccinated pupils could be excluded from school as measles hits north London](https://www.bbc.com/news/articles/c99jyexve1jo) (BBC News)
+
+- [Why are measles outbreaks spreading now? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-now) (Alltoc.com)
 
 - [Q&A with The Atlantic's Liz Bruenig on her hypothetical creative nonfiction measles essay, writing in second person, persuading parents about vaccines, and more (Laura Hazard Owen/Nieman Lab)](https://mediagazer.com/260216/p1) (Mediagazer.com)
 
@@ -90,6 +108,12 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles cases rising in north London? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-north-london) (Alltoc.com)
 
+## 26-8 (malaria)
+
+- [African leaders mobilise malaria funding at AU summit](https://punchng.com/african-leaders-mobilise-malaria-funding-at-au-summit/) (The Punch)
+
+- [Malaria in Kilifi South: Drug misuse, mosquitoes and poverty fuel crisis](https://www.standardmedia.co.ke/health/health-science/article/2001540954/malaria-in-kilifi-south-drug-misuse-mosquitoes-and-poverty-fuel-crisis) (Standard Digital)
+
 ## 26-8 (leptospirosis)
 
 - [What to do with possum poo?](https://www.lifesciencesworld.com/what-to-do-with-possum-poo/) (Lifesciencesworld.com)
@@ -97,6 +121,10 @@ Source: [News API](https://newsapi.org/)
 - [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (h5n1)
+
+- [В Центре Гамалеи появились «консервы» вакцин против оспы обезьян и птичьего гриппа](https://life.ru/p/1842471) (Life.ru)
+
+- [Vége a nyugalomnak: betört az érintetlen kontinensre a rettegett vírus](https://www.origo.hu/tudomany/2026/02/h5n1-madarinfluenza-antarktisz-tomeges-pusztulas) (Origo.hu)
 
 - [Центр Гамалеи разрабатывает "вакцинные консервы" против оспы обезьян](https://www.interfax.ru/russia/1072953) (Interfax.ru)
 
@@ -2122,8 +2150,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
-- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
-
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2141,8 +2167,6 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
-
-- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2195,8 +2219,6 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
-
-- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2292,8 +2314,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
-
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2317,10 +2337,6 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
-
-- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
-
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 
