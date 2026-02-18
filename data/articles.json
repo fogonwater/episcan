@@ -1,8 +1,368 @@
 {
-  "last_updated": "2026-02-18 07:27",
-  "count_articles_total": 1078,
-  "count_articles_new": 9,
+  "last_updated": "2026-02-18 19:23",
+  "count_articles_total": 1093,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 27716,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WLOS",
+      "author": "Marisa Sardonia",
+      "title": "New measles case brings North Carolina total to 22 since December: health officials",
+      "description": "There have now been 22 reported cases of measles in North Carolina since December, state health officials confirmed Tuesday.",
+      "url": "https://wlos.com/news/local/new-measles-case-north-carolina-total-22-december-2025-state-health-officials-ncdhhs-healthcare-hospital-vaccine-mmr-symptoms-buncombe-county-charlotte-virus",
+      "urlToImage": "https://wlos.com/resources/media2/16x9/3809/1320/0x295/90/ce59664b-34e9-4695-99e2-56cc9313697c-AP25099777426571.jpg",
+      "publishedAt": "2026-02-17 19:13:38",
+      "content": "(WLOS) There have now been 22 reported cases of measles in North Carolina since December, state health officials confirmed Tuesday. In a Feb. 17 update, the North Carolina Department of Health and H\u2026 [+1638 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.751237",
+      "internal_id": "b663aa9df86084c192fac8007a5129db5231d5e696efff85b7c797e759b77d1a",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27709,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Peter Breadon, Program Director, Health and Aged Care, Grattan Institute, Mia Jessurun, Associate, Disability Program, Grattan Institute",
+      "title": "Child vaccination rates are falling fast, with some regions barely reaching 80%",
+      "description": "Before COVID, Australia reached its target of 95% of one-year-olds fully immunised. Now, lower coverage means more babies are at risk of whooping cough and measles.",
+      "url": "https://theconversation.com/child-vaccination-rates-are-falling-fast-with-some-regions-barely-reaching-80-259387",
+      "urlToImage": "https://images.theconversation.com/files/718675/original/file-20260217-56-s3ia5e.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-02-17 19:09:50",
+      "content": "Child vaccination has been one of Australias biggest success stories. Before the COVID pandemic, we hit the national target of 95% of one-year-olds fully vaccinated. Our child vaccination rates were \u2026 [+7104 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.372740",
+      "internal_id": "42aceae6d6c3634b10a4a25bb4d63fcc0d04b4ffd1d9be6cfdf70863f23a9ed2",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27720,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "J\u00falia Sofia",
+      "title": "Porto Alegre confirma caso de Mpox e prefeitura faz alerta para Carnaval",
+      "description": "Paciente contraiu infec\u00e7\u00e3o fora do Rio Grande do Sul; Brasil j\u00e1 registrou dezenas de casos este ano",
+      "url": "https://veja.abril.com.br/saude/porto-alegre-confirma-caso-de-mpox-e-prefeitura-faz-alerta-para-carnaval/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2022/05/shutterstock_2159695701.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-02-17 18:21:07",
+      "content": "Pular para o conte\u00fado Oferta Rel\u00e2mpago: VEJA por apenas 9,90MPOX: Doen\u00e7a causa erup\u00e7\u00f5es na pele (VEJA/Shutterstock) Continua ap\u00f3s publicidade A Secretaria Municipal de Sa\u00fade de Porto Alegre confir\u2026 [+2352 chars]",
+      "retrievedAt": "2026-02-18 19:23:53.070049",
+      "internal_id": "584e253185b688576c96fca7c6914d863dec6cc313aa201345420af39fc3c6e1",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27719,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Cruise line halts operations suddenly, leaving future trips in limbo",
+      "description": "The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.",
+      "url": "https://www.foxnews.com/lifestyle/cruise-line-halts-operations-suddenly-leaving-future-trips-limbo",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/alaskan-dreamscruises-shutters.jpg",
+      "publishedAt": "2026-02-17 18:08:22",
+      "content": "A longtime Alaska-based cruise line ceased operations, canceled future sailings and disrupted planned vacations. The CDC issued a travel alert for a popular island destination after a chikungunya o\u2026 [+1267 chars]",
+      "retrievedAt": "2026-02-18 19:23:52.923856",
+      "internal_id": "27af8e3b406e74d1962d94de506af594a809f3288357c93ccffb2973a0e241a9",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27717,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "Business Wire",
+      "title": "Seek Labs Awarded $2 Million Federal Grant for a Novel CRISPR-Based, Mutation-Resistant Therapeutic to Combat Avian Flu in Partnership with Canadian Food Inspection Agency",
+      "description": "USDA grant is part of a broader federal push to find innovative solutions to fight the highly infectious avian flu (HPAI), which continues to spread globally and impact egg and poultry production SALT LAKE CITY \u2014 Seek Labs, a private TechBio company building \u2026",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/seek-labs-awarded-2-million-federal-grant-for-a-novel-crispr-based-mutation-resistant-therapeutic-to-combat-avian-flu-in-partnership-with-canadian-food-inspection-agency",
+      "urlToImage": null,
+      "publishedAt": "2026-02-17 17:11:16",
+      "content": "USDA grant is part of a broader federal push to find innovative solutions to fight the highly infectious avian flu (HPAI), which continues to spread globally and impact egg and poultry production TH\u2026 [+7556 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.906567",
+      "internal_id": "d244fa20a54952d60f2a8eccd1c2b41e1216cddd5eeaab13f47c168cf7d38c49",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27714,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "ANNE GARBER | Deputy Correspondent Coordinator",
+      "title": "Out-of-state traveler to Chester County diagnosed with measles; now 10 cases in state",
+      "description": "A second out-of-state visitor traveling in the Philadelphia suburbs has been diagnosed with measles, state Department of Health officials said today. The diagnosis of the out-of-state traveler, who was visiting Chester County, brought the state\u2019s total measle\u2026",
+      "url": "https://lancasteronline.com/news/health/out-of-state-traveler-to-chester-county-diagnosed-with-measles-now-10-cases-in-state/article_93945cd1-518c-4fcc-aa68-5a1379e85b55.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/67/667294f2-6c4d-11e9-b2c5-af037d34783d/5cc9fde0a0ad7.image.jpg?crop=1200%2C630%2C0%2C76",
+      "publishedAt": "2026-02-17 16:55:00",
+      "content": "A second out-of-state visitor traveling in the Philadelphia suburbs has been diagnosed with measles, state Department of Health officials said today. The diagnosis of the out-of-state traveler, who w\u2026 [+2040 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.626099",
+      "internal_id": "110a02dff26aca22b4717d924ad24ea0c1ca705952acf8967e1bccc507a6d21a",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27715,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "ANNE GARBER | Deputy Correspondent Coordinator",
+      "title": "An out-of-state traveler to Chester County diagnosed with measles; now 10 cases in state",
+      "description": "A second out-of-state visitor traveling in the Philadelphia suburbs has been diagnosed with measles, state Department of Health officials said today. The diagnosis of the out-of-state traveler, who was visiting Chester County, brought the state\u2019s total measle\u2026",
+      "url": "https://lancasteronline.com/news/health/an-out-of-state-traveler-to-chester-county-diagnosed-with-measles-now-10-cases-in/article_93945cd1-518c-4fcc-aa68-5a1379e85b55.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/8/35/8353b91c-39f1-11e5-801d-4f28122a969e/55bf8421b36da.image.jpg?crop=1781%2C935%2C0%2C113&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-02-17 16:55:00",
+      "content": "A second out-of-state visitor traveling in the Philadelphia suburbs has been diagnosed with measles, state Department of Health officials said today. The diagnosis of the out-of-state traveler, who w\u2026 [+2040 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.638402",
+      "internal_id": "a6d8d5d13ec580f6cd2660d237f545e35b51df551efd26fed267394b0365552d",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27724,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Ac\u00e1 cerca: confirman un caso de viruela s\u00edmica en Rio Grande do Sul",
+      "description": "Brasil registr\u00f3 m\u00e1s de 40 en lo que va del a\u00f1o, pero es el primero que aparece en el estado lim\u00edtrofe con Uruguay.",
+      "url": "https://www.montevideo.com.uy/Archivo/Aca-cerca-confirman-un-caso-de-viruela-simica-en-Rio-Grande-do-Sul-uc953343",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202408/_W933_80/891795.jpg",
+      "publishedAt": "2026-02-17 16:45:00",
+      "content": "El Departamento de Salud de la ciudad brasile\u00f1a de Porto Alegre confirm\u00f3 este martes un caso de infecci\u00f3n por viruela s\u00edmica (Mpox). El comunicado de dicha autoridad sanitaria indica que el caso se \u2026 [+1747 chars]",
+      "retrievedAt": "2026-02-18 19:23:53.130770",
+      "internal_id": "4a5ebe525527e0e91949a7d3d6af336a01049fc994b48f79f7b87ede5c23cc1d",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27710,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "No child died from measles\u2013rubella shot, UBTH denies \u2018killer vaccine\u2019 claims",
+      "description": "The University of Benin Teaching Hospital (UBTH) refutes claims that children died after receiving the measles-rubella vaccine, clarifying its safety. Read More: https://punchng.com/no-child-died-from-measles-rubella-shot-ubth-denies-killer-vaccine-claims/",
+      "url": "https://punchng.com/no-child-died-from-measles-rubella-shot-ubth-denies-killer-vaccine-claims/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2018/11/07053806/ubth1.jpg",
+      "publishedAt": "2026-02-17 15:38:57",
+      "content": "The management of the University of Benin Teaching Hospital, on Tuesday, dismissed as false and misleading reports circulating in sections of the media and social media alleging that children died at\u2026 [+2643 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.384929",
+      "internal_id": "210f9e57cdcbd0f8084bff127199f37621f36d623e81ddd2acee981fc39c31d3",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27712,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What sparked the north London measles outbreak? #health",
+      "description": "Measles surge tied to gaps in childhood vaccination Health officials in north\u2011east London have reported a rapid increase in measles cases, predominantly among young, unvaccinated children. The outbreak has affected multiple schools and a nursery, leading to d\u2026",
+      "url": "https://alltoc.com/health/what-sparked-the-north-london-measles-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-17 15:07:37",
+      "content": "Health officials in northeast London have reported a rapid increase in measles cases, predominantly among young, unvaccinated children. The outbreak has affected multiple schools and a nursery, leadi\u2026 [+1457 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.534702",
+      "internal_id": "036ea25cbffd1ca8a14f0bdf0bfc82f7f34ddaa10584dfb8afdf8d6e41cba508",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27723,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "OMS confirma surgimento de nova variante de mpox e pede vigil\u00e2ncia",
+      "description": "Dois casos de uma cepa recombinante de mpox foram identificados at\u00e9 o momento, um no Reino Unido e outro na \u00cdndia",
+      "url": "https://www.metropoles.com/saude/oms-nova-variante-de-mpox",
+      "urlToImage": "https://images.metroimg.com/e6630c77-mpox.jpg",
+      "publishedAt": "2026-02-17 15:03:48",
+      "content": "A Organiza\u00e7\u00e3o Mundial da Sa\u00fade (OMS) confirmou o surgimento de uma nova cepa do v\u00edrus mpox. Dois casos relacionados \u00e0 ela foram identificados at\u00e9 o momento: um na \u00cdndia e outro no Reino Unido. A enti\u2026 [+4884 chars]",
+      "retrievedAt": "2026-02-18 19:23:53.107692",
+      "internal_id": "e11f122c5fe9723e71af28ae37da84882f9f27fe91fa49382c59886f5cc54565",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27725,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Caso de Mpox \u00e9 confirmado em Porto Alegre em 2026",
+      "description": "Um novo caso de infec\u00e7\u00e3o por Mpox foi confirmado p...",
+      "url": "https://valor.globo.com/brasil/noticia/2026/02/17/caso-de-mpox-e-confirmado-em-porto-alegre-em-2026.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/HVs_FBXV3ivbW3SRj7UHy4kiCn8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2024/X/r/faLeIZQmK1YQIWaNdveg/ap24214003005792.jpg",
+      "publishedAt": "2026-02-17 14:49:20",
+      "content": "Um novo caso de infec\u00e7\u00e3o por Mpox foi confirmado pela Secretaria de Sa\u00fade de Porto Alegre e divulgado nesta ter\u00e7a-feira (17). Sem dar mais detalhes, a pasta informou que o caso foi registrado em um m\u2026 [+2414 chars]",
+      "retrievedAt": "2026-02-18 19:23:53.165437",
+      "internal_id": "58b7b0abee5741658358de5392b5845ed1fb7260568d559195592a35b3fbf27a",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27721,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Porto Alegre confirma primeiro caso de mpox. Veja sintomas e cuidados",
+      "description": "A mpox \u00e9 transmitida principalmente pelo contato direto com les\u00f5es na pele, secre\u00e7\u00f5es respirat\u00f3rias e saliva",
+      "url": "https://www.metropoles.com/brasil/porto-alegre-confirma-primeiro-caso-de-mpox-veja-sintomas-e-cuidados",
+      "urlToImage": "https://images.metroimg.com/2024/10/22134213/mpox-costas-.jpg",
+      "publishedAt": "2026-02-17 14:11:04",
+      "content": "A Vigil\u00e2ncia Sanit\u00e1ria de Porto Alegre (RS) confirmou, nesta ter\u00e7a-feira (17/2), o primeiro caso de mpox na capital ga\u00facha. A autoridade sanit\u00e1ria alega que a infec\u00e7\u00e3o aconteceu fora do Rio Grande do\u2026 [+2284 chars]",
+      "retrievedAt": "2026-02-18 19:23:53.082623",
+      "internal_id": "c70c34107ac80fbf1f80bc1e0bac397f8c44c6e71149fb6e2c035cb3e196c896",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27711,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "C. Edson Utazi, Somnath Chaudhuri, Oghenebrume Wariri, Iyanuloluwa D. Olowe, Mohamed Megheib, Andrew J. Tatem",
+      "title": "An age-structured spatially varying coefficient model for high-resolution mapping of vaccination coverage",
+      "description": "Author summary This study presents a new method to create spatially detailed, age-specific maps of vaccination coverage, with a focus on measles vaccination in C\u00f4te d\u2019Ivoire. Unlike traditional national or provincial estimates, these maps show where children \u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013989",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1013989.g004&size=inline",
+      "publishedAt": "2026-02-17 14:00:00",
+      "content": "Citation: Utazi CE, Chaudhuri S, Wariri O, Olowe ID, Megheib M, Tatem AJ (2026) An age-structured spatially varying coefficient model for high-resolution mapping of vaccination coverage. PLoS Comput \u2026 [+49356 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.396484",
+      "internal_id": "8f8ff71ae979508384dbabd630064d01953b1e0c6adb9ee52c78cede9e3990c8",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27718,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Priyanka Bhakt, Swechha M. Pokharel, Yue Li, Tamanna Srivastava, Jesse Miller, Mark Dittmar, Yongqing Zhu, David Nguyen, Zachary Walter, Kasirajan Ayyanathan, Matthew Tudor, Chenguang Yu, Arnab K. Chatterjee, Holly Ramage, David Schultz, Sara Cherry",
+      "title": "NS5-targeting nucleoside analogs inhibit dengue virus and other flaviviruses",
+      "description": "Authors summary Dengue virus (DENV) infects millions of people each year, yet no specific antiviral treatment is available. Nucleoside analogs are a broad class of potentially broad-spectrum antivirals that mimic natural RNA building blocks. Therefore, we scr\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013970",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013970.g008&size=inline",
+      "publishedAt": "2026-02-17 14:00:00",
+      "content": "Introduction Dengue is a mosquito-borne virus that poses a threat and economic burden to many tropical and subtropical regions. It has become a major global health concern due to its recent expansio\u2026 [+84081 chars]",
+      "retrievedAt": "2026-02-18 19:23:52.336179",
+      "internal_id": "407875ee3c7006cd13c26698f50e0f51e798b62205ada15848d2bf8b68a6ed65",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27726,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sampson Twumasi-Ankrah, Michael Owusu, Michael Owusu-Ansah, Seidu Amenyaglo, Caleb Osei-Wusu Sarfo, Eric Darko, Portia Okyere Boakye, Christopher B. Uzzell, Isobel M. Blake, Nicholas C. Grassly, Yaw Adu-Sarkodie, Ellis Owusu-Dabo",
+      "title": "Statistical methods for predicting the presence of Salmonella Typhi in wastewater samples at Asante Akyem Agogo, Ghana",
+      "description": "Author summary Typhoid fever remains a significant public health concern in resource-limited areas with inadequate water and sanitation infrastructure. Monitoring Salmonella Typhi in wastewater provides a cost-effective method for tracking community transmiss\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013973",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013973.g003&size=inline",
+      "publishedAt": "2026-02-17 14:00:00",
+      "content": "Citation: Twumasi-Ankrah S, Owusu M, Owusu-Ansah M, Amenyaglo S, Osei-Wusu Sarfo C, Darko E, et al. (2026) Statistical methods for predicting the presence of Salmonella Typhi in wastewater samples at\u2026 [+29601 chars]",
+      "retrievedAt": "2026-02-18 19:23:53.425948",
+      "internal_id": "28825f3656c3798cf17d68e3bfe2e33d32c5f885b8a6b4da34c95e2e0b223a81",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27708,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Prime minister urges parents to check vaccines are up to date after measles outbreak",
+      "description": "A measles outbreak is spreading through schools in north London after the UK lost its elimination status in 2024 due to a lower vaccine uptake.",
+      "url": "https://news.sky.com/story/prime-minister-urges-parents-to-check-vaccines-are-up-to-date-after-measles-outbreak-13508557",
+      "urlToImage": "https://e3.365dm.com/25/08/1600x900/skynews-vaccination-children_7004627.jpg?20250829144958",
+      "publishedAt": "2026-02-17 13:07:00",
+      "content": "Sir Keir Starmer has urged parents to check their children are up to date with vaccinations after a measles outbreak in north London. The prime minister said it was \"concerning to see more children \u2026 [+2834 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.361704",
+      "internal_id": "01f24c6ec7c6f7d5ffe33e5d7713f37c40b71af1da9fbd17a32f0153aa83fbbc",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27713,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How serious is the north London measles outbreak? #health",
+      "description": "Scale, risks, and what families should do now Health officials have confirmed a large outbreak of measles in north\u2011east London that has infected more than 60 children and involved cases across multiple schools and a nursery. Several children have required hos\u2026",
+      "url": "https://alltoc.com/health/how-serious-is-the-north-london-measles-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-17 12:06:53",
+      "content": "Health officials have confirmed a large outbreak of measles in northeast London that has infected more than 60 children and involved cases across multiple schools and a nursery. Several children have\u2026 [+1701 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.558178",
+      "internal_id": "225c6a04a2eafe584beb865b8861ada33da74fad7d157778ebb364b24bdadbc7",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27722,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Elaine Guimar\u00e3es, Elaine Guimar\u00e3es",
+      "title": "Porto Alegre (RS) confirma primeiro caso de Mpox em 2026",
+      "description": "Segundo a Secretaria Municipal de Sa\u00fade, a infec\u00e7\u00e3o ocorreu fora do Rio Grande do Sul. Em 2025, a cidade registrou 11 casos da doen\u00e7a",
+      "url": "https://ultimosegundo.ig.com.br/brasil/2026-02-17/porto-alegre-confirma-caso-de-mpox.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/cz/8u/cb/cz8ucbi9ckvdp4l0xvtovib91.jpg",
+      "publishedAt": "2026-02-17 11:02:20",
+      "content": "A prefeitura de Porto Alegre, atrav\u00e9s da Secretaria Municipal de Sa\u00fade, confirmou um caso de Mpox. Segundo a pasta, a infec\u00e7\u00e3o ocorreu fora do Rio Grande do Sul. Em 2025, a cidade registrou 11 casos \u2026 [+1308 chars]",
+      "retrievedAt": "2026-02-18 19:23:53.095484",
+      "internal_id": "29155ba44bd050bf362c78fdc010735ecaefb866872576986ebfdf1950f6827f",
+      "publishedAtLabel": "Feb 17"
+    },
+    {
+      "id": 27707,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Slate Magazine",
+      "author": "Anna Gibbs",
+      "title": "Measles Outbreaks Are Increasingly Common. Here\u2019s What You Need to Know.",
+      "description": "Babies normally don\u2019t get the measles vaccine until they\u2019re a year old. But you can ask for it sooner!",
+      "url": "https://slate.com/technology/2026/02/measles-outbreaks-vaccines-babies-guide.html",
+      "urlToImage": "https://compote.slate.com/images/e3822b2c-1f71-4689-a243-2c0de385a01b.gif?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2026-02-17 10:45:00",
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily. Measles. Measles, measles, measles! After decades of not having to worry \u2026 [+8707 chars]",
+      "retrievedAt": "2026-02-18 19:23:51.308493",
+      "internal_id": "e2c1b92aa5625ab7ae79fe2288c5315475d70fe0a1b14752aa56aba70006fdd5",
+      "publishedAtLabel": "Feb 17"
+    },
     {
       "id": 27698,
       "query": [
@@ -19351,97 +19711,6 @@
       "content": "It has been so positive that theyre hopeful he will be able to move out of the ICU into another part of the hospital which is representative of what a great recovery its been and how quickly it has f\u2026 [+1103 chars]",
       "retrievedAt": "2026-01-06 07:12:07.878525",
       "internal_id": "37969dfc79237ef6a028f575061badd5d1a372edfc8bdbc3bb2931975ad9c2a3",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26629,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Delhi: Human rabies to be declared notifiable disease",
-      "description": "Delhi is set to declare Human Rabies a Notifiable Disease. This move aims to improve tracking and treatment of rabies cases. All health facilities must report suspected and confirmed cases. The government is also enhancing vaccination programs for humans and \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126335397,width-1200,height-630,imgsize-56024,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-04 13:23:57",
-      "content": "New Delhi, The Delhi Government is all set to declare Human Rabies as a Notifiable Disease in the national capital under the Epidemic Diseases Act in an effort to strengthen surveillance and ensure t\u2026 [+2822 chars]",
-      "retrievedAt": "2026-01-05 19:08:44.369217",
-      "internal_id": "50a7aa827b13690a1248b848477ed25d39e7a52ce9ad15c7a3fe079c8bbe31cb",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26632,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Guardian Nigeria",
-      "author": "Olayide Soaga",
-      "title": "Limited healthcare access leaves Makoko dependent on alternative medicine for malaria",
-      "description": "Here, in a settlement built on water and largely cut off from formal health services, residents frequently treat malaria-like symptoms",
-      "url": "https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/",
-      "urlToImage": "https://cdn.guardian.ng/wp-content/uploads/2026/01/unnamed-1.jpg",
-      "publishedAt": "2026-01-04 10:50:49",
-      "content": "The lagoon in Makoko, one of Nigerias largest informal settlements, commonly referred to as Nigerias Venice, lay so dark it was almost impossible to see the reflection of the sun. The creeks colour w\u2026 [+21808 chars]",
-      "retrievedAt": "2026-01-05 19:08:46.600358",
-      "internal_id": "02a9372a0b7a4a4ca1db479b6bb76804a25da3622ce42f509e43e0ef0a8804e8",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26631,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Bridget McArthur",
-      "title": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
-      "description": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.",
-      "url": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5d1fd8c3b32c81e3b2aab3dae5f52373?impolicy=wcms_watermark_news&cropH=1350&cropW=2400&xPos=293&yPos=184&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-01-04 08:57:18",
-      "content": "Australian cricket great Damien Martyn has woken up from an induced coma after falling ill with meningitis an infection that causes swelling around the brain. The 54-year-old former Test batsman wa\u2026 [+1953 chars]",
-      "retrievedAt": "2026-01-05 19:08:46.287996",
-      "internal_id": "8815a835d0e6b496834d36f4db9b5cca86c46fbc9b0a731eaacc5c9993017e2f",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26630,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Punch Newspapers",
-      "title": "FG vaccinates millions of Nigerians against measles, yellow fever \u2014 Minister",
-      "description": "The Nigerian government has administered over 25 million measles and 22 million yellow fever vaccine doses, alongside new malaria and HPV vaccine rollouts. Read More: https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minist\u2026",
-      "url": "https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/10/03233354/PROF-ALI-1200x630.jpg",
-      "publishedAt": "2026-01-04 08:05:09",
-      "content": "The Coordinating Minister of Health and Social Welfare, Prof. Muhammad Pate, says the Federal Government has administered over 25 million doses of measles vaccine and 22 million yellow fever vaccinat\u2026 [+4396 chars]",
-      "retrievedAt": "2026-01-05 19:08:44.943013",
-      "internal_id": "460e1e3f20e212d7034aba83c9879f8c586f13923a83638583f720888a2ec02a",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26633,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike",
-      "description": "Water contamination crisis: Following 10 deaths in Indore, Gandhinagar and Bengaluru are now grappling with public health emergencies due to sewage-contaminated drinking water. Gandhinagar faces a typhoid outbreak with 70 active cases, while Bengaluru residen\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126332402,width-1200,height-630,imgsize-1152005,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-04 07:34:24",
-      "content": "After 10 deaths in Indore due to sewage-contaminated drinking water, Gandhinagar and Bengaluru are now facing similar public health emergencies, according to a TOI report. Residents in both cities ar\u2026 [+3447 chars]",
-      "retrievedAt": "2026-01-05 19:08:47.287107",
-      "internal_id": "d8696412e116e23dd0795f9ae766ca67b076a5a7fb39436914efd6170667d984",
       "publishedAtLabel": "Jan 4"
     }
   ]

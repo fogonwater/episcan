@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-02-18 07:27
-- **Most recent article:** 2026-02-17 06:37:31
+- **New articles in last harvest:** 20
+- **Last harvest:** 2026-02-18 19:23
+- **Most recent article:** 2026-02-17 19:13:38
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 47 | 63 | 88 | 76 | 107 | 112 | 33 | 526 |
-| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 4 | 121 |
+| measles | 46 | 63 | 88 | 76 | 107 | 112 | 43 | 535 |
+| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 5 | 122 |
 | h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 7 | 90 |
-| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 1 | 69 |
-| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 3 | 68 |
-| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 4 | 67 |
-| meningitis | 11 | 10 | 2 | 7 | 4 | 7 | 2 | 43 |
-| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 1 | 42 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 10 | 73 |
+| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 1 | 68 |
+| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 3 | 66 |
+| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 2 | 43 |
+| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 2 | 42 |
 | zika | 4 | 6 | 3 | 7 | 0 | 3 | 1 | 24 |
 | leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 2 | 20 |
-| hpai | 2 | 3 | 4 | 3 | 1 | 3 | 0 | 16 |
+| hpai | 2 | 3 | 4 | 3 | 1 | 3 | 1 | 17 |
 | yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 0 | 15 |
-| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 1 | 10 |
+| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 2 | 10 |
 | pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
@@ -38,6 +38,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (typhoid)
 
+- [Statistical methods for predicting the presence of Salmonella Typhi in wastewater samples at Asante Akyem Agogo, Ghana](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013973) (Plos.org)
+
 - [The privileged life and tragic death of an 11-year-old Tipperary girl](https://www.irishtimes.com/life-style/people/2026/02/16/the-privileged-life-and-tragic-death-of-an-11-year-old-tipperary-girl/) (The Irish Times)
 
 ## 26-8 (rabies)
@@ -45,6 +47,18 @@ Source: [News API](https://newsapi.org/)
 - [Why does rabies cause foaming at the mouth?](https://www.lifesciencesworld.com/why-does-rabies-cause-foaming-at-the-mouth/) (Lifesciencesworld.com)
 
 ## 26-8 (mpox)
+
+- [Porto Alegre confirma caso de Mpox e prefeitura faz alerta para Carnaval](https://veja.abril.com.br/saude/porto-alegre-confirma-caso-de-mpox-e-prefeitura-faz-alerta-para-carnaval/) (Abril.com.br)
+
+- [Acá cerca: confirman un caso de viruela símica en Rio Grande do Sul](https://www.montevideo.com.uy/Archivo/Aca-cerca-confirman-un-caso-de-viruela-simica-en-Rio-Grande-do-Sul-uc953343) (Montevideo.com.uy)
+
+- [OMS confirma surgimento de nova variante de mpox e pede vigilância](https://www.metropoles.com/saude/oms-nova-variante-de-mpox) (Metropoles.com)
+
+- [Caso de Mpox é confirmado em Porto Alegre em 2026](https://valor.globo.com/brasil/noticia/2026/02/17/caso-de-mpox-e-confirmado-em-porto-alegre-em-2026.ghtml) (Globo)
+
+- [Porto Alegre confirma primeiro caso de mpox. Veja sintomas e cuidados](https://www.metropoles.com/brasil/porto-alegre-confirma-primeiro-caso-de-mpox-veja-sintomas-e-cuidados) (Metropoles.com)
+
+- [Porto Alegre (RS) confirma primeiro caso de Mpox em 2026](https://ultimosegundo.ig.com.br/brasil/2026-02-17/porto-alegre-confirma-caso-de-mpox.html) (Ig.com.br)
 
 - [La OMS advierte a nivel mundial de la reaparición de una enfermedad muy temida en el pasado: "Puede haber más casos de los que se notifican actualmente"](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13779716/02/26/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-una-enfermedad-muy-temida-en-el-pasado-puede-haber-mas-casos-de-los-que-se-notifican-actualmente.html) (Eleconomista.es)
 
@@ -61,6 +75,26 @@ Source: [News API](https://newsapi.org/)
 - [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (measles)
+
+- [New measles case brings North Carolina total to 22 since December: health officials](https://wlos.com/news/local/new-measles-case-north-carolina-total-22-december-2025-state-health-officials-ncdhhs-healthcare-hospital-vaccine-mmr-symptoms-buncombe-county-charlotte-virus) (WLOS)
+
+- [Child vaccination rates are falling fast, with some regions barely reaching 80%](https://theconversation.com/child-vaccination-rates-are-falling-fast-with-some-regions-barely-reaching-80-259387) (The Conversation Africa)
+
+- [Out-of-state traveler to Chester County diagnosed with measles; now 10 cases in state](https://lancasteronline.com/news/health/out-of-state-traveler-to-chester-county-diagnosed-with-measles-now-10-cases-in-state/article_93945cd1-518c-4fcc-aa68-5a1379e85b55.html) (LancasterOnline)
+
+- [An out-of-state traveler to Chester County diagnosed with measles; now 10 cases in state](https://lancasteronline.com/news/health/an-out-of-state-traveler-to-chester-county-diagnosed-with-measles-now-10-cases-in/article_93945cd1-518c-4fcc-aa68-5a1379e85b55.html) (LancasterOnline)
+
+- [No child died from measles–rubella shot, UBTH denies ‘killer vaccine’ claims](https://punchng.com/no-child-died-from-measles-rubella-shot-ubth-denies-killer-vaccine-claims/) (The Punch)
+
+- [What sparked the north London measles outbreak? #health](https://alltoc.com/health/what-sparked-the-north-london-measles-outbreak) (Alltoc.com)
+
+- [An age-structured spatially varying coefficient model for high-resolution mapping of vaccination coverage](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013989) (Plos.org)
+
+- [Prime minister urges parents to check vaccines are up to date after measles outbreak](https://news.sky.com/story/prime-minister-urges-parents-to-check-vaccines-are-up-to-date-after-measles-outbreak-13508557) (Sky.com)
+
+- [How serious is the north London measles outbreak? #health](https://alltoc.com/health/how-serious-is-the-north-london-measles-outbreak) (Alltoc.com)
+
+- [Measles Outbreaks Are Increasingly Common. Here’s What You Need to Know.](https://slate.com/technology/2026/02/measles-outbreaks-vaccines-babies-guide.html) (Slate Magazine)
 
 - [I am one of the many London parents who haven’t vaccinated their children against measles – let me explain](https://www.the-independent.com/life-style/health-and-families/features/mmrv-measles-outbreak-vaccination-children-covid-b2921185.html) (The-independent.com)
 
@@ -142,6 +176,10 @@ Source: [News API](https://newsapi.org/)
 
 - [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
+## 26-8 (hpai)
+
+- [Seek Labs Awarded $2 Million Federal Grant for a Novel CRISPR-Based, Mutation-Resistant Therapeutic to Combat Avian Flu in Partnership with Canadian Food Inspection Agency](https://financialpost.com/pmn/business-wire-news-releases-pmn/seek-labs-awarded-2-million-federal-grant-for-a-novel-crispr-based-mutation-resistant-therapeutic-to-combat-avian-flu-in-partnership-with-canadian-food-inspection-agency) (Financial Post)
+
 ## 26-8 (h5n1)
 
 - [В Центре Гамалеи появились «консервы» вакцин против оспы обезьян и птичьего гриппа](https://life.ru/p/1842471) (Life.ru)
@@ -160,6 +198,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (dengue)
 
+- [NS5-targeting nucleoside analogs inhibit dengue virus and other flaviviruses](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013970) (Plos.org)
+
 - [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
 
 - [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
@@ -169,6 +209,8 @@ Source: [News API](https://newsapi.org/)
 - [Using Routine Surveillance Data to Assess Dengue Virus Transmission Risk in Travelers Returning to the United States](https://wwwnc.cdc.gov/eid/article/32/2/25-1217_article) (Cdc.gov)
 
 ## 26-8 (chikungunya)
+
+- [Cruise line halts operations suddenly, leaving future trips in limbo](https://www.foxnews.com/lifestyle/cruise-line-halts-operations-suddenly-leaving-future-trips-limbo) (Fox News)
 
 - [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
 
@@ -2172,8 +2214,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
-- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
-
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2191,8 +2231,6 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
-
-- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2245,8 +2283,6 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
-
-- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2342,8 +2378,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
-
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2367,10 +2401,6 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
-
-- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
-
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 
