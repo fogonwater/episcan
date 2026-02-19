@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2026-02-18 19:23
-- **Most recent article:** 2026-02-17 19:13:38
+- **New articles in last harvest:** 25
+- **Last harvest:** 2026-02-19 07:26
+- **Most recent article:** 2026-02-18 07:00:00
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 46 | 63 | 88 | 76 | 107 | 112 | 43 | 535 |
+| measles | 47 | 63 | 88 | 76 | 107 | 112 | 50 | 543 |
 | dengue | 12 | 22 | 27 | 16 | 16 | 24 | 5 | 122 |
-| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 7 | 90 |
-| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 10 | 73 |
-| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 1 | 68 |
-| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 3 | 66 |
-| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 2 | 43 |
-| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 2 | 42 |
+| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 9 | 92 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 13 | 76 |
+| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 8 | 73 |
+| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 2 | 70 |
+| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 8 | 49 |
+| meningitis | 11 | 10 | 2 | 7 | 4 | 7 | 2 | 43 |
 | zika | 4 | 6 | 3 | 7 | 0 | 3 | 1 | 24 |
-| leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 2 | 20 |
+| leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 3 | 21 |
 | hpai | 2 | 3 | 4 | 3 | 1 | 3 | 1 | 17 |
 | yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 0 | 15 |
-| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 2 | 10 |
+| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 2 | 11 |
 | pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
@@ -44,9 +44,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (rabies)
 
+- [Watch: Viral video of stray dog attacking woman has everyone talking](https://timesofindia.indiatimes.com/etimes/trending/watch-viral-video-of-stray-dog-attacking-woman-has-everyone-talking/articleshow/128489379.cms) (The Times of India)
+
 - [Why does rabies cause foaming at the mouth?](https://www.lifesciencesworld.com/why-does-rabies-cause-foaming-at-the-mouth/) (Lifesciencesworld.com)
 
 ## 26-8 (mpox)
+
+- [Bavarian Nordic Receives USD 22.5 Million Contract for its Mpox and Smallpox Vaccine from the Government of Canada](https://www.globenewswire.com/news-release/2026/02/18/3239931/0/en/Bavarian-Nordic-Receives-USD-22-5-Million-Contract-for-its-Mpox-and-Smallpox-Vaccine-from-the-Government-of-Canada.html) (GlobeNewswire)
+
+- [Bavarian Nordic modtager ordre på USD 22,5 mio. på levering af mpox- og koppevacciner til den canadiske regering](https://www.globenewswire.com/news-release/2026/02/18/3239931/0/da/Bavarian-Nordic-modtager-ordre-p%C3%A5-USD-22-5-mio-p%C3%A5-levering-af-mpox-og-koppevacciner-til-den-canadiske-regering.html) (GlobeNewswire)
+
+- [サイクロン「ゲザニ」、マダガスカル上陸 2週間で2度目の気候災害、多くの子どもに被害 ユニセフ、840万米ドルの緊急支援を要請 【プレスリリース】](https://prtimes.jp/main/html/rd/p/000002655.000005176.html) (Prtimes.jp)
 
 - [Porto Alegre confirma caso de Mpox e prefeitura faz alerta para Carnaval](https://veja.abril.com.br/saude/porto-alegre-confirma-caso-de-mpox-e-prefeitura-faz-alerta-para-carnaval/) (Abril.com.br)
 
@@ -75,6 +83,20 @@ Source: [News API](https://newsapi.org/)
 - [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (measles)
+
+- [What caused the north London measles outbreak? #health](https://alltoc.com/health/what-caused-the-north-london-measles-outbreak) (Alltoc.com)
+
+- [SC State Senator Proposes Bill To Remove Religious Exemptions For Vaccines In Public School Children](https://www.techdirt.com/2026/02/17/sc-state-senator-proposes-bill-to-remove-religious-exemptions-for-vaccines-in-public-school-children/) (Techdirt)
+
+- [Illinois reports first measles case of 2026](https://chicago.suntimes.com/health/2026/02/17/illinois-reports-first-measles-case-of-2026) (Suntimes.com)
+
+- [UCSF Fresno offering 2-year Infectious Disease Fellowship as flu and measles cases rise](https://abc30.com/post/ucsf-fresno-offering-2-year-infectious-disease-fellowship-flu-measles-cases-rise/18613743/) (KFSN-TV)
+
+- [Why are measles outbreaks rising in London and the US? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising-in-london-and-the-us) (Alltoc.com)
+
+- [No deaths reported from measles vaccine – UBTH](https://punchng.com/no-deaths-reported-from-measles-vaccine-ubth/) (The Punch)
+
+- [Measles Outbreak Strikes Florida University](https://www.shtfplan.com/health/measles-outbreak-strikes-florida-university) (Shtfplan.com)
 
 - [New measles case brings North Carolina total to 22 since December: health officials](https://wlos.com/news/local/new-measles-case-north-carolina-total-22-december-2025-state-health-officials-ncdhhs-healthcare-hospital-vaccine-mmr-symptoms-buncombe-county-charlotte-virus) (WLOS)
 
@@ -164,6 +186,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (malaria)
 
+- [Reduced cyclin D3 expression in erythroid cells protects against malaria](https://www.nature.com/articles/s41586-026-10110-9) (Nature.com)
+
+- [Malaria is hindered by repression of a cell-cycle protein](https://www.nature.com/articles/d41586-026-00289-2) (Nature.com)
+
+- [Deciphering the etiology of the 2024 outbreak of undiagnosed febrile illness in Panzi, Democratic Republic of the Congo](https://www.nature.com/articles/s41591-026-04235-7) (Nature.com)
+
+- [NIPRD trains young scientists to boost medicine security, safe antimalarials](https://www.premiumtimesng.com/health/health-news/857405-niprd-trains-young-scientists-to-boost-medicine-security-safe-antimalarials.html) (Premium Times)
+
+- [Ministry of Health and Wellness confirms 2 malaria cases in Toledo](https://www.breakingbelizenews.com/2026/02/17/ministry-of-health-and-wellness-confirms-2-malaria-cases-in-toledo/) (Breaking Belize News)
+
 - [Airport Malaria Cluster in Certified Malaria-Free Country, Libya, 2024](https://wwwnc.cdc.gov/eid/article/32/2/25-1508_article) (Cdc.gov)
 
 - [African leaders mobilise malaria funding at AU summit](https://punchng.com/african-leaders-mobilise-malaria-funding-at-au-summit/) (The Punch)
@@ -171,6 +203,8 @@ Source: [News API](https://newsapi.org/)
 - [Malaria in Kilifi South: Drug misuse, mosquitoes and poverty fuel crisis](https://www.standardmedia.co.ke/health/health-science/article/2001540954/malaria-in-kilifi-south-drug-misuse-mosquitoes-and-poverty-fuel-crisis) (Standard Digital)
 
 ## 26-8 (leptospirosis)
+
+- [Bacolod records first suspected leptospirosis death in 2026](https://rpnradio.com/bacolod-records-first-suspected-leptospirosis-death-in-2026/) (Rpnradio.com)
 
 - [What to do with possum poo?](https://www.lifesciencesworld.com/what-to-do-with-possum-poo/) (Lifesciencesworld.com)
 
@@ -181,6 +215,10 @@ Source: [News API](https://newsapi.org/)
 - [Seek Labs Awarded $2 Million Federal Grant for a Novel CRISPR-Based, Mutation-Resistant Therapeutic to Combat Avian Flu in Partnership with Canadian Food Inspection Agency](https://financialpost.com/pmn/business-wire-news-releases-pmn/seek-labs-awarded-2-million-federal-grant-for-a-novel-crispr-based-mutation-resistant-therapeutic-to-combat-avian-flu-in-partnership-with-canadian-food-inspection-agency) (Financial Post)
 
 ## 26-8 (h5n1)
+
+- [Polarforscher besorgt: Vogelgrippe in der Antarktis könnte innerhalb kurzer Zeit alle Tiere töten](https://www.n-tv.de/panorama/Vogelgrippe-in-der-Antarktis-koennte-innerhalb-kurzer-Zeit-alle-Tiere-toeten-id30375036.html) (N-tv.de)
+
+- [H5N1: Polarforscher melden starke Ausbreitung der Vogelgrippe in Antarktis](https://www.zeit.de/gesundheit/2026-02/antarktis-vogelgrippe-h5n1-polarforscher-alarmiert) (Die Zeit)
 
 - [В Центре Гамалеи появились «консервы» вакцин против оспы обезьян и птичьего гриппа](https://life.ru/p/1842471) (Life.ru)
 
@@ -209,6 +247,18 @@ Source: [News API](https://newsapi.org/)
 - [Using Routine Surveillance Data to Assess Dengue Virus Transmission Risk in Travelers Returning to the United States](https://wwwnc.cdc.gov/eid/article/32/2/25-1217_article) (Cdc.gov)
 
 ## 26-8 (chikungunya)
+
+- [Tropikal hastalık Avrupa'da salgına dönüşebilir](https://www.haber7.com/dunya/haber/3605237-tropikal-hastalik-avrupada-salgina-donusebilir) (Haber7.com)
+
+- [Kühle Sommer - kein Problem: Experten: Chikungunya für Europa problematischer als gedacht](https://www.tagesspiegel.de/wissen/kuhle-sommer-kein-problem-experten-chikungunya-fur-europa-problematischer-als-gedacht-15263013.html) (Der Tagesspiegel)
+
+- [Neue Studie zu Chikungunya: Das Virus verbreitet sich bei niedrigeren Temperaturen als gedacht](https://www.tagesspiegel.de/wissen/neue-studie-zu-chikungunya-das-virus-verbreitet-sich-bei-niedrigeren-temperaturen-als-gedacht-15263013.html) (Der Tagesspiegel)
+
+- [Kühle Sommer - kein Problem: Experten: Chikungunya für Europa problematischer als gedacht](https://www.zeit.de/news/2026-02/18/experten-chikungunya-fuer-europa-problematischer-als-gedacht) (Die Zeit)
+
+- [Kühle Sommer - kein Problem: Experten: Chikungunya für Europa problematischer als gedacht](https://www.stern.de/panorama/wissen/kuehle-sommer---kein-problem--experten--chikungunya-fuer-europa-problematischer-als-gedacht-37146676.html) (STERN.de)
+
+- [Urgent warning issued by CDC as chikungunya virus outbreak hits vacation destination](https://www.foxnews.com/travel/urgent-warning-issued-cdc-chikungunya-virus-outbreak-hits-vacation-destination) (Fox News)
 
 - [Cruise line halts operations suddenly, leaving future trips in limbo](https://www.foxnews.com/lifestyle/cruise-line-halts-operations-suddenly-leaving-future-trips-limbo) (Fox News)
 
@@ -2214,6 +2264,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
+- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
+
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2231,6 +2283,8 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
+
+- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2283,6 +2337,8 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
+
+- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2378,6 +2434,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
+- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
+
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2401,6 +2459,10 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
+
+- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
+
+- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 
