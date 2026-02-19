@@ -1,8 +1,638 @@
 {
-  "last_updated": "2026-02-19 07:26",
-  "count_articles_total": 1123,
-  "count_articles_new": 25,
+  "last_updated": "2026-02-19 19:20",
+  "count_articles_total": 1153,
+  "count_articles_new": 35,
   "articles": [
+    {
+      "id": 27759,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles outbreaks rising? #health",
+      "description": "A resurgence driven by low immunity and spreading clusters Multiple regions are reporting sharp increases in measles cases, and public health officials point to falling vaccine coverage and clusters of unvaccinated people as the main drivers. Large outbreaks \u2026",
+      "url": "https://alltoc.com/health/why-are-measles-outbreaks-rising",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-18 18:10:07",
+      "content": "A resurgence driven by low immunity and spreading clusters Multiple regions are reporting sharp increases in measles cases, and public-health officials point to falling vaccine coverage and clusters\u2026 [+1805 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.516318",
+      "internal_id": "0c50f63a83b65fa99ab4d721865485248ced9d6580166a7db0da152b65cddb23",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27772,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Eileen Wagner",
+      "title": "M\u00fccken \u00fcbertragen Chikungunya-Virus \u2013 Studie warnt vor fr\u00fcherer Saison in Europa",
+      "description": "Chikungunya-F\u00e4lle nehmen weltweit zu. Eine Studie zeigt: Auch Europa ist gef\u00e4hrdet, weil das Virus bei k\u00fchlen Graden ansteckend ist.",
+      "url": "https://www.morgenpost.de/ratgeber-wissen/article411253311/muecken-uebertragen-chikungunya-virus-studie-warnt-vor-frueherer-saison-in-europa.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/411247210/411247210_1771437857_v16_9_1600.jpeg",
+      "publishedAt": "2026-02-18 18:04:11",
+      "content": "Das Chikungunya-Virus k\u00f6nnte sich in Europa fr\u00fcher im Jahr und in mehr Regionen ausbreiten als bisher angenommen. Darauf deutet eine neue Studie im Fachjournal Interface hin. Das Team um Sandeep Tega\u2026 [+3462 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.925662",
+      "internal_id": "cecc700617e7660b25ac88f584d63e88d35ec3d41478d8f8181d4db8f18182d0",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27764,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Daniela Silva",
+      "title": "Anuncian cierre temporal de paso fronterizo Cristo Redentor tras detecci\u00f3n de mosquito que transmite el dengue",
+      "description": "El tr\u00e1nsito se suspender\u00e1 en Guardia Vieja (Chile) y Uspallata (Argentina) a partir del Jueves 19 de febrero de 2026 desde las 10:00 hora de Chile y Argentina.",
+      "url": "https://www.latercera.com/nacional/noticia/anuncian-cierre-temporal-de-paso-fronterizo-cristo-redentor-tras-deteccion-de-mosquito-que-transmite-el-dengue/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/BE2J7GYMNRBFRE7YRQXHYAX6JQ.jpg?auth=b546400950117897fe1bfb45c2f05b2f045070fe9cc21f2f490d91159b7159e4&height=630&width=1200&smart=true",
+      "publishedAt": "2026-02-18 17:16:35",
+      "content": "Este mi\u00e9rcoles la Delegaci\u00f3n Presidencial Provincial de Los Andes anunci\u00f3 el cierre temporal del paso fronterizo del Sistema Integrado Cristo Redentor tras la posible detecci\u00f3n del mosquito que trans\u2026 [+1123 chars]",
+      "retrievedAt": "2026-02-19 19:20:39.696589",
+      "internal_id": "4d6e24bb55ebdf1b4a0d2b07493e8f98c8e7e9a4960ab0bdaea29e5a660acfb2",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27754,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Meg Wingerter",
+      "title": "Rabid skunk found in Arvada; health officials urge caution during warm winter",
+      "description": "In warmer weather, both wild and domestic animals spend more time outdoors, as do people. When contacts between animals increase, the odds that the virus could spread to people rise, she said.",
+      "url": "https://www.denverpost.com/2026/02/18/rabies-arvada-colorado-jefferson-county/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2016/05/20120712__skunkp1.jpg?w=600&h=398",
+      "publishedAt": "2026-02-18 17:13:37",
+      "content": "A skunk tested positive for rabies in Arvada and health officials urged the public to take precautions as an unusually warm winter encourages animals to leave their dens. The animal, found in the Oa\u2026 [+1402 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.062091",
+      "internal_id": "356f24a54e80f81ba16bbb23b5e408b16ae3caae0c960a4e6f60dbc3c3794112",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27786,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Vict\u00f3ria Ribeiro",
+      "title": "Mpox: entenda infec\u00e7\u00e3o com novo caso registrado no Brasil e quais os riscos ap\u00f3s carnaval",
+      "description": "Confirma\u00e7\u00f5es recentes indicam que v\u00edrus segue em circula\u00e7\u00e3o no pa\u00eds; especialistas avaliam risco ap\u00f3s o carnaval e refor\u00e7am vigil\u00e2ncia",
+      "url": "https://veja.abril.com.br/saude/mpox-entenda-infeccao-com-novo-caso-registrado-no-brasil-e-quais-os-riscos-apos-carnaval/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/03/mpox-o-que-e-sintomas-diagnostico-e-tratamentos-eficazes.webp?resize=1080,565&crop=1",
+      "publishedAt": "2026-02-18 17:00:14",
+      "content": "Pular para o conte\u00fado Oferta Rel\u00e2mpago: VEJA por apenas 9,90Mpox: s\u00f3 no Estado de S\u00e3o Paulo, h\u00e1 43 casos confirmados da doen\u00e7a em 2026 (Reprodu\u00e7\u00e3o / Internet/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade \u2026 [+4417 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.309017",
+      "internal_id": "3b8e22b3557651bc267e573297cf81a1551e015e3fb632e788002806ac7754e0",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27763,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Cnnchile.com",
+      "author": "CNN Chile",
+      "title": "Anuncian cierre temporal del Paso Los Libertadores por hallazgo de mosquito del dengue",
+      "description": "Desde este jueves se cerrar\u00e1 el tr\u00e1nsito entre Guardia Vieja (Chile) y Uspallata (Argentina) hasta el viernes 20 de febrero, por el hallazgo de un posible ejemplar de Aedes Aegypti.",
+      "url": "https://www.cnnchile.com/pais/paso-los-libertadores-por-hallazgo-de-mosquito-del-dengue_20260218/",
+      "urlToImage": "https://media.cnnchile.com/sites/2/2026/02/Pase-Fronterizo-Los-Libertadores-.jpg",
+      "publishedAt": "2026-02-18 16:28:39",
+      "content": "Desde este jueves se cerrar\u00e1 el tr\u00e1nsito entre Guardia Vieja (Chile) y Uspallata (Argentina) hasta el viernes 20 de febrero, por el hallazgo de un posible ejemplar de Aedes Aegypti.La Delegaci\u00f3n Pres\u2026 [+1389 chars]",
+      "retrievedAt": "2026-02-19 19:20:39.683949",
+      "internal_id": "672cd63947ad1ad9a03aed14dacf13fbabf92e4f6e99577135c9bbce3cc6f979",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27774,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Expresso.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Portugal na \u00e1rea de maior risco na Europa de transmiss\u00e3o do v\u00edrus Chikungunya",
+      "description": "Doen\u00e7a tropical debilitante causada pela picada de mosquitos infetados, representa uma \"amea\u00e7a \u00e0 sa\u00fade na Europa maior do que se pensava anteriormente, alerta estudo brit\u00e2nico",
+      "url": "https://expresso.pt/sociedade/2026-02-18-portugal-na-area-de-maior-risco-na-europa-de-transmissao-do-virus-chikungunya-d5d647c8",
+      "urlToImage": "https://images.impresa.pt/expresso/2023-11-23-aedes-albopictus-c4a3724f/1.91x1?wm=true&outputFormat=jpeg",
+      "publishedAt": "2026-02-18 15:50:25",
+      "content": "Grande parte da Europa apresenta um risco alargado de transmiss\u00e3o do v\u00edrus Chikungunya e Portugal est\u00e1 integrado na \u00e1rea onde essa possibilidade \u00e9 mais elevada, alertou um estudo do Centro de Ecologi\u2026 [+3566 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.984462",
+      "internal_id": "ce80638e44f7a290859f61cfabb5e44882e50459fa2561a7a498039cc9732b57",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27780,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "Kiadt\u00e1k a figyelmeztet\u00e9st: Magyarorsz\u00e1gra tart a vesz\u00e9lyes v\u00edrus",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/tudomany/2026/02/chikungunya-laz-magyarorszagi-kockazat-terjedes",
+      "urlToImage": "https://cdn.origo.hu/2026/02/ci_Me8h4eDH7u21UmmcRRDgPr2somRjUOE7V_2ldNUQ/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzU1ZDM3ODUwNDU4NzQzNzM5MjE1M2Y3ODdiOThhYTI3.webp",
+      "publishedAt": "2026-02-18 15:32:20",
+      "content": "Sok\u00e1ig \u00fagy gondoltuk, hogy a tr\u00f3pusi betegs\u00e9gek a t\u00e1voli, forr\u00f3 \u00e9g\u00f6vi nyaral\u00e1sok kellemetlen velej\u00e1r\u00f3i lehetnek csup\u00e1n, \u00e1m ez a biztons\u00e1g\u00e9rzet m\u00e1ra a m\u00falt\u00e9. A chikungunya-l\u00e1z \u00e9s m\u00e1s, sz\u00fanyogok \u00e1ltal \u2026 [+3348 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.070751",
+      "internal_id": "221edea25d7f4009d573061c92be4f4be2e77c9554b84839fda7505a80f0e30b",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27779,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Sapo.pt",
+      "author": "Green Savers com Lusa",
+      "title": "Portugal na \u00e1rea de maior risco na Europa de transmiss\u00e3o do v\u00edrus Chikungunya",
+      "description": "O v\u00edrus Chikungunya, respons\u00e1vel por uma doen\u00e7a tropical debilitante causada pela picada de mosquitos infetados, representa uma \u201camea\u00e7a \u00e0 sa\u00fade na Europa maior do que se pensava anteriormente, pois pode ser transmitido quando as temperaturas do ar est\u00e3o t\u00e3o b\u2026",
+      "url": "https://greensavers.sapo.pt/portugal-na-area-de-maior-risco-na-europa-de-transmissao-do-virus-chikungunya/",
+      "urlToImage": "https://greensavers.sapo.pt/wp-content/uploads/2026/02/Virus-Chikungunya.jpg",
+      "publishedAt": "2026-02-18 15:18:17",
+      "content": "Grande parte da Europa apresenta um risco alargado de transmiss\u00e3o do v\u00edrus Chikungunya e Portugal est\u00e1 integrado na \u00e1rea onde essa possibilidade \u00e9 mais elevada, alertou um estudo do Centro de Ecologi\u2026 [+3535 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.057816",
+      "internal_id": "aabb0e6253151edcdfae993b2515e9dc206ddc7a6dca111e135c716d02bd9db8",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27755,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What does the north London measles outbreak mean? #health",
+      "description": "How the outbreak unfolded and why it matters A cluster of measles cases in northeast London has grown rapidly, affecting dozens of children across several schools and a nursery. Local health officials say some infected children required hospital care. The out\u2026",
+      "url": "https://alltoc.com/health/what-does-the-north-london-measles-outbreak-mean",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-18 15:13:09",
+      "content": "A cluster of measles cases in northeast London has grown rapidly, affecting dozens of children across several schools and a nursery. Local health officials say some infected children required hospita\u2026 [+1460 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.328685",
+      "internal_id": "b8234f5ee758a4ff30328a757632720f9122507bacffa78e0436a257ef07a75f",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27765,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Tecnologia cria prote\u00e7\u00e3o cont\u00ednua contra o Aedes aegypti",
+      "description": "Produto autorizado pela Anvisa cria uma camada protetora em superf\u00edcies internas e externas contra o mosquito da dengue",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/02/18/tecnologia-cria-protecao-continua-contra-o-aedes-aegypti-1.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/ZnZ7hbXnNjX7o7fvKBBsIiVJFsw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/G/A/VsO6fSS9CbhlBUzUHzlA/publicador-api-valor-dino-100-51167b50-0b3d-4e4c-a18b-87e3b8edff4d.jpg",
+      "publishedAt": "2026-02-18 15:00:37",
+      "content": "Dados do Minist\u00e9rio da Sa\u00fade, divulgados pela Jovem Pan, apontam que entre janeiro e mar\u00e7o de 2025, o Brasil registrou mais de 502 mil casos prov\u00e1veis de dengue. No per\u00edodo, foram confirmadas 235 mor\u2026 [+3817 chars]",
+      "retrievedAt": "2026-02-19 19:20:39.721158",
+      "internal_id": "bfc9a42e0a6619e0380fb9fdd7a2861ed28bca58f8cb70a4ebe532d6512c9fee",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27781,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Karolina Majchrzak",
+      "title": "Wyniszczaj\u0105ca choroba tropikalna mo\u017ce ju\u017c przenosi\u0107 si\u0119 po ca\u0142ej Europie",
+      "description": "Naukowcy ostrzegaj\u0105, \u017ce chikungunya - wyj\u0105tkowo bolesna choroba tropikalna - mo\u017ce by\u0107 teraz przenoszona przez komary w wi\u0119kszo\u015bci Europy. Zmiany klimatu i ekspansja inwazyjnego komara tygrysiego sprawi\u0142y, \u017ce wirus zagra\u017ca nie tylko po\u0142udniowym regionom, ale t\u2026",
+      "url": "https://geekweek.interia.pl/medycyna/news-wyniszczajaca-choroba-tropikalna-moze-juz-przenosic-sie-po-c,nId,22602222",
+      "urlToImage": "https://i.iplsc.com/-/000L2NPCUTML4QH7-C461.jpg",
+      "publishedAt": "2026-02-18 15:00:02",
+      "content": "Wedug nowego badania opublikowanego w Journal of the Royal Society Interface, transmisja wirusa jest moliwa ju przy temperaturze 13-14\u00b0C, czyli o 2,5 stopnia niszej, ni dotd sdzono dotd. To oznacza, \u2026 [+2351 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.084219",
+      "internal_id": "079ee9d0f75903938de61e8df39ae259754e9285163de8d15bdae236b7fc4e58",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27756,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dianeravitch.net",
+      "author": "dianeravitch",
+      "title": "Annie Andrews: There Is Only One Way to Stop the Spread of Measles",
+      "description": "Annie Andrews is a pediatrician in South Carolina. She is running against Senator Lindsey Graham in the November election. She wrote: I\u2019ve been a pediatrician for 20 years. When I learned how to take a pediatric patient\u2019s history, I was taught to ask parents:\u2026",
+      "url": "https://dianeravitch.net/2026/02/18/annie-andrews-there-is-only-one-way-to-stop-the-spread-of-measles/",
+      "urlToImage": "https://res.cloudinary.com/msnow/images/t_focal-860x484/f_auto,q_auto/v1767723018/1767722878070_n_jansing_dr_paul_offit_new_guildelines_reccomend_children_get_vaccines_for_only_11_260106_1920x1080/1767722878070_n_jansing_dr_paul_offit_new_guildelines_reccomend_children_get_vaccines_for_only_11_260106_1920x1080.jpg?_i=AA",
+      "publishedAt": "2026-02-18 15:00:00",
+      "content": "Annie Andrews is a pediatrician in South Carolina. She is running against Senator Lindsey Graham in the November election. She wrote: Ive been a pediatrician for 20 years. When I learned how to ta\u2026 [+4489 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.374918",
+      "internal_id": "3bf72f6621eb6f6176bfa6fdd37954f84979c832c653486f5e3cc6031392e2da",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27761,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Ichilov Hospital security guard diagnosed with measles",
+      "description": "The Israel Ministry of Health reported that it received a notification from Ichilov Hospital regarding a hospital security guard who was diagnosed with measles.The guard was stationed at the entrance to the Neonatal Department A on Saturday, February 14, 2026\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/676548",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-02-18 14:57:10",
+      "content": "The Israel Ministry of Health reported that it received a notification from Ichilov Hospital regarding a hospital security guard who was diagnosed with measles. The guard was stationed at the entran\u2026 [+493 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.698410",
+      "internal_id": "730cde956262cc3cb09039242ef8ffc6ae04dd571bf1db3939112628704ee089",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27775,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Metr\u00f3poles",
+      "title": "Chikungunya pode ser transmitida em grande parte da Europa, diz estudo",
+      "description": "Casos de doen\u00e7a tropical devem aumentar na Europa. Mudan\u00e7as clim\u00e1ticas possibilitaram as condi\u00e7\u00f5es ideias para a chikungunya na regi\u00e3o",
+      "url": "https://www.dw.com/pt-br/chikungunya-pode-ser-transmitida-em-grande-parte-da-europa/a-76020771",
+      "urlToImage": "https://images.metroimg.com/2025/11/04101131/dengue-9.jpg",
+      "publishedAt": "2026-02-18 14:18:58",
+      "content": "Os casos de chikungunya est\u00e3o aumentando em todo o mundo, e a Europa poder\u00e1 ser muito mais afetada do que se pensava anteriormente devido ao aquecimento global cont\u00ednuo, de acordo com uma an\u00e1lise pub\u2026 [+7068 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.996673",
+      "internal_id": "17ba86658cd2597bdf473793abe2e68aaf1d83edab0bfb5073c6d2febb8ac301",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27768,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Courrier International",
+      "author": null,
+      "title": "Le chikungunya peut d\u00e9sormais se propager dans la plupart des pays europ\u00e9ens",
+      "description": "Une \u00e9tude montre que le virus chikungunya peut incuber \u00e0 des temp\u00e9ratures moindres qu\u2019imagin\u00e9es auparavant. Cons\u00e9quence concr\u00e8te : en Europe, davantage de localisations et sur des p\u00e9riodes plus longues pourraient \u00eatre concern\u00e9es par des \u00e9pid\u00e9mies de cette mal\u2026",
+      "url": "https://www.courrierinternational.com/article/sante-le-chikungunya-peut-desormais-se-propager-dans-la-plupart-des-pays-europeens_240755",
+      "urlToImage": "https://focus.courrierinternational.com/2026/02/18/15/0/2541/1694/1200/630/60/0/3286166_upload-1-b2vuynrna9kg-069-bsip-014285-015.jpg",
+      "publishedAt": "2026-02-18 14:11:37",
+      "content": "Pour la premi\u00e8re fois, des chercheurs se sont int\u00e9ress\u00e9s non pas \u00e0 la survie des moustiques tigres (Aedes albopictus) en Europe, lesquels se sont implant\u00e9s sur le continent dans les derni\u00e8res d\u00e9cenni\u2026 [+2095 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.863431",
+      "internal_id": "34c48a598b966911f398cd52a89c86a0773e06b006c70581b9cfa1bf7ecb8536",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27782,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Yenicaggazetesi.com",
+      "author": "Yeni\u00e7a\u011f Gazetesi",
+      "title": "Tehlikeli vir\u00fcs h\u0131zla yay\u0131l\u0131yor: Vaka say\u0131lar\u0131 f\u0131rlad\u0131",
+      "description": "Sivrisinekler arac\u0131l\u0131\u011f\u0131yla bula\u015fan Chikungunya vir\u00fcs\u00fcn\u00fcn, iklim de\u011fi\u015fikli\u011fi nedeniyle Avrupa'n\u0131n geni\u015f b\u00f6lgelerinde yay\u0131lma riski ta\u015f\u0131d\u0131\u011f\u0131 ortaya \u00e7\u0131kt\u0131. Bilim insanlar\u0131 \u00f6zellikle g\u00fcney \u00fclkeleri i\u00e7in dikkat \u00e7ekerken, hastal\u0131\u011f\u0131n daha kuzeye ilerlemesinin \"sadec\u2026",
+      "url": "https://www.yenicaggazetesi.com/tehlikeli-virus-hizla-yayiliyor-vaka-sayilari-firladi-1002311h.htm",
+      "urlToImage": "https://img.yenicaggazetesi.com/rcman/Cw1280h720q95gc/storage/files/images/2026/02/18/tehlikeli-virus-hizla-yayiliyor-vaka-sayilari-firladi-chad.jpg",
+      "publishedAt": "2026-02-18 14:05:29",
+      "content": "\u0130lk kez 1950\u2019li y\u0131llarda Tanzanya\u2019da tespit edilen Chikungunya vir\u00fcs\u00fc, sivrisinek \u0131s\u0131r\u0131\u011f\u0131yla bula\u015fan ve milyonlarca ki\u015fiyi etkileyen ciddi bir enfeksiyon olarak biliniyor. Uzmanlar, hastal\u0131\u011f\u0131n art\u0131k \u2026 [+1353 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.096797",
+      "internal_id": "a472f32a9193b31096554bc35347d07c8deefdc07892bb2d04be041c30f2d834",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27766,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Piyarat Sripoorote, Nichakan Inthitanon, Yupaporn Wattanagoon, Liwang Cui, Wang Nguitragool, Kimberly Fornace, Jetsumon Sattabongkot, Daniel M. Parker, Pyae Linn Aung",
+      "title": "Community awareness and health providers\u2019 perspectives on zoonotic Plasmodium knowlesi malaria in Thailand: A mixed-methods assessment",
+      "description": "Author summary Zoonotic malaria caused by Plasmodium knowlesi, a parasite naturally carried by monkeys, is an emerging public health concern in Southeast Asia. In Thailand, the number of reported P. knowlesi cases has increased in recent years, particularly i\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013891",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013891.g003&size=inline",
+      "publishedAt": "2026-02-18 14:00:00",
+      "content": "Abstract Background Plasmodium knowlesi poses an emerging challenge for malaria control in Southeast Asia due to its zoonotic nature, diagnostic complexity and lack of species-specific control stra\u2026 [+58370 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.318355",
+      "internal_id": "16db2c65bf03a7eb3a6b6876d24c216805876b1a156e1f82c9c37fec968b72c8",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27767,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Pon Arunachalam Boopathi, Saurabh Singh, Priyanka Roy, Sampreeti Tahbildar, Sanjay Kumar Kochar, Dhanpat Kumar Kochar, Ashis Das",
+      "title": "Comparative clinical transcriptome of pir genes in severe Plasmodium vivax malaria",
+      "description": "Author summary Plasmodium vivax, considered to cause benign infections, has been reported over the past couple of decades as manifesting with severe symptoms like cerebral malaria, hepatic dysfunction, and others. This paper reports the analysis of a selected\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013342",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013342.g005&size=inline",
+      "publishedAt": "2026-02-18 14:00:00",
+      "content": "Citation: Boopathi PA, Singh S, Roy P, Tahbildar S, Kochar SK, Kochar DK, et al. (2026) Comparative clinical transcriptome of pir genes in severe Plasmodium vivax malaria. PLoS Negl Trop Dis 20(2): \u2026 [+27449 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.331368",
+      "internal_id": "6fe83f41d0a5d2c000c710fc716b3ffdabaff0289ee36a106b4e8a6695c07c3a",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27773,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "Roberto de Lira",
+      "title": "Aquecimento global eleva risco de surtos de v\u00edrus chikungunya na Europa, diz estudo",
+      "description": "Segundo as novas descobertas, o v\u00edrus pode se espalhar em temperaturas entre 13 e 14 graus Celsius, enquanto pesquisas anteriores indicavam um m\u00ednimo de 16 a18 graus Celsius The post Aquecimento global eleva risco de surtos de v\u00edrus chikungunya na Europa, diz\u2026",
+      "url": "https://www.infomoney.com.br/mundo/aquecimento-global-eleva-risco-de-surtos-de-virus-chikungunya-na-europa-diz-estudo/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2026/02/Mosquito-tigre_asiatico_.png?quality=70",
+      "publishedAt": "2026-02-18 13:42:21",
+      "content": "O aquecimento global aumentou a amea\u00e7a \u00e0 sa\u00fade na Europa causada pela doen\u00e7a tropical debilitante chikungunya, transmitida por picadas de mosquito. A conclus\u00e3o \u00e9 de estudo do brit\u00e2nico Centro para a \u2026 [+2901 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.971937",
+      "internal_id": "6436556f411c5d134d8e00181e1dbdc5bdf66fabec15c4c351aa977e8de4467a",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27769,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Deutsche Welle",
+      "title": "Chikungunya pode ser transmitida em grande parte da Europa",
+      "description": "Estudo revela que casos de doen\u00e7a tropical devem aumentar no continente europeu. Mudan\u00e7as ...",
+      "url": "https://www.terra.com.br/noticias/chikungunya-pode-ser-transmitida-em-grande-parte-da-europa,9994cd63b28f87c40d2f1a059c33bf5129m1oolb.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2026-02-18 13:41:55",
+      "content": "Estudo revela que casos de doen\u00e7a tropical devem aumentar no continente europeu. Mudan\u00e7as clim\u00e1ticas possibilitaram as condi\u00e7\u00f5es ideias para infec\u00e7\u00f5es na regi\u00e3o.Os casos de chikungunya est\u00e3o aumentan\u2026 [+4392 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.887957",
+      "internal_id": "9f334277ff5d1d9a871640e35dedbceabf5aab5d0141885b5e97153fb5fd46d2",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27760,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles outbreaks growing now? #health",
+      "description": "Drivers of the recent surge and public health response In multiple countries health authorities have reported clusters of measles cases this year: large outbreaks in parts of London affecting dozens of unvaccinated children, university outbreaks in the United\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-outbreaks-growing-now",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-18 12:10:27",
+      "content": "In multiple countries health authorities have reported clusters of measles cases this year: large outbreaks in parts of London affecting dozens of unvaccinated children, university outbreaks in the U\u2026 [+1601 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.528679",
+      "internal_id": "0373fe1aa0cedf9f71753d82bf2308c9d18d4ca23fc85ecdbb766d18631b6833",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27784,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Pravda.sk",
+      "author": "Gabriela Sabov\u00e1",
+      "title": "Tropick\u00fd v\u00edrus \u00fato\u010d\u00ed na ob\u013e\u00faben\u00fa exotiku Slov\u00e1kov, odborn\u00edci vydali naliehav\u00e9 varovanie",
+      "description": "Ob\u013e\u00faben\u00fa destin\u00e1ciu zasiahol v\u00edrus chikungunya. Tento exotick\u00fd n\u00e1zov v preklade znamen\u00e1 \u201eto, \u010do oh\u00fdba\u201c, \u010do trefne popisuje stav nakazen\u00fdch.",
+      "url": "https://cestovanie.pravda.sk/exotika/clanok/786731-tropicky-virus-utoci-na-oblubenu-exotiku-slovakov-vedci-dvihaju-varovny-prst/",
+      "urlToImage": "http://ipravda.sk/res/2022/11/03/thumbs/nepouz-plaz-anse-source-d-argent-la-digue-seychely-clanokW.jpg",
+      "publishedAt": "2026-02-18 12:00:00",
+      "content": "Seychely, s\u00faostrovie 115 ostrovov v Indickom oce\u00e1ne, ktor\u00e9 s\u00fa pre mnoh\u00fdch stelesnen\u00edm nedotknut\u00e9ho raja, moment\u00e1lne elia neviditen\u00e9mu nepriateovi. Odborn\u00edci na infekn\u00e9 choroby vydali naliehav\u00e9 upozor\u2026 [+2791 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.122723",
+      "internal_id": "8ee0eebb1877b54acb8e9872b3d11bf0e828df3a1a3cb355e2988ecbf7363626",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27778,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Chikungunya breitet sich aus: Tropen-Virus bedroht Europa st\u00e4rker als gedacht",
+      "description": "Hautausschlag, Fieber und starke Gelenkschmerzen, die Jahre andauern k\u00f6nnen: Das Chikungunya-Virus, das diese Folgen haben kann, r\u00fcckt immer n\u00e4her an Deutschland heran. Laut einer neuen Studie verbreitet sich der Tropen-Erreger bei tieferen Temperaturen als g\u2026",
+      "url": "https://www.n-tv.de/wissen/Tropen-Virus-bedroht-Europa-staerker-als-gedacht-id30375308.html",
+      "urlToImage": "https://www.n-tv.de/img/30375620/1771407747/Img_16_9/1200/A-tiger-mosquito-is-crushed-in-the-hand-of-a-man-with-a-bloodstain-after-being-bitten-in-Lyon-in-France-on-August-13-2025-Un-moustique-tigre-est-ecrase-dans-la-main-d-un-homme-avec-une-tache-de-sang-apres-que-ce-dernier-se-soit-fait-piquer-a-Lyon-en-France-le-13-aout-2025.jpg",
+      "publishedAt": "2026-02-18 11:16:59",
+      "content": "Chikungunya breitet sich ausTropen-Virus bedroht Europa st\u00e4rker als gedacht Die Asiatische Tigerm\u00fccke, \u00dcbertr\u00e4gerin des Chikungunya-Virus, ist in Teilen Deutschlands bereits heimisch. (Foto: picture\u2026 [+4768 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.045487",
+      "internal_id": "dbbd2a724e024c8f4447c1368f184cd6031f40a05ab0e3a56be7c0826c3f8366",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27757,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Enugu vaccinates over 2.1m children against measles-rubella -WHO",
+      "description": "WHO reports on the successful Enugu vaccination campaign, reaching over 2.1 million children with measles, rubella, and cervical cancer vaccines. Read More: https://punchng.com/enugu-vaccinates-over-2-1m-children-against-measles-rubella-who/",
+      "url": "https://punchng.com/enugu-vaccinates-over-2-1m-children-against-measles-rubella-who/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2017/06/18202757/World-Health-Organisation-WHO.jpg",
+      "publishedAt": "2026-02-18 11:06:19",
+      "content": "The World Health Organisation has highlighted the successful conclusion of Stream 2 of Enugu States MeaslesRubella Integrated Campaign, which reached more than 2.1 million children with vaccines agai\u2026 [+1526 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.410668",
+      "internal_id": "82a8df59125c04b6f8036713ad313bbab6ea3eea612aa7ec775324adfb32498b",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27770,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "Chikungunya-Virus k\u00f6nnte schon bald ein europ\u00e4isches Problem werden",
+      "description": "Das Virus kann sich auch bei niedrigeren Temperaturen ausbreiten. Eine \u00dcbertragung im Sommer und Fr\u00fchherbst wird k\u00fcnftig auch in weiten Teilen Europas m\u00f6glich sein, warnen Forscher. Asiatische Tigerm\u00fccken sind die Chikungunya-Haupt\u00fcbertr\u00e4ger in Europa.",
+      "url": "https://www.diepresse.com/20604336/chikungunya-virus-koennte-schon-bald-ein-europaeisches-problem-werden",
+      "urlToImage": "https://img.diepresse.com/public/incoming/pi4rfn-imago830612235jpg/alternates/DPR_SOCIAL_NACHRICHTEN/imago830612235.jpg",
+      "publishedAt": "2026-02-18 11:04:34",
+      "content": "Das Virus kann sich auch bei niedrigeren Temperaturen ausbreiten. Eine \u00dcbertragung im Sommer und Fr\u00fchherbst wird k\u00fcnftig auch in weiten Teilen Europas m\u00f6glich sein, warnen Forscher. Asiatische Tigerm\u2026 [+4237 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.900610",
+      "internal_id": "5e0ba6c1865f8f76de367746389ff24e540e26f6fc403fb202e5296eafb3a83b",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27771,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "\u0218tefan Borcea",
+      "title": "Cum contribuie schimb\u0103rile climatice la r\u0103sp\u00e2ndirea unei boli tropicale mortale \u00een cea mai mare parte a Europei",
+      "description": "Un studiu a descoperit c\u0103 o boal\u0103 tropical\u0103 extrem de dureroas\u0103 numit\u0103 chikungunya poate fi transmis\u0103 acum de \u021b\u00e2n\u021bari \u00een cea mai mare parte a Europei.",
+      "url": "https://adevarul.ro/stiri-externe/europa/cun-contribuie-schimbarile-climatice-la-2509162.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-b/bbd2daa9-bc2c-4c1e-84f0-85ab0cdc58cf/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-02-18 09:39:53",
+      "content": "Un studiu a descoperit c o boal tropical extrem de dureroas numit chikungunya poate fi transmis acum de \u00e2nari \u00een cea mai mare parte a Europei. Analiza este prima care evalueaz pe deplin efectul temp\u2026 [+5218 chars]",
+      "retrievedAt": "2026-02-19 19:20:40.913032",
+      "internal_id": "aac2304f85b2a453252665b635bae40df625808154de184c4e2dd2c71a8ba1fc",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27758,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Explosive global measles outbreaks pose risk to Canadian travellers, health officials warn",
+      "description": "The global spread of measles shows no signs of slowing down in 2026, including explosive outbreaks in travel hot spots like the southern U.S. and Mexico, prompting warnings from public health officials for Canadians to check their vaccination status before he\u2026",
+      "url": "https://www.cbc.ca/news/health/measles-global-travel-risks-9.7093765",
+      "urlToImage": "https://i.cbc.ca/ais/d782dc34-5fa5-4127-ba30-278163f6e1c9,1771350476735/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C275%2C5277%2C2968%29%3BResize%3D620",
+      "publishedAt": "2026-02-18 09:00:00",
+      "content": "The global spread of measles shows no signs of slowing down in 2026, including explosive outbreaks in travel hot spots like the southern U.S. and Mexico, prompting warnings from public health officia\u2026 [+6533 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.492319",
+      "internal_id": "00333d2bbc8f381d9a7d03e80bd812bbdda2af179022b93ccc58320b99ca419c",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27785,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Skai.gr",
+      "author": "Newsroom",
+      "title": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b9\u03cc \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1 - \u03a4\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03ad\u03b1 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7",
+      "description": "\u00ab\u03a0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc 20 \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1, \u03b1\u03bd \u03bb\u03ad\u03b3\u03b1\u03c4\u03b5 \u03cc\u03c4\u03b9 \u03b8\u03b1 \u03b5\u03af\u03c7\u03b1\u03bc\u03b5 \u03c4\u03c3\u03b9\u03ba\u03bf\u03c5\u03bd\u03b3\u03ba\u03bf\u03cd\u03bd\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03ac\u03b3\u03ba\u03b5\u03b9\u03bf \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7, \u03cc\u03bb\u03bf\u03b9 \u03b8\u03b1 \u03bc\u03b1\u03c2 \u03b8\u03b5\u03c9\u03c1\u03bf\u03cd\u03c3\u03b1\u03bd \u03c4\u03c1\u03b5\u03bb\u03bf\u03cd\u03c2\u00bb, \u03bb\u03ad\u03b5\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b1\u03c2",
+      "url": "https://www.skai.gr/news/health/synagermos-gia-ton-io-tsikoungkounia-kai-stin-ellada",
+      "urlToImage": "https://cdn.skai.gr/sites/default/files/styles/article_16_9/public/2026-02/ap_kounoupia.jpg?itok=BoPwXL7P",
+      "publishedAt": "2026-02-18 08:33:44",
+      "content": "(chikungunya) , . , 6 , , . , . Guardian, , . 2,5\u00b0C , . \u00ab \u00bb , . 1952 , . , . 10 , 2025 . , (UKCEH) , : \u00ab , . \u00bb. , , : \u00ab 20 , , , . . . . , 30 10 . , 800\u00bb. - (Aedes albopictus), , . , , . \u2026 [+175 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.135790",
+      "internal_id": "46ad6763e4732f7f633055c4cc34fa6e8303efa2cbf05204a35764850df5a4cf",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27752,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Why do animals act crazy when they have rabies?",
+      "description": "Why Animals Go Mad: Understanding Rabies-Induced Behavioral Changes The erratic and aggressive behavior seen in animals with rabies stems from the virus\u2019s devastating impact on the brain; it selectively targets and disrupts key neurological pathways responsib\u2026",
+      "url": "https://www.lifesciencesworld.com/why-do-animals-act-crazy-when-they-have-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-18 08:12:22",
+      "content": "The erratic and aggressive behavior seen in animals with rabies stems from the virus\u2019s devastating impact on the brain; it selectively targets and disrupts key neurological pathways responsible for c\u2026 [+9774 chars]",
+      "retrievedAt": "2026-02-19 19:20:37.997922",
+      "internal_id": "fa12d31b39f9cedb6863c71c0ad9db246d9156a501505ac5a1b4fd828b563062",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27776,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Science.orf.at",
+      "author": "ORF.at",
+      "title": "Chikungunya f\u00fcr Europa problematischer als gedacht",
+      "description": "Weltweit h\u00e4ufen sich die Chikungunya-F\u00e4lle \u2013 auch Europa k\u00f6nnte laut einer neuen Analyse bals st\u00e4rker betroffen sein. Das Virus k\u00f6nne sich bei niedrigeren Temperaturen ausbreiten als bisher bekannt, berichtet ein Forschungsteam. Wahrscheinlich sei im Sommer u\u2026",
+      "url": "https://science.orf.at/stories/3234259/",
+      "urlToImage": "https://ibs.orf.at/science?image=https%3A%2F%2Ftubestatic.orf.at%2Fmojo%2F1_4_1%2Fstoryserver%2Ftube%2Fscience%2Fimages%2Fog-fallback.jpg%3Fs%3D9468ebfda8d575e29237d4fe069891178635d8e1",
+      "publishedAt": "2026-02-18 08:12:16",
+      "content": "In der Vergangenheit war Chikungunya auf tropische Regionen beschr\u00e4nkt, das Virus breitet sich im Zuge der globalen Erw\u00e4rmung jedoch zunehmend aus. In den vergangenen Jahren gab es bereits gr\u00f6\u00dfere Au\u2026 [+3350 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.008912",
+      "internal_id": "84db9375385542fcf1fc9650cd7f5b0d0f137187933592ca099904704162fb6e",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27783,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Tomasz Kilian",
+      "title": "Gro\u017ana tropikalna choroba mo\u017ce by\u0107 powszechna w Europie. \"To tylko kwestia czasu\"",
+      "description": "Zmiany klimatyczne mog\u0105 mie\u0107 powa\u017cne konsekwencje dla mieszka\u0144c\u00f3w Europy nie tylko w zwi\u0105zku z nieprzewidywalno\u015bci\u0105 pogody. Coraz cz\u0119\u015bciej na po\u0142udniu i dalej pojawiaj\u0105 si\u0119 tropikalne gatunki zwierz\u0105t - w\u015br\u00f3d nich komary tygrysie przenosz\u0105ce gro\u017ane choroby, t\u2026",
+      "url": "https://next.gazeta.pl/next/7,172392,32607321,grozna-tropikalna-choroba-moze-byc-powszechna-w-europie-to.html",
+      "urlToImage": "https://bi.im-g.pl/im/86/18/1f/z32607366IER,Chikungunya-test.jpg",
+      "publishedAt": "2026-02-18 08:10:00",
+      "content": "Nowe, szczeg\u00f3\u0142owe badania dotycz\u0105ce rozprzestrzeniania si\u0119 chikungunya na terenie Europy opisa\u0142 \"The Guardian\". Jak informuje dziennik, dzi\u0119ki wy\u017cszym temperaturom komary tygrysie mog\u0105 przenosi\u0107 chor\u2026 [+3948 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.109703",
+      "internal_id": "b56a544cb5e198584f59beabbcc903baf06ca2ea6ea0ee59ad598545f8b8bafc",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27762,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Haaretz",
+      "author": "Haaretz",
+      "title": "Passenger on El Al flight from NYC to Tel Aviv infected with measles, health ministry says",
+      "description": "The ministry said that passengers on the flight who are not vaccinated should contact their regional health bureau to consider receiving a vaccine",
+      "url": "https://www.haaretz.com/us-news/2026-02-18/ty-article/.premium/passenger-on-el-al-flight-from-nyc-to-tel-aviv-infected-with-measles-health-ministry-says/0000019c-6fc4-d631-a3de-7fcca6030000",
+      "urlToImage": "https://img.haarets.co.il/bs/0000019c-6fc4-d631-a3de-7fcca6030000/67/07/11cffee225d44e09ba337fb62beb/1018316866.jpg?&width=1200&height=630&cmsprod",
+      "publishedAt": "2026-02-18 08:04:43",
+      "content": "Israel's Health Ministry said on Tuesday that a passenger infected with measles traveled on El Al flight LY026, which departed New York City on Sunday, Feburary 15, at 9:15 P.M. local time and landed\u2026 [+58 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.778292",
+      "internal_id": "e4319732680c542d7c85bc0cbd76e928c37cc120b4e82c87cc4dc718043ed810",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27777,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Tropikal b\u00f6lgelerde g\u00f6r\u00fclen hastal\u0131k art\u0131k Avrupa\u2019n\u0131n b\u00fcy\u00fck b\u00f6l\u00fcm\u00fcn\u00fc tehdit ediyor",
+      "description": "Chikungunya ad\u0131 verilen son derece ac\u0131 veren tropikal hastal\u0131k, art\u0131k sivrisinekler arac\u0131l\u0131\u011f\u0131yla Avrupa\u2019n\u0131n b\u00fcy\u00fck b\u00f6l\u00fcm\u00fcnde bula\u015fabiliyor. Uzmanlar\u0131n analiz \u00e7al\u0131\u015fmas\u0131na g\u00f6re sebep, Avrupa'da s\u0131cak havan\u0131n uzun s\u00fcrmesi.",
+      "url": "https://anlatilaninotesi.com.tr/20260218/tropikal-bolgelerde-gorulen-hastalik-artik-avrupanin-buyuk-bolumunu-tehdit-ediyor-1103592948.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1103592948.jpg?10697495971771399775",
+      "publishedAt": "2026-02-18 07:29:35",
+      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20260218/tropikal-bolgelerde-gorulen-hastalik-artik-avrupanin-buyuk-bolumunu-tehdit-ediyor-1103592948.html \u2026 [+4577 chars]",
+      "retrievedAt": "2026-02-19 19:20:41.032898",
+      "internal_id": "28348f8c7d3fa6cf0bb9f922d6147bcfc4b26aaf9c206422a1bac140b57d6321",
+      "publishedAtLabel": "Feb 18"
+    },
+    {
+      "id": 27753,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Are bats in the house a risk for rabies?",
+      "description": "Are Bats in the House a Risk for Rabies? Understanding the Real Threat Are bats in the house a risk for rabies? The presence of a bat in your home warrants caution and awareness, as while the risk is low, rabies transmission is possible. Taking the right step\u2026",
+      "url": "https://www.lifesciencesworld.com/are-bats-in-the-house-a-risk-for-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-18 07:27:03",
+      "content": "Are bats in the house a risk for rabies? The presence of a bat in your home warrants caution and awareness, as while the risk is low, rabies transmission is possible. Taking the right steps is crucia\u2026 [+9152 chars]",
+      "retrievedAt": "2026-02-19 19:20:38.021379",
+      "internal_id": "dfc21d4cb61e496382177752eae9fcdfbc431a0e478c814eccdd8c54754d9327",
+      "publishedAtLabel": "Feb 18"
+    },
     {
       "id": 27749,
       "query": [
@@ -20161,97 +20791,6 @@
       "content": "It has been so positive that theyre hopeful he will be able to move out of the ICU into another part of the hospital which is representative of what a great recovery its been and how quickly it has f\u2026 [+1103 chars]",
       "retrievedAt": "2026-01-06 07:12:07.878525",
       "internal_id": "37969dfc79237ef6a028f575061badd5d1a372edfc8bdbc3bb2931975ad9c2a3",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26629,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Delhi: Human rabies to be declared notifiable disease",
-      "description": "Delhi is set to declare Human Rabies a Notifiable Disease. This move aims to improve tracking and treatment of rabies cases. All health facilities must report suspected and confirmed cases. The government is also enhancing vaccination programs for humans and \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126335397,width-1200,height-630,imgsize-56024,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-04 13:23:57",
-      "content": "New Delhi, The Delhi Government is all set to declare Human Rabies as a Notifiable Disease in the national capital under the Epidemic Diseases Act in an effort to strengthen surveillance and ensure t\u2026 [+2822 chars]",
-      "retrievedAt": "2026-01-05 19:08:44.369217",
-      "internal_id": "50a7aa827b13690a1248b848477ed25d39e7a52ce9ad15c7a3fe079c8bbe31cb",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26632,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Guardian Nigeria",
-      "author": "Olayide Soaga",
-      "title": "Limited healthcare access leaves Makoko dependent on alternative medicine for malaria",
-      "description": "Here, in a settlement built on water and largely cut off from formal health services, residents frequently treat malaria-like symptoms",
-      "url": "https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/",
-      "urlToImage": "https://cdn.guardian.ng/wp-content/uploads/2026/01/unnamed-1.jpg",
-      "publishedAt": "2026-01-04 10:50:49",
-      "content": "The lagoon in Makoko, one of Nigerias largest informal settlements, commonly referred to as Nigerias Venice, lay so dark it was almost impossible to see the reflection of the sun. The creeks colour w\u2026 [+21808 chars]",
-      "retrievedAt": "2026-01-05 19:08:46.600358",
-      "internal_id": "02a9372a0b7a4a4ca1db479b6bb76804a25da3622ce42f509e43e0ef0a8804e8",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26631,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Bridget McArthur",
-      "title": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
-      "description": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.",
-      "url": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5d1fd8c3b32c81e3b2aab3dae5f52373?impolicy=wcms_watermark_news&cropH=1350&cropW=2400&xPos=293&yPos=184&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-01-04 08:57:18",
-      "content": "Australian cricket great Damien Martyn has woken up from an induced coma after falling ill with meningitis an infection that causes swelling around the brain. The 54-year-old former Test batsman wa\u2026 [+1953 chars]",
-      "retrievedAt": "2026-01-05 19:08:46.287996",
-      "internal_id": "8815a835d0e6b496834d36f4db9b5cca86c46fbc9b0a731eaacc5c9993017e2f",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26630,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Punch Newspapers",
-      "title": "FG vaccinates millions of Nigerians against measles, yellow fever \u2014 Minister",
-      "description": "The Nigerian government has administered over 25 million measles and 22 million yellow fever vaccine doses, alongside new malaria and HPV vaccine rollouts. Read More: https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minist\u2026",
-      "url": "https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/10/03233354/PROF-ALI-1200x630.jpg",
-      "publishedAt": "2026-01-04 08:05:09",
-      "content": "The Coordinating Minister of Health and Social Welfare, Prof. Muhammad Pate, says the Federal Government has administered over 25 million doses of measles vaccine and 22 million yellow fever vaccinat\u2026 [+4396 chars]",
-      "retrievedAt": "2026-01-05 19:08:44.943013",
-      "internal_id": "460e1e3f20e212d7034aba83c9879f8c586f13923a83638583f720888a2ec02a",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26633,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike",
-      "description": "Water contamination crisis: Following 10 deaths in Indore, Gandhinagar and Bengaluru are now grappling with public health emergencies due to sewage-contaminated drinking water. Gandhinagar faces a typhoid outbreak with 70 active cases, while Bengaluru residen\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126332402,width-1200,height-630,imgsize-1152005,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-04 07:34:24",
-      "content": "After 10 deaths in Indore due to sewage-contaminated drinking water, Gandhinagar and Bengaluru are now facing similar public health emergencies, according to a TOI report. Residents in both cities ar\u2026 [+3447 chars]",
-      "retrievedAt": "2026-01-05 19:08:47.287107",
-      "internal_id": "d8696412e116e23dd0795f9ae766ca67b076a5a7fb39436914efd6170667d984",
       "publishedAtLabel": "Jan 4"
     }
   ]

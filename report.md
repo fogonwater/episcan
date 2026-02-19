@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2026-02-19 07:26
-- **Most recent article:** 2026-02-18 07:00:00
+- **New articles in last harvest:** 35
+- **Last harvest:** 2026-02-19 19:20
+- **Most recent article:** 2026-02-18 18:10:07
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 47 | 63 | 88 | 76 | 107 | 112 | 50 | 543 |
-| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 5 | 122 |
+| measles | 46 | 63 | 88 | 76 | 107 | 112 | 58 | 550 |
+| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 8 | 125 |
 | h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 9 | 92 |
-| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 13 | 76 |
-| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 8 | 73 |
-| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 2 | 70 |
-| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 8 | 49 |
-| meningitis | 11 | 10 | 2 | 7 | 4 | 7 | 2 | 43 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 14 | 77 |
+| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 10 | 73 |
+| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 5 | 72 |
+| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 26 | 67 |
+| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 2 | 42 |
 | zika | 4 | 6 | 3 | 7 | 0 | 3 | 1 | 24 |
 | leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 3 | 21 |
 | hpai | 2 | 3 | 4 | 3 | 1 | 3 | 1 | 17 |
 | yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 0 | 15 |
-| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 2 | 11 |
+| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 2 | 10 |
 | pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
@@ -44,11 +44,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (rabies)
 
+- [Rabid skunk found in Arvada; health officials urge caution during warm winter](https://www.denverpost.com/2026/02/18/rabies-arvada-colorado-jefferson-county/) (The Denver Post)
+
+- [Why do animals act crazy when they have rabies?](https://www.lifesciencesworld.com/why-do-animals-act-crazy-when-they-have-rabies/) (Lifesciencesworld.com)
+
+- [Are bats in the house a risk for rabies?](https://www.lifesciencesworld.com/are-bats-in-the-house-a-risk-for-rabies/) (Lifesciencesworld.com)
+
 - [Watch: Viral video of stray dog attacking woman has everyone talking](https://timesofindia.indiatimes.com/etimes/trending/watch-viral-video-of-stray-dog-attacking-woman-has-everyone-talking/articleshow/128489379.cms) (The Times of India)
 
 - [Why does rabies cause foaming at the mouth?](https://www.lifesciencesworld.com/why-does-rabies-cause-foaming-at-the-mouth/) (Lifesciencesworld.com)
 
 ## 26-8 (mpox)
+
+- [Mpox: entenda infecção com novo caso registrado no Brasil e quais os riscos após carnaval](https://veja.abril.com.br/saude/mpox-entenda-infeccao-com-novo-caso-registrado-no-brasil-e-quais-os-riscos-apos-carnaval/) (Abril.com.br)
 
 - [Bavarian Nordic Receives USD 22.5 Million Contract for its Mpox and Smallpox Vaccine from the Government of Canada](https://www.globenewswire.com/news-release/2026/02/18/3239931/0/en/Bavarian-Nordic-Receives-USD-22-5-Million-Contract-for-its-Mpox-and-Smallpox-Vaccine-from-the-Government-of-Canada.html) (GlobeNewswire)
 
@@ -83,6 +91,22 @@ Source: [News API](https://newsapi.org/)
 - [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (measles)
+
+- [Why are measles outbreaks rising? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising) (Alltoc.com)
+
+- [What does the north London measles outbreak mean? #health](https://alltoc.com/health/what-does-the-north-london-measles-outbreak-mean) (Alltoc.com)
+
+- [Annie Andrews: There Is Only One Way to Stop the Spread of Measles](https://dianeravitch.net/2026/02/18/annie-andrews-there-is-only-one-way-to-stop-the-spread-of-measles/) (Dianeravitch.net)
+
+- [Ichilov Hospital security guard diagnosed with measles](https://www.israelnationalnews.com/flashes/676548) (Israelnationalnews.com)
+
+- [Why are measles outbreaks growing now? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing-now) (Alltoc.com)
+
+- [Enugu vaccinates over 2.1m children against measles-rubella -WHO](https://punchng.com/enugu-vaccinates-over-2-1m-children-against-measles-rubella-who/) (The Punch)
+
+- [Explosive global measles outbreaks pose risk to Canadian travellers, health officials warn](https://www.cbc.ca/news/health/measles-global-travel-risks-9.7093765) (CBC News)
+
+- [Passenger on El Al flight from NYC to Tel Aviv infected with measles, health ministry says](https://www.haaretz.com/us-news/2026-02-18/ty-article/.premium/passenger-on-el-al-flight-from-nyc-to-tel-aviv-infected-with-measles-health-ministry-says/0000019c-6fc4-d631-a3de-7fcca6030000) (Haaretz)
 
 - [What caused the north London measles outbreak? #health](https://alltoc.com/health/what-caused-the-north-london-measles-outbreak) (Alltoc.com)
 
@@ -186,6 +210,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (malaria)
 
+- [Community awareness and health providers’ perspectives on zoonotic Plasmodium knowlesi malaria in Thailand: A mixed-methods assessment](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013891) (Plos.org)
+
+- [Comparative clinical transcriptome of pir genes in severe Plasmodium vivax malaria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013342) (Plos.org)
+
 - [Reduced cyclin D3 expression in erythroid cells protects against malaria](https://www.nature.com/articles/s41586-026-10110-9) (Nature.com)
 
 - [Malaria is hindered by repression of a cell-cycle protein](https://www.nature.com/articles/d41586-026-00289-2) (Nature.com)
@@ -236,6 +264,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (dengue)
 
+- [Anuncian cierre temporal de paso fronterizo Cristo Redentor tras detección de mosquito que transmite el dengue](https://www.latercera.com/nacional/noticia/anuncian-cierre-temporal-de-paso-fronterizo-cristo-redentor-tras-deteccion-de-mosquito-que-transmite-el-dengue/) (Latercera.com)
+
+- [Anuncian cierre temporal del Paso Los Libertadores por hallazgo de mosquito del dengue](https://www.cnnchile.com/pais/paso-los-libertadores-por-hallazgo-de-mosquito-del-dengue_20260218/) (Cnnchile.com)
+
+- [Tecnologia cria proteção contínua contra o Aedes aegypti](https://valor.globo.com/patrocinado/dino/noticia/2026/02/18/tecnologia-cria-protecao-continua-contra-o-aedes-aegypti-1.ghtml) (Globo)
+
 - [NS5-targeting nucleoside analogs inhibit dengue virus and other flaviviruses](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013970) (Plos.org)
 
 - [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
@@ -247,6 +281,42 @@ Source: [News API](https://newsapi.org/)
 - [Using Routine Surveillance Data to Assess Dengue Virus Transmission Risk in Travelers Returning to the United States](https://wwwnc.cdc.gov/eid/article/32/2/25-1217_article) (Cdc.gov)
 
 ## 26-8 (chikungunya)
+
+- [Mücken übertragen Chikungunya-Virus – Studie warnt vor früherer Saison in Europa](https://www.morgenpost.de/ratgeber-wissen/article411253311/muecken-uebertragen-chikungunya-virus-studie-warnt-vor-frueherer-saison-in-europa.html) (Berliner Morgenpost)
+
+- [Portugal na área de maior risco na Europa de transmissão do vírus Chikungunya](https://expresso.pt/sociedade/2026-02-18-portugal-na-area-de-maior-risco-na-europa-de-transmissao-do-virus-chikungunya-d5d647c8) (Expresso.pt)
+
+- [Kiadták a figyelmeztetést: Magyarországra tart a veszélyes vírus](https://www.origo.hu/tudomany/2026/02/chikungunya-laz-magyarorszagi-kockazat-terjedes) (Origo.hu)
+
+- [Portugal na área de maior risco na Europa de transmissão do vírus Chikungunya](https://greensavers.sapo.pt/portugal-na-area-de-maior-risco-na-europa-de-transmissao-do-virus-chikungunya/) (Sapo.pt)
+
+- [Wyniszczająca choroba tropikalna może już przenosić się po całej Europie](https://geekweek.interia.pl/medycyna/news-wyniszczajaca-choroba-tropikalna-moze-juz-przenosic-sie-po-c,nId,22602222) (Interia.pl)
+
+- [Chikungunya pode ser transmitida em grande parte da Europa, diz estudo](https://www.dw.com/pt-br/chikungunya-pode-ser-transmitida-em-grande-parte-da-europa/a-76020771) (DW (English))
+
+- [Le chikungunya peut désormais se propager dans la plupart des pays européens](https://www.courrierinternational.com/article/sante-le-chikungunya-peut-desormais-se-propager-dans-la-plupart-des-pays-europeens_240755) (Courrier International)
+
+- [Tehlikeli virüs hızla yayılıyor: Vaka sayıları fırladı](https://www.yenicaggazetesi.com/tehlikeli-virus-hizla-yayiliyor-vaka-sayilari-firladi-1002311h.htm) (Yenicaggazetesi.com)
+
+- [Aquecimento global eleva risco de surtos de vírus chikungunya na Europa, diz estudo](https://www.infomoney.com.br/mundo/aquecimento-global-eleva-risco-de-surtos-de-virus-chikungunya-na-europa-diz-estudo/) (InfoMoney)
+
+- [Chikungunya pode ser transmitida em grande parte da Europa](https://www.terra.com.br/noticias/chikungunya-pode-ser-transmitida-em-grande-parte-da-europa,9994cd63b28f87c40d2f1a059c33bf5129m1oolb.html) (Terra.com.br)
+
+- [Tropický vírus útočí na obľúbenú exotiku Slovákov, odborníci vydali naliehavé varovanie](https://cestovanie.pravda.sk/exotika/clanok/786731-tropicky-virus-utoci-na-oblubenu-exotiku-slovakov-vedci-dvihaju-varovny-prst/) (Pravda.sk)
+
+- [Chikungunya breitet sich aus: Tropen-Virus bedroht Europa stärker als gedacht](https://www.n-tv.de/wissen/Tropen-Virus-bedroht-Europa-staerker-als-gedacht-id30375308.html) (N-tv.de)
+
+- [Chikungunya-Virus könnte schon bald ein europäisches Problem werden](https://www.diepresse.com/20604336/chikungunya-virus-koennte-schon-bald-ein-europaeisches-problem-werden) (Diepresse.com)
+
+- [Cum contribuie schimbările climatice la răspândirea unei boli tropicale mortale în cea mai mare parte a Europei](https://adevarul.ro/stiri-externe/europa/cun-contribuie-schimbarile-climatice-la-2509162.html) (Adevarul.ro)
+
+- [Συναγερμός και στην Ελλάδα για τον ιό τσικουνγκούνια - Τι προβλέπει νέα μελέτη](https://www.skai.gr/news/health/synagermos-gia-ton-io-tsikoungkounia-kai-stin-ellada) (Skai.gr)
+
+- [Chikungunya für Europa problematischer als gedacht](https://science.orf.at/stories/3234259/) (Science.orf.at)
+
+- [Groźna tropikalna choroba może być powszechna w Europie. "To tylko kwestia czasu"](https://next.gazeta.pl/next/7,172392,32607321,grozna-tropikalna-choroba-moze-byc-powszechna-w-europie-to.html) (Gazeta.pl)
+
+- [Tropikal bölgelerde görülen hastalık artık Avrupa’nın büyük bölümünü tehdit ediyor](https://anlatilaninotesi.com.tr/20260218/tropikal-bolgelerde-gorulen-hastalik-artik-avrupanin-buyuk-bolumunu-tehdit-ediyor-1103592948.html) (Anlatilaninotesi.com.tr)
 
 - [Tropikal hastalık Avrupa'da salgına dönüşebilir](https://www.haber7.com/dunya/haber/3605237-tropikal-hastalik-avrupada-salgina-donusebilir) (Haber7.com)
 
@@ -2264,8 +2334,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
-- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
-
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2283,8 +2351,6 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
-
-- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2337,8 +2403,6 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
-
-- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2434,8 +2498,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
-
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2459,10 +2521,6 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
-
-- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
-
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 
