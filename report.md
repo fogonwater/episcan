@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 35
-- **Last harvest:** 2026-02-19 19:20
-- **Most recent article:** 2026-02-18 18:10:07
+- **New articles in last harvest:** 18
+- **Last harvest:** 2026-02-20 07:25
+- **Most recent article:** 2026-02-19 06:41:18
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 46 | 63 | 88 | 76 | 107 | 112 | 58 | 550 |
-| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 8 | 125 |
-| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 9 | 92 |
-| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 14 | 77 |
-| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 10 | 73 |
-| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 5 | 72 |
-| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 26 | 67 |
-| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 2 | 42 |
+| measles | 47 | 63 | 88 | 76 | 107 | 112 | 62 | 555 |
+| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 11 | 128 |
+| h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 10 | 93 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 15 | 78 |
+| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 8 | 76 |
+| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 10 | 75 |
+| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 32 | 73 |
+| meningitis | 11 | 10 | 2 | 7 | 4 | 7 | 2 | 43 |
 | zika | 4 | 6 | 3 | 7 | 0 | 3 | 1 | 24 |
-| leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 3 | 21 |
+| leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 4 | 22 |
 | hpai | 2 | 3 | 4 | 3 | 1 | 3 | 1 | 17 |
 | yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 0 | 15 |
-| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 2 | 10 |
+| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 2 | 11 |
 | pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
@@ -44,6 +44,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (rabies)
 
+- [Why can’t rabies be cured?](https://www.lifesciencesworld.com/why-cant-rabies-be-cured/) (Lifesciencesworld.com)
+
+- [What are the odds of a bat having rabies?](https://www.lifesciencesworld.com/what-are-the-odds-of-a-bat-having-rabies/) (Lifesciencesworld.com)
+
+- [Stream It Or Skip It: ‘Primate’ on VOD, a Bare-Bananas Basic Chimp-Attack Horror Flick](https://decider.com/2026/02/18/primate-movie-stream-it-or-skip-it/) (Decider)
+
 - [Rabid skunk found in Arvada; health officials urge caution during warm winter](https://www.denverpost.com/2026/02/18/rabies-arvada-colorado-jefferson-county/) (The Denver Post)
 
 - [Why do animals act crazy when they have rabies?](https://www.lifesciencesworld.com/why-do-animals-act-crazy-when-they-have-rabies/) (Lifesciencesworld.com)
@@ -55,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 - [Why does rabies cause foaming at the mouth?](https://www.lifesciencesworld.com/why-does-rabies-cause-foaming-at-the-mouth/) (Lifesciencesworld.com)
 
 ## 26-8 (mpox)
+
+- [พบ 2 อสม.คุก ใกล้ชิด มีเชื้อ "ฝีดาษลิง" ทั้งคู่ ราชทัณฑ์สั่งคุมเข้ม จัดวัคซีนฉีดป้องกัน](https://www.thairath.co.th/news/local/2915093) (Thairath.co.th)
 
 - [Mpox: entenda infecção com novo caso registrado no Brasil e quais os riscos após carnaval](https://veja.abril.com.br/saude/mpox-entenda-infeccao-com-novo-caso-registrado-no-brasil-e-quais-os-riscos-apos-carnaval/) (Abril.com.br)
 
@@ -92,6 +100,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (measles)
 
+- [Why are measles outbreaks rising now? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising-now) (Alltoc.com)
+
+- [Health officials confirm second measles case in Metro East](https://www.stlpr.org/health-science-environment/2026-02-18/illinois-health-officials-confirm-second-measles-case-in-metro-east-release-exposure-locations) (Stlpr.org)
+
+- [Manitobans may have been exposed to measles at Neepawa medical clinic, public health officials warn](https://www.cbc.ca/news/canada/manitoba/neepawa-measles-exposure-9.7096528) (CBC News)
+
 - [Why are measles outbreaks rising? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising) (Alltoc.com)
 
 - [What does the north London measles outbreak mean? #health](https://alltoc.com/health/what-does-the-north-london-measles-outbreak-mean) (Alltoc.com)
@@ -99,6 +113,8 @@ Source: [News API](https://newsapi.org/)
 - [Annie Andrews: There Is Only One Way to Stop the Spread of Measles](https://dianeravitch.net/2026/02/18/annie-andrews-there-is-only-one-way-to-stop-the-spread-of-measles/) (Dianeravitch.net)
 
 - [Ichilov Hospital security guard diagnosed with measles](https://www.israelnationalnews.com/flashes/676548) (Israelnationalnews.com)
+
+- [BREAKING STUDY: MMR and MMRV Vaccines Linked to 2,657% More U.S. Deaths Than Measles Infection Since 1995](https://www.globalresearch.ca/mmr-mmrv-vaccines-more-us-deaths-measles-infection/5916326) (Globalresearch.ca)
 
 - [Why are measles outbreaks growing now? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing-now) (Alltoc.com)
 
@@ -232,6 +248,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (leptospirosis)
 
+- [Is possum pee toxic to dogs?](https://www.lifesciencesworld.com/is-possum-pee-toxic-to-dogs/) (Lifesciencesworld.com)
+
 - [Bacolod records first suspected leptospirosis death in 2026](https://rpnradio.com/bacolod-records-first-suspected-leptospirosis-death-in-2026/) (Rpnradio.com)
 
 - [What to do with possum poo?](https://www.lifesciencesworld.com/what-to-do-with-possum-poo/) (Lifesciencesworld.com)
@@ -243,6 +261,8 @@ Source: [News API](https://newsapi.org/)
 - [Seek Labs Awarded $2 Million Federal Grant for a Novel CRISPR-Based, Mutation-Resistant Therapeutic to Combat Avian Flu in Partnership with Canadian Food Inspection Agency](https://financialpost.com/pmn/business-wire-news-releases-pmn/seek-labs-awarded-2-million-federal-grant-for-a-novel-crispr-based-mutation-resistant-therapeutic-to-combat-avian-flu-in-partnership-with-canadian-food-inspection-agency) (Financial Post)
 
 ## 26-8 (h5n1)
+
+- [How did bird flu reach Antarctica? #science](https://alltoc.com/science/how-did-bird-flu-reach-antarctica) (Alltoc.com)
 
 - [Polarforscher besorgt: Vogelgrippe in der Antarktis könnte innerhalb kurzer Zeit alle Tiere töten](https://www.n-tv.de/panorama/Vogelgrippe-in-der-Antarktis-koennte-innerhalb-kurzer-Zeit-alle-Tiere-toeten-id30375036.html) (N-tv.de)
 
@@ -264,6 +284,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (dengue)
 
+- [El virus del chikungunya se transmite ya en media Europa: en España e Italia el riesgo dura más de seis meses](https://www.elespanol.com/ciencia/salud/20260219/virus-chikungunya-transmite-media-europa-espana-italia-riesgo-dura-meses/1003744136156_0.html) (Elespanol.com)
+
+- [Correction: Mathematical modeling and dynamic analysis of dengue fever: examining economic and psychological impacts and forecasting disease trends through 2030—a case study of Nepal](https://www.nature.com/articles/s41598-026-40264-5) (Nature.com)
+
+- [Complejo Los Libertadores cerrará temporalmente por fumigación tras hallazgo de mosquito sospechoso de ser transmisor del dengue y fiebre amarilla](https://www.df.cl/economia-y-politica/actualidad/complejo-los-libertadores-cerrara-temporalmente-por-fumigacion-tras) (Www.df.cl)
+
 - [Anuncian cierre temporal de paso fronterizo Cristo Redentor tras detección de mosquito que transmite el dengue](https://www.latercera.com/nacional/noticia/anuncian-cierre-temporal-de-paso-fronterizo-cristo-redentor-tras-deteccion-de-mosquito-que-transmite-el-dengue/) (Latercera.com)
 
 - [Anuncian cierre temporal del Paso Los Libertadores por hallazgo de mosquito del dengue](https://www.cnnchile.com/pais/paso-los-libertadores-por-hallazgo-de-mosquito-del-dengue_20260218/) (Cnnchile.com)
@@ -281,6 +307,18 @@ Source: [News API](https://newsapi.org/)
 - [Using Routine Surveillance Data to Assess Dengue Virus Transmission Risk in Travelers Returning to the United States](https://wwwnc.cdc.gov/eid/article/32/2/25-1217_article) (Cdc.gov)
 
 ## 26-8 (chikungunya)
+
+- [Tijgermug kan ons ook bij lagere temperaturen in de zomer besmetten met tropisch virus chikungunya](https://www.vrt.be/vrtnws/nl/2026/02/19/chikungunya-virus-meer-risico/) (Www.vrt.be)
+
+- [Magyarországon is megjelenhet a gyerekekre és idősekre halálos veszélyt jelentő kór](https://index.hu/kulfold/2026/02/19/chikungunyalaz-szunyog-klimavaltozas-azsiai-tigrisszunyog-europa-betegseg/) (Index.hu)
+
+- [O boală tropicală mortală se răspândește în Europa. Și România riscă să fie afectată: „E doar o chestiune de timp”](https://www.digi24.ro/stiri/externe/o-boala-tropicala-mortala-se-raspandeste-in-europa-si-romania-risca-sa-fie-afectata-e-doar-o-chestiune-de-timp-3637209) (Digi24.ro)
+
+- [El virus del chikungunya se transmite ya en media Europa: en España e Italia el riesgo dura más de seis meses](https://www.elespanol.com/ciencia/salud/20260219/virus-chikungunya-transmite-media-europa-espana-italia-riesgo-dura-meses/1003744136156_0.html) (Elespanol.com)
+
+- [Portugal com maior risco de transmissão do vírus Chikungunya](https://observador.pt/2026/02/19/portugal-na-area-de-maior-risco-na-europa-de-transmissao-do-virus-chikungunya/) (Observador.pt)
+
+- [Pelätty trooppinen tauti leviää kohti Suomea – Tutkijat: ”Vain ajan kysymys”](https://www.iltalehti.fi/ulkomaat/a/e76c1a31-77a6-46f8-8272-62843aba87d5) (Iltalehti.fi)
 
 - [Mücken übertragen Chikungunya-Virus – Studie warnt vor früherer Saison in Europa](https://www.morgenpost.de/ratgeber-wissen/article411253311/muecken-uebertragen-chikungunya-virus-studie-warnt-vor-frueherer-saison-in-europa.html) (Berliner Morgenpost)
 
@@ -2334,6 +2372,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
+- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
+
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2351,6 +2391,8 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
+
+- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2403,6 +2445,8 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
+
+- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2498,6 +2542,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
+- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
+
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2521,6 +2567,10 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
+
+- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
+
+- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 
