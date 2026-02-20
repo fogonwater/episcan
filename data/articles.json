@@ -1,8 +1,314 @@
 {
-  "last_updated": "2026-02-20 07:25",
-  "count_articles_total": 1176,
-  "count_articles_new": 18,
+  "last_updated": "2026-02-20 19:19",
+  "count_articles_total": 1188,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 27821,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Brasil tem 47 casos de Mpox confirmados em 2026; veja n\u00fameros por estado",
+      "description": "S\u00e3o Paulo e Rio concentram a maior parte das ocorr\u00eancias at\u00e9 o momento",
+      "url": "https://valor.globo.com/brasil/noticia/2026/02/19/brasil-tem-47-casos-de-mpox-confirmados-em-2026-veja-numeros-por-estado.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/8VK7llIDIDUUupioAfhqq83z0Rc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/E/b/i58wJtQbKvjLBfnJ5j3w/monkeypox-colorized.png",
+      "publishedAt": "2026-02-19 18:56:42",
+      "content": "O Brasil tem 47 casos registrados de Mpox at\u00e9 o momento, informou o Minist\u00e9rio da Sa\u00fade ao Valor nesta quinta-feira (19). A predomin\u00e2ncia \u00e9 de quadros leves ou moderados e sem registro de \u00f3bitos. A p\u2026 [+2241 chars]",
+      "retrievedAt": "2026-02-20 19:19:09.981212",
+      "internal_id": "ddf8be347749653cf88d30812229efbe4b7996cf3adfb470ef41f4a3235faa16",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27813,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Health Ministry: Measles patient traveled on bus from Beitar Illit to Emmanuel",
+      "description": "The Health Ministry updated that a measles patient traveled on public transportation on February 14 at 9:30 p.m., on line 391 from Beitar Illit to Emmanuel.Due to the highly contagious nature of the disease, the ministry urges passengers who were on the line \u2026",
+      "url": "https://www.israelnationalnews.com/flashes/676651",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-02-19 18:42:00",
+      "content": "The Health Ministry updated that a measles patient traveled on public transportation on February 14 at 9:30 p.m., on line 391 from Beitar Illit to Emmanuel. Due to the highly contagious nature of th\u2026 [+169 chars]",
+      "retrievedAt": "2026-02-20 19:19:07.533211",
+      "internal_id": "1013ff67932acec2d2ec6aa7a79ecddc05c1d8a5fc1a247a840da16670511517",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27809,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What's driving measles outbreaks in London? #health",
+      "description": "Why infections are rising and what public health officials are doing Officials in parts of the capital have reported a rapid increase in confirmed cases, mostly among young children. Health authorities say the surge is concentrated in communities with low chi\u2026",
+      "url": "https://alltoc.com/health/what-s-driving-measles-outbreaks-in-london",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-19 18:11:05",
+      "content": "Officials in parts of the capital have reported a rapid increase in confirmed cases, mostly among young children. Health authorities say the surge is concentrated in communities with low childhood im\u2026 [+1472 chars]",
+      "retrievedAt": "2026-02-20 19:19:07.387723",
+      "internal_id": "082ea55b3916413f1957827c09c35558bf16e0702ef94b25b3d52b99af4eb4fc",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27815,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Tecnologia amplia controle da dengue no Brasil",
+      "description": "Solu\u00e7\u00e3o desenvolvida no pa\u00eds passa a integrar a rotina operacional de munic\u00edpios no monitoramento e no planejamento de a\u00e7\u00f5es de combate ao mosquito.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/02/19/tecnologia-amplia-controle-da-dengue-no-brasil-1.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/KlVnL6tCDGOkDtiYJnUppT-zhK8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2026/W/s/BXBJFURy25TbCETZXz9w/publicador-api-valor-dino-100-ce4bacac-c25c-4e98-8eed-2f440a256e0c.png",
+      "publishedAt": "2026-02-19 17:27:01",
+      "content": "O combate \u00e0 dengue \u00e9 um dos desafios mais persistentes da sa\u00fade p\u00fablica brasileira. Todos os anos, sazonalmente, munic\u00edpios lidam com ciclos de aumento de casos, sobrecarga dos servi\u00e7os de sa\u00fade, lim\u2026 [+3395 chars]",
+      "retrievedAt": "2026-02-20 19:19:08.292274",
+      "internal_id": "e5302fb755430c5938630d7066cf6e9479d5d4fa25784339b6e66087a36f7796",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27808,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Measles cases continue to rise in England - and this is where outbreak could spread next",
+      "description": "UK Health Security Agency figures show that between 1 January and 16 February, there were 130 confirmed measles cases, many of them in Enfield, but the real figure could be much higher.",
+      "url": "https://news.sky.com/story/measles-cases-continue-to-rise-in-england-and-this-is-where-outbreak-could-spread-next-13509662",
+      "urlToImage": "https://e3.365dm.com/26/02/1600x900/skynews-measles-spots-rash_7165384.jpg?20260215024234",
+      "publishedAt": "2026-02-19 17:02:00",
+      "content": "Measles cases are continuing to spread across England, with most infections among unvaccinated young children. By Monday, there had been 130 confirmed cases across the country this year, according t\u2026 [+2048 chars]",
+      "retrievedAt": "2026-02-20 19:19:07.342314",
+      "internal_id": "52a9a95fbf3c10719d818030e973419f5289928a8ebdf0546ac769867efe21de",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27814,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Camilla Foster",
+      "title": "What is measles? The six subtle symptoms to look out for in children",
+      "description": "The early symptoms of measles can appear similar to other illnesses \u2013 here\u2019s what to look out for",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-symptoms-outbreak-vaccine-london-b2923774.html",
+      "urlToImage": "https://static.the-independent.com/2026/02/16/13/16112026-027396cf-c140-47a4-a23d-0660b7653818.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-02-19 16:18:27",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+5628 chars]",
+      "retrievedAt": "2026-02-20 19:19:07.551782",
+      "internal_id": "f14c0da9b8a0e803bd16ac6041301b230dd547bed658d7feb87b5a5bbbf5a6e9",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27806,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "Lincoln County confirms 1st rabies case of 2026",
+      "description": "Lincoln County Animal Services confirmed the county\u2019s first rabies case of 2026 after a raccoon tested positive for the virus on Wednesday.",
+      "url": "https://www.wsoctv.com/news/local/lincoln-county-confirms-1st-rabies-case-2026-raccoon/L2VL76IOSNGJPBANCPK3URGBVI/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FLFSRZRLAHZCHNB3LZL2QOBBVC4.jpg?auth=6fa43fbba8c12373a147877b4d8249c1ee8c747ee98799bd383cfee9cee8d4df&width=1200&height=630&smart=true",
+      "publishedAt": "2026-02-19 15:43:41",
+      "content": "LINCOLN COUNTY, N.C. \u2014 Lincoln County Animal Services confirmed the countys first rabies case of 2026 after a raccoon tested positive for the virus on Wednesday. The incident involved a family dog th\u2026 [+2304 chars]",
+      "retrievedAt": "2026-02-20 19:19:07.006667",
+      "internal_id": "71b568dc0ca46ea6ea5df8d335d9eaeefe4aa04c753de652d880488d71ee80eb",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27805,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Zulma E. Rojas-Sereno, Daniel G. Streicker, Ver\u00f3nica Yung, Alice Broos, Haris Malik, Laura Bergner, Michelle Lineros, Julio A. Benavides",
+      "title": "Rabies, host population structure, and cross-species transmission to the migratory bat Tadarida brasiliensis in Chile",
+      "description": "Author summary In this study, we explored how the long-distance movement of the Brazilian free-tailed bats can influence the spread of its rabies virus in Chile. This bat is known for traveling hundreds of kilometers, and we aimed to understand whether these \u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013964",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013964.g003&size=inline",
+      "publishedAt": "2026-02-19 14:00:00",
+      "content": "Citation: Rojas-Sereno ZE, Streicker DG, Yung V, Broos A, Malik H, Bergner L, et al. (2026) Rabies, host population structure, and cross-species transmission to the migratory bat Tadarida brasiliensi\u2026 [+47840 chars]",
+      "retrievedAt": "2026-02-20 19:19:06.976428",
+      "internal_id": "7ba7d071f237339f558c0fd73532fbf5b6c9486380dd512df989b4c77072b7c0",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27807,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Globalresearch.ca",
+      "author": "Nicolas Hulscher",
+      "title": "Major MMR Death Signal Exposed, COVID Shot Excess Deaths Confirmed \u2014 And the Bill That Could End 40 Years of Vaccine Immunity",
+      "description": "Last night on Brannon Howse Live, we broke three breaking developments that strike at the heart of the modern vaccine and regulatory regime: A 2,657% higher death count linked to MMR/MMRV vaccination vs. measles infection since 1995 A natura\u2026",
+      "url": "https://www.globalresearch.ca/major-mmr-death-signal-exposed-covid-shot-excess-deaths-confirmed-bill-end-40-years-vaccine-immunity/5916432",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2025/08/child-covid-vaccine-death-surge-south-korea.jpg",
+      "publishedAt": "2026-02-19 12:35:40",
+      "content": "Last night on Brannon Howse Live, we broke three breaking developments that strike at the heart of the modern vaccine and regulatory regime: A 2,657% higher death count linked to MMR/MMRV va\u2026 [+4638 chars]",
+      "retrievedAt": "2026-02-20 19:19:07.279916",
+      "internal_id": "b873742e85a0bb795dd85d149a1a64ec3aee635b64a665ced60d93911b40d710",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27820,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Vict\u00f3ria Ribeiro",
+      "title": "Mpox: OMS confirma circula\u00e7\u00e3o de nova variante do v\u00edrus",
+      "description": "Nova cepa combina clados 1b e 2b; entidade diz que ainda \u00e9 cedo para avaliar impacto",
+      "url": "https://veja.abril.com.br/saude/mpox-oms-confirma-circulacao-de-nova-variante-do-virus/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/03/mpox-o-que-e-sintomas-diagnostico-e-tratamentos-eficazes.webp?resize=1080,565&crop=1",
+      "publishedAt": "2026-02-19 12:27:12",
+      "content": "Pular para o conte\u00fado Oferta Rel\u00e2mpago: VEJA por apenas 9,90Mpox: les\u00f5es na pele est\u00e3o entre os principais sintomas do v\u00edrus (Reprodu\u00e7\u00e3o / Internet/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade A Organiza\u2026 [+2557 chars]",
+      "retrievedAt": "2026-02-20 19:19:09.857435",
+      "internal_id": "59af9a1b3fb331720027114cf39df678cd4ddf1cee30b454dabd19ba37825156",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27812,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What is driving the north London measles outbreak? #health",
+      "description": "How the outbreak began and who is affected Health officials in north\u2011east London have reported a fast\u2011spreading measles outbreak that has infected dozens of children, with cases identified across multiple schools and at least one nursery. Most of the people w\u2026",
+      "url": "https://alltoc.com/health/what-is-driving-the-north-london-measles-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-19 12:11:23",
+      "content": "How the outbreak began and who is affected Health officials in northeast London have reported a fastspreading measles outbreak that has infected dozens of children, with cases identified across mult\u2026 [+1580 chars]",
+      "retrievedAt": "2026-02-20 19:19:07.504725",
+      "internal_id": "cc20b478a6ff7e5ac1da9609b2fca2585fdb9696689ea0cb050a53c108f5053c",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27817,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Techno-science.net",
+      "author": "Adrien BERNARD",
+      "title": "Enfin un vaccin efficace et sans risque contre le chikungunya ?",
+      "description": "Une fi\u00e8vre, puis des douleurs articulaires pendant des ann\u00e9es: voici ce qui constitue la r\u00e9alit\u00e9 pour de nombreuses personnes touch\u00e9es par le chikungunya, une maladie transmise par les...",
+      "url": "https://www.techno-science.net/actualite/enfin-vaccin-efficace-sans-risque-contre-chikungunya-N28303.html",
+      "urlToImage": "https://static.techno-science.net/illustration/Source/The-Conversation/2023/08/03/file-20220821-16-sl08bo.jpg",
+      "publishedAt": "2026-02-19 12:00:02",
+      "content": "Une fi\u00e8vre, puis des douleurs articulaires pendant des ann\u00e9es: voici ce qui constitue la r\u00e9alit\u00e9 pour de nombreuses personnes touch\u00e9es par le chikungunya, une maladie transmise par les moustiques. Al\u2026 [+2924 chars]",
+      "retrievedAt": "2026-02-20 19:19:09.276805",
+      "internal_id": "431f62b2fb5998b1bf22d8a601423794b4cd922dc3d0f535c4bd847f37228e3a",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27810,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "by Elizabeth Bruenig, The Atlantic",
+      "title": "Ideas: This Is How a Child Dies of Measles",
+      "description": "When your family becomes a data point in an outbreak",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/gesundheit/this-is-how-a-child-dies-of-measles-e673105/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-19 10:38:00",
+      "content": "The birthday-party invitation said \u201csiblings welcome,\u201d which means you can bring your 11-month-old son while your husband is out of town. You arrive a little disheveled and a little late. Your 5-year\u2026 [+335 chars]",
+      "retrievedAt": "2026-02-20 19:19:07.458103",
+      "internal_id": "ca25a8485e0357785313652a4149c537daef19f6ce5cf3964903105d9637a158",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27819,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Diogo Sponchiato",
+      "title": "Mpox: por que ela voltou?",
+      "description": "V\u00edrus n\u00e3o desaparecem quando saem do notici\u00e1rio. Especialista explica a dimens\u00e3o do problema",
+      "url": "https://veja.abril.com.br/coluna/letra-de-medico/mpox-por-que-ela-voltou/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2022/05/shutterstock_2159695701.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-02-19 09:30:06",
+      "content": "Pular para o conte\u00fado Oferta Rel\u00e2mpago: VEJA por apenas 9,90 V\u00edrus n\u00e3o desaparecem quando saem do notici\u00e1rio. Especialista explica a dimens\u00e3o do problema Por Alberto Chebabo* 19 fev 2026, 06h30\u2026 [+6748 chars]",
+      "retrievedAt": "2026-02-20 19:19:09.846422",
+      "internal_id": "18762d6b0dbd008f4bba15c4da9e59a1b605c6fbed93b97019e43d4092efd508",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27811,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is measles surging in north London? #health",
+      "description": "What public health officials are reporting Health authorities in north east London are describing a sharp rise in measles cases concentrated among unvaccinated children. Local clinics and hospitals have reported more than 60 infections across several schools \u2026",
+      "url": "https://alltoc.com/health/why-is-measles-surging-in-north-london",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-19 09:10:53",
+      "content": "Health authorities in north-east London are describing a sharp rise in measles cases concentrated among unvaccinated children. Local clinics and hospitals have reported more than 60 infections across\u2026 [+1650 chars]",
+      "retrievedAt": "2026-02-20 19:19:07.468275",
+      "internal_id": "5905cb43638b329595f3fcb087d7a1b8d8c0d83b9fb5ba54d29622e2def4b195",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27818,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How can travelers avoid chikungunya infection? #travel",
+      "description": "Simple steps to reduce the risk of mosquito borne illness on outbreak trips Health authorities have issued travel advisories after outbreaks of chikungunya in specific locations, naming places where U.S. travelers are being urged to take extra precautions. Th\u2026",
+      "url": "https://alltoc.com/travel/how-can-travelers-avoid-chikungunya-infection",
+      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
+      "publishedAt": "2026-02-19 09:08:32",
+      "content": "Simple steps to reduce the risk of mosquito-borne illness on outbreak trips Health authorities have issued travel advisories after outbreaks of chikungunya in specific locations, naming places where\u2026 [+1398 chars]",
+      "retrievedAt": "2026-02-20 19:19:09.401642",
+      "internal_id": "b0517f9a55bc39ca791787d954e4edb0e4d009334a9a5a89c5f0f90791176049",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27816,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u682a\u5f0f\u4f1a\u793e\u30b0\u30eb\u30fc\u30f4\u306b\u8c4a\u4e2d\u5e02\u304c\u611f\u8b1d\u72b6\u3092\u8d08\u5448 \u8c4a\u4e2d\u3064\u3070\u3055\u516c\u5712\u300ema-zika\u300f\u6574\u5099\u306b\u8ca2\u732e",
+      "description": "[\u8c4a\u4e2d\u5e02] \u8c4a\u4e2d\u5e02\u3067\u306f\u3001\u307e\u3061\u306e\u5c06\u6765\u50cf\u300c\u307f\u3089\u3044\u5275\u9020\u90fd\u5e02 \u3068\u3088\u306a\u304b\uff5e\u660e\u65e5\u304c\u3082\u3063\u3068\u697d\u3057\u307f\u306a\u307e\u3061\uff5e\u300d\u306e\u5b9f\u73fe\u306b\u5411\u3051\u3001\u4f01\u696d\u7248\u3075\u308b\u3055\u3068\u7d0d\u7a0e\u306a\u3069\u3001\u3055\u307e\u3056\u307e\u306a\u304b\u305f\u3061\u3067\u5e02\u306e\u53d6\u308a\u7d44\u307f\u3092\u5fdc\u63f4\u3044\u305f\u3060\u3051\u308b\u4f01\u696d\u3068\u306e\u5354\u50cd\u3092\u9032\u3081\u3066\u3044\u307e\u3059\u3002 \u3053\u306e...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000958.000078420.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/78420/958/78420-958-4b24bc8dcebe4dd039a3b97a2d028e69-2048x1536.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-02-19 08:40:26",
+      "content": "Copyright \u00a9 PR TIMES Corporation All Rights Reserved.",
+      "retrievedAt": "2026-02-20 19:19:08.903463",
+      "internal_id": "9c87bc4754e6ad74615af2d17217bc4bef3ad1c1b9933ba003d48c59e016a652",
+      "publishedAtLabel": "Feb 19"
+    },
     {
       "id": 27801,
       "query": [
@@ -21116,97 +21422,6 @@
       "content": "It has been so positive that theyre hopeful he will be able to move out of the ICU into another part of the hospital which is representative of what a great recovery its been and how quickly it has f\u2026 [+1103 chars]",
       "retrievedAt": "2026-01-06 07:12:07.878525",
       "internal_id": "37969dfc79237ef6a028f575061badd5d1a372edfc8bdbc3bb2931975ad9c2a3",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26629,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "PTI",
-      "title": "Delhi: Human rabies to be declared notifiable disease",
-      "description": "Delhi is set to declare Human Rabies a Notifiable Disease. This move aims to improve tracking and treatment of rabies cases. All health facilities must report suspected and confirmed cases. The government is also enhancing vaccination programs for humans and \u2026",
-      "url": "https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126335397,width-1200,height-630,imgsize-56024,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-04 13:23:57",
-      "content": "New Delhi, The Delhi Government is all set to declare Human Rabies as a Notifiable Disease in the national capital under the Epidemic Diseases Act in an effort to strengthen surveillance and ensure t\u2026 [+2822 chars]",
-      "retrievedAt": "2026-01-05 19:08:44.369217",
-      "internal_id": "50a7aa827b13690a1248b848477ed25d39e7a52ce9ad15c7a3fe079c8bbe31cb",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26632,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Guardian Nigeria",
-      "author": "Olayide Soaga",
-      "title": "Limited healthcare access leaves Makoko dependent on alternative medicine for malaria",
-      "description": "Here, in a settlement built on water and largely cut off from formal health services, residents frequently treat malaria-like symptoms",
-      "url": "https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/",
-      "urlToImage": "https://cdn.guardian.ng/wp-content/uploads/2026/01/unnamed-1.jpg",
-      "publishedAt": "2026-01-04 10:50:49",
-      "content": "The lagoon in Makoko, one of Nigerias largest informal settlements, commonly referred to as Nigerias Venice, lay so dark it was almost impossible to see the reflection of the sun. The creeks colour w\u2026 [+21808 chars]",
-      "retrievedAt": "2026-01-05 19:08:46.600358",
-      "internal_id": "02a9372a0b7a4a4ca1db479b6bb76804a25da3622ce42f509e43e0ef0a8804e8",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26631,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "abc-news-au",
-      "source_name": "ABC News (AU)",
-      "author": "Bridget McArthur",
-      "title": "Damien Martyn awakes from coma in 'some sort of miracle', thanks public",
-      "description": "Former Australian Test batsman Damien Martyn is awake and talking after being in an induced coma for several days.",
-      "url": "https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212",
-      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5d1fd8c3b32c81e3b2aab3dae5f52373?impolicy=wcms_watermark_news&cropH=1350&cropW=2400&xPos=293&yPos=184&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-01-04 08:57:18",
-      "content": "Australian cricket great Damien Martyn has woken up from an induced coma after falling ill with meningitis an infection that causes swelling around the brain. The 54-year-old former Test batsman wa\u2026 [+1953 chars]",
-      "retrievedAt": "2026-01-05 19:08:46.287996",
-      "internal_id": "8815a835d0e6b496834d36f4db9b5cca86c46fbc9b0a731eaacc5c9993017e2f",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26630,
-      "query": [
-        "measles",
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Punch Newspapers",
-      "title": "FG vaccinates millions of Nigerians against measles, yellow fever \u2014 Minister",
-      "description": "The Nigerian government has administered over 25 million measles and 22 million yellow fever vaccine doses, alongside new malaria and HPV vaccine rollouts. Read More: https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minist\u2026",
-      "url": "https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/10/03233354/PROF-ALI-1200x630.jpg",
-      "publishedAt": "2026-01-04 08:05:09",
-      "content": "The Coordinating Minister of Health and Social Welfare, Prof. Muhammad Pate, says the Federal Government has administered over 25 million doses of measles vaccine and 22 million yellow fever vaccinat\u2026 [+4396 chars]",
-      "retrievedAt": "2026-01-05 19:08:44.943013",
-      "internal_id": "460e1e3f20e212d7034aba83c9879f8c586f13923a83638583f720888a2ec02a",
-      "publishedAtLabel": "Jan 4"
-    },
-    {
-      "id": 26633,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "ET Online",
-      "title": "Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike",
-      "description": "Water contamination crisis: Following 10 deaths in Indore, Gandhinagar and Bengaluru are now grappling with public health emergencies due to sewage-contaminated drinking water. Gandhinagar faces a typhoid outbreak with 70 active cases, while Bengaluru residen\u2026",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-126332402,width-1200,height-630,imgsize-1152005,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-01-04 07:34:24",
-      "content": "After 10 deaths in Indore due to sewage-contaminated drinking water, Gandhinagar and Bengaluru are now facing similar public health emergencies, according to a TOI report. Residents in both cities ar\u2026 [+3447 chars]",
-      "retrievedAt": "2026-01-05 19:08:47.287107",
-      "internal_id": "d8696412e116e23dd0795f9ae766ca67b076a5a7fb39436914efd6170667d984",
       "publishedAtLabel": "Jan 4"
     }
   ]
