@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2026-02-21 07:16
-- **Most recent article:** 2026-02-20 06:29:35
+- **New articles in last harvest:** 21
+- **Last harvest:** 2026-02-21 19:11
+- **Most recent article:** 2026-02-20 18:23:53
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-2 | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 47 | 63 | 88 | 76 | 107 | 112 | 76 | 569 |
-| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 13 | 130 |
+| measles | 46 | 63 | 88 | 76 | 107 | 112 | 85 | 577 |
+| dengue | 12 | 22 | 27 | 16 | 16 | 24 | 16 | 133 |
 | h5n1 | 12 | 8 | 17 | 22 | 12 | 12 | 11 | 94 |
-| rabies | 9 | 10 | 12 | 10 | 11 | 16 | 14 | 82 |
-| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 19 | 82 |
-| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 35 | 76 |
-| malaria | 13 | 8 | 7 | 8 | 15 | 14 | 10 | 75 |
-| meningitis | 11 | 10 | 2 | 7 | 4 | 7 | 2 | 43 |
-| zika | 4 | 6 | 3 | 7 | 0 | 3 | 2 | 25 |
+| mpox | 14 | 9 | 11 | 4 | 11 | 14 | 23 | 86 |
+| rabies | 8 | 10 | 12 | 10 | 11 | 16 | 14 | 81 |
+| chikungunya | 3 | 1 | 9 | 8 | 8 | 12 | 37 | 78 |
+| malaria | 11 | 8 | 7 | 8 | 15 | 14 | 10 | 73 |
+| meningitis | 10 | 10 | 2 | 7 | 4 | 7 | 3 | 43 |
+| zika | 4 | 6 | 3 | 7 | 0 | 3 | 3 | 26 |
 | leptospirosis | 2 | 1 | 4 | 6 | 3 | 2 | 4 | 22 |
 | hpai | 2 | 3 | 4 | 3 | 1 | 3 | 1 | 17 |
-| yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 0 | 15 |
-| typhoid | 3 | 0 | 2 | 1 | 2 | 1 | 2 | 11 |
+| yersinia | 1 | 4 | 2 | 5 | 1 | 2 | 1 | 16 |
+| typhoid | 2 | 0 | 2 | 1 | 2 | 1 | 2 | 10 |
 | pertussis | 0 | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
 
 
@@ -34,9 +34,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (zika)
 
+- [株式会社東邦に豊中市が感謝状を贈呈 豊中つばさ公園『ma-zika』整備に貢献](https://prtimes.jp/main/html/rd/p/000000959.000078420.html) (Prtimes.jp)
+
 - [株式会社グルーヴに豊中市が感謝状を贈呈 豊中つばさ公園『ma-zika』整備に貢献](https://prtimes.jp/main/html/rd/p/000000958.000078420.html) (Prtimes.jp)
 
 - [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
+
+## 26-8 (yersinia)
+
+- [Yersinia : une enquête pour identifier l’origine de la contamination](https://agriculture.gouv.fr/yersinia-une-enquete-pour-identifier-lorigine-de-la-contamination) (Gouv.fr)
 
 ## 26-8 (typhoid)
 
@@ -75,6 +81,14 @@ Source: [News API](https://newsapi.org/)
 - [Why does rabies cause foaming at the mouth?](https://www.lifesciencesworld.com/why-does-rabies-cause-foaming-at-the-mouth/) (Lifesciencesworld.com)
 
 ## 26-8 (mpox)
+
+- [Erstmals Mpox-Fälle der Klade Ib in Österreich](https://orf.at/stories/3420849/) (Orf.at)
+
+- [OMS identifica nova variante da mpox em dois países](https://olhardigital.com.br/2026/02/20/medicina-e-saude/oms-identifica-nova-variante-da-mpox-em-dois-paises/) (Olhardigital.com.br)
+
+- [O que é Mpox? Doença tem 4 casos confirmados no Brasil em 2026](https://saude.ig.com.br/2026-02-20/o-que-e-mpox--doenca-tem-4-casos-confirmados-no-brasil-em-2026.html) (Ig.com.br)
+
+- [O que a Mpox faz na pele? Entenda consequências da doença viral](https://olhardigital.com.br/2026/02/20/medicina-e-saude/o-que-a-mpox-faz-na-pele-entenda-consequencias-da-doenca-viral/) (Olhardigital.com.br)
 
 - [Mpox in people living with and without HIV, including people on PrEP, during a multistate outbreak in Spain in 2022](https://www.nature.com/articles/s41598-026-37209-3) (Nature.com)
 
@@ -116,11 +130,31 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (meningitis)
 
+- [The Mindset That Took Her From 2% Survival Odds to the Paralympics | Amy Purdy](https://lewishowes.com/podcast/the-mindset-that-took-her-from-2-survival-odds-to-the-paralympics-amy-purdy/) (Lewishowes.com)
+
 - [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
 
 - [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (measles)
+
+- [Indefinite measles exposure advisory issued for Parkland County](https://www.cbc.ca/news/canada/edmonton/parkland-county-alta-measles-advisory-9.7099406) (CBC News)
+
+- [Why is measles spreading in London? #health](https://alltoc.com/health/why-is-measles-spreading-in-london) (Alltoc.com)
+
+- [US nears 1,000 measles cases with infections confirmed in 26 states, CDC data shows](https://abcnews.com/Health/us-nears-1000-measles-cases-infections-confirmed-26/story?id=130332831) (Abcnews.com)
+
+- [Student Infected With Measles in Major University Outbreak Speaks Out](https://www.today.com/health/news/college-student-measles-ave-maria-university-outbreak-rcna259890) (TODAY)
+
+- [The Download: Microsoft’s online reality check, and the worrying rise in measles cases](https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/) (MIT Technology Review)
+
+- [I’m Vaccinated Against Measles. How Can I Check if I’m Still Fully Immune?](https://www.kqed.org/news/12073722/2026-measles-cases-mmr-vaccine-how-to-get-titer-test-immunity-antibodies-extra-dose) (KQED)
+
+- [The measles symptoms to look out for as cases rise across UK](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-outbreak-vaccine-rash-uk-b2924262.html) (The-independent.com)
+
+- [Measles cases are rising. Other vaccine-preventable infections could be next.](https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/) (MIT Technology Review)
+
+- [How serious is the measles resurgence? #health](https://alltoc.com/health/how-serious-is-the-measles-resurgence) (Alltoc.com)
 
 - [Why are measles outbreaks rising in London? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising-in-london) (Alltoc.com)
 
@@ -336,6 +370,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (dengue)
 
+- [QY Research株式会社デング熱検査の世界および日本市場：メーカー、シェア、トレンド予測2026](https://japan.cnet.com/release/31147568/) (CNET)
+
+- [The emergence of hyperendemic dengue in Bangladesh: An ecological study of structural breaks and transmission regime shifts, 2008–2025](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343246) (Plos.org)
+
+- [DF recebe vacina da dengue em dose única e inicia imunização](https://www.metropoles.com/distrito-federal/df-recebe-vacina-da-dengue-em-dose-unica-e-inicia-imunizacao) (Metropoles.com)
+
 - [Insólito, pero real: el mosquito que hizo cerrar la frontera entre Mendoza y Chile por 24 horas](https://www.lanacion.com.ar/sociedad/insolito-pero-real-el-mosquito-que-hizo-cerrar-la-frontera-entre-mendoza-y-chile-por-24-horas-nid19022026/) (La Nacion)
 
 - [Tecnologia amplia controle da dengue no Brasil](https://valor.globo.com/patrocinado/dino/noticia/2026/02/19/tecnologia-amplia-controle-da-dengue-no-brasil-1.ghtml) (Globo)
@@ -363,6 +403,10 @@ Source: [News API](https://newsapi.org/)
 - [Using Routine Surveillance Data to Assess Dengue Virus Transmission Risk in Travelers Returning to the United States](https://wwwnc.cdc.gov/eid/article/32/2/25-1217_article) (Cdc.gov)
 
 ## 26-8 (chikungunya)
+
+- [Alertă privind o boală tropicală dureroasă care s-ar putea extinde în aproape toată Europa. România are deja un caz de infectare](https://www.mediafax.ro/stirile-zilei/alerta-privind-o-boala-tropicala-dureroasa-care-s-ar-putea-extinde-in-aproape-toata-europa-romania-are-deja-un-caz-de-infectare-23690378) (Mediafax.ro)
+
+- [Chikungunya-Virus breitet sich in Europa aus: So schützen Sie sich vor der Tropenkrankheit](https://www.chip.de/news/gesundheit-fitness/chikungunya-virus-breitet-sich-in-europa-aus-so-schuetzen-sie-sich-vor-der-tropenkrankheit_817d4b2b-345b-4a6a-aef1-36f94faf5bce.html) (CHIP Online Deutschland)
 
 - [Tropisch virus door klimaatopwarming nu ook gevaar voor België](https://newsmonkey.be/tropisch-virus-door-klimaatopwarming-nu-ook-gevaar-voor-belgie/) (Newsmonkey.be)
 
@@ -2434,8 +2478,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Amid Indore water contamination crisis, Apollo doctor shares foolproof way to protect yourself from water-borne diseases, deadly infections](https://economictimes.indiatimes.com/magazines/panache/amid-indore-water-contamination-crisis-apollo-doctor-shares-foolproof-way-to-protect-yourself-from-water-borne-diseases-deadly-infections/articleshow/126407244.cms) (The Times of India)
 
-- [Bengaluru, Gandhinagar reel under water contamination crisis after Indore; Typhoid and other diseases spike](https://economictimes.indiatimes.com/news/new-updates/bengaluru-gandhinagar-reel-under-water-crisis-after-indore-typhoid-and-other-diseases-spike/articleshow/126332370.cms) (The Times of India)
-
 ## 26-2 (rabies)
 
 - [Nicotine’s comeback is the latest wellness scam](https://www.salon.com/2026/01/09/nicotines-comeback-is-the-latest-wellness-scam/) (Salon)
@@ -2453,8 +2495,6 @@ Source: [News API](https://newsapi.org/)
 - ['Preventable disease': Delhi govt to notify human rabies under Epidemic Diseases Act, targets 0 deaths](https://timesofindia.indiatimes.com/city/delhi/preventable-disease-delhi-govt-to-notify-human-rabies-under-epidemic-diseases-act-targets-0-deaths/articleshow/126342448.cms) (The Times of India)
 
 - [To strengthen surveillance, ensure timely treatment, Delhi set to declare rabies a notifiable disease](https://indianexpress.com/article/cities/delhi/to-strengthen-surveillance-ensure-timely-treatment-delhi-set-to-declare-rabies-a-notifiable-disease-10455520/) (The Indian Express)
-
-- [Delhi: Human rabies to be declared notifiable disease](https://economictimes.indiatimes.com/news/india/delhi-human-rabies-to-be-declared-notifiable-disease/articleshow/126335368.cms) (The Times of India)
 
 ## 26-2 (mpox)
 
@@ -2507,8 +2547,6 @@ Source: [News API](https://newsapi.org/)
 - [Ex-Australia batter Martyn wakes up from coma in 'miracle' recovery](https://www.bbc.com/sport/cricket/articles/cx20ylkvql1o) (BBC News)
 
 - [Family praises ‘miracle’ recovery as cricketing great Damien Martyn wakes from coma](https://www.nzherald.co.nz/sport/family-praises-miracle-recovery-as-cricketing-great-damien-martyn-wakes-from-coma/X6GYB3XPPBFFTBHU2AKMFOVDGM/) (New Zealand Herald)
-
-- [Damien Martyn awakes from coma in 'some sort of miracle', thanks public](https://www.abc.net.au/news/2026-01-04/australian-cricket-great-damien-martyn-awakes-from-coma/106198212) (ABC News (AU))
 
 ## 26-2 (measles)
 
@@ -2604,8 +2642,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles alert as Adelaide and Sydney airports among possible exposure sites](https://www.abc.net.au/news/2026-01-05/measles-case-travelled-from-adelaide-to-sydney-on-qantas-flight/106198812) (ABC News (AU))
 
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
-
 ## 26-2 (malaria)
 
 - [A dolorosa tragédia familiar de uma das maiores escritoras da atualidade](https://veja.abril.com.br/cultura/a-dolorosa-tragedia-familiar-de-uma-das-maiores-escritoras-da-atualidade/) (Abril.com.br)
@@ -2629,10 +2665,6 @@ Source: [News API](https://newsapi.org/)
 - [How one father is leading Kenya's malaria fight](https://www.standardmedia.co.ke/health/health-science/article/2001537819/how-one-father-is-leading-kenyas-malaria-fight) (Standard Digital)
 
 - [Housing modifications for heat adaptation, thermal comfort and malaria vector control in rural African settlements](https://www.nature.com/articles/s41591-025-04104-9) (Nature.com)
-
-- [Limited healthcare access leaves Makoko dependent on alternative medicine for malaria](https://guardian.ng/featured/limited-healthcare-access-leaves-makoko-dependent-on-alternative-medicine-for-malaria/) (Guardian Nigeria)
-
-- [FG vaccinates millions of Nigerians against measles, yellow fever — Minister](https://punchng.com/fg-vaccinates-millions-of-nigerians-against-measles-yellow-fever-minister/) (The Punch)
 
 ## 26-2 (leptospirosis)
 
