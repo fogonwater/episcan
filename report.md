@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-02-22 07:20
-- **Most recent article:** 2026-02-21 06:11:18
+- **New articles in last harvest:** 10
+- **Last harvest:** 2026-02-22 19:11
+- **Most recent article:** 2026-02-21 18:30:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 63 | 88 | 76 | 107 | 112 | 91 | 537 |
-| dengue | 22 | 27 | 16 | 16 | 24 | 17 | 122 |
+| measles | 62 | 88 | 76 | 107 | 112 | 96 | 541 |
+| dengue | 21 | 27 | 16 | 16 | 24 | 17 | 121 |
 | h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 82 |
-| chikungunya | 1 | 9 | 8 | 8 | 12 | 39 | 77 |
-| rabies | 10 | 12 | 10 | 11 | 16 | 14 | 73 |
-| mpox | 9 | 11 | 4 | 11 | 14 | 23 | 72 |
-| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 62 |
-| meningitis | 10 | 2 | 7 | 4 | 7 | 3 | 33 |
+| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 78 |
+| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 74 |
+| rabies | 9 | 12 | 10 | 11 | 16 | 16 | 74 |
+| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 61 |
+| meningitis | 9 | 2 | 7 | 4 | 7 | 3 | 32 |
 | zika | 6 | 3 | 7 | 0 | 3 | 3 | 22 |
 | leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 20 |
 | yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 15 |
@@ -52,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (rabies)
 
+- [Kano releases N99m for dog rabies vaccination](https://punchng.com/kano-releases-n99m-for-dog-rabies-vaccination/) (The Punch)
+
+- [Pet vaccine hesitancy rare in area, but not unknown to some local veterinarians](https://www.thesunchronicle.com/news/local_news/pet-vaccine-hesitancy-rare-in-area-but-not-unknown-to-some-local-veterinarians/article_2562bf75-3621-4245-84f6-5e96b172cf3d.html) (The Sun Chronicle)
+
 - [Who was the girl who lived through rabies?](https://www.lifesciencesworld.com/who-was-the-girl-who-lived-through-rabies/) (Lifesciencesworld.com)
 
 - [Why does rabies make racoons aggressive?](https://www.lifesciencesworld.com/why-does-rabies-make-racoons-aggressive/) (Lifesciencesworld.com)
@@ -81,6 +85,10 @@ Source: [News API](https://newsapi.org/)
 - [Why does rabies cause foaming at the mouth?](https://www.lifesciencesworld.com/why-does-rabies-cause-foaming-at-the-mouth/) (Lifesciencesworld.com)
 
 ## 26-8 (mpox)
+
+- [Mpox: Ministério da Saúde confirma 55 casos da doença no Brasil](https://www.metropoles.com/saude/mpox-casos-doenca-brasil) (Metropoles.com)
+
+- [Nova pandemia? Mpox volta ao radar e especialistas reforçam prevenção](https://www.metropoles.com/colunas/claudia-meireles/nova-pandemia-mpox) (Metropoles.com)
 
 - [Erstmals Mpox-Fälle der Klade Ib in Österreich](https://orf.at/stories/3420849/) (Orf.at)
 
@@ -137,6 +145,16 @@ Source: [News API](https://newsapi.org/)
 - [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (measles)
+
+- [America's vaccine wars are shaking Australia, driven by 'sticky' myth](https://www.abc.net.au/news/2026-02-22/australia-vaccine-hesitancy-fight-restore-confidence/106353012) (ABC News (AU))
+
+- [Why are measles cases spiking in 2026? #health](https://alltoc.com/health/why-are-measles-cases-spiking-in-2026) (Alltoc.com)
+
+- [Mother Of Measles Victim: ‘I Still Wouldn’t Have Given My Son The Vaccine’](https://crooksandliars.com/2026/02/mother-measles-victim-laments-i-still) (Crooksandliars.com)
+
+- [U.S. closes in on 1,000 measles cases in first two months of 2026](https://www.nbcnews.com/health/health-news/us-closes-1000-measles-cases-first-two-months-2026-rcna259998) (NBC News)
+
+- [Why are measles outbreaks spreading in London? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-london) (Alltoc.com)
 
 - [Why are measles outbreaks surging? #health](https://alltoc.com/health/why-are-measles-outbreaks-surging) (Alltoc.com)
 
@@ -417,6 +435,8 @@ Source: [News API](https://newsapi.org/)
 - [Using Routine Surveillance Data to Assess Dengue Virus Transmission Risk in Travelers Returning to the United States](https://wwwnc.cdc.gov/eid/article/32/2/25-1217_article) (Cdc.gov)
 
 ## 26-8 (chikungunya)
+
+- [Virus tropicale Chikungunya, paziente ricoverata a Vasto](https://www.ansa.it/abruzzo/notizie/2026/02/21/virus-tropicale-chikungunya-paziente-ricoverata-a-vasto_acd4ee3c-0195-48b7-b5d4-1a3534ab1b31.html) (ANSA.it)
 
 - ["Je n’en avais jamais entendu parler auparavant" : cette maladie tropicale risque de s'installer en Belgique, une patiente belge témoigne](https://www.lalibre.be/planete/sante/2026/02/20/je-nen-avais-jamais-entendu-parler-auparavant-cette-maladie-tropicale-risque-de-sinstaller-en-belgique-une-patiente-belge-temoigne-YKBNCYVTKVC2BDVE5LBOXJAEJI/) (Lalibre.be)
 
@@ -2206,8 +2226,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
 
-- [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
-
 ## 26-3 (mpox)
 
 - [Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic](https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435) (International Business Times)
@@ -2247,8 +2265,6 @@ Source: [News API](https://newsapi.org/)
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
 
 - [Preocupación por la salud de Luis Canut, marido de Patricia Pérez](https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm) (Lavozdegalicia.es)
-
-- [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
 
@@ -2376,8 +2392,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Oregon Health Authority confirms first measles case of 2026](https://www.kdrv.com/news/top-stories/oregon-health-authority-confirms-first-measles-case-of-2026/article_df92450b-9aa4-446c-a7f4-9d1904c7680c.html) (KDRV)
 
-- [NC health officials report new measles case, urge vaccination](https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/) (WSOC Charlotte)
-
 ## 26-3 (malaria)
 
 - [A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation](https://www.nature.com/articles/s41467-026-68416-1) (Nature.com)
@@ -2393,8 +2407,6 @@ Source: [News API](https://newsapi.org/)
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
 
 - [The role of the spleen in red blood cell loss caused by malaria: A mathematical model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) (Plos.org)
-
-- [Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war](https://taz.de/Medizingeschichte/!6140151/) (taz.de)
 
 ## 26-3 (leptospirosis)
 
@@ -2469,8 +2481,6 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisadores denunciam "abandono" de laboratórios do Governo de SP](https://www.metropoles.com/sao-paulo/pesquisadores-abandono-laboratorios) (Metropoles.com)
 
 - [Bacolod: Negros Occidental dengue cases drop 26% in 2025](https://rpnradio.com/bacolod-negros-occidental-dengue-cases-drop-26-in-2025/) (Rpnradio.com)
-
-- [Elképesztő fogyása után a barátai sem ismertek rá, több mint 50 kilót adott le a háromgyermekes anyuka](https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/) (Index.hu)
 
 ## 26-3 (chikungunya)
 
