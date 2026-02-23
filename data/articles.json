@@ -1,8 +1,188 @@
 {
-  "last_updated": "2026-02-23 07:30",
-  "count_articles_total": 1142,
-  "count_articles_new": 20,
+  "last_updated": "2026-02-23 19:28",
+  "count_articles_total": 1147,
+  "count_articles_new": 10,
   "articles": [
+    {
+      "id": 27897,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Health Ministry: Six-year-old dead due to measles",
+      "description": "Unvaccinated six-year-old boy brought to hospital in critical condition. Pronounced dead after attempts to revive him.",
+      "url": "https://www.israelnationalnews.com/news/422811",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1206788.jpg",
+      "publishedAt": "2026-02-22 16:54:46",
+      "content": "The Israeli Ministry of Health reported on Sunday that an unvaccinated six-year-old boy died overnight from measles. The boy was brought in critical condition to a hospital, where doctors pronounced \u2026 [+390 chars]",
+      "retrievedAt": "2026-02-23 19:28:35.393726",
+      "internal_id": "35bef6eb3d62790ed7df254364db6aa8c43605324a700092d37310169285c62a",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27902,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d0\u05d5\u05e8 \u05d4\u05d3\u05e8",
+      "title": "\u05d9\u05dc\u05d3\u05d4 \u05d1\u05df 6 \u05e9\u05dc\u05d0 \u05d7\u05d5\u05e1\u05e0\u05d4 \u05e0\u05e4\u05d8\u05e8\u05d4 \u05de\u05d7\u05e6\u05d1\u05ea - \u05d4\u05e7\u05d5\u05e8\u05d1\u05df \u05d4-16 \u05d1\u05d2\u05dc \u05d4\u05ea\u05d7\u05dc\u05d5\u05d0\u05d4",
+      "description": "\u05d1\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d0\u05de\u05e8\u05d5 \u05db\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d4 \u05d4\u05d2\u05d9\u05e2\u05d4 \u05d1\u05de\u05e6\u05d1 \u05d0\u05e0\u05d5\u05e9 \u05dc\u05d1\u05d9\u05ea \u05d4\u05d7\u05d5\u05dc\u05d9\u05dd \u05d4\u05d3\u05e1\u05d4 \u05e2\u05d9\u05df \u05db\u05e8\u05dd \u05d1\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e9\u05dd \u05dc\u05d0\u05d7\u05e8 \u05de\u05d0\u05de\u05e6\u05d9 \u05d4\u05d7\u05d9\u05d9\u05d0\u05d4, \u05e0\u05d0\u05dc\u05e6\u05d5 \u05d4\u05e8\u05d5\u05e4\u05d0\u05d9\u05dd \u05dc\u05e7\u05d1\u05d5\u05e2 \u05d0\u05ea \u05de\u05d5\u05ea\u05d4",
+      "url": "https://www.ynet.co.il/health/article/skd0rs00obl",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/26/ry7RdvEWZl/ry7RdvEWZl_1_67_1000_563_0_large.jpg",
+      "publishedAt": "2026-02-22 16:31:37",
+      "content": "(Measles virus), . , . -1,000, . , , 10-7 , , . , , -2,900 . , 10,000-15,000 . , -1,000 , . , .",
+      "retrievedAt": "2026-02-23 19:28:35.679713",
+      "internal_id": "b93974e2cc94bfb2313c84ca033a3e7604b9c8e3107a47dd211ba750b4fb5d17",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27899,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases rising in the U.S.? #health",
+      "description": "A fast growing outbreak driven by pockets of under vaccination Public health agencies report a steep rise in measles cases across the United States this year, driven largely by clusters of unvaccinated people and several localized outbreaks. The Centers for D\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-22 15:10:33",
+      "content": "Public health agencies report a steep rise in measles cases across the United States this year, driven largely by clusters of unvaccinated people and several localized outbreaks. The Centers for Dise\u2026 [+1755 chars]",
+      "retrievedAt": "2026-02-23 19:28:35.550841",
+      "internal_id": "26d78ac9a53cdf1f12336d1febc1ed4b8ab829a0a7e91bd673701bd1a0529956",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27905,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "O que \u00e9 mpox? Infectologista explica como reconhecer os sintomas",
+      "description": "A mpox \u00e9 uma doen\u00e7a viral que exige aten\u00e7\u00e3o para ser reconhecida logo aos primeiros sinais. Cuidados simples ajudam a evitar o cont\u00e1gio",
+      "url": "https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox",
+      "urlToImage": "https://images.metroimg.com/2026/02/pessoa-com-mpox-getty-images.jpg",
+      "publishedAt": "2026-02-22 14:33:50",
+      "content": "A mpox \u00e9 uma doen\u00e7a viral que voltou a chamar aten\u00e7\u00e3o das autoridades de sa\u00fade em 2026. Embora a maioria dos casos registados este ano evolua de forma leve, reconhecer os sintomas e entender como oco\u2026 [+5520 chars]",
+      "retrievedAt": "2026-02-23 19:28:37.676018",
+      "internal_id": "125679b91d5b45fc5cff2a52747809e7da3e7b79a997bbc032969d47c953504c",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27896,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Parent creates safer social media; global measles outbreaks making travel risky: CBC\u2019s Marketplace Cheat Sheet",
+      "description": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
+      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743",
+      "urlToImage": "https://i.cbc.ca/ais/5a02f957-25d3-4f0a-840c-cd7954a83475,1771353291311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C243%2C4032%2C2268%29%3BResize%3D620",
+      "publishedAt": "2026-02-22 13:00:00",
+      "content": "Miss something this week? Don't panic. The CBC's Marketplace rounds up the consumer and health news you need. Want this in your inbox? Get the Marketplace newsletter every Friday. Join Marketplace \u2026 [+6281 chars]",
+      "retrievedAt": "2026-02-23 19:28:35.333097",
+      "internal_id": "42f273cabb63eaef53db94cb5713151c656e2d7c99c7357791538a2fd36014c4",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27904,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Bambina 12 anni colpita da malaria ricoverata in ospedale",
+      "description": "Una bambina di 12 anni \u00e8 stata trasferita ieri dall'Ospedale di Chioggia a quello di Padova, per competenza pediatrica, dopo essere stata presa in carico e assistita con sospetto di malaria. (ANSA)",
+      "url": "https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2026/2/5/4c95a0a339dea9ffc445c73a32ce211b.jpg",
+      "publishedAt": "2026-02-22 12:59:12",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2026-02-23 19:28:36.887394",
+      "internal_id": "5aae930093af3e6784828d95f75db24f321f8ef0341c447b9fde03bf7c246cf8",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27898,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases rising in 2026? #health",
+      "description": "Explaining the recent surge Public health agencies are reporting a sharp rise in measles cases across multiple countries in 2026. In the United States, the Centers for Disease Control and Prevention has logged 982 cases so far this year \u2014 more than four times\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-2026",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-22 12:10:49",
+      "content": "Public health agencies are reporting a sharp rise in measles cases across multiple countries in 2026. In the United States, the Centers for Disease Control and Prevention has logged 982 cases so far \u2026 [+1841 chars]",
+      "retrievedAt": "2026-02-23 19:28:35.541002",
+      "internal_id": "ffc2bca0e455b601c4b08a5ed0e9b54d19a25bf5554c8d706cddb3e6ed79e8e4",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27901,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?",
+      "description": "As Manitoba grapples with a swelling number of measles cases, a school division trustee would like to see mandatory immunization against the illness and other diseases for students.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180",
+      "urlToImage": "https://i.cbc.ca/ais/6d910c5a-ad2b-4271-b713-696864ba2f15,1771706005259/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C31%2C6850%2C3853%29%3BResize%3D620",
+      "publishedAt": "2026-02-22 12:00:00",
+      "content": "Linda Ross wonders if Manitoba's measles outbreak would have spiralled to hundreds of cases if school divisions had pushed for mandatory vaccination against the illness for students almost a decade a\u2026 [+9242 chars]",
+      "retrievedAt": "2026-02-23 19:28:35.640348",
+      "internal_id": "2a060d12e789819eaa6b053315b0ef988a030ac18a7af78e2d9f583ad1cf8ee1",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27903,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Over 7,000 people affected by dengue in Sudurpaschim over three years",
+      "description": "KANCHANPUR: The risk of dengue infection in Sudurpaschim Province continues to be a serious public health concern. According to data from the Health Directorate in Dipayal, a total of 7,683 people have been infected with dengue across the province over the pa\u2026",
+      "url": "https://english.khabarhub.com/2026/22/536219/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2026-02-22 09:15:17",
+      "content": "KANCHANPUR: The risk of dengue infection in Sudurpaschim Province continues to be a serious public health concern. According to data from the Health Directorate in Dipayal, a total of 7,683 people h\u2026 [+1530 chars]",
+      "retrievedAt": "2026-02-23 19:28:36.377617",
+      "internal_id": "71b8c242d6e7a9ff3dde290b690d77a6e7633d30b1b750079a172dbe0d975432",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27900,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are U.S. measles cases nearing 1,000? #health",
+      "description": "Measles is resurging \u2014 what\u2019s happening and why it matters Health authorities are reporting a sharp increase in cases this year, driven mainly by clusters among unvaccinated children and pockets of low immunization coverage. The United States has logged just \u2026",
+      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-22 09:11:22",
+      "content": "Health authorities are reporting a sharp increase in cases this year, driven mainly by clusters among unvaccinated children and pockets of low immunization coverage. The United States has logged just\u2026 [+1807 chars]",
+      "retrievedAt": "2026-02-23 19:28:35.569240",
+      "internal_id": "1c73427b6dbfe4d2d7c1646b442f78b5d125ac21b6cd35a4d666aa74c5df913a",
+      "publishedAtLabel": "Feb 22"
+    },
     {
       "id": 27893,
       "query": [
@@ -20497,96 +20677,6 @@
       "content": "Do these genetic scientists have a death wish for the human species or are they just plain stupid? This study confirms lab-made hybrid H5N1 strain invades immune cells, replicates in human blood, spr\u2026 [+8143 chars]",
       "retrievedAt": "2026-01-13 07:11:30.804467",
       "internal_id": "097a47e5d2c9f95f9335f9f635f26fbb59957cfd5ddbc0ff7c4b9595b0d7847b",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26755,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Index.hu",
-      "author": "Luna-Sz\u00e1sz D\u00e1vid",
-      "title": "Elk\u00e9peszt\u0151 fogy\u00e1sa ut\u00e1n a bar\u00e1tai sem ismertek r\u00e1, t\u00f6bb mint 50 kil\u00f3t adott le a h\u00e1romgyermekes anyuka",
-      "description": "Mindek\u00f6zbenDanielle Davies, h\u00e1romgyermekes anyuka \u00e9lete legnagyobb v\u00e1ltoz\u00e1s\u00e1n ment kereszt\u00fcl, miut\u00e1n felismerte, hogy nem teljesen ...",
-      "url": "https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/",
-      "urlToImage": "http://kep.cdn.index.hu/1/0/6689/66894/668946/66894623_e2298f267c0a7330331dc894c177cb58_wm.jpg",
-      "publishedAt": "2026-01-11 17:22:12",
-      "content": "Egy 26 \u00e9ves fiatal n, Gina Donner sz\u00e1m\u00e1ra \u00e9lete egyik legszebb utaz\u00e1sa majdnem trag\u00e9di\u00e1val v\u00e9gzd\u00f6tt. A Mald\u00edv-szigeteken t\u00f6lt\u00f6tt sz\u00fclet\u00e9snapi nyaral\u00e1sa alatt ugyanis dengue-l\u00e1zban betegedett meg, ami\u2026 [+1085 chars]",
-      "retrievedAt": "2026-01-12 19:08:46.057091",
-      "internal_id": "b5053ad3c350c1af61177942aeb62ea3fca92214ab44093f27c4592e0851ad1b",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26754,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WSOC Charlotte",
-      "author": "Wsoctv.com News Staff",
-      "title": "NC health officials report new measles case, urge vaccination",
-      "description": "The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday.",
-      "url": "https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJCQYSTWUPVHK5GKKAGHXTNQPLE.jpeg?auth=c81912f287e5acc6e1630e21f625021cebe154536a16708f3e4a13abae862bc9&width=1200&height=630&smart=true",
-      "publishedAt": "2026-01-11 16:32:50",
-      "content": "CHARLOTTE \u2014 The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday. NCDHHS identified a new case of measles in Rutherford County, bringing t\u2026 [+1521 chars]",
-      "retrievedAt": "2026-01-12 19:08:45.378911",
-      "internal_id": "886149c0ae5d88f21d5f08678dd358c0000fae0d9b6f2394caf46e478b66aaf5",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26757,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Rumeysa Ceylan",
-      "title": "Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war",
-      "description": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich.",
-      "url": "https://taz.de/Medizingeschichte/!6140151/",
-      "urlToImage": "https://taz.de/picture/8172514/1200/357414470-c4f6bb55bc.jpeg",
-      "publishedAt": "2026-01-11 14:26:00",
-      "content": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich. mehr...",
-      "retrievedAt": "2026-01-12 19:08:46.612929",
-      "internal_id": "2972403595efc4452eae2e33e5edc7c705ddd465101f46b2af7fc423e0d1cf4a",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26756,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Kaitlin Sullivan",
-      "title": "As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated",
-      "description": "The CDC is no longer recommending that all adolescents and teens get vaccinated for potentially fatal bacterial meningitis, although the shots are still available for high-risk patients.",
-      "url": "https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260110-vaccine-stock-ch-1059-15f3d7.jpg",
-      "publishedAt": "2026-01-11 12:00:00",
-      "content": "Deaths from a rare and dangerous bacterial infection could rise if fewer teens are vaccinated, doctors warn. After the Centers for Disease Control and Prevention recommended that all adolescents get\u2026 [+8686 chars]",
-      "retrievedAt": "2026-01-12 19:08:46.335031",
-      "internal_id": "9bf9b807e073cddb16b8cab0b8d788c30d3c1ab00f7bfd861fe3e2abb824e2a9",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26753,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Devi Nindy, Raka Adji",
-      "title": "Banten rabies-free for 14 consecutive years with strict surveillance",
-      "description": "The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high ...",
-      "url": "https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/01/11/1000811575.jpg",
-      "publishedAt": "2026-01-11 11:59:52",
-      "content": "Serang, Banten (ANTARA) - The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high reports of rabies-\u2026 [+2011 chars]",
-      "retrievedAt": "2026-01-12 19:08:45.027981",
-      "internal_id": "f6f8a398248ebe937a41f6af67ef5534c0a6d3f83026fd38e47703fab8a19ce7",
       "publishedAtLabel": "Jan 11"
     }
   ]
