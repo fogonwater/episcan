@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-02-22 19:11
-- **Most recent article:** 2026-02-21 18:30:00
+- **New articles in last harvest:** 20
+- **Last harvest:** 2026-02-23 07:30
+- **Most recent article:** 2026-02-22 07:00:02
 
 ---
 
@@ -10,27 +10,51 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 62 | 88 | 76 | 107 | 112 | 96 | 541 |
-| dengue | 21 | 27 | 16 | 16 | 24 | 17 | 121 |
-| h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 82 |
-| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 78 |
-| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 74 |
-| rabies | 9 | 12 | 10 | 11 | 16 | 16 | 74 |
-| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 61 |
-| meningitis | 9 | 2 | 7 | 4 | 7 | 3 | 32 |
-| zika | 6 | 3 | 7 | 0 | 3 | 3 | 22 |
-| leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 20 |
-| yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 15 |
-| hpai | 3 | 4 | 3 | 1 | 3 | 1 | 15 |
-| typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 8 |
-| pertussis | 0 | 1 | 1 | 1 | 1 | 0 | 4 |
+| Disease | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 63 | 88 | 76 | 107 | 112 | 108 | 4 | 558 |
+| dengue | 22 | 27 | 16 | 16 | 24 | 17 | 1 | 123 |
+| h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 0 | 82 |
+| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 0 | 78 |
+| rabies | 10 | 12 | 10 | 11 | 16 | 16 | 1 | 76 |
+| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 0 | 74 |
+| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 0 | 62 |
+| meningitis | 10 | 2 | 7 | 4 | 7 | 3 | 0 | 33 |
+| leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 2 | 22 |
+| zika | 6 | 3 | 7 | 0 | 3 | 3 | 0 | 22 |
+| yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 0 | 15 |
+| hpai | 3 | 4 | 3 | 1 | 3 | 1 | 0 | 15 |
+| typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 0 | 8 |
+| pertussis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-9 (rabies)
+
+- [What to do if a possum bites your dog?](https://www.lifesciencesworld.com/what-to-do-if-a-possum-bites-your-dog/) (Lifesciencesworld.com)
+
+## 26-9 (measles)
+
+- [Why are US measles cases surging? #health](https://alltoc.com/health/why-are-us-measles-cases-surging) (Alltoc.com)
+
+- [Why are U.S. measles cases spiking? #health](https://alltoc.com/health/why-are-u-s-measles-cases-spiking) (Alltoc.com)
+
+- [How is the north London measles outbreak spreading? #health](https://alltoc.com/health/how-is-the-north-london-measles-outbreak-spreading) (Alltoc.com)
+
+- [13,000 calls in three months: How one city is keeping ahead of measles](https://www.bbc.com/news/articles/cj98319yzlgo) (BBC News)
+
+## 26-9 (leptospirosis)
+
+- [Teen dies from suspected Leptospirosis as Health Ministry urges caution](https://www.fijivillage.com/news/teen-dies-from-suspected-leptospirosis-as-health-ministry-urges-caution-8a379e/) (Fijivillage)
+
+- [Health Ministry issues warning after teen dies of suspected leptospirosis | Fiji Sun](https://fijisun.com.fj/living/health/health-ministry-issues-warning-after-teen-dies-of-suspected-leptospirosis) (Fiji Sun Online)
+
+## 26-9 (dengue)
+
+- [Un antiviral chez les moustiques favorise la dengue](https://www.techno-science.net/actualite/antiviral-chez-moustiques-favorise-dengue-N28316.html) (Techno-science.net)
 
 ## 26-8 (zika)
 
@@ -146,9 +170,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-8 (measles)
 
+- [Measles Cases This Year Near 1,000. That We Know Of.](https://www.motherjones.com/politics/2026/02/measles-cases-vaccines-rfk-south-carolina/) (Mother Jones)
+
+- [Why are measles outbreaks increasing now? #health](https://alltoc.com/health/why-are-measles-outbreaks-increasing-now) (Alltoc.com)
+
+- [Measles case confirmed in a person who visited a Montgomery County car dealership and a Wawa](https://www.inquirer.com/health/measles-montgomery-county-car-dealership-20260221.html) (The Philadelphia Inquirer)
+
+- [Health officials warn of possible measles exposure in Bethesda](https://www.wmar2news.com/news/state/health-officials-warn-of-possible-measles-exposure-in-bethesda) (WMAR ABC2News Baltimore)
+
 - [America's vaccine wars are shaking Australia, driven by 'sticky' myth](https://www.abc.net.au/news/2026-02-22/australia-vaccine-hesitancy-fight-restore-confidence/106353012) (ABC News (AU))
 
 - [Why are measles cases spiking in 2026? #health](https://alltoc.com/health/why-are-measles-cases-spiking-in-2026) (Alltoc.com)
+
+- [Port: When politics trump a child's health](https://www.inforum.com/opinion/columns/port-when-politics-trump-a-childs-health) (INFORUM)
 
 - [Mother Of Measles Victim: ‘I Still Wouldn’t Have Given My Son The Vaccine’](https://crooksandliars.com/2026/02/mother-measles-victim-laments-i-still) (Crooksandliars.com)
 
@@ -156,9 +190,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles outbreaks spreading in London? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-london) (Alltoc.com)
 
+- [Measles alert issued for Sydney Airport, two flights](https://www.9news.com.au/national/measles-alert-sydney-airport-nsw/d71b2ba8-120f-481a-b55a-be109cbdbf4f) (9News)
+
 - [Why are measles outbreaks surging? #health](https://alltoc.com/health/why-are-measles-outbreaks-surging) (Alltoc.com)
 
+- [Measles outbreak linked to unvaccinated children in Washington state](https://www.khq.com/news/measles-outbreak-linked-to-unvaccinated-children-in-washington-state/article_bdb3b874-378b-4ca0-bd0f-1d4cf3b3094d.html) (KHQ Right Now)
+
+- [Measles exposure reported at Nemours Children's Hospital emergency department](https://6abc.com/post/measles-exposure-reported-nemours-childrens-hospital-emergency-department/18626690/) (WPVI-TV)
+
 - [Measles tally in Lancaster County grows; outbreak now includes Chester County case](https://lancasteronline.com/news/health/measles-tally-in-lancaster-county-grows-outbreak-now-includes-chester-county-case/article_75775b45-f602-4f2b-a35d-d7843d49905d.html) (LancasterOnline)
+
+- [First case of measles confirmed in Lee Health system amid Collier County outbreak](https://www.gulfcoastnewsnow.com/article/first-measles-case-lee-health-outbreak/70433535) (Gulfcoastnewsnow.com)
 
 - [Spartanburg measles outbreak: How did we get here?](https://www.npr.org/2026/02/20/nx-s1-5718384/spartanburg-measles-outbreak-how-did-we-get-here) (NPR)
 
@@ -170,6 +212,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Indefinite measles exposure advisory issued for Parkland County](https://www.cbc.ca/news/canada/edmonton/parkland-county-alta-measles-advisory-9.7099406) (CBC News)
 
+- [The Measles Surge Is Just the Beginning](https://time.com/7380102/rfk-jr-vaccine-schedule-measles-rsv/) (Time)
+
 - [Why is measles spreading in London? #health](https://alltoc.com/health/why-is-measles-spreading-in-london) (Alltoc.com)
 
 - [US nears 1,000 measles cases with infections confirmed in 26 states, CDC data shows](https://abcnews.com/Health/us-nears-1000-measles-cases-infections-confirmed-26/story?id=130332831) (Abcnews.com)
@@ -177,6 +221,8 @@ Source: [News API](https://newsapi.org/)
 - [Student Infected With Measles in Major University Outbreak Speaks Out](https://www.today.com/health/news/college-student-measles-ave-maria-university-outbreak-rcna259890) (TODAY)
 
 - [The Download: Microsoft’s online reality check, and the worrying rise in measles cases](https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/) (MIT Technology Review)
+
+- [Measles cases surge in Salt Lake County: 'Stay home'](https://www.sltrib.com/news/health/2026/02/20/measles-cases-surge-salt-lake/) (Salt Lake Tribune)
 
 - [I’m Vaccinated Against Measles. How Can I Check if I’m Still Fully Immune?](https://www.kqed.org/news/12073722/2026-measles-cases-mmr-vaccine-how-to-get-titer-test-immunity-antibodies-extra-dose) (KQED)
 
@@ -205,6 +251,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles cases continue to rise in England - and this is where outbreak could spread next](https://news.sky.com/story/measles-cases-continue-to-rise-in-england-and-this-is-where-outbreak-could-spread-next-13509662) (Sky.com)
 
 - [What is measles? The six subtle symptoms to look out for in children](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-outbreak-vaccine-london-b2923774.html) (The-independent.com)
+
+- [Parents urged to ensure children are up to date on vaccinations as measles cases grow](https://www.wsbradio.com/news/local/parents-urged-ensure-children-are-up-date-vaccinations-measles-cases-grow/ITZLPNZCBZEQ5F7NIJPVR4CNNM/) (WSB Radio)
 
 - [Major MMR Death Signal Exposed, COVID Shot Excess Deaths Confirmed — And the Bill That Could End 40 Years of Vaccine Immunity](https://www.globalresearch.ca/major-mmr-death-signal-exposed-covid-shot-excess-deaths-confirmed-bill-end-40-years-vaccine-immunity/5916432) (Globalresearch.ca)
 
@@ -2226,6 +2274,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
 
+- [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
+
 ## 26-3 (mpox)
 
 - [Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic](https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435) (International Business Times)
@@ -2265,6 +2315,8 @@ Source: [News API](https://newsapi.org/)
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
 
 - [Preocupación por la salud de Luis Canut, marido de Patricia Pérez](https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm) (Lavozdegalicia.es)
+
+- [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
 
@@ -2392,6 +2444,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Oregon Health Authority confirms first measles case of 2026](https://www.kdrv.com/news/top-stories/oregon-health-authority-confirms-first-measles-case-of-2026/article_df92450b-9aa4-446c-a7f4-9d1904c7680c.html) (KDRV)
 
+- [NC health officials report new measles case, urge vaccination](https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/) (WSOC Charlotte)
+
 ## 26-3 (malaria)
 
 - [A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation](https://www.nature.com/articles/s41467-026-68416-1) (Nature.com)
@@ -2407,6 +2461,8 @@ Source: [News API](https://newsapi.org/)
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
 
 - [The role of the spleen in red blood cell loss caused by malaria: A mathematical model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) (Plos.org)
+
+- [Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war](https://taz.de/Medizingeschichte/!6140151/) (taz.de)
 
 ## 26-3 (leptospirosis)
 
@@ -2481,6 +2537,8 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisadores denunciam "abandono" de laboratórios do Governo de SP](https://www.metropoles.com/sao-paulo/pesquisadores-abandono-laboratorios) (Metropoles.com)
 
 - [Bacolod: Negros Occidental dengue cases drop 26% in 2025](https://rpnradio.com/bacolod-negros-occidental-dengue-cases-drop-26-in-2025/) (Rpnradio.com)
+
+- [Elképesztő fogyása után a barátai sem ismertek rá, több mint 50 kilót adott le a háromgyermekes anyuka](https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/) (Index.hu)
 
 ## 26-3 (chikungunya)
 

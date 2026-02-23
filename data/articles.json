@@ -1,8 +1,224 @@
 {
-  "last_updated": "2026-02-22 19:11",
-  "count_articles_total": 1117,
-  "count_articles_new": 10,
+  "last_updated": "2026-02-23 07:30",
+  "count_articles_total": 1142,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 27893,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Techno-science.net",
+      "author": "Adrien BERNARD",
+      "title": "Un antiviral chez les moustiques favorise la dengue",
+      "description": "Pourquoi certains moustiques sont-ils plus susceptibles de transmettre la dengue que d'autres ? Une \u00e9quipe de chercheurs a identifi\u00e9 une enzyme g\u00e9n\u00e9tique dont les variations affectent...",
+      "url": "https://www.techno-science.net/actualite/antiviral-chez-moustiques-favorise-dengue-N28316.html",
+      "urlToImage": "https://static.techno-science.net/illustration/Libre/PXB/13/mosquito-1332382-1280.jpg",
+      "publishedAt": "2026-02-22 07:00:02",
+      "content": "Pourquoi certains moustiques sont-ils plus susceptibles de transmettre la dengue que d'autres ?Une \u00e9quipe de chercheurs a identifi\u00e9 une enzyme g\u00e9n\u00e9tique dont les variations affectent l'infection \u00e0 ce\u2026 [+2269 chars]",
+      "retrievedAt": "2026-02-23 07:30:03.492907",
+      "internal_id": "13973ad0c7b650a6679e7961c7a530fa4c665abcb5db5d84c3139c6423604f93",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27879,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are US measles cases surging? #health",
+      "description": "A highly contagious disease is spreading through under vaccinated communities Public health officials have recorded an unusually large number of measles infections so far this year. The Centers for Disease Control and Prevention has logged hundreds of cases \u2014\u2026",
+      "url": "https://alltoc.com/health/why-are-us-measles-cases-surging",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-22 06:11:34",
+      "content": "Public health officials have recorded an unusually large number of measles infections so far this year. The Centers for Disease Control and Prevention has logged hundreds of cases a tally many times \u2026 [+1722 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.488862",
+      "internal_id": "59a849d6cae03825ae2958f565d1286406a489dd6909fcadd544416a78da1ae2",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27876,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What to do if a possum bites your dog?",
+      "description": "What to Do If a Possum Bites Your Dog: A Comprehensive Guide If a possum bites your dog, immediately flush the wound with copious amounts of water and seek veterinary attention to prevent infection and address potential disease transmission, such as rabies (t\u2026",
+      "url": "https://www.lifesciencesworld.com/what-to-do-if-a-possum-bites-your-dog/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-22 05:03:04",
+      "content": "What to Do If a Possum Bites Your Dog: A Comprehensive Guide If a possum bites your dog, immediately flush the wound with copious amounts of water and seek veterinary attention to prevent infection \u2026 [+8096 chars]",
+      "retrievedAt": "2026-02-23 07:30:01.985001",
+      "internal_id": "0da2f2c5eacc016116800c31e3a2d489a5b46b1ab762a2928b114ea3245e9c68",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27880,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are U.S. measles cases spiking? #health",
+      "description": "Measles cases surge across the U.S. Federal surveillance shows a sharp rise in measles infections so far this year: the Centers for Disease Control and Prevention has recorded hundreds of cases in the first two months of 2026, a pace that is more than four ti\u2026",
+      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-spiking",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-22 03:10:47",
+      "content": "Federal surveillance shows a sharp rise in measles infections so far this year: the Centers for Disease Control and Prevention has recorded hundreds of cases in the first two months of 2026, a pace t\u2026 [+1716 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.516167",
+      "internal_id": "171f52a1632d63c0b53772c442a32f47742ba8d210d3561826ed624498960984",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27881,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How is the north London measles outbreak spreading? #health",
+      "description": "Outbreak focused in north east London schools and nurseries Public health officials in London report a fast moving cluster of measles primarily among young, unvaccinated children. The outbreak has affected multiple settings \u2014 including several primary schools\u2026",
+      "url": "https://alltoc.com/health/how-is-the-north-london-measles-outbreak-spreading",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-22 03:10:47",
+      "content": "Public-health officials in London report a fast-moving cluster of measles primarily among young, unvaccinated children. The outbreak has affected multiple settings including several primary schools a\u2026 [+1354 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.569032",
+      "internal_id": "bee8b0e2653d18311a3ae3d13a164dffa390b1b6f2220254c8508890b7950630",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27894,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Fijivillage",
+      "author": "Nilufa Buksh",
+      "title": "Teen dies from suspected Leptospirosis as Health Ministry urges caution",
+      "description": "Members of the public are advised by the Ministry of Health and Medical Services to take immediate precautions against leptospirosis following a rece",
+      "url": "https://www.fijivillage.com/news/teen-dies-from-suspected-leptospirosis-as-health-ministry-urges-caution-8a379e/",
+      "urlToImage": "https://www.fijivillage.com/news_images/20260222143818_media_699a6a19e9eef6_55581546.jpg",
+      "publishedAt": "2026-02-22 02:44:51",
+      "content": "Members of the public are advised by the Ministry of Health and Medical Services to take immediate precautions against leptospirosis following a recent death and three suspected severe cases last wee\u2026 [+2477 chars]",
+      "retrievedAt": "2026-02-23 07:30:05.149540",
+      "internal_id": "a2f406f0f548ccc8fd0812e2a891bb157fa5a5924c41d4212a7168dabe13ce10",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27895,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Fiji Sun Online",
+      "author": "Rugby League",
+      "title": "Health Ministry issues warning after teen dies of suspected leptospirosis | Fiji Sun",
+      "description": "The Central Health Services Divisional Outbreak Response Team is carrying out public health interventions and investigations.",
+      "url": "https://fijisun.com.fj/living/health/health-ministry-issues-warning-after-teen-dies-of-suspected-leptospirosis",
+      "urlToImage": "https://images.fijisun.com.fj/media/792d733b-46f5-4800-b898-64560115c171",
+      "publishedAt": "2026-02-22 02:25:59",
+      "content": "A teenager has died and two others are in hospital with suspected severe leptospirosis. The Ministry of Health and Medical Services confirmed that three teenagers were admitted to health facilities \u2026 [+2310 chars]",
+      "retrievedAt": "2026-02-23 07:30:05.160062",
+      "internal_id": "0c41da15d9c830fa049cb9b2b0c3f71478db1175be74d5c8b263561433c31055",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27877,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "13,000 calls in three months: How one city is keeping ahead of measles",
+      "description": "Nurses and doctors are trying to understand and assuage the concerns some patients have over vaccines.",
+      "url": "https://www.bbc.com/news/articles/cj98319yzlgo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8f44/live/817dacf0-0e6c-11f1-a7d2-13765adb9f56.jpg",
+      "publishedAt": "2026-02-22 00:02:53",
+      "content": "Sometimes Lorna Grinnell-Moore, a nurse in Birmingham, gets the phone slammed down on her. Often, she has to listen to the most outlandish conspiracy theories and, on one occasion, she recalls being \u2026 [+15 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.321141",
+      "internal_id": "f6f5438c41b71384934aaf310f516d3fa905079454e5aea859c035aee29a6033",
+      "publishedAtLabel": "Feb 22"
+    },
+    {
+      "id": 27882,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Mother Jones",
+      "author": "Katie Herchenroeder",
+      "title": "Measles Cases This Year Near 1,000. That We Know Of.",
+      "description": "There have been nearly 1,000 confirmed measles cases in the US in 2026 so far, according to new data released by the Centers for Disease Control and Prevention. That\u2019s more than four times the amount of cases as this time last year. It\u2019s unclear how much lar\u2026",
+      "url": "https://www.motherjones.com/politics/2026/02/measles-cases-vaccines-rfk-south-carolina/",
+      "urlToImage": "https://www.motherjones.com/wp-content/uploads/2026/02/2212026_measles_2000.jpg?w=1200&h=630&crop=1",
+      "publishedAt": "2026-02-21 21:58:14",
+      "content": "A sign warning patients sits outside a mobile clinic offering free measles vaccinations in South Carolina.Sean Rayford/Getty Get your news from a source thats not owned and controlled by oligarchs. \u2026 [+3150 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.656476",
+      "internal_id": "6ecf5c36454f62093638fccb2bb43fc8f8bdeb5ac733a5e25fde63b856995aa4",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 27878,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles outbreaks increasing now? #health",
+      "description": "What public health officials are seeing and why it matters Health agencies are reporting unusually large clusters of measles across multiple settings this winter and early spring. In the United States, health authorities logged close to a thousand cases in th\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-outbreaks-increasing-now",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-21 21:13:09",
+      "content": "Health agencies are reporting unusually large clusters of measles across multiple settings this winter and early spring. In the United States, health authorities logged close to a thousand cases in t\u2026 [+1830 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.462057",
+      "internal_id": "870b11a731dbf391d1e6efcda83434b1316334ffa573caf82689c36a1df6cbcd",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 27885,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Philadelphia Inquirer",
+      "author": "Aubrey Whelan",
+      "title": "Measles case confirmed in a person who visited a Montgomery County car dealership and a Wawa",
+      "description": "A person infected with measles was at a car dealership and convenience store in Royersford and Limerick earlier this week, officials said.",
+      "url": "https://www.inquirer.com/health/measles-montgomery-county-car-dealership-20260221.html",
+      "urlToImage": "https://www.inquirer.com/resizer/v2/EJ3J777B3NE4LBXK7JYLPMWHTI.jpg?auth=af1e61d517d274a4bc55bb42dc6fc8b9649eaaf063180939ae770a90b53bd29c&width=760&height=507&smart=true",
+      "publishedAt": "2026-02-21 21:04:51",
+      "content": "Montgomery County health officials on Saturday warned residents of a possible measles exposure at two locations in the county, after confirming another case of the highly contagious disease. A pers\u2026 [+5320 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.686397",
+      "internal_id": "d747c534df3c7fc5a970982eec8d71194535df2a963eeff4c01ac399c6824ccd",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 27883,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WMAR ABC2News Baltimore",
+      "author": "Siobhan Garrett",
+      "title": "Health officials warn of possible measles exposure in Bethesda",
+      "description": "Montgomery County health officials are warning residents about possible measles exposure at a Bethesda building after a Virginia resident with measles visited the location earlier this month.",
+      "url": "https://www.wmar2news.com/news/state/health-officials-warn-of-possible-measles-exposure-in-bethesda",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/bfd44d4/2147483647/strip/true/crop/500x263+0+35/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2Fdc%2F35%2Fb526f11c47a2a1fb6fe78c010b4b%2Fshutterstock-2460960295.jpg",
+      "publishedAt": "2026-02-21 18:40:12",
+      "content": "Montgomery County health officials are urging people to monitor for symptoms after a Virginia resident with a confirmed measles case visited a Bethesda Office building on February 10. The person vis\u2026 [+2765 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.666668",
+      "internal_id": "55bb14daa064defd84f678c7ec5e2b7e9e09f8ecda274fa8ca716cb0bdcbd4d2",
+      "publishedAtLabel": "Feb 21"
+    },
     {
       "id": 27869,
       "query": [
@@ -91,6 +307,24 @@
       "content": "A mpox \u00e9 uma doen\u00e7a viral da fam\u00edlia da var\u00edola, originalmente transmitida de animais para humanos, mas hoje propagada principalmente entre pessoas por contato direto. Segundo o infectologista Hareto\u2026 [+3467 chars]",
       "retrievedAt": "2026-02-22 19:11:56.289795",
       "internal_id": "d1d68d40af566abcac13d3edad3016240cd515637a98e7f69ba5898b693a3a39",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 27889,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "INFORUM",
+      "author": "Rob Port",
+      "title": "Port: When politics trump a child's health",
+      "description": "Port: When politics trump a child's healthinforum.com",
+      "url": "https://www.inforum.com/opinion/columns/port-when-politics-trump-a-childs-health",
+      "urlToImage": "https://cdn.forumcomm.com/dims4/default/ac162c6/2147483647/strip/true/crop/728x485+0+0/resize/1600x1066!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Finforum%2Fbinary%2Fcopy%2Fd2%2Fb9%2Fba5e76439f83523e9c1a1b21a3f8%2F1836000-measles-binary-547500.jpg",
+      "publishedAt": "2026-02-21 13:05:44",
+      "content": "MINOT For recent generations of North Dakotans, measles wasn't really an issue. It wasn't something we had to think about, because medical science has developed a safe and highly effective vaccine ag\u2026 [+6579 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.749822",
+      "internal_id": "84ac60f8b95aac3c94009343e2c1ec3d50c9fd1e829cab46bc8c6e32f35c0bc0",
       "publishedAtLabel": "Feb 21"
     },
     {
@@ -184,6 +418,24 @@
       "publishedAtLabel": "Feb 21"
     },
     {
+      "id": 27892,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "9News",
+      "author": "Patrick Brischetto",
+      "title": "Measles alert issued for Sydney Airport, two flights",
+      "description": "An alert has been issued for flights and a city airport after a passenger was diagnosed with measles.",
+      "url": "https://www.9news.com.au/national/measles-alert-sydney-airport-nsw/d71b2ba8-120f-481a-b55a-be109cbdbf4f",
+      "urlToImage": "https://imageresizer.static9.net.au/AucRtCLKiJaQdzFalc_oN1d2hb8=/1200x628/smart/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Faea7c770-61c6-437a-9b4d-9840c8040d5c",
+      "publishedAt": "2026-02-21 06:32:57",
+      "content": "Auto news: Will Australians spend over $100,000 on a Chinese car?",
+      "retrievedAt": "2026-02-23 07:30:02.786810",
+      "internal_id": "269d938adb76709ad764eed73bc07d4e4eed2ea32cd864079727df1f33b8724a",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
       "id": 27860,
       "query": [
         "measles"
@@ -199,6 +451,24 @@
       "content": "Measles outbreaks in multiple countries have flared where pockets of unvaccinated people exist, and the pattern reflects weakened immunization coverage and gaps in public-health delivery. Large clust\u2026 [+1819 chars]",
       "retrievedAt": "2026-02-22 07:20:07.645504",
       "internal_id": "295af5e2bd3a5dd62fb71832d60ca3bec1ed39de78e330d2f2a2cc2fffc201c8",
+      "publishedAtLabel": "Feb 21"
+    },
+    {
+      "id": 27886,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KHQ Right Now",
+      "author": "Morgan Ashley | Nonstop Local Multimedia Journalist",
+      "title": "Measles outbreak linked to unvaccinated children in Washington state",
+      "description": "SNOHOMISH COUNTY, Wash. \u2014 Recent evidence indicates that measles is no longer predominantly spread via international travel. Instead, most cases are now associated with unvaccinated children.",
+      "url": "https://www.khq.com/news/measles-outbreak-linked-to-unvaccinated-children-in-washington-state/article_bdb3b874-378b-4ca0-bd0f-1d4cf3b3094d.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/khq.com/content/tncms/assets/v3/editorial/8/61/861bab77-da0b-514e-b782-5ecb5b8577a7/5cb5929779090.image.jpg?crop=1346%2C707%2C0%2C25&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-02-21 02:37:35",
+      "content": "SNOHOMISH COUNTY, Wash. Recent evidence indicates that measles is no longer predominantly spread via international travel. Instead, most cases are now associated with unvaccinated children. In Washi\u2026 [+1282 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.713012",
+      "internal_id": "66a6b5d8ee3992e9c4177fbff22c4af3c270b1e53fa2f40d7875b523552c24af",
       "publishedAtLabel": "Feb 21"
     },
     {
@@ -220,6 +490,24 @@
       "publishedAtLabel": "Feb 20"
     },
     {
+      "id": 27890,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WPVI-TV",
+      "author": "6abc Digital Staff",
+      "title": "Measles exposure reported at Nemours Children's Hospital emergency department",
+      "description": "Delaware health officials have issued a warning about a measles exposure at the Nemours Children's Hospital emergency department in Wilmington.",
+      "url": "https://6abc.com/post/measles-exposure-reported-nemours-childrens-hospital-emergency-department/18626690/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/18391700_011226-wpvi-measles-img.jpg?w=1600",
+      "publishedAt": "2026-02-20 23:30:57",
+      "content": "WILMINGTON, Del. (WPVI) -- Delaware health officials have issued a warning about a measles exposure at the Nemours Children's Hospital emergency department in Wilmington. The exposure happened on We\u2026 [+972 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.768117",
+      "internal_id": "03f8b792d02a402987c734dce0e8a6616aa4d21c2b4058be70e71cbdf7030f1d",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
       "id": 27862,
       "query": [
         "measles"
@@ -235,6 +523,24 @@
       "content": "A Lancaster County resident is one of two new measles cases reported by the state today. The new Lancaster case is joined by a Chester County resident. The two new reports today bring the total num\u2026 [+1913 chars]",
       "retrievedAt": "2026-02-22 07:20:07.741201",
       "internal_id": "6216cab3aaa4286be5ebdaa00617543bee25ccfabf8bd31aacca6001f58169f6",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 27888,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gulfcoastnewsnow.com",
+      "author": "Carson Zorn",
+      "title": "First case of measles confirmed in Lee Health system amid Collier County outbreak",
+      "description": "First case of measles confirmed in Lee Health system amid Collier County outbreakgulfcoastnewsnow.com",
+      "url": "https://www.gulfcoastnewsnow.com/article/first-measles-case-lee-health-outbreak/70433535",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/db2285a1-0fad-4b75-8bca-7c9bf71afd17/9a92581c-b95d-4e64-882e-86f5daa4d687.jpg?crop=0.738xw:0.740xh;0.137xw,0&resize=1200:*",
+      "publishedAt": "2026-02-20 21:35:52",
+      "content": "LEE COUNTY, Fla. \u2014Lee Health confirmed on Friday that one person in its care system tested positive for measles. &gt;&gt;Video above: Archive footage from Feb. 19, 2026 Lee Health said that the ind\u2026 [+1434 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.732049",
+      "internal_id": "15fdc3105c00e825e2c1d89ffd230092e5bbda1cae5868a0f0ca63ba2f2a8bbc",
       "publishedAtLabel": "Feb 20"
     },
     {
@@ -361,6 +667,24 @@
       "content": "An indefinite measles exposure advisory has been issued by the province for Parkland County, Alta. Individuals living, working and travelling in the county roughly 50 kilometers west of Edmonton are\u2026 [+1934 chars]",
       "retrievedAt": "2026-02-21 19:11:14.799486",
       "internal_id": "28b02d1edfaa769ec62649bd780542b79f73d62b5001c022c190cbdb7a262a4a",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 27887,
+      "query": [
+        "measles"
+      ],
+      "source_id": "time",
+      "source_name": "Time",
+      "author": "Sophia Newcomer",
+      "title": "The Measles Surge Is Just the Beginning",
+      "description": "Federal changes to the childhood vaccine schedule are making preventable diseases harder to stop, writes Sophia Newcomer.",
+      "url": "https://time.com/7380102/rfk-jr-vaccine-schedule-measles-rsv/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2026/02/rfk-jr-vaccine-access.jpg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2026-02-20 18:16:32",
+      "content": "This winter, the U.S. is experiencing a surge in measles cases. South Carolina is the epicenter of the outbreak, with over 960 confirmed cases, and the virus continues to spread, with 26 states repor\u2026 [+6375 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.722805",
+      "internal_id": "b9695ffc68db60ec407907959f08444d02aad73c625b4ea8be8855e5be4493d9",
       "publishedAtLabel": "Feb 20"
     },
     {
@@ -523,6 +847,24 @@
       "content": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot. Other times, it slips quietly into social media feeds and racks up views. It is into this m\u2026 [+1844 chars]",
       "retrievedAt": "2026-02-21 19:11:14.685018",
       "internal_id": "bc8489f38603f0e0285309579eb79c8e08ceff6bd227b61d42d9521a2353e848",
+      "publishedAtLabel": "Feb 20"
+    },
+    {
+      "id": 27884,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salt Lake Tribune",
+      "author": null,
+      "title": "Measles cases surge in Salt Lake County: 'Stay home'",
+      "description": "Measles cases surge in Salt Lake County: 'Stay home'sltrib.com",
+      "url": "https://www.sltrib.com/news/health/2026/02/20/measles-cases-surge-salt-lake/",
+      "urlToImage": "https://www.sltrib.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fsltrib%2FGL7QSZF5SRGXVC3ADVWK5DOD7I.webp?auth=05f4fd177eb2e1cd7fd6bb149d8c85d5070f247ddf3e489ac89bd444bb3f3c29&width=1200",
+      "publishedAt": "2026-02-20 13:06:36",
+      "content": "Note to readers The Salt Lake Tribune is making this story free to all. Measles is surging in Salt Lake County, and health officials are asking residents to stay home if theyre feeling sick. If yo\u2026 [+4138 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.676266",
+      "internal_id": "8e1bdc604ca4063d0ce1e6b328afccf92e5bdaaaed44d3d4b1c393f3ba35a9c0",
       "publishedAtLabel": "Feb 20"
     },
     {
@@ -1117,6 +1459,24 @@
       "content": "Citation: Rojas-Sereno ZE, Streicker DG, Yung V, Broos A, Malik H, Bergner L, et al. (2026) Rabies, host population structure, and cross-species transmission to the migratory bat Tadarida brasiliensi\u2026 [+47840 chars]",
       "retrievedAt": "2026-02-20 19:19:06.976428",
       "internal_id": "7ba7d071f237339f558c0fd73532fbf5b6c9486380dd512df989b4c77072b7c0",
+      "publishedAtLabel": "Feb 19"
+    },
+    {
+      "id": 27891,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSB Radio",
+      "author": "Ashley Simmons",
+      "title": "Parents urged to ensure children are up to date on vaccinations as measles cases grow",
+      "description": "\u201cI really compare delaying vaccines to deciding you\u2019re going to do the first 10 miles of your drive without a seatbelt. There is no advantage to not being protected,\u201d Hill said.",
+      "url": "https://www.wsbradio.com/news/local/parents-urged-ensure-children-are-up-date-vaccinations-measles-cases-grow/ITZLPNZCBZEQ5F7NIJPVR4CNNM/",
+      "urlToImage": "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F2TLNNUT3DJEFNEZQB5U6ELDQHE.jpg?auth=c1eec7e68c7ea7d4320db0dcb775d664b3d663fef8f59be366943c5edc548cff&width=1200&height=630&smart=true",
+      "publishedAt": "2026-02-19 13:44:23",
+      "content": "ATLANTA \u2014 With measles cases spreading across the country, one medical organization is urging parents to make sure their children are current on their vaccinations. Dr. David Hill with the American \u2026 [+1234 chars]",
+      "retrievedAt": "2026-02-23 07:30:02.777358",
+      "internal_id": "d982ac15dfa51b5c7ee00080e2f38461f4bf59bf427f0aed11c664b09a40b862",
       "publishedAtLabel": "Feb 19"
     },
     {
@@ -20137,6 +20497,96 @@
       "content": "Do these genetic scientists have a death wish for the human species or are they just plain stupid? This study confirms lab-made hybrid H5N1 strain invades immune cells, replicates in human blood, spr\u2026 [+8143 chars]",
       "retrievedAt": "2026-01-13 07:11:30.804467",
       "internal_id": "097a47e5d2c9f95f9335f9f635f26fbb59957cfd5ddbc0ff7c4b9595b0d7847b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26755,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Luna-Sz\u00e1sz D\u00e1vid",
+      "title": "Elk\u00e9peszt\u0151 fogy\u00e1sa ut\u00e1n a bar\u00e1tai sem ismertek r\u00e1, t\u00f6bb mint 50 kil\u00f3t adott le a h\u00e1romgyermekes anyuka",
+      "description": "Mindek\u00f6zbenDanielle Davies, h\u00e1romgyermekes anyuka \u00e9lete legnagyobb v\u00e1ltoz\u00e1s\u00e1n ment kereszt\u00fcl, miut\u00e1n felismerte, hogy nem teljesen ...",
+      "url": "https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/",
+      "urlToImage": "http://kep.cdn.index.hu/1/0/6689/66894/668946/66894623_e2298f267c0a7330331dc894c177cb58_wm.jpg",
+      "publishedAt": "2026-01-11 17:22:12",
+      "content": "Egy 26 \u00e9ves fiatal n, Gina Donner sz\u00e1m\u00e1ra \u00e9lete egyik legszebb utaz\u00e1sa majdnem trag\u00e9di\u00e1val v\u00e9gzd\u00f6tt. A Mald\u00edv-szigeteken t\u00f6lt\u00f6tt sz\u00fclet\u00e9snapi nyaral\u00e1sa alatt ugyanis dengue-l\u00e1zban betegedett meg, ami\u2026 [+1085 chars]",
+      "retrievedAt": "2026-01-12 19:08:46.057091",
+      "internal_id": "b5053ad3c350c1af61177942aeb62ea3fca92214ab44093f27c4592e0851ad1b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26754,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "NC health officials report new measles case, urge vaccination",
+      "description": "The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday.",
+      "url": "https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJCQYSTWUPVHK5GKKAGHXTNQPLE.jpeg?auth=c81912f287e5acc6e1630e21f625021cebe154536a16708f3e4a13abae862bc9&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-11 16:32:50",
+      "content": "CHARLOTTE \u2014 The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday. NCDHHS identified a new case of measles in Rutherford County, bringing t\u2026 [+1521 chars]",
+      "retrievedAt": "2026-01-12 19:08:45.378911",
+      "internal_id": "886149c0ae5d88f21d5f08678dd358c0000fae0d9b6f2394caf46e478b66aaf5",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26757,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Rumeysa Ceylan",
+      "title": "Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war",
+      "description": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich.",
+      "url": "https://taz.de/Medizingeschichte/!6140151/",
+      "urlToImage": "https://taz.de/picture/8172514/1200/357414470-c4f6bb55bc.jpeg",
+      "publishedAt": "2026-01-11 14:26:00",
+      "content": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich. mehr...",
+      "retrievedAt": "2026-01-12 19:08:46.612929",
+      "internal_id": "2972403595efc4452eae2e33e5edc7c705ddd465101f46b2af7fc423e0d1cf4a",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26756,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Kaitlin Sullivan",
+      "title": "As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated",
+      "description": "The CDC is no longer recommending that all adolescents and teens get vaccinated for potentially fatal bacterial meningitis, although the shots are still available for high-risk patients.",
+      "url": "https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260110-vaccine-stock-ch-1059-15f3d7.jpg",
+      "publishedAt": "2026-01-11 12:00:00",
+      "content": "Deaths from a rare and dangerous bacterial infection could rise if fewer teens are vaccinated, doctors warn. After the Centers for Disease Control and Prevention recommended that all adolescents get\u2026 [+8686 chars]",
+      "retrievedAt": "2026-01-12 19:08:46.335031",
+      "internal_id": "9bf9b807e073cddb16b8cab0b8d788c30d3c1ab00f7bfd861fe3e2abb824e2a9",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26753,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Devi Nindy, Raka Adji",
+      "title": "Banten rabies-free for 14 consecutive years with strict surveillance",
+      "description": "The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high ...",
+      "url": "https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/01/11/1000811575.jpg",
+      "publishedAt": "2026-01-11 11:59:52",
+      "content": "Serang, Banten (ANTARA) - The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high reports of rabies-\u2026 [+2011 chars]",
+      "retrievedAt": "2026-01-12 19:08:45.027981",
+      "internal_id": "f6f8a398248ebe937a41f6af67ef5534c0a6d3f83026fd38e47703fab8a19ce7",
       "publishedAtLabel": "Jan 11"
     }
   ]
