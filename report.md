@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 10
-- **Last harvest:** 2026-02-23 19:28
-- **Most recent article:** 2026-02-22 16:54:46
+- **Last harvest:** 2026-02-24 07:26
+- **Most recent article:** 2026-02-23 07:23:27
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 62 | 88 | 76 | 107 | 112 | 108 | 11 | 564 |
-| dengue | 21 | 27 | 16 | 16 | 24 | 17 | 2 | 123 |
+| measles | 63 | 88 | 76 | 107 | 112 | 111 | 15 | 572 |
+| dengue | 22 | 27 | 16 | 16 | 24 | 17 | 2 | 124 |
 | h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 0 | 82 |
+| rabies | 10 | 12 | 10 | 11 | 16 | 16 | 3 | 78 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 0 | 78 |
 | mpox | 9 | 11 | 4 | 11 | 14 | 25 | 1 | 75 |
-| rabies | 9 | 12 | 10 | 11 | 16 | 16 | 1 | 75 |
-| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 1 | 62 |
-| meningitis | 9 | 2 | 7 | 4 | 7 | 3 | 0 | 32 |
+| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 1 | 63 |
+| meningitis | 10 | 2 | 7 | 4 | 7 | 3 | 0 | 33 |
 | leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 2 | 22 |
 | zika | 6 | 3 | 7 | 0 | 3 | 3 | 0 | 22 |
+| hpai | 3 | 4 | 3 | 1 | 3 | 1 | 1 | 16 |
 | yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 0 | 15 |
-| hpai | 3 | 4 | 3 | 1 | 3 | 1 | 0 | 15 |
 | typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 0 | 8 |
 | pertussis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
 
@@ -34,6 +34,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (rabies)
 
+- [What kind of shots do ferrets need?](https://www.lifesciencesworld.com/what-kind-of-shots-do-ferrets-need/) (Lifesciencesworld.com)
+
+- [How does a rabid groundhog act?](https://www.lifesciencesworld.com/how-does-a-rabid-groundhog-act/) (Lifesciencesworld.com)
+
 - [What to do if a possum bites your dog?](https://www.lifesciencesworld.com/what-to-do-if-a-possum-bites-your-dog/) (Lifesciencesworld.com)
 
 ## 26-9 (mpox)
@@ -41,6 +45,12 @@ Source: [News API](https://newsapi.org/)
 - [O que é mpox? Infectologista explica como reconhecer os sintomas](https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox) (Metropoles.com)
 
 ## 26-9 (measles)
+
+- [Measles confirmed in Bryan County resident](https://thegeorgiasun.com/health/measles-confirmed-in-bryan-county-resident/) (Thegeorgiasun.com)
+
+- [Measles case reported in Georgia](https://www.wsbtv.com/news/georgia/measles-case-reported-georgia/N6WCVZDVW5DQVIJJMPTLZZIXHA/) (WSB Atlanta)
+
+- [Why are measles cases surging in 2026? #health](https://alltoc.com/health/why-are-measles-cases-surging-in-2026) (Alltoc.com)
 
 - [Health Ministry: Six-year-old dead due to measles](https://www.israelnationalnews.com/news/422811) (Israelnationalnews.com)
 
@@ -62,6 +72,8 @@ Source: [News API](https://newsapi.org/)
 
 - [How is the north London measles outbreak spreading? #health](https://alltoc.com/health/how-is-the-north-london-measles-outbreak-spreading) (Alltoc.com)
 
+- [How Birmingham is getting ahead of measles by encouraging vaccine uptake](https://www.bbc.co.uk/news/articles/cj98319yzlgo) (BBC News)
+
 - [13,000 calls in three months: How one city is keeping ahead of measles](https://www.bbc.com/news/articles/cj98319yzlgo) (BBC News)
 
 ## 26-9 (malaria)
@@ -73,6 +85,10 @@ Source: [News API](https://newsapi.org/)
 - [Teen dies from suspected Leptospirosis as Health Ministry urges caution](https://www.fijivillage.com/news/teen-dies-from-suspected-leptospirosis-as-health-ministry-urges-caution-8a379e/) (Fijivillage)
 
 - [Health Ministry issues warning after teen dies of suspected leptospirosis | Fiji Sun](https://fijisun.com.fj/living/health/health-ministry-issues-warning-after-teen-dies-of-suspected-leptospirosis) (Fiji Sun Online)
+
+## 26-9 (hpai)
+
+- [Pa. and USDA deploy resources to control latest avian flu outbreak](https://www.northcentralpa.com/business/pa-and-usda-deploy-resources-to-control-latest-avian-flu-outbreak/article_1b3ae5d7-1a2f-473c-9e57-6085efa1fe02.html) (NorthcentralPa.com)
 
 ## 26-9 (dengue)
 
@@ -196,6 +212,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles Cases This Year Near 1,000. That We Know Of.](https://www.motherjones.com/politics/2026/02/measles-cases-vaccines-rfk-south-carolina/) (Mother Jones)
 
+- [Measles exposure reported at Nemours Childrens Hospital in Del. NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/measles-exposure-at-nemours-childrens-hospital-emergency-room-delaware/4356297/) (NBC 10 Philadelphia)
+
 - [Why are measles outbreaks increasing now? #health](https://alltoc.com/health/why-are-measles-outbreaks-increasing-now) (Alltoc.com)
 
 - [Measles case confirmed in a person who visited a Montgomery County car dealership and a Wawa](https://www.inquirer.com/health/measles-montgomery-county-car-dealership-20260221.html) (The Philadelphia Inquirer)
@@ -205,6 +223,8 @@ Source: [News API](https://newsapi.org/)
 - [America's vaccine wars are shaking Australia, driven by 'sticky' myth](https://www.abc.net.au/news/2026-02-22/australia-vaccine-hesitancy-fight-restore-confidence/106353012) (ABC News (AU))
 
 - [Why are measles cases spiking in 2026? #health](https://alltoc.com/health/why-are-measles-cases-spiking-in-2026) (Alltoc.com)
+
+- [Health officials urge vaccination as measles detected in wastewater of 6 Oregon counties - NewsBreak](https://www.newsbreak.com/share/4502622163078-health-officials-urge-vaccination-as-measles-detected-in-wastewater-of-6-oregon-counties?s=a2&amp;share_destination_id=MzM4MjQ0NzE5LTE3NzE2ODg2Mzc1Mjk%3D&amp;pd=0MtEtzMS&amp;hl=en_US&amp;send_time=1771688637&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2226.6.1%22%2C%22languages%22%3A%22en%22%7D) (Newsbreak.com)
 
 - [Port: When politics trump a child's health](https://www.inforum.com/opinion/columns/port-when-politics-trump-a-childs-health) (INFORUM)
 
@@ -239,6 +259,8 @@ Source: [News API](https://newsapi.org/)
 - [The Measles Surge Is Just the Beginning](https://time.com/7380102/rfk-jr-vaccine-schedule-measles-rsv/) (Time)
 
 - [Why is measles spreading in London? #health](https://alltoc.com/health/why-is-measles-spreading-in-london) (Alltoc.com)
+
+- [Bill to eliminate childhood vaccine mandates killed in NH House](https://www.wmur.com/article/new-hampshire-house-bill-vaccine-mandates/70435160) (WMUR Manchester)
 
 - [US nears 1,000 measles cases with infections confirmed in 26 states, CDC data shows](https://abcnews.com/Health/us-nears-1000-measles-cases-infections-confirmed-26/story?id=130332831) (Abcnews.com)
 
@@ -2298,6 +2320,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
 
+- [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
+
 ## 26-3 (mpox)
 
 - [Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic](https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435) (International Business Times)
@@ -2337,6 +2361,8 @@ Source: [News API](https://newsapi.org/)
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
 
 - [Preocupación por la salud de Luis Canut, marido de Patricia Pérez](https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm) (Lavozdegalicia.es)
+
+- [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
 
@@ -2464,6 +2490,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Oregon Health Authority confirms first measles case of 2026](https://www.kdrv.com/news/top-stories/oregon-health-authority-confirms-first-measles-case-of-2026/article_df92450b-9aa4-446c-a7f4-9d1904c7680c.html) (KDRV)
 
+- [NC health officials report new measles case, urge vaccination](https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/) (WSOC Charlotte)
+
 ## 26-3 (malaria)
 
 - [A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation](https://www.nature.com/articles/s41467-026-68416-1) (Nature.com)
@@ -2479,6 +2507,8 @@ Source: [News API](https://newsapi.org/)
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
 
 - [The role of the spleen in red blood cell loss caused by malaria: A mathematical model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) (Plos.org)
+
+- [Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war](https://taz.de/Medizingeschichte/!6140151/) (taz.de)
 
 ## 26-3 (leptospirosis)
 
@@ -2553,6 +2583,8 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisadores denunciam "abandono" de laboratórios do Governo de SP](https://www.metropoles.com/sao-paulo/pesquisadores-abandono-laboratorios) (Metropoles.com)
 
 - [Bacolod: Negros Occidental dengue cases drop 26% in 2025](https://rpnradio.com/bacolod-negros-occidental-dengue-cases-drop-26-in-2025/) (Rpnradio.com)
+
+- [Elképesztő fogyása után a barátai sem ismertek rá, több mint 50 kilót adott le a háromgyermekes anyuka](https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/) (Index.hu)
 
 ## 26-3 (chikungunya)
 
