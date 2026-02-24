@@ -1,8 +1,386 @@
 {
-  "last_updated": "2026-02-24 07:26",
-  "count_articles_total": 1162,
-  "count_articles_new": 10,
+  "last_updated": "2026-02-24 19:25",
+  "count_articles_total": 1178,
+  "count_articles_new": 21,
   "articles": [
+    {
+      "id": 27934,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Mpox no DF: veja sintomas, tratamento e preven\u00e7\u00e3o contra a doen\u00e7a",
+      "description": "DF registrou primeiro caso da doen\u00e7a em janeiro de 2026. Principal sintoma envolve erup\u00e7\u00f5es ou les\u00f5es na pele",
+      "url": "https://www.metropoles.com/distrito-federal/mpox-no-df-veja-sintomas-da-doenca",
+      "urlToImage": "https://images.metroimg.com/2026/02/pessoa-com-mpox-getty-images.jpg",
+      "publishedAt": "2026-02-23 19:01:02",
+      "content": "O Distrito Federal registrou o primeiro caso de mpox em 2026. O diagn\u00f3stico ocorrido em janeiro foi confirmado pela Secretaria de Sa\u00fade do Distrito Federal (SES-DF). Embora seja conhecida h\u00e1 d\u00e9cadas\u2026 [+3072 chars]",
+      "retrievedAt": "2026-02-24 19:25:54.743329",
+      "internal_id": "69b0286b8148399e7d6f5ee790dbff3f0300f64ab4dfa64725d04c203f4c9bd8",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27925,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Butantan antecipar\u00e1 entrega de 1,3 milh\u00e3o de doses da vacina da dengue",
+      "description": "Vacina que tinha entrega prevista para o segundo semestre dever\u00e1 chegar ao Minist\u00e9rio da Sa\u00fade at\u00e9 o fim de junho",
+      "url": "https://www.metropoles.com/sao-paulo/butantan-antecipara-entrega-de-13-milhao-de-doses-da-vacina-da-dengue",
+      "urlToImage": "https://images.metroimg.com/2025/12/08165021/vacina-butantan.jpg",
+      "publishedAt": "2026-02-23 18:53:20",
+      "content": "O Instituto Butantan vai antecipar a entrega de 1,3 milh\u00e3o de doses de vacina da dengue, a Butantan-DV, para o Minist\u00e9rio da Sa\u00fade. A remessa de imunizantes estava prevista apenas para o segundo seme\u2026 [+814 chars]",
+      "retrievedAt": "2026-02-24 19:25:53.622646",
+      "internal_id": "c376f2caa8afc53e342d3728f3f3d5424f2833aba70e33eb8d90b9d91a237c4f",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27933,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Sa\u00fade do DF registra primeiro caso de mpox em 2026. Veja sintomas",
+      "description": "Caso foi registrado em janeiro. Paciente foi liberado para tratar os sintomas em casa; ao todo, Brasil contabiliza 55 infectados",
+      "url": "https://www.metropoles.com/distrito-federal/saude-do-df-registra-primeiro-caso-de-mpox-em-2026-veja-sintomas",
+      "urlToImage": "https://images.metroimg.com/e6630c77-mpox.jpg",
+      "publishedAt": "2026-02-23 17:38:59",
+      "content": "A Secretaria de Sa\u00fade (SES-DF) registrou o primeiro caso de mpox em 2026 no Distrito Federal. Segundo a pasta, o caso foi detectado em janeiro. Ap\u00f3s avalia\u00e7\u00e3o m\u00e9dica, o paciente foi liberado para tr\u2026 [+3751 chars]",
+      "retrievedAt": "2026-02-24 19:25:54.733443",
+      "internal_id": "decd80638fc6c9265d84d29f7f0d22efea44688e2355e9d12d6f88baa8d0bd81",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27917,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Gizmodo.com",
+      "author": "Ed Cara",
+      "title": "This Is What a Brain Destroyed by Measles Looks Like",
+      "description": "A new case report illustrates the deadly impact of subacute sclerosing panencephalitis, a rare complication of measles infection.",
+      "url": "https://gizmodo.com/this-is-what-a-brain-destroyed-by-measles-looks-like-2000725316",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/02/measlesbrain-1200x675.jpg",
+      "publishedAt": "2026-02-23 17:30:34",
+      "content": "Most of the time, measles is a miserable yet survivable disease. But rarely, it can cause a devastating and universally fatal brain conditionone that takes years to claim its victim. Doctors writing\u2026 [+3533 chars]",
+      "retrievedAt": "2026-02-24 19:25:52.531121",
+      "internal_id": "c9819dbc18d8cbb432a73aef36eb371e9189a1caef5c94aa808695df8cbfc7af",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27916,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Pradeep Gupta",
+      "title": "Kalyan bank staffer bit by dog kills self over fear of rabies",
+      "description": "Kalyan: A 30-year-old private bank employee from Kalyan East, who was biiten by a dog, allegedly died by suicide after reportedly fearing the onset of.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/kalyan-bank-staffer-bit-by-dog-kills-self-over-fear-of-rabies/articleshow/128722802.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-128722796,width-1280,height-720,imgsize-6904,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-02-23 16:50:00",
+      "content": "Follow Us On Social Media Bonnie Blue Claims Shes Pregnant, But The Internet Isnt Buying It | WATCHBrahMos Precise Strike Left People Shaken: UP CM Yogi Makes Big Claim On Operation SindoorKylie Jen\u2026 [+2979 chars]",
+      "retrievedAt": "2026-02-24 19:25:52.061842",
+      "internal_id": "86424f68c348f2802949551502cefa7efd1e4a714d17e5e3656c24435324db56",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27926,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Zahid: Steep drop in nationwide dengue cases last year",
+      "description": "PUTRAJAYA: Malaysia recorded 55,399 dengue cases in 2025, a significant 54.7% decline compared with 122,423 cases in 2024, says Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi (pic). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/24/zahid-steep-drop-in-nationwide-dengue-cases-last-year",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/24/3783623.jpg",
+      "publishedAt": "2026-02-23 16:00:00",
+      "content": "PUTRAJAYA: Malaysia recorded 55,399 dengue cases in 2025, a significant 54.7% decline compared with 122,423 cases in 2024, says Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi (pic). He said \u2026 [+2850 chars]",
+      "retrievedAt": "2026-02-24 19:25:53.641738",
+      "internal_id": "a15c07e610337245b9df523296ef9f90ceffcea3cb5d486b5050d25f20fa904a",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27919,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases rising so fast? #health",
+      "description": "A rapid resurgence of a preventable disease Measles has surged across multiple countries in 2026, driven largely by gaps in vaccination. National and local health reports show the United States has logged nearly 1,000 cases so far this year, a multiple fold i\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-rising-so-fast",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-23 15:11:10",
+      "content": "Measles has surged across multiple countries in 2026, driven largely by gaps in vaccination. National and local health reports show the United States has logged nearly 1,000 cases so far this year, a\u2026 [+1777 chars]",
+      "retrievedAt": "2026-02-24 19:25:52.707304",
+      "internal_id": "48a554989d8fbd7c87b0592cdc7afcc3bcad52124bda67a797ac0a2f74bbc682",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27930,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Xiaoyi Xu, Liming Ye, Yawei Liu, Xuetao Peng, Minyi He",
+      "title": "Resurgent threat in a changing climate: A 20-year bibliometric analysis of global Chikungunya research evolution and pandemic preparedness",
+      "description": "Author summary Chikungunya, a mosquito-borne virus that causes severe joint pain and fever, has exploded from a regional concern into a global threat, fueled by climate change and urbanization. To understand how the world is preparing, we analyzed 20 years of\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013959",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013959.g008&size=inline",
+      "publishedAt": "2026-02-23 14:00:00",
+      "content": "Citation: Xu X, Ye L, Liu Y, Peng X, He M (2026) Resurgent threat in a changing climate: A 20-year bibliometric analysis of global Chikungunya research evolution and pandemic preparedness. PLoS Negl \u2026 [+41520 chars]",
+      "retrievedAt": "2026-02-24 19:25:54.370463",
+      "internal_id": "a614df9f6fce229bbc1b86b92471fb400b0b09de171e26f099db26dff6f4715b",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27936,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dijana Spasenoska, Anna-Lea Kahn, Annelies Wilder-Smith, Adwoa D. Bentsi-Enchill, Yong-ha Hwang, Sajan Gunarathna, Jerome H. Kim, Jung-Seok Lee",
+      "title": "Country-level perspectives and priorities to guide the development of Invasive non-Typhoidal Salmonella (iNTS) vaccines: Insights from seven countries",
+      "description": "Author summary Invasive non-typhoidal Salmonella (iNTS) disease causes severe bloodstream infections, resulting in high mortality, especially among children, and in low income countries. Limited diagnostic capacity contributes to underdiagnosis and insufficie\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014012",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014012.g002&size=inline",
+      "publishedAt": "2026-02-23 14:00:00",
+      "content": "Abstract Invasive non-typhoidal Salmonella (iNTS) disease typically presents as a non-specific febrile illness that can progress to bloodstream infections and carries a high case fatality rate. Earl\u2026 [+39113 chars]",
+      "retrievedAt": "2026-02-24 19:25:54.910796",
+      "internal_id": "7124be24d2660db88e57757936c3d3b04fe0dc5a719bbdea0bda909a5a1a15f0",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27923,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": null,
+      "title": "Monday, February 23, 2026",
+      "description": "",
+      "url": "https://kffhealthnews.org/morning-briefing/monday-february-23-2026/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-23 13:59:03",
+      "content": "With Nearly 1,000 Infections, Measles Tally Is Outpacing 2025's Case Count More than half of the states have confirmed measles cases, with South Carolina, Utah, and Arizona experiencing widespread o\u2026 [+5847 chars]",
+      "retrievedAt": "2026-02-24 19:25:52.858871",
+      "internal_id": "f955fd233095dd67708254d326d3467bc6d56978d56a702247f7ae25bd35c17e",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27932,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Diogo Sponchiato",
+      "title": "Mpox: a situa\u00e7\u00e3o atual do surto no Brasil e os estados que lideram em casos",
+      "description": "Mais de 60 epis\u00f3dios foram notificados pelo pa\u00eds at\u00e9 o momento",
+      "url": "https://veja.abril.com.br/saude/mpox-o-estado-atual-do-surto-no-brasil-e-os-estados-que-lideram-em-casos/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/03/mpox-o-que-e-sintomas-diagnostico-e-tratamentos-eficazes.webp?resize=1080,565&crop=1",
+      "publishedAt": "2026-02-23 13:00:13",
+      "content": "Pular para o conte\u00fado Abril Day: Assine VEJA por apenas 9,90Erup\u00e7\u00f5es na pele: sintoma da mpox, cujos casos aumentaram ap\u00f3s carnaval (Reprodu\u00e7\u00e3o / Internet/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O n\u2026 [+1535 chars]",
+      "retrievedAt": "2026-02-24 19:25:54.688956",
+      "internal_id": "622a7a8fa0d71c1f23d430ce9160045a3bf487dd6dd9162736e661bcebeb0af4",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27928,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "S\u00falyos betegs\u00e9g bukkant fel: t\u00f6bb gennyes agyh\u00e1rtyagyullad\u00e1sos beteget tal\u00e1ltak Magyarorsz\u00e1gon",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/itthon/2026/02/gennyes-agyhartyagyulladas-fertozes-magyarorszag",
+      "urlToImage": "https://cdn.origo.hu/2026/02/QIJjB2IvaGdoUfbl5sbZHTlZWOqDtenpeIJvFC_Eu-U/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50L2NlZDRkZDBlYjJkMDRmZmU4OThlMDkxODhkMjVkNzQ0.webp",
+      "publishedAt": "2026-02-23 12:10:06",
+      "content": "A legfrissebb j\u00e1rv\u00e1ny\u00fcgyi adatok szerint febru\u00e1r 9. \u00e9s 15. k\u00f6z\u00f6tt \u00f6sszesen h\u00e1rom meningitis purulenta, k\u00f6zismertebb nev\u00e9n gennyes agyh\u00e1rtyagyullad\u00e1sos esetet vettek nyilv\u00e1ntart\u00e1sba az orsz\u00e1gban. Egye\u2026 [+2360 chars]",
+      "retrievedAt": "2026-02-24 19:25:53.851911",
+      "internal_id": "49d4030e87fed36be9fbc23a334e04c09da613a152d417885d6441e5a08bf041",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27929,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "snt-malaria-budgeting 0.7.0",
+      "description": "A Python library for calculating malaria intervention budgets",
+      "url": "https://pypi.org/project/snt-malaria-budgeting/0.7.0/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-23 12:08:02",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-02-24 19:25:54.066253",
+      "internal_id": "ed34e40dd65066559375d4811e95ec0fbc8003b20a12e6b31614ffc467ad8070",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27924,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Luis Alfredo Robles",
+      "title": "Municipio de Navojoa realizar\u00e1 mega jornada de descacharre contra el dengue",
+      "description": "Las autoridades precisaron que el recorrido iniciar\u00e1 este martes en la colonia Ju\u00e1rez, donde se buscar\u00e1 eliminar cualquier criadero del mosco transmisor",
+      "url": "https://www.tribuna.com.mx/sonora/2026/2/23/municipio-de-navojoa-realizara-mega-jornada-de-descacharre-contra-el-dengue-430375.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/2/23/f1280x720-493705_625380_5050.png",
+      "publishedAt": "2026-02-23 12:00:00",
+      "content": "Navojoa, Sonora.- La Direcci\u00f3n de Salud Municipal en el Ayuntamiento de Navojoa anunci\u00f3 el arranque de una mega jornada de descacharre, para tratar de reducir el n\u00famero de casos de dengue en la local\u2026 [+942 chars]",
+      "retrievedAt": "2026-02-24 19:25:53.604095",
+      "internal_id": "f4b8f4343dabc467ede848da7218162b6cc4aa396535132439434e28a80bdd57",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27921,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Measles outbreak not a concern for many in Winkler-Morden area",
+      "description": "Despite high measles rates in the Winkler and Morden area of southern Manitoba, many residents remain unconcerned about the illness, CBC News found during a recent visit.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/winkler-morden-measles-9.7099669",
+      "urlToImage": "https://i.cbc.ca/ais/57b484de-452a-40ec-8d4d-9595008fee8d,1771688930536/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2026-02-23 11:00:00",
+      "content": "Despite high measles rates in the Winkler and Morden area, many residents say they remain unconcerned about the illness, CBC News found during a recent visit. The Southern Health region, which inclu\u2026 [+8930 chars]",
+      "retrievedAt": "2026-02-24 19:25:52.804070",
+      "internal_id": "8e08210c74f7d2a6a29cd511d0b4a6582e6e39536a83c34173f9c3e06025ab51",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27927,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "Dengue cases, deaths more than halved in 2025, says Ahmad Zahid",
+      "description": "PUTRAJAYA: Malaysia recorded a significant 54.7% decline in dengue cases to 55,399 cases in 2025 compared with 122,423 cases in 2024, Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi says. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2026/02/23/dengue-cases-deaths-more-than-halved-in-2025-says-ahmad-zahid",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/02/23/3783017.jpg",
+      "publishedAt": "2026-02-23 09:44:00",
+      "content": "PUTRAJAYA: Malaysia recorded a significant 54.7% decline in dengue cases to 55,399 cases in 2025 compared with 122,423 cases in 2024, Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi says. The\u2026 [+3336 chars]",
+      "retrievedAt": "2026-02-24 19:25:53.660750",
+      "internal_id": "fa32ac06cca05e40fa985d850c87259dcf2270c8932f73c55ef32c362ca43b29",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27920,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How close is the US to 1,000 measles cases? #health",
+      "description": "Measles cases have surged to nearly 1,000 in 2026 U.S. health authorities have recorded roughly 982 measles cases so far this year, a fourfold increase compared with the same point last year. The spike reflects multiple, geographically distinct outbreaks that\u2026",
+      "url": "https://alltoc.com/health/how-close-is-the-us-to-1000-measles-cases",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-23 09:11:24",
+      "content": "U.S. health authorities have recorded roughly 982 measles cases so far this year, a fourfold increase compared with the same point last year. The spike reflects multiple, geographically distinct outb\u2026 [+1881 chars]",
+      "retrievedAt": "2026-02-24 19:25:52.734672",
+      "internal_id": "c9632183a8adf74e28634752cf6850626dea8a5a3c463fa106b0d625065cdc6f",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27922,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "SIA passenger infected with measles is not linked to other cases in Singapore: CDA",
+      "description": "",
+      "url": "https://www.channelnewsasia.com/singapore/measles-sia-passenger-los-angeles-cda-5946731",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--nixpmjsX--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/tdy/image/2023/11/01/20221229_ili_changi_airport_generics-15.jpg?itok=tGGo66p_",
+      "publishedAt": "2026-02-23 08:35:16",
+      "content": "SINGAPORE: A Singapore Airlines (SIA) passenger who was infected with measles is not linked to any other known cases in Singapore, the country's Communicable Diseases Agency (CDA) said on Monday (Feb\u2026 [+1097 chars]",
+      "retrievedAt": "2026-02-24 19:25:52.839828",
+      "internal_id": "929e84bced5531a8ec34aae8b647e5459684fbd1f8b0c32bffd64291148a1376",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27935,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "franceinfo",
+      "title": "Mpox : deux nouveaux cas de variole B d\u00e9tect\u00e9s \u00e0 La R\u00e9union",
+      "description": "Face \u00e0 la circulation du virus observ\u00e9e dans la zone Oc\u00e9an Indien, l'ARS La R\u00e9union a lanc\u00e9 le 9 f\u00e9vrier une campagne de vaccination pr\u00e9ventive, notamment pour les voyageurs, les professionnels de sant\u00e9, les personnes immunod\u00e9prim\u00e9s et les personnes ayant des\u2026",
+      "url": "https://www.franceinfo.fr/sante/maladie/variole-du-singe/mpox-deux-nouveaux-cas-de-variole-b-detectes-a-la-reunion_7824263.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/FiAEGG0uZ2LijCqan_uLzj-mKjQ/0x53:1024x629/1500x843/2026/02/23/000-36h47ad-699c0e707dd0c864263169.jpg",
+      "publishedAt": "2026-02-23 08:26:09",
+      "content": "Deux nouveaux cas de variole B (mpox) ont \u00e9t\u00e9 d\u00e9tect\u00e9s \u00e0 La R\u00e9union, annonce lundi 23 f\u00e9vrier lAgence r\u00e9gionale de sant\u00e9 (ARS) La R\u00e9union dans un communiqu\u00e9. Ils sont \"en lien avec le second cas impo\u2026 [+1751 chars]",
+      "retrievedAt": "2026-02-24 19:25:54.770428",
+      "internal_id": "5c0f9c12e9e16b65eafa8506b66b60ca6b1ee07159b4effe18caf007cee14af7",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27918,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Parliament to begin Budget 2026 debate on Feb 24",
+      "description": "Parliament will also discuss Singapore's space sector plans and the recent measles cases.",
+      "url": "https://www.channelnewsasia.com/singapore/parliament-order-paper-budget-2026-space-economy-measles-cases-5946541",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--xZdc8pBp--/c_crop,h_449,w_799,x_1,y_55/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2025-09-22T131608Z_1_LYNXNPEL8L0J2_RTROPTP_3_SINGAPORE-POLITICS.JPG?itok=eChUXJ0z",
+      "publishedAt": "2026-02-23 08:13:25",
+      "content": "SINGAPORE: Parliament will begin debating the Budget 2026 statement on Tuesday (Feb 24). Deliberations are expected to go on for at least two days before Prime Minister and Finance Minister Lawrence\u2026 [+1997 chars]",
+      "retrievedAt": "2026-02-24 19:25:52.603119",
+      "internal_id": "96c622808ef4140bf559c983b3ca6e4550b1dfe9ac2eb653bd37b81f7db8ef4c",
+      "publishedAtLabel": "Feb 23"
+    },
+    {
+      "id": 27931,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Simples Conteudo",
+      "title": "Mpox no Brasil: doen\u00e7a pode matar? Conhe\u00e7a os sintomas",
+      "description": "O Brasil registrou 55 casos de mpox em 2026, de acordo com informa\u00e7\u00f5es divulgadas pelo Centro ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/mpox-no-brasil-doenca-pode-matar-conheca-os-sintomas,b18bf05d58a7886ed451ae6886d76da1uor4cbaz.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/23/captura-de-tela-2026-02-22-234919-sok3gong8aid.png",
+      "publishedAt": "2026-02-23 07:58:19",
+      "content": "O Brasil registrou 55 casos de mpox em 2026, de acordo com informa\u00e7\u00f5es divulgadas pelo Centro Nacional de Intelig\u00eancia Epidemiol\u00f3gica e Vigil\u00e2ncia Gen\u00f4mica (CNE-VIG), vinculado ao Minist\u00e9rio da Sa\u00fade\u2026 [+4742 chars]",
+      "retrievedAt": "2026-02-24 19:25:54.678314",
+      "internal_id": "97360096e329fdb2f9e46e26484709a671ab54d8730e74537500c17aec3024dc",
+      "publishedAtLabel": "Feb 23"
+    },
     {
       "id": 27907,
       "query": [
@@ -20857,96 +21235,6 @@
       "content": "Do these genetic scientists have a death wish for the human species or are they just plain stupid? This study confirms lab-made hybrid H5N1 strain invades immune cells, replicates in human blood, spr\u2026 [+8143 chars]",
       "retrievedAt": "2026-01-13 07:11:30.804467",
       "internal_id": "097a47e5d2c9f95f9335f9f635f26fbb59957cfd5ddbc0ff7c4b9595b0d7847b",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26755,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Index.hu",
-      "author": "Luna-Sz\u00e1sz D\u00e1vid",
-      "title": "Elk\u00e9peszt\u0151 fogy\u00e1sa ut\u00e1n a bar\u00e1tai sem ismertek r\u00e1, t\u00f6bb mint 50 kil\u00f3t adott le a h\u00e1romgyermekes anyuka",
-      "description": "Mindek\u00f6zbenDanielle Davies, h\u00e1romgyermekes anyuka \u00e9lete legnagyobb v\u00e1ltoz\u00e1s\u00e1n ment kereszt\u00fcl, miut\u00e1n felismerte, hogy nem teljesen ...",
-      "url": "https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/",
-      "urlToImage": "http://kep.cdn.index.hu/1/0/6689/66894/668946/66894623_e2298f267c0a7330331dc894c177cb58_wm.jpg",
-      "publishedAt": "2026-01-11 17:22:12",
-      "content": "Egy 26 \u00e9ves fiatal n, Gina Donner sz\u00e1m\u00e1ra \u00e9lete egyik legszebb utaz\u00e1sa majdnem trag\u00e9di\u00e1val v\u00e9gzd\u00f6tt. A Mald\u00edv-szigeteken t\u00f6lt\u00f6tt sz\u00fclet\u00e9snapi nyaral\u00e1sa alatt ugyanis dengue-l\u00e1zban betegedett meg, ami\u2026 [+1085 chars]",
-      "retrievedAt": "2026-01-12 19:08:46.057091",
-      "internal_id": "b5053ad3c350c1af61177942aeb62ea3fca92214ab44093f27c4592e0851ad1b",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26754,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WSOC Charlotte",
-      "author": "Wsoctv.com News Staff",
-      "title": "NC health officials report new measles case, urge vaccination",
-      "description": "The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday.",
-      "url": "https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/",
-      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJCQYSTWUPVHK5GKKAGHXTNQPLE.jpeg?auth=c81912f287e5acc6e1630e21f625021cebe154536a16708f3e4a13abae862bc9&width=1200&height=630&smart=true",
-      "publishedAt": "2026-01-11 16:32:50",
-      "content": "CHARLOTTE \u2014 The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday. NCDHHS identified a new case of measles in Rutherford County, bringing t\u2026 [+1521 chars]",
-      "retrievedAt": "2026-01-12 19:08:45.378911",
-      "internal_id": "886149c0ae5d88f21d5f08678dd358c0000fae0d9b6f2394caf46e478b66aaf5",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26757,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "taz.de",
-      "author": "Rumeysa Ceylan",
-      "title": "Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war",
-      "description": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich.",
-      "url": "https://taz.de/Medizingeschichte/!6140151/",
-      "urlToImage": "https://taz.de/picture/8172514/1200/357414470-c4f6bb55bc.jpeg",
-      "publishedAt": "2026-01-11 14:26:00",
-      "content": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich. mehr...",
-      "retrievedAt": "2026-01-12 19:08:46.612929",
-      "internal_id": "2972403595efc4452eae2e33e5edc7c705ddd465101f46b2af7fc423e0d1cf4a",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26756,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Kaitlin Sullivan",
-      "title": "As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated",
-      "description": "The CDC is no longer recommending that all adolescents and teens get vaccinated for potentially fatal bacterial meningitis, although the shots are still available for high-risk patients.",
-      "url": "https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260110-vaccine-stock-ch-1059-15f3d7.jpg",
-      "publishedAt": "2026-01-11 12:00:00",
-      "content": "Deaths from a rare and dangerous bacterial infection could rise if fewer teens are vaccinated, doctors warn. After the Centers for Disease Control and Prevention recommended that all adolescents get\u2026 [+8686 chars]",
-      "retrievedAt": "2026-01-12 19:08:46.335031",
-      "internal_id": "9bf9b807e073cddb16b8cab0b8d788c30d3c1ab00f7bfd861fe3e2abb824e2a9",
-      "publishedAtLabel": "Jan 11"
-    },
-    {
-      "id": 26753,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Devi Nindy, Raka Adji",
-      "title": "Banten rabies-free for 14 consecutive years with strict surveillance",
-      "description": "The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high ...",
-      "url": "https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/01/11/1000811575.jpg",
-      "publishedAt": "2026-01-11 11:59:52",
-      "content": "Serang, Banten (ANTARA) - The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high reports of rabies-\u2026 [+2011 chars]",
-      "retrievedAt": "2026-01-12 19:08:45.027981",
-      "internal_id": "f6f8a398248ebe937a41f6af67ef5534c0a6d3f83026fd38e47703fab8a19ce7",
       "publishedAtLabel": "Jan 11"
     }
   ]
