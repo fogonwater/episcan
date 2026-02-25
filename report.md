@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 21
-- **Last harvest:** 2026-02-24 19:25
-- **Most recent article:** 2026-02-23 19:01:02
+- **New articles in last harvest:** 8
+- **Last harvest:** 2026-02-25 07:27
+- **Most recent article:** 2026-02-24 07:11:48
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 62 | 88 | 76 | 107 | 112 | 111 | 22 | 578 |
-| dengue | 21 | 27 | 16 | 16 | 24 | 17 | 6 | 127 |
+| measles | 63 | 88 | 76 | 107 | 112 | 111 | 26 | 583 |
+| dengue | 22 | 27 | 16 | 16 | 24 | 17 | 9 | 131 |
 | h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 0 | 82 |
-| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 6 | 80 |
-| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 1 | 79 |
-| rabies | 9 | 12 | 10 | 11 | 16 | 16 | 4 | 78 |
-| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 2 | 63 |
-| meningitis | 9 | 2 | 7 | 4 | 7 | 3 | 1 | 33 |
+| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 7 | 81 |
+| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 2 | 80 |
+| rabies | 10 | 12 | 10 | 11 | 16 | 16 | 4 | 79 |
+| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 2 | 64 |
+| meningitis | 10 | 2 | 7 | 4 | 7 | 3 | 1 | 34 |
+| zika | 6 | 3 | 7 | 0 | 3 | 3 | 1 | 23 |
 | leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 2 | 22 |
-| zika | 6 | 3 | 7 | 0 | 3 | 3 | 0 | 22 |
 | hpai | 3 | 4 | 3 | 1 | 3 | 1 | 1 | 16 |
 | yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 0 | 15 |
 | typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 1 | 9 |
@@ -31,6 +31,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-9 (zika)
+
+- [Chikungunya, dengue, Zika : ces virus tropicaux pourraient s’implanter chez nous dans les prochaines décennies](https://www.rtbf.be/article/chikungunya-dengue-zika-ces-virus-tropicaux-pourraient-s-implanter-chez-nous-dans-les-prochaines-decennies-11682267) (RTBF)
 
 ## 26-9 (typhoid)
 
@@ -47,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 - [What to do if a possum bites your dog?](https://www.lifesciencesworld.com/what-to-do-if-a-possum-bites-your-dog/) (Lifesciencesworld.com)
 
 ## 26-9 (mpox)
+
+- [Mpox: Tudo o que você precisa saber sobre o surto no Brasil](https://www.terra.com.br/vida-e-estilo/comportamento/mpox-tudo-o-que-voce-precisa-saber-sobre-o-surto-no-brasil,bcc7246a4726f7859fc0f6eb2161f414y5u01158.html) (Terra.com.br)
 
 - [Mpox no DF: veja sintomas, tratamento e prevenção contra a doença](https://www.metropoles.com/distrito-federal/mpox-no-df-veja-sintomas-da-doenca) (Metropoles.com)
 
@@ -66,6 +72,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (measles)
 
+- [Singapore confirms measles case in 11-month-old girl; first involving child in preschool since stepped-up measures](https://www.channelnewsasia.com/singapore/measles-infant-preschool-child-vaccination-mmr-cda-5948986) (CNA)
+
+- [LaGrange speaks about Parkland County measles advisory as local officials raise concerns](https://www.cbc.ca/news/canada/edmonton/alberta-parkland-county-measles-lagrange-9.7103527) (CBC News)
+
 - [This Is What a Brain Destroyed by Measles Looks Like](https://gizmodo.com/this-is-what-a-brain-destroyed-by-measles-looks-like-2000725316) (Gizmodo.com)
 
 - [Why are measles cases rising so fast? #health](https://alltoc.com/health/why-are-measles-cases-rising-so-fast) (Alltoc.com)
@@ -80,6 +90,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Parliament to begin Budget 2026 debate on Feb 24](https://www.channelnewsasia.com/singapore/parliament-order-paper-budget-2026-space-economy-measles-cases-5946541) (CNA)
 
+- [Measles exposure sites](https://northern.starweekly.com.au/news/measles-exposure-sites/) (Starweekly.com.au)
+
 - [Measles confirmed in Bryan County resident](https://thegeorgiasun.com/health/measles-confirmed-in-bryan-county-resident/) (Thegeorgiasun.com)
 
 - [Measles case reported in Georgia](https://www.wsbtv.com/news/georgia/measles-case-reported-georgia/N6WCVZDVW5DQVIJJMPTLZZIXHA/) (WSB Atlanta)
@@ -93,6 +105,8 @@ Source: [News API](https://newsapi.org/)
 - [Why are measles cases rising in the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s) (Alltoc.com)
 
 - [Parent creates safer social media; global measles outbreaks making travel risky: CBC’s Marketplace Cheat Sheet](https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743) (CBC News)
+
+- [Govt responds to Australia's measles notice from RI travel history](https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history) (Antaranews.com)
 
 - [Why are measles cases rising in 2026? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-2026) (Alltoc.com)
 
@@ -128,6 +142,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (dengue)
 
+- [Chikungunya, dengue, Zika : ces virus tropicaux pourraient s’implanter chez nous dans les prochaines décennies](https://www.rtbf.be/article/chikungunya-dengue-zika-ces-virus-tropicaux-pourraient-s-implanter-chez-nous-dans-les-prochaines-decennies-11682267) (RTBF)
+
+- [Dengue: SP antecipa entrega de milhões de doses de vacina do Butantan](https://olhardigital.com.br/2026/02/23/medicina-e-saude/dengue-sp-antecipa-entrega-de-milhoes-de-doses-de-vacina-do-butantan/) (Olhardigital.com.br)
+
+- [Dengue em SP: Butantan entregará mais 1,3 milhão de doses da vacina no 1º semestre](https://www.infomoney.com.br/saude/dengue-em-sp-butantan-entregara-mais-13-milhao-de-doses-da-vacina-no-1o-semestre/) (InfoMoney)
+
 - [Butantan antecipará entrega de 1,3 milhão de doses da vacina da dengue](https://www.metropoles.com/sao-paulo/butantan-antecipara-entrega-de-13-milhao-de-doses-da-vacina-da-dengue) (Metropoles.com)
 
 - [Zahid: Steep drop in nationwide dengue cases last year](https://www.thestar.com.my/news/nation/2026/02/24/zahid-steep-drop-in-nationwide-dengue-cases-last-year) (The Star Online)
@@ -141,6 +161,8 @@ Source: [News API](https://newsapi.org/)
 - [Un antiviral chez les moustiques favorise la dengue](https://www.techno-science.net/actualite/antiviral-chez-moustiques-favorise-dengue-N28316.html) (Techno-science.net)
 
 ## 26-9 (chikungunya)
+
+- [Chikungunya, dengue, Zika : ces virus tropicaux pourraient s’implanter chez nous dans les prochaines décennies](https://www.rtbf.be/article/chikungunya-dengue-zika-ces-virus-tropicaux-pourraient-s-implanter-chez-nous-dans-les-prochaines-decennies-11682267) (RTBF)
 
 - [Resurgent threat in a changing climate: A 20-year bibliometric analysis of global Chikungunya research evolution and pandemic preparedness](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013959) (Plos.org)
 
@@ -2368,6 +2390,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
 
+- [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
+
 ## 26-3 (mpox)
 
 - [Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic](https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435) (International Business Times)
@@ -2407,6 +2431,8 @@ Source: [News API](https://newsapi.org/)
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
 
 - [Preocupación por la salud de Luis Canut, marido de Patricia Pérez](https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm) (Lavozdegalicia.es)
+
+- [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
 
@@ -2534,6 +2560,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Oregon Health Authority confirms first measles case of 2026](https://www.kdrv.com/news/top-stories/oregon-health-authority-confirms-first-measles-case-of-2026/article_df92450b-9aa4-446c-a7f4-9d1904c7680c.html) (KDRV)
 
+- [NC health officials report new measles case, urge vaccination](https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/) (WSOC Charlotte)
+
 ## 26-3 (malaria)
 
 - [A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation](https://www.nature.com/articles/s41467-026-68416-1) (Nature.com)
@@ -2549,6 +2577,8 @@ Source: [News API](https://newsapi.org/)
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
 
 - [The role of the spleen in red blood cell loss caused by malaria: A mathematical model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) (Plos.org)
+
+- [Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war](https://taz.de/Medizingeschichte/!6140151/) (taz.de)
 
 ## 26-3 (leptospirosis)
 
@@ -2623,6 +2653,8 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisadores denunciam "abandono" de laboratórios do Governo de SP](https://www.metropoles.com/sao-paulo/pesquisadores-abandono-laboratorios) (Metropoles.com)
 
 - [Bacolod: Negros Occidental dengue cases drop 26% in 2025](https://rpnradio.com/bacolod-negros-occidental-dengue-cases-drop-26-in-2025/) (Rpnradio.com)
+
+- [Elképesztő fogyása után a barátai sem ismertek rá, több mint 50 kilót adott le a háromgyermekes anyuka](https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/) (Index.hu)
 
 ## 26-3 (chikungunya)
 
