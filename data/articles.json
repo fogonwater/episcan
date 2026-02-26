@@ -1,8 +1,206 @@
 {
-  "last_updated": "2026-02-25 19:26",
-  "count_articles_total": 1207,
-  "count_articles_new": 21,
+  "last_updated": "2026-02-26 07:26",
+  "count_articles_total": 1223,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 27967,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Bitten by a dog? Doctor shares 10-day rabies rule and how prevention works, after Maharashtra's youth dies",
+      "description": "A doctor clarifies a vital medical fact about rabies. If a dog is healthy 10 days after biting, it did not have rabies. This information aims to reduce panic following a tragic incident in Kalyan, Maharashtra. While observation is a tool, post-exposure vaccin\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/bitten-by-a-dog-doctor-shares-10-day-rabies-rule-and-how-prevention-works-after-maharashtras-youth-dies/articleshow/128773028.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128773586,width-1200,height-630,imgsize-82432,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2026-02-25 07:14:52",
+      "content": "Investment Ideas Grow your wealth with stock ideas &amp; sectoral trends. Stock Reports Plus All-in-one stock research with Stock Score, peer comparison &amp; key signals. BigBull Portfolio Get \u2026 [+436 chars]",
+      "retrievedAt": "2026-02-26 07:26:51.243061",
+      "internal_id": "8b1925ccd7ab3f4bc88331907b471c508b5a5458450bf04babe55b7612436018",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27973,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Alta de casos de mpox preocupa? M\u00e9dicos analisam risco de epidemia",
+      "description": "Brasil soma 81 casos de mpox e especialistas explicam cen\u00e1rio atual, riscos e medidas para evitar avan\u00e7o da doen\u00e7a",
+      "url": "https://www.metropoles.com/saude/alta-casos-mpox-medicos-epidemia",
+      "urlToImage": "https://images.metroimg.com/2026/02/virus-monkeypox-mpox.jpeg",
+      "publishedAt": "2026-02-25 05:00:50",
+      "content": "A mpox voltou ao radar da sa\u00fade p\u00fablica ap\u00f3s novos registros no Brasil. Dados do Minist\u00e9rio da Sa\u00fade apontam 81 casos no pa\u00eds, com maior concentra\u00e7\u00e3o em S\u00e3o Paulo, que soma 57 pacientes infectados, e\u2026 [+3962 chars]",
+      "retrievedAt": "2026-02-26 07:26:53.596466",
+      "internal_id": "787dc8f2f8780f044d21f1574e215584c006becb5b8284f67cfe276d5a5c71d4",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27971,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Katie Langford",
+      "title": "Measles case confirmed in Denver International Airport passenger who visited Littleton church",
+      "description": "Public health officials are providing free measles vaccinations to people who were potentially exposed at the church service starting Wednesday morning.",
+      "url": "https://www.denverpost.com/2026/02/24/measles-denver-airport-church-littleton/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2025/07/Vaccination_Rates_27116.jpg?w=1024&h=682",
+      "publishedAt": "2026-02-25 02:58:50",
+      "content": "A person with a confirmed case of the measles traveled through Denver International Airport and attended a church service in Littleton over the weekend while they were infectious, Colorado public hea\u2026 [+2037 chars]",
+      "retrievedAt": "2026-02-26 07:26:51.838641",
+      "internal_id": "1da228c96edd5bc3d750ed1cdfc44b483f3868dd81c45ee963df55ae810a9a1f",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27966,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What kind of damage can bats do?",
+      "description": "What Kind of Damage Can Bats Do? Bats, while beneficial to the ecosystem, can inflict significant damage. The damage ranges from property destruction through guano accumulation and structural impact to health risks stemming from diseases like rabies and histo\u2026",
+      "url": "https://www.lifesciencesworld.com/what-kind-of-damage-can-bats-do/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-25 00:41:08",
+      "content": "Bats, while beneficial to the ecosystem, can inflict significant damage.The damage ranges from property destruction through guano accumulation and structural impact to health risks stemming from dise\u2026 [+10184 chars]",
+      "retrievedAt": "2026-02-26 07:26:51.220562",
+      "internal_id": "a720c9291b1cd5591acca73d0cf35991b618bd6f18659f19556a814b2210c48e",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27969,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Possible measles exposures reported at Winnipeg Children\u2019s Hospital ER, province says",
+      "description": "The latest possible measles exposure sites in Manitoba\u2019s ongoing outbreak of the illness include two at Winnipeg\u2019s Children\u2019s Hospital on the weekend, the province said Tuesday.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/measles-exposures-winnipeg-childrens-hospital-morden-access-event-centre-coop-arena-9.7104594",
+      "urlToImage": "https://i.cbc.ca/ais/1.6664395,1669397102000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1837%2C1033%29%3BResize%3D620",
+      "publishedAt": "2026-02-24 23:14:43",
+      "content": "The latest possible measles exposure sites in Manitobas ongoing outbreak of the illness include two at Winnipegs Childrens Hospital on the weekend, the province said Tuesday. Those exposures at the \u2026 [+1508 chars]",
+      "retrievedAt": "2026-02-26 07:26:51.735732",
+      "internal_id": "1811514e28290b70d862b49234bedbdbca4f1f7d3039aee1d7f549099d92204c",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 27976,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Regi\u00e3o de Campinas confirma 5 casos de mpox em 2026",
+      "description": "Part\u00edculas do v\u00edrus da mpox vistas em microsc\u00f3pio eletr\u00f4nico Reprodu\u00e7\u00e3o/NIAD A Secretaria Estadual de Sa\u00fade confirmou nesta ter\u00e7a-feira (24) cinco casos da mpox (antiga var\u00edola dos macacos) na \u00e1rea atendida pelo Departamento Regional de Sa\u00fade de Campinas, que\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/24/regiao-de-campinas-confirma-5-casos-de-mpox-em-2026.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/7NzJAAWhEH2Z-nYw2_MuKCERJNw=/1250x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/f/t/CsKhF3Sda8QrRDYzPGBA/infeccao-mpox-210824.jpg",
+      "publishedAt": "2026-02-24 22:31:58",
+      "content": "Em todo o estado de S\u00e3o Paulo, foram confirmados 51 casos, at\u00e9 a publica\u00e7\u00e3o desta reportagem. N\u00e3o h\u00e1 registro de mortes. O primeiro caso confirmado na regi\u00e3o corresponde a um homem de 35 anos, mora\u2026 [+1858 chars]",
+      "retrievedAt": "2026-02-26 07:26:53.678667",
+      "internal_id": "278137f4ce551039229a32c61a2a8b12dba45c04b19e551debadbc03b6d0994f",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 27972,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Brasil se aproxima de 90 casos confirmados de mpox",
+      "description": "O Brasil tem 88 casos confirmados de mpox e outros 171 casos suspeitos, segundo dados do painel ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/brasil-se-aproxima-de-90-casos-confirmados-de-mpox,c9354a14efebda270e2d8c95f13def1bzdq0z20r.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2026-02-24 22:09:17",
+      "content": "O Brasil tem 88 casos confirmados de mpox e outros 171 casos suspeitos, segundo dados do painel epidemiol\u00f3gico do Minist\u00e9rio da Sa\u00fade. A \u00faltima atualiza\u00e7\u00e3o, realizada nesta ter\u00e7a-feira, 24, inclui ep\u2026 [+2910 chars]",
+      "retrievedAt": "2026-02-26 07:26:53.548934",
+      "internal_id": "2d6dbd380e208ae2caf2e9868e6deaad6dba1c6dab7cd42f12d6ebb0c3e53cdd",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 27968,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How severe is the measles resurgence? #health",
+      "description": "The current scale and why it matters Measles cases are climbing to levels not seen in years. In the United States, health officials have reported nearly 1,000 cases so far in 2026 \u2014 more than four times the number at the same point last year. Multiple localiz\u2026",
+      "url": "https://alltoc.com/health/how-severe-is-the-measles-resurgence",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-24 21:13:56",
+      "content": "The current scale and why it matters Measles cases are climbing to levels not seen in years. In the United States, health officials have reported nearly 1,000 cases so far in 2026 more than four tim\u2026 [+1864 chars]",
+      "retrievedAt": "2026-02-26 07:26:51.645566",
+      "internal_id": "c8ed662d449f72588d8eea301ab8ca5f44a698c65d4156b1d11fe009d3e76689",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 27975,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Suspeita de mpox: jovem de 19 anos est\u00e1 isolada em Mossor\u00f3",
+      "description": "Segundo a Secretaria de Sa\u00fade local, ela est\u00e1 internada e isolada h\u00e1 quatro dias. Brasil j\u00e1 contabilizou mais de 80 casos da doen\u00e7a em 2026",
+      "url": "https://www.metropoles.com/brasil/suspeita-de-mpox-jovem-de-19-anos-esta-isolada-em-mossoro",
+      "urlToImage": "https://images.metroimg.com/2026/02/foto-mpox-capa.jpg",
+      "publishedAt": "2026-02-24 20:38:35",
+      "content": "Mais um caso suspeito de mpox est\u00e1 sendo investigado no Brasil, desta vez na cidade de Mossor\u00f3, a cerca de 280 km da capital Natal, no Rio Grande do Norte. Uma jovem de 19 anos est\u00e1 internada e isol\u2026 [+1522 chars]",
+      "retrievedAt": "2026-02-26 07:26:53.655275",
+      "internal_id": "06eab6aba3090ad6c81ace34c8f568fed540c4c8f394ed8f17643490cab0304f",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 27974,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Minist\u00e9rio da Sa\u00fade confirma 81 casos de mpox no Brasil em 2026",
+      "description": "Minist\u00e9rio da Sa\u00fade informa que maioria dos quadros \u00e9 leve ou moderada e refor\u00e7a monitoramento e rastreamento da Mpox",
+      "url": "https://www.metropoles.com/saude/81-casos-mpox-brasil-2026",
+      "urlToImage": "https://images.metroimg.com/e6630c77-mpox.jpg",
+      "publishedAt": "2026-02-24 20:23:16",
+      "content": "O Brasil registra, at\u00e9 o momento, 81 casos confirmados de mpox em 2026, segundo nota oficial do Minist\u00e9rio da Sa\u00fade. De acordo com a pasta, h\u00e1 predomin\u00e2ncia de quadros leves ou moderados e n\u00e3o h\u00e1 reg\u2026 [+1785 chars]",
+      "retrievedAt": "2026-02-26 07:26:53.609874",
+      "internal_id": "567209b2c465abf2f61d0a55386c21e3e30ead874b4a450369e868ef12b12ae1",
+      "publishedAtLabel": "Feb 24"
+    },
+    {
+      "id": 27970,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "ANNE GARBER | Deputy Correspondent Coordinator",
+      "title": "Measles count rises in Pennsylvania with new case in Montgomery County",
+      "description": "Another Montgomery County resident has been diagnosed with measles, the state announced Tuesday, raising Pennsylvania\u2019s count to 11 cases in 2026 and the Montgomery County total to three cases.",
+      "url": "https://lancasteronline.com/news/health/measles-count-rises-in-pennsylvania-with-new-case-in-montgomery-county/article_271387bf-a7c6-4168-8f03-873923d2a245.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/67/667294f2-6c4d-11e9-b2c5-af037d34783d/5cc9fde0a0ad7.image.jpg?crop=1200%2C630%2C0%2C76",
+      "publishedAt": "2026-02-24 20:22:00",
+      "content": "Another Montgomery County resident has been diagnosed with measles, the state announced Tuesday, raising Pennsylvanias count to 11 cases in 2026 and the Montgomery County total to three cases. No ne\u2026 [+1667 chars]",
+      "retrievedAt": "2026-02-26 07:26:51.815154",
+      "internal_id": "143340965f4514b5ebb750af762842213a828e5c23b04117b811c3b02b0f8c9e",
+      "publishedAtLabel": "Feb 24"
+    },
     {
       "id": 27954,
       "query": [
@@ -21759,6 +21957,96 @@
       "content": "Do these genetic scientists have a death wish for the human species or are they just plain stupid? This study confirms lab-made hybrid H5N1 strain invades immune cells, replicates in human blood, spr\u2026 [+8143 chars]",
       "retrievedAt": "2026-01-13 07:11:30.804467",
       "internal_id": "097a47e5d2c9f95f9335f9f635f26fbb59957cfd5ddbc0ff7c4b9595b0d7847b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26755,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Luna-Sz\u00e1sz D\u00e1vid",
+      "title": "Elk\u00e9peszt\u0151 fogy\u00e1sa ut\u00e1n a bar\u00e1tai sem ismertek r\u00e1, t\u00f6bb mint 50 kil\u00f3t adott le a h\u00e1romgyermekes anyuka",
+      "description": "Mindek\u00f6zbenDanielle Davies, h\u00e1romgyermekes anyuka \u00e9lete legnagyobb v\u00e1ltoz\u00e1s\u00e1n ment kereszt\u00fcl, miut\u00e1n felismerte, hogy nem teljesen ...",
+      "url": "https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/",
+      "urlToImage": "http://kep.cdn.index.hu/1/0/6689/66894/668946/66894623_e2298f267c0a7330331dc894c177cb58_wm.jpg",
+      "publishedAt": "2026-01-11 17:22:12",
+      "content": "Egy 26 \u00e9ves fiatal n, Gina Donner sz\u00e1m\u00e1ra \u00e9lete egyik legszebb utaz\u00e1sa majdnem trag\u00e9di\u00e1val v\u00e9gzd\u00f6tt. A Mald\u00edv-szigeteken t\u00f6lt\u00f6tt sz\u00fclet\u00e9snapi nyaral\u00e1sa alatt ugyanis dengue-l\u00e1zban betegedett meg, ami\u2026 [+1085 chars]",
+      "retrievedAt": "2026-01-12 19:08:46.057091",
+      "internal_id": "b5053ad3c350c1af61177942aeb62ea3fca92214ab44093f27c4592e0851ad1b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26754,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "NC health officials report new measles case, urge vaccination",
+      "description": "The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday.",
+      "url": "https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJCQYSTWUPVHK5GKKAGHXTNQPLE.jpeg?auth=c81912f287e5acc6e1630e21f625021cebe154536a16708f3e4a13abae862bc9&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-11 16:32:50",
+      "content": "CHARLOTTE \u2014 The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday. NCDHHS identified a new case of measles in Rutherford County, bringing t\u2026 [+1521 chars]",
+      "retrievedAt": "2026-01-12 19:08:45.378911",
+      "internal_id": "886149c0ae5d88f21d5f08678dd358c0000fae0d9b6f2394caf46e478b66aaf5",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26757,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Rumeysa Ceylan",
+      "title": "Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war",
+      "description": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich.",
+      "url": "https://taz.de/Medizingeschichte/!6140151/",
+      "urlToImage": "https://taz.de/picture/8172514/1200/357414470-c4f6bb55bc.jpeg",
+      "publishedAt": "2026-01-11 14:26:00",
+      "content": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich. mehr...",
+      "retrievedAt": "2026-01-12 19:08:46.612929",
+      "internal_id": "2972403595efc4452eae2e33e5edc7c705ddd465101f46b2af7fc423e0d1cf4a",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26756,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Kaitlin Sullivan",
+      "title": "As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated",
+      "description": "The CDC is no longer recommending that all adolescents and teens get vaccinated for potentially fatal bacterial meningitis, although the shots are still available for high-risk patients.",
+      "url": "https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260110-vaccine-stock-ch-1059-15f3d7.jpg",
+      "publishedAt": "2026-01-11 12:00:00",
+      "content": "Deaths from a rare and dangerous bacterial infection could rise if fewer teens are vaccinated, doctors warn. After the Centers for Disease Control and Prevention recommended that all adolescents get\u2026 [+8686 chars]",
+      "retrievedAt": "2026-01-12 19:08:46.335031",
+      "internal_id": "9bf9b807e073cddb16b8cab0b8d788c30d3c1ab00f7bfd861fe3e2abb824e2a9",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26753,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Devi Nindy, Raka Adji",
+      "title": "Banten rabies-free for 14 consecutive years with strict surveillance",
+      "description": "The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high ...",
+      "url": "https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/01/11/1000811575.jpg",
+      "publishedAt": "2026-01-11 11:59:52",
+      "content": "Serang, Banten (ANTARA) - The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high reports of rabies-\u2026 [+2011 chars]",
+      "retrievedAt": "2026-01-12 19:08:45.027981",
+      "internal_id": "f6f8a398248ebe937a41f6af67ef5534c0a6d3f83026fd38e47703fab8a19ce7",
       "publishedAtLabel": "Jan 11"
     }
   ]
