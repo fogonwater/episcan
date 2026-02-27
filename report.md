@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-02-27 07:24
-- **Most recent article:** 2026-02-26 06:10:25
+- **New articles in last harvest:** 17
+- **Last harvest:** 2026-02-27 19:17
+- **Most recent article:** 2026-02-26 19:05:02
 
 ---
 
@@ -12,20 +12,21 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 63 | 88 | 76 | 107 | 112 | 111 | 48 | 605 |
-| dengue | 22 | 27 | 16 | 16 | 24 | 17 | 11 | 133 |
-| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 20 | 94 |
-| rabies | 10 | 12 | 10 | 11 | 16 | 16 | 10 | 85 |
-| h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 2 | 84 |
+| measles | 62 | 88 | 76 | 107 | 112 | 111 | 53 | 609 |
+| dengue | 21 | 27 | 16 | 16 | 24 | 17 | 12 | 133 |
+| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 23 | 97 |
+| h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 3 | 85 |
+| rabies | 9 | 12 | 10 | 11 | 16 | 16 | 10 | 84 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 3 | 81 |
-| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 5 | 67 |
-| meningitis | 10 | 2 | 7 | 4 | 7 | 3 | 3 | 36 |
+| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 10 | 71 |
+| meningitis | 9 | 2 | 7 | 4 | 7 | 3 | 5 | 37 |
 | zika | 6 | 3 | 7 | 0 | 3 | 3 | 1 | 23 |
 | leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 2 | 22 |
 | hpai | 3 | 4 | 3 | 1 | 3 | 1 | 2 | 17 |
 | yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 0 | 15 |
 | typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 2 | 10 |
 | pertussis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -41,6 +42,10 @@ Source: [News API](https://newsapi.org/)
 - [Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Scientists Warn](https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-scientists-warn) (ScienceAlert)
 
 - [Country-level perspectives and priorities to guide the development of Invasive non-Typhoidal Salmonella (iNTS) vaccines: Insights from seven countries](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014012) (Plos.org)
+
+## 26-9 (shigellosis)
+
+- [County Health Department reports noticeable rise in Shigella bacterial infection](https://www.bupipedream.com/news/county-health-department-reports-noticeable-rise-in-shigella-bacterial-infection/176178/) (Bupipedream.com)
 
 ## 26-9 (rabies)
 
@@ -65,6 +70,12 @@ Source: [News API](https://newsapi.org/)
 - [What to do if a possum bites your dog?](https://www.lifesciencesworld.com/what-to-do-if-a-possum-bites-your-dog/) (Lifesciencesworld.com)
 
 ## 26-9 (mpox)
+
+- [Mpox e outros vírus em alerta: entenda se o Brasil está preparado para uma nova pandemia](https://catracalivre.com.br/saude-bem-estar/mpox-e-outros-virus-em-alerta-entenda-se-o-brasil-esta-preparado-para-uma-nova-pandemia/) (Catracalivre.com.br)
+
+- [Paraná confirma primeiro caso de Mpox: quais os riscos do vírus?](https://ultimosegundo.ig.com.br/brasil/2026-02-26/parana-confirma-primeiro-caso-de-mpox--quais-os-riscos-do-virus-.html) (Ig.com.br)
+
+- [Mpox pode matar? Entenda riscos e letalidade da doença viral](https://veja.abril.com.br/saude/mpox-pode-matar-entenda-riscos-e-letalidade-da-doenca-viral/) (Abril.com.br)
 
 - [Mpox: DF tem 80 doses da vacina; saiba quem pode receber o imunizante](https://www.metropoles.com/distrito-federal/mpox-df-tem-80-doses-da-vacina-saiba-quem-pode-receber-o-imunizante) (Metropoles.com)
 
@@ -108,6 +119,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (meningitis)
 
+- [Meningitis: GHS confirms one case in Upper East Region](https://thechronicle.com.gh/meningitis-ghs-confirms-one-case-in-upper-east-region/) (Thechronicle.com.gh)
+
+- [Health alert issued after meningitis cases confirmed at Cape Town school](https://www.capetownetc.com/featured/health-alert-issued-after-meningitis-cases-confirmed-at-cape-town-school/) (CapeTown ETC)
+
 - [22-year-old from Pyrgos intubated at Tzaneio Hospital with meningitis](https://en.protothema.gr/2026/02/25/22-year-old-from-pyrgos-intubated-at-tzaneio-hospital-with-meningitis/) (Protothema.gr)
 
 - [Tuberculosis vuelve más letal a hongo que causa meningitis, alerta estudio](https://www.nacion.com/ciencia/tuberculosis-vuelve-mas-letal-a-hongo-que-causa/SDPBW3NSUFB5ZLFHFKZJIG5U24/story/) (Nacion.com)
@@ -115,6 +130,16 @@ Source: [News API](https://newsapi.org/)
 - [Súlyos betegség bukkant fel: több gennyes agyhártyagyulladásos beteget találtak Magyarországon](https://www.origo.hu/itthon/2026/02/gennyes-agyhartyagyulladas-fertozes-magyarorszag) (Origo.hu)
 
 ## 26-9 (measles)
+
+- [A Shot Of Truth: Why Combating Measles Misinformation Protects Us All](https://www.forbes.com/sites/bernadettebodenalbala/2026/02/26/a-shot-of-truth-why-combating-measles-misinformation-protects-us-all/) (Forbes)
+
+- [Recent violence, measles cases fuel spring break travel concerns](https://www.cbsnews.com/news/spring-break-travel-concerns-violence-mexico-measles-cases-us/) (CBS News)
+
+- [Surgeon general nominee dodges vaccine questions](https://theweek.com/politics/casey-means-surgeon-general-hearing) (The Week Magazine)
+
+- [Health officials warn of measles risk as spring break nears](https://www.wsbradio.com/news/health/health-officials-warn-measles-risk-spring-break-nears/ZJJXGSKPAJAVZHKW42LV4IM6TQ/) (WSB Radio)
+
+- [Safety concerns for popular spring break destinations](https://www.cbsnews.com/video/safety-concerns-for-popular-spring-break-destinations/) (CBS News)
 
 - [Why are US measles cases rising? #health](https://alltoc.com/health/why-are-us-measles-cases-rising) (Alltoc.com)
 
@@ -214,6 +239,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (malaria)
 
+- [Los mosquitos Anopheles se alimentan de sangre humana desde hace casi 2 millones de años](https://www.elperiodico.com/es/ciencia/20260226/mosquitos-anopheles-sangre-humana-hace-2-millones-anos-homo-erectus-127318975) (Elperiodico.com)
+
+- [Mosquitoes May Have Been Feeding on Homo erectus 1.8 Million Years Ago](https://www.discovermagazine.com/mosquitoes-may-have-been-feeding-on-homo-erectus-1-8-million-years-ago-48740) (Discover Magazine)
+
+- [Mosquitos may have evolved a taste for human blood thanks to Homo erectus](https://www.scientificamerican.com/article/mosquitos-may-have-evolved-a-taste-for-human-blood-thanks-to-homo-erectus/) (Scientific American)
+
+- [Mosquitoes have been sucking our blood for 1.8 million years](http://www.popsci.com/environment/when-did-mosquitoes-start-biting-humans/) (Popular Science)
+
+- [Combining seasonal malaria chemoprevention with novel therapeutics for malaria prevention: a mathematical modelling study](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014021) (Plos.org)
+
 - [Host kinase regulation of Plasmodium vivax dormant and replicating liver stages](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014053) (Plos.org)
 
 - [Titans of Science: Jane Carlton](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/titans-science-jane-carlton) (The Naked Scientists)
@@ -238,11 +273,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (h5n1)
 
+- [Deadly Bird Flu Hits California Elephant Seal Colony](https://www.newser.com/story/384409/deadly-bird-flu-hits-california-elephant-seal-colony.html) (Newser)
+
 - [H5N1-Virus: Weitere Geflügelpestfälle in Niedersachsen entdeckt](https://www.zeit.de/news/2026-02/25/weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt) (Die Zeit)
 
 - [H5N1-Virus: Weitere Geflügelpestfälle in Niedersachsen entdeckt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/h5n1-virus--weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt-37170934.html) (STERN.de)
 
 ## 26-9 (dengue)
+
+- [Mosquitos may have evolved a taste for human blood thanks to Homo erectus](https://www.scientificamerican.com/article/mosquitos-may-have-evolved-a-taste-for-human-blood-thanks-to-homo-erectus/) (Scientific American)
 
 - [Unexpected diversification of DENV2 genotype III in Colombia: New Insights and application of the globalized nomenclature](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343528) (Plos.org)
 
@@ -2498,8 +2537,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
 
-- [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
-
 ## 26-3 (mpox)
 
 - [Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic](https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435) (International Business Times)
@@ -2539,8 +2576,6 @@ Source: [News API](https://newsapi.org/)
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
 
 - [Preocupación por la salud de Luis Canut, marido de Patricia Pérez](https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm) (Lavozdegalicia.es)
-
-- [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
 
@@ -2668,8 +2703,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Oregon Health Authority confirms first measles case of 2026](https://www.kdrv.com/news/top-stories/oregon-health-authority-confirms-first-measles-case-of-2026/article_df92450b-9aa4-446c-a7f4-9d1904c7680c.html) (KDRV)
 
-- [NC health officials report new measles case, urge vaccination](https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/) (WSOC Charlotte)
-
 ## 26-3 (malaria)
 
 - [A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation](https://www.nature.com/articles/s41467-026-68416-1) (Nature.com)
@@ -2685,8 +2718,6 @@ Source: [News API](https://newsapi.org/)
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
 
 - [The role of the spleen in red blood cell loss caused by malaria: A mathematical model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) (Plos.org)
-
-- [Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war](https://taz.de/Medizingeschichte/!6140151/) (taz.de)
 
 ## 26-3 (leptospirosis)
 
@@ -2761,8 +2792,6 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisadores denunciam "abandono" de laboratórios do Governo de SP](https://www.metropoles.com/sao-paulo/pesquisadores-abandono-laboratorios) (Metropoles.com)
 
 - [Bacolod: Negros Occidental dengue cases drop 26% in 2025](https://rpnradio.com/bacolod-negros-occidental-dengue-cases-drop-26-in-2025/) (Rpnradio.com)
-
-- [Elképesztő fogyása után a barátai sem ismertek rá, több mint 50 kilót adott le a háromgyermekes anyuka](https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/) (Index.hu)
 
 ## 26-3 (chikungunya)
 
