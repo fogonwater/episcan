@@ -1,8 +1,206 @@
 {
-  "last_updated": "2026-02-26 19:21",
-  "count_articles_total": 1228,
-  "count_articles_new": 10,
+  "last_updated": "2026-02-27 07:24",
+  "count_articles_total": 1244,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 27989,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are US measles cases rising? #health",
+      "description": "A resurgent virus and gaps in immunity Public health officials say a surge in measles this year reflects the virus finding pockets of people who are unvaccinated or under vaccinated. Measles is highly contagious: when it reaches communities with low coverage,\u2026",
+      "url": "https://alltoc.com/health/why-are-us-measles-cases-rising",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-02-26 06:10:25",
+      "content": "Public health officials say a surge in measles this year reflects the virus finding pockets of people who are unvaccinated or under-vaccinated. Measles is highly contagious: when it reaches communiti\u2026 [+1768 chars]",
+      "retrievedAt": "2026-02-27 07:24:20.563615",
+      "internal_id": "52cd74c056671ff0b5fcf7cadb12db7e9a836ae641a63835c7919bee10168fe4",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 27987,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What happens if a bat touches your hair?",
+      "description": "What Happens If a Bat Touches Your Hair? What happens if a bat touches your hair? The immediate reaction is likely fear and panic, but the actual risk is low; however, it\u2019s essential to carefully inspect the area for any bites or scratches, as rabies transmis\u2026",
+      "url": "https://www.lifesciencesworld.com/what-happens-if-a-bat-touches-your-hair/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-26 05:04:33",
+      "content": "What happens if a bat touches your hair?The immediate reaction is likely fear and panic, but the actual risk is low; however, its essential to carefully inspect the area for any bites or scratches, a\u2026 [+8407 chars]",
+      "retrievedAt": "2026-02-27 07:24:19.991946",
+      "internal_id": "fd6326efd7fe4a9a51bc39cae0c5bf7bbb809ee0bb392e6065032b99057ed754",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 27996,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Mpox: DF tem 80 doses da vacina; saiba quem pode receber o imunizante",
+      "description": "Vacina\u00e7\u00e3o no DF \u00e9 limitada a pessoas com HIV e grupos de risco. \u00danico caso confirmado em 2026 evoluiu sem interna\u00e7\u00e3o",
+      "url": "https://www.metropoles.com/distrito-federal/mpox-df-tem-80-doses-da-vacina-saiba-quem-pode-receber-o-imunizante",
+      "urlToImage": "https://images.metroimg.com/2025/03/10134104/Mpox-4.jpg",
+      "publishedAt": "2026-02-25 23:55:58",
+      "content": "A Secret\u00e1ria de Sa\u00fade do Distrito Federal (SES-DF) informou ao Metr\u00f3poles que disp\u00f5e atualmente de 80 doses da vacina contra a mpox, destinadas a p\u00fablicos espec\u00edficos. Do total de imunizantes, 68 est\u2026 [+2097 chars]",
+      "retrievedAt": "2026-02-27 07:24:23.004884",
+      "internal_id": "49933ed8b92424cc8aba99f0028e2ecd6aba80ba7929791a6f6f4f2334d92083",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27991,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Globalresearch.ca",
+      "author": "Nicolas Hulscher",
+      "title": "BREAKING: ResearchGate Deleted Our MMR Vaccine Death Study for Posing \u201ca Threat to Public Security or Public Health\u201d",
+      "description": "The vaccine cartel does NOT want you to know that CDC data shows MMR/MMRV shots are linked to 2,657% more U.S. deaths than measles since 1995. * Last week, we uploaded our completed MMR vaccine death study of the CDC \u2026 The post BREAKING: ResearchGate Deleted \u2026",
+      "url": "https://www.globalresearch.ca/breaking-researchgate-deleted-mmr-vaccine-death-study/5917117",
+      "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2019/03/No-Association-Found-Between-MMR-Vaccine-and-Autism.jpg",
+      "publishedAt": "2026-02-25 23:09:33",
+      "content": "The vaccine cartel does NOT want you to know that CDC data shows MMR/MMRV shots are linked to 2,657% more U.S. deaths than measles since 1995. * Last week, we uploaded our completed MMR vaccine dea\u2026 [+2856 chars]",
+      "retrievedAt": "2026-02-27 07:24:20.737442",
+      "internal_id": "20a5fc04937ec76eef7811303893f73fc23d0c488bfb670a6b180e91d98457aa",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27988,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Trump's surgeon general pick won't commit outright to vaccines, and other key takeaways",
+      "description": "Casey Means was questioned in a confirmation hearing on everything from her stance on the flu shot to her lack of an active medical licence.",
+      "url": "https://www.bbc.com/news/articles/c9q5y2yqw2zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9862/live/562140d0-128b-11f1-9ed8-8ba6f7bee3c8.jpg",
+      "publishedAt": "2026-02-25 23:05:56",
+      "content": "When asked many times if, as surgeon general, she would advocate for everyone in the US to be immunised against a number of illnesses, including measles, Hepatitis B, and the flu, Means often would n\u2026 [+9 chars]",
+      "retrievedAt": "2026-02-27 07:24:20.482508",
+      "internal_id": "efef43398f187915425c9e2b100650ef405ad2641e95209331b0ad5fbedb4dce",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27995,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "GlobeNewswire",
+      "title": "ACTG Announces Publication of STOMP Results in the New England Journal of Medicine",
+      "description": "Study findings do not support routine use of tecovirimat in people with mpox CHAPEL HILL, N.C., Feb. 25, 2026 (GLOBE NEWSWIRE) \u2014 ACTG, a global clinical trials network focused on HIV and other infectious diseases, today announced the publication of \u201cTecovirim\u2026",
+      "url": "https://financialpost.com/globe-newswire/actg-announces-publication-of-stomp-results-in-the-new-england-journal-of-medicine",
+      "urlToImage": null,
+      "publishedAt": "2026-02-25 22:36:31",
+      "content": "Study findings do not support routine use of tecovirimat in people with mpox THIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY Subscribe now to read the latest news in your city and across Canada. <ul\u2026 [+5388 chars]",
+      "retrievedAt": "2026-02-27 07:24:22.958952",
+      "internal_id": "48c05874ed6439202f5572c8d5e7ed743fe35467fd8df55f735494169355a5b4",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27994,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "ACTG",
+      "title": "ACTG Announces Publication of STOMP Results in the New England Journal of Medicine",
+      "description": "ACTG today announced the publication of \u201cTecovirimat for the Treatment of Mpox (STOMP)\" in NEJM....",
+      "url": "https://www.globenewswire.com/news-release/2026/02/25/3245122/0/en/ACTG-Announces-Publication-of-STOMP-Results-in-the-New-England-Journal-of-Medicine.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/1e94313a-1d33-49e8-bd5e-fd0c911661c9",
+      "publishedAt": "2026-02-25 22:34:00",
+      "content": "CHAPEL HILL, N.C., Feb. 25, 2026 (GLOBE NEWSWIRE) -- ACTG, a global clinical trials network focused on HIV and other infectious diseases, today announced the publication of Tecovirimat for the Treatm\u2026 [+4929 chars]",
+      "retrievedAt": "2026-02-27 07:24:22.934810",
+      "internal_id": "e8e561de92625b52ef9a585aadfeec77cbbdfadf5a9cba90431f2ed735a38bfd",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27997,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Carly Cassella",
+      "title": "Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Scientists Warn",
+      "description": "Despite having plagued humans for millennia, typhoid fever is rarely considered a threat in developed countries today.",
+      "url": "https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-scientists-warn",
+      "urlToImage": "https://www.sciencealert.com/images/2025/11/SalmonellaTyphiFlagellarStain-1.jpg",
+      "publishedAt": "2026-02-25 20:12:11",
+      "content": "Despite having plagued humans for millennia, typhoid fever is rarely considered a threat in developed countries today. But this ancient killer is still very much a danger in our modern world. Resear\u2026 [+5100 chars]",
+      "retrievedAt": "2026-02-27 07:24:23.186397",
+      "internal_id": "0c53a3d9967356d34019fc747c9669d45116d8e0a0170d6d4f26a118eb68c440",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27990,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "ANNE GARBER | Health reporter",
+      "title": "8th person in Lancaster County diagnosed with measles this month",
+      "description": "An eighth Lancaster County resident has been diagnosed with measles, the state Department of Health reported today, bringing the total among Pennsylvania residents in 2026 to 12.",
+      "url": "https://lancasteronline.com/news/health/8th-person-in-lancaster-county-diagnosed-with-measles-this-month/article_d5aa8280-2b42-4090-aa65-342006aafbc8.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/67/667294f2-6c4d-11e9-b2c5-af037d34783d/5cc9fde0a0ad7.image.jpg?crop=1200%2C630%2C0%2C76",
+      "publishedAt": "2026-02-25 19:57:00",
+      "content": "An eighth Lancaster County resident has been diagnosed with measles, the state Department of Health reported today, bringing the total among Pennsylvania residents in 2026 to 12. In addition to the \u2026 [+1922 chars]",
+      "retrievedAt": "2026-02-27 07:24:20.701852",
+      "internal_id": "34d7846555fb8dea4bb823476a4d1ef144a4e6302994e8316cecacb120c6cb77",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27992,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "H5N1-Virus: Weitere Gefl\u00fcgelpestf\u00e4lle in Niedersachsen entdeckt",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eH5N1-Virus\u201c. Lesen Sie jetzt \u201eWeitere Gefl\u00fcgelpestf\u00e4lle in Niedersachsen entdeckt\u201c.",
+      "url": "https://www.zeit.de/news/2026-02/25/weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt",
+      "urlToImage": "https://img.zeit.de/news/2026-02/25/weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt-image-group/wide__1300x731",
+      "publishedAt": "2026-02-25 19:52:46",
+      "content": "In Niedersachsen sind weitere Gefl\u00fcgelpestf\u00e4lle festgestellt worden. In einem Putenbetrieb in der Gemeinde Emstek im Landkreis Cloppenburg wurde das hochansteckende Virus H5N1 nachgewiesen, wie der L\u2026 [+1755 chars]",
+      "retrievedAt": "2026-02-27 07:24:21.263757",
+      "internal_id": "6d6a87cb209d29f4576672145272521293e1360a425967e4bcff0e77b2f2aa53",
+      "publishedAtLabel": "Feb 25"
+    },
+    {
+      "id": 27993,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "H5N1-Virus: Weitere Gefl\u00fcgelpestf\u00e4lle in Niedersachsen entdeckt",
+      "description": "3.800 Puten get\u00f6tet, Sperrzonen eingerichtet: Die Gefl\u00fcgelpest breitet sich in Niedersachsen weiter aus. Warum Experten das Infektionsrisiko f\u00fcr Hausgefl\u00fcgel als weiterhin sehr hoch einstufen.",
+      "url": "https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/h5n1-virus--weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt-37170934.html",
+      "urlToImage": "https://image.stern.de/37170936/t/ip/v1/w1440/r1.7778/-/25--gsatcxe7ijv7axs2048jpeg---060b3cc049f5a124.jpg",
+      "publishedAt": "2026-02-25 19:52:46",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen 3.800 Puten get\u00f6tet, Sperrzonen eingerichtet: Die Gefl\u00fcgelpest breitet sich in Niedersachsen weiter aus. Warum Experten das Infektionsrisiko f\u00fcr \u2026 [+1963 chars]",
+      "retrievedAt": "2026-02-27 07:24:21.276676",
+      "internal_id": "665cdf6e0c8d0cb4abe7541c5facb025d8ca5d23b59f45700dd4ece301f5221b",
+      "publishedAtLabel": "Feb 25"
+    },
     {
       "id": 27978,
       "query": [
@@ -22137,6 +22335,96 @@
       "content": "Do these genetic scientists have a death wish for the human species or are they just plain stupid? This study confirms lab-made hybrid H5N1 strain invades immune cells, replicates in human blood, spr\u2026 [+8143 chars]",
       "retrievedAt": "2026-01-13 07:11:30.804467",
       "internal_id": "097a47e5d2c9f95f9335f9f635f26fbb59957cfd5ddbc0ff7c4b9595b0d7847b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26755,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Luna-Sz\u00e1sz D\u00e1vid",
+      "title": "Elk\u00e9peszt\u0151 fogy\u00e1sa ut\u00e1n a bar\u00e1tai sem ismertek r\u00e1, t\u00f6bb mint 50 kil\u00f3t adott le a h\u00e1romgyermekes anyuka",
+      "description": "Mindek\u00f6zbenDanielle Davies, h\u00e1romgyermekes anyuka \u00e9lete legnagyobb v\u00e1ltoz\u00e1s\u00e1n ment kereszt\u00fcl, miut\u00e1n felismerte, hogy nem teljesen ...",
+      "url": "https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/",
+      "urlToImage": "http://kep.cdn.index.hu/1/0/6689/66894/668946/66894623_e2298f267c0a7330331dc894c177cb58_wm.jpg",
+      "publishedAt": "2026-01-11 17:22:12",
+      "content": "Egy 26 \u00e9ves fiatal n, Gina Donner sz\u00e1m\u00e1ra \u00e9lete egyik legszebb utaz\u00e1sa majdnem trag\u00e9di\u00e1val v\u00e9gzd\u00f6tt. A Mald\u00edv-szigeteken t\u00f6lt\u00f6tt sz\u00fclet\u00e9snapi nyaral\u00e1sa alatt ugyanis dengue-l\u00e1zban betegedett meg, ami\u2026 [+1085 chars]",
+      "retrievedAt": "2026-01-12 19:08:46.057091",
+      "internal_id": "b5053ad3c350c1af61177942aeb62ea3fca92214ab44093f27c4592e0851ad1b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26754,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "NC health officials report new measles case, urge vaccination",
+      "description": "The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday.",
+      "url": "https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJCQYSTWUPVHK5GKKAGHXTNQPLE.jpeg?auth=c81912f287e5acc6e1630e21f625021cebe154536a16708f3e4a13abae862bc9&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-11 16:32:50",
+      "content": "CHARLOTTE \u2014 The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday. NCDHHS identified a new case of measles in Rutherford County, bringing t\u2026 [+1521 chars]",
+      "retrievedAt": "2026-01-12 19:08:45.378911",
+      "internal_id": "886149c0ae5d88f21d5f08678dd358c0000fae0d9b6f2394caf46e478b66aaf5",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26757,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Rumeysa Ceylan",
+      "title": "Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war",
+      "description": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich.",
+      "url": "https://taz.de/Medizingeschichte/!6140151/",
+      "urlToImage": "https://taz.de/picture/8172514/1200/357414470-c4f6bb55bc.jpeg",
+      "publishedAt": "2026-01-11 14:26:00",
+      "content": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich. mehr...",
+      "retrievedAt": "2026-01-12 19:08:46.612929",
+      "internal_id": "2972403595efc4452eae2e33e5edc7c705ddd465101f46b2af7fc423e0d1cf4a",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26756,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Kaitlin Sullivan",
+      "title": "As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated",
+      "description": "The CDC is no longer recommending that all adolescents and teens get vaccinated for potentially fatal bacterial meningitis, although the shots are still available for high-risk patients.",
+      "url": "https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260110-vaccine-stock-ch-1059-15f3d7.jpg",
+      "publishedAt": "2026-01-11 12:00:00",
+      "content": "Deaths from a rare and dangerous bacterial infection could rise if fewer teens are vaccinated, doctors warn. After the Centers for Disease Control and Prevention recommended that all adolescents get\u2026 [+8686 chars]",
+      "retrievedAt": "2026-01-12 19:08:46.335031",
+      "internal_id": "9bf9b807e073cddb16b8cab0b8d788c30d3c1ab00f7bfd861fe3e2abb824e2a9",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26753,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Devi Nindy, Raka Adji",
+      "title": "Banten rabies-free for 14 consecutive years with strict surveillance",
+      "description": "The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high ...",
+      "url": "https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/01/11/1000811575.jpg",
+      "publishedAt": "2026-01-11 11:59:52",
+      "content": "Serang, Banten (ANTARA) - The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high reports of rabies-\u2026 [+2011 chars]",
+      "retrievedAt": "2026-01-12 19:08:45.027981",
+      "internal_id": "f6f8a398248ebe937a41f6af67ef5534c0a6d3f83026fd38e47703fab8a19ce7",
       "publishedAtLabel": "Jan 11"
     }
   ]

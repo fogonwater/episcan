@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-02-26 19:21
-- **Most recent article:** 2026-02-25 17:55:01
+- **New articles in last harvest:** 11
+- **Last harvest:** 2026-02-27 07:24
+- **Most recent article:** 2026-02-26 06:10:25
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 62 | 88 | 76 | 107 | 112 | 111 | 44 | 600 |
-| dengue | 21 | 27 | 16 | 16 | 24 | 17 | 11 | 132 |
-| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 17 | 91 |
-| rabies | 9 | 12 | 10 | 11 | 16 | 16 | 9 | 83 |
-| h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 0 | 82 |
+| measles | 63 | 88 | 76 | 107 | 112 | 111 | 48 | 605 |
+| dengue | 22 | 27 | 16 | 16 | 24 | 17 | 11 | 133 |
+| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 20 | 94 |
+| rabies | 10 | 12 | 10 | 11 | 16 | 16 | 10 | 85 |
+| h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 2 | 84 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 3 | 81 |
-| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 5 | 66 |
-| meningitis | 9 | 2 | 7 | 4 | 7 | 3 | 3 | 35 |
+| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 5 | 67 |
+| meningitis | 10 | 2 | 7 | 4 | 7 | 3 | 3 | 36 |
 | zika | 6 | 3 | 7 | 0 | 3 | 3 | 1 | 23 |
 | leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 2 | 22 |
 | hpai | 3 | 4 | 3 | 1 | 3 | 1 | 2 | 17 |
 | yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 0 | 15 |
-| typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 1 | 9 |
+| typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 2 | 10 |
 | pertussis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
 
 
@@ -38,9 +38,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (typhoid)
 
+- [Ancient Killer Is Rapidly Gaining Resistance to Antibiotics, Scientists Warn](https://www.sciencealert.com/ancient-killer-is-rapidly-gaining-resistance-to-antibiotics-scientists-warn) (ScienceAlert)
+
 - [Country-level perspectives and priorities to guide the development of Invasive non-Typhoidal Salmonella (iNTS) vaccines: Insights from seven countries](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014012) (Plos.org)
 
 ## 26-9 (rabies)
+
+- [What happens if a bat touches your hair?](https://www.lifesciencesworld.com/what-happens-if-a-bat-touches-your-hair/) (Lifesciencesworld.com)
 
 - [Bitten by a dog? Doctor shares 10-day rabies rule and how prevention works, after Maharashtra's youth dies](https://economictimes.indiatimes.com/magazines/panache/bitten-by-a-dog-doctor-shares-10-day-rabies-rule-and-how-prevention-works-after-maharashtras-youth-dies/articleshow/128773028.cms) (The Times of India)
 
@@ -61,6 +65,12 @@ Source: [News API](https://newsapi.org/)
 - [What to do if a possum bites your dog?](https://www.lifesciencesworld.com/what-to-do-if-a-possum-bites-your-dog/) (Lifesciencesworld.com)
 
 ## 26-9 (mpox)
+
+- [Mpox: DF tem 80 doses da vacina; saiba quem pode receber o imunizante](https://www.metropoles.com/distrito-federal/mpox-df-tem-80-doses-da-vacina-saiba-quem-pode-receber-o-imunizante) (Metropoles.com)
+
+- [ACTG Announces Publication of STOMP Results in the New England Journal of Medicine](https://financialpost.com/globe-newswire/actg-announces-publication-of-stomp-results-in-the-new-england-journal-of-medicine) (Financial Post)
+
+- [ACTG Announces Publication of STOMP Results in the New England Journal of Medicine](https://www.globenewswire.com/news-release/2026/02/25/3245122/0/en/ACTG-Announces-Publication-of-STOMP-Results-in-the-New-England-Journal-of-Medicine.html) (GlobeNewswire)
 
 - [Casos de mpox no Brasil crescem 83% em uma semana e total chega a 88](https://valor.globo.com/brasil/noticia/2026/02/25/casos-de-mpox-no-brasil-crescem-83percent-em-uma-semana-e-total-chega-a-88.ghtml) (Globo)
 
@@ -105,6 +115,14 @@ Source: [News API](https://newsapi.org/)
 - [Súlyos betegség bukkant fel: több gennyes agyhártyagyulladásos beteget találtak Magyarországon](https://www.origo.hu/itthon/2026/02/gennyes-agyhartyagyulladas-fertozes-magyarorszag) (Origo.hu)
 
 ## 26-9 (measles)
+
+- [Why are US measles cases rising? #health](https://alltoc.com/health/why-are-us-measles-cases-rising) (Alltoc.com)
+
+- [BREAKING: ResearchGate Deleted Our MMR Vaccine Death Study for Posing “a Threat to Public Security or Public Health”](https://www.globalresearch.ca/breaking-researchgate-deleted-mmr-vaccine-death-study/5917117) (Globalresearch.ca)
+
+- [Trump's surgeon general pick won't commit outright to vaccines, and other key takeaways](https://www.bbc.com/news/articles/c9q5y2yqw2zo) (BBC News)
+
+- [8th person in Lancaster County diagnosed with measles this month](https://lancasteronline.com/news/health/8th-person-in-lancaster-county-diagnosed-with-measles-this-month/article_d5aa8280-2b42-4090-aa65-342006aafbc8.html) (LancasterOnline)
 
 - [Columbus measles outbreak confirmed. Here's what we know (The Columbus Dispatch)](https://www.memeorandum.com/260225/p66) (Memeorandum.com)
 
@@ -217,6 +235,12 @@ Source: [News API](https://newsapi.org/)
 - [Tiere: Geflügelpest bei zwei Wildvögeln in Regensburg festgestellt](https://www.zeit.de/news/2026-02/24/gefluegelpest-bei-zwei-wildvoegeln-in-regensburg-festgestellt) (Die Zeit)
 
 - [Pa. and USDA deploy resources to control latest avian flu outbreak](https://www.northcentralpa.com/business/pa-and-usda-deploy-resources-to-control-latest-avian-flu-outbreak/article_1b3ae5d7-1a2f-473c-9e57-6085efa1fe02.html) (NorthcentralPa.com)
+
+## 26-9 (h5n1)
+
+- [H5N1-Virus: Weitere Geflügelpestfälle in Niedersachsen entdeckt](https://www.zeit.de/news/2026-02/25/weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt) (Die Zeit)
+
+- [H5N1-Virus: Weitere Geflügelpestfälle in Niedersachsen entdeckt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/h5n1-virus--weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt-37170934.html) (STERN.de)
 
 ## 26-9 (dengue)
 
@@ -2474,6 +2498,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
 
+- [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
+
 ## 26-3 (mpox)
 
 - [Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic](https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435) (International Business Times)
@@ -2513,6 +2539,8 @@ Source: [News API](https://newsapi.org/)
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
 
 - [Preocupación por la salud de Luis Canut, marido de Patricia Pérez](https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm) (Lavozdegalicia.es)
+
+- [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
 
@@ -2640,6 +2668,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Oregon Health Authority confirms first measles case of 2026](https://www.kdrv.com/news/top-stories/oregon-health-authority-confirms-first-measles-case-of-2026/article_df92450b-9aa4-446c-a7f4-9d1904c7680c.html) (KDRV)
 
+- [NC health officials report new measles case, urge vaccination](https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/) (WSOC Charlotte)
+
 ## 26-3 (malaria)
 
 - [A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation](https://www.nature.com/articles/s41467-026-68416-1) (Nature.com)
@@ -2655,6 +2685,8 @@ Source: [News API](https://newsapi.org/)
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
 
 - [The role of the spleen in red blood cell loss caused by malaria: A mathematical model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) (Plos.org)
+
+- [Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war](https://taz.de/Medizingeschichte/!6140151/) (taz.de)
 
 ## 26-3 (leptospirosis)
 
@@ -2729,6 +2761,8 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisadores denunciam "abandono" de laboratórios do Governo de SP](https://www.metropoles.com/sao-paulo/pesquisadores-abandono-laboratorios) (Metropoles.com)
 
 - [Bacolod: Negros Occidental dengue cases drop 26% in 2025](https://rpnradio.com/bacolod-negros-occidental-dengue-cases-drop-26-in-2025/) (Rpnradio.com)
+
+- [Elképesztő fogyása után a barátai sem ismertek rá, több mint 50 kilót adott le a háromgyermekes anyuka](https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/) (Index.hu)
 
 ## 26-3 (chikungunya)
 
