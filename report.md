@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-02-28 07:12
-- **Most recent article:** 2026-02-27 06:25:18
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-02-28 19:08
+- **Most recent article:** 2026-02-27 19:06:00
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 63 | 88 | 76 | 107 | 112 | 111 | 57 | 614 |
-| dengue | 22 | 27 | 16 | 16 | 24 | 17 | 13 | 135 |
-| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 25 | 99 |
-| rabies | 10 | 12 | 10 | 11 | 16 | 16 | 11 | 86 |
+| measles | 62 | 88 | 76 | 107 | 112 | 111 | 67 | 623 |
+| dengue | 21 | 27 | 16 | 16 | 24 | 17 | 13 | 134 |
+| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 26 | 100 |
+| rabies | 9 | 12 | 10 | 11 | 16 | 16 | 12 | 86 |
 | h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 3 | 85 |
-| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 4 | 82 |
-| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 11 | 73 |
-| meningitis | 10 | 2 | 7 | 4 | 7 | 3 | 5 | 38 |
+| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 6 | 84 |
+| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 11 | 72 |
+| meningitis | 9 | 2 | 7 | 4 | 7 | 3 | 5 | 37 |
+| zika | 6 | 3 | 7 | 0 | 3 | 3 | 2 | 24 |
 | leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 3 | 23 |
-| zika | 6 | 3 | 7 | 0 | 3 | 3 | 1 | 23 |
 | hpai | 3 | 4 | 3 | 1 | 3 | 1 | 2 | 17 |
-| yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 0 | 15 |
+| yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 1 | 16 |
 | typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 2 | 10 |
 | pertussis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
@@ -35,7 +35,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (zika)
 
+- [Carolini Kaid quer usar o vírus da Zika contra tumores cerebrais](https://super.abril.com.br/coluna/mulher_cientista/carolini-kaid-quer-usar-o-virus-da-zika-contra-tumores-cerebrais/) (Abril.com.br)
+
 - [Chikungunya, dengue, Zika : ces virus tropicaux pourraient s’implanter chez nous dans les prochaines décennies](https://www.rtbf.be/article/chikungunya-dengue-zika-ces-virus-tropicaux-pourraient-s-implanter-chez-nous-dans-les-prochaines-decennies-11682267) (RTBF)
+
+## 26-9 (yersinia)
+
+- [Plasma albumin contributes to early Yersinia pestis survival at the onset of flea infection](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014022) (Plos.org)
 
 ## 26-9 (typhoid)
 
@@ -48,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 - [County Health Department reports noticeable rise in Shigella bacterial infection](https://www.bupipedream.com/news/county-health-department-reports-noticeable-rise-in-shigella-bacterial-infection/176178/) (Bupipedream.com)
 
 ## 26-9 (rabies)
+
+- [Maharashtra: Thane civic body flags off ‘Rabies Free’ campaign](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-thane-civic-body-flags-off-rabies-free-campaign/articleshow/128862215.cms) (The Times of India)
 
 - [Can raccoons be vaccinated against rabies?](https://www.lifesciencesworld.com/can-raccoons-be-vaccinated-against-rabies/) (Lifesciencesworld.com)
 
@@ -72,6 +80,8 @@ Source: [News API](https://newsapi.org/)
 - [What to do if a possum bites your dog?](https://www.lifesciencesworld.com/what-to-do-if-a-possum-bites-your-dog/) (Lifesciencesworld.com)
 
 ## 26-9 (mpox)
+
+- [Mpox: novo estado confirma caso; saiba tamanho atual do surto no Brasil](https://veja.abril.com.br/saude/mpox-novo-estado-confirma-caso-saiba-tamanho-atual-do-surto-no-brasil/) (Abril.com.br)
 
 - [Mpox: SP registra novo caso e paciente cumpre quarentena em casa](https://www.metropoles.com/sao-paulo/mpox-sp-novo-caso-paciente-quarentena) (Metropoles.com)
 
@@ -137,6 +147,24 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (measles)
 
+- [Why might the US lose measles elimination status? #health](https://alltoc.com/health/why-might-the-us-lose-measles-elimination-status) (Alltoc.com)
+
+- [Measles cases skyrocket in Manitoba, with 139 in February](https://www.cbc.ca/news/canada/manitoba/measles-cases-soar-february-9.7108314) (CBC News)
+
+- [U.S. Has More Than 1,100 Measles Cases](https://politicalwire.com/2026/02/27/u-s-has-more-than-1000-measles-cases/) (Politicalwire.com)
+
+- [Massachusetts reports first measles cases of year: ‘Getting vaccinated is the best way for people to protect themselves’](https://www.bostonherald.com/2026/02/27/massachusetts-reports-first-measles-cases-of-year-getting-vaccinated-is-the-best-way-for-people-to-protect-themselves/) (Boston Herald)
+
+- [US surpasses 1,000 measles cases for the 3rd time in 26 years, CDC data shows](https://abcnews.com/Health/us-surpasses-1000-measles-cases-3rd-time-26/story?id=130558921) (Abcnews.com)
+
+- [The US has surpassed 1,100 measles cases in two months. Expect more deaths next | CNN](https://www.cnn.com/2026/02/27/health/measles-thousand-cases-deaths) (CNN)
+
+- [Why is the US losing measles elimination status? #health](https://alltoc.com/health/why-is-the-us-losing-measles-elimination-status) (Alltoc.com)
+
+- [Two SIA transit passengers infected with measles before arrival in Singapore: CDA](https://www.channelnewsasia.com/singapore/measles-sia-flight-passengers-developed-symptoms-new-zealand-cda-5958586) (CNA)
+
+- [Why is the US about to lose measles elimination status? #health](https://alltoc.com/health/why-is-the-us-about-to-lose-measles-elimination-status) (Alltoc.com)
+
 - [laser.measles 0.9.1](https://pypi.org/project/laser.measles/) (Pypi.org)
 
 - [2 Months Into 2026 We Are Over Half 2025’s Total Count Of Measles Cases](https://www.techdirt.com/2026/02/26/2-months-into-2026-we-are-over-half-2025s-total-count-of-measles-cases/) (Techdirt)
@@ -192,6 +220,8 @@ Source: [News API](https://newsapi.org/)
 - [Hospitals Fighting Measles Confront a Challenge: Few Doctors Have Seen It Before](https://kffhealthnews.org/news/article/measles-outbreak-cdc-carolina-sc-nc-vaccines/) (Kffhealthnews.org)
 
 - [NHS Grampian confirms first case of measles since 2014](https://www.bbc.com/news/articles/cx24xk1d68lo) (BBC News)
+
+- [EWTN News explains: Where does the Catholic Church stand on vaccines?](https://www.ewtnnews.com/world/us/where-does-the-catholic-church-stand-on-vaccines) (Ewtnnews.com)
 
 - [Indonesia steps up measles surveillance after alert](https://en.antaranews.com/news/405794/indonesia-steps-up-measles-surveillance-after-alert) (Antaranews.com)
 
@@ -326,6 +356,10 @@ Source: [News API](https://newsapi.org/)
 - [Un antiviral chez les moustiques favorise la dengue](https://www.techno-science.net/actualite/antiviral-chez-moustiques-favorise-dengue-N28316.html) (Techno-science.net)
 
 ## 26-9 (chikungunya)
+
+- [Aumentam casos de "chikungunya" em viajantes](https://observador.pt/2026/02/27/aumentam-casos-de-chikungunya-em-viajantes-mas-risco-na-europa-e-baixo/) (Observador.pt)
+
+- [El ECDC notifica más de 70 casos de chikungunya entre viajeros que regresan de Seychelles a Europa desde noviembre](https://www.infosalus.com/salud-investigacion/noticia-ecdc-notifica-mas-70-casos-chikungunya-viajeros-regresan-seychelles-europa-noviembre-20260227111735.html) (Infosalus.com)
 
 - [Bolivia confirms 5th death from Chikungunya fever as cases spike](https://www.thestar.com.my/news/world/2026/02/27/bolivia-confirms-5th-death-from-chikungunya-fever-as-cases-spike) (The Star Online)
 
@@ -2559,8 +2593,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
 
-- [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
-
 ## 26-3 (mpox)
 
 - [Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic](https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435) (International Business Times)
@@ -2600,8 +2632,6 @@ Source: [News API](https://newsapi.org/)
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
 
 - [Preocupación por la salud de Luis Canut, marido de Patricia Pérez](https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm) (Lavozdegalicia.es)
-
-- [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
 
@@ -2729,8 +2759,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Oregon Health Authority confirms first measles case of 2026](https://www.kdrv.com/news/top-stories/oregon-health-authority-confirms-first-measles-case-of-2026/article_df92450b-9aa4-446c-a7f4-9d1904c7680c.html) (KDRV)
 
-- [NC health officials report new measles case, urge vaccination](https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/) (WSOC Charlotte)
-
 ## 26-3 (malaria)
 
 - [A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation](https://www.nature.com/articles/s41467-026-68416-1) (Nature.com)
@@ -2746,8 +2774,6 @@ Source: [News API](https://newsapi.org/)
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
 
 - [The role of the spleen in red blood cell loss caused by malaria: A mathematical model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) (Plos.org)
-
-- [Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war](https://taz.de/Medizingeschichte/!6140151/) (taz.de)
 
 ## 26-3 (leptospirosis)
 
@@ -2822,8 +2848,6 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisadores denunciam "abandono" de laboratórios do Governo de SP](https://www.metropoles.com/sao-paulo/pesquisadores-abandono-laboratorios) (Metropoles.com)
 
 - [Bacolod: Negros Occidental dengue cases drop 26% in 2025](https://rpnradio.com/bacolod-negros-occidental-dengue-cases-drop-26-in-2025/) (Rpnradio.com)
-
-- [Elképesztő fogyása után a barátai sem ismertek rá, több mint 50 kilót adott le a háromgyermekes anyuka](https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/) (Index.hu)
 
 ## 26-3 (chikungunya)
 
