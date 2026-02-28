@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2026-02-27 19:17
-- **Most recent article:** 2026-02-26 19:05:02
+- **New articles in last harvest:** 11
+- **Last harvest:** 2026-02-28 07:12
+- **Most recent article:** 2026-02-27 06:25:18
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-3 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 62 | 88 | 76 | 107 | 112 | 111 | 53 | 609 |
-| dengue | 21 | 27 | 16 | 16 | 24 | 17 | 12 | 133 |
-| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 23 | 97 |
+| measles | 63 | 88 | 76 | 107 | 112 | 111 | 57 | 614 |
+| dengue | 22 | 27 | 16 | 16 | 24 | 17 | 13 | 135 |
+| mpox | 9 | 11 | 4 | 11 | 14 | 25 | 25 | 99 |
+| rabies | 10 | 12 | 10 | 11 | 16 | 16 | 11 | 86 |
 | h5n1 | 8 | 17 | 22 | 12 | 12 | 11 | 3 | 85 |
-| rabies | 9 | 12 | 10 | 11 | 16 | 16 | 10 | 84 |
-| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 3 | 81 |
-| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 10 | 71 |
-| meningitis | 9 | 2 | 7 | 4 | 7 | 3 | 5 | 37 |
+| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 4 | 82 |
+| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 11 | 73 |
+| meningitis | 10 | 2 | 7 | 4 | 7 | 3 | 5 | 38 |
+| leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 3 | 23 |
 | zika | 6 | 3 | 7 | 0 | 3 | 3 | 1 | 23 |
-| leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 2 | 22 |
 | hpai | 3 | 4 | 3 | 1 | 3 | 1 | 2 | 17 |
 | yersinia | 4 | 2 | 5 | 1 | 2 | 1 | 0 | 15 |
 | typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 2 | 10 |
@@ -49,6 +49,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (rabies)
 
+- [Can raccoons be vaccinated against rabies?](https://www.lifesciencesworld.com/can-raccoons-be-vaccinated-against-rabies/) (Lifesciencesworld.com)
+
 - [What happens if a bat touches your hair?](https://www.lifesciencesworld.com/what-happens-if-a-bat-touches-your-hair/) (Lifesciencesworld.com)
 
 - [Bitten by a dog? Doctor shares 10-day rabies rule and how prevention works, after Maharashtra's youth dies](https://economictimes.indiatimes.com/magazines/panache/bitten-by-a-dog-doctor-shares-10-day-rabies-rule-and-how-prevention-works-after-maharashtras-youth-dies/articleshow/128773028.cms) (The Times of India)
@@ -70,6 +72,10 @@ Source: [News API](https://newsapi.org/)
 - [What to do if a possum bites your dog?](https://www.lifesciencesworld.com/what-to-do-if-a-possum-bites-your-dog/) (Lifesciencesworld.com)
 
 ## 26-9 (mpox)
+
+- [Mpox: SP registra novo caso e paciente cumpre quarentena em casa](https://www.metropoles.com/sao-paulo/mpox-sp-novo-caso-paciente-quarentena) (Metropoles.com)
+
+- [Mpox e outros vírus em alerta: entenda se o Brasil está preparado para uma nova pandemia](https://www.terra.com.br/vida-e-estilo/saude/mpox-e-outros-virus-em-alerta-entenda-se-o-brasil-esta-preparado-para-uma-nova-pandemia,4726e8dc76c85dda610202de931591977rsbar6m.html) (Terra.com.br)
 
 - [Mpox e outros vírus em alerta: entenda se o Brasil está preparado para uma nova pandemia](https://catracalivre.com.br/saude-bem-estar/mpox-e-outros-virus-em-alerta-entenda-se-o-brasil-esta-preparado-para-uma-nova-pandemia/) (Catracalivre.com.br)
 
@@ -130,6 +136,14 @@ Source: [News API](https://newsapi.org/)
 - [Súlyos betegség bukkant fel: több gennyes agyhártyagyulladásos beteget találtak Magyarországon](https://www.origo.hu/itthon/2026/02/gennyes-agyhartyagyulladas-fertozes-magyarorszag) (Origo.hu)
 
 ## 26-9 (measles)
+
+- [laser.measles 0.9.1](https://pypi.org/project/laser.measles/) (Pypi.org)
+
+- [2 Months Into 2026 We Are Over Half 2025’s Total Count Of Measles Cases](https://www.techdirt.com/2026/02/26/2-months-into-2026-we-are-over-half-2025s-total-count-of-measles-cases/) (Techdirt)
+
+- [The Pitt Season 2, Episode 8 Recap: Santos And Langdon Finally Reunite](https://screenrant.com/the-pitt-season-2-episode-8-ending-explained/) (Screen Rant)
+
+- [Third measles case linked to overseas travel in Auckland; Health NZ lists new exposure sites](https://www.nzherald.co.nz/nz/third-measles-case-linked-to-overseas-travel-in-auckland-health-nz-lists-new-exposure-sites/FWFWCHTWAJARZNPEU5UX5764AY/) (New Zealand Herald)
 
 - [A Shot Of Truth: Why Combating Measles Misinformation Protects Us All](https://www.forbes.com/sites/bernadettebodenalbala/2026/02/26/a-shot-of-truth-why-combating-measles-misinformation-protects-us-all/) (Forbes)
 
@@ -239,6 +253,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (malaria)
 
+- [Científicos descubren el origen de la preferencia de los mosquitos por la sangre humana](https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html) (Okdiario.com)
+
 - [Los mosquitos Anopheles se alimentan de sangre humana desde hace casi 2 millones de años](https://www.elperiodico.com/es/ciencia/20260226/mosquitos-anopheles-sangre-humana-hace-2-millones-anos-homo-erectus-127318975) (Elperiodico.com)
 
 - [Mosquitoes May Have Been Feeding on Homo erectus 1.8 Million Years Ago](https://www.discovermagazine.com/mosquitoes-may-have-been-feeding-on-homo-erectus-1-8-million-years-ago-48740) (Discover Magazine)
@@ -261,6 +277,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-9 (leptospirosis)
 
+- [Rethinking Leptospirosis Prevention, the Philippines](https://wwwnc.cdc.gov/eid/article/32/3/25-1250_article) (Cdc.gov)
+
 - [Teen dies from suspected Leptospirosis as Health Ministry urges caution](https://www.fijivillage.com/news/teen-dies-from-suspected-leptospirosis-as-health-ministry-urges-caution-8a379e/) (Fijivillage)
 
 - [Health Ministry issues warning after teen dies of suspected leptospirosis | Fiji Sun](https://fijisun.com.fj/living/health/health-ministry-issues-warning-after-teen-dies-of-suspected-leptospirosis) (Fiji Sun Online)
@@ -280,6 +298,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1-Virus: Weitere Geflügelpestfälle in Niedersachsen entdeckt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/h5n1-virus--weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt-37170934.html) (STERN.de)
 
 ## 26-9 (dengue)
+
+- [India moves closer to dengue vaccine as final trials underway](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/india-moves-closer-to-dengue-vaccine-as-final-trials-underway/articleshow/128838928.cms) (The Times of India)
 
 - [Mosquitos may have evolved a taste for human blood thanks to Homo erectus](https://www.scientificamerican.com/article/mosquitos-may-have-evolved-a-taste-for-human-blood-thanks-to-homo-erectus/) (Scientific American)
 
@@ -306,6 +326,8 @@ Source: [News API](https://newsapi.org/)
 - [Un antiviral chez les moustiques favorise la dengue](https://www.techno-science.net/actualite/antiviral-chez-moustiques-favorise-dengue-N28316.html) (Techno-science.net)
 
 ## 26-9 (chikungunya)
+
+- [Bolivia confirms 5th death from Chikungunya fever as cases spike](https://www.thestar.com.my/news/world/2026/02/27/bolivia-confirms-5th-death-from-chikungunya-fever-as-cases-spike) (The Star Online)
 
 - [Chikungunya-Virus breitet sich auch in Europa aus: Wie sie sich vor der Tropenkrankheit schützen](https://www.chip.de/news/gesundheit-fitness/chikungunya-virus-breitet-sich-auch-in-europa-aus-wie-sie-sich-vor-der-tropenkrankheit-schuetzen_817d4b2b-345b-4a6a-aef1-36f94faf5bce.html) (CHIP Online Deutschland)
 
@@ -2537,6 +2559,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabid dog detected in Hashmonaim](https://www.israelnationalnews.com/flashes/674210) (Israelnationalnews.com)
 
+- [Banten rabies-free for 14 consecutive years with strict surveillance](https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance) (Antaranews.com)
+
 ## 26-3 (mpox)
 
 - [Experts Identify Four Viruses That Could Become 'Disease X' and Spark Next Pandemic](https://www.ibtimes.com/experts-identify-four-viruses-that-could-become-disease-x-spark-next-pandemic-3795435) (International Business Times)
@@ -2576,6 +2600,8 @@ Source: [News API](https://newsapi.org/)
 - [Doctors concerned fewer teens will get vaccinated for meningitis as cases rise](https://www.wxyz.com/news/health/ask-dr-nandi/doctors-concerned-fewer-teens-will-get-vaccinated-for-meningitis-as-cases-rise) (WXYZ)
 
 - [Preocupación por la salud de Luis Canut, marido de Patricia Pérez](https://www.lavozdegalicia.es/noticia/gente/2026/01/12/preocupacion-salud-luis-canut-marido-patricia-perez/00031768226413337643508.htm) (Lavozdegalicia.es)
+
+- [As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated](https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638) (NBC News)
 
 ## 26-3 (measles)
 
@@ -2703,6 +2729,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Oregon Health Authority confirms first measles case of 2026](https://www.kdrv.com/news/top-stories/oregon-health-authority-confirms-first-measles-case-of-2026/article_df92450b-9aa4-446c-a7f4-9d1904c7680c.html) (KDRV)
 
+- [NC health officials report new measles case, urge vaccination](https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/) (WSOC Charlotte)
+
 ## 26-3 (malaria)
 
 - [A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation](https://www.nature.com/articles/s41467-026-68416-1) (Nature.com)
@@ -2718,6 +2746,8 @@ Source: [News API](https://newsapi.org/)
 - [Computational screening of natural inhibitors against Plasmodium falciparum kinases: Toward novel antimalarial therapies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0339317) (Plos.org)
 
 - [The role of the spleen in red blood cell loss caused by malaria: A mathematical model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) (Plos.org)
+
+- [Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war](https://taz.de/Medizingeschichte/!6140151/) (taz.de)
 
 ## 26-3 (leptospirosis)
 
@@ -2792,6 +2822,8 @@ Source: [News API](https://newsapi.org/)
 - [Pesquisadores denunciam "abandono" de laboratórios do Governo de SP](https://www.metropoles.com/sao-paulo/pesquisadores-abandono-laboratorios) (Metropoles.com)
 
 - [Bacolod: Negros Occidental dengue cases drop 26% in 2025](https://rpnradio.com/bacolod-negros-occidental-dengue-cases-drop-26-in-2025/) (Rpnradio.com)
+
+- [Elképesztő fogyása után a barátai sem ismertek rá, több mint 50 kilót adott le a háromgyermekes anyuka](https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/) (Index.hu)
 
 ## 26-3 (chikungunya)
 

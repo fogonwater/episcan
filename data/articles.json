@@ -1,8 +1,206 @@
 {
-  "last_updated": "2026-02-27 19:17",
-  "count_articles_total": 1256,
-  "count_articles_new": 17,
+  "last_updated": "2026-02-28 07:12",
+  "count_articles_total": 1272,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 28020,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "AFP",
+      "title": "India moves closer to dengue vaccine as final trials underway",
+      "description": "An Indian vaccine candidate, DengiAll, is in its final testing phase. This single-dose shot offers hope against the deadly dengue disease. Over 10,000 volunteers are participating in the trials. If successful, DengiAll could be available next year. This dev\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/india-moves-closer-to-dengue-vaccine-as-final-trials-underway/articleshow/128838928.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-128838928,width-1200,height-630,imgsize-35548,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-02-27 06:25:18",
+      "content": "New Delhi, As dengue surges globally, an Indian vaccine candidate has entered the final stage of testing, raising hopes for one of the world's first single-dose shots against the deadly mosquito-born\u2026 [+4474 chars]",
+      "retrievedAt": "2026-02-28 07:12:47.033922",
+      "internal_id": "b078b154d527eedf9271386d0bde1a39a3b202e1593393c1bd6f3101d9feefe0",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 28021,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Okdiario.com",
+      "author": "parrasergi",
+      "title": "Cient\u00edficos descubren el origen de la preferencia de los mosquitos por la sangre humana",
+      "description": "La llegada de Homo erectus al Sudeste Asi\u00e1tico pudo encender la chispa evolutiva de los grandes vectores de malaria.",
+      "url": "https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html",
+      "urlToImage": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/02/27dfa7c8-e511-472b-a158-431ab55bee72-og.jpg",
+      "publishedAt": "2026-02-27 06:00:00",
+      "content": "Creado: 27.02.2026 | 07:00 Actualizado: 27.02.2026 | 07:00 Hace casi dos millones de a\u00f1os, mientras los primeros homininos avanzaban por los corredores verdes del Sudeste Asi\u00e1tico, otra criatura \u2026 [+4439 chars]",
+      "retrievedAt": "2026-02-28 07:12:47.682706",
+      "internal_id": "fa1fe39218133ae2c13d246089c437b52b4ab8c9aa485324dd9e7ecb645ef7d0",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 28018,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "laser.measles 0.9.1",
+      "description": "None",
+      "url": "https://pypi.org/project/laser.measles/",
+      "urlToImage": "https://pypi.org/static/images/twitter.abaf4b19.webp",
+      "publishedAt": "2026-02-27 05:26:47",
+      "content": "laser-measles helps you build and analyze spatial models of measles implemented with the LASER framework. pipinstalllaser-measles Getting Started Recommended stable release: version 0.9 New users\u2026 [+3496 chars]",
+      "retrievedAt": "2026-02-28 07:12:46.263502",
+      "internal_id": "4903a12042a5257733ba2cd294e316e6794aebb029b0aaaaa0d9510a2364c40b",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 28025,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Rethinking Leptospirosis Prevention, the Philippines",
+      "description": "Rethinking Leptospirosis Prevention, Philippines",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/3/25-1250_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-02-27 05:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.The Philippines usually en\u2026 [+20714 chars]",
+      "retrievedAt": "2026-02-28 07:12:49.197711",
+      "internal_id": "b675c780cde0370f6b4c28fe041c8c4a9e75b974df641e452d6854d4104e6316",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 28016,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Timothy Geigner",
+      "title": "2 Months Into 2026 We Are Over Half 2025\u2019s Total Count Of Measles Cases",
+      "description": "Measles. Yes, yes, I know you\u2019re sick of hearing about it. For that, though, you must lay the blame at the feet of Donald Trump, RFK Jr., and this entire administration of clown-tools that isn\u2019t bothering to do anything about what has become the worst continu\u2026",
+      "url": "https://www.techdirt.com/2026/02/26/2-months-into-2026-we-are-over-half-2025s-total-count-of-measles-cases/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-02-27 04:02:24",
+      "content": "from the rash-and-burn dept Measles. Yes, yes, I know you\u2019re sick of hearing about it. For that, though, you must lay the blame at the feet of Donald Trump, RFK Jr., and this entire administration o\u2026 [+5876 chars]",
+      "retrievedAt": "2026-02-28 07:12:46.038008",
+      "internal_id": "0af92a24ea733d1e188ec59ade106798664df670c576e94eb2d447b47cfbe2d1",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 28017,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Screen Rant",
+      "author": "Sean Morrison",
+      "title": "The Pitt Season 2, Episode 8 Recap: Santos And Langdon Finally Reunite",
+      "description": "In The Pitt season 2, episode 8, Dr. Langdon and Dr. Santos face off as PTMC grapples with a cyberattack and medical dilemmas. A terminal patient's morphine dosage and a measles lawsuit add to the drama.",
+      "url": "https://screenrant.com/the-pitt-season-2-episode-8-ending-explained/",
+      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/02/dr-al-hashimi-and-dr-mohan-in-the-pitt-season-2-episode-8.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-02-27 02:01:19",
+      "content": "Warning! This article contains SPOILERS for The Pitt season 2, episode 8.With the cyberattack wreaking havoc on Pittsburgh Trauma Medical Center, this week's episode of The Pitt finally brought Dr. L\u2026 [+7340 chars]",
+      "retrievedAt": "2026-02-28 07:12:46.072848",
+      "internal_id": "ce5131d09daf84e9c095b18a52b38ab729db79fc63910b9ab6ced63eaf7da7bf",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 28015,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "Can raccoons be vaccinated against rabies?",
+      "description": "Can Raccoons Be Vaccinated Against Rabies? Protecting Wildlife and Public Health Yes, raccoons can be vaccinated against rabies, predominantly through the use of oral rabies vaccines (ORV) strategically distributed in bait. This vaccination strategy is a cruc\u2026",
+      "url": "https://www.lifesciencesworld.com/can-raccoons-be-vaccinated-against-rabies/",
+      "urlToImage": null,
+      "publishedAt": "2026-02-27 01:35:51",
+      "content": "Can Raccoons Be Vaccinated Against Rabies? Protecting Wildlife and Public Health Yes, raccoons can be vaccinated against rabies, predominantly through the use of oral rabies vaccines (ORV) strategic\u2026 [+9002 chars]",
+      "retrievedAt": "2026-02-28 07:12:45.638335",
+      "internal_id": "bd9ede91fecfaec8777a6e6c4446cc73c29517494a0ead2825e1e79957ebfa2c",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 28019,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "New Zealand Herald",
+      "author": "NZ Herald",
+      "title": "Third measles case linked to overseas travel in Auckland; Health NZ lists new exposure sites",
+      "description": "Despite returning on the same flight, the new case isn't linked to the earlier two.",
+      "url": "https://www.nzherald.co.nz/nz/third-measles-case-linked-to-overseas-travel-in-auckland-health-nz-lists-new-exposure-sites/FWFWCHTWAJARZNPEU5UX5764AY/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/DYF76CFSQBFSXHLSBRJXBLAD5Y.jpg?auth=3feca0d5f954a3ad5ddaae784a8d1b4960f276b8a5db5c8df2c97cb2ed39e3e2&width=1200&height=675&quality=70&focal=1122%2C735&smart=false",
+      "publishedAt": "2026-02-27 01:13:18",
+      "content": "The first locations of interest were visited on February 16; these are Taco Bell Westgate from 8am to 11am, and Subway Rosedale from 1pm to 2.30pm. PaknSave Albany was visited from 10.45am to 12.15\u2026 [+1271 chars]",
+      "retrievedAt": "2026-02-28 07:12:46.364770",
+      "internal_id": "6b7302b87e5d69778e32367fa789a79ef44619f539ea88eb5364e86eea09460c",
+      "publishedAtLabel": "Feb 27"
+    },
+    {
+      "id": 28022,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "[e]Ren\u00e9 Quenallata Paredes, Wang Zijian, Wang Linyuan",
+      "title": "Bolivia confirms 5th death from Chikungunya fever as cases spike",
+      "description": "LA PAZ, Feb. 26 (Xinhua) -- Bolivia recorded its fifth death from Chikungunya outbreak in the eastern department of Santa Cruz while infections from the virus keep surging, the Departmental Health Service reported Thursday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2026/02/27/bolivia-confirms-5th-death-from-chikungunya-fever-as-cases-spike",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2026-02-26 23:01:00",
+      "content": "LA PAZ, Feb. 26 (Xinhua) -- Bolivia recorded its fifth death from Chikungunya outbreak in the eastern department of Santa Cruz while infections from the virus keep surging, the Departmental Health Se\u2026 [+861 chars]",
+      "retrievedAt": "2026-02-28 07:12:48.308025",
+      "internal_id": "5c44ed1ced6ba0b1913457d52c6188e207fa7d18d8839ef0c9ea95dc9e13a27f",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 28024,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Mpox: SP registra novo caso e paciente cumpre quarentena em casa",
+      "description": "Diagn\u00f3stico foi confirmado em Araraquara, no interior do estado. Estado tem 57 casos de mpox confirmados, 36 desses na capital paulista",
+      "url": "https://www.metropoles.com/sao-paulo/mpox-sp-novo-caso-paciente-quarentena",
+      "urlToImage": "https://images.metroimg.com/2024/09/10131524/Mpox-cidade-de-Sao-Paulo-confirma-registro-de-X-casos.jpg",
+      "publishedAt": "2026-02-26 22:36:49",
+      "content": "A Secretaria da Sa\u00fade (SES) de S\u00e3o Paulo confirmou, na ter\u00e7a-feira (24/2), o 57\u00ba caso de mpox no estado. O diagn\u00f3stico mais recente \u00e9 de um homem de Araraquara, no interior paulista. N\u00e3o h\u00e1 registro \u2026 [+1462 chars]",
+      "retrievedAt": "2026-02-28 07:12:48.650222",
+      "internal_id": "58161a42d42a80ac37bb1dd49f1e54f1e6e20350b9f62d166928a5af213af1f5",
+      "publishedAtLabel": "Feb 26"
+    },
+    {
+      "id": 28023,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Portal EdiCase",
+      "title": "Mpox e outros v\u00edrus em alerta: entenda se o Brasil est\u00e1 preparado para uma nova pandemia",
+      "description": "Especialista analisa riscos globais, capacidade de resposta do pa\u00eds e os desafios que ainda persistem",
+      "url": "https://www.terra.com.br/vida-e-estilo/saude/mpox-e-outros-virus-em-alerta-entenda-se-o-brasil-esta-preparado-para-uma-nova-pandemia,4726e8dc76c85dda610202de931591977rsbar6m.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/02/26/1643107336-virus-coranavirus.jpg",
+      "publishedAt": "2026-02-26 20:00:22",
+      "content": "O mundo voltou a conviver com alertas sanit\u00e1rios frequentes. Ap\u00f3s a covid-19, o surgimento de novos surtos infecciosos reacendeu o debate sobre o risco de uma nova pandemia e sobre o n\u00edvel de preparo\u2026 [+4374 chars]",
+      "retrievedAt": "2026-02-28 07:12:48.570227",
+      "internal_id": "152955d28046229a866cbedca90a3a4014b5ba4727f12af7ccc857703ea89279",
+      "publishedAtLabel": "Feb 26"
+    },
     {
       "id": 27998,
       "query": [
@@ -22642,6 +22840,96 @@
       "content": "Do these genetic scientists have a death wish for the human species or are they just plain stupid? This study confirms lab-made hybrid H5N1 strain invades immune cells, replicates in human blood, spr\u2026 [+8143 chars]",
       "retrievedAt": "2026-01-13 07:11:30.804467",
       "internal_id": "097a47e5d2c9f95f9335f9f635f26fbb59957cfd5ddbc0ff7c4b9595b0d7847b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26755,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Index.hu",
+      "author": "Luna-Sz\u00e1sz D\u00e1vid",
+      "title": "Elk\u00e9peszt\u0151 fogy\u00e1sa ut\u00e1n a bar\u00e1tai sem ismertek r\u00e1, t\u00f6bb mint 50 kil\u00f3t adott le a h\u00e1romgyermekes anyuka",
+      "description": "Mindek\u00f6zbenDanielle Davies, h\u00e1romgyermekes anyuka \u00e9lete legnagyobb v\u00e1ltoz\u00e1s\u00e1n ment kereszt\u00fcl, miut\u00e1n felismerte, hogy nem teljesen ...",
+      "url": "https://index.hu/mindekozben/poszt/2026/01/11/haromgyermekes-edesanya-elkepeszto-fogyasa/",
+      "urlToImage": "http://kep.cdn.index.hu/1/0/6689/66894/668946/66894623_e2298f267c0a7330331dc894c177cb58_wm.jpg",
+      "publishedAt": "2026-01-11 17:22:12",
+      "content": "Egy 26 \u00e9ves fiatal n, Gina Donner sz\u00e1m\u00e1ra \u00e9lete egyik legszebb utaz\u00e1sa majdnem trag\u00e9di\u00e1val v\u00e9gzd\u00f6tt. A Mald\u00edv-szigeteken t\u00f6lt\u00f6tt sz\u00fclet\u00e9snapi nyaral\u00e1sa alatt ugyanis dengue-l\u00e1zban betegedett meg, ami\u2026 [+1085 chars]",
+      "retrievedAt": "2026-01-12 19:08:46.057091",
+      "internal_id": "b5053ad3c350c1af61177942aeb62ea3fca92214ab44093f27c4592e0851ad1b",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26754,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WSOC Charlotte",
+      "author": "Wsoctv.com News Staff",
+      "title": "NC health officials report new measles case, urge vaccination",
+      "description": "The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday.",
+      "url": "https://www.wsoctv.com/news/local/nc-health-officials-report-new-measles-case-urge-vaccination/26A36RGHYZAPNMEYMWSRMVUERE/",
+      "urlToImage": "https://cmg-cmg-tv-10030-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FJCQYSTWUPVHK5GKKAGHXTNQPLE.jpeg?auth=c81912f287e5acc6e1630e21f625021cebe154536a16708f3e4a13abae862bc9&width=1200&height=630&smart=true",
+      "publishedAt": "2026-01-11 16:32:50",
+      "content": "CHARLOTTE \u2014 The North Carolina Department of Health and Human Services reported a new case of measles in the state on Friday. NCDHHS identified a new case of measles in Rutherford County, bringing t\u2026 [+1521 chars]",
+      "retrievedAt": "2026-01-12 19:08:45.378911",
+      "internal_id": "886149c0ae5d88f21d5f08678dd358c0000fae0d9b6f2394caf46e478b66aaf5",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26757,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "taz.de",
+      "author": "Rumeysa Ceylan",
+      "title": "Medizingeschichte: Als gegen Malaria ein Kraut gewachsen war",
+      "description": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich.",
+      "url": "https://taz.de/Medizingeschichte/!6140151/",
+      "urlToImage": "https://taz.de/picture/8172514/1200/357414470-c4f6bb55bc.jpeg",
+      "publishedAt": "2026-01-11 14:26:00",
+      "content": "Die Chinesin Tu Youyou isolierte als Erstes einen Wirkstoff gegen Malaria. Die Erkenntnisse erschienen anonym, ihren Nobelpreis erhielt sie nachtr\u00e4glich. mehr...",
+      "retrievedAt": "2026-01-12 19:08:46.612929",
+      "internal_id": "2972403595efc4452eae2e33e5edc7c705ddd465101f46b2af7fc423e0d1cf4a",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26756,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Kaitlin Sullivan",
+      "title": "As cases of bacterial meningitis rise, doctors worry fewer teens will get vaccinated",
+      "description": "The CDC is no longer recommending that all adolescents and teens get vaccinated for potentially fatal bacterial meningitis, although the shots are still available for high-risk patients.",
+      "url": "https://www.nbcnews.com/health/health-news/bacterial-meningitis-cases-teens-vaccine-cdc-rfk-jr-rcna252638",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-01/260110-vaccine-stock-ch-1059-15f3d7.jpg",
+      "publishedAt": "2026-01-11 12:00:00",
+      "content": "Deaths from a rare and dangerous bacterial infection could rise if fewer teens are vaccinated, doctors warn. After the Centers for Disease Control and Prevention recommended that all adolescents get\u2026 [+8686 chars]",
+      "retrievedAt": "2026-01-12 19:08:46.335031",
+      "internal_id": "9bf9b807e073cddb16b8cab0b8d788c30d3c1ab00f7bfd861fe3e2abb824e2a9",
+      "publishedAtLabel": "Jan 11"
+    },
+    {
+      "id": 26753,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Devi Nindy, Raka Adji",
+      "title": "Banten rabies-free for 14 consecutive years with strict surveillance",
+      "description": "The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high ...",
+      "url": "https://en.antaranews.com/news/399409/banten-rabies-free-for-14-consecutive-years-with-strict-surveillance",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/01/11/1000811575.jpg",
+      "publishedAt": "2026-01-11 11:59:52",
+      "content": "Serang, Banten (ANTARA) - The Banten Provincial Government has maintained a 14-year streak of zero rabies cases through strict surveillance and consistent vaccination, despite high reports of rabies-\u2026 [+2011 chars]",
+      "retrievedAt": "2026-01-12 19:08:45.027981",
+      "internal_id": "f6f8a398248ebe937a41f6af67ef5534c0a6d3f83026fd38e47703fab8a19ce7",
       "publishedAtLabel": "Jan 11"
     }
   ]
