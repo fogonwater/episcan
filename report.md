@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-03-01 07:18
-- **Most recent article:** 2026-02-28 04:36:26
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-03-01 19:09
+- **Most recent article:** 2026-02-28 18:10:31
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 88 | 76 | 107 | 112 | 111 | 78 | 572 |
-| dengue | 25 | 16 | 16 | 24 | 17 | 13 | 111 |
+| measles | 88 | 76 | 107 | 112 | 111 | 82 | 576 |
+| dengue | 23 | 16 | 16 | 24 | 17 | 14 | 110 |
 | mpox | 11 | 4 | 11 | 14 | 25 | 27 | 92 |
 | chikungunya | 9 | 8 | 8 | 12 | 40 | 6 | 83 |
-| h5n1 | 17 | 22 | 12 | 12 | 11 | 4 | 78 |
-| rabies | 10 | 10 | 11 | 16 | 16 | 12 | 75 |
+| rabies | 10 | 10 | 11 | 16 | 16 | 14 | 77 |
+| h5n1 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
 | malaria | 7 | 8 | 15 | 14 | 10 | 11 | 65 |
 | meningitis | 1 | 7 | 4 | 7 | 3 | 5 | 27 |
 | leptospirosis | 4 | 6 | 3 | 2 | 4 | 3 | 22 |
@@ -54,6 +54,10 @@ Source: [News API](https://newsapi.org/)
 - [County Health Department reports noticeable rise in Shigella bacterial infection](https://www.bupipedream.com/news/county-health-department-reports-noticeable-rise-in-shigella-bacterial-infection/176178/) (Bupipedream.com)
 
 ## 26-9 (rabies)
+
+- [Spotted Deer Killed by Stray Dogs in Latehar, Forest Officials Confirm](https://timesofindia.indiatimes.com/city/ranchi/spotted-deer-killed-by-stray-dogs-in-latehar-forest-officials-confirm/articleshow/128885883.cms) (The Times of India)
+
+- [How often do ferrets need rabies shots?](https://www.lifesciencesworld.com/how-often-do-ferrets-need-rabies-shots/) (Lifesciencesworld.com)
 
 - [Maharashtra: Thane civic body flags off ‘Rabies Free’ campaign](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-thane-civic-body-flags-off-rabies-free-campaign/articleshow/128862215.cms) (The Times of India)
 
@@ -148,6 +152,14 @@ Source: [News API](https://newsapi.org/)
 - [Súlyos betegség bukkant fel: több gennyes agyhártyagyulladásos beteget találtak Magyarországon](https://www.origo.hu/itthon/2026/02/gennyes-agyhartyagyulladas-fertozes-magyarorszag) (Origo.hu)
 
 ## 26-9 (measles)
+
+- [Why is the U.S. losing measles elimination? #health](https://alltoc.com/health/why-is-the-u-s-losing-measles-elimination) (Alltoc.com)
+
+- [Why is the U.S. close to losing measles elimination status? #health](https://alltoc.com/health/why-is-the-u-s-close-to-losing-measles-elimination-status) (Alltoc.com)
+
+- [Why is the U.S. losing measles protection? #health](https://alltoc.com/health/why-is-the-u-s-losing-measles-protection) (Alltoc.com)
+
+- [Could the US lose measles elimination status? #health](https://alltoc.com/health/could-the-us-lose-measles-elimination-status) (Alltoc.com)
 
 - [WATCH: David Muir shares heartwarming development on Punch the monkey and stuffed orangutan](https://abcnews.com/video/130576670/) (Abcnews.com)
 
@@ -354,6 +366,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1-Virus: Weitere Geflügelpestfälle in Niedersachsen entdeckt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/h5n1-virus--weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt-37170934.html) (STERN.de)
 
 ## 26-9 (dengue)
+
+- [Dengue: profissionais de unidades de saúde começam a ser vacinados na terça-feira em Porto Alegre](https://www.terra.com.br/noticias/dengue-profissionais-de-unidades-de-saude-comecam-a-ser-vacinados-na-terca-feira-em-porto-alegre,4928cc240c090f1f19accce4bfaa9228o8ipj3i2.html) (Terra.com.br)
 
 - [India moves closer to dengue vaccine as final trials underway](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/india-moves-closer-to-dengue-vaccine-as-final-trials-underway/articleshow/128838928.cms) (The Times of India)
 
@@ -2489,10 +2503,6 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
-- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
-
-- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
-
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2540,10 +2550,6 @@ Source: [News API](https://newsapi.org/)
 - [Curta](https://valor.globo.com/brasil/noticia/2026/01/19/b99859cc-curta.ghtml) (Globo)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
-
-- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
-
-- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
 
 ## 26-4 (chikungunya)
 
