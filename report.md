@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-03-02 07:26
-- **Most recent article:** 2026-03-01 06:09:31
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-03-02 19:19
+- **Most recent article:** 2026-03-01 18:10:57
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 2 | 88 | 76 | 107 | 112 | 111 | 83 | 579 |
-| dengue | 0 | 25 | 16 | 16 | 24 | 17 | 15 | 113 |
-| mpox | 1 | 11 | 4 | 11 | 14 | 25 | 27 | 93 |
+| measles | 7 | 88 | 76 | 107 | 112 | 111 | 83 | 584 |
+| dengue | 0 | 23 | 16 | 16 | 24 | 17 | 15 | 111 |
+| mpox | 2 | 11 | 4 | 11 | 14 | 25 | 27 | 94 |
 | chikungunya | 0 | 9 | 8 | 8 | 12 | 40 | 6 | 83 |
 | rabies | 2 | 10 | 10 | 11 | 16 | 16 | 14 | 79 |
-| h5n1 | 0 | 17 | 22 | 12 | 12 | 11 | 4 | 78 |
+| h5n1 | 0 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
 | malaria | 1 | 7 | 8 | 15 | 14 | 10 | 11 | 66 |
 | meningitis | 1 | 1 | 7 | 4 | 7 | 3 | 5 | 28 |
 | leptospirosis | 0 | 4 | 6 | 3 | 2 | 4 | 3 | 22 |
 | zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
 | hpai | 0 | 4 | 3 | 1 | 3 | 1 | 2 | 14 |
 | yersinia | 0 | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
-| typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 2 | 10 |
+| typhoid | 1 | 2 | 1 | 2 | 1 | 2 | 2 | 11 |
 | pertussis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -2507,10 +2507,6 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
-- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
-
-- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
-
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2559,10 +2555,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
-- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
-
-- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
-
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2583,6 +2575,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Valneva fait un point sur son vaccin contre le chikungunya IXCHIQ®](https://www.globenewswire.com/news-release/2026/01/19/3221191/0/fr/Valneva-fait-un-point-sur-son-vaccin-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
 
+## 26-10 (typhoid)
+
+- [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
+
 ## 26-10 (rabies)
 
 - [What if a baby squirrel bites you?](https://www.lifesciencesworld.com/what-if-a-baby-squirrel-bites-you/) (Lifesciencesworld.com)
@@ -2591,6 +2587,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (mpox)
 
+- [Mpox no Brasil: tudo sobre a infecção viral e o como é tratamento](https://www.infomoney.com.br/saude/tratamento-da-mpox/) (InfoMoney)
+
 - [Mpox no Brasil: número de casos sobe em 2026; veja sintomas e como se prevenir](https://www.pragmatismopolitico.com.br/?p=211197) (Pragmatismopolitico.com.br)
 
 ## 26-10 (meningitis)
@@ -2598,6 +2596,16 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [Why are U.S. measles cases soaring? #health](https://alltoc.com/health/why-are-u-s-measles-cases-soaring) (Alltoc.com)
+
+- [Why is measles surging in the U.S.? #health](https://alltoc.com/health/why-is-measles-surging-in-the-u-s) (Alltoc.com)
+
+- [Why are measles cases near 1,000? #health](https://alltoc.com/health/why-are-measles-cases-near-1000) (Alltoc.com)
+
+- [Measles is costing the U.S. millions of dollars. The true losses can't be counted.](https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734) (NBC News)
+
+- [How close is the US to losing measles elimination? #health](https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination) (Alltoc.com)
 
 - [Why is the U.S. losing measles elimination status? #health](https://alltoc.com/health/why-is-the-u-s-losing-measles-elimination-status) (Alltoc.com)
 
