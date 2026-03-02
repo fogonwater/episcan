@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-03-01 19:09
-- **Most recent article:** 2026-02-28 18:10:31
+- **New articles in last harvest:** 9
+- **Last harvest:** 2026-03-02 07:26
+- **Most recent article:** 2026-03-01 06:09:31
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 88 | 76 | 107 | 112 | 111 | 82 | 576 |
-| dengue | 23 | 16 | 16 | 24 | 17 | 14 | 110 |
-| mpox | 11 | 4 | 11 | 14 | 25 | 27 | 92 |
-| chikungunya | 9 | 8 | 8 | 12 | 40 | 6 | 83 |
-| rabies | 10 | 10 | 11 | 16 | 16 | 14 | 77 |
-| h5n1 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
-| malaria | 7 | 8 | 15 | 14 | 10 | 11 | 65 |
-| meningitis | 1 | 7 | 4 | 7 | 3 | 5 | 27 |
-| leptospirosis | 4 | 6 | 3 | 2 | 4 | 3 | 22 |
-| zika | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
-| hpai | 4 | 3 | 1 | 3 | 1 | 2 | 14 |
-| yersinia | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
-| typhoid | 2 | 1 | 2 | 1 | 2 | 2 | 10 |
-| pertussis | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 2 | 88 | 76 | 107 | 112 | 111 | 83 | 579 |
+| dengue | 0 | 25 | 16 | 16 | 24 | 17 | 15 | 113 |
+| mpox | 1 | 11 | 4 | 11 | 14 | 25 | 27 | 93 |
+| chikungunya | 0 | 9 | 8 | 8 | 12 | 40 | 6 | 83 |
+| rabies | 2 | 10 | 10 | 11 | 16 | 16 | 14 | 79 |
+| h5n1 | 0 | 17 | 22 | 12 | 12 | 11 | 4 | 78 |
+| malaria | 1 | 7 | 8 | 15 | 14 | 10 | 11 | 66 |
+| meningitis | 1 | 1 | 7 | 4 | 7 | 3 | 5 | 28 |
+| leptospirosis | 0 | 4 | 6 | 3 | 2 | 4 | 3 | 22 |
+| zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
+| hpai | 0 | 4 | 3 | 1 | 3 | 1 | 2 | 14 |
+| yersinia | 0 | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
+| typhoid | 0 | 2 | 1 | 2 | 1 | 2 | 2 | 10 |
+| pertussis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -152,6 +152,8 @@ Source: [News API](https://newsapi.org/)
 - [Súlyos betegség bukkant fel: több gennyes agyhártyagyulladásos beteget találtak Magyarországon](https://www.origo.hu/itthon/2026/02/gennyes-agyhartyagyulladas-fertozes-magyarorszag) (Origo.hu)
 
 ## 26-9 (measles)
+
+- [Hospitals fighting measles confront a challenge: Few doctors have seen it before](https://missoulian.com/news/local/business/article_1e6b0a9d-7d88-4bf1-9d8a-0b23858a7ed9.html) (The Missoulian)
 
 - [Why is the U.S. losing measles elimination? #health](https://alltoc.com/health/why-is-the-u-s-losing-measles-elimination) (Alltoc.com)
 
@@ -366,6 +368,8 @@ Source: [News API](https://newsapi.org/)
 - [H5N1-Virus: Weitere Geflügelpestfälle in Niedersachsen entdeckt](https://www.stern.de/gesellschaft/regional/niedersachsen-bremen/h5n1-virus--weitere-gefluegelpestfaelle-in-niedersachsen-entdeckt-37170934.html) (STERN.de)
 
 ## 26-9 (dengue)
+
+- [‘Dia D’ contra a dengue: mapa interativo mostra ações em 33 municípios de Campinas e região](https://g1.globo.com/sp/campinas-regiao/noticia/2026/02/28/dia-d-contra-a-dengue-mapa-interativo-mostra-acoes-em-33-municipios-de-campinas-e-regiao.ghtml) (Globo)
 
 - [Dengue: profissionais de unidades de saúde começam a ser vacinados na terça-feira em Porto Alegre](https://www.terra.com.br/noticias/dengue-profissionais-de-unidades-de-saude-comecam-a-ser-vacinados-na-terca-feira-em-porto-alegre,4928cc240c090f1f19accce4bfaa9228o8ipj3i2.html) (Terra.com.br)
 
@@ -2503,6 +2507,10 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
+- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
+
+- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
+
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2551,6 +2559,10 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
+- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
+
+- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
+
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2570,3 +2582,27 @@ Source: [News API](https://newsapi.org/)
 - [Valneva Provides Update on Chikungunya Vaccine IXCHIQ®](https://www.globenewswire.com/news-release/2026/01/19/3221191/0/en/Valneva-Provides-Update-on-Chikungunya-Vaccine-IXCHIQ.html) (GlobeNewswire)
 
 - [Valneva fait un point sur son vaccin contre le chikungunya IXCHIQ®](https://www.globenewswire.com/news-release/2026/01/19/3221191/0/fr/Valneva-fait-un-point-sur-son-vaccin-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
+
+## 26-10 (rabies)
+
+- [What if a baby squirrel bites you?](https://www.lifesciencesworld.com/what-if-a-baby-squirrel-bites-you/) (Lifesciencesworld.com)
+
+- [Can a dog get rabies from a hedgehog?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-a-hedgehog/) (Lifesciencesworld.com)
+
+## 26-10 (mpox)
+
+- [Mpox no Brasil: número de casos sobe em 2026; veja sintomas e como se prevenir](https://www.pragmatismopolitico.com.br/?p=211197) (Pragmatismopolitico.com.br)
+
+## 26-10 (meningitis)
+
+- [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
+
+## 26-10 (measles)
+
+- [Why is the U.S. losing measles elimination status? #health](https://alltoc.com/health/why-is-the-u-s-losing-measles-elimination-status) (Alltoc.com)
+
+- [Why is measles surging in the US? #health](https://alltoc.com/health/why-is-measles-surging-in-the-us) (Alltoc.com)
+
+## 26-10 (malaria)
+
+- [When floods hit, the risk of malaria follows: how disaster systems can prepare better](https://theconversation.com/when-floods-hit-the-risk-of-malaria-follows-how-disaster-systems-can-prepare-better-275829) (The Conversation Africa)
