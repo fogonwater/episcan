@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-03-02 19:19
-- **Most recent article:** 2026-03-01 18:10:57
+- **New articles in last harvest:** 3
+- **Last harvest:** 2026-03-03 07:22
+- **Most recent article:** 2026-03-02 00:09:18
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 7 | 88 | 76 | 107 | 112 | 111 | 83 | 584 |
-| dengue | 0 | 23 | 16 | 16 | 24 | 17 | 15 | 111 |
+| measles | 10 | 88 | 76 | 107 | 112 | 111 | 83 | 587 |
+| dengue | 0 | 25 | 16 | 16 | 24 | 17 | 15 | 113 |
 | mpox | 2 | 11 | 4 | 11 | 14 | 25 | 27 | 94 |
 | chikungunya | 0 | 9 | 8 | 8 | 12 | 40 | 6 | 83 |
 | rabies | 2 | 10 | 10 | 11 | 16 | 16 | 14 | 79 |
-| h5n1 | 0 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
+| h5n1 | 0 | 17 | 22 | 12 | 12 | 11 | 4 | 78 |
 | malaria | 1 | 7 | 8 | 15 | 14 | 10 | 11 | 66 |
 | meningitis | 1 | 1 | 7 | 4 | 7 | 3 | 5 | 28 |
 | leptospirosis | 0 | 4 | 6 | 3 | 2 | 4 | 3 | 22 |
@@ -2507,6 +2507,10 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
+- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
+
+- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
+
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2555,6 +2559,10 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
+- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
+
+- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
+
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2596,6 +2604,12 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [Could measles lose its US elimination status? #health](https://alltoc.com/health/could-measles-lose-its-us-elimination-status) (Alltoc.com)
+
+- [Here's the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-march-1-rcna261075) (NBC News)
+
+- [Will the U.S. lose measles elimination status? #health](https://alltoc.com/health/will-the-u-s-lose-measles-elimination-status) (Alltoc.com)
 
 - [Why are U.S. measles cases soaring? #health](https://alltoc.com/health/why-are-u-s-measles-cases-soaring) (Alltoc.com)
 
