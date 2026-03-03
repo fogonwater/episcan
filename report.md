@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2026-03-03 07:22
-- **Most recent article:** 2026-03-02 00:09:18
+- **New articles in last harvest:** 13
+- **Last harvest:** 2026-03-03 19:20
+- **Most recent article:** 2026-03-02 19:00:00
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 10 | 88 | 76 | 107 | 112 | 111 | 83 | 587 |
-| dengue | 0 | 25 | 16 | 16 | 24 | 17 | 15 | 113 |
-| mpox | 2 | 11 | 4 | 11 | 14 | 25 | 27 | 94 |
+| measles | 15 | 88 | 76 | 107 | 112 | 111 | 83 | 592 |
+| dengue | 3 | 23 | 16 | 16 | 24 | 17 | 15 | 114 |
+| mpox | 4 | 11 | 4 | 11 | 14 | 25 | 27 | 96 |
 | chikungunya | 0 | 9 | 8 | 8 | 12 | 40 | 6 | 83 |
-| rabies | 2 | 10 | 10 | 11 | 16 | 16 | 14 | 79 |
-| h5n1 | 0 | 17 | 22 | 12 | 12 | 11 | 4 | 78 |
-| malaria | 1 | 7 | 8 | 15 | 14 | 10 | 11 | 66 |
+| rabies | 3 | 10 | 10 | 11 | 16 | 16 | 14 | 80 |
+| h5n1 | 0 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
+| malaria | 2 | 7 | 8 | 15 | 14 | 10 | 11 | 67 |
 | meningitis | 1 | 1 | 7 | 4 | 7 | 3 | 5 | 28 |
 | leptospirosis | 0 | 4 | 6 | 3 | 2 | 4 | 3 | 22 |
 | zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
 | hpai | 0 | 4 | 3 | 1 | 3 | 1 | 2 | 14 |
 | yersinia | 0 | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
 | typhoid | 1 | 2 | 1 | 2 | 1 | 2 | 2 | 11 |
-| pertussis | 0 | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
+| pertussis | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
@@ -2507,10 +2507,6 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
-- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
-
-- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
-
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2559,10 +2555,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
-- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
-
-- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
-
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2589,11 +2581,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (rabies)
 
+- [Research: Rabies case in a dog in Germany](https://www.gov.uk/government/publications/rabies-case-in-a-dog-in-germany) (Www.gov.uk)
+
 - [What if a baby squirrel bites you?](https://www.lifesciencesworld.com/what-if-a-baby-squirrel-bites-you/) (Lifesciencesworld.com)
 
 - [Can a dog get rabies from a hedgehog?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-a-hedgehog/) (Lifesciencesworld.com)
 
+## 26-10 (pertussis)
+
+- [The Modern Conditions](https://www.newyorker.com/magazine/2026/03/09/the-modern-conditions) (The New Yorker)
+
 ## 26-10 (mpox)
+
+- [Mpox Outbreak in Wild Monkeys Likely Traced to a Rope Squirrel They Consumed](https://www.discovermagazine.com/mpox-outbreak-in-wild-monkeys-likely-traced-to-a-rope-squirrel-they-consumed-48758) (Discover Magazine)
+
+- [Brasil registra 88 casos de Mpox em 60 dias; Ministério em alerta](https://saude.ig.com.br/2026-03-02/brasil-registra-88-casos-de-mpox-em-60-dias--ministerio-em-alerta.html) (Ig.com.br)
 
 - [Mpox no Brasil: tudo sobre a infecção viral e o como é tratamento](https://www.infomoney.com.br/saude/tratamento-da-mpox/) (InfoMoney)
 
@@ -2604,6 +2606,16 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [As measles spreads in South Carolina, RFK Jr's allies work to gut vaccine laws (Michelle R Smith/The Guardian)](https://www.memeorandum.com/260302/p69) (Memeorandum.com)
+
+- [Measles is back in California. Health departments are fighting it with less.](https://www.kpbs.org/news/health/2026/03/02/measles-is-back-in-california-health-departments-are-fighting-it-with-less) (KPBS)
+
+- [What’s driving the U.S. measles surge? #health](https://alltoc.com/health/whats-driving-the-u-s-measles-surge) (Alltoc.com)
+
+- [South Carolina Faces Measles Surge Amid RFK Jr. Allies' Campaign to Dismantle Vaccine Legislation - Internewscast Journal](https://internewscast.com/health/south-carolina-faces-measles-surge-amid-rfk-jr-allies-campaign-to-dismantle-vaccine-legislation/) (Internewscast.com)
+
+- [Why are measles cases surging in the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-surging-in-the-u-s) (Alltoc.com)
 
 - [Could measles lose its US elimination status? #health](https://alltoc.com/health/could-measles-lose-its-us-elimination-status) (Alltoc.com)
 
@@ -2627,4 +2639,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (malaria)
 
+- [“La malaria se ha terminado”: los números negativos de la economía argentina](https://www.lanacion.com.ar/economia/la-malaria-se-ha-terminado-los-numeros-negativos-de-la-economia-argentina-nid02032026/) (La Nacion)
+
 - [When floods hit, the risk of malaria follows: how disaster systems can prepare better](https://theconversation.com/when-floods-hit-the-risk-of-malaria-follows-how-disaster-systems-can-prepare-better-275829) (The Conversation Africa)
+
+## 26-10 (dengue)
+
+- [Adult dengue vaccination in a low transmission setting: A modelling study in Singapore](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014062) (Plos.org)
+
+- [First whole-genome detection of dengue virus in urban Aedes aegypti from Southern Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014050) (Plos.org)
+
+- [Correction: Tracking the clinico-microbiological profile and molecular characterization of dengue cases during the monsoon-season in Belagavi, Karnataka](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014049) (Plos.org)
