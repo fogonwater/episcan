@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-03-04 07:21
-- **Most recent article:** 2026-03-03 05:00:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2026-03-04 19:19
+- **Most recent article:** 2026-03-03 18:11:56
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 19 | 88 | 76 | 107 | 112 | 111 | 83 | 596 |
-| dengue | 4 | 25 | 16 | 16 | 24 | 17 | 15 | 117 |
-| mpox | 5 | 11 | 4 | 11 | 14 | 25 | 27 | 97 |
+| measles | 26 | 88 | 76 | 107 | 112 | 111 | 83 | 603 |
+| dengue | 5 | 23 | 16 | 16 | 24 | 17 | 15 | 116 |
+| mpox | 6 | 11 | 4 | 11 | 14 | 25 | 27 | 98 |
+| rabies | 7 | 10 | 10 | 11 | 16 | 16 | 14 | 84 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 6 | 84 |
-| rabies | 5 | 10 | 10 | 11 | 16 | 16 | 14 | 82 |
-| h5n1 | 0 | 17 | 22 | 12 | 12 | 11 | 4 | 78 |
-| malaria | 3 | 7 | 8 | 15 | 14 | 10 | 11 | 68 |
-| meningitis | 1 | 1 | 7 | 4 | 7 | 3 | 5 | 28 |
-| leptospirosis | 0 | 4 | 6 | 3 | 2 | 4 | 3 | 22 |
+| h5n1 | 0 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
+| malaria | 5 | 7 | 8 | 15 | 14 | 10 | 11 | 70 |
+| meningitis | 3 | 1 | 7 | 4 | 7 | 3 | 5 | 30 |
+| leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 3 | 23 |
 | zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
-| hpai | 0 | 4 | 3 | 1 | 3 | 1 | 2 | 14 |
+| hpai | 1 | 4 | 3 | 1 | 3 | 1 | 2 | 15 |
 | yersinia | 0 | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
 | typhoid | 1 | 2 | 1 | 2 | 1 | 2 | 2 | 11 |
 | pertussis | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 5 |
@@ -2507,10 +2507,6 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
-- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
-
-- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
-
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2559,10 +2555,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
-- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
-
-- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
-
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2589,6 +2581,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (rabies)
 
+- [Staff treating rabies victim 'suspected Lyme disease'](https://www.bbc.com/news/articles/cx24g7j34xko) (BBC News)
+
+- [What animals Cannot give you rabies?](https://www.lifesciencesworld.com/what-animals-cannot-give-you-rabies/) (Lifesciencesworld.com)
+
 - [Is it true that possums don’t get rabies?](https://www.lifesciencesworld.com/is-it-true-that-possums-dont-get-rabies/) (Lifesciencesworld.com)
 
 - [Can my dog get rabies from possum?](https://www.lifesciencesworld.com/can-my-dog-get-rabies-from-possum/) (Lifesciencesworld.com)
@@ -2605,6 +2601,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (mpox)
 
+- [Mpox: cinco sintomas da doença para ficar de olho; casos se aproximam de 90 no país](https://veja.abril.com.br/saude/mpox-cinco-sintomas-da-doenca-para-ficar-de-olho-casos-se-aproximam-de-90-no-pais/) (Abril.com.br)
+
 - [Optimal Specimens and Lesions for Mpox Diagnosis Using Real-Time PCR, South Korea](https://wwwnc.cdc.gov/eid/article/32/3/25-0582_article) (Cdc.gov)
 
 - [Mpox Outbreak in Wild Monkeys Likely Traced to a Rope Squirrel They Consumed](https://www.discovermagazine.com/mpox-outbreak-in-wild-monkeys-likely-traced-to-a-rope-squirrel-they-consumed-48758) (Discover Magazine)
@@ -2617,9 +2615,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (meningitis)
 
+- [Occurrence of Angiostrongylus cantonensis in invasive snails in the French territories of America, French Guiana, Guadeloupe, and Martinique](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014024) (Plos.org)
+
+- [Child hears again 18 months after brain stem implant at AIIMS](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/child-hears-again-18-months-after-brain-stem-implant-at-aiims/articleshow/128964380.cms) (The Times of India)
+
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [Why is measles spreading in South Carolina? #health](https://alltoc.com/health/why-is-measles-spreading-in-south-carolina) (Alltoc.com)
+
+- [The US doesn't need a surgeon general who is sideways on science (Scott A. Rivkees/The Hill)](https://www.memeorandum.com/260303/p68) (Memeorandum.com)
+
+- [U.S. Tops 1,100 Measles Cases This Year as Outbreaks Grow](https://www.medicinenet.com/us_1100_measles_cases_this_year_outbreak_grows/news.htm) (MedicineNet)
+
+- [Why is measles surging in South Carolina? #health](https://alltoc.com/health/why-is-measles-surging-in-south-carolina) (Alltoc.com)
+
+- [Developing monoclonal antibody therapies for measles could lead to adverse pathogen evolution](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003701) (Plos.org)
+
+- [Why is measles surging in Spartanburg, S.C.? #health](https://alltoc.com/health/why-is-measles-surging-in-spartanburg-s-c) (Alltoc.com)
+
+- [Why is measles surging in the U.S. now? #health](https://alltoc.com/health/why-is-measles-surging-in-the-u-s-now) (Alltoc.com)
 
 - [The Return Of Measles Is Bad. A Polio Comeback Would Be So, So Much Worse](https://www.techdirt.com/2026/03/02/the-return-of-measles-is-bad-a-polio-comeback-would-be-so-so-much-worse/) (Techdirt)
 
@@ -2661,13 +2677,27 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (malaria)
 
+- [Donald Trump appeared on Monday with a red rash on his neck, prompting several questions about his mental health and cancerous malaria.](https://discussionscanadaquebec.blogspot.com/2026/03/donald-trump-appeared-on-monday-with.html) (Blogspot.com)
+
+- [NAFDAC flags Indian firm’s malaria, HIV test kits](https://punchng.com/nafdac-flags-indian-firms-malaria-hiv-test-kits/) (The Punch)
+
 - [Climate shocks, not just warming, threaten malaria control efforts in Africa](https://www.nature.com/articles/d41586-026-00491-2) (Nature.com)
 
 - [“La malaria se ha terminado”: los números negativos de la economía argentina](https://www.lanacion.com.ar/economia/la-malaria-se-ha-terminado-los-numeros-negativos-de-la-economia-argentina-nid02032026/) (La Nacion)
 
 - [When floods hit, the risk of malaria follows: how disaster systems can prepare better](https://theconversation.com/when-floods-hit-the-risk-of-malaria-follows-how-disaster-systems-can-prepare-better-275829) (The Conversation Africa)
 
+## 26-10 (leptospirosis)
+
+- [Punjab water-borne disease outbreak: 110 ill in Ferozepur village; 12-year-old girl dies of suspected Hepatitis E](https://indianexpress.com/article/cities/chandigarh/punjab-water-borne-disease-outbreak-110-ill-in-ferozepur-12-year-old-girl-dies-of-hepatitis-e-10562903/) (The Indian Express)
+
+## 26-10 (hpai)
+
+- [Visitors to Middle Creek urged to be aware of avian flu as they watch migrating snow geese](https://www.readingeagle.com/2026/03/03/middle-creek-wildlife-area-issues-advisory-on-bird-flu-as-snow-geese-migration-intensifies/) (Reading Eagle)
+
 ## 26-10 (dengue)
+
+- [Por que nem todo mosquito transmite dengue?](https://olhardigital.com.br/2026/03/03/ciencia-e-espaco/por-que-nem-todo-mosquito-transmite-dengue/) (Olhardigital.com.br)
 
 - [Confirman primer caso autóctono de dengue en Isla de Pascua desde 2024](https://www.latercera.com/nacional/noticia/confirman-primer-caso-autoctono-de-dengue-en-isla-de-pascua-desde-2024/) (Latercera.com)
 
