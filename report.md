@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-03-03 19:20
-- **Most recent article:** 2026-03-02 19:00:00
+- **New articles in last harvest:** 10
+- **Last harvest:** 2026-03-04 07:21
+- **Most recent article:** 2026-03-03 05:00:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 15 | 88 | 76 | 107 | 112 | 111 | 83 | 592 |
-| dengue | 3 | 23 | 16 | 16 | 24 | 17 | 15 | 114 |
-| mpox | 4 | 11 | 4 | 11 | 14 | 25 | 27 | 96 |
-| chikungunya | 0 | 9 | 8 | 8 | 12 | 40 | 6 | 83 |
-| rabies | 3 | 10 | 10 | 11 | 16 | 16 | 14 | 80 |
-| h5n1 | 0 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
-| malaria | 2 | 7 | 8 | 15 | 14 | 10 | 11 | 67 |
+| measles | 19 | 88 | 76 | 107 | 112 | 111 | 83 | 596 |
+| dengue | 4 | 25 | 16 | 16 | 24 | 17 | 15 | 117 |
+| mpox | 5 | 11 | 4 | 11 | 14 | 25 | 27 | 97 |
+| chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 6 | 84 |
+| rabies | 5 | 10 | 10 | 11 | 16 | 16 | 14 | 82 |
+| h5n1 | 0 | 17 | 22 | 12 | 12 | 11 | 4 | 78 |
+| malaria | 3 | 7 | 8 | 15 | 14 | 10 | 11 | 68 |
 | meningitis | 1 | 1 | 7 | 4 | 7 | 3 | 5 | 28 |
 | leptospirosis | 0 | 4 | 6 | 3 | 2 | 4 | 3 | 22 |
 | zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
@@ -2507,6 +2507,10 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
+- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
+
+- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
+
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2555,6 +2559,10 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
+- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
+
+- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
+
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2581,6 +2589,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (rabies)
 
+- [Is it true that possums don’t get rabies?](https://www.lifesciencesworld.com/is-it-true-that-possums-dont-get-rabies/) (Lifesciencesworld.com)
+
+- [Can my dog get rabies from possum?](https://www.lifesciencesworld.com/can-my-dog-get-rabies-from-possum/) (Lifesciencesworld.com)
+
 - [Research: Rabies case in a dog in Germany](https://www.gov.uk/government/publications/rabies-case-in-a-dog-in-germany) (Www.gov.uk)
 
 - [What if a baby squirrel bites you?](https://www.lifesciencesworld.com/what-if-a-baby-squirrel-bites-you/) (Lifesciencesworld.com)
@@ -2592,6 +2604,8 @@ Source: [News API](https://newsapi.org/)
 - [The Modern Conditions](https://www.newyorker.com/magazine/2026/03/09/the-modern-conditions) (The New Yorker)
 
 ## 26-10 (mpox)
+
+- [Optimal Specimens and Lesions for Mpox Diagnosis Using Real-Time PCR, South Korea](https://wwwnc.cdc.gov/eid/article/32/3/25-0582_article) (Cdc.gov)
 
 - [Mpox Outbreak in Wild Monkeys Likely Traced to a Rope Squirrel They Consumed](https://www.discovermagazine.com/mpox-outbreak-in-wild-monkeys-likely-traced-to-a-rope-squirrel-they-consumed-48758) (Discover Magazine)
 
@@ -2606,6 +2620,14 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [The Return Of Measles Is Bad. A Polio Comeback Would Be So, So Much Worse](https://www.techdirt.com/2026/03/02/the-return-of-measles-is-bad-a-polio-comeback-would-be-so-so-much-worse/) (Techdirt)
+
+- [Why is measles resurging in the U.S.? #health](https://alltoc.com/health/why-is-measles-resurging-in-the-u-s) (Alltoc.com)
+
+- [Meeting on U.S. Measles Status Is Delayed Until November (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/260302/p137) (Memeorandum.com)
+
+- [Second measles case confirmed at Broomfield High School](https://www.denverpost.com/2026/03/02/measles-exposure-broomfield-high-school/) (The Denver Post)
 
 - [As measles spreads in South Carolina, RFK Jr's allies work to gut vaccine laws (Michelle R Smith/The Guardian)](https://www.memeorandum.com/260302/p69) (Memeorandum.com)
 
@@ -2639,14 +2661,22 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (malaria)
 
+- [Climate shocks, not just warming, threaten malaria control efforts in Africa](https://www.nature.com/articles/d41586-026-00491-2) (Nature.com)
+
 - [“La malaria se ha terminado”: los números negativos de la economía argentina](https://www.lanacion.com.ar/economia/la-malaria-se-ha-terminado-los-numeros-negativos-de-la-economia-argentina-nid02032026/) (La Nacion)
 
 - [When floods hit, the risk of malaria follows: how disaster systems can prepare better](https://theconversation.com/when-floods-hit-the-risk-of-malaria-follows-how-disaster-systems-can-prepare-better-275829) (The Conversation Africa)
 
 ## 26-10 (dengue)
 
+- [Confirman primer caso autóctono de dengue en Isla de Pascua desde 2024](https://www.latercera.com/nacional/noticia/confirman-primer-caso-autoctono-de-dengue-en-isla-de-pascua-desde-2024/) (Latercera.com)
+
 - [Adult dengue vaccination in a low transmission setting: A modelling study in Singapore](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014062) (Plos.org)
 
 - [First whole-genome detection of dengue virus in urban Aedes aegypti from Southern Brazil](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014050) (Plos.org)
 
 - [Correction: Tracking the clinico-microbiological profile and molecular characterization of dengue cases during the monsoon-season in Belagavi, Karnataka](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014049) (Plos.org)
+
+## 26-10 (chikungunya)
+
+- [Latvia confirms 3 Chikungunya cases linked to Seychelles](https://www.thestar.com.my/news/world/2026/03/03/latvia-confirms-3-chikungunya-cases-linked-to-seychelles) (The Star Online)
