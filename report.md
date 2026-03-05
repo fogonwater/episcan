@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2026-03-04 19:19
-- **Most recent article:** 2026-03-03 18:11:56
+- **New articles in last harvest:** 8
+- **Last harvest:** 2026-03-05 07:22
+- **Most recent article:** 2026-03-04 03:27:01
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 26 | 88 | 76 | 107 | 112 | 111 | 83 | 603 |
-| dengue | 5 | 23 | 16 | 16 | 24 | 17 | 15 | 116 |
+| measles | 30 | 88 | 76 | 107 | 112 | 111 | 83 | 607 |
+| dengue | 7 | 25 | 16 | 16 | 24 | 17 | 15 | 120 |
 | mpox | 6 | 11 | 4 | 11 | 14 | 25 | 27 | 98 |
-| rabies | 7 | 10 | 10 | 11 | 16 | 16 | 14 | 84 |
+| rabies | 8 | 10 | 10 | 11 | 16 | 16 | 14 | 85 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 6 | 84 |
-| h5n1 | 0 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
-| malaria | 5 | 7 | 8 | 15 | 14 | 10 | 11 | 70 |
+| h5n1 | 0 | 17 | 22 | 12 | 12 | 11 | 4 | 78 |
+| malaria | 6 | 7 | 8 | 15 | 14 | 10 | 11 | 71 |
 | meningitis | 3 | 1 | 7 | 4 | 7 | 3 | 5 | 30 |
 | leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 3 | 23 |
 | zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
@@ -2507,6 +2507,10 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
+- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
+
+- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
+
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2555,6 +2559,10 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
+- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
+
+- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
+
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2580,6 +2588,8 @@ Source: [News API](https://newsapi.org/)
 - [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
 
 ## 26-10 (rabies)
+
+- [Grandmother died from rabies after scratch from stray dog, inquest hears](https://news.sky.com/story/grandmother-died-from-rabies-after-scratch-from-stray-dog-inquest-hears-13514808) (Sky.com)
 
 - [Staff treating rabies victim 'suspected Lyme disease'](https://www.bbc.com/news/articles/cx24g7j34xko) (BBC News)
 
@@ -2622,6 +2632,14 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [Large immigration detention camp in Texas is closed to visitors amid measles outbreak](https://abcnews.com/US/wireStory/large-immigration-detention-camp-texas-closed-visitors-amid-130734299) (Abcnews.com)
+
+- [Why did the South Carolina measles outbreak happen? #health](https://alltoc.com/health/why-did-the-south-carolina-measles-outbreak-happen) (Alltoc.com)
+
+- [A large immigration detention camp in Texas is closed to visitors amid measles outbreak](https://www.bostonherald.com/2026/03/03/immigration-detention-measles/) (Boston Herald)
+
+- [Warning amid new 'fire-breathing' trend...](https://abc7.com/post/new-warning-parents-amid-fire-breathing-social-media-trend-using-isopropyl-alcohol-any-fingernail-polish-remover/18672275/) (KABC-TV)
 
 - [Why is measles spreading in South Carolina? #health](https://alltoc.com/health/why-is-measles-spreading-in-south-carolina) (Alltoc.com)
 
@@ -2677,6 +2695,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (malaria)
 
+- [emodpy-malaria 5.0.3](https://pypi.org/project/emodpy-malaria/) (Pypi.org)
+
 - [Donald Trump appeared on Monday with a red rash on his neck, prompting several questions about his mental health and cancerous malaria.](https://discussionscanadaquebec.blogspot.com/2026/03/donald-trump-appeared-on-monday-with.html) (Blogspot.com)
 
 - [NAFDAC flags Indian firm’s malaria, HIV test kits](https://punchng.com/nafdac-flags-indian-firms-malaria-hiv-test-kits/) (The Punch)
@@ -2696,6 +2716,10 @@ Source: [News API](https://newsapi.org/)
 - [Visitors to Middle Creek urged to be aware of avian flu as they watch migrating snow geese](https://www.readingeagle.com/2026/03/03/middle-creek-wildlife-area-issues-advisory-on-bird-flu-as-snow-geese-migration-intensifies/) (Reading Eagle)
 
 ## 26-10 (dengue)
+
+- [Elevan a cuatro los casos confirmados de dengue en Isla de Pascua](https://www.latercera.com/nacional/noticia/elevan-a-cuatro-los-casos-confirmados-de-dengue-en-isla-de-pascua/) (Latercera.com)
+
+- [Long-term efficacy and safety of the single-dose tetravalent Butantan dengue vaccine](https://www.nature.com/articles/s41591-026-04255-3) (Nature.com)
 
 - [Por que nem todo mosquito transmite dengue?](https://olhardigital.com.br/2026/03/03/ciencia-e-espaco/por-que-nem-todo-mosquito-transmite-dengue/) (Olhardigital.com.br)
 
