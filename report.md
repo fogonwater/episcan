@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-03-05 07:22
-- **Most recent article:** 2026-03-04 03:27:01
+- **New articles in last harvest:** 12
+- **Last harvest:** 2026-03-05 19:31
+- **Most recent article:** 2026-03-04 19:30:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 30 | 88 | 76 | 107 | 112 | 111 | 83 | 607 |
-| dengue | 7 | 25 | 16 | 16 | 24 | 17 | 15 | 120 |
-| mpox | 6 | 11 | 4 | 11 | 14 | 25 | 27 | 98 |
-| rabies | 8 | 10 | 10 | 11 | 16 | 16 | 14 | 85 |
+| measles | 34 | 88 | 76 | 107 | 112 | 111 | 83 | 611 |
+| dengue | 10 | 23 | 16 | 16 | 24 | 17 | 15 | 121 |
+| mpox | 7 | 11 | 4 | 11 | 14 | 25 | 27 | 99 |
+| rabies | 10 | 10 | 10 | 11 | 16 | 16 | 14 | 87 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 6 | 84 |
-| h5n1 | 0 | 17 | 22 | 12 | 12 | 11 | 4 | 78 |
-| malaria | 6 | 7 | 8 | 15 | 14 | 10 | 11 | 71 |
+| h5n1 | 0 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
+| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 11 | 72 |
 | meningitis | 3 | 1 | 7 | 4 | 7 | 3 | 5 | 30 |
-| leptospirosis | 1 | 4 | 6 | 3 | 2 | 4 | 3 | 23 |
+| leptospirosis | 2 | 4 | 6 | 3 | 2 | 4 | 3 | 24 |
 | zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
 | hpai | 1 | 4 | 3 | 1 | 3 | 1 | 2 | 15 |
 | yersinia | 0 | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
@@ -2507,10 +2507,6 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
-- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
-
-- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
-
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2559,10 +2555,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
-- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
-
-- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
-
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2589,6 +2581,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (rabies)
 
+- [Rabies victim's deterioration was 'traumatic'](https://www.bbc.com/news/articles/czr006e4x12o) (BBC News)
+
+- [Family wore PPE as they watched grandmother die from rabies](https://news.sky.com/story/family-wore-ppe-as-they-watched-grandmother-die-from-rabies-inquest-hears-13515280) (Sky.com)
+
 - [Grandmother died from rabies after scratch from stray dog, inquest hears](https://news.sky.com/story/grandmother-died-from-rabies-after-scratch-from-stray-dog-inquest-hears-13514808) (Sky.com)
 
 - [Staff treating rabies victim 'suspected Lyme disease'](https://www.bbc.com/news/articles/cx24g7j34xko) (BBC News)
@@ -2611,6 +2607,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (mpox)
 
+- [Dor insuportável e isolamento de três meses: homem relata experiência com Mpox](https://www.terra.com.br/vida-e-estilo/saude/dor-insuportavel-e-isolamento-de-tres-meses-homem-relata-experiencia-com-mpox,9d9500057194dfdaaa4672c692f66817g27vxa1m.html) (Terra.com.br)
+
 - [Mpox: cinco sintomas da doença para ficar de olho; casos se aproximam de 90 no país](https://veja.abril.com.br/saude/mpox-cinco-sintomas-da-doenca-para-ficar-de-olho-casos-se-aproximam-de-90-no-pais/) (Abril.com.br)
 
 - [Optimal Specimens and Lesions for Mpox Diagnosis Using Real-Time PCR, South Korea](https://wwwnc.cdc.gov/eid/article/32/3/25-0582_article) (Cdc.gov)
@@ -2632,6 +2630,14 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [ICE confirms a measles outbreak in the nation's largest detention facility in Texas](https://www.nbcnews.com/news/us-news/ice-confirms-measles-outbreak-nations-largest-detention-facility-texas-rcna261659) (NBC News)
+
+- [Why is the US facing a measles surge? #health](https://alltoc.com/health/why-is-the-us-facing-a-measles-surge) (Alltoc.com)
+
+- [Alberta issues measles exposure alert for Stollery Children's and U of A hospitals](https://www.cbc.ca/news/canada/edmonton/measles-exposure-feb-25-28-stollery-9.7114349) (CBC News)
+
+- [Why are measles outbreaks resurging in the U.S.? #health](https://alltoc.com/health/why-are-measles-outbreaks-resurging-in-the-u-s) (Alltoc.com)
 
 - [Large immigration detention camp in Texas is closed to visitors amid measles outbreak](https://abcnews.com/US/wireStory/large-immigration-detention-camp-texas-closed-visitors-amid-130734299) (Abcnews.com)
 
@@ -2695,6 +2701,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (malaria)
 
+- [[Latest] Global Malaria Diagnostics Market Size/Share Worth USD 1.45 Billion by 2035 at a 5.2% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)](https://www.globenewswire.com/news-release/2026/03/04/3249671/0/en/Latest-Global-Malaria-Diagnostics-Market-Size-Share-Worth-USD-1-45-Billion-by-2035-at-a-5-2-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html) (GlobeNewswire)
+
 - [emodpy-malaria 5.0.3](https://pypi.org/project/emodpy-malaria/) (Pypi.org)
 
 - [Donald Trump appeared on Monday with a red rash on his neck, prompting several questions about his mental health and cancerous malaria.](https://discussionscanadaquebec.blogspot.com/2026/03/donald-trump-appeared-on-monday-with.html) (Blogspot.com)
@@ -2709,6 +2717,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (leptospirosis)
 
+- [First report of pathogenic Leptospira in Sri Lankan bats: A potential reservoir risk?](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012576) (Plos.org)
+
 - [Punjab water-borne disease outbreak: 110 ill in Ferozepur village; 12-year-old girl dies of suspected Hepatitis E](https://indianexpress.com/article/cities/chandigarh/punjab-water-borne-disease-outbreak-110-ill-in-ferozepur-12-year-old-girl-dies-of-hepatitis-e-10562903/) (The Indian Express)
 
 ## 26-10 (hpai)
@@ -2716,6 +2726,12 @@ Source: [News API](https://newsapi.org/)
 - [Visitors to Middle Creek urged to be aware of avian flu as they watch migrating snow geese](https://www.readingeagle.com/2026/03/03/middle-creek-wildlife-area-issues-advisory-on-bird-flu-as-snow-geese-migration-intensifies/) (Reading Eagle)
 
 ## 26-10 (dengue)
+
+- [What did the Butantan dengue vaccine show? #health](https://alltoc.com/health/what-did-the-butantan-dengue-vaccine-show) (Alltoc.com)
+
+- [Salud Sonora llama a la ciudadanía a prevenir el dengue ante temporada invernal atípica](https://www.tribuna.com.mx/sonora/2026/3/4/salud-sonora-llama-la-ciudadania-prevenir-el-dengue-ante-temporada-invernal-atipica-431168.html) (Tribuna.com.mx)
+
+- [Ministerio de Salud confirma brote de dengue en Rapa Nui: Hay 4 casos positivos y otros 5 sospechosos](https://www.cnnchile.com/pais/ministerio-de-salud-confirma-brote-dengue-rapa-nui-isla-de-pascua_20260304/) (Cnnchile.com)
 
 - [Elevan a cuatro los casos confirmados de dengue en Isla de Pascua](https://www.latercera.com/nacional/noticia/elevan-a-cuatro-los-casos-confirmados-de-dengue-en-isla-de-pascua/) (Latercera.com)
 
