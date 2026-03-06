@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2026-03-05 19:31
-- **Most recent article:** 2026-03-04 19:30:00
+- **New articles in last harvest:** 13
+- **Last harvest:** 2026-03-06 07:21
+- **Most recent article:** 2026-03-05 05:03:04
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 34 | 88 | 76 | 107 | 112 | 111 | 83 | 611 |
-| dengue | 10 | 23 | 16 | 16 | 24 | 17 | 15 | 121 |
+| measles | 41 | 88 | 76 | 107 | 112 | 111 | 83 | 618 |
+| dengue | 10 | 25 | 16 | 16 | 24 | 17 | 15 | 123 |
 | mpox | 7 | 11 | 4 | 11 | 14 | 25 | 27 | 99 |
-| rabies | 10 | 10 | 10 | 11 | 16 | 16 | 14 | 87 |
+| rabies | 12 | 10 | 10 | 11 | 16 | 16 | 14 | 89 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 6 | 84 |
-| h5n1 | 0 | 15 | 22 | 12 | 12 | 11 | 4 | 76 |
-| malaria | 7 | 7 | 8 | 15 | 14 | 10 | 11 | 72 |
+| h5n1 | 1 | 17 | 22 | 12 | 12 | 11 | 4 | 79 |
+| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 11 | 73 |
 | meningitis | 3 | 1 | 7 | 4 | 7 | 3 | 5 | 30 |
 | leptospirosis | 2 | 4 | 6 | 3 | 2 | 4 | 3 | 24 |
 | zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
-| hpai | 1 | 4 | 3 | 1 | 3 | 1 | 2 | 15 |
+| hpai | 2 | 4 | 3 | 1 | 3 | 1 | 2 | 16 |
+| typhoid | 2 | 2 | 1 | 2 | 1 | 2 | 2 | 12 |
 | yersinia | 0 | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
-| typhoid | 1 | 2 | 1 | 2 | 1 | 2 | 2 | 11 |
 | pertussis | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -2507,6 +2507,10 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
+- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
+
+- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
+
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2555,6 +2559,10 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
+- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
+
+- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
+
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2577,9 +2585,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (typhoid)
 
+- [Seroincidence Rate of Typhoidal Salmonella in Children, Kenya, 2017–2018](https://wwwnc.cdc.gov/eid/article/32/3/25-0469_article) (Cdc.gov)
+
 - [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
 
 ## 26-10 (rabies)
+
+- [Latest rabies fatality had no clear bite wound, says Dzulkefly](https://www.thestar.com.my/news/nation/2026/03/05/latest-rabies-fatality-had-no-clear-bite-wound-says-dzulkefly) (The Star Online)
+
+- [Has anyone ever been cured of rabies?](https://www.lifesciencesworld.com/has-anyone-ever-been-cured-of-rabies/) (Lifesciencesworld.com)
 
 - [Rabies victim's deterioration was 'traumatic'](https://www.bbc.com/news/articles/czr006e4x12o) (BBC News)
 
@@ -2630,6 +2644,20 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [Is the US losing measles elimination status? #health](https://alltoc.com/health/is-the-us-losing-measles-elimination-status) (Alltoc.com)
+
+- [A large immigration detention camp in Texas is closed to visitors amid measles outbreak | CNN](https://www.cnn.com/2026/03/04/health/texas-immigration-camp-measles) (CNN)
+
+- [Broomfield measles cluster declared an outbreak after 3rd case confirmed](https://www.denverpost.com/2026/03/04/measles-outbreak-colorado-broomfield-high/) (The Denver Post)
+
+- [CVS Health® reminds Missouri residents of measles vaccine availability amid the state's current activity](https://patch.com/missouri/kansas-city-mo/cvs-health-reminds-missouri-residents-measles-vaccine-availability-amid) (Avon, CT Patch)
+
+- [Winnipeg high school among latest measles exposure sites](https://www.cbc.ca/news/canada/manitoba/winnipeg-measles-exposure-j-h-bruns-collegiate-9.7115077) (CBC News)
+
+- [“Awfully coincidental”: Review of US measles status delayed seven months](https://www.salon.com/2026/03/04/awfully-coincidental-review-of-us-measles-status-delayed-seven-months/) (Salon)
+
+- [What caused the measles surge in the US? #health](https://alltoc.com/health/what-caused-the-measles-surge-in-the-us) (Alltoc.com)
 
 - [ICE confirms a measles outbreak in the nation's largest detention facility in Texas](https://www.nbcnews.com/news/us-news/ice-confirms-measles-outbreak-nations-largest-detention-facility-texas-rcna261659) (NBC News)
 
@@ -2701,6 +2729,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (malaria)
 
+- [Scientists discover the protein that malaria parasites can’t live without](https://www.sciencedaily.com/releases/2026/03/260304184221.htm) (Science Daily)
+
 - [[Latest] Global Malaria Diagnostics Market Size/Share Worth USD 1.45 Billion by 2035 at a 5.2% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)](https://www.globenewswire.com/news-release/2026/03/04/3249671/0/en/Latest-Global-Malaria-Diagnostics-Market-Size-Share-Worth-USD-1-45-Billion-by-2035-at-a-5-2-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html) (GlobeNewswire)
 
 - [emodpy-malaria 5.0.3](https://pypi.org/project/emodpy-malaria/) (Pypi.org)
@@ -2723,7 +2753,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (hpai)
 
+- [New avian influenza vaccine trials begin in UK](https://www.gov.uk/government/news/new-avian-influenza-vaccine-trials-begin-in-uk) (Www.gov.uk)
+
 - [Visitors to Middle Creek urged to be aware of avian flu as they watch migrating snow geese](https://www.readingeagle.com/2026/03/03/middle-creek-wildlife-area-issues-advisory-on-bird-flu-as-snow-geese-migration-intensifies/) (Reading Eagle)
+
+## 26-10 (h5n1)
+
+- [SAG confirma casos de influenza aviar H5N1 en aves silvestres de la Región de Valparaíso: fueron halladas en humedal El Yali](https://www.latercera.com/nacional/noticia/sag-confirma-casos-de-influenza-aviar-h5n1-en-aves-silvestres-de-la-region-de-valparaiso-fueron-halladas-en-humedal-el-yali/) (Latercera.com)
 
 ## 26-10 (dengue)
 
