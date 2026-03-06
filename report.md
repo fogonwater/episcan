@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-03-06 07:21
-- **Most recent article:** 2026-03-05 05:03:04
+- **New articles in last harvest:** 17
+- **Last harvest:** 2026-03-06 19:18
+- **Most recent article:** 2026-03-05 18:35:04
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 41 | 88 | 76 | 107 | 112 | 111 | 83 | 618 |
-| dengue | 10 | 25 | 16 | 16 | 24 | 17 | 15 | 123 |
+| measles | 51 | 88 | 76 | 107 | 112 | 111 | 83 | 628 |
+| dengue | 11 | 23 | 16 | 16 | 24 | 17 | 15 | 122 |
 | mpox | 7 | 11 | 4 | 11 | 14 | 25 | 27 | 99 |
-| rabies | 12 | 10 | 10 | 11 | 16 | 16 | 14 | 89 |
+| rabies | 13 | 10 | 10 | 11 | 16 | 16 | 14 | 90 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 6 | 84 |
-| h5n1 | 1 | 17 | 22 | 12 | 12 | 11 | 4 | 79 |
-| malaria | 8 | 7 | 8 | 15 | 14 | 10 | 11 | 73 |
-| meningitis | 3 | 1 | 7 | 4 | 7 | 3 | 5 | 30 |
+| malaria | 12 | 7 | 8 | 15 | 14 | 10 | 11 | 77 |
+| h5n1 | 1 | 15 | 22 | 12 | 12 | 11 | 4 | 77 |
+| meningitis | 4 | 1 | 7 | 4 | 7 | 3 | 5 | 31 |
 | leptospirosis | 2 | 4 | 6 | 3 | 2 | 4 | 3 | 24 |
 | zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
 | hpai | 2 | 4 | 3 | 1 | 3 | 1 | 2 | 16 |
@@ -2507,10 +2507,6 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
-- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
-
-- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
-
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2559,10 +2555,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
-- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
-
-- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
-
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2590,6 +2582,8 @@ Source: [News API](https://newsapi.org/)
 - [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
 
 ## 26-10 (rabies)
+
+- [Rabies death could change disease notification period](https://www.bbc.com/news/articles/cvgjj2ljkp7o) (BBC News)
 
 - [Latest rabies fatality had no clear bite wound, says Dzulkefly](https://www.thestar.com.my/news/nation/2026/03/05/latest-rabies-fatality-had-no-clear-bite-wound-says-dzulkefly) (The Star Online)
 
@@ -2637,6 +2631,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (meningitis)
 
+- [Meningococcal carriage and transmission dynamics in college students in Louisville, Kentucky](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344194) (Plos.org)
+
 - [Occurrence of Angiostrongylus cantonensis in invasive snails in the French territories of America, French Guiana, Guadeloupe, and Martinique](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014024) (Plos.org)
 
 - [Child hears again 18 months after brain stem implant at AIIMS](https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/child-hears-again-18-months-after-brain-stem-implant-at-aiims/articleshow/128964380.cms) (The Times of India)
@@ -2644,6 +2640,24 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [Texas Detention Camp for Illegals Locks Down Due to Measles - Why Aren't Measles-Obsessed Dems Drawing Attention to This?](https://www.westernjournal.com/texas-detention-camp-illegals-locks-due-measles-arent-measles-obsessed-dems-drawing-attention/) (Westernjournal.com)
+
+- [Measles is not the only disease on the rise. Mumps also may be making a comeback | CNN](https://www.cnn.com/2026/03/05/health/mumps-virus-vaccine-wellness) (CNN)
+
+- [New Mexico confirms latest measles case at a local jail](https://www.nbcnews.com/news/us-news/new-mexico-confirms-latest-measles-case-local-jail-rcna261893) (NBC News)
+
+- [Measles Exposure at Pearson Airport: Toronto Health Alert](https://www.insidehalton.com/news/measles-exposure-pearson-airport-toronto/article_2e8cb990-6c1a-5e64-b204-9424f20f176c.html) (InsideHalton.com)
+
+- [Trump administration to close controversial Ice jail in Texas](https://www.irishtimes.com/world/us/2026/03/05/trump-administration-to-close-controversial-ice-jail-in-texas/) (The Irish Times)
+
+- [Passengers on this Toronto flight could have been exposed to measles](https://www.blogto.com/travel/2026/03/toronto-flight-measles/) (blogTO)
+
+- [LINK FOREX Research Head David Whitcombe Quietly Funds Measles Patients in Mexico](https://www.globenewswire.com/news-release/2026/03/05/3249978/0/en/LINK-FOREX-Research-Head-David-Whitcombe-Quietly-Funds-Measles-Patients-in-Mexico.html) (GlobeNewswire)
+
+- [Here’s what Lancaster County residents need to know to stay protected from measles [Q&A]](https://lancasteronline.com/news/health/here-s-what-lancaster-county-residents-need-to-know-to-stay-protected-from-measles-q/article_13b90346-549e-47c1-8ace-e85a1b2b2d99.html) (LancasterOnline)
+
+- [Lancaster County parents of children too young for vaccination scared amid measles outbreaks](https://lancasteronline.com/news/health/lancaster-county-parents-of-children-too-young-for-vaccination-scared-amid-measles-outbreaks/article_eb25fde7-d332-4ca4-bc83-6a9f7188f46d.html) (LancasterOnline)
 
 - [Is the US losing measles elimination status? #health](https://alltoc.com/health/is-the-us-losing-measles-elimination-status) (Alltoc.com)
 
@@ -2654,6 +2668,8 @@ Source: [News API](https://newsapi.org/)
 - [CVS Health® reminds Missouri residents of measles vaccine availability amid the state's current activity](https://patch.com/missouri/kansas-city-mo/cvs-health-reminds-missouri-residents-measles-vaccine-availability-amid) (Avon, CT Patch)
 
 - [Winnipeg high school among latest measles exposure sites](https://www.cbc.ca/news/canada/manitoba/winnipeg-measles-exposure-j-h-bruns-collegiate-9.7115077) (CBC News)
+
+- [A Virus That Completely Wipes Out Your Immune System Memory Is on the Rise Again](https://www.womenshealthmag.com/health/a70606289/measles-rising-us-data-2026/) (Women's Health)
 
 - [“Awfully coincidental”: Review of US measles status delayed seven months](https://www.salon.com/2026/03/04/awfully-coincidental-review-of-us-measles-status-delayed-seven-months/) (Salon)
 
@@ -2729,6 +2745,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (malaria)
 
+- [Anders Cullhed: António Lobo Antunes skrev ödessymfonier om hatkärleken till Portugal](https://www.dn.se/kultur/anders-cullhed-antonio-lobo-antunes-skrev-odessymfonier-om-hatkarleken-till-portugal/) (Www.dn.se)
+
+- [Malaria, coma et dégoûtée du vélo, Kim Le Court raconte sa folle histoire : “J’ai monté le Mur de Huy accrochée à la barrière”](https://www.lavenir.net/sports/cyclisme/2026/03/05/malaria-coma-et-degoutee-du-velo-kim-le-court-raconte-sa-folle-histoire-jai-monte-le-mur-de-huy-accrochee-a-la-barriere-PFWIISKFDFGQZEGY764SNJNEQI/) (Lavenir.net)
+
+- [Malaria, coma et dégoûtée du vélo, Kim Le Court raconte sa folle histoire : “J’ai monté le Mur de Huy accrochée à la barrière”](https://www.dhnet.be/sports/cyclisme/classiques/2026/03/05/malaria-coma-et-degoutee-du-velo-kim-le-court-raconte-sa-folle-histoire-jai-monte-le-mur-de-huy-accrochee-a-la-barriere-SSVYCKE3TZHXBG7M4NWTCVMHT4/) (dh.be)
+
+- [minte 1.4.1](https://pypi.org/project/minte/1.4.1/) (Pypi.org)
+
 - [Scientists discover the protein that malaria parasites can’t live without](https://www.sciencedaily.com/releases/2026/03/260304184221.htm) (Science Daily)
 
 - [[Latest] Global Malaria Diagnostics Market Size/Share Worth USD 1.45 Billion by 2035 at a 5.2% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)](https://www.globenewswire.com/news-release/2026/03/04/3249671/0/en/Latest-Global-Malaria-Diagnostics-Market-Size-Share-Worth-USD-1-45-Billion-by-2035-at-a-5-2-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentation.html) (GlobeNewswire)
@@ -2762,6 +2786,8 @@ Source: [News API](https://newsapi.org/)
 - [SAG confirma casos de influenza aviar H5N1 en aves silvestres de la Región de Valparaíso: fueron halladas en humedal El Yali](https://www.latercera.com/nacional/noticia/sag-confirma-casos-de-influenza-aviar-h5n1-en-aves-silvestres-de-la-region-de-valparaiso-fueron-halladas-en-humedal-el-yali/) (Latercera.com)
 
 ## 26-10 (dengue)
+
+- [Dengue: vacina do Butantan protege por cinco anos, diz estudo](https://olhardigital.com.br/2026/03/05/medicina-e-saude/dengue-vacina-do-butantan-protege-por-cinco-anos-diz-estudo/) (Olhardigital.com.br)
 
 - [What did the Butantan dengue vaccine show? #health](https://alltoc.com/health/what-did-the-butantan-dengue-vaccine-show) (Alltoc.com)
 
