@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2026-03-06 19:18
-- **Most recent article:** 2026-03-05 18:35:04
+- **New articles in last harvest:** 12
+- **Last harvest:** 2026-03-07 07:14
+- **Most recent article:** 2026-03-06 05:09:17
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 51 | 88 | 76 | 107 | 112 | 111 | 83 | 628 |
-| dengue | 11 | 23 | 16 | 16 | 24 | 17 | 15 | 122 |
+| measles | 55 | 88 | 76 | 107 | 112 | 111 | 83 | 632 |
+| dengue | 14 | 25 | 16 | 16 | 24 | 17 | 15 | 127 |
 | mpox | 7 | 11 | 4 | 11 | 14 | 25 | 27 | 99 |
-| rabies | 13 | 10 | 10 | 11 | 16 | 16 | 14 | 90 |
+| rabies | 15 | 10 | 10 | 11 | 16 | 16 | 14 | 92 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 6 | 84 |
-| malaria | 12 | 7 | 8 | 15 | 14 | 10 | 11 | 77 |
-| h5n1 | 1 | 15 | 22 | 12 | 12 | 11 | 4 | 77 |
+| malaria | 15 | 7 | 8 | 15 | 14 | 10 | 11 | 80 |
+| h5n1 | 2 | 17 | 22 | 12 | 12 | 11 | 4 | 80 |
 | meningitis | 4 | 1 | 7 | 4 | 7 | 3 | 5 | 31 |
 | leptospirosis | 2 | 4 | 6 | 3 | 2 | 4 | 3 | 24 |
 | zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
@@ -2507,6 +2507,10 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
+- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
+
+- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
+
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2555,6 +2559,10 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
+- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
+
+- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
+
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2582,6 +2590,10 @@ Source: [News API](https://newsapi.org/)
 - [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
 
 ## 26-10 (rabies)
+
+- [Do rabid bats get aggressive?](https://www.lifesciencesworld.com/do-rabid-bats-get-aggressive/) (Lifesciencesworld.com)
+
+- [44-year-old man is first rabies death this year](https://www.thestar.com.my/news/nation/2026/03/06/44-year-old-man-is-first-rabies-death-this-year) (The Star Online)
 
 - [Rabies death could change disease notification period](https://www.bbc.com/news/articles/cvgjj2ljkp7o) (BBC News)
 
@@ -2641,6 +2653,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (measles)
 
+- [Measles outbreak erupts in one of U.S.’s largest ICE detention centers](https://www.scientificamerican.com/article/measles-outbreak-erupts-in-one-of-u-s-s-largest-ice-detention-centers/) (Scientific American)
+
+- [What is driving the U.S. measles resurgence? #health](https://alltoc.com/health/what-is-driving-the-u-s-measles-resurgence) (Alltoc.com)
+
+- [Measles exposure locations in Colorado: 2 schools, 3 restaurants and a grocery store](https://www.denverpost.com/2026/03/05/colorado-measles-outbreak-exposures/) (The Denver Post)
+
 - [Texas Detention Camp for Illegals Locks Down Due to Measles - Why Aren't Measles-Obsessed Dems Drawing Attention to This?](https://www.westernjournal.com/texas-detention-camp-illegals-locks-due-measles-arent-measles-obsessed-dems-drawing-attention/) (Westernjournal.com)
 
 - [Measles is not the only disease on the rise. Mumps also may be making a comeback | CNN](https://www.cnn.com/2026/03/05/health/mumps-virus-vaccine-wellness) (CNN)
@@ -2654,6 +2672,8 @@ Source: [News API](https://newsapi.org/)
 - [Passengers on this Toronto flight could have been exposed to measles](https://www.blogto.com/travel/2026/03/toronto-flight-measles/) (blogTO)
 
 - [LINK FOREX Research Head David Whitcombe Quietly Funds Measles Patients in Mexico](https://www.globenewswire.com/news-release/2026/03/05/3249978/0/en/LINK-FOREX-Research-Head-David-Whitcombe-Quietly-Funds-Measles-Patients-in-Mexico.html) (GlobeNewswire)
+
+- [Health minister urges immunization amid measles outbreaks](https://en.antaranews.com/news/407167/health-minister-urges-immunization-amid-measles-outbreaks) (Antaranews.com)
 
 - [Here’s what Lancaster County residents need to know to stay protected from measles [Q&A]](https://lancasteronline.com/news/health/here-s-what-lancaster-county-residents-need-to-know-to-stay-protected-from-measles-q/article_13b90346-549e-47c1-8ace-e85a1b2b2d99.html) (LancasterOnline)
 
@@ -2745,6 +2765,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (malaria)
 
+- [Community health workers trained to combat deadly childhood diseases in Nigeria](https://www.path.org/our-impact/articles/community-health-workers-trained-to-combat-deadly-childhood-diseases-in-nigeria/) (Path.org)
+
+- [Maharashtra reports rising infectious diseases as hospital beds per lakh population decline](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-reports-rising-infectious-diseases-as-hospital-beds-per-lakh-population-decline/articleshow/129112193.cms) (The Times of India)
+
+- [emod-malaria 2.32.24.dev1](https://pypi.org/project/emod-malaria/2.32.24.dev1/) (Pypi.org)
+
 - [Anders Cullhed: António Lobo Antunes skrev ödessymfonier om hatkärleken till Portugal](https://www.dn.se/kultur/anders-cullhed-antonio-lobo-antunes-skrev-odessymfonier-om-hatkarleken-till-portugal/) (Www.dn.se)
 
 - [Malaria, coma et dégoûtée du vélo, Kim Le Court raconte sa folle histoire : “J’ai monté le Mur de Huy accrochée à la barrière”](https://www.lavenir.net/sports/cyclisme/2026/03/05/malaria-coma-et-degoutee-du-velo-kim-le-court-raconte-sa-folle-histoire-jai-monte-le-mur-de-huy-accrochee-a-la-barriere-PFWIISKFDFGQZEGY764SNJNEQI/) (Lavenir.net)
@@ -2783,9 +2809,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (h5n1)
 
+- [Declaran alerta temprana preventiva en Valparaíso tras detección deinfluenza aviar H5N1 en humedal](https://www.df.cl/regiones/valparaiso/declaran-alerta-temprana-preventiva-en-valparaiso-por-presencia-de) (Www.df.cl)
+
 - [SAG confirma casos de influenza aviar H5N1 en aves silvestres de la Región de Valparaíso: fueron halladas en humedal El Yali](https://www.latercera.com/nacional/noticia/sag-confirma-casos-de-influenza-aviar-h5n1-en-aves-silvestres-de-la-region-de-valparaiso-fueron-halladas-en-humedal-el-yali/) (Latercera.com)
 
 ## 26-10 (dengue)
+
+- [Maharashtra reports rising infectious diseases as hospital beds per lakh population decline](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-reports-rising-infectious-diseases-as-hospital-beds-per-lakh-population-decline/articleshow/129112193.cms) (The Times of India)
+
+- [Vacina do Butantan contra a dengue mantém proteção por cinco anos, revela estudo](https://super.abril.com.br/saude/vacina-do-butantan-contra-a-dengue-mantem-protecao-por-cinco-anos-revela-estudo/) (Abril.com.br)
+
+- [Vacina contra a dengue do Butantan protege por 5 anos, diz novo estudo](https://www.metropoles.com/saude/vacina-dengue-butantan-protege-5-anos) (Metropoles.com)
 
 - [Dengue: vacina do Butantan protege por cinco anos, diz estudo](https://olhardigital.com.br/2026/03/05/medicina-e-saude/dengue-vacina-do-butantan-protege-por-cinco-anos-diz-estudo/) (Olhardigital.com.br)
 
