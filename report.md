@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2026-03-07 07:14
-- **Most recent article:** 2026-03-06 05:09:17
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-03-07 19:08
+- **Most recent article:** 2026-03-06 18:09:58
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-4 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 55 | 88 | 76 | 107 | 112 | 111 | 83 | 632 |
-| dengue | 14 | 25 | 16 | 16 | 24 | 17 | 15 | 127 |
+| measles | 62 | 88 | 76 | 107 | 112 | 111 | 83 | 639 |
+| dengue | 20 | 23 | 16 | 16 | 24 | 17 | 15 | 131 |
 | mpox | 7 | 11 | 4 | 11 | 14 | 25 | 27 | 99 |
-| rabies | 15 | 10 | 10 | 11 | 16 | 16 | 14 | 92 |
+| rabies | 16 | 10 | 10 | 11 | 16 | 16 | 14 | 93 |
 | chikungunya | 1 | 9 | 8 | 8 | 12 | 40 | 6 | 84 |
-| malaria | 15 | 7 | 8 | 15 | 14 | 10 | 11 | 80 |
-| h5n1 | 2 | 17 | 22 | 12 | 12 | 11 | 4 | 80 |
+| malaria | 16 | 7 | 8 | 15 | 14 | 10 | 11 | 81 |
+| h5n1 | 2 | 15 | 22 | 12 | 12 | 11 | 4 | 78 |
 | meningitis | 4 | 1 | 7 | 4 | 7 | 3 | 5 | 31 |
 | leptospirosis | 2 | 4 | 6 | 3 | 2 | 4 | 3 | 24 |
-| zika | 0 | 3 | 7 | 0 | 3 | 3 | 2 | 18 |
+| zika | 1 | 3 | 7 | 0 | 3 | 3 | 2 | 19 |
 | hpai | 2 | 4 | 3 | 1 | 3 | 1 | 2 | 16 |
 | typhoid | 2 | 2 | 1 | 2 | 1 | 2 | 2 | 12 |
 | yersinia | 0 | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
@@ -2507,10 +2507,6 @@ Source: [News API](https://newsapi.org/)
 
 - [“Podría evolucionar hacia algo más grave”: qué es el virus H9N2 y por qué preocupa a los científicos](https://www.latercera.com/tendencias/noticia/podria-evolucionar-hacia-algo-mas-grave-que-es-el-virus-h9n2-y-por-que-preocupa-a-los-cientificos/) (Latercera.com)
 
-- [Risco de novos surtos: os vírus que a ciência está de olho em 2026](https://theconversation.com/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026-273530) (The Conversation Africa)
-
-- [Novas epidemias e surtos no horizonte: os vírus que os especialistas estão de olho em 2026](https://super.abril.com.br/saude/novas-epidemias-e-surtos-no-horizonte-os-virus-que-os-especialistas-estao-de-olho-em-2026/) (Abril.com.br)
-
 ## 26-4 (dengue)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2559,10 +2555,6 @@ Source: [News API](https://newsapi.org/)
 
 - [RADYO RONDA MINDANAO NEWS (SURIGAO): KASO SA DENGUE SA SURIGAO CITY MIKUNHOD](https://rpnradio.com/radyo-ronda-mindanao-news-surigao-kaso-sa-dengue-sa-surigao-city-mikunhod/) (Rpnradio.com)
 
-- [Botucatu inicia vacinação contra dengue com imunizante do Butantan](https://www.diariodocentrodomundo.com.br/botucatu-inicia-vacinacao-contra-dengue-com-imunizante-do-butantan/) (Diariodocentrodomundo.com.br)
-
-- [Cidade de SP terá dose única contra dengue neste domingo (18/1). Veja](https://www.metropoles.com/sao-paulo/cidade-de-sp-tera-dose-unica-dengue) (Metropoles.com)
-
 ## 26-4 (chikungunya)
 
 - [Siete consejos para evitar que la casa se llene de mosquitos](https://www.lanacion.com.ar/propiedades/casas-y-departamentos/siete-consejos-para-evitar-que-la-casa-se-llene-de-mosquitos-nid24012026/) (La Nacion)
@@ -2583,6 +2575,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Valneva fait un point sur son vaccin contre le chikungunya IXCHIQ®](https://www.globenewswire.com/news-release/2026/01/19/3221191/0/fr/Valneva-fait-un-point-sur-son-vaccin-contre-le-chikungunya-IXCHIQ.html) (GlobeNewswire)
 
+## 26-10 (zika)
+
+- [Comparative susceptibility of Old World and New World bat cell lines to Zika virus: Insights into viral replication and inflammatory responses](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014065) (Plos.org)
+
 ## 26-10 (typhoid)
 
 - [Seroincidence Rate of Typhoidal Salmonella in Children, Kenya, 2017–2018](https://wwwnc.cdc.gov/eid/article/32/3/25-0469_article) (Cdc.gov)
@@ -2590,6 +2586,8 @@ Source: [News API](https://newsapi.org/)
 - [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
 
 ## 26-10 (rabies)
+
+- [Rabies symptoms you can't ignore after woman dies from dog scratch](https://www.ladbible.com/news/uk-news/rabies-symptoms-yvonne-ford-195760-20260306) (LADbible)
 
 - [Do rabid bats get aggressive?](https://www.lifesciencesworld.com/do-rabid-bats-get-aggressive/) (Lifesciencesworld.com)
 
@@ -2652,6 +2650,20 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [33 more confirmed measles cases in Manitoba bring total to 248 so far this year](https://www.cbc.ca/news/canada/manitoba/measles-manitoba-vaccination-9.7117474) (CBC News)
+
+- [Mumps infections reveal that vaccine-preventable illnesses are resurging in the U.S.](https://www.scientificamerican.com/article/mumps-infections-reveal-that-vaccine-preventable-illnesses-are-resurging-in/) (Scientific American)
+
+- [4 more measles cases linked to Broomfield school outbreak, with new exposure at Denver airport](https://www.denverpost.com/2026/03/06/measles-broomfield-schools-denver-airport/) (The Denver Post)
+
+- [“If measles-mumps-rubella vaccination rates decline...](https://kottke.org/26/03/0048505-if-measles-mumps-rubella-) (kottke.org)
+
+- [Measles cases on the rise in north London](https://www.bbc.com/news/articles/cwy9xd67z85o) (BBC News)
+
+- [What is driving the US measles surge? #health](https://alltoc.com/health/what-is-driving-the-us-measles-surge) (Alltoc.com)
+
+- [NHS Grampian confirms second case of measles since 2014](https://www.bbc.com/news/articles/c78jrmpn8lgo) (BBC News)
 
 - [Measles outbreak erupts in one of U.S.’s largest ICE detention centers](https://www.scientificamerican.com/article/measles-outbreak-erupts-in-one-of-u-s-s-largest-ice-detention-centers/) (Scientific American)
 
@@ -2765,6 +2777,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (malaria)
 
+- [Exploring the importance and preference of sugar feeding behaviour of malaria vectors in sugar plantations of southern Malawi](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344351) (Plos.org)
+
 - [Community health workers trained to combat deadly childhood diseases in Nigeria](https://www.path.org/our-impact/articles/community-health-workers-trained-to-combat-deadly-childhood-diseases-in-nigeria/) (Path.org)
 
 - [Maharashtra reports rising infectious diseases as hospital beds per lakh population decline](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-reports-rising-infectious-diseases-as-hospital-beds-per-lakh-population-decline/articleshow/129112193.cms) (The Times of India)
@@ -2814,6 +2828,18 @@ Source: [News API](https://newsapi.org/)
 - [SAG confirma casos de influenza aviar H5N1 en aves silvestres de la Región de Valparaíso: fueron halladas en humedal El Yali](https://www.latercera.com/nacional/noticia/sag-confirma-casos-de-influenza-aviar-h5n1-en-aves-silvestres-de-la-region-de-valparaiso-fueron-halladas-en-humedal-el-yali/) (Latercera.com)
 
 ## 26-10 (dengue)
+
+- [Vacina da dengue do Butantan mantém eficácia de 80,5% contra formas graves da doença](https://www.infomoney.com.br/saude/vacina-da-dengue-do-butantan-mantem-eficacia-de-805-contra-formas-graves-da-doenca/) (InfoMoney)
+
+- [Vacina do Butantan mantém proteção contra formas graves da dengue por ao menos cinco anos, diz pesquisa](https://veja.abril.com.br/saude/vacina-do-butantan-mantem-protecao-contra-formas-graves-da-dengue-por-ao-menos-cinco-anos-diz-pesquisa/) (Abril.com.br)
+
+- [Calor e chuva aceleram avanço da dengue no país](https://www.terra.com.br/noticias/calor-e-chuva-aceleram-avanco-da-dengue-no-pais,5ed9b6f6a281749c5380960c196b6d70b084a8uw.html) (Terra.com.br)
+
+- [Calor e chuva aceleram avanço da dengue no país](https://valor.globo.com/patrocinado/dino/noticia/2026/03/06/calor-e-chuva-aceleram-avanco-da-dengue-no-pais-1.ghtml) (Globo)
+
+- [Hospital Moinhos de Vento apresenta estudo clínico de Vacina da Dengue em população adulta e idosa](https://www.terra.com.br/noticias/hospital-moinhos-de-vento-apresenta-estudo-clinico-de-vacina-da-dengue-em-populacao-adulta-e-idosa,fb5336a4fec6a238e1ea651018484246wb0efv69.html) (Terra.com.br)
+
+- [Cofepris da visto bueno a vacuna contra el dengue del laboratorio Takeda](https://www.jornada.com.mx/2026/03/06/sociedad/035n1soc) (Jornada.com.mx)
 
 - [Maharashtra reports rising infectious diseases as hospital beds per lakh population decline](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-reports-rising-infectious-diseases-as-hospital-beds-per-lakh-population-decline/articleshow/129112193.cms) (The Times of India)
 
