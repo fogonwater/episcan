@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-03-08 07:16
-- **Most recent article:** 2026-03-07 05:00:27
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-03-08 19:10
+- **Most recent article:** 2026-03-07 18:07:37
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 67 | 75 | 107 | 112 | 111 | 83 | 555 |
+| measles | 70 | 73 | 107 | 112 | 111 | 83 | 556 |
 | dengue | 21 | 16 | 16 | 24 | 17 | 15 | 109 |
-| mpox | 7 | 3 | 11 | 14 | 25 | 27 | 87 |
+| mpox | 10 | 3 | 11 | 14 | 25 | 27 | 90 |
 | rabies | 17 | 9 | 11 | 16 | 16 | 14 | 83 |
 | chikungunya | 1 | 8 | 8 | 12 | 40 | 6 | 75 |
 | malaria | 16 | 8 | 15 | 14 | 10 | 11 | 74 |
 | h5n1 | 2 | 21 | 12 | 12 | 11 | 4 | 62 |
 | meningitis | 4 | 7 | 4 | 7 | 3 | 5 | 30 |
-| leptospirosis | 2 | 6 | 3 | 2 | 4 | 3 | 20 |
+| leptospirosis | 2 | 5 | 3 | 2 | 4 | 3 | 19 |
 | zika | 1 | 7 | 0 | 3 | 3 | 2 | 16 |
+| yersinia | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
 | hpai | 2 | 3 | 1 | 3 | 1 | 2 | 12 |
-| yersinia | 1 | 5 | 1 | 2 | 1 | 1 | 11 |
 | typhoid | 2 | 0 | 2 | 1 | 2 | 2 | 9 |
 | pertussis | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
@@ -2035,10 +2035,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
-- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
-
-- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
-
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2068,8 +2064,6 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
-
-- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2181,6 +2175,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (yersinia)
 
+- [A 4,000-year-old sheep reveals the secret of an ancient plague](https://www.sciencedaily.com/releases/2026/03/260306224232.htm) (Science Daily)
+
 - [Překvapivý důsledek Černé smrti: S lidmi zmizely i rostliny](https://www.osel.cz/14568-prekvapivy-dusledek-cerne-smrti-s-lidmi-zmizely-i-rostliny.html) (Osel.cz)
 
 ## 26-10 (typhoid)
@@ -2231,6 +2227,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (mpox)
 
+- [ΕΟΔΥ: Παραιτήθηκε το ΔΣ και οι αλλαγές στη διοίκηση του Οργανισμού](https://www.newsit.gr/ellada/eody-paraitithike-to-ds-kai-oi-allages-sti-dioikisi-tou-organismou/4619397/) (Newsit.gr)
+
+- [Mpox: Brasil registra 136 casos em cinco novos estados](https://www.metropoles.com/saude/mpox-brasil-registra-136-casos) (Metropoles.com)
+
+- [Mpox: 5 novos estados registram casos da doença; total no Brasil chega a 136](https://oglobo.globo.com/saude/noticia/2026/03/07/mpox-5-novos-estados-registram-casos-da-doenca-total-no-brasil-chega-a-136.ghtml) (Globo)
+
 - [Dor insuportável e isolamento de três meses: homem relata experiência com Mpox](https://www.terra.com.br/vida-e-estilo/saude/dor-insuportavel-e-isolamento-de-tres-meses-homem-relata-experiencia-com-mpox,9d9500057194dfdaaa4672c692f66817g27vxa1m.html) (Terra.com.br)
 
 - [Mpox: cinco sintomas da doença para ficar de olho; casos se aproximam de 90 no país](https://veja.abril.com.br/saude/mpox-cinco-sintomas-da-doenca-para-ficar-de-olho-casos-se-aproximam-de-90-no-pais/) (Abril.com.br)
@@ -2256,6 +2258,12 @@ Source: [News API](https://newsapi.org/)
 - [Miriam Garlo, una actriz revelación que va más allá de su sordera](https://www.abc.es/cultura/miriam-garlo-actriz-revelacion-alla-sordera-20260301011607-nt.html) (Www.abc.es)
 
 ## 26-10 (measles)
+
+- [Why are measles outbreaks rising in the US? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising-in-the-us) (Alltoc.com)
+
+- [How a Measles Outbreak Begins, Featuring the State of Colorado](https://www.jezebel.com/measles-outbreaks-cases-colorado-schools-cdc-utah-contact-tracing-infections-incubation-rfk) (Jezebel)
+
+- [Journalists Explain a Spat Over Sugary Coffee and How Measles Fools Doctors](https://kffhealthnews.org/news/article/on-air-march-7-2026-measles-rural-health-transformation-program-dunkin-coffee/) (Kffhealthnews.org)
 
 - [Northern Health confirms two new measles cases on March 5th](https://energeticcity.ca/2026/03/06/confirmed-measles-cases-in-northeast-b-c-exceeds-320-in-latest-update/) (Energeticcity.ca)
 
