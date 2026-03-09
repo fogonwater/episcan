@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-03-08 19:10
-- **Most recent article:** 2026-03-07 18:07:37
+- **New articles in last harvest:** 4
+- **Last harvest:** 2026-03-09 07:27
+- **Most recent article:** 2026-03-08 02:38:30
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-10 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 70 | 73 | 107 | 112 | 111 | 83 | 556 |
-| dengue | 21 | 16 | 16 | 24 | 17 | 15 | 109 |
-| mpox | 10 | 3 | 11 | 14 | 25 | 27 | 90 |
-| rabies | 17 | 9 | 11 | 16 | 16 | 14 | 83 |
-| chikungunya | 1 | 8 | 8 | 12 | 40 | 6 | 75 |
-| malaria | 16 | 8 | 15 | 14 | 10 | 11 | 74 |
-| h5n1 | 2 | 21 | 12 | 12 | 11 | 4 | 62 |
-| meningitis | 4 | 7 | 4 | 7 | 3 | 5 | 30 |
-| leptospirosis | 2 | 5 | 3 | 2 | 4 | 3 | 19 |
-| zika | 1 | 7 | 0 | 3 | 3 | 2 | 16 |
-| yersinia | 2 | 5 | 1 | 2 | 1 | 1 | 12 |
-| hpai | 2 | 3 | 1 | 3 | 1 | 2 | 12 |
-| typhoid | 2 | 0 | 2 | 1 | 2 | 2 | 9 |
-| pertussis | 1 | 1 | 1 | 1 | 0 | 0 | 4 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 70 | 0 | 75 | 107 | 112 | 111 | 83 | 558 |
+| dengue | 22 | 0 | 16 | 16 | 24 | 17 | 15 | 110 |
+| mpox | 10 | 0 | 3 | 11 | 14 | 25 | 27 | 90 |
+| rabies | 18 | 1 | 9 | 11 | 16 | 16 | 14 | 85 |
+| chikungunya | 1 | 0 | 8 | 8 | 12 | 40 | 6 | 75 |
+| malaria | 16 | 0 | 8 | 15 | 14 | 10 | 11 | 74 |
+| h5n1 | 2 | 0 | 21 | 12 | 12 | 11 | 4 | 62 |
+| meningitis | 4 | 0 | 7 | 4 | 7 | 3 | 5 | 30 |
+| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
+| zika | 1 | 0 | 7 | 0 | 3 | 3 | 2 | 16 |
+| yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
+| hpai | 2 | 0 | 3 | 1 | 3 | 1 | 2 | 12 |
+| typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
+| pertussis | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 4 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -2035,6 +2035,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
+- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
+
+- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
+
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2064,6 +2068,8 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
+
+- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2169,6 +2175,10 @@ Source: [News API](https://newsapi.org/)
 
 - [O que a dengue tem a ver com a saúde das articulações](https://veja.abril.com.br/coluna/letra-de-medico/o-que-a-dengue-tem-a-ver-com-a-saude-das-articulacoes/) (Abril.com.br)
 
+## 26-11 (rabies)
+
+- [What diseases do coyotes carry?](https://www.lifesciencesworld.com/what-diseases-do-coyotes-carry/) (Lifesciencesworld.com)
+
 ## 26-10 (zika)
 
 - [Comparative susceptibility of Old World and New World bat cell lines to Zika virus: Insights into viral replication and inflammatory responses](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014065) (Plos.org)
@@ -2181,11 +2191,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-10 (typhoid)
 
+- [Alias: Red Band #1 Preview: Jessica Jones' Deadly Detective Drama](https://bleedingcool.com/comics/alias-red-band-1-preview-jessica-jones-deadly-detective-drama/) (Bleeding Cool News)
+
 - [Seroincidence Rate of Typhoidal Salmonella in Children, Kenya, 2017–2018](https://wwwnc.cdc.gov/eid/article/32/3/25-0469_article) (Cdc.gov)
 
 - [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
 
 ## 26-10 (rabies)
+
+- [BMC to launch mass anti-rabies vaccination drive for 52,000 dogs](https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-to-launches-mass-anti-rabies-vaccination-drive-for-52000-dogs/articleshow/129232046.cms) (The Times of India)
 
 - [What does it mean to see a racoon during the day?](https://www.lifesciencesworld.com/what-does-it-mean-to-see-a-racoon-during-the-day/) (Lifesciencesworld.com)
 
@@ -2452,6 +2466,8 @@ Source: [News API](https://newsapi.org/)
 - [SAG confirma casos de influenza aviar H5N1 en aves silvestres de la Región de Valparaíso: fueron halladas en humedal El Yali](https://www.latercera.com/nacional/noticia/sag-confirma-casos-de-influenza-aviar-h5n1-en-aves-silvestres-de-la-region-de-valparaiso-fueron-halladas-en-humedal-el-yali/) (Latercera.com)
 
 ## 26-10 (dengue)
+
+- [Ascienden a nueve los casos confirmados de dengue en Rapa Nui](https://www.latercera.com/nacional/noticia/ascienden-a-nueve-los-casos-confirmados-de-dengue-en-rapa-nui/) (Latercera.com)
 
 - ["Vamos demorar anos para vacinar todos contra a dengue", diz diretor do Butantan. Veja vídeo](https://www.metropoles.com/saude/diretor-do-butantan-vacina-contra-dengue) (Metropoles.com)
 
