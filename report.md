@@ -1,7 +1,7 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2026-03-09 07:27
+- **New articles in last harvest:** 0
+- **Last harvest:** 2026-03-09 19:20
 - **Most recent article:** 2026-03-08 02:38:30
 
 ---
@@ -12,7 +12,7 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 0 | 75 | 107 | 112 | 111 | 83 | 558 |
+| measles | 70 | 0 | 73 | 107 | 112 | 111 | 83 | 556 |
 | dengue | 22 | 0 | 16 | 16 | 24 | 17 | 15 | 110 |
 | mpox | 10 | 0 | 3 | 11 | 14 | 25 | 27 | 90 |
 | rabies | 18 | 1 | 9 | 11 | 16 | 16 | 14 | 85 |
@@ -20,7 +20,7 @@ By US epiweek (i.e. Sunday to Saturday)
 | malaria | 16 | 0 | 8 | 15 | 14 | 10 | 11 | 74 |
 | h5n1 | 2 | 0 | 21 | 12 | 12 | 11 | 4 | 62 |
 | meningitis | 4 | 0 | 7 | 4 | 7 | 3 | 5 | 30 |
-| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
+| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
 | zika | 1 | 0 | 7 | 0 | 3 | 3 | 2 | 16 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
 | hpai | 2 | 0 | 3 | 1 | 3 | 1 | 2 | 12 |
@@ -2035,10 +2035,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
-- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
-
-- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
-
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2068,8 +2064,6 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
-
-- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
