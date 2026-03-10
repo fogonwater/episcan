@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-03-10 07:22
-- **Most recent article:** 2026-03-09 06:54:12
+- **New articles in last harvest:** 13
+- **Last harvest:** 2026-03-10 19:20
+- **Most recent article:** 2026-03-09 17:06:47
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 4 | 75 | 107 | 112 | 111 | 83 | 562 |
-| dengue | 22 | 1 | 16 | 16 | 24 | 17 | 15 | 111 |
-| mpox | 10 | 1 | 3 | 11 | 14 | 25 | 27 | 91 |
+| measles | 70 | 7 | 73 | 107 | 112 | 111 | 83 | 563 |
+| dengue | 22 | 3 | 16 | 16 | 24 | 17 | 15 | 113 |
+| mpox | 10 | 4 | 3 | 11 | 14 | 25 | 27 | 94 |
 | rabies | 18 | 1 | 9 | 11 | 16 | 16 | 14 | 85 |
-| chikungunya | 1 | 1 | 8 | 8 | 12 | 40 | 6 | 76 |
+| chikungunya | 1 | 2 | 8 | 8 | 12 | 40 | 6 | 77 |
 | malaria | 16 | 0 | 8 | 15 | 14 | 10 | 11 | 74 |
 | h5n1 | 2 | 0 | 21 | 12 | 12 | 11 | 4 | 62 |
-| meningitis | 4 | 0 | 7 | 4 | 7 | 3 | 5 | 30 |
-| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
+| meningitis | 4 | 3 | 7 | 4 | 7 | 3 | 5 | 33 |
+| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
 | zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
 | hpai | 2 | 0 | 3 | 1 | 3 | 1 | 2 | 12 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
-| pertussis | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 4 |
+| pertussis | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
@@ -2035,10 +2035,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
-- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
-
-- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
-
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2068,8 +2064,6 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
-
-- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2185,11 +2179,35 @@ Source: [News API](https://newsapi.org/)
 
 - [What diseases do coyotes carry?](https://www.lifesciencesworld.com/what-diseases-do-coyotes-carry/) (Lifesciencesworld.com)
 
+## 26-11 (pertussis)
+
+- [Infanrix and Infanrix-hexa Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252005/28124/en/Infanrix-and-Infanrix-hexa-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
+
 ## 26-11 (mpox)
+
+- [Mpox No Longer Classified as Public Health Emergency – Health Minister | Ghana News Agency](https://gna.org.gh/2026/03/mpox-no-longer-classified-as-public-health-emergency-health-minister/) (Gna.org.gh)
+
+- [Mpox: número de casos aumenta e chega a 129; saiba quem está em maior risco](https://veja.abril.com.br/saude/mpox-numero-de-casos-aumenta-e-chega-a-129-saiba-quem-esta-em-maior-risco/) (Abril.com.br)
+
+- [Acam2000 Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252001/28124/en/Acam2000-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 - [ΕΟΔΥ: Το παρασκήνιο πίσω από την παραίτηση του επιστημονικού συμβουλίου](https://www.protothema.gr/greece/article/1785577/eodu-to-paraskinio-piso-apo-tin-paraitisi-tou-epistimonikou-sumvouliou/) (Protothema.gr)
 
+## 26-11 (meningitis)
+
+- [Menquadfi (Sanofi) Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252049/28124/en/Menquadfi-Sanofi-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
+
+- [Bexsero Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252038/28124/en/Bexsero-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
+
+- [Menveo Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251994/28124/en/Menveo-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
+
 ## 26-11 (measles)
+
+- [Signs Enfield measles outbreak is 'stabilising'](https://www.bbc.com/news/articles/cq571wweg5lo) (BBC News)
+
+- [A measles surge, AI in warfare and accelerated global warming](https://www.scientificamerican.com/podcast/episode/a-measles-surge-ai-in-warfare-and-accelerated-global-warming/) (Scientific American)
+
+- [Babies exposed to measles getting preventive treatment every week in Manitoba](https://www.cbc.ca/news/canada/manitoba/babies-measles-preventive-treatment-manitoba-immune-globulin-vaccine-9.7117547) (CBC News)
 
 - [Basoda 2026: When is Sheetala Ashtami? check date and puja rituals](https://timesofindia.indiatimes.com/religion/festivals/basoda-2026-when-is-sheetala-ashtami-check-date-and-puja-rituals/articleshow/129314558.cms) (The Times of India)
 
@@ -2201,9 +2219,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (dengue)
 
+- [Dengvaxia Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251996/28124/en/Dengvaxia-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
+
+- [Correction: Prognostic prediction of dengue hemorrhagic fever in pediatric patients with suspected dengue infection: A multi-site study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344487) (Plos.org)
+
 - [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
 
 ## 26-11 (chikungunya)
+
+- [Ixchiq (Valneva) Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252100/28124/en/Ixchiq-Valneva-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 - [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
 

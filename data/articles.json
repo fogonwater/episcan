@@ -1,8 +1,242 @@
 {
-  "last_updated": "2026-03-10 07:22",
-  "count_articles_total": 1144,
-  "count_articles_new": 7,
+  "last_updated": "2026-03-10 19:20",
+  "count_articles_total": 1154,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 28237,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gna.org.gh",
+      "author": "Gna",
+      "title": "Mpox No Longer Classified as Public Health Emergency \u2013 Health Minister | Ghana News Agency",
+      "description": "By Godwill Arthur-Mensah, GNA Accra, March 9, GNA \u2013 The Minister of Health, Mr. Kwabena Mintah Akandoh, has announced that Mpox is no longer classified as a public health\u2026",
+      "url": "https://gna.org.gh/2026/03/mpox-no-longer-classified-as-public-health-emergency-health-minister/",
+      "urlToImage": "https://gna.org.gh/web/wp-content/uploads/2024/10/MPOX.png",
+      "publishedAt": "2026-03-09 17:06:47",
+      "content": "By Godwill Arthur-Mensah, GNA Accra, March 9, GNA The Minister of Health, Mr. Kwabena Mintah Akandoh, has announced that Mpox is no longer classified as a public health emergency of international c\u2026 [+2492 chars]",
+      "retrievedAt": "2026-03-10 19:20:08.456488",
+      "internal_id": "b00f6fe53a73389026900ddabb09aab1591dfa60966466e6ddb5ef4ff9714cc7",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28234,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Ixchiq (Valneva) Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "Key opportunities in the IXCHIQ market include climate-influenced expansion of mosquito-borne diseases, growing travel immunization demand, adult vaccine acceptance, and advancements in vaccine development. The approval of the first chikungunya vaccine and in\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3252100/28124/en/Ixchiq-Valneva-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-09 16:18:00",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Ixchiq Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. The \u2026 [+6849 chars]",
+      "retrievedAt": "2026-03-10 19:20:08.206322",
+      "internal_id": "6e367e4a98141566011b5da53e018bf377867c79b9b1fc3e6cba2e00099125dc",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28235,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Paula Felix",
+      "title": "Mpox: n\u00famero de casos aumenta e chega a 129; saiba quem est\u00e1 em maior risco",
+      "description": "Crescimento foi de 46,5% em rela\u00e7\u00e3o ao \u00faltimo balan\u00e7o do Minist\u00e9rio da Sa\u00fade; outros 570 epis\u00f3dios da doen\u00e7a est\u00e3o em investiga\u00e7\u00e3o",
+      "url": "https://veja.abril.com.br/saude/mpox-numero-de-casos-aumenta-e-chega-a-129-saiba-quem-esta-em-maior-risco/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/02/GettyImages-2169822795.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-03-09 16:05:11",
+      "content": "Pular para o conte\u00fado Oferta Rel\u00e2mpago: VEJA por apenas 9,90V\u00edrus da mpox: ele causa febre, dores pelo corpo e les\u00f5es na pele em formato de bolhas (Foto: GI/Getty Images) Continua ap\u00f3s publicidade \u2026 [+4782 chars]",
+      "retrievedAt": "2026-03-10 19:20:08.384912",
+      "internal_id": "a38aed649a092fe5abd7a01012e11e802043db32e7f4443e778dd9b683b93855",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28227,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Signs Enfield measles outbreak is 'stabilising'",
+      "description": "Health bosses have been questioned by London politicians amid a measles outbreak in north London.",
+      "url": "https://www.bbc.com/news/articles/cq571wweg5lo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0ab0/live/abdea260-0dcc-11f1-96d8-dbf82d6fb674.jpg",
+      "publishedAt": "2026-03-09 15:53:58",
+      "content": "From endometriosis and cervical cancer, to diabetes, vitamin D deficiency and pollution exposure, scientists are finding period blood offers a window into women's wellbeing.",
+      "retrievedAt": "2026-03-10 19:20:06.206651",
+      "internal_id": "060e1500747caedf5901e95d28c91ef64bbd29f9febab122d2f8045bac2faf18",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28231,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Menquadfi (Sanofi) Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "The MenQuadfi market opportunities include expanding immunization schedules, booster vaccine demand, travel and outbreak vaccinations, next-gen vaccine investments, global disease prevention focus, quadrivalent conjugate vaccine adoption, increased meningitis\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3252049/28124/en/Menquadfi-Sanofi-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-09 15:44:00",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Menquadfi Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. T\u2026 [+4001 chars]",
+      "retrievedAt": "2026-03-10 19:20:07.309241",
+      "internal_id": "64b3efebb811b3d94898719ff87d85c7431fbeb9f21f73d6857c358719b5923e",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28233,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Bexsero Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "Key market opportunities include the expansion of adolescent and pediatric vaccination programs, increased public health funding, government-led immunization campaigns, and rising awareness of meningitis. Additionally, growing R&D and the focus on innovative \u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3252038/28124/en/Bexsero-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-09 15:27:00",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Bexsero Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. The\u2026 [+6170 chars]",
+      "retrievedAt": "2026-03-10 19:20:07.336277",
+      "internal_id": "ceef2a890185c795f72d2b4fb6b7c4b65e0eab21ad82d6ea0932b55785fa5819",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28225,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Infanrix and Infanrix-hexa Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "Key market opportunities include rising birth rates in emerging economies, universal immunization expansion, increased vaccine manufacturing investments, and global health organization participation. Growth is driven by pertussis prevalence, healthcare spendi\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3252005/28124/en/Infanrix-and-Infanrix-hexa-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-09 14:58:00",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Infanrix and Infanrix-hexa Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.c\u2026 [+5144 chars]",
+      "retrievedAt": "2026-03-10 19:20:05.384129",
+      "internal_id": "3a7dc2bf61276aaabd30327309c29033d962083e174e4becf65432faae710104",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28236,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Acam2000 Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "Key market opportunities for ACAM2000 include addressing mpox outbreaks, leveraging increased biodefense funding, expanding emergency stockpiles, and enhancing focus on global health security and high-risk population immunization. Rising healthcare expenditur\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3252001/28124/en/Acam2000-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-09 14:51:00",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Acam2000 Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. Th\u2026 [+3752 chars]",
+      "retrievedAt": "2026-03-10 19:20:08.443772",
+      "internal_id": "d7710201490d8cef4da5c69b0c0b9473a572de4621b0d2e9e192a8336c1a11ad",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28229,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Dengvaxia Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "Key market opportunities for Dengvaxia include expanding vaccination programs, rising demand due to climate-induced mosquito spread, increased public health funding, and growth in travel-related immunization. Growth is driven by high dengue incidence, healthc\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251996/28124/en/Dengvaxia-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-09 14:46:00",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Dengvaxia Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. T\u2026 [+4218 chars]",
+      "retrievedAt": "2026-03-10 19:20:07.060198",
+      "internal_id": "131fa45f4fc0894a53eb687237e59784d382bc975c7e1e368515035253717d1a",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28232,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Menveo Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "The Menveo market is driven by the rising prevalence of meningitis, global healthcare infrastructure expansion, and innovative vaccine formulations. Conjugate vaccines and travel vaccinations see growing demand. Market growth is enhanced by tariff impacts and\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/09/3251994/28124/en/Menveo-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-09 14:44:00",
+      "content": "Dublin, March 09, 2026 (GLOBE NEWSWIRE) -- The \"Menveo Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. The \u2026 [+4627 chars]",
+      "retrievedAt": "2026-03-10 19:20:07.323343",
+      "internal_id": "a2f32375291423b31b8ad6fd6b1719b985ced1c291a176a97721afa51a8fc5d9",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28230,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Myat Su Yin, Peter Haddawy, Panhavath Meth, Araya Srikaew, Chonnikarn Wavemanee, Saranath Lawpoolsri Niyom, Kanokwan Sriraksa, Wannee Limpitikul, Preedawadee Kittirat, Nasikarn Angkasekwinai, Oranich Navanukroh, Arunee Mapralub, Supansa Pakdee, Chotika Kaewpuak, Nattaya Tangthawornchaikul, Prida Malasit, Panisadee Avirutnan, Dumrong Mairiang",
+      "title": "Correction: Prognostic prediction of dengue hemorrhagic fever in pediatric patients with suspected dengue infection: A multi-site study",
+      "description": "",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344487",
+      "urlToImage": null,
+      "publishedAt": "2026-03-09 14:00:00",
+      "content": "In the Ethics Statement section, there is an error in the fourth sentence. The correct sentence is: The cohort study was approved by the Institutional Review Board (IRB) and Ethics Committee for Huma\u2026 [+1424 chars]",
+      "retrievedAt": "2026-03-10 19:20:07.107882",
+      "internal_id": "f62994a79c4908a8bfc1188e73618f03ed853a7278a057d44115f1aa4631f395",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28226,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Kendra Pierre-Louis, Sushmita Pathak, Joseph Howlett, Alex Sugiura",
+      "title": "A measles surge, AI in warfare and accelerated global warming",
+      "description": "Why measles cases are rising in the U.S., how artificial intelligence is shaping warfare, and what accelerated global warming means for the world",
+      "url": "https://www.scientificamerican.com/podcast/episode/a-measles-surge-ai-in-warfare-and-accelerated-global-warming/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/15fac8e01c19da5f/original/2603_SQ_MON_MARCH_09.png?m=1772833220.873&w=1200",
+      "publishedAt": "2026-03-09 10:00:00",
+      "content": "Kendra Pierre-Louis: For Scientific American\u2019s Science Quickly, I\u2019m Kendra Pierre-Louis, in for Rachel Feltman. You\u2019re listening to our weekly science news roundup. First, we have an update on measl\u2026 [+11973 chars]",
+      "retrievedAt": "2026-03-10 19:20:06.135425",
+      "internal_id": "56fe3836d7024fc2f84c0ffddccccfa92c36fc1406e8e6bf3a05d1d6fbd5a54d",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28228,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Babies exposed to measles getting preventive treatment every week in Manitoba",
+      "description": "An average of one baby a week in the Southern Health region is being given a preventive treatment after a potential measles exposure, which a health official says is a sign of the disease's widespread transmission and the vulnerability of babies too young to \u2026",
+      "url": "https://www.cbc.ca/news/canada/manitoba/babies-measles-preventive-treatment-manitoba-immune-globulin-vaccine-9.7117547",
+      "urlToImage": "https://i.cbc.ca/ais/b382e8bf-75bf-4303-a592-9b5fc9cba065,1767723518557/full/max/0/default.jpg?im=Crop%2Crect%3D%2815%2C0%2C802%2C451%29%3BResize%3D620",
+      "publishedAt": "2026-03-09 10:00:00",
+      "content": "An average of one baby a week in Manitoba's Southern Health region is being given a preventive treatment after a potential measles exposure, which a health official says is a sign of the disease's wi\u2026 [+5913 chars]",
+      "retrievedAt": "2026-03-10 19:20:06.312596",
+      "internal_id": "c8bcac2aca09c40a32ce29b138822ab1adb9204ffc10654815dc2d2210cb3a1d",
+      "publishedAtLabel": "Mar 9"
+    },
     {
       "id": 28223,
       "query": [
@@ -20563,60 +20797,6 @@
       "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
       "retrievedAt": "2026-01-27 07:13:40.250309",
       "internal_id": "7b8bf82f27032546f621f161f3ed99ec473c04ad0199b83ffaa01c9d37813108",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27081,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Punch Newspapers",
-      "title": "Lagos first lady unveils measles-rubella immunisation campaign Tuesday",
-      "description": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on the Lagos State Government\u2019s official social media handle on Su\u2026",
-      "url": "https://punchng.com/?p=2045546",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
-      "publishedAt": "2026-01-25 14:41:34",
-      "content": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on th\u2026 [+2700 chars]",
-      "retrievedAt": "2026-01-26 19:11:10.460268",
-      "internal_id": "66fde195d05cd4d77d4977a5f7bb3359cdec4c4652401c0186f0f4cec6b3f020",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27082,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Measles infection spreads in Malangwa",
-      "description": "SARLAHI: Measles infection has spread in Malangwa Municipality\u20133, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection has been detected in the area and that 22 suspected cases h\u2026",
-      "url": "https://english.khabarhub.com/2026/25/532402/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/04/Measles-khabarhub.jpg",
-      "publishedAt": "2026-01-25 10:45:06",
-      "content": "SARLAHI: Measles infection has spread in Malangwa Municipality3, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection\u2026 [+757 chars]",
-      "retrievedAt": "2026-01-26 19:11:10.626299",
-      "internal_id": "9f5a7847a4697dd80b59a6ce7da8e804fc20488ee0d73aabd6c4b34154c2d81e",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27083,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Lifesciencesworld.com",
-      "author": "Noah Whitman",
-      "title": "What is the disease in mice urine?",
-      "description": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially deadly disease in humans. Understanding the risks associated with\u2026",
-      "url": "https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/",
-      "urlToImage": null,
-      "publishedAt": "2026-01-25 07:45:54",
-      "content": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially dead\u2026 [+9567 chars]",
-      "retrievedAt": "2026-01-26 19:11:12.445676",
-      "internal_id": "53abdcbd212fcdcbaecd03c9bbc6ce42512614cf0ae942fdc4e6001cdeda4f24",
       "publishedAtLabel": "Jan 25"
     }
   ]
