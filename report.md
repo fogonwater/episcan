@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 0
-- **Last harvest:** 2026-03-09 19:20
-- **Most recent article:** 2026-03-08 02:38:30
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-03-10 07:22
+- **Most recent article:** 2026-03-09 06:54:12
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 0 | 73 | 107 | 112 | 111 | 83 | 556 |
-| dengue | 22 | 0 | 16 | 16 | 24 | 17 | 15 | 110 |
-| mpox | 10 | 0 | 3 | 11 | 14 | 25 | 27 | 90 |
+| measles | 70 | 4 | 75 | 107 | 112 | 111 | 83 | 562 |
+| dengue | 22 | 1 | 16 | 16 | 24 | 17 | 15 | 111 |
+| mpox | 10 | 1 | 3 | 11 | 14 | 25 | 27 | 91 |
 | rabies | 18 | 1 | 9 | 11 | 16 | 16 | 14 | 85 |
-| chikungunya | 1 | 0 | 8 | 8 | 12 | 40 | 6 | 75 |
+| chikungunya | 1 | 1 | 8 | 8 | 12 | 40 | 6 | 76 |
 | malaria | 16 | 0 | 8 | 15 | 14 | 10 | 11 | 74 |
 | h5n1 | 2 | 0 | 21 | 12 | 12 | 11 | 4 | 62 |
 | meningitis | 4 | 0 | 7 | 4 | 7 | 3 | 5 | 30 |
-| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
-| zika | 1 | 0 | 7 | 0 | 3 | 3 | 2 | 16 |
+| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
+| zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
 | hpai | 2 | 0 | 3 | 1 | 3 | 1 | 2 | 12 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
@@ -2035,6 +2035,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
+- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
+
+- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
+
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2064,6 +2068,8 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
+
+- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2169,9 +2175,37 @@ Source: [News API](https://newsapi.org/)
 
 - [O que a dengue tem a ver com a saúde das articulações](https://veja.abril.com.br/coluna/letra-de-medico/o-que-a-dengue-tem-a-ver-com-a-saude-das-articulacoes/) (Abril.com.br)
 
+## 26-11 (zika)
+
+- [豊中つばさ公園『ma-zika』一部開園記念 東西を結ぶラッピングバス運行開始](https://prtimes.jp/main/html/rd/p/000000965.000078420.html) (Prtimes.jp)
+
+- [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
+
 ## 26-11 (rabies)
 
 - [What diseases do coyotes carry?](https://www.lifesciencesworld.com/what-diseases-do-coyotes-carry/) (Lifesciencesworld.com)
+
+## 26-11 (mpox)
+
+- [ΕΟΔΥ: Το παρασκήνιο πίσω από την παραίτηση του επιστημονικού συμβουλίου](https://www.protothema.gr/greece/article/1785577/eodu-to-paraskinio-piso-apo-tin-paraitisi-tou-epistimonikou-sumvouliou/) (Protothema.gr)
+
+## 26-11 (measles)
+
+- [Basoda 2026: When is Sheetala Ashtami? check date and puja rituals](https://timesofindia.indiatimes.com/religion/festivals/basoda-2026-when-is-sheetala-ashtami-check-date-and-puja-rituals/articleshow/129314558.cms) (The Times of India)
+
+- [Vaccination push as measles cases rise in Victoria](https://berwicknews.starcommunity.com.au/news/2026-03-09/vaccination-push-as-measles-cases-rise-in-victoria/) (Starcommunity.com.au)
+
+- [Why are measles outbreaks worsening? #health](https://alltoc.com/health/why-are-measles-outbreaks-worsening) (Alltoc.com)
+
+- [Why are measles outbreaks spreading in the US? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-the-us) (Alltoc.com)
+
+## 26-11 (dengue)
+
+- [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
+
+## 26-11 (chikungunya)
+
+- [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
 
 ## 26-10 (zika)
 
