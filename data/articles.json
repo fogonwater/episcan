@@ -1,8 +1,134 @@
 {
-  "last_updated": "2026-03-11 07:23",
-  "count_articles_total": 1165,
-  "count_articles_new": 8,
+  "last_updated": "2026-03-11 19:21",
+  "count_articles_total": 1169,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 28250,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "U Tejonmayam",
+      "title": "Chennai Mosquito Control: Natural Biolarvicide Shows Promise in Water Tanks",
+      "description": "A new study in Chennai highlights a natural insecticide derived from soil bacteria as a promising solution for mosquito control. Tested in water tanks, the biolarvicide Natular effectively killed malaria-causing larvae and prevented emergence for weeks, offer\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-mosquito-control-natural-biolarvicide-shows-promise-in-water-tanks/articleshow/129413165.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129413065,width-1280,height-720,imgsize-1436430,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-10 18:26:13",
+      "content": "Follow Us On Social Media Noida: Insurance Claim Order, Ghaziabad Fire Safety Lapse, I-T Raids On Eateries And More.Tyriq Withers Opens Up About Grief And Remembering His BrotherRanchi: Cops Suspend\u2026 [+701 chars]",
+      "retrievedAt": "2026-03-11 19:21:56.286998",
+      "internal_id": "91cad860df369d749248a819e2d0a40d1a5923df7987394dfae7e12c2dc09a65",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28249,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Novinky.cz",
+      "author": "Ludmila \u017dl\u00e1bkov\u00e1",
+      "title": "Dv\u011b nov\u00e1 ohniska pta\u010d\u00ed ch\u0159ipky ve velkochovech kachen v Kr\u00e1lov\u00e9hradeck\u00e9m kraji",
+      "description": "Ve dvou komer\u010dn\u00edch chovech kachen v Kr\u00e1lov\u00e9hradeck\u00e9m kraji byla potvrzena ohniska vysoce patogenn\u00ed pta\u010d\u00ed ch\u0159ipky H5N1. Jedn\u00e1 se o hospod\u00e1\u0159stv\u00ed v Nov\u00e9m Byd\u017eov\u011b-Chudonic\u00edch a Dob\u0159enic\u00edch, v nich\u017e se dohromady nach\u00e1z\u00ed okolo 40 tis\u00edc chovn\u00fdch kachen.",
+      "url": "https://www.novinky.cz/clanek/domaci-zpravy-kralovehradecky-kraj-dve-nova-ohniska-ptaci-chripky-ve-velkochovech-kachen-v-kralovehradeckem-kraji-40566954",
+      "urlToImage": "https://d15-a.sdn.cz/d_15/c_img_p8_A/nPVpfd5QLLbHLYFnaF2i1sT/e05b/ptaci-chripka-kosicky-vejce-hasici-kralovehradecky-kraj.jpeg?fl=cro,0,167,3213,1807%7Cres,1200,,1%7Cwebp,75",
+      "publishedAt": "2026-03-10 16:27:44",
+      "content": "Jedn\u00e1 se o tvrt\u00e9 a p\u00e1t\u00e9 ohnisko t\u00e9to n\u00e1kazy v esk\u00e9 republice v leton\u00edm roce. Nov\u00e1 ohniska se nach\u00e1zej\u00ed ve vzd\u00e1lenosti jednotek kilometr od pedchoz\u00edch t\u00ed ohnisek v komern\u00edch chovech na Kr\u00e1lov\u00e9hradecku\u2026 [+1179 chars]",
+      "retrievedAt": "2026-03-11 19:21:55.634270",
+      "internal_id": "1522428fe143325499680e5c308d965bad3131959922961d376110e4b4835df5",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28247,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Bayrab (Bayer) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "The bayrab market opportunities include addressing rising rabies cases due to increasing stray animal populations and dog bites, expanding global vaccination coverage, and leveraging technological advances in vaccine production. Government funding and higher \u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/10/3253113/28124/en/Bayrab-Bayer-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-10 15:20:00",
+      "content": "Dublin, March 10, 2026 (GLOBE NEWSWIRE) -- The \"Bayrab Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. The \u2026 [+4872 chars]",
+      "retrievedAt": "2026-03-11 19:21:54.876873",
+      "internal_id": "e7acf0bcfc361602a5db37b7aa60591e49a50db7b6f31f2f0823ba0789034b5a",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28251,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kade M. Loveridge, Paul A. Sigala",
+      "title": "Fifty shades of iron: Unorthodox mechanisms of iron acquisition and utilization in blood-stage Plasmodium parasites",
+      "description": "Plasmodium falciparum parasites cause severe human malaria and depend on iron for essential metabolic processes during all phases of their complicated lifecycle, including when growing in human red blood cells (RBCs). Despite decades of study, the major pathw\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014030",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014030.g003&size=inline",
+      "publishedAt": "2026-03-10 14:00:00",
+      "content": "4.1. Iron regulation In yeast and mammals, iron availability is tightly regulated through global transcriptional programs [13]. In yeast, this coordination involves the iron regulon that is activate\u2026 [+9068 chars]",
+      "retrievedAt": "2026-03-11 19:21:56.301532",
+      "internal_id": "f7208cfc1c57dbfc68df413591b07e1a9fc19232a64300b375453e852abac63c",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28246,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Imogam (Sanofi) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "Key market opportunities include rising animal bite incidents due to increased human-animal interactions, growth in international travel heightening exposure to rabies-endemic regions, expanding healthcare infrastructure ensuring accessibility and distributio\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/10/3252643/28124/en/Imogam-Sanofi-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-10 11:10:00",
+      "content": "Dublin, March 10, 2026 (GLOBE NEWSWIRE) -- The \"Imogam Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. The \u2026 [+4979 chars]",
+      "retrievedAt": "2026-03-11 19:21:54.852556",
+      "internal_id": "b8cfc9c303a00f6ba2f67a9a6ea99364a8b2b49746a739e22e9bf5c05d68f497",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28252,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Mvabea (Johnson & Johnson) Market Research Report 2026: Epidemiology, Pipeline Analysis, Insights & Forecasts, 2020-2025, 2025-2030F, 2035F",
+      "description": "Key market opportunities include the rise in pandemic preparedness, increased funding for infectious disease vaccines, and the growing adoption of vector-based technologies. The rapid deployment of ebola vaccination, regulatory approval for mpox vaccines, and\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/10/3252572/28124/en/Mvabea-Johnson-Johnson-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Insights-Forecasts-2020-2025-2025-2030F-2035F.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-03-10 10:22:00",
+      "content": "Dublin, March 10, 2026 (GLOBE NEWSWIRE) -- The \"Mvabea Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. The \u2026 [+5498 chars]",
+      "retrievedAt": "2026-03-11 19:21:56.931832",
+      "internal_id": "1d5d5f2c8ec47f5a4ca8165b5f110bdc6215e77bceae669a6611b38979964087",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28248,
+      "query": [
+        "measles"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Inside Health",
+      "description": "James visits Hackney, which has one of the lowest vaccination rates in the country.",
+      "url": "https://www.bbc.co.uk/sounds/play/m002sf6d",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0m1r8h6.jpg",
+      "publishedAt": "2026-03-10 10:00:00",
+      "content": "Available for over a year There have been nearly 200 cases of measles in the UK so far this year. Measles can be prevented with vaccines - but the proportion of children being immunised is declinin\u2026 [+719 chars]",
+      "retrievedAt": "2026-03-11 19:21:55.169354",
+      "internal_id": "5581ec63c1312909ddb97aacc0e6310445054749d3a4a4f75cc61d4954f75edb",
+      "publishedAtLabel": "Mar 10"
+    },
     {
       "id": 28239,
       "query": [
@@ -20941,60 +21067,6 @@
       "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
       "retrievedAt": "2026-01-27 07:13:40.250309",
       "internal_id": "7b8bf82f27032546f621f161f3ed99ec473c04ad0199b83ffaa01c9d37813108",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27081,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Punch Newspapers",
-      "title": "Lagos first lady unveils measles-rubella immunisation campaign Tuesday",
-      "description": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on the Lagos State Government\u2019s official social media handle on Su\u2026",
-      "url": "https://punchng.com/?p=2045546",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
-      "publishedAt": "2026-01-25 14:41:34",
-      "content": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on th\u2026 [+2700 chars]",
-      "retrievedAt": "2026-01-26 19:11:10.460268",
-      "internal_id": "66fde195d05cd4d77d4977a5f7bb3359cdec4c4652401c0186f0f4cec6b3f020",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27082,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Measles infection spreads in Malangwa",
-      "description": "SARLAHI: Measles infection has spread in Malangwa Municipality\u20133, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection has been detected in the area and that 22 suspected cases h\u2026",
-      "url": "https://english.khabarhub.com/2026/25/532402/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/04/Measles-khabarhub.jpg",
-      "publishedAt": "2026-01-25 10:45:06",
-      "content": "SARLAHI: Measles infection has spread in Malangwa Municipality3, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection\u2026 [+757 chars]",
-      "retrievedAt": "2026-01-26 19:11:10.626299",
-      "internal_id": "9f5a7847a4697dd80b59a6ce7da8e804fc20488ee0d73aabd6c4b34154c2d81e",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27083,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Lifesciencesworld.com",
-      "author": "Noah Whitman",
-      "title": "What is the disease in mice urine?",
-      "description": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially deadly disease in humans. Understanding the risks associated with\u2026",
-      "url": "https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/",
-      "urlToImage": null,
-      "publishedAt": "2026-01-25 07:45:54",
-      "content": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially dead\u2026 [+9567 chars]",
-      "retrievedAt": "2026-01-26 19:11:12.445676",
-      "internal_id": "53abdcbd212fcdcbaecd03c9bbc6ce42512614cf0ae942fdc4e6001cdeda4f24",
       "publishedAtLabel": "Jan 25"
     }
   ]

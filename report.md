@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-03-11 07:23
-- **Most recent article:** 2026-03-10 05:00:54
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-03-11 19:21
+- **Most recent article:** 2026-03-10 18:26:13
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 8 | 75 | 107 | 112 | 111 | 83 | 566 |
+| measles | 70 | 9 | 73 | 107 | 112 | 111 | 83 | 565 |
 | dengue | 22 | 3 | 16 | 16 | 24 | 17 | 15 | 113 |
-| mpox | 10 | 6 | 3 | 11 | 14 | 25 | 27 | 96 |
-| rabies | 18 | 2 | 9 | 11 | 16 | 16 | 14 | 86 |
+| mpox | 10 | 7 | 3 | 11 | 14 | 25 | 27 | 97 |
+| rabies | 18 | 4 | 9 | 11 | 16 | 16 | 14 | 88 |
 | chikungunya | 1 | 3 | 8 | 8 | 12 | 40 | 6 | 78 |
-| malaria | 16 | 0 | 8 | 15 | 14 | 10 | 11 | 74 |
-| h5n1 | 2 | 3 | 21 | 12 | 12 | 11 | 4 | 65 |
+| malaria | 16 | 2 | 8 | 15 | 14 | 10 | 11 | 76 |
+| h5n1 | 2 | 4 | 21 | 12 | 12 | 11 | 4 | 66 |
 | meningitis | 4 | 3 | 7 | 4 | 7 | 3 | 5 | 33 |
-| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
+| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
 | zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
 | hpai | 2 | 0 | 3 | 1 | 3 | 1 | 2 | 12 |
@@ -2035,10 +2035,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
-- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
-
-- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
-
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2068,8 +2064,6 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
-
-- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2183,6 +2177,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (rabies)
 
+- [Bayrab (Bayer) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/10/3253113/28124/en/Bayrab-Bayer-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
+
+- [Imogam (Sanofi) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/10/3252643/28124/en/Imogam-Sanofi-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
+
 - [What diseases are affecting black-footed ferrets?](https://www.lifesciencesworld.com/what-diseases-are-affecting-black-footed-ferrets/) (Lifesciencesworld.com)
 
 - [What diseases do coyotes carry?](https://www.lifesciencesworld.com/what-diseases-do-coyotes-carry/) (Lifesciencesworld.com)
@@ -2192,6 +2190,8 @@ Source: [News API](https://newsapi.org/)
 - [Infanrix and Infanrix-hexa Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252005/28124/en/Infanrix-and-Infanrix-hexa-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 ## 26-11 (mpox)
+
+- [Mvabea (Johnson & Johnson) Market Research Report 2026: Epidemiology, Pipeline Analysis, Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/10/3252572/28124/en/Mvabea-Johnson-Johnson-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 - [Sobe para 140 o número de casos confirmados de Mpox em 2026 no Brasil](https://www.metropoles.com/brasil/sobe-para-140-o-numero-de-casos-confirmados-de-mpox-em-2026-no-brasil) (Metropoles.com)
 
@@ -2215,6 +2215,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (measles)
 
+- [Inside Health](https://www.bbc.co.uk/sounds/play/m002sf6d) (BBC News)
+
 - [Immunization, key to preventing measles outbreak](https://en.antaranews.com/news/407655/immunization-key-to-preventing-measles-outbreak) (Antaranews.com)
 
 - [Signs Enfield measles outbreak is 'stabilising'](https://www.bbc.com/news/articles/cq571wweg5lo) (BBC News)
@@ -2231,7 +2233,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles outbreaks spreading in the US? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-the-us) (Alltoc.com)
 
+## 26-11 (malaria)
+
+- [Chennai Mosquito Control: Natural Biolarvicide Shows Promise in Water Tanks](https://timesofindia.indiatimes.com/city/chennai/chennai-mosquito-control-natural-biolarvicide-shows-promise-in-water-tanks/articleshow/129413165.cms) (The Times of India)
+
+- [Fifty shades of iron: Unorthodox mechanisms of iron acquisition and utilization in blood-stage Plasmodium parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014030) (Plos.org)
+
 ## 26-11 (h5n1)
+
+- [Dvě nová ohniska ptačí chřipky ve velkochovech kachen v Královéhradeckém kraji](https://www.novinky.cz/clanek/domaci-zpravy-kralovehradecky-kraj-dve-nova-ohniska-ptaci-chripky-ve-velkochovech-kachen-v-kralovehradeckem-kraji-40566954) (Novinky.cz)
 
 - [Vogelgrippe: Geflügelpest in Putenmastbetrieb – 4.800 Tiere betroffen](https://www.tagesspiegel.de/berlin/vogelgrippe-geflugelpest-in-putenmastbetrieb--4800-tiere-betroffen-15335333.html) (Der Tagesspiegel)
 
