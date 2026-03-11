@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-03-10 19:20",
-  "count_articles_total": 1154,
-  "count_articles_new": 13,
+  "last_updated": "2026-03-11 07:23",
+  "count_articles_total": 1165,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 28239,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Yashinta Difa Pramudyani",
+      "title": "Immunization, key to preventing measles outbreak",
+      "description": "The Indonesian Health Ministry recently released alarming figures regarding the surge in measles cases in the country. According to the ministry data, ...",
+      "url": "https://en.antaranews.com/news/407655/immunization-key-to-preventing-measles-outbreak",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2025/09/24/pelaksanaan-bias-dan-ckg-di-malang-2629887.jpg",
+      "publishedAt": "2026-03-10 05:00:54",
+      "content": "Jakarta (ANTARA) - The Indonesian Health Ministry recently released alarming figures regarding the surge in measles cases in the country.According to the ministry data, Indonesia recorded 63,769 susp\u2026 [+5577 chars]",
+      "retrievedAt": "2026-03-11 07:23:43.499492",
+      "internal_id": "4a0144f7611c386678fe7988f28357c58fc4b77a429965da70324959e2b09269",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28245,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Sobe para 140 o n\u00famero de casos confirmados de Mpox em 2026 no Brasil",
+      "description": "Transmiss\u00e3o da doen\u00e7a ocorre por meio do contato com pessoa infectada, materiais contaminados e animais silvestres infectados",
+      "url": "https://www.metropoles.com/brasil/sobe-para-140-o-numero-de-casos-confirmados-de-mpox-em-2026-no-brasil",
+      "urlToImage": "https://i.metroimg.com/Ikvg5Yt_6CJsKuRpFYLxJoVCEr0gEXNvshzm4K0Du_Q/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/02/pessoa-com-mpox-getty-images.jpg",
+      "publishedAt": "2026-03-10 05:00:54",
+      "content": "O Brasil tem 140 casos confirmados de Mpox neste ano, segundo dados atualizados nesta segunda-feira (9/3) pelo Minist\u00e9rio da Sa\u00fade. Outros 539 est\u00e3o em an\u00e1lise. Dos casos, 77% s\u00e3o em homens e 69% t\u00ea\u2026 [+863 chars]",
+      "retrievedAt": "2026-03-11 07:23:45.213902",
+      "internal_id": "e1b919db8ff90b43359232c1d6775f6e8860ef013a4a9573c1de6dc6e638be53",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28238,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Ava Reynolds",
+      "title": "What diseases are affecting black-footed ferrets?",
+      "description": "What Diseases Are Affecting Black-Footed Ferrets? The primary diseases affecting black-footed ferrets are sylvatic plague, canine distemper, and rabies, all of which pose significant threats to their survival and recovery efforts. Understanding these diseases\u2026",
+      "url": "https://www.lifesciencesworld.com/what-diseases-are-affecting-black-footed-ferrets/",
+      "urlToImage": null,
+      "publishedAt": "2026-03-10 04:14:43",
+      "content": "What Diseases Are Affecting Black-Footed Ferrets? The primary diseases affecting black-footed ferrets are sylvatic plague, canine distemper, and rabies, all of which pose significant threats to thei\u2026 [+10261 chars]",
+      "retrievedAt": "2026-03-11 07:23:43.115175",
+      "internal_id": "4a85401a5ad3418c362d52e1eec144c76520cc15b8b7e57ce5851da1e45d5089",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28243,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Level 2 - Chikungunya in Mayotte",
+      "description": "There is an outbreak of chikungunya in Mayotte. You can protect yourself by preventing mosquito bites.",
+      "url": "https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-mayotte",
+      "urlToImage": "https://www.cdc.gov/coronavirus/2019-ncov/images/social-media/COVID-19-and-Travel-tw.jpg",
+      "publishedAt": "2026-03-10 04:00:00",
+      "content": "Chikungunya disease is caused by the chikungunya virus and is spread to humans through mosquito bites. Outbreaks have occurred in countries in Africa, Americas, Asia, Europe, the Caribbean, and India\u2026 [+700 chars]",
+      "retrievedAt": "2026-03-11 07:23:44.960447",
+      "internal_id": "82cc4b8085497a2e242abfb0d268d0d8e9f46214b2b6d3e36c1722304288c208",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28244,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Meire Kusumoto",
+      "title": "Sobe n\u00famero de casos confirmados de mpox no Brasil em 2026",
+      "description": "Estado que mais registrou casos da doen\u00e7a foi S\u00e3o Paulo, com 93",
+      "url": "https://veja.abril.com.br/saude/sobe-numero-de-casos-confirmados-de-mpox-no-brasil-em-2026/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/02/GettyImages-2169822795.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-03-10 00:31:57",
+      "content": "Pular para o conte\u00fado Oferta Rel\u00e2mpago: VEJA por apenas 9,90Estado que mais registrou casos da doen\u00e7a foi S\u00e3o Paulo, com 93 Por Reda\u00e7\u00e3o 9 mar 2026, 21h31 \u2022 Atualizado em 9 mar 2026, 21h32 V\u00edrus\u2026 [+1270 chars]",
+      "retrievedAt": "2026-03-11 07:23:45.129701",
+      "internal_id": "5a9d378720bc0db5a179d1ce0dd005f0f27cb7eb25d35a4e5d43243b5680cd6b",
+      "publishedAtLabel": "Mar 10"
+    },
+    {
+      "id": 28241,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Vogelgrippe: Gefl\u00fcgelpest in Putenmastbetrieb \u2013 4.800 Tiere betroffen",
+      "description": "Im Landkreis Elbe-Elster ist in einem Putenmastbetrieb das Virus H5N1 nachgewiesen worden. Rund 4.800 Tiere m\u00fcssen aus seuchenrechtlichen Gr\u00fcnden get\u00f6tet werden.",
+      "url": "https://www.tagesspiegel.de/berlin/vogelgrippe-geflugelpest-in-putenmastbetrieb--4800-tiere-betroffen-15335333.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15335332/alternates/BASE_16_9_W1400/1773091038000/puten.jpeg",
+      "publishedAt": "2026-03-09 21:17:18",
+      "content": "In einem Putenmastbetrieb im Landkreis Elbe-Elster ist die Gefl\u00fcgelpest ausgebrochen. Betroffen sei ein Bestand mit rund 4.800 Tieren in Drasdo, teilte der Landkreis mit. In dem Betrieb sei das hochp\u2026 [+1470 chars]",
+      "retrievedAt": "2026-03-11 07:23:43.987739",
+      "internal_id": "a02d8332ebdde4ffd98f45de49db885f725d19adcf45eb6681c76ea9a5f6115e",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28242,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "4800 Tiere m\u00fcssen get\u00f6tet werden: Gefl\u00fcgelpest in Putenmastbetrieb im Kreis Elbe-Elster",
+      "description": "Im Landkreis Elbe-Elster ist in einem Putenmastbetrieb das Virus H5N1 nachgewiesen worden. Eine Schutzzone und eine \u00dcberwachungszone wurden eingerichtet.",
+      "url": "https://www.tagesspiegel.de/potsdam/brandenburg/vogelgrippe-geflugelpest-in-putenmastbetrieb--4800-tiere-betroffen-15335333.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15335332/alternates/BASE_16_9_W1400/1773091038000/puten.jpeg",
+      "publishedAt": "2026-03-09 21:17:18",
+      "content": "In einem Putenmastbetrieb im Landkreis Elbe-Elster ist die Gefl\u00fcgelpest ausgebrochen. Betroffen sei ein Bestand mit rund 4.800 Tieren in Drasdo, teilte der Landkreis mit. In dem Betrieb sei das hochp\u2026 [+1753 chars]",
+      "retrievedAt": "2026-03-11 07:23:44.001185",
+      "internal_id": "dcb098218634e52b4c0b6aa588b494668a2b9307c92b3e4d3372b85ba5a8a3db",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28240,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Vogelgrippe: Gefl\u00fcgelpest in Putenmastbetrieb \u2013 4.800 Tiere betroffen",
+      "description": "Im Landkreis Elbe-Elster ist in einem Putenmastbetrieb das Virus H5N1 nachgewiesen worden. Rund 4.800 Tiere m\u00fcssen aus seuchenrechtlichen Gr\u00fcnden get\u00f6tet werden.",
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe--gefluegelpest-in-putenmastbetrieb---4-800-tiere-betroffen-37206312.html",
+      "urlToImage": "https://image.stern.de/37206314/t/6N/v1/w1440/r1.7778/-/09--wzrvprlq46v4axs2048jpeg---db5005750c0f3f19.jpg",
+      "publishedAt": "2026-03-09 21:16:11",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Im Landkreis Elbe-Elster ist in einem Putenmastbetrieb das Virus H5N1 nachgewiesen worden. Rund 4.800 Tiere m\u00fcssen aus seuchenrechtlichen Gr\u00fcnden\u2026 [+1589 chars]",
+      "retrievedAt": "2026-03-11 07:23:43.974011",
+      "internal_id": "b8517790b9aa154095111022561342289f5d9b0cd6403e0e405e828cedb74e98",
+      "publishedAtLabel": "Mar 9"
+    },
     {
       "id": 28237,
       "query": [
@@ -20797,6 +20941,60 @@
       "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
       "retrievedAt": "2026-01-27 07:13:40.250309",
       "internal_id": "7b8bf82f27032546f621f161f3ed99ec473c04ad0199b83ffaa01c9d37813108",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 27081,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Lagos first lady unveils measles-rubella immunisation campaign Tuesday",
+      "description": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on the Lagos State Government\u2019s official social media handle on Su\u2026",
+      "url": "https://punchng.com/?p=2045546",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
+      "publishedAt": "2026-01-25 14:41:34",
+      "content": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on th\u2026 [+2700 chars]",
+      "retrievedAt": "2026-01-26 19:11:10.460268",
+      "internal_id": "66fde195d05cd4d77d4977a5f7bb3359cdec4c4652401c0186f0f4cec6b3f020",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 27082,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Measles infection spreads in Malangwa",
+      "description": "SARLAHI: Measles infection has spread in Malangwa Municipality\u20133, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection has been detected in the area and that 22 suspected cases h\u2026",
+      "url": "https://english.khabarhub.com/2026/25/532402/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/04/Measles-khabarhub.jpg",
+      "publishedAt": "2026-01-25 10:45:06",
+      "content": "SARLAHI: Measles infection has spread in Malangwa Municipality3, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection\u2026 [+757 chars]",
+      "retrievedAt": "2026-01-26 19:11:10.626299",
+      "internal_id": "9f5a7847a4697dd80b59a6ce7da8e804fc20488ee0d73aabd6c4b34154c2d81e",
+      "publishedAtLabel": "Jan 25"
+    },
+    {
+      "id": 27083,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Noah Whitman",
+      "title": "What is the disease in mice urine?",
+      "description": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially deadly disease in humans. Understanding the risks associated with\u2026",
+      "url": "https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/",
+      "urlToImage": null,
+      "publishedAt": "2026-01-25 07:45:54",
+      "content": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially dead\u2026 [+9567 chars]",
+      "retrievedAt": "2026-01-26 19:11:12.445676",
+      "internal_id": "53abdcbd212fcdcbaecd03c9bbc6ce42512614cf0ae942fdc4e6001cdeda4f24",
       "publishedAtLabel": "Jan 25"
     }
   ]
