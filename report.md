@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-03-12 07:24
-- **Most recent article:** 2026-03-11 06:10:28
+- **New articles in last harvest:** 14
+- **Last harvest:** 2026-03-12 19:21
+- **Most recent article:** 2026-03-11 18:11:42
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 11 | 75 | 107 | 112 | 111 | 83 | 569 |
-| dengue | 22 | 3 | 16 | 16 | 24 | 17 | 15 | 113 |
-| mpox | 10 | 9 | 3 | 11 | 14 | 25 | 27 | 99 |
-| rabies | 18 | 4 | 9 | 11 | 16 | 16 | 14 | 88 |
-| malaria | 16 | 4 | 8 | 15 | 14 | 10 | 11 | 78 |
-| chikungunya | 1 | 3 | 8 | 8 | 12 | 40 | 6 | 78 |
+| measles | 70 | 14 | 73 | 107 | 112 | 111 | 83 | 570 |
+| dengue | 22 | 6 | 16 | 16 | 24 | 17 | 15 | 116 |
+| mpox | 10 | 12 | 3 | 11 | 14 | 25 | 27 | 102 |
+| rabies | 18 | 6 | 9 | 11 | 16 | 16 | 14 | 90 |
+| chikungunya | 1 | 5 | 8 | 8 | 12 | 40 | 6 | 80 |
+| malaria | 16 | 5 | 8 | 15 | 14 | 10 | 11 | 79 |
 | h5n1 | 2 | 4 | 21 | 12 | 12 | 11 | 4 | 66 |
 | meningitis | 4 | 3 | 7 | 4 | 7 | 3 | 5 | 33 |
-| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
+| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
 | zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
 | hpai | 2 | 1 | 3 | 1 | 3 | 1 | 2 | 13 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
@@ -2035,10 +2035,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
-- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
-
-- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
-
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2068,8 +2064,6 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
-
-- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2183,6 +2177,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (rabies)
 
+- [Rabies vaccine may not be enough. Doctor reveals 4 ways to prevent death](https://economictimes.indiatimes.com/news/new-updates/rabies-vaccine-may-not-be-enough-doctor-reveals-4-ways-to-prevent-death/articleshow/129471164.cms) (The Times of India)
+
+- [Why are people so afraid of raccoons?](https://www.lifesciencesworld.com/why-are-people-so-afraid-of-raccoons/) (Lifesciencesworld.com)
+
 - [Bayrab (Bayer) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/10/3253113/28124/en/Bayrab-Bayer-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 - [Imogam (Sanofi) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/10/3252643/28124/en/Imogam-Sanofi-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
@@ -2196,6 +2194,12 @@ Source: [News API](https://newsapi.org/)
 - [Infanrix and Infanrix-hexa Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252005/28124/en/Infanrix-and-Infanrix-hexa-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 ## 26-11 (mpox)
+
+- [Ontario’s first cases of another mpox variant confirmed, public health says](https://www.theglobeandmail.com/canada/article-ontario-toronto-cases-of-mpox-variant/) (The Globe And Mail)
+
+- [Un estudio muestra que el VIH no agravó los cuadros clínicos del brote de mpox de 2022 en España](https://www.infosalus.com/salud-investigacion/noticia-estudio-muestra-vih-no-agravo-cuadros-clinicos-brote-mpox-2022-espana-20260311105219.html) (Infosalus.com)
+
+- [Un estudio muestra que el VIH no agravó los cuadros clínicos del brote de mpox de 2022 en España](https://www.europapress.es/catalunya/noticia-estudio-muestra-vih-no-agravo-cuadros-clinicos-brote-mpox-2022-espana-20260311103615.html) (Europapress.es)
 
 - [Mpox em alta: como prevenir o contágio e reconhecer sintomas iniciais](https://www.metropoles.com/colunas/claudia-meireles/mpox-em-alta-como-prevenir-o-contagio-e-reconhecer-sintomas-iniciais) (Metropoles.com)
 
@@ -2225,6 +2229,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (measles)
 
+- [Why did the UK lose measles elimination status? #health](https://alltoc.com/health/why-did-the-uk-lose-measles-elimination-status) (Alltoc.com)
+
+- [Alberta hit with yet another measles upswing, triggering new calls for action](https://www.cbc.ca/news/canada/calgary/alberta-measles-cases-9.7123474) (CBC News)
+
 - [Why are measles outbreaks surging in the U.S.? #health](https://alltoc.com/health/why-are-measles-outbreaks-surging-in-the-u-s) (Alltoc.com)
 
 - [DOJ Lawyer: RFK Jr.’s Authority Shall Not Suffer Any Checks & Balances From The Courts](https://www.techdirt.com/2026/03/10/doj-lawyer-rfk-jr-s-authority-shall-not-suffer-any-checks-balances-from-the-courts/) (Techdirt)
@@ -2239,6 +2247,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Babies exposed to measles getting preventive treatment every week in Manitoba](https://www.cbc.ca/news/canada/manitoba/babies-measles-preventive-treatment-manitoba-immune-globulin-vaccine-9.7117547) (CBC News)
 
+- [CDC Reinforces National Measles Response Through State Collaboration](https://www.cdc.gov/media/releases/2026/2026-cdc-reinforces-national-measles-response-through-state-collaboration.html) (Cdc.gov)
+
 - [Basoda 2026: When is Sheetala Ashtami? check date and puja rituals](https://timesofindia.indiatimes.com/religion/festivals/basoda-2026-when-is-sheetala-ashtami-check-date-and-puja-rituals/articleshow/129314558.cms) (The Times of India)
 
 - [Vaccination push as measles cases rise in Victoria](https://berwicknews.starcommunity.com.au/news/2026-03-09/vaccination-push-as-measles-cases-rise-in-victoria/) (Starcommunity.com.au)
@@ -2248,6 +2258,8 @@ Source: [News API](https://newsapi.org/)
 - [Why are measles outbreaks spreading in the US? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-the-us) (Alltoc.com)
 
 ## 26-11 (malaria)
+
+- [Economic evaluation of anti-malarial drug policies across presidential regimes in Nigeria: A comparative analysis from 1999 to present](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344909) (Plos.org)
 
 - [One Key Protein Could Be a Powerful New Target Against Malaria](https://www.sciencealert.com/one-key-protein-could-be-a-powerful-new-target-against-malaria) (ScienceAlert)
 
@@ -2273,6 +2285,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (dengue)
 
+- [Enchufada celebra 20 anos com compilação e eventos](https://observador.pt/2026/03/11/enchufada-celebra-20-anos-com-compilacao-e-eventos-no-porto-e-em-londres/) (Observador.pt)
+
+- [The 50: Nikki Tamboli breaks silence on why she didn’t quit after Arbaz Patel’s exit; says “Walking out emotionally might look dramatic, but honoring your responsibility takes strength”](https://timesofindia.indiatimes.com/tv/news/hindi/the-50-nikki-tamboli-breaks-silence-on-why-she-didnt-quit-after-arbaz-patels-exit-says-walking-out-emotionally-might-look-dramatic-but-honoring-your-responsibility-takes-strength/articleshow/129463364.cms) (The Times of India)
+
+- [Dengue cases in Johor drops 21.2% in Epi Week 09/2026](https://www.thestar.com.my/news/nation/2026/03/11/dengue-cases-in-johor-drops-212-in-epi-week-092026) (The Star Online)
+
 - [Dengvaxia Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251996/28124/en/Dengvaxia-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 - [Correction: Prognostic prediction of dengue hemorrhagic fever in pediatric patients with suspected dengue infection: A multi-site study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344487) (Plos.org)
@@ -2280,6 +2298,10 @@ Source: [News API](https://newsapi.org/)
 - [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
 
 ## 26-11 (chikungunya)
+
+- [Bavarian Nordic and Serum Institute of India Expand Strategic Partnership with Chikungunya Vaccine Manufacturing Agreement](https://www.globenewswire.com/news-release/2026/03/11/3253522/0/en/Bavarian-Nordic-and-Serum-Institute-of-India-Expand-Strategic-Partnership-with-Chikungunya-Vaccine-Manufacturing-Agreement.html) (GlobeNewswire)
+
+- [Bavarian Nordic og Serum Institute of India udvider strategisk partnerskab med aftale om produktion af chikungunya‑vaccine](https://www.globenewswire.com/news-release/2026/03/11/3253522/0/da/Bavarian-Nordic-og-Serum-Institute-of-India-udvider-strategisk-partnerskab-med-aftale-om-produktion-af-chikungunya-vaccine.html) (GlobeNewswire)
 
 - [Level 2 - Chikungunya in Mayotte](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-mayotte) (Cdc.gov)
 

@@ -1,8 +1,242 @@
 {
-  "last_updated": "2026-03-12 07:24",
-  "count_articles_total": 1179,
-  "count_articles_new": 7,
+  "last_updated": "2026-03-12 19:21",
+  "count_articles_total": 1190,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 28263,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did the UK lose measles elimination status? #health",
+      "description": "Falling coverage and rising outbreaks A formal loss of elimination status reflects a public\u2011health reversal: routine immunisation coverage has slipped below the threshold needed to prevent sustained measles transmission, and case clusters have reappeared. Eli\u2026",
+      "url": "https://alltoc.com/health/why-did-the-uk-lose-measles-elimination-status",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-11 18:11:42",
+      "content": "A formal loss of elimination status reflects a publichealth reversal: routine immunisation coverage has slipped below the threshold needed to prevent sustained measles transmission, and case clusters\u2026 [+1526 chars]",
+      "retrievedAt": "2026-03-12 19:21:19.171915",
+      "internal_id": "89979fdf52acd4529fa7e3c81dca28719682256da031517c83365ac22aadd8a0",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28261,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Rabies vaccine may not be enough. Doctor reveals 4 ways to prevent death",
+      "description": "A young woman's death from rabies highlights preventable tragedies. Experts stress immediate wound washing and Rabies Immunoglobulin for dog bites. Choosing the right hospital and prompt treatment are crucial. India faces a severe rabies crisis, with most dea\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/rabies-vaccine-may-not-be-enough-doctor-reveals-4-ways-to-prevent-death/articleshow/129471164.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129471184,width-1200,height-630,imgsize-36760,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-11 16:21:58",
+      "content": "In 2024, a 21-year-old woman died of rabies in hospital a month after she was bitten by a stray dog. Notably, she had completed the anti-rabies vaccination course just three days before her death.Acc\u2026 [+2303 chars]",
+      "retrievedAt": "2026-03-12 19:21:18.886980",
+      "internal_id": "5728334590754f32ba400534e2610f2d7fcbe7c6e2faef07ac56db27afb9be53",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28265,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Enchufada celebra 20 anos com compila\u00e7\u00e3o e eventos",
+      "description": "A colet\u00e2nea \"Enchufada: A Lisbon Club Story \u00e9 editada a 24 de abril e \"junta os artistas que contribu\u00edram durante duas d\u00e9cadas para a cria\u00e7\u00e3o de pontes entre sonoridades\".",
+      "url": "https://observador.pt/2026/03/11/enchufada-celebra-20-anos-com-compilacao-e-eventos-no-porto-e-em-londres/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2016%2F07%2F08183204%2F19504247.jpg?layer=obstop:T",
+      "publishedAt": "2026-03-11 16:09:33",
+      "content": "A editora discogr\u00e1fica Enchufada celebra este ano o 20.\u00ba anivers\u00e1rio com a edi\u00e7\u00e3o de uma compila\u00e7\u00e3o, que inclui temas de Tusabe, Dengue Dengue Dengue, BLOQO e Buraka Som Sistema, e dois \u201ceventos espe\u2026 [+1528 chars]",
+      "retrievedAt": "2026-03-12 19:21:19.648630",
+      "internal_id": "e3d5422a431c9adeee3719eb3ca9fc4dff334b192ec4e4da73ddb978e7bd2d0b",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28264,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Alberta hit with yet another measles upswing, triggering new calls for action",
+      "description": "Alberta experiencing a resurgence of measles and doctors say Albertans need to know the situation is not under control.",
+      "url": "https://www.cbc.ca/news/canada/calgary/alberta-measles-cases-9.7123474",
+      "urlToImage": "https://i.cbc.ca/ais/300660a3-f2ef-4cbe-8317-0024ae5945b8,1773199538137/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C416%2C7962%2C4478%29%3BResize%3D620",
+      "publishedAt": "2026-03-11 14:54:31",
+      "content": "The province is experiencing a resurgence of measles, and doctors say Albertans need to know the situation is not under control. Over the weekend, 36 new cases were reported, with 28 of them in the \u2026 [+6230 chars]",
+      "retrievedAt": "2026-03-12 19:21:19.196487",
+      "internal_id": "0662f05f0c574a33f162ff29eb75189ccc89d7d7247c31cb3ae2c0b94c03ec73",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28273,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "the-globe-and-mail",
+      "source_name": "The Globe And Mail",
+      "author": null,
+      "title": "Ontario\u2019s first cases of another mpox variant confirmed, public health says",
+      "description": "Variant known as clade Ib has been associated with mpox outbreaks in parts of Central and Eastern Africa",
+      "url": "https://www.theglobeandmail.com/canada/article-ontario-toronto-cases-of-mpox-variant/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/v2/CQJI2QMR7BDONCWZYGJD76B7MI.jpg?auth=16f62d4b2000b05f9df3e312f5f797a05c531b0107e18a01350fa4d1063d3607&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2026-03-11 14:38:42",
+      "content": "Open this photo in gallery:Toronto Public Health is encouraging eligible Toronto residents to get the mpox vaccine, which is free and available without a health card.Moses Sawasawa/The Associated Pre\u2026 [+849 chars]",
+      "retrievedAt": "2026-03-12 19:21:20.757075",
+      "internal_id": "1dc8f43b11cd40c07eb08c3690f5bfae824896e5b828355ae95d9bd79924f8b1",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28268,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Chukwuka Elendu",
+      "title": "Economic evaluation of anti-malarial drug policies across presidential regimes in Nigeria: A comparative analysis from 1999 to present",
+      "description": "Background Malaria remains a significant public health challenge in Nigeria, accounting for substantial morbidity, mortality, and economic loss. Successive administrations have implemented various anti-malarial drug policies aimed at curbing this endemic dise\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344909",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0344909.g004&size=inline",
+      "publishedAt": "2026-03-11 14:00:00",
+      "content": "1. Introduction and background Malaria remains one of the most severe public health challenges globally, with sub-Saharan Africa bearing the highest burden of the disease. Nigeria, the most populous\u2026 [+85289 chars]",
+      "retrievedAt": "2026-03-12 19:21:20.133136",
+      "internal_id": "e7d4884f38a67cfab8c3219b2ffbf1bae368716534e898128c7983c878a6d36a",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28266,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "etimes.in",
+      "title": "The 50: Nikki Tamboli breaks silence on why she didn\u2019t quit after Arbaz Patel\u2019s exit; says \u201cWalking out emotionally might look dramatic, but honoring your responsibility takes strength\u201d",
+      "description": "Nikki Tamboli revealed her struggles on 'The 50' after dengue, battling fatigue and weakness. She explained her real competition was internal, not with other contestants. Tamboli emphasized honoring her commitment to the show, drawing parallels to her past de\u2026",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/the-50-nikki-tamboli-breaks-silence-on-why-she-didnt-quit-after-arbaz-patels-exit-says-walking-out-emotionally-might-look-dramatic-but-honoring-your-responsibility-takes-strength/articleshow/129463364.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129463704,width-1280,height-720,imgsize-69412,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-11 13:10:15",
+      "content": "News tv hindi The 50: Nikki Tamboli breaks silence on why she didnt quit after Arbaz Patels exit; says Walking out emotionally might look dramatic, but honoring \u2026 [+187 chars]",
+      "retrievedAt": "2026-03-12 19:21:19.673480",
+      "internal_id": "3bf19a9c038d6d2ac458a9e0966c49f96a07843b11adeca1abbfd772147593ae",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28267,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "ZAZALI MUSA",
+      "title": "Dengue cases in Johor drops 21.2% in Epi Week 09/2026",
+      "description": "JOHOR BARU: The number of cumulative dengue cases recorded in Johor had declined for the epidemiological week 09/2026 (Epi Week). Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/11/dengue-cases-in-johor-drops-212-in-epi-week-092026",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/11/3808317.jpg",
+      "publishedAt": "2026-03-11 10:53:00",
+      "content": "JOHOR BARU: The number of cumulative dengue cases recorded in Johor had declined for the epidemiological week 09/2026 (Epi Week). State health and environment chairman Ling Ting Han said there were \u2026 [+1221 chars]",
+      "retrievedAt": "2026-03-12 19:21:19.698721",
+      "internal_id": "8cfe805eeaf5fe7787e8b06e709970a751772dc5d040d1f53f79588af67ee2f9",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28272,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Un estudio muestra que el VIH no agrav\u00f3 los cuadros cl\u00ednicos del brote de mpox de 2022 en Espa\u00f1a",
+      "description": "Un estudio de la Universitat de Barcelona (UB) ha mostrado que las personas con el virus de la inmunodeficiencia humana (VIH) no desarrollaron formas m\u00e1s graves de mpox, anteriormente conocida como viruela del mono, durante el brote multirregional de esta pat\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-estudio-muestra-vih-no-agravo-cuadros-clinicos-brote-mpox-2022-espana-20260311105219.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260311105219_1200.jpg",
+      "publishedAt": "2026-03-11 09:52:19",
+      "content": "BARCELONA, 11 Mar. (EUROPA PRESS) - Un estudio de la Universitat de Barcelona (UB) ha mostrado que las personas con el virus de la inmunodeficiencia humana (VIH) no desarrollaron formas m\u00e1s graves\u2026 [+2029 chars]",
+      "retrievedAt": "2026-03-12 19:21:20.742913",
+      "internal_id": "7081eebe02b548db0eb88cf27a8dafa428e347e635a7d1a165e0b477e40fd83c",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28271,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Un estudio muestra que el VIH no agrav\u00f3 los cuadros cl\u00ednicos del brote de mpox de 2022 en Espa\u00f1a",
+      "description": "Un estudio de la Universitat de Barcelona (UB) ha mostrado que las personas con el virus de la inmunodeficiencia humana (VIH) no desarrollaron formas m\u00e1s graves de mpox, anteriormente conocida como viruela del mono, durante el brote multirregional de esta pat\u2026",
+      "url": "https://www.europapress.es/catalunya/noticia-estudio-muestra-vih-no-agravo-cuadros-clinicos-brote-mpox-2022-espana-20260311103615.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260311103615_1200.jpg",
+      "publishedAt": "2026-03-11 09:36:15",
+      "content": "BARCELONA, 11 Mar. (EUROPA PRESS) - Un estudio de la Universitat de Barcelona (UB) ha mostrado que las personas con el virus de la inmunodeficiencia humana (VIH) no desarrollaron formas m\u00e1s graves\u2026 [+2029 chars]",
+      "retrievedAt": "2026-03-12 19:21:20.729947",
+      "internal_id": "8a948343616fd7fab7c1adec3c928cec709c7b2a7e7a03e41a48e95641f39bf1",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28260,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Lifesciencesworld.com",
+      "author": "Ava Reynolds",
+      "title": "Why are people so afraid of raccoons?",
+      "description": "Why Are People So Afraid of Raccoons? The fear of raccoons often stems from a combination of their nocturnal habits, perceived threat of disease (rabies being the primary concern), and tendency to invade human spaces; ultimately, why are people so afraid of r\u2026",
+      "url": "https://www.lifesciencesworld.com/why-are-people-so-afraid-of-raccoons/",
+      "urlToImage": null,
+      "publishedAt": "2026-03-11 08:10:12",
+      "content": "Why Are People So Afraid of Raccoons? The fear of raccoons often stems from a combination of their nocturnal habits, perceived threat of disease (rabies being the primary concern), and tendency to i\u2026 [+8046 chars]",
+      "retrievedAt": "2026-03-12 19:21:18.828332",
+      "internal_id": "5f000ec0809704a9c4f45cf2d499a9896d2b6e0cc89e8b3910a50257eed3e1bc",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28269,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic and Serum Institute of India Expand Strategic Partnership with Chikungunya Vaccine Manufacturing Agreement",
+      "description": "COPENHAGEN, Denmark, March 11, 2026 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced an expansion of the strategic partnership with Serum Institute of India Pvt. Ltd. (SII) to include a contract manufacturing agreement covering a full tech transfer of the ma\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/11/3253522/0/en/Bavarian-Nordic-and-Serum-Institute-of-India-Expand-Strategic-Partnership-with-Chikungunya-Vaccine-Manufacturing-Agreement.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2026-03-11 07:30:00",
+      "content": "The agreement enables a full tech transfer of the chikungunya vaccine for future supply to low- and middle-income countries.Expanded collaboration provides future co-development oppo\u2026 [+5040 chars]",
+      "retrievedAt": "2026-03-12 19:21:20.484489",
+      "internal_id": "79d36cd7259352cfe4a3c241970f58e2884dcba06c7699710d513260665b937d",
+      "publishedAtLabel": "Mar 11"
+    },
+    {
+      "id": 28270,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic og Serum Institute of India udvider strategisk partnerskab med aftale om produktion af chikungunya\u2011vaccine",
+      "description": "K\u00d8BENHAVN, Danmark, 11. marts 2026 \u2013 Bavarian Nordic offentliggjorde i dag udvidelsen af det strategiske partnerskab med Serum Institute of India Pvt. Ltd. (SII) til at omfatte en kontraktproduktionsaftale, der d\u00e6kker en fuld teknologioverf\u00f8rsel af produktion\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/03/11/3253522/0/da/Bavarian-Nordic-og-Serum-Institute-of-India-udvider-strategisk-partnerskab-med-aftale-om-produktion-af-chikungunya-vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2026-03-11 07:30:00",
+      "content": "Aftalen muligg\u00f8r en fuld teknologioverf\u00f8rsel af chikungunyavaccinen til fremtidig forsyning i lav- og mellemindkomstlande.Det udvidede samarbejde \u00e5bner mulighed for fremtidige f\u00e6lles\u2026 [+5249 chars]",
+      "retrievedAt": "2026-03-12 19:21:20.497689",
+      "internal_id": "bede085037f881075547f282af9619b89dd32197fb3dbfed4b0eeddcc691e2d6",
+      "publishedAtLabel": "Mar 11"
+    },
     {
       "id": 28254,
       "query": [
@@ -631,6 +865,24 @@
       "content": "An average of one baby a week in Manitoba's Southern Health region is being given a preventive treatment after a potential measles exposure, which a health official says is a sign of the disease's wi\u2026 [+5913 chars]",
       "retrievedAt": "2026-03-10 19:20:06.312596",
       "internal_id": "c8bcac2aca09c40a32ce29b138822ab1adb9204ffc10654815dc2d2210cb3a1d",
+      "publishedAtLabel": "Mar 9"
+    },
+    {
+      "id": 28262,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "CDC Reinforces National Measles Response Through State Collaboration",
+      "description": "CDC reaffirmed its commitment to protecting communities across the United States",
+      "url": "https://www.cdc.gov/media/releases/2026/2026-cdc-reinforces-national-measles-response-through-state-collaboration.html",
+      "urlToImage": "https://www.cdc.gov/media/media/images/2026/03/Measles-banner.png?_=67345",
+      "publishedAt": "2026-03-09 09:00:00",
+      "content": "The Centers for Disease Control and Prevention (CDC) today reaffirmed its commitment to protecting communities across the United States as it works closely with the South Carolina Department of Publi\u2026 [+3364 chars]",
+      "retrievedAt": "2026-03-12 19:21:19.158483",
+      "internal_id": "39bdb7032591d9b0cc52b0699e6b0d6127e1c3b8fa94052dea88026d5d80426c",
       "publishedAtLabel": "Mar 9"
     },
     {
@@ -21193,60 +21445,6 @@
       "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
       "retrievedAt": "2026-01-27 07:13:40.250309",
       "internal_id": "7b8bf82f27032546f621f161f3ed99ec473c04ad0199b83ffaa01c9d37813108",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27081,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Punch Newspapers",
-      "title": "Lagos first lady unveils measles-rubella immunisation campaign Tuesday",
-      "description": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on the Lagos State Government\u2019s official social media handle on Su\u2026",
-      "url": "https://punchng.com/?p=2045546",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
-      "publishedAt": "2026-01-25 14:41:34",
-      "content": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on th\u2026 [+2700 chars]",
-      "retrievedAt": "2026-01-26 19:11:10.460268",
-      "internal_id": "66fde195d05cd4d77d4977a5f7bb3359cdec4c4652401c0186f0f4cec6b3f020",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27082,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Measles infection spreads in Malangwa",
-      "description": "SARLAHI: Measles infection has spread in Malangwa Municipality\u20133, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection has been detected in the area and that 22 suspected cases h\u2026",
-      "url": "https://english.khabarhub.com/2026/25/532402/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/04/Measles-khabarhub.jpg",
-      "publishedAt": "2026-01-25 10:45:06",
-      "content": "SARLAHI: Measles infection has spread in Malangwa Municipality3, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection\u2026 [+757 chars]",
-      "retrievedAt": "2026-01-26 19:11:10.626299",
-      "internal_id": "9f5a7847a4697dd80b59a6ce7da8e804fc20488ee0d73aabd6c4b34154c2d81e",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27083,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Lifesciencesworld.com",
-      "author": "Noah Whitman",
-      "title": "What is the disease in mice urine?",
-      "description": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially deadly disease in humans. Understanding the risks associated with\u2026",
-      "url": "https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/",
-      "urlToImage": null,
-      "publishedAt": "2026-01-25 07:45:54",
-      "content": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially dead\u2026 [+9567 chars]",
-      "retrievedAt": "2026-01-26 19:11:12.445676",
-      "internal_id": "53abdcbd212fcdcbaecd03c9bbc6ce42512614cf0ae942fdc4e6001cdeda4f24",
       "publishedAtLabel": "Jan 25"
     }
   ]
