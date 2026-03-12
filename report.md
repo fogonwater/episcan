@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 7
-- **Last harvest:** 2026-03-11 19:21
-- **Most recent article:** 2026-03-10 18:26:13
+- **Last harvest:** 2026-03-12 07:24
+- **Most recent article:** 2026-03-11 06:10:28
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 9 | 73 | 107 | 112 | 111 | 83 | 565 |
+| measles | 70 | 11 | 75 | 107 | 112 | 111 | 83 | 569 |
 | dengue | 22 | 3 | 16 | 16 | 24 | 17 | 15 | 113 |
-| mpox | 10 | 7 | 3 | 11 | 14 | 25 | 27 | 97 |
+| mpox | 10 | 9 | 3 | 11 | 14 | 25 | 27 | 99 |
 | rabies | 18 | 4 | 9 | 11 | 16 | 16 | 14 | 88 |
+| malaria | 16 | 4 | 8 | 15 | 14 | 10 | 11 | 78 |
 | chikungunya | 1 | 3 | 8 | 8 | 12 | 40 | 6 | 78 |
-| malaria | 16 | 2 | 8 | 15 | 14 | 10 | 11 | 76 |
 | h5n1 | 2 | 4 | 21 | 12 | 12 | 11 | 4 | 66 |
 | meningitis | 4 | 3 | 7 | 4 | 7 | 3 | 5 | 33 |
-| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
+| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
 | zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
+| hpai | 2 | 1 | 3 | 1 | 3 | 1 | 2 | 13 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
-| hpai | 2 | 0 | 3 | 1 | 3 | 1 | 2 | 12 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
 | pertussis | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
@@ -2035,6 +2035,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
+- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
+
+- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
+
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2064,6 +2068,8 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
+
+- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2191,6 +2197,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (mpox)
 
+- [Mpox em alta: como prevenir o contágio e reconhecer sintomas iniciais](https://www.metropoles.com/colunas/claudia-meireles/mpox-em-alta-como-prevenir-o-contagio-e-reconhecer-sintomas-iniciais) (Metropoles.com)
+
+- [Brasil registra 149 casos de mpox em 13 estados](https://saude.ig.com.br/2026-03-10/brasil-registra-149-casos-de-mpox-em-13-estados.html) (Ig.com.br)
+
 - [Mvabea (Johnson & Johnson) Market Research Report 2026: Epidemiology, Pipeline Analysis, Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/10/3252572/28124/en/Mvabea-Johnson-Johnson-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 - [Sobe para 140 o número de casos confirmados de Mpox em 2026 no Brasil](https://www.metropoles.com/brasil/sobe-para-140-o-numero-de-casos-confirmados-de-mpox-em-2026-no-brasil) (Metropoles.com)
@@ -2215,6 +2225,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (measles)
 
+- [Why are measles outbreaks surging in the U.S.? #health](https://alltoc.com/health/why-are-measles-outbreaks-surging-in-the-u-s) (Alltoc.com)
+
+- [DOJ Lawyer: RFK Jr.’s Authority Shall Not Suffer Any Checks & Balances From The Courts](https://www.techdirt.com/2026/03/10/doj-lawyer-rfk-jr-s-authority-shall-not-suffer-any-checks-balances-from-the-courts/) (Techdirt)
+
 - [Inside Health](https://www.bbc.co.uk/sounds/play/m002sf6d) (BBC News)
 
 - [Immunization, key to preventing measles outbreak](https://en.antaranews.com/news/407655/immunization-key-to-preventing-measles-outbreak) (Antaranews.com)
@@ -2235,9 +2249,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (malaria)
 
+- [One Key Protein Could Be a Powerful New Target Against Malaria](https://www.sciencealert.com/one-key-protein-could-be-a-powerful-new-target-against-malaria) (ScienceAlert)
+
+- [Microfluidic Platform for Automatic Quantification of Malaria Parasite Invasion Under Physiological Flow Conditions](https://pubs.rsc.org/en/content/articlelanding/2026/lc/d5lc00748h) (Royal Society of Chemistry)
+
 - [Chennai Mosquito Control: Natural Biolarvicide Shows Promise in Water Tanks](https://timesofindia.indiatimes.com/city/chennai/chennai-mosquito-control-natural-biolarvicide-shows-promise-in-water-tanks/articleshow/129413165.cms) (The Times of India)
 
 - [Fifty shades of iron: Unorthodox mechanisms of iron acquisition and utilization in blood-stage Plasmodium parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014030) (Plos.org)
+
+## 26-11 (hpai)
+
+- [유산균으로 가금 면역력 높이고 축산 악취 제거···경기도, 77t 300개 축산농가에 공급](https://www.khan.co.kr/article/202603111105001) (Khan.co.kr)
 
 ## 26-11 (h5n1)
 
