@@ -1,8 +1,279 @@
 {
-  "last_updated": "2026-03-13 07:24",
-  "count_articles_total": 1198,
-  "count_articles_new": 5,
+  "last_updated": "2026-03-13 19:17",
+  "count_articles_total": 1210,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 28284,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Measles Outbreak \u2014 New Mexico, 2025",
+      "description": "This report describes a measles outbreak in New Mexico in 2025.",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7509a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/weekly_generic_logo_1200x675.jpg?_=17133",
+      "publishedAt": "2026-03-12 17:23:11",
+      "content": "Emma Stanislawski, MPH1; Andrea Romero1; Nora Holzinger, MA, MPH1; Ruth Healy, MPH1; Nathaniel J. Webb, PhD1; Kathryn Cruz1; Marla Sievers, MPH1; Su Aung, MD2; Samantha Swisher, DVM3,4; Ruth Stefanos\u2026 [+19016 chars]",
+      "retrievedAt": "2026-03-13 19:16:59.338924",
+      "internal_id": "34e88b88a628103426e50bf63c63b236b7264ffdd67d084080fce4d68edaa3be",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28283,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Measles Outbreak - New Mexico, 2025",
+      "description": "This report describes a measles outbreak in New Mexico in 2025.",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7509a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/weekly_generic_logo_1200x675.jpg?_=17133",
+      "publishedAt": "2026-03-12 17:00:00",
+      "content": "Emma Stanislawski, MPH1; Andrea Romero1; Nora Holzinger, MA, MPH1; Ruth Healy, MPH1; Nathaniel J. Webb, PhD1; Kathryn Cruz1; Marla Sievers, MPH1; Su Aung, MD2; Samantha Swisher, DVM3,4; Ruth Stefanos\u2026 [+19016 chars]",
+      "retrievedAt": "2026-03-13 19:16:59.236456",
+      "internal_id": "88f96b0ca03626313a00a6028bdb639848b47d40bb7a0fba6f1ddf44d1a08668",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28280,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Punknews.org",
+      "author": "sam@nospam.punknews.org (sam)",
+      "title": "Tours: Crossed Keys / Not Gorgeous (Virginia)",
+      "description": "Philly based hardcore band Crossed Keys is playing two shows next week in the Virginia area with NYC/Maryland based punks Not Gorgeous. They will be playing a show at Galactic Panther in Alexandria, VA with American Television, and Babies with Rabies and in R\u2026",
+      "url": "https://www.punknews.org/article/87782/tours-crossed-keys-not-gorgeous-virginia",
+      "urlToImage": "https://static.punknews.org/images/bands/crossedkeys-1677256711.jpg",
+      "publishedAt": "2026-03-12 15:00:01",
+      "content": "Philly based hardcore band Crossed Keys is playing two shows next week in the Virginia area with NYC/Maryland based punks Not Gorgeous. They will be playing a show at Galactic Panther in Alexandria, \u2026 [+332 chars]",
+      "retrievedAt": "2026-03-13 19:16:58.854902",
+      "internal_id": "762bd606f8863c8745ddc61d7deb43fef755e7e2558d7da29cbe87bea7aa8121",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28291,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "focus",
+      "source_name": "Focus",
+      "author": "teleschau",
+      "title": "Stimmst\u00f6rung nach Meningitis: \u201eWir sind Helden\u201c-S\u00e4ngerin Judith Holofernes kann nicht mehr singen",
+      "description": "Judith Holofernes kann seit acht Jahren nicht mehr singen. Bei \u201eVolle Kanne\u201c sprach die \u201eWir sind Helden\u201c-S\u00e4ngerin \u00fcber ihre Krankheit und ihren neuen Alltag als Autorin.",
+      "url": "https://www.focus.de/kultur/stars/stimmstoerung-nach-meningitis-wir-sind-helden-saengerin-judith-holofernes-kann-nicht-mehr-singen_68665d6b-2afe-411b-89f3-7e60c4b06d75.html",
+      "urlToImage": "https://quadro.burda-forward.de/ctf/b6518c10-8c0e-4525-91e1-25fd203f8b6f.012b6f5c-18bf-45aa-9ea2-92cacc1ec884.jpg?im=RegionOfInterestCrop=(1200,630),regionOfInterest=(1778,741)&hash=419d1099c18ab7daca4104d216dd5f9fb84a3c571c555fe49aafc61ad73d49e6",
+      "publishedAt": "2026-03-12 14:18:00",
+      "content": "Guten Tag, guten Tag, ich will mein Leben zur\u00fcck. Mit diesem Slogan traten Wir sind Helden Anfang der Jahrtausendwende auf den Plan. Die in Hamburg beheimatete Pop-Band eroberte die Charts. 2012 legt\u2026 [+2718 chars]",
+      "retrievedAt": "2026-03-13 19:17:00.368165",
+      "internal_id": "bef6dda7c55cf7bac25cd30be0b5561e74345c55731d533863bb9037eb426d8e",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28279,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Hung Chiun Lau, Zamberi Sekawi, Siew Mooi Ching, Norhasliza Abu Bakar, Rahmat Dapari, Siti Rohani Mohamed Alias, Nor Hazlin Talib, Izzah Hazwani Dzulkifli, Nadiah Md Alwi, Habibah Abdul Hamid, Hazwan Mat Din",
+      "title": "Effectiveness of the influenza and Tdap vaccination educational module (InTroDuce-Programme) on knowledge and intention for antenatal vaccination: A cluster randomised controlled trial protocol among pregnant women in Malaysian primary care clinics",
+      "description": "Background Vaccination during pregnancy represents a critical public health strategy to safeguard both mothers and infants against infections such as influenza and pertussis. However, uptake remains suboptimal both globally and in Malaysia, with influenza vac\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344651",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0344651.g002&size=inline",
+      "publishedAt": "2026-03-12 14:00:00",
+      "content": "Citation: Lau HC, Sekawi Z, Ching SM, Abu Bakar N, Dapari R, Mohamed Alias SR, et al. (2026) Effectiveness of the influenza and Tdap vaccination educational module (InTroDuce-Programme) on knowledge \u2026 [+38952 chars]",
+      "retrievedAt": "2026-03-13 19:16:58.453336",
+      "internal_id": "bc2c6dcbedfc393b002c4f197d4f9062162386469128c120587a7661bfb66d3b",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28288,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Srishti Chhabra, Po Ying Chia, Yee-Sin Leo, Barnaby Edward Young",
+      "title": "A systematic review of dengue controlled human infection studies: safety, viral kinetics and immunology",
+      "description": "Author summary Dengue controlled human infection challenge models (DCHIM) are increasingly being utilised to understand the pathogenesis of dengue fever and to evaluate vaccine and anti-viral candidate efficacy. This is the first systematic review which colla\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014086",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014086.g004&size=inline",
+      "publishedAt": "2026-03-12 14:00:00",
+      "content": "Abstract Background The immunopathogenesis of dengue infection and immune correlates of protection are uncertain, no therapeutic anti-viral is available, and the long-term risks of severe breakthro\u2026 [+34462 chars]",
+      "retrievedAt": "2026-03-13 19:17:00.086870",
+      "internal_id": "ca96c568406e8e01a2499fc1d9ef3a59dfefd61328110e37edfcd15cb0eadd28",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28290,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rahmat Dapari, Safiyeh Tayebi, Ana Lorena Ruano, Timothy C. Guetterman, Seok Mui Wang, Siti Hafizah AB Hamid, Sohel Rahman, J\u00fcrgen Pilz, Nazri Che Dom, Ubydul Haque",
+      "title": "Community participation and technological innovation: Baseline qualitative insights to inform a five-year cohort on drone-based dengue surveillance in Malaysia",
+      "description": "Author summary This study shows that aligning drone surveillance technologies with cultural dynamics and fostering trust through transparency and communication promotes community acceptance and sustained engagement. The research identifies key factors, includ\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013979",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0013979.g002&size=inline",
+      "publishedAt": "2026-03-12 14:00:00",
+      "content": "Abstract Background To inform a prospective cohort study five-year automated surveillance study, this study explores households and stakeholder perceptions of using drones for mosquito breeding sit\u2026 [+46361 chars]",
+      "retrievedAt": "2026-03-13 19:17:00.111758",
+      "internal_id": "93f503f147c3baea3ca65ddc681b73622998a0db6f958428ca26733ea64e987b",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28287,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "rte",
+      "source_name": "RTE",
+      "author": "RT\u00c9 News",
+      "title": "Bird flu outbreak confirmed near Omagh, Co Tyrone",
+      "description": "Northern Ireland's chief vet today confirmed that Highly Pathogenic Avian Influenza H5N1 has been found at a commercial poultry premises near Omagh.",
+      "url": "https://www.rte.ie/news/2026/0312/1563065-bird-flu-outbreak-confirmed-near-omagh-co-tyrone/",
+      "urlToImage": "https://www.rte.ie/images/0023770f-1600.jpg",
+      "publishedAt": "2026-03-12 12:50:18",
+      "content": "Northern Ireland's chief vet today confirmed that Highly Pathogenic Avian Influenza H5N1 has been found at a commercial poultry premises near Omagh. Brian Dooher imposed initial restrictions on the \u2026 [+831 chars]",
+      "retrievedAt": "2026-03-13 19:16:59.795765",
+      "internal_id": "7863ac6e8e942f1f9dceddf6110e59572c8777f5334a0408234bcb9e68cc9066",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28282,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Jennifer B. Nuzzo, Professor of Epidemiology and Director of the Pandemic Center, Brown University, Andrea Uhlig, Research Associate at the Pandemic Center, Brown University",
+      "title": "We study pandemics, and the resurgence of measles is a grim sign of what\u2019s coming",
+      "description": "Controlling the spread of many infections, including measles, depends on trust in public health, which is eroding.",
+      "url": "https://theconversation.com/we-study-pandemics-and-the-resurgence-of-measles-is-a-grim-sign-of-whats-coming-275059",
+      "urlToImage": "https://images.theconversation.com/files/723333/original/file-20260311-57-2blpge.jpg?ixlib=rb-4.1.0&rect=0%2C35%2C3240%2C1620&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-03-12 12:27:54",
+      "content": "The U.S. eliminated measles in 2000, but the disease is once again circulating around the country. Marina Demidiuk/iStock via Getty Images Plus In the three decades between 1993 and 2024, measles in\u2026 [+6932 chars]",
+      "retrievedAt": "2026-03-13 19:16:59.223423",
+      "internal_id": "b0576062b96b7e7763556951a6eeb2da1396d641d2a828a263a85512f029d3e7",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28292,
+      "query": [
+        "chikungunya",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Pharmaceutical Technology",
+      "author": "Salong Debbarma",
+      "title": "Bavarian Nordic and SII sign agreement for chikungunya vaccine production",
+      "description": "The new arrangement builds upon the existing mpox vaccine licence and manufacturing partnership between the two companies.",
+      "url": "https://www.pharmaceutical-technology.com/news/bavarian-nordic-sii-vaccine-production/",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/8Yx_9Ny47awPxgnD1G1KIw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/pharmaceutical_technology_376/fcf5ad07030743146d98f527326c19ac",
+      "publishedAt": "2026-03-12 12:21:04",
+      "content": "Bavarian Nordic has signed a manufacturing agreement with Serum Institute of India (SII), expanding its strategic partnership through a contract for its chikungunya vaccine (CHIKV VLP). The contract\u2026 [+2519 chars]",
+      "retrievedAt": "2026-03-13 19:17:01.080524",
+      "internal_id": "bce1fad5437fced5593e368af039cf9dad05af01c222cd97fd3a2f69106336b9",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28293,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Diogo Sponchiato",
+      "title": "Mpox: novo estado confirma doen\u00e7a viral e n\u00famero de casos no Brasil se aproxima de 150",
+      "description": "Cear\u00e1 registrou primeiro epis\u00f3dio em 2026; entenda cen\u00e1rio nacional",
+      "url": "https://veja.abril.com.br/saude/mpox-novo-estado-confirma-doenca-viral-brasil/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/03/mpox-o-que-e-sintomas-diagnostico-e-tratamentos-eficazes.webp?resize=1080,565&crop=1",
+      "publishedAt": "2026-03-12 11:53:51",
+      "content": "Pular para o conte\u00fado Semana do consumidor: VEJA por apenas 9,90Mpox: pa\u00eds contabiliza 149 casos confirmados (Reprodu\u00e7\u00e3o / Internet/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade O Cear\u00e1 registra s\u2026 [+2304 chars]",
+      "retrievedAt": "2026-03-13 19:17:01.335061",
+      "internal_id": "6603125719c949ba911d7c7c5f27c53c14e7f72eaafe5dc0dc7f9f9b4d4d2b01",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28281,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Anjali Singh",
+      "title": "India battles rabies: Stray dogs, missed vaccinations, and healthcare delays lead to multiple deaths",
+      "description": "Tragic rabies deaths across India highlight critical gaps in awareness and healthcare. Despite available vaccines, delayed treatment, improper administration, and underestimation of risks lead to fatalities. Incidents from Chennai to Delhi reveal a worrying p\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/india-battles-rabies-stray-dogs-missed-vaccinations-and-healthcare-delays-lead-to-multiple-deaths/articleshow/129503276.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129506372,width-1280,height-720,imgsize-900835,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-12 11:50:41",
+      "content": "News City News delhi News India battles rabies: Stray dogs, missed vaccinations, and healthcare delays lead to multiple deaths Follow Us On Social Med\u2026 [+1611 chars]",
+      "retrievedAt": "2026-03-13 19:16:58.914157",
+      "internal_id": "1589c2f58de5586125b4a0b8a08b242e903c550e0f40f776973ad0966cfb9860",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28289,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Origo.hu",
+      "author": "",
+      "title": "J\u00e1rv\u00e1nyvesz\u00e9ly Magyarorsz\u00e1gon? Egy v\u00e1rmegy\u00e9ben is azonos\u00edtott\u00e1k a fert\u0151z\u00e9st",
+      "description": "Friss h\u00edrek Magyarorsz\u00e1gr\u00f3l \u00e9s a nagyvil\u00e1gb\u00f3l, sport, technika, sz\u00f3rakoz\u00e1s, tudom\u00e1ny, kult\u00fara. Az ORIGO a legfrissebb hazai \u00e9s nemzetk\u00f6zi h\u00edrekkel szolg\u00e1l olvas\u00f3i sz\u00e1m\u00e1ra.",
+      "url": "https://www.origo.hu/itthon/2026/03/jarvany-magyarorszag-dangue-virus-fertozes-veeszprem",
+      "urlToImage": "https://cdn.origo.hu/2026/03/7tF09Xjb8IkimYYeC56tNyssRx-jxrgD1ZY4W-gjWGA/fill/1200/675/no/1/aHR0cHM6Ly9jbXNjZG4uYXBwLmNvbnRlbnQucHJpdmF0ZS9jb250ZW50LzllOThlNTg0YzJkMDRjNWM4N2MwOTYxM2Q4OGE2Yzhi.webp",
+      "publishedAt": "2026-03-12 11:26:01",
+      "content": "K\u00e9t import\u00e1lt eredet Dengue-megbeteged\u00e9st igazoltak Veszpr\u00e9m v\u00e1rmegy\u00e9ben. A j\u00e1rv\u00e1ny magyarorsz\u00e1gi megjelen\u00e9s\u00e9rl az\u00e9rt besz\u00e9lnek, mert a v\u00edrust mindk\u00e9t betegn\u00e9l kimutatt\u00e1k. J\u00e1rv\u00e1ny Magyarorsz\u00e1gon: Ve\u2026 [+1748 chars]",
+      "retrievedAt": "2026-03-13 19:17:00.099523",
+      "internal_id": "0fa7bbee574ce9c620f459651b64aa1bc2c132afd20a589068f2bf7c45b7b080",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28286,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Resinta Sulistiyandari",
+      "title": "Minister targets measles immunization reaching 95 percent before Eid",
+      "description": "The Health Ministry is targeting 95 percent measles immunization coverage within one to two weeks before the 2026 Eid al-Fitr in the third week of ...",
+      "url": "https://en.antaranews.com/news/408159/minister-targets-measles-immunization-reaching-95-percent-before-eid",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/02/11/1001045796.jpg",
+      "publishedAt": "2026-03-12 10:14:29",
+      "content": "Jakarta (ANTARA) - The Health Ministry is targeting 95 percent measles immunization coverage within one to two weeks before the 2026 Eid al-Fitr in the third week of March.\"It has been going on for a\u2026 [+2592 chars]",
+      "retrievedAt": "2026-03-13 19:16:59.387245",
+      "internal_id": "4661424190bb62897f707d5fa0a1f070a83a362e094a2a6ea616c2d0dc54bbfb",
+      "publishedAtLabel": "Mar 12"
+    },
+    {
+      "id": 28285,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Measles warning in Bnei Brak",
+      "description": "Measles patient visited bakery in Bnei Brak, Health Ministry urges those exposed to ensure vaccination.",
+      "url": "https://www.israelnationalnews.com/news/423804",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1123755.jpg",
+      "publishedAt": "2026-03-12 08:29:48",
+      "content": "The Health Ministry on Wednesday evening reported that a measles patient was present in a Bnei Brak bakery on Friday. According to the Ministry report, the patient was present at the Zman Ha'aretz\" \u2026 [+1163 chars]",
+      "retrievedAt": "2026-03-13 19:16:59.352011",
+      "internal_id": "25ffabbfd215cb3fbe66a256cd80d7095dad741deea13191bf15a8ed41c40752",
+      "publishedAtLabel": "Mar 12"
+    },
     {
       "id": 28276,
       "query": [
@@ -21536,60 +21807,6 @@
       "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
       "retrievedAt": "2026-01-27 07:13:40.250309",
       "internal_id": "7b8bf82f27032546f621f161f3ed99ec473c04ad0199b83ffaa01c9d37813108",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27081,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Punch Newspapers",
-      "title": "Lagos first lady unveils measles-rubella immunisation campaign Tuesday",
-      "description": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on the Lagos State Government\u2019s official social media handle on Su\u2026",
-      "url": "https://punchng.com/?p=2045546",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png",
-      "publishedAt": "2026-01-25 14:41:34",
-      "content": "The First Lady of Lagos State, Dr Ibijoke Sanwo-Olu, will on Tuesday flag off the Measles-Rubella and Routine Immunisation campaign across the state. This was disclosed in a statement posted on th\u2026 [+2700 chars]",
-      "retrievedAt": "2026-01-26 19:11:10.460268",
-      "internal_id": "66fde195d05cd4d77d4977a5f7bb3359cdec4c4652401c0186f0f4cec6b3f020",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27082,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Measles infection spreads in Malangwa",
-      "description": "SARLAHI: Measles infection has spread in Malangwa Municipality\u20133, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection has been detected in the area and that 22 suspected cases h\u2026",
-      "url": "https://english.khabarhub.com/2026/25/532402/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2019/04/Measles-khabarhub.jpg",
-      "publishedAt": "2026-01-25 10:45:06",
-      "content": "SARLAHI: Measles infection has spread in Malangwa Municipality3, with seven confirmed cases reported so far. Head of the Malangwa Municipal Health Office Dr Nawal Kishore Jha said that the infection\u2026 [+757 chars]",
-      "retrievedAt": "2026-01-26 19:11:10.626299",
-      "internal_id": "9f5a7847a4697dd80b59a6ce7da8e804fc20488ee0d73aabd6c4b34154c2d81e",
-      "publishedAtLabel": "Jan 25"
-    },
-    {
-      "id": 27083,
-      "query": [
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Lifesciencesworld.com",
-      "author": "Noah Whitman",
-      "title": "What is the disease in mice urine?",
-      "description": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially deadly disease in humans. Understanding the risks associated with\u2026",
-      "url": "https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/",
-      "urlToImage": null,
-      "publishedAt": "2026-01-25 07:45:54",
-      "content": "What Diseases Can Be Found in Mice Urine? Unveiling the Hidden Risks Mice urine can harbor several dangerous pathogens, most notably Leptospira, a bacterium causing Leptospirosis, a potentially dead\u2026 [+9567 chars]",
-      "retrievedAt": "2026-01-26 19:11:12.445676",
-      "internal_id": "53abdcbd212fcdcbaecd03c9bbc6ce42512614cf0ae942fdc4e6001cdeda4f24",
       "publishedAtLabel": "Jan 25"
     }
   ]

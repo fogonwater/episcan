@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2026-03-13 07:24
-- **Most recent article:** 2026-03-12 04:00:14
+- **New articles in last harvest:** 15
+- **Last harvest:** 2026-03-13 19:17
+- **Most recent article:** 2026-03-12 17:23:11
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 15 | 75 | 107 | 112 | 111 | 83 | 573 |
-| dengue | 22 | 7 | 16 | 16 | 24 | 17 | 15 | 117 |
-| mpox | 10 | 12 | 3 | 11 | 14 | 25 | 27 | 102 |
-| rabies | 18 | 9 | 9 | 11 | 16 | 16 | 14 | 93 |
-| chikungunya | 1 | 6 | 8 | 8 | 12 | 40 | 6 | 81 |
+| measles | 70 | 20 | 73 | 107 | 112 | 111 | 83 | 576 |
+| dengue | 22 | 10 | 16 | 16 | 24 | 17 | 15 | 120 |
+| mpox | 10 | 14 | 3 | 11 | 14 | 25 | 27 | 104 |
+| rabies | 18 | 11 | 9 | 11 | 16 | 16 | 14 | 95 |
+| chikungunya | 1 | 7 | 8 | 8 | 12 | 40 | 6 | 82 |
 | malaria | 16 | 5 | 8 | 15 | 14 | 10 | 11 | 79 |
-| h5n1 | 2 | 4 | 21 | 12 | 12 | 11 | 4 | 66 |
-| meningitis | 4 | 3 | 7 | 4 | 7 | 3 | 5 | 33 |
-| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
+| h5n1 | 2 | 5 | 21 | 12 | 12 | 11 | 4 | 67 |
+| meningitis | 4 | 4 | 7 | 4 | 7 | 3 | 5 | 34 |
+| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
 | zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
 | hpai | 2 | 1 | 3 | 1 | 3 | 1 | 2 | 13 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
-| pertussis | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 5 |
+| pertussis | 1 | 2 | 1 | 1 | 1 | 0 | 0 | 6 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
@@ -2035,10 +2035,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
-- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
-
-- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
-
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2068,8 +2064,6 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
-
-- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2183,6 +2177,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (rabies)
 
+- [Tours: Crossed Keys / Not Gorgeous (Virginia)](https://www.punknews.org/article/87782/tours-crossed-keys-not-gorgeous-virginia) (Punknews.org)
+
+- [India battles rabies: Stray dogs, missed vaccinations, and healthcare delays lead to multiple deaths](https://timesofindia.indiatimes.com/city/delhi/india-battles-rabies-stray-dogs-missed-vaccinations-and-healthcare-delays-lead-to-multiple-deaths/articleshow/129503276.cms) (The Times of India)
+
 - [Can a dog get rabies from a dead possum?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-a-dead-possum/) (Lifesciencesworld.com)
 
 - [Can a dog get rabies from a porcupine?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-a-porcupine/) (Lifesciencesworld.com)
@@ -2203,9 +2201,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (pertussis)
 
+- [Effectiveness of the influenza and Tdap vaccination educational module (InTroDuce-Programme) on knowledge and intention for antenatal vaccination: A cluster randomised controlled trial protocol among pregnant women in Malaysian primary care clinics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344651) (Plos.org)
+
 - [Infanrix and Infanrix-hexa Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252005/28124/en/Infanrix-and-Infanrix-hexa-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 ## 26-11 (mpox)
+
+- [Bavarian Nordic and SII sign agreement for chikungunya vaccine production](https://www.pharmaceutical-technology.com/news/bavarian-nordic-sii-vaccine-production/) (Pharmaceutical Technology)
+
+- [Mpox: novo estado confirma doença viral e número de casos no Brasil se aproxima de 150](https://veja.abril.com.br/saude/mpox-novo-estado-confirma-doenca-viral-brasil/) (Abril.com.br)
 
 - [Ontario’s first cases of another mpox variant confirmed, public health says](https://www.theglobeandmail.com/canada/article-ontario-toronto-cases-of-mpox-variant/) (The Globe And Mail)
 
@@ -2233,6 +2237,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (meningitis)
 
+- [Stimmstörung nach Meningitis: „Wir sind Helden“-Sängerin Judith Holofernes kann nicht mehr singen](https://www.focus.de/kultur/stars/stimmstoerung-nach-meningitis-wir-sind-helden-saengerin-judith-holofernes-kann-nicht-mehr-singen_68665d6b-2afe-411b-89f3-7e60c4b06d75.html) (Focus)
+
 - [Menquadfi (Sanofi) Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252049/28124/en/Menquadfi-Sanofi-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 - [Bexsero Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252038/28124/en/Bexsero-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
@@ -2240,6 +2246,16 @@ Source: [News API](https://newsapi.org/)
 - [Menveo Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251994/28124/en/Menveo-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 ## 26-11 (measles)
+
+- [Measles Outbreak — New Mexico, 2025](https://www.cdc.gov/mmwr/volumes/75/wr/mm7509a1.htm) (Cdc.gov)
+
+- [Measles Outbreak - New Mexico, 2025](https://www.cdc.gov/mmwr/volumes/75/wr/mm7509a1.htm) (Cdc.gov)
+
+- [We study pandemics, and the resurgence of measles is a grim sign of what’s coming](https://theconversation.com/we-study-pandemics-and-the-resurgence-of-measles-is-a-grim-sign-of-whats-coming-275059) (The Conversation Africa)
+
+- [Minister targets measles immunization reaching 95 percent before Eid](https://en.antaranews.com/news/408159/minister-targets-measles-immunization-reaching-95-percent-before-eid) (Antaranews.com)
+
+- [Measles warning in Bnei Brak](https://www.israelnationalnews.com/news/423804) (Israelnationalnews.com)
 
 - [The South Carolina Measles Outbreak Is Slowing Down](https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/) (Wired)
 
@@ -2289,6 +2305,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (h5n1)
 
+- [Bird flu outbreak confirmed near Omagh, Co Tyrone](https://www.rte.ie/news/2026/0312/1563065-bird-flu-outbreak-confirmed-near-omagh-co-tyrone/) (RTE)
+
 - [Dvě nová ohniska ptačí chřipky ve velkochovech kachen v Královéhradeckém kraji](https://www.novinky.cz/clanek/domaci-zpravy-kralovehradecky-kraj-dve-nova-ohniska-ptaci-chripky-ve-velkochovech-kachen-v-kralovehradeckem-kraji-40566954) (Novinky.cz)
 
 - [Vogelgrippe: Geflügelpest in Putenmastbetrieb – 4.800 Tiere betroffen](https://www.tagesspiegel.de/berlin/vogelgrippe-geflugelpest-in-putenmastbetrieb--4800-tiere-betroffen-15335333.html) (Der Tagesspiegel)
@@ -2298,6 +2316,12 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe: Geflügelpest in Putenmastbetrieb – 4.800 Tiere betroffen](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe--gefluegelpest-in-putenmastbetrieb---4-800-tiere-betroffen-37206312.html) (STERN.de)
 
 ## 26-11 (dengue)
+
+- [A systematic review of dengue controlled human infection studies: safety, viral kinetics and immunology](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014086) (Plos.org)
+
+- [Community participation and technological innovation: Baseline qualitative insights to inform a five-year cohort on drone-based dengue surveillance in Malaysia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013979) (Plos.org)
+
+- [Járványveszély Magyarországon? Egy vármegyében is azonosították a fertőzést](https://www.origo.hu/itthon/2026/03/jarvany-magyarorszag-dangue-virus-fertozes-veeszprem) (Origo.hu)
 
 - [1000 abdominales al día: la estrategia de Evo Morales en su crisis política](https://noticias.perfil.com/noticias/politica/evo-morales-mostro-su-rutina-de-entrenamiento-en-redes-tras-recuperarse-de-un-problema-de-salud.phtml) (Perfil.com)
 
@@ -2314,6 +2338,8 @@ Source: [News API](https://newsapi.org/)
 - [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
 
 ## 26-11 (chikungunya)
+
+- [Bavarian Nordic and SII sign agreement for chikungunya vaccine production](https://www.pharmaceutical-technology.com/news/bavarian-nordic-sii-vaccine-production/) (Pharmaceutical Technology)
 
 - [1000 abdominales al día: la estrategia de Evo Morales en su crisis política](https://noticias.perfil.com/noticias/politica/evo-morales-mostro-su-rutina-de-entrenamiento-en-redes-tras-recuperarse-de-un-problema-de-salud.phtml) (Perfil.com)
 
