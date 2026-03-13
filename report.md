@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2026-03-12 19:21
-- **Most recent article:** 2026-03-11 18:11:42
+- **New articles in last harvest:** 5
+- **Last harvest:** 2026-03-13 07:24
+- **Most recent article:** 2026-03-12 04:00:14
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 14 | 73 | 107 | 112 | 111 | 83 | 570 |
-| dengue | 22 | 6 | 16 | 16 | 24 | 17 | 15 | 116 |
+| measles | 70 | 15 | 75 | 107 | 112 | 111 | 83 | 573 |
+| dengue | 22 | 7 | 16 | 16 | 24 | 17 | 15 | 117 |
 | mpox | 10 | 12 | 3 | 11 | 14 | 25 | 27 | 102 |
-| rabies | 18 | 6 | 9 | 11 | 16 | 16 | 14 | 90 |
-| chikungunya | 1 | 5 | 8 | 8 | 12 | 40 | 6 | 80 |
+| rabies | 18 | 9 | 9 | 11 | 16 | 16 | 14 | 93 |
+| chikungunya | 1 | 6 | 8 | 8 | 12 | 40 | 6 | 81 |
 | malaria | 16 | 5 | 8 | 15 | 14 | 10 | 11 | 79 |
 | h5n1 | 2 | 4 | 21 | 12 | 12 | 11 | 4 | 66 |
 | meningitis | 4 | 3 | 7 | 4 | 7 | 3 | 5 | 33 |
-| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
+| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
 | zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
 | hpai | 2 | 1 | 3 | 1 | 3 | 1 | 2 | 13 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
@@ -2035,6 +2035,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
+- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
+
+- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
+
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2064,6 +2068,8 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
+
+- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2177,6 +2183,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (rabies)
 
+- [Can a dog get rabies from a dead possum?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-a-dead-possum/) (Lifesciencesworld.com)
+
+- [Can a dog get rabies from a porcupine?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-a-porcupine/) (Lifesciencesworld.com)
+
+- [Rabid coyote attacks 3 people, 6 dogs in Eastchester and Bronxville area](https://gothamist.com/news/rabid-coyote-attacks-3-people-6-dogs-in-eastchester-and-bronxville-area) (Gothamist)
+
 - [Rabies vaccine may not be enough. Doctor reveals 4 ways to prevent death](https://economictimes.indiatimes.com/news/new-updates/rabies-vaccine-may-not-be-enough-doctor-reveals-4-ways-to-prevent-death/articleshow/129471164.cms) (The Times of India)
 
 - [Why are people so afraid of raccoons?](https://www.lifesciencesworld.com/why-are-people-so-afraid-of-raccoons/) (Lifesciencesworld.com)
@@ -2228,6 +2240,8 @@ Source: [News API](https://newsapi.org/)
 - [Menveo Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251994/28124/en/Menveo-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 ## 26-11 (measles)
+
+- [The South Carolina Measles Outbreak Is Slowing Down](https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/) (Wired)
 
 - [Why did the UK lose measles elimination status? #health](https://alltoc.com/health/why-did-the-uk-lose-measles-elimination-status) (Alltoc.com)
 
@@ -2285,6 +2299,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (dengue)
 
+- [1000 abdominales al día: la estrategia de Evo Morales en su crisis política](https://noticias.perfil.com/noticias/politica/evo-morales-mostro-su-rutina-de-entrenamiento-en-redes-tras-recuperarse-de-un-problema-de-salud.phtml) (Perfil.com)
+
 - [Enchufada celebra 20 anos com compilação e eventos](https://observador.pt/2026/03/11/enchufada-celebra-20-anos-com-compilacao-e-eventos-no-porto-e-em-londres/) (Observador.pt)
 
 - [The 50: Nikki Tamboli breaks silence on why she didn’t quit after Arbaz Patel’s exit; says “Walking out emotionally might look dramatic, but honoring your responsibility takes strength”](https://timesofindia.indiatimes.com/tv/news/hindi/the-50-nikki-tamboli-breaks-silence-on-why-she-didnt-quit-after-arbaz-patels-exit-says-walking-out-emotionally-might-look-dramatic-but-honoring-your-responsibility-takes-strength/articleshow/129463364.cms) (The Times of India)
@@ -2298,6 +2314,8 @@ Source: [News API](https://newsapi.org/)
 - [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
 
 ## 26-11 (chikungunya)
+
+- [1000 abdominales al día: la estrategia de Evo Morales en su crisis política](https://noticias.perfil.com/noticias/politica/evo-morales-mostro-su-rutina-de-entrenamiento-en-redes-tras-recuperarse-de-un-problema-de-salud.phtml) (Perfil.com)
 
 - [Bavarian Nordic and Serum Institute of India Expand Strategic Partnership with Chikungunya Vaccine Manufacturing Agreement](https://www.globenewswire.com/news-release/2026/03/11/3253522/0/en/Bavarian-Nordic-and-Serum-Institute-of-India-Expand-Strategic-Partnership-with-Chikungunya-Vaccine-Manufacturing-Agreement.html) (GlobeNewswire)
 
