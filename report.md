@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-03-14 07:19
-- **Most recent article:** 2026-03-13 07:01:00
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-03-14 19:12
+- **Most recent article:** 2026-03-13 15:46:06
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 22 | 75 | 107 | 112 | 111 | 83 | 580 |
-| dengue | 22 | 10 | 16 | 16 | 24 | 17 | 15 | 120 |
+| measles | 70 | 25 | 73 | 107 | 112 | 111 | 83 | 581 |
+| dengue | 22 | 11 | 16 | 16 | 24 | 17 | 15 | 121 |
 | mpox | 10 | 15 | 3 | 11 | 14 | 25 | 27 | 105 |
 | rabies | 18 | 12 | 9 | 11 | 16 | 16 | 14 | 96 |
+| malaria | 16 | 8 | 8 | 15 | 14 | 10 | 11 | 82 |
 | chikungunya | 1 | 7 | 8 | 8 | 12 | 40 | 6 | 82 |
-| malaria | 16 | 7 | 8 | 15 | 14 | 10 | 11 | 81 |
-| h5n1 | 2 | 7 | 21 | 12 | 12 | 11 | 4 | 69 |
-| meningitis | 4 | 5 | 7 | 4 | 7 | 3 | 5 | 35 |
-| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
+| h5n1 | 2 | 8 | 21 | 12 | 12 | 11 | 4 | 70 |
+| meningitis | 4 | 6 | 7 | 4 | 7 | 3 | 5 | 36 |
+| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
 | zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
 | hpai | 2 | 2 | 3 | 1 | 3 | 1 | 2 | 14 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
@@ -2035,10 +2035,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
-- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
-
-- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
-
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2068,8 +2064,6 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
-
-- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2247,6 +2241,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (meningitis)
 
+- [Differentiating scrub typhus meningitis from brucellar meningitis in children: A single-center retrospective study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014107) (Plos.org)
+
 - [»Lægerne var lidt langsomme til at finde ud af, hvad det var, men det viste sig at være ret alvorligt«](https://politiken.dk/navne/art10740975/%C2%BBL%C3%A6gerne-var-lidt-langsomme-til-at-finde-ud-af-hvad-det-var-men-det-viste-sig-at-v%C3%A6re-ret-alvorligt%C2%AB) (Politiken.dk)
 
 - [Stimmstörung nach Meningitis: „Wir sind Helden“-Sängerin Judith Holofernes kann nicht mehr singen](https://www.focus.de/kultur/stars/stimmstoerung-nach-meningitis-wir-sind-helden-saengerin-judith-holofernes-kann-nicht-mehr-singen_68665d6b-2afe-411b-89f3-7e60c4b06d75.html) (Focus)
@@ -2258,6 +2254,12 @@ Source: [News API](https://newsapi.org/)
 - [Menveo Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251994/28124/en/Menveo-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 ## 26-11 (measles)
+
+- [Measles cases fall to 511 in week 9 after immunization: Ministry](https://en.antaranews.com/news/408290/measles-cases-fall-to-511-in-week-9-after-immunization-ministry) (Antaranews.com)
+
+- [Florida Is Trying to Ignore Measles Until It Can’t](https://www.theatlantic.com/health/2026/03/florida-measles-response-silence/686359/) (The Atlantic)
+
+- [Doctors Warn of a Deadly Complication From Measles Outbreaks](https://kffhealthnews.org/news/article/measles-outbreaks-long-term-complications-sspe-subacute-sclerosing-panencephalitis/) (Kffhealthnews.org)
 
 - [Now That It’s His Job to Control Measles, Dr. Jay Bhattacharya Suddenly Expects People to Trust Everyone & Everything He Spent 6 Years Attacking](https://sciencebasedmedicine.org/podcastjaynottrusted/) (Sciencebasedmedicine.org)
 
@@ -2305,6 +2307,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (malaria)
 
+- [Is it 'unsafe' to live and work in Africa? These 4 Singaporeans have no regrets about taking the leap](https://www.channelnewsasia.com/today/ground-up/singaporeans-in-africa-live-work-abroad-culture-shock-south-africa-rwanda-guinea-ghana-5986501) (CNA)
+
 - [Is DDT still being used?](https://www.lifesciencesworld.com/is-ddt-still-being-used/) (Lifesciencesworld.com)
 
 - [CCND3 enhancer variant reduces malaria risk](https://www.nature.com/articles/s41588-026-02558-2) (Nature.com)
@@ -2327,6 +2331,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (h5n1)
 
+- [Aviaria, focolaio in un allevamento di fagiani in Umbria](https://www.ansa.it/umbria/notizie/2026/03/13/aviaria-focolaio-in-un-allevamento-di-fagiani-in-umbria_a1e45f96-2579-43bc-b623-d6dc7f5991d9.html) (ANSA.it)
+
 - [매년 수백만 마리 살처분되는 조류인플루엔자, 백신이 답이다](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003214630) (Ohmynews.com)
 
 - [포천 산란계 농가서 AI 항원 검출···닭4만5000마리 처분](https://www.khan.co.kr/article/202603131032001) (Khan.co.kr)
@@ -2342,6 +2348,8 @@ Source: [News API](https://newsapi.org/)
 - [Vogelgrippe: Geflügelpest in Putenmastbetrieb – 4.800 Tiere betroffen](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe--gefluegelpest-in-putenmastbetrieb---4-800-tiere-betroffen-37206312.html) (STERN.de)
 
 ## 26-11 (dengue)
+
+- [Se mantiene alerta amarilla en Rapa Nui por dengue: ya hay 15 casos confirmados](https://www.latercera.com/nacional/noticia/se-mantiene-alerta-amarilla-en-rapa-nui-por-dengue-ya-hay-15-casos-confirmados/) (Latercera.com)
 
 - [A systematic review of dengue controlled human infection studies: safety, viral kinetics and immunology](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014086) (Plos.org)
 
