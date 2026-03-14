@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2026-03-13 19:17
-- **Most recent article:** 2026-03-12 17:23:11
+- **New articles in last harvest:** 9
+- **Last harvest:** 2026-03-14 07:19
+- **Most recent article:** 2026-03-13 07:01:00
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 20 | 73 | 107 | 112 | 111 | 83 | 576 |
+| measles | 70 | 22 | 75 | 107 | 112 | 111 | 83 | 580 |
 | dengue | 22 | 10 | 16 | 16 | 24 | 17 | 15 | 120 |
-| mpox | 10 | 14 | 3 | 11 | 14 | 25 | 27 | 104 |
-| rabies | 18 | 11 | 9 | 11 | 16 | 16 | 14 | 95 |
+| mpox | 10 | 15 | 3 | 11 | 14 | 25 | 27 | 105 |
+| rabies | 18 | 12 | 9 | 11 | 16 | 16 | 14 | 96 |
 | chikungunya | 1 | 7 | 8 | 8 | 12 | 40 | 6 | 82 |
-| malaria | 16 | 5 | 8 | 15 | 14 | 10 | 11 | 79 |
-| h5n1 | 2 | 5 | 21 | 12 | 12 | 11 | 4 | 67 |
-| meningitis | 4 | 4 | 7 | 4 | 7 | 3 | 5 | 34 |
-| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
+| malaria | 16 | 7 | 8 | 15 | 14 | 10 | 11 | 81 |
+| h5n1 | 2 | 7 | 21 | 12 | 12 | 11 | 4 | 69 |
+| meningitis | 4 | 5 | 7 | 4 | 7 | 3 | 5 | 35 |
+| leptospirosis | 2 | 0 | 6 | 3 | 2 | 4 | 3 | 20 |
 | zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
-| hpai | 2 | 1 | 3 | 1 | 3 | 1 | 2 | 13 |
+| hpai | 2 | 2 | 3 | 1 | 3 | 1 | 2 | 14 |
 | yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
 | pertussis | 1 | 2 | 1 | 1 | 1 | 0 | 0 | 6 |
@@ -2035,6 +2035,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
 
+- [Lagos first lady unveils measles-rubella immunisation campaign Tuesday](https://punchng.com/?p=2045546) (The Punch)
+
+- [Measles infection spreads in Malangwa](https://english.khabarhub.com/2026/25/532402/) (Khabarhub.com)
+
 ## 26-5 (malaria)
 
 - [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
@@ -2064,6 +2068,8 @@ Source: [News API](https://newsapi.org/)
 - [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
 
 - [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
+
+- [What is the disease in mice urine?](https://www.lifesciencesworld.com/what-is-the-disease-in-mice-urine/) (Lifesciencesworld.com)
 
 ## 26-5 (hpai)
 
@@ -2185,6 +2191,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Can a dog get rabies from a porcupine?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-a-porcupine/) (Lifesciencesworld.com)
 
+- [Daily briefing: Vaccine-carrying mosquitoes could inoculate bats against rabies](https://www.nature.com/articles/d41586-026-00825-0) (Nature.com)
+
 - [Rabid coyote attacks 3 people, 6 dogs in Eastchester and Bronxville area](https://gothamist.com/news/rabid-coyote-attacks-3-people-6-dogs-in-eastchester-and-bronxville-area) (Gothamist)
 
 - [Rabies vaccine may not be enough. Doctor reveals 4 ways to prevent death](https://economictimes.indiatimes.com/news/new-updates/rabies-vaccine-may-not-be-enough-doctor-reveals-4-ways-to-prevent-death/articleshow/129471164.cms) (The Times of India)
@@ -2206,6 +2214,8 @@ Source: [News API](https://newsapi.org/)
 - [Infanrix and Infanrix-hexa Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252005/28124/en/Infanrix-and-Infanrix-hexa-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 ## 26-11 (mpox)
+
+- [Minas já tem 13 casos de Mpox confirmados e monitora doença](https://www.metropoles.com/minas-gerais/minas-ja-tem-13-casos-de-mpox-confirmados-e-monitora-doenca) (Metropoles.com)
 
 - [Bavarian Nordic and SII sign agreement for chikungunya vaccine production](https://www.pharmaceutical-technology.com/news/bavarian-nordic-sii-vaccine-production/) (Pharmaceutical Technology)
 
@@ -2237,6 +2247,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (meningitis)
 
+- [»Lægerne var lidt langsomme til at finde ud af, hvad det var, men det viste sig at være ret alvorligt«](https://politiken.dk/navne/art10740975/%C2%BBL%C3%A6gerne-var-lidt-langsomme-til-at-finde-ud-af-hvad-det-var-men-det-viste-sig-at-v%C3%A6re-ret-alvorligt%C2%AB) (Politiken.dk)
+
 - [Stimmstörung nach Meningitis: „Wir sind Helden“-Sängerin Judith Holofernes kann nicht mehr singen](https://www.focus.de/kultur/stars/stimmstoerung-nach-meningitis-wir-sind-helden-saengerin-judith-holofernes-kann-nicht-mehr-singen_68665d6b-2afe-411b-89f3-7e60c4b06d75.html) (Focus)
 
 - [Menquadfi (Sanofi) Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252049/28124/en/Menquadfi-Sanofi-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
@@ -2246,6 +2258,10 @@ Source: [News API](https://newsapi.org/)
 - [Menveo Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251994/28124/en/Menveo-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 ## 26-11 (measles)
+
+- [Now That It’s His Job to Control Measles, Dr. Jay Bhattacharya Suddenly Expects People to Trust Everyone & Everything He Spent 6 Years Attacking](https://sciencebasedmedicine.org/podcastjaynottrusted/) (Sciencebasedmedicine.org)
+
+- [Fort Bliss detention center to get new operator after scrutiny](https://www.nbcnews.com/news/us-news/camp-east-montana-detention-new-contractor-rcna263129) (NBC News)
 
 - [Measles Outbreak — New Mexico, 2025](https://www.cdc.gov/mmwr/volumes/75/wr/mm7509a1.htm) (Cdc.gov)
 
@@ -2289,6 +2305,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (malaria)
 
+- [Is DDT still being used?](https://www.lifesciencesworld.com/is-ddt-still-being-used/) (Lifesciencesworld.com)
+
+- [CCND3 enhancer variant reduces malaria risk](https://www.nature.com/articles/s41588-026-02558-2) (Nature.com)
+
 - [Economic evaluation of anti-malarial drug policies across presidential regimes in Nigeria: A comparative analysis from 1999 to present](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344909) (Plos.org)
 
 - [One Key Protein Could Be a Powerful New Target Against Malaria](https://www.sciencealert.com/one-key-protein-could-be-a-powerful-new-target-against-malaria) (ScienceAlert)
@@ -2301,9 +2321,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (hpai)
 
+- [매년 수백만 마리 살처분되는 조류인플루엔자, 백신이 답이다](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003214630) (Ohmynews.com)
+
 - [유산균으로 가금 면역력 높이고 축산 악취 제거···경기도, 77t 300개 축산농가에 공급](https://www.khan.co.kr/article/202603111105001) (Khan.co.kr)
 
 ## 26-11 (h5n1)
+
+- [매년 수백만 마리 살처분되는 조류인플루엔자, 백신이 답이다](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003214630) (Ohmynews.com)
+
+- [포천 산란계 농가서 AI 항원 검출···닭4만5000마리 처분](https://www.khan.co.kr/article/202603131032001) (Khan.co.kr)
 
 - [Bird flu outbreak confirmed near Omagh, Co Tyrone](https://www.rte.ie/news/2026/0312/1563065-bird-flu-outbreak-confirmed-near-omagh-co-tyrone/) (RTE)
 
