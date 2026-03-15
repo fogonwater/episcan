@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-03-15 07:24
-- **Most recent article:** 2026-03-14 07:12:52
+- **New articles in last harvest:** 6
+- **Last harvest:** 2026-03-15 19:13
+- **Most recent article:** 2026-03-14 17:59:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 70 | 29 | 105 | 112 | 111 | 83 | 510 |
+| measles | 70 | 30 | 101 | 112 | 111 | 83 | 507 |
 | dengue | 22 | 11 | 16 | 24 | 17 | 15 | 105 |
-| mpox | 10 | 15 | 11 | 14 | 25 | 27 | 102 |
+| mpox | 10 | 16 | 11 | 14 | 25 | 27 | 103 |
 | rabies | 18 | 15 | 8 | 16 | 16 | 14 | 87 |
-| malaria | 16 | 8 | 15 | 14 | 10 | 11 | 74 |
+| malaria | 16 | 9 | 15 | 14 | 10 | 11 | 75 |
 | chikungunya | 1 | 7 | 8 | 12 | 40 | 6 | 74 |
 | h5n1 | 2 | 8 | 12 | 12 | 11 | 4 | 49 |
 | meningitis | 4 | 6 | 3 | 7 | 3 | 5 | 28 |
-| leptospirosis | 2 | 0 | 3 | 2 | 4 | 3 | 14 |
-| hpai | 2 | 3 | 1 | 3 | 1 | 2 | 12 |
+| leptospirosis | 2 | 1 | 3 | 2 | 4 | 3 | 15 |
+| hpai | 2 | 5 | 0 | 3 | 1 | 2 | 13 |
 | zika | 1 | 2 | 0 | 3 | 3 | 2 | 11 |
 | typhoid | 3 | 0 | 2 | 1 | 2 | 2 | 10 |
 | yersinia | 2 | 0 | 1 | 2 | 1 | 1 | 7 |
@@ -1669,14 +1669,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Video South Carolina's measles outbreak becomes largest in US in years](https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459) (ABC News)
 
-- [‘Prevention becomes the key thing’: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida](https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/) (WJXT News4JAX)
-
-- [World’s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination](https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/) (Inside the Magic)
-
-- [Traveler exposes Disneyland visitors to measles last week](https://www.themeparkinsider.com/flume/202602/12289/) (Theme Park Insider)
-
-- [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
-
 ## 26-6 (malaria)
 
 - [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
@@ -1716,10 +1708,6 @@ Source: [News API](https://newsapi.org/)
 - [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
 
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
-
-## 26-6 (hpai)
-
-- [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-6 (h5n1)
 
@@ -1845,6 +1833,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (mpox)
 
+- [What to know about NYC's first case of severe mpox strain](https://gothamist.com/news/what-to-know-about-nycs-first-case-of-severe-mpox-strain) (Gothamist)
+
 - [Minas já tem 13 casos de Mpox confirmados e monitora doença](https://www.metropoles.com/minas-gerais/minas-ja-tem-13-casos-de-mpox-confirmados-e-monitora-doenca) (Metropoles.com)
 
 - [Bavarian Nordic and SII sign agreement for chikungunya vaccine production](https://www.pharmaceutical-technology.com/news/bavarian-nordic-sii-vaccine-production/) (Pharmaceutical Technology)
@@ -1890,6 +1880,8 @@ Source: [News API](https://newsapi.org/)
 - [Menveo Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251994/28124/en/Menveo-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
 
 ## 26-11 (measles)
+
+- [As the risk of measles grows, why are parents so divided on vaccines?](https://www.npr.org/2026/03/14/nx-s1-5734051/measles-outbreak-parents-south-carolina-vaccines) (NPR)
 
 - [What's driving the U.S. measles surge? #health](https://alltoc.com/health/what-s-driving-the-u-s-measles-surge) (Alltoc.com)
 
@@ -1951,6 +1943,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (malaria)
 
+- [Ranking the World's Deadliest Animals](https://www.newser.com/story/385127/ranking-the-worlds-deadliest-animals.html) (Newser)
+
 - [Is it 'unsafe' to live and work in Africa? These 4 Singaporeans have no regrets about taking the leap](https://www.channelnewsasia.com/today/ground-up/singaporeans-in-africa-live-work-abroad-culture-shock-south-africa-rwanda-guinea-ghana-5986501) (CNA)
 
 - [Is DDT still being used?](https://www.lifesciencesworld.com/is-ddt-still-being-used/) (Lifesciencesworld.com)
@@ -1967,7 +1961,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Fifty shades of iron: Unorthodox mechanisms of iron acquisition and utilization in blood-stage Plasmodium parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014030) (Plos.org)
 
+## 26-11 (leptospirosis)
+
+- [The infectious disease 'Rat Fever', which reports the second-highest number of patients, is on the rise again.](https://english.gossiplankanews.com/2026/03/the-infectious-disease-rat-fever-which.html) (Gossiplankanews.com)
+
 ## 26-11 (hpai)
+
+- [Further death from bird flu confirmed in Co Cork](https://www.irishtimes.com/ireland/2026/03/14/further-death-from-bird-flu-confirmed-in-co-cork/) (The Irish Times)
+
+- [Bird flu case discovered in flock of dead swans in east Cork](https://www.independent.ie/irish-news/bird-flu-case-discovered-in-flock-of-dead-swans-in-east-cork/a409521242.html) (Independent.ie)
 
 - [Bird flu confirmed after dead swans found in east Cork](https://www.rte.ie/news/ireland/2026/0314/1563374-bird-flu-confirmed-after-dead-swans-found-in-east-cork/) (RTE)
 

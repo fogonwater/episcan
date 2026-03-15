@@ -1,8 +1,116 @@
 {
-  "last_updated": "2026-03-15 07:24",
-  "count_articles_total": 1069,
-  "count_articles_new": 8,
+  "last_updated": "2026-03-15 19:13",
+  "count_articles_total": 1070,
+  "count_articles_new": 6,
   "articles": [
+    {
+      "id": 28321,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "John Johnson",
+      "title": "Ranking the World's Deadliest Animals",
+      "description": "The world's deadliest animal is also one of the smallest. Our World in Data ranks the mosquito as easy No. 1, responsible for an estimated 760,000 deaths worldwide in 2023. The vast majority of those deaths were from malaria. The site notes that the totals in\u2026",
+      "url": "https://www.newser.com/story/385127/ranking-the-worlds-deadliest-animals.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1670090-12-20260314125902.jpeg",
+      "publishedAt": "2026-03-14 17:59:00",
+      "content": "The world's deadliest animal is also one of the smallest. Our World in Data ranks the mosquito as easy No. 1, responsible for an estimated 760,000 deaths worldwide in 2023. The vast majority of those\u2026 [+148 chars]",
+      "retrievedAt": "2026-03-15 19:13:57.351264",
+      "internal_id": "20a3b786b957aa1299fe4e4bce5613c596323f1566ddf77d433d6b2ae5375e5c",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 28322,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Gothamist",
+      "author": "Ryan Kost",
+      "title": "What to know about NYC's first case of severe mpox strain",
+      "description": "A colorized transmission electron microscopic image of mpox virus particles The case is travel-related and there is no known local transmission at this time. [ more \u203a ]",
+      "url": "https://gothamist.com/news/what-to-know-about-nycs-first-case-of-severe-mpox-strain",
+      "urlToImage": "https://api-prod.gothamist.com/images/355986/fill-1200x650|format-webp|webpquality-85/",
+      "publishedAt": "2026-03-14 13:56:15",
+      "content": "New York City health officials have confirmed the citys first case of a more severe strain of the mpox virus than the one that drove a global outbreak in 2022. The case is travel-related, and the ci\u2026 [+1210 chars]",
+      "retrievedAt": "2026-03-15 19:13:57.788446",
+      "internal_id": "c4cb43ebae430e406a1772bd6aa9e3002d7666ac9037778fabf2d2da37a81e21",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 28320,
+      "query": [
+        "hpai"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Ronan McGreevy",
+      "title": "Further death from bird flu confirmed in Co Cork",
+      "description": "Increase reported in number of deaths from disease in swans",
+      "url": "https://www.irishtimes.com/ireland/2026/03/14/further-death-from-bird-flu-confirmed-in-co-cork/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/GWYMGUUDLZGZZIHGPPDPKNBGLY.JPG?smart=true&auth=324402991497cfe35dc7a405543d44e7ea75d0abd870cd520c64906c8eab3d92&width=1200&height=630",
+      "publishedAt": "2026-03-14 13:47:07",
+      "content": "A swan found dead in east Cork earlier this week has tested positive for Highly Pathogenic Avian Influenza (HPAI), or bird flu. The Department of Agriculture has confirmed the case, adding an increa\u2026 [+1255 chars]",
+      "retrievedAt": "2026-03-15 19:13:54.088247",
+      "internal_id": "07308512ae43defaf242e07922e13dd1821f6ce5a1b9045c6069ce996cbfbfba",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 28318,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "As the risk of measles grows, why are parents so divided on vaccines?",
+      "description": "In South Carolina, some parents embrace vaccines, others opt out. Why do people make such different choices? A mix of politics, distrust and misinformation is pushing neighbors apart.",
+      "url": "https://www.npr.org/2026/03/14/nx-s1-5734051/measles-outbreak-parents-south-carolina-vaccines",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F86%2F9b%2Fa5e6b9cc44af8119b912e84eef57%2Fnpr-mike-belleme00051.JPG",
+      "publishedAt": "2026-03-14 12:42:00",
+      "content": "When Kate Morrow gave birth to twins eight years ago, they were very premature, with compromised immune systems. \"We counted on the community to keep our children safe,\" Morrow says. She trusted tha\u2026 [+11990 chars]",
+      "retrievedAt": "2026-03-15 19:13:53.218320",
+      "internal_id": "a696c36a034f18499881c0f3303a5ef01ac3e0b76985ac26f5b4205366fd63e7",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 28319,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Sarah O'Mahony",
+      "title": "Bird flu case discovered in flock of dead swans in east Cork",
+      "description": "A dead swan found in east Cork has tested positive for Highly Pathogenic Avian Influenza (HPAI) or bird flu.",
+      "url": "https://www.independent.ie/irish-news/bird-flu-case-discovered-in-flock-of-dead-swans-in-east-cork/a409521242.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/UZh51ZrK27E4AgcX1ZH1fS7nGZU=/0x0:1279x853/629x0/prod-mh-ireland/c8e22761-1507-4d7e-8848-74341d462b07/21486d34-ed0c-4da8-8c52-b12acbcc4fc7/c8e22761-1507-4d7e-8848-74341d462b07.jpg",
+      "publishedAt": "2026-03-14 11:52:47",
+      "content": "It is believed that all the swans in the flock will be tested for the virus, with 69 such cases confirmed so far this year A dead swan found in east Cork has tested positive for Highly Pathogenic Av\u2026 [+1731 chars]",
+      "retrievedAt": "2026-03-15 19:13:53.954624",
+      "internal_id": "fe7d2a9158d58ad075732810f7af6549f58625f935f1019d042537b4573bf986",
+      "publishedAtLabel": "Mar 14"
+    },
+    {
+      "id": 28323,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Gossiplankanews.com",
+      "author": "noreply@blogger.com (Unknown)",
+      "title": "The infectious disease 'Rat Fever', which reports the second-highest number of patients, is on the rise again.",
+      "description": "The Epidemiology Unit of the Ministry of Health states that nearly 1,800 leptospirosis patients have been reported from Sri Lanka during the period elapsed this year. Speaking at a special press conference held at the Health Promotion Bureau, Consultant Epide\u2026",
+      "url": "https://english.gossiplankanews.com/2026/03/the-infectious-disease-rat-fever-which.html",
+      "urlToImage": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_vLxy5lC_jV7KPY2YYPJOpYCqcVxuJzZ7lfJWj-XboFVkopSE5_ot-UP55Cbc0DrP9puAWOo0uFOenT-O3unblykPy5ayGzwEwaoRBZHy18qksackykOaHVQVecsUu33vkRocjOTbuBmJ3fitEaRNvob_-IYY_BhTtOWeU=w1600",
+      "publishedAt": "2026-03-14 10:30:17",
+      "content": "The Epidemiology Unit of the Ministry of Health states that nearly 1,800 leptospirosis patients have been reported from Sri Lanka during the period elapsed this year. Speaking at a special press conf\u2026 [+1802 chars]",
+      "retrievedAt": "2026-03-15 19:13:58.120706",
+      "internal_id": "b5c6ff1c253325c2227da83712d9223f9b5f74bf6085caae52f370a399eb5382",
+      "publishedAtLabel": "Mar 14"
+    },
     {
       "id": 28312,
       "query": [
@@ -19173,96 +19281,6 @@
       "content": "Chicago health officials are warning residents to be alert for symptoms of meningococcal disease after several recent infections were reported in adults across the city. Seven cases of Neisseria men\u2026 [+2481 chars]",
       "retrievedAt": "2026-02-03 07:22:42.973534",
       "internal_id": "40a379396b659a1f06aab41c2bbb2c808bcb0a6f5afa1102a42d54c4f77f9147",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27260,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WJXT News4JAX",
-      "author": "Aaron Farrar",
-      "title": "\u2018Prevention becomes the key thing\u2019: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida",
-      "description": "The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.",
-      "url": "https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JZVZ7REGJ5E3ZECSG3FSMVVPVY.jpg?_a=DATAg1eAZAA0",
-      "publishedAt": "2026-02-01 18:35:39",
-      "content": "JACKSONVILLE, Fla. The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.\u2026 [+2840 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.224316",
-      "internal_id": "5dfda959fd8b51464816add707145754f0357a5f714c2a82f2a70292089e649c",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27253,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Alessia Dunn",
-      "title": "World\u2019s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination",
-      "description": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, January 28. The announcement comes just days after Orange Count\u2026",
-      "url": "https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/disneyland-hotel-sign-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-01 16:24:23",
-      "content": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, Jan\u2026 [+8173 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.070275",
-      "internal_id": "5e535e7c7f573910801b6f97bda9d1e94aa85de043ffefe322a15b83c4ba95dc",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27254,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Theme Park Insider",
-      "author": null,
-      "title": "Traveler exposes Disneyland visitors to measles last week",
-      "description": "By Robert Niles: Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort last Wednesday.The traveler was from out of the country and arrived at Los\u2026",
-      "url": "https://www.themeparkinsider.com/flume/202602/12289/",
-      "urlToImage": "https://www.themeparkinsider.com/art/flume/12289.jpg",
-      "publishedAt": "2026-02-01 16:04:00",
-      "content": "February 1, 2026, 11:04 AM \u00b7 Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort \u2026 [+1656 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.080184",
-      "internal_id": "de6f02f82a906b4d7f40f0ba7248f8512d4552225ca7936bf68eb661ae895a32",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27262,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Dawid Szczyrbowski",
-      "title": "Ptasia grypa w Polsce. Lekarz weterynarii og\u0142osi\u0142 stref\u0119 zaka\u017cenia",
-      "description": "Ujawniono przypadek ptasiej grypy w woj. \u015bwi\u0119tokrzyskim. Powiatowy lekarz weterynarii w Opatowie og\u0142osi\u0142 \"stref\u0119 obj\u0119t\u0105 zaka\u017ceniem\", kt\u00f3ra dotyczy czterech miejscowo\u015bci w gminie Tar\u0142\u00f3w. Zarz\u0105dzenie wprowadza szereg nakaz\u00f3w i zakaz\u00f3w maj\u0105cych ograniczy\u0107 szerze\u2026",
-      "url": "https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983",
-      "urlToImage": "https://i.iplsc.com/-/000M9S8ADCNAE6NR-C461.jpg",
-      "publishedAt": "2026-02-01 12:10:30",
-      "content": "W skr\u00f3cie Grzegorz Partyka poinformowa o potwierdzeniu wirusa grypy ptak\u00f3w HPAI 26 stycznia we wsi Lene Chaupy w gminie Tar\u00f3w. Powiatowy lekarz weterynarii wyznaczy stref objt \u2026 [+2133 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.365819",
-      "internal_id": "991ebaf4dd4a6e0502fcf8d7fc3a631a7f497c3d4e8be87764f3f4133f99106e",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27249,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Haig Hovaness",
-      "title": "Links 2/1/2026",
-      "description": "Our strategic daily links: stationary motion, U.S. brain drain, measles, snow drought, Caribbean troubles, Chinese kindergarten, EU confusion, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles,\u2026",
-      "url": "https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Kingfishers.jpg",
-      "publishedAt": "2026-02-01 11:55:13",
-      "content": "This 3D floor in Thailand tricks your senses into feeling movement while you stay still. Daniyanizami11 pic.twitter.com/Og6hDPrkfz Science girl (@sciencegirl) January 30, 2026 Bezos\u2019s Blue Origi\u2026 [+7777 chars]",
-      "retrievedAt": "2026-02-03 07:22:41.968318",
-      "internal_id": "d826839f6040d85acd7c9065031200da9fd41a3a158a45d8d18f407ad2fcf9e3",
       "publishedAtLabel": "Feb 1"
     }
   ]
