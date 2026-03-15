@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-03-14 19:12
-- **Most recent article:** 2026-03-13 15:46:06
+- **New articles in last harvest:** 8
+- **Last harvest:** 2026-03-15 07:24
+- **Most recent article:** 2026-03-14 07:12:52
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-10 | 26-11 | 26-5 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 70 | 25 | 73 | 107 | 112 | 111 | 83 | 581 |
-| dengue | 22 | 11 | 16 | 16 | 24 | 17 | 15 | 121 |
-| mpox | 10 | 15 | 3 | 11 | 14 | 25 | 27 | 105 |
-| rabies | 18 | 12 | 9 | 11 | 16 | 16 | 14 | 96 |
-| malaria | 16 | 8 | 8 | 15 | 14 | 10 | 11 | 82 |
-| chikungunya | 1 | 7 | 8 | 8 | 12 | 40 | 6 | 82 |
-| h5n1 | 2 | 8 | 21 | 12 | 12 | 11 | 4 | 70 |
-| meningitis | 4 | 6 | 7 | 4 | 7 | 3 | 5 | 36 |
-| leptospirosis | 2 | 0 | 5 | 3 | 2 | 4 | 3 | 19 |
-| zika | 1 | 2 | 7 | 0 | 3 | 3 | 2 | 18 |
-| hpai | 2 | 2 | 3 | 1 | 3 | 1 | 2 | 14 |
-| yersinia | 2 | 0 | 5 | 1 | 2 | 1 | 1 | 12 |
-| typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
-| pertussis | 1 | 2 | 1 | 1 | 1 | 0 | 0 | 6 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 26-10 | 26-11 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 70 | 29 | 105 | 112 | 111 | 83 | 510 |
+| dengue | 22 | 11 | 16 | 24 | 17 | 15 | 105 |
+| mpox | 10 | 15 | 11 | 14 | 25 | 27 | 102 |
+| rabies | 18 | 15 | 8 | 16 | 16 | 14 | 87 |
+| malaria | 16 | 8 | 15 | 14 | 10 | 11 | 74 |
+| chikungunya | 1 | 7 | 8 | 12 | 40 | 6 | 74 |
+| h5n1 | 2 | 8 | 12 | 12 | 11 | 4 | 49 |
+| meningitis | 4 | 6 | 3 | 7 | 3 | 5 | 28 |
+| leptospirosis | 2 | 0 | 3 | 2 | 4 | 3 | 14 |
+| hpai | 2 | 3 | 1 | 3 | 1 | 2 | 12 |
+| zika | 1 | 2 | 0 | 3 | 3 | 2 | 11 |
+| typhoid | 3 | 0 | 2 | 1 | 2 | 2 | 10 |
+| yersinia | 2 | 0 | 1 | 2 | 1 | 1 | 7 |
+| pertussis | 1 | 2 | 1 | 1 | 0 | 0 | 5 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -1429,12 +1429,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Rabid bobcat attacks Georgia man at cookout](https://www.wsbtv.com/news/georgia/rabid-bobcat-attacks-georgia-man-cookout/EN4QTVRKLVDMVBIUVHFQLZODOM/) (WSB Atlanta)
 
-- [Should I get a rabies shot if I got bit by a squirrel?](https://www.lifesciencesworld.com/should-i-get-a-rabies-shot-if-i-got-bit-by-a-squirrel/) (Lifesciencesworld.com)
-
-- [What to do if bats are near your house?](https://www.lifesciencesworld.com/what-to-do-if-bats-are-near-your-house/) (Lifesciencesworld.com)
-
-- [Do racoons scream when they have rabies?](https://www.lifesciencesworld.com/do-racoons-scream-when-they-have-rabies/) (Lifesciencesworld.com)
-
 ## 26-6 (pertussis)
 
 - [Research: Pertussis: laboratory confirmed cases reported in England 2025](https://www.gov.uk/government/publications/pertussis-laboratory-confirmed-cases-reported-in-england-2025) (Www.gov.uk)
@@ -1470,8 +1464,6 @@ Source: [News API](https://newsapi.org/)
 - [Kano probes diphtheria, meningitis scare in community](https://punchng.com/kano-probes-diphtheria-meningitis-scare-in-community/) (The Punch)
 
 - [Meningitis cases rise in major Midwestern city, prompting public health alert](https://www.foxnews.com/health/meningitis-cases-rise-major-midwestern-city-prompting-public-health-alert) (Fox News)
-
-- [Kano moves to verify suspected diphtheria, meningitis cases](https://punchng.com/kano-moves-to-verify-suspected-diphtheria-meningitis-cases/) (The Punch)
 
 ## 26-6 (measles)
 
@@ -1685,10 +1677,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
 
-- [Health officials warn of possible measles exposure at LAX, Disneyland](https://www.ocregister.com/2026/01/31/health-officials-warn-of-possible-measles-exposure-at-lax-disneyland/) (OCRegister)
-
-- [Second measles case in LAX Airport traveler confirmed by LA County Public Health officials](https://www.cbsnews.com/losangeles/news/los-angeles-county-measles-lax-airport-dunkin-donuts-woodland-hills/) (CBS News)
-
 ## 26-6 (malaria)
 
 - [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
@@ -1811,364 +1799,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Estado de São Paulo inicia vacinação contra a chikungunya](https://saude.ig.com.br/2026-02-02/estado-de-sao-paulo-inicia-vacinacao-contra-a-chikungunya.html) (Ig.com.br)
 
-## 26-5 (zika)
-
-- [Qué se sabe sobre el mosquito detectado en Santiago que transmite dengue, chikungunya, zika y fiebre amarilla](https://www.latercera.com/tendencias/noticia/que-se-sabe-sobre-el-mosquito-detectado-en-santiago-que-transmite-dengue-chikungunya-zika-y-fiebre-amarilla/) (Latercera.com)
-
-- [Guillain-Barre Syndrome Diagnostics Research Report 2026 - Global $185+ Mn Market Trends, Opportunities, and Forecasts to 2031](https://www.globenewswire.com/news-release/2026/01/30/3229366/28124/en/Guillain-Barre-Syndrome-Diagnostics-Research-Report-2026-Global-185-Mn-Market-Trends-Opportunities-and-Forecasts-to-2031.html) (GlobeNewswire)
-
-- [Minsal confirma presencia de mosquito que transmite dengue y fiebre amarilla en la RM, pero descarta casos de infección](https://www.latercera.com/nacional/noticia/minsal-confirma-presencia-de-mosquito-que-transmite-dengue-y-fiebre-amarilla-en-la-rm-pero-descarta-casos-de-infeccion/) (Latercera.com)
-
-- [Minsal confirma hallazgo de mosquito que transmite dengue, zika y fiebre amarilla en el aeropuerto de Santiago](https://www.cnnchile.com/pais/minsal-confirma-hallazgo-mosquito-transmite-dengue-zika-fiebre-amarilla-en-el-aeropuerto-de-santiago_20260129/) (Cnnchile.com)
-
-- [Discovery and computational characterization of ZIKV envelope-targeted peptides from a subtractive phage display library](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341602) (Plos.org)
-
-- [Dødelig virus får flere asiatiske lufthavne til at skærpe kontrol](https://www.dr.dk/nyheder/udland/doedelig-virus-faar-flere-asiatiske-lufthavne-til-skaerpe-kontrol) (Www.dr.dk)
-
-- [Prenatal Zika virus exposure disrupts social-emotional development and cortical visual function in infant macaques](https://www.nature.com/articles/s41467-026-68517-x) (Nature.com)
-
-## 26-5 (yersinia)
-
-- [« Peste noire », de Patrick Boucheron : histoire totale de la peste](https://www.lemonde.fr/livres/article/2026/01/30/peste-noire-de-patrick-boucheron-histoire-totale-de-la-peste_6664690_3260.html) (Le Monde)
-
-- [中世欧州の「黒死病」、火山活動が引き金だった どういうこと？](https://natgeo.nikkeibp.co.jp/atcl/news/26/013000065/?rss) (Nikkeibp.co.jp)
-
-- [В Иордании обнаружили массовое захоронение жертв Юстиниановой чумы](https://naked-science.ru/article/archeology/massovoe-zahoronenie-zher) (Naked-science.ru)
-
-- [Микробы-симбионты научились делать инъекции клеткам хозяина](https://naked-science.ru/article/biology/mikroby-simbionty-nauchil) (Naked-science.ru)
-
-- [La peste, cette arme potentielle de guerre biologique](https://www.lemonde.fr/sciences/article/2026/01/26/la-peste-cette-arme-potentielle-de-guerre-biologique_6664193_1650684.html) (Le Monde)
-
-## 26-5 (rabies)
-
-- [Dipolog: 200 KA MGA ALAGANG HAYOP ANG NABAKUNAHAN KONTRA RABIES DIDTO SA DAPITAN](https://rpnradio.com/dipolog-200-ka-mga-alagang-hayop-ang-nabakunahan-kontra-rabies-didto-sa-dapitan/) (Rpnradio.com)
-
-- [India’s top court weighs rules on stray dogs as bite cases surge](https://www.channelnewsasia.com/asia/india-supreme-court-rules-stray-dogs-5896121) (CNA)
-
-- [How likely is it that a squirrel has rabies?](https://www.lifesciencesworld.com/how-likely-is-it-that-a-squirrel-has-rabies/) (Lifesciencesworld.com)
-
-- [How long does a dead bat carry rabies?](https://www.lifesciencesworld.com/how-long-does-a-dead-bat-carry-rabies/) (Lifesciencesworld.com)
-
-- [Why do opossums not get rabies?](https://www.lifesciencesworld.com/why-do-opossums-not-get-rabies/) (Lifesciencesworld.com)
-
-- [How many possums carry rabies?](https://www.lifesciencesworld.com/how-many-possums-carry-rabies/) (Lifesciencesworld.com)
-
-- [Do ferrets have rabies?](https://www.lifesciencesworld.com/do-ferrets-have-rabies/) (Lifesciencesworld.com)
-
-- [How likely is it to get rabies from a possum?](https://www.lifesciencesworld.com/how-likely-is-it-to-get-rabies-from-a-possum/) (Lifesciencesworld.com)
-
-- [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
-
-## 26-5 (pertussis)
-
-- [Localized Outbreak of Macrolide-Resistant Pertussis in Infants, Japan, March–May 2025](https://wwwnc.cdc.gov/eid/article/32/1/25-0824_article) (Cdc.gov)
-
-## 26-5 (mpox)
-
-- [US exit from the World Health Organization marks a new era in global health policy – here’s what the US, and world, will lose](https://theconversation.com/us-exit-from-the-world-health-organization-marks-a-new-era-in-global-health-policy-heres-what-the-us-and-world-will-lose-274277) (The Conversation Africa)
-
-- [Deux nouveaux de mpox à Mayotte, la ministre de la Santé déjà interpellée à la Réunion](https://www.huffingtonpost.fr/sante/article/deux-nouveaux-de-mpox-a-mayotte-la-ministre-de-la-sante-deja-interpellee-a-la-reunion_259801.html) (Le HuffPost)
-
-- [أفريقيا ترفع حالة الطوارئ الصحية بشأن جدري القردة بعد تراجع الإصابات](https://www.aljazeera.net/health/2026/1/26/%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d8%aa%d8%b1%d9%81%d8%b9-%d8%ad%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d8%a6-%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%a9-%d8%a8%d8%b4%d8%a3%d9%86) (Aljazeera.net)
-
-## 26-5 (meningitis)
-
-- [2 deaths, high cases reported in meningitis outbreak, Chicago Department of Public Health warns (ABC 7 Chicago)](https://www.smartnews.com/en-us/article/4908249745014660042) (Smartnews.com)
-
-- [Meningococcal disease: 2 deaths, more cases that usual reported in meningitis outbreak, Chicago Department of Public Health warns](https://abc7chicago.com/post/meningococcal-disease-2-deaths-more-cases-usual-reported-meningitis-outbreak-chicago-department-public-health-warns/18511963/) (WLS-TV)
-
-- [Pie de foto: “Una joven es vacunada de meningitis”](https://finofilipino.org/pie-de-foto-una-joven-es-vacunada-de-meningitis/) (Finofilipino.org)
-
-- [Chicago health officials report 7 cases, 2 deaths from meningitis outbreak in January](https://www.cbsnews.com/chicago/news/meningitis-outbreak-january-chicago/) (CBS News)
-
-- [Gloria en la pista, dolor fuera de ella: la trágica historia de los hombres más queridos de Sabalenka, reina del tenis](https://www.hola.com/actualidad/20260129880533/gloria-pista-dolor-tragica-historia-hombres-queridos-sabalenka-reina-tenis/) (Hola)
-
-- [Gazan hospital reports bacterial meningitis outbreak among kids](https://www.haaretz.com/gaza/2026-01-29/ty-article/.premium/gazan-hospital-reports-bacterial-meningitis-outbreak-among-kids/0000019c-0646-d2fd-a9de-c75650a50000) (Haaretz)
-
-- [Group A Streptococcus Meningitis, United States, 1997–2022](https://wwwnc.cdc.gov/eid/article/32/1/25-0871_article) (Cdc.gov)
-
-## 26-5 (measles)
-
-- [Health officials confirm LA County's first measles case since August](https://abc7.com/post/health-officials-confirm-la-countys-first-measles-case-august/18517281/) (KABC-TV)
-
-- [Possible measles exposure reported at Dulles Airport in Northern Virginia](https://www.fox5dc.com/news/alexandria-health-officials-warn-possible-measles-exposure-dulles-airport) (FOX 5 DC)
-
-- [The U.S. will likely lose its measles elimination status. Here's what that means](https://www.npr.org/2026/01/31/nx-s1-5694681/measles-elimination-status-south-carolina-texas-outbreak) (NPR)
-
-- [A man lunges at a prominent Democrat, and bragging rights for the state home to the most Olympians: The news quiz](https://www.nbcnews.com/news/news-quiz/democrat-attacked-team-usa-olympics-rcna256585) (NBC News)
-
-- [King County health reports potential measles exposure at Sea-Tac Airport](https://www.kiro7.com/news/local/king-county-health-reports-potential-measles-exposure-sea-tac-airport/QM5UVNJVXRBX5GM5FONOBQ3EFA/) (KIRO Seattle)
-
-- [Health officials confirm measles case, warn of possible exposure in Norman](https://ktul.com/news/local/health-officials-confirm-measles-case-warn-of-possible-exposure-in-norman) (KTUL)
-
-- [Oklahoma Health Department confirms measles case; possible exposure at Norman bar](https://okcfox.com/news/local/oklahoma-health-department-confirms-measles-case-possible-exposure-at-norman-bar-logies-campus-corner-contagious-saturday-january-cleveland-county-vaccine-vaccination-symptoms) (okcfox.com)
-
-- [Manitoba reports highest monthly measles count since last spring](https://www.cbc.ca/news/canada/manitoba/measles-update-january-2026-9.7068432) (CBC News)
-
-- [South Carolina: Major Measles Outbreak! Thanks, RFK, JR.!](https://dianeravitch.net/2026/01/30/south-carolina-major-measles-outbreak/) (Dianeravitch.net)
-
-- [It Sure Looks Like Pretty Much Every Unvaccinated Kid Is About to Get Measles](https://www.jezebel.com/measles-infections-us-2026-record-highs-south-carolina-deaths-vaccination-rate-chart-cdc) (Jezebel)
-
-- [At least 588 US measles cases reported in January: CDC](https://abcnews.go.com/Health/588-us-measles-cases-reported-january-cdc/story?id=129699078) (ABC News)
-
-- [Irish snow-seekers heading for ski slopes and Winter Olympics warned of measles risk](https://www.independent.ie/irish-news/health/irish-snow-seekers-heading-for-ski-slopes-and-winter-olympics-warned-of-measles-risk/a954955366.html) (Independent.ie)
-
-- [Measles Is Spiking: 5 Things Families Should Know, From An ER Doctor](https://www.forbes.com/sites/jessepines/2026/01/30/measles-outbreaks-are-accelerating-5-things-to-know-from-a-doctor/) (Forbes)
-
-- [In one South Carolina county, measles starts to feel like next pandemic](https://www.bbc.com/news/articles/cwy10l9lwpyo) (BBC News)
-
-- [Cumulative measles rising with South Carolina outbreak](https://flowingdata.com/2026/01/30/cumulative-measles-rising-with-south-carolina-outbreak/) (Flowingdata.com)
-
-- [Measles cases rise in Canyon County; health officials warn eastern Idaho of risk](https://localnews8.com/news/2026/01/29/measles-cases-rise-in-canyon-county-health-officials-warn-eastern-idaho-of-risk/) (LocalNews8.com)
-
-- [South Carolina measles outbreak now largest in U.S. since elimination over 20 years ago](https://www.cbsnews.com/video/south-carolina-measles-outbreak-now-largest-us-since-elimination-over-20-years-ago/) (CBS News)
-
-- [Measles Is Spreading Faster Than Ignorance in This Country—and That’s Saying Something](https://www.esquire.com/news-politics/politics/a70193940/measles-south-carolina-deaths/) (esquire.com)
-
-- [Health officials clarify measles vaccination guidance amid growing outbreak](https://www.wsoctv.com/news/local/health-officials-clarify-measles-vaccination-guidance-amid-growing-outbreak/6OUKG43DEZDR5O4TQXI6QB7LVA/) (WSOC Charlotte)
-
-- [South Carolina's measles outbreak nears 790 cases — making it the biggest in decades](https://www.livescience.com/health/viruses-infections-disease/south-carolinas-measles-outbreak-nears-790-cases-making-it-the-biggest-in-decades) (Live Science)
-
-- [Measles Outbreak Associated with an Infectious Traveler — Colorado, May–June 2025](https://www.cdc.gov/mmwr/volumes/75/wr/mm7504a1.htm) (Cdc.gov)
-
-- [Winkler MPI service centre closes doors because of measles case](https://www.cbc.ca/news/canada/manitoba/measles-mpi-winkler-manitoba-9.7066438) (CBC News)
-
-- [Florida sees spike in measles cases](https://www.wftv.com/news/local/florida-sees-measles-cases-increase-amid-low-immunization-levels/XXIO2MYJ6JCV3KXOJ4Q5X2XK7U/) (WFTV Orlando)
-
-- [South Carolina measles outbreak surpasses Texas' 2025 total, with little sign of slowing](https://www.wunc.org/health/2026-01-29/south-carolina-measles-outbreak-surpasses-texas-2025-total) (Wunc.org)
-
-- [What does Ken Paxton call 2 kids dead from measles?](https://www.lawyersgunsmoneyblog.com/2026/01/what-does-ken-paxton-call-2-kids-dead-from-measles) (Lawyersgunsmoneyblog.com)
-
-- [South Carolina measles outbreak hits record high](https://www.salon.com/2026/01/29/south-carolina-measles-outbreak-hits-record-high/) (Salon)
-
-- [Case of measles confirmed in Arizona ICE facility](https://kesq.com/health/cnn-health/2026/01/28/case-of-measles-confirmed-in-arizona-ice-facility/) (KESQ)
-
-- [Measles reported in Lancaster County for the first time in more than 30 years](https://www.klkntv.com/measles-reported-in-lancaster-county-for-the-first-time-in-more-than-30-years/) (KLKN)
-
-- [Measles case confirmed in Tauranga after overseas travel, locations named](https://www.nzherald.co.nz/bay-of-plenty-times/news/measles-case-confirmed-in-tauranga-after-overseas-travel-locations-named/FAQD3JIIHNABLM6HDRQU4CF2IA/) (New Zealand Herald)
-
-- [Health department confirms three additional measles cases amid outbreak | HeraldNet.com](https://www.heraldnet.com/news/health-department-confirms-three-additional-measles-cases-amid-outbreak/) (The Daily Herald)
-
-- [Nebraska health officials report confirmed case of measles](https://www.ketv.com/article/nebraska-confirmed-case-of-measles/70179364) (KETV Omaha)
-
-- [Department of Health confirms 5 cases of measles in Milbank](https://www.dakotanewsnow.com/2026/01/29/department-health-confirms-5-cases-measles-milbank/) (Dakotanewsnow.com)
-
-- [Oregon warns of possible measles exposure at Kaiser Permanente’s Clackamas hospital](https://www.oregonlive.com/health/2026/01/oregon-warns-of-possible-measles-exposure-at-kaiser-permanentes-clackamas-hospital.html) (OregonLive)
-
-- [South Carolina measles outbreak explodes to nearly 800 cases](https://www.cbsnews.com/video/south-carolina-measles-outbreak-explodes-to-nearly-800-cases/) (CBS News)
-
-- [Waukesha County quarantines over 50 people after measles case](https://www.wisn.com/article/waukesha-county-quarantines-over-50-people-after-measles-case/70178491) (WISN Milwaukee)
-
-- [Case of measles confirmed in Arizona ICE facility | CNN](https://www.cnn.com/2026/01/28/health/ice-facility-measles-arizona) (CNN)
-
-- [South Carolina Measles Outbreak Becomes America’s Largest in 25 Years](https://gizmodo.com/south-carolina-measles-outbreak-becomes-americas-largest-in-25-years-2000715084) (Gizmodo.com)
-
-- [Is the US about to lose its measles elimination status?](https://theweek.com/health/measles-elimination-status-us-cases) (The Week Magazine)
-
-- [Bari Weiss: Measles is back, but we can increase those numbers](https://www.lawyersgunsmoneyblog.com/2026/01/bari-weiss-measles-is-back-but-we-can-increase-those-numbers) (Lawyersgunsmoneyblog.com)
-
-- [HHS Wasn’t Worried About South Carolina’s Measles Outbreak. It’s Now Enormous.](https://www.motherjones.com/politics/2026/01/hhs-rfk-south-carolina-measles-outbreak/) (Mother Jones)
-
-- [Measles Cases Soar in South Carolina. Do You Need a Measles Booster?](https://www.cnet.com/health/medical/measles-cases-symptoms-vaccine-booster/) (CNET)
-
-- [South Carolina measles outbreak reaches 789 cases, surpassing Texas (Erika Edwards/NBC News)](https://www.memeorandum.com/260128/p71) (Memeorandum.com)
-
-- [Highly Contagious Measles Cases Reported Across the Kanto Region](https://newsonjapan.com/article/148231.php) (Newsonjapan.com)
-
-- [South Carolina measles outbreak hits nearly 600 new cases in just over a month](https://www.pbs.org/newshour/health/south-carolina-measles-outbreak-hits-nearly-600-new-cases-in-just-over-a-month) (PBS)
-
-- [South Carolina measles outbreak is largest in US since measles was declared eliminated (CNN)](https://www.memeorandum.com/260128/p36) (Memeorandum.com)
-
-- [Measles Outbreak in South Carolina Becomes Largest in the US](https://www.today.com/video/south-carolina-measles-outbreak-becomes-the-largest-in-the-us-256722501974) (TODAY)
-
-- [South Carolina Is America's New Measles Norm (Katherine J. Wu/The Atlantic)](https://www.memeorandum.com/260128/p3) (Memeorandum.com)
-
-- [CDC Dep. Director On Measles Going Kazoo: It’s Just ‘The Cost Of Doing Business’](https://www.techdirt.com/2026/01/27/cdc-dep-director-on-measles-going-kazoo-its-just-the-cost-of-doing-business/) (Techdirt)
-
-- [SC senator says unvaccinated students may need remote learning amid measles outbreak](https://www.wfae.org/health/2026-01-27/sc-senator-says-unvaccinated-students-may-need-remote-learning-amid-measles-outbreak) (WFAE)
-
-- [Health And Human Services Responds As Hundreds Of Measles Cases Confirmed In South Carolina](https://www.dailywire.com/news/health-and-human-services-responds-as-hundreds-of-measles-cases-confirmed-in-south-carolina) (The Daily Wire)
-
-- [Health Ministry launches nationwide measles campaign - NTV Uganda](https://ntv.co.ug/news/national-news/health-ministry-launches-nationwide-measles-campaign) (Ntv.co.ug)
-
-- [South Carolina measles outbreak now larger than Texas', new data shows](https://www.cbsnews.com/news/south-carolina-measles-outbreak-texas/) (CBS News)
-
-- [South Carolina Measles Outbreak Becomes Largest In U.S. History Since First Elimination](https://www.forbes.com/sites/martinadilicosa/2026/01/27/south-carolina-measles-outbreak-becomes-largest-in-us-history-since-first-elimination/) (Forbes)
-
-- [South Carolina measles outbreak reaches 789 cases, surpassing Texas](https://www.nbcnews.com/health/health-news/south-carolina-measles-outbreak-surpasses-texas-vaccines-rcna256030) (NBC News)
-
-- [South Carolina measles outbreak is largest in US since measles was declared eliminated | CNN](https://www.cnn.com/2026/01/27/health/largest-us-measles-outbreak-south-carolina) (CNN)
-
-- [To halt measles' resurgence we must fight the plague of misinformation](https://www.newscientist.com/article/2513398-to-halt-measles-resurgence-we-must-fight-the-plague-of-misinformation/) (New Scientist)
-
-- [Measles: UK, other European countries lose measles elimination status](https://www.medicalnewstoday.com/articles/uk-european-nations-lose-measles-elimination-status) (Medical News Today)
-
-- [The Million-Dollar Measles Question](https://www.theatlantic.com/health/2026/01/measles-elimination-south-carolina/685773/) (The Atlantic)
-
-- [Measles: What are the symptoms and how long does the vaccine last?](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-vaccine-outbreak-adults-b2908537.html) (The-independent.com)
-
-- [La OMS saca a España de la lista de países libres de sarampión](https://www.eldiario.es/sociedad/oms-saca-espana-lista-paises-libres-sarampion_1_12939049.html) (Eldiario.es)
-
-- [Tracking measles outbreaks and cases in the US](https://www.wxii12.com/article/measles-cases-us-data/70089162) (WXII12 Winston-Salem)
-
-- [Daily briefing: The battle over the identity of the first animals](https://www.nature.com/articles/d41586-026-00278-5) (Nature.com)
-
-- [DHS confirms case of measles in Waukesha County](https://www.wkow.com/news/health/dhs-confirms-case-of-measles-in-waukesha-county/article_6836adab-25a1-4084-8979-b07dd9d1925a.html) (WKOW)
-
-- [Case of measles confirmed in Waukesha County](https://www.wisn.com/article/case-of-measles-confirmed-in-waukesha-county/70146172) (WISN Milwaukee)
-
-- [The UK has lost its measles elimination status — again](https://www.livescience.com/health/viruses-infections-disease/the-uk-has-lost-its-measles-elimination-status-again) (Live Science)
-
-- [‘We urgently need to remedy this’: UK no longer considered to have eliminated measles](https://www.thejournal.ie/uk-measles-world-health-organisation-6939074-Jan2026/) (TheJournal.ie)
-
-- [European countries including UK lose measles elimination status](https://www.thestar.com.my/news/world/2026/01/27/european-countries-including-uk-lose-measles-elimination-status) (The Star Online)
-
-- [UK loses measles elimination status, warns WHO](https://news.sky.com/story/uk-loses-measles-elimination-status-warns-who-13499336) (Sky.com)
-
-- [European countries including UK lose measles elimination status](https://www.internazionale.it/ultime-notizie-reuters/2026/01/26/european-countries-including-uk-lose-measles-elimination-status) (Internazionale.it)
-
-- [Warning over measles as disease ‘re-established’ in UK](https://www.the-independent.com/life-style/health-and-families/measles-rash-symptoms-vaccine-mmrv-b2907810.html) (The-independent.com)
-
-- [UK loses measles elimination status](https://www.bbc.com/news/articles/cgjw0xegxglo) (BBC News)
-
-- [14th meeting of the European Regional Verification Commission for Measles and Rubella Elimination (RVC)](https://www.who.int/europe/news-room/events/item/2025/09/15/default-calendar/14th-meeting-of-the-european-regional-verification-commission-for-measles-and-rubella-elimination-(rvc)) (World Health Organization)
-
-- [Lagos begins measles-rubella immunisation](https://punchng.com/lagos-begins-measles-rubella-immunisation/) (The Punch)
-
-## 26-5 (malaria)
-
-- [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.thestar.com.my/news/world/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (The Star Online)
-
-- [New malaria vaccines helped Ghana slash child deaths. Then Trump, others cut aid](https://www.internazionale.it/ultime-notizie-reuters/2026/01/29/new-malaria-vaccines-helped-ghana-slash-child-deaths-then-trump-others-cut-aid) (Internazionale.it)
-
-- [Projected impacts of climate change on malaria in Africa](https://www.nature.com/articles/s41586-025-10015-z) (Nature.com)
-
-- [Pfs48/45 nanobodies block Plasmodium falciparum transmission](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013884) (Plos.org)
-
-- [Malaria researchers are getting closer to outsmarting the world’s deadliest parasite](https://theconversation.com/malaria-researchers-are-getting-closer-to-outsmarting-the-worlds-deadliest-parasite-268316) (The Conversation Africa)
-
-- [minte 1.3.1](https://pypi.org/project/minte/1.3.1/) (Pypi.org)
-
-- [minte 1.3.0](https://pypi.org/project/minte/1.3.0/) (Pypi.org)
-
-- [minte 1.2.0](https://pypi.org/project/minte/1.2.0/) (Pypi.org)
-
-## 26-5 (leptospirosis)
-
-- [Ratas en la ciudad: IMM toma medidas, oposición pide plan para combatirlas y especialistas alertan por riesgos](https://www.elpais.com.uy/informacion/sociedad/ratas-en-la-ciudad-imm-toma-medidas-oposicion-pide-plan-para-combatirlas-y-especialistas-alertan-por-riesgos) (Diario EL PAIS Uruguay)
-
-- [Which organ gets affected in Weil’s disease?](https://www.lifesciencesworld.com/which-organ-gets-affected-in-weils-disease/) (Lifesciencesworld.com)
-
-- [Interrogating the existing analytical palette deployed for Leptospirosis detection and diagnostics](https://pubs.rsc.org/en/content/articlelanding/2026/an/d6an00005c) (Royal Society of Chemistry)
-
-- [In vitro and in vivo endothelial interactions of Leptospira species are markers of virulence](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013939) (Plos.org)
-
-- [What diseases can dogs get from skunks?](https://www.lifesciencesworld.com/what-diseases-can-dogs-get-from-skunks/) (Lifesciencesworld.com)
-
-## 26-5 (hpai)
-
-- [Colorado declares disaster emergency as presumptive bird flu outbreak hits facility with 1.3M chickens](https://www.foxnews.com/health/colorado-declares-disaster-emergency-presumptive-bird-flu-outbreak-hits-facility-1-3m-chickens) (Fox News)
-
-- [[주장] 조류독감, 살처분 아닌 백신 도입하라](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003202928) (Ohmynews.com)
-
-- [仕事のあとにふらっと立ち寄りたい。HPのAI PCが触れるカフェに行ってきた](https://www.gizmodo.jp/2026/01/hp-ai-lifestyle-cafe-vide.html) (Gizmodo.jp)
-
-## 26-5 (h5n1)
-
-- [Создана высокоэффективная интраназальная вакцина от птичьего гриппа](https://news.mail.ru/society/69628369/) (Mail.ru)
-
-- [Labuť nalezená u jezera Most uhynula na ptačí chřipku](https://cmp.seznam.cz/nastaveni-souhlasu?service=bcr&return_url=https%3A%2F%2Fwww.novinky.cz%2Fclanek%2Fdomaci-labut-nalezena-u-jezera-most-uhynula-na-ptaci-chripku-40560166%3Fcwreturn%3D1&cwtime=1769766929538&loginstate=forget&cwri=88a46e341f7705d5bbc012cb860c76be&reason=missing&service_id=novinky) (Seznam.cz)
-
-- [Ismét tarol a rettegett vírus Magyarországon, brutális károkat okoz](https://www.origo.hu/gazdasag/2026/01/madarinfluenza-tartol-retteget-virus-magyarorszagon) (Origo.hu)
-
-- [Retail Milk Monitoring of Influenza A(H5N1) in Dairy Cattle, United States, 2024–2025](https://wwwnc.cdc.gov/eid/article/32/2/25-1332_article) (Cdc.gov)
-
-- [Tierseuche: Erstmals Milchkuh in Europa mit Vogelgrippevirus infiziert](https://www.faz.net/aktuell/wirtschaft/erstmals-milchkuh-in-europa-mit-vogelgrippevirus-infiziert-110827444.html) (Faz.net)
-
-- [Erstmals wurde eine Vogelgrippe-Infektion bei einer Milchkuh in Europa entdeckt](https://www.nzz.ch/wissenschaft/erstmals-wurde-eine-vogelgrippe-infektion-bei-einer-milchkuh-in-europa-entdeckt-ld.1922435) (Www.nzz.ch)
-
-- [Онищенко назвал самые опасные вирусные инфекции](https://tass.ru/obschestvo/26274543) (Tass.ru)
-
-- [Na řece v Kvasicích na Kroměřížsku uhynuly labutě, může za to ptačí chřipka](https://www.idnes.cz/zlin/zpravy/ptaci-chripka-labute-kvasice-kromeriz-hasici-veterina.A260128_100024_zlin-zpravy_jfuk) (Idnes.cz)
-
-- [H5N1-Virus in den Niederlanden: Kuh hat Vogelgrippe](https://taz.de/H5N1-Virus-in-den-Niederlanden/!6148972/) (taz.de)
-
-- [Két magyar településen bukkant fel a veszélyes H5N1 vírus](https://www.portfolio.hu/uzlet/20260127/ket-magyar-telepulesen-bukkant-fel-a-veszelyes-h5n1-virus-813782) (Portfolio.hu)
-
-- [H5N1: Erstmals Vogelgrippe bei Milchkuh in Europa nachgewiesen](https://www.sueddeutsche.de/gesundheit/vogelgrippe-kuh-europa-niederlande-li.3376139) (Süddeutsche Zeitung)
-
-- [Infizierte Kuh in Niederlanden: Sind Milchprodukte nach H5N1-Nachweis weiter sicher?](https://www.n-tv.de/wissen/Sind-Milchprodukte-nach-H5N1-Nachweis-weiter-sicher-id30288664.html) (N-tv.de)
-
-- [Vogelgrippe erstmals außerhalb USA bei Kuh](https://science.orf.at/stories/3233941/) (Science.orf.at)
-
-- [Antikörper in der Milch: Vogelgrippe erstmals bei Kuh in Europa festgestellt](https://www.n-tv.de/wissen/Vogelgrippe-erstmals-bei-Kuh-in-Europa-festgestellt-id30286326.html) (N-tv.de)
-
-- [Erster Nachweis außerhalb USA: Vogelgrippe bei Kuh in den Niederlanden – Was bedeutet das?](https://www.tagesspiegel.de/wissen/erster-nachweis-ausserhalb-usa-vogelgrippe-bei-kuh-in-den-niederlanden--was-bedeutet-das-15184224.html) (Der Tagesspiegel)
-
-- [Detectan gripe aviar en una vaca por primera vez en Europa](https://www.abc.es/sociedad/detectan-gripe-aviar-vaca-primera-vez-europa-20260126144341-nt.html) (Www.abc.es)
-
-- [Detectan por primera vez una vaca infectada por gripe aviar fuera de Estados Unidos](https://www.expansion.com/directivos/estilo-vida/salud/2026/01/26/6977527ee5fdeabd088b459e.html) (Expansion.com)
-
-- [City of Helsinki confirms four avian influenza cases in waterbirds](https://yle.fi/a/74-20206448) (YLE News)
-
-- [Lintu­influenssaa Helsingissä](https://www.iltalehti.fi/terveysuutiset/a/65d9924e-c827-4727-8765-6284fc0d717a) (Iltalehti.fi)
-
-- [Lintuinfluenssaa havaittu Helsingissä](https://www.is.fi/kotimaa/art-2000011772946.html) (Www.is.fi)
-
-- [東京慈恵会医科大学鳥インフルエンザウイルスがヒトに感染しやすくなる「初期段階」を解明](https://japan.cnet.com/release/31142985/) (CNET)
-
-## 26-5 (dengue)
-
-- [Má gestão de resíduos sólidos pode influenciar surgimento de epidemias](https://economia.ig.com.br/parceiros/esginsights/2026-01-31/ma-gestao-de-residuos-solidos-pode-influenciar-surgimento-de-epidemias.html) (Ig.com.br)
-
-- [Housing structure shapes dengue transmission dynamics in a rapidly urbanizing Malaysian district](https://www.nature.com/articles/s41598-026-35904-9) (Nature.com)
-
-- [Qué se sabe sobre el mosquito detectado en Santiago que transmite dengue, chikungunya, zika y fiebre amarilla](https://www.latercera.com/tendencias/noticia/que-se-sabe-sobre-el-mosquito-detectado-en-santiago-que-transmite-dengue-chikungunya-zika-y-fiebre-amarilla/) (Latercera.com)
-
-- [Minsal confirma presencia de mosquito que transmite dengue y fiebre amarilla en la RM, pero descarta casos de infección](https://www.latercera.com/nacional/noticia/minsal-confirma-presencia-de-mosquito-que-transmite-dengue-y-fiebre-amarilla-en-la-rm-pero-descarta-casos-de-infeccion/) (Latercera.com)
-
-- [Portugal apoia Cabo Verde contra malária e dengue](https://observador.pt/2026/01/29/ministra-da-saude-destaca-ganhos-na-formacao-em-projeto-de-apoio-em-cabo-verde/) (Observador.pt)
-
-- [Minsal confirma hallazgo de mosquito que transmite dengue, zika y fiebre amarilla en el aeropuerto de Santiago](https://www.cnnchile.com/pais/minsal-confirma-hallazgo-mosquito-transmite-dengue-zika-fiebre-amarilla-en-el-aeropuerto-de-santiago_20260129/) (Cnnchile.com)
-
-- [Alerta en el aeropuerto de Santiago ante posible presencia de mosquito que transmite el dengue y la fiebre amarilla](https://www.latercera.com/nacional/noticia/alerta-en-el-aeropuerto-de-santiago-ante-posible-presencia-de-mosquito-que-transmite-el-dengue-y-la-fiebre-amarilla/) (Latercera.com)
-
-- [Seremi de Salud informa que se investiga posible hallazgo de mosquito del dengue en Aeropuerto de Santiago](https://www.cnnchile.com/pais/seremi-de-salud-informa-que-se-investiga-posible-hallazgo-de-mosquito-del-dengue-aeropuerto-de-santiago_20260129/) (Cnnchile.com)
-
-- [Porto Alegre confirma primeiros casos de dengue de 2026](https://www.terra.com.br/noticias/porto-alegre-confirma-primeiros-casos-de-dengue-de-2026,21c5726aee6d9cb66777caf1d26621c25r6av7t8.html) (Terra.com.br)
-
-- [O que a dengue tem a ver com a saúde das articulações](https://veja.abril.com.br/coluna/letra-de-medico/o-que-a-dengue-tem-a-ver-com-a-saude-das-articulacoes/) (Abril.com.br)
-
-- [Tras recientes lluvias, Salud Sonora llama a la población a reforzar medidas contra el dengue](https://www.tribuna.com.mx/sonora/2026/1/28/tras-recientes-lluvias-salud-sonora-llama-la-poblacion-reforzar-medidas-contra-el-dengue-427868.html) (Tribuna.com.mx)
-
-- [Steep dengue decline in 25 hotspots with Wolbachia mosquitoes, Dewan Rakyat told](https://www.thestar.com.my/news/nation/2026/01/28/steep-dengue-decline-in-25-hotspots-with-wolbachia-mosquitoes-dewan-rakyat-told) (The Star Online)
-
-- [Seroprevalence of dengue virus antibodies among multiple species of non-human primates in Senegal suggests that sylvatic dengue virus is maintained in non-primate reservoirs in this region](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013946) (Plos.org)
-
-- [Enamed: questões sobre pediatria, ginecologia e saúde mental estão entre os assuntos com maior índice de erro na prova](https://g1.globo.com/fantastico/noticia/2026/01/27/enamed-questoes-sobre-pediatria-ginecologia-e-saude-mental-estao-entre-os-assuntos-com-maior-indice-de-erro-na-prova.ghtml) (Globo)
-
-- [Alerta no Rio: calor e chuvas aumentam risco de dengue](https://ultimosegundo.ig.com.br/brasil/rj/2026-01-26/alerta-no-rio--calor-e-chuvas-aumentam-risco-de-dengue.html) (Ig.com.br)
-
-- [Enamed: leia questões consideradas fáceis para alunos de Medicina que tiveram alto índice de erros entre reprovados](https://g1.globo.com/fantastico/noticia/2026/01/26/enamed-leia-questoes-consideradas-faceis-para-alunos-de-medicina-que-tiveram-alto-indice-de-erros-entre-reprovados.ghtml) (Globo)
-
-## 26-5 (chikungunya)
-
-- [Qué se sabe sobre el mosquito detectado en Santiago que transmite dengue, chikungunya, zika y fiebre amarilla](https://www.latercera.com/tendencias/noticia/que-se-sabe-sobre-el-mosquito-detectado-en-santiago-que-transmite-dengue-chikungunya-zika-y-fiebre-amarilla/) (Latercera.com)
-
-- [Primul caz de virus Chikungunya confirmat în România. Medic: „Ar trebui să rămânem liniștiți” / Cum se transmite acest virus și care sunt simptomele](https://hotnews.ro/primul-caz-de-virus-chikungunya-confirmat-in-romania-medic-ar-trebui-sa-ramanem-linistiti-cum-se-transmite-acest-virus-si-care-sunt-simptomele-2161716) (Hotnews.ro)
-
-- [O boală foarte periculoasă și rară a ajuns în România. Pacientul este internat în spital](https://www.mediafax.ro/sanatate/o-boala-foarte-periculoasa-si-rara-a-ajuns-in-romania-pacientul-este-internat-in-spital-23679007) (Mediafax.ro)
-
-- [Un virus extrem de periculos a ajuns în România. Chikungunya este transmis de țânțari. Care sunt simptomele](https://adevarul.ro/stiri-interne/sanatate/un-virus-extrem-de-periculos-a-ajuns-in-romania-2504705.html) (Adevarul.ro)
-
-- [Alertă în România: primul caz de virus Chikungunya confirmat la un bărbat venit din Africa](https://www.digi24.ro/stiri/actualitate/alerta-in-romania-primul-caz-de-virus-chikungunya-confirmat-la-un-barbat-venit-din-africa-3608425) (Digi24.ro)
-
-- [Mujer de 51 años se convierte en segundo caso de chikungunya en Costa Rica](https://www.nacion.com/el-pais/mujer-de-51-anos-se-convierte-en-segundo-caso-de/BRJ52LI4KJDEFIHFL2SMSSNX4E/story/) (Nacion.com)
-
-- [Minsal confirma presencia de mosquito que transmite dengue y fiebre amarilla en la RM, pero descarta casos de infección](https://www.latercera.com/nacional/noticia/minsal-confirma-presencia-de-mosquito-que-transmite-dengue-y-fiebre-amarilla-en-la-rm-pero-descarta-casos-de-infeccion/) (Latercera.com)
-
-- [O que a dengue tem a ver com a saúde das articulações](https://veja.abril.com.br/coluna/letra-de-medico/o-que-a-dengue-tem-a-ver-com-a-saude-das-articulacoes/) (Abril.com.br)
-
 ## 26-11 (zika)
 
 - [豊中つばさ公園『ma-zika』一部開園記念 東西を結ぶラッピングバス運行開始](https://prtimes.jp/main/html/rd/p/000000965.000078420.html) (Prtimes.jp)
@@ -2176,6 +1806,12 @@ Source: [News API](https://newsapi.org/)
 - [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
 
 ## 26-11 (rabies)
+
+- [Batac: Ilocos Norte LGUs join massive anti-rabies drive](https://rpnradio.com/batac-ilocos-norte-lgus-join-massive-anti-rabies-drive/) (Rpnradio.com)
+
+- [Why don’t you touch bats?](https://www.lifesciencesworld.com/why-dont-you-touch-bats/) (Lifesciencesworld.com)
+
+- [What shots do ferrets need to go outside?](https://www.lifesciencesworld.com/what-shots-do-ferrets-need-to-go-outside/) (Lifesciencesworld.com)
 
 - [Tours: Crossed Keys / Not Gorgeous (Virginia)](https://www.punknews.org/article/87782/tours-crossed-keys-not-gorgeous-virginia) (Punknews.org)
 
@@ -2255,6 +1891,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-11 (measles)
 
+- [What's driving the U.S. measles surge? #health](https://alltoc.com/health/what-s-driving-the-u-s-measles-surge) (Alltoc.com)
+
+- [Why are measles outbreaks spreading? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading) (Alltoc.com)
+
+- [Manitoba measles cases this year increase to 291 after 43 more emerge in latest public health update](https://www.cbc.ca/news/canada/manitoba/measles-cases-increase-9.7127120) (CBC News)
+
+- [Utah measles outbreak speeds up but there are few changes to daily life](https://www.nbcnews.com/health/health-news/utah-measles-outbreak-growing-cases-vaccination-rcna263196) (NBC News)
+
 - [Measles cases fall to 511 in week 9 after immunization: Ministry](https://en.antaranews.com/news/408290/measles-cases-fall-to-511-in-week-9-after-immunization-ministry) (Antaranews.com)
 
 - [Florida Is Trying to Ignore Measles Until It Can’t](https://www.theatlantic.com/health/2026/03/florida-measles-response-silence/686359/) (The Atlantic)
@@ -2324,6 +1968,8 @@ Source: [News API](https://newsapi.org/)
 - [Fifty shades of iron: Unorthodox mechanisms of iron acquisition and utilization in blood-stage Plasmodium parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014030) (Plos.org)
 
 ## 26-11 (hpai)
+
+- [Bird flu confirmed after dead swans found in east Cork](https://www.rte.ie/news/ireland/2026/0314/1563374-bird-flu-confirmed-after-dead-swans-found-in-east-cork/) (RTE)
 
 - [매년 수백만 마리 살처분되는 조류인플루엔자, 백신이 답이다](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003214630) (Ohmynews.com)
 
