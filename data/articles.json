@@ -1,8 +1,98 @@
 {
-  "last_updated": "2026-03-16 07:37",
-  "count_articles_total": 1079,
-  "count_articles_new": 4,
+  "last_updated": "2026-03-16 19:27",
+  "count_articles_total": 1078,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 28331,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Mark Norman",
+      "title": "Two University of Kent students die in meningitis outbreak",
+      "description": "Eleven University of Kent students are also seriously ill in hospital, the BBC understands.",
+      "url": "https://www.bbc.co.uk/news/articles/cdxg35dv7npo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg",
+      "publishedAt": "2026-03-15 19:25:23",
+      "content": "A UKHSA spokesperson said it was arranging antibiotics for some students in the Canterbury area following the outbreak, and that the specific strain of the disease has not been identified. The BBC u\u2026 [+1111 chars]",
+      "retrievedAt": "2026-03-16 19:27:22.783083",
+      "internal_id": "3e8cfaf79c9e8f49327beada3cfbde5603c610a2d523667698ce3138062566a0",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28328,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Lisa Monteiro,Nisser Dias",
+      "title": "Shortage of anti-rabies vaccine in state amid rising dog bite cases",
+      "description": "Goa is experiencing a critical shortage of anti-rabies vaccines with rising dog bite cases, forcing victims to search multiple health centers for treatment. Health officials report nationwide supply issues.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129594953,width-1280,height-720,imgsize-149472,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-15 18:59:33",
+      "content": "Follow Us On Social Media Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
+      "retrievedAt": "2026-03-16 19:27:20.950414",
+      "internal_id": "7557ff933a89295256c5be35ebe243f35d595a5e8c3a19a4ccbd7be5938aae5b",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28332,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Karolina Majchrzak",
+      "title": "Naukowy znale\u017ali s\u0142abo\u015bci paso\u017cyt\u00f3w wywo\u0142uj\u0105cych malari\u0119. B\u0119d\u0105 nowe leki",
+      "description": "Malaria pozostaje jedn\u0105 z najgro\u017aniejszych chor\u00f3b zaka\u017anych na \u015bwiecie. Wed\u0142ug danych globalnych w 2024 roku doprowadzi\u0142a do \u015bmierci oko\u0142o 610 tys. os\u00f3b, z czego zdecydowana wi\u0119kszo\u015b\u0107 mia\u0142a miejsce w Afryce, gdzie najbardziej nara\u017cone s\u0105 ma\u0142e dzieci. Nowe bad\u2026",
+      "url": "https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898",
+      "urlToImage": "https://i.iplsc.com/-/000J7NGTM2EV8HQC-C461.jpg",
+      "publishedAt": "2026-03-15 12:13:03",
+      "content": "Zesp\u00f3 naukowc\u00f3w z Uniwersytetu w Nottingham zidentyfikowa kluczowy element biologii pasoyta odpowiedzialnego za malari, chodzi o biako o nazwie ARK1. Odkrycie opublikowane w czasopimie naukowym Natur\u2026 [+2031 chars]",
+      "retrievedAt": "2026-03-16 19:27:23.042575",
+      "internal_id": "6b9242e6ba7dc40dd1bf57ddbfeb8d9b563cf2cca39ead0fd85e4c4a1cb52995",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28330,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles outbreaks growing? #health",
+      "description": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of under\u2011immunized communities have grown large enough to sustain transmission. A mix of factors\u2014political polarization, m\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-outbreaks-growing",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-15 12:11:35",
+      "content": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of underimmunized communities have grown large enough to sust\u2026 [+1744 chars]",
+      "retrievedAt": "2026-03-16 19:27:21.332251",
+      "internal_id": "88cad0e5bdf14b75703860ba27c27c4be6847e7269c992177165ca7dec5bb956",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28329,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uc720\ud55c\uc0c1 \uc11c\uc6b8\ub300 \uc218\uc758\uacfc\ub300\ud559 \uad50\uc218",
+      "title": "[\uae30\uace0]\ubc18\ub824\ub3d9\ubb3c\uc758 \u2018\uc678\ucd9c\u2019 \uc608\ubc29\uc811\uc885\uc774 \uba3c\uc800",
+      "description": "\uc9c0\ub09c \uc124 \uc5f0\ud734 \uac15\uc544\uc9c0\uc640 \ud568\uaed8 \uace0\ud5a5\uc5d0 \ub0b4\ub824\uac14\ub358 \uc9c0\uc778\uc774 \ud558\uc18c\uc5f0\uc744 \ud588\ub2e4. \ud734\uac8c\uc18c\uc5d0 \ub4e4\ub7ec \uac15\uc544\uc9c0\ub97c \ucc28\uc5d0 \ub450\uace0 \uc0ac\ub78c\ub4e4\ub9cc \uc2dd\uc0ac\ud558\ub824\ub2c8 \uac71\uc815\uc774 \ub418\uc5b4 \ud5c8\uac81\uc9c0\uac81 \uc2dd\uc0ac\ub97c \ub9c8\ucce4\ub2e4\uace0 \ud55c\ub2e4. \uc544\ub9c8 \ub9ce\uc740 \ubc18\ub824\uc778\uc774 \ud55c \ubc88\ucbe4 \uacaa\uc5b4\ubd24\uc744 \uc77c\uc774\ub2e4.\ubc18\ub824\ub3d9\ubb3c \uc591\uc721 \uc778\uad6c\uc758 \uc99d\uac00\uc640 \uc0ac\ud68c\uc801 \uc778\uc2dd \ubcc0\ud654\ub85c \uacfc\uac70 \uc2dd\ub2f9\uc5d0\ub294 \ubc18\ub824\ub3d9\ubb3c \ub3d9\ubc18 \ucd9c\uc785\uc774 \ubd88\uac00\ub2a5\ud55c \uac83\uc73c\ub85c \uc5ec\uaca8\uc84c\ub358 \ubd84\uc704\uae30\uac00 \ub2ec\ub77c\uc9c0\uace0 \uc788\ub2e4. \ucd5c\uadfc\uc5d0\ub294 \uc2dc\ub300\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202603151959005",
+      "urlToImage": "https://img.khan.co.kr/news/2026/03/15/l_2026031601000386600045251.jpg",
+      "publishedAt": "2026-03-15 10:59:00",
+      "content": ". . . . , . . , \u00b7 . . , . . . . , . (rabies) , 100% . (WHO) 6 . . . , (One Health) . . . . , . . , , . . . , .",
+      "retrievedAt": "2026-03-16 19:27:20.974129",
+      "internal_id": "303e45f21e0a8e3c5e21c279ee593540ff0c39d242075fde6e035e9d058e33ca",
+      "publishedAtLabel": "Mar 15"
+    },
     {
       "id": 28326,
       "query": [
@@ -19335,114 +19425,6 @@
       "content": "DOJ releases more than 3 million pages related to Epstein 5-year-old boy takes flight from detention center in exclusive video Protecting your kids from AI chatbots and ra\u2026 [+4247 chars]",
       "retrievedAt": "2026-02-03 07:22:42.242661",
       "internal_id": "d51b34293af305bdc313abd989780b9de794f5ddc9e7db3742195efafe68ccca",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27264,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "fox-news",
-      "source_name": "Fox News",
-      "author": null,
-      "title": "Meningitis cases rise in major Midwestern city, prompting public health alert",
-      "description": "Chicago health officials issue urgent alert after seven meningococcal disease cases, including two deaths. Know the symptoms and warning signs.",
-      "url": "https://www.foxnews.com/health/meningitis-cases-rise-major-midwestern-city-prompting-public-health-alert",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/woman-sick-lying-on-couch.jpg",
-      "publishedAt": "2026-02-01 19:27:17",
-      "content": "Chicago health officials are warning residents to be alert for symptoms of meningococcal disease after several recent infections were reported in adults across the city. Seven cases of Neisseria men\u2026 [+2481 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.973534",
-      "internal_id": "40a379396b659a1f06aab41c2bbb2c808bcb0a6f5afa1102a42d54c4f77f9147",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27260,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WJXT News4JAX",
-      "author": "Aaron Farrar",
-      "title": "\u2018Prevention becomes the key thing\u2019: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida",
-      "description": "The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.",
-      "url": "https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JZVZ7REGJ5E3ZECSG3FSMVVPVY.jpg?_a=DATAg1eAZAA0",
-      "publishedAt": "2026-02-01 18:35:39",
-      "content": "JACKSONVILLE, Fla. The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.\u2026 [+2840 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.224316",
-      "internal_id": "5dfda959fd8b51464816add707145754f0357a5f714c2a82f2a70292089e649c",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27253,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Alessia Dunn",
-      "title": "World\u2019s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination",
-      "description": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, January 28. The announcement comes just days after Orange Count\u2026",
-      "url": "https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/disneyland-hotel-sign-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-01 16:24:23",
-      "content": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, Jan\u2026 [+8173 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.070275",
-      "internal_id": "5e535e7c7f573910801b6f97bda9d1e94aa85de043ffefe322a15b83c4ba95dc",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27254,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Theme Park Insider",
-      "author": null,
-      "title": "Traveler exposes Disneyland visitors to measles last week",
-      "description": "By Robert Niles: Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort last Wednesday.The traveler was from out of the country and arrived at Los\u2026",
-      "url": "https://www.themeparkinsider.com/flume/202602/12289/",
-      "urlToImage": "https://www.themeparkinsider.com/art/flume/12289.jpg",
-      "publishedAt": "2026-02-01 16:04:00",
-      "content": "February 1, 2026, 11:04 AM \u00b7 Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort \u2026 [+1656 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.080184",
-      "internal_id": "de6f02f82a906b4d7f40f0ba7248f8512d4552225ca7936bf68eb661ae895a32",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27262,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Dawid Szczyrbowski",
-      "title": "Ptasia grypa w Polsce. Lekarz weterynarii og\u0142osi\u0142 stref\u0119 zaka\u017cenia",
-      "description": "Ujawniono przypadek ptasiej grypy w woj. \u015bwi\u0119tokrzyskim. Powiatowy lekarz weterynarii w Opatowie og\u0142osi\u0142 \"stref\u0119 obj\u0119t\u0105 zaka\u017ceniem\", kt\u00f3ra dotyczy czterech miejscowo\u015bci w gminie Tar\u0142\u00f3w. Zarz\u0105dzenie wprowadza szereg nakaz\u00f3w i zakaz\u00f3w maj\u0105cych ograniczy\u0107 szerze\u2026",
-      "url": "https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983",
-      "urlToImage": "https://i.iplsc.com/-/000M9S8ADCNAE6NR-C461.jpg",
-      "publishedAt": "2026-02-01 12:10:30",
-      "content": "W skr\u00f3cie Grzegorz Partyka poinformowa o potwierdzeniu wirusa grypy ptak\u00f3w HPAI 26 stycznia we wsi Lene Chaupy w gminie Tar\u00f3w. Powiatowy lekarz weterynarii wyznaczy stref objt \u2026 [+2133 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.365819",
-      "internal_id": "991ebaf4dd4a6e0502fcf8d7fc3a631a7f497c3d4e8be87764f3f4133f99106e",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27249,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Haig Hovaness",
-      "title": "Links 2/1/2026",
-      "description": "Our strategic daily links: stationary motion, U.S. brain drain, measles, snow drought, Caribbean troubles, Chinese kindergarten, EU confusion, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles,\u2026",
-      "url": "https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Kingfishers.jpg",
-      "publishedAt": "2026-02-01 11:55:13",
-      "content": "This 3D floor in Thailand tricks your senses into feeling movement while you stay still. Daniyanizami11 pic.twitter.com/Og6hDPrkfz Science girl (@sciencegirl) January 30, 2026 Bezos\u2019s Blue Origi\u2026 [+7777 chars]",
-      "retrievedAt": "2026-02-03 07:22:41.968318",
-      "internal_id": "d826839f6040d85acd7c9065031200da9fd41a3a158a45d8d18f407ad2fcf9e3",
       "publishedAtLabel": "Feb 1"
     }
   ]
