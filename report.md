@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2026-03-15 19:13
-- **Most recent article:** 2026-03-14 17:59:00
+- **New articles in last harvest:** 4
+- **Last harvest:** 2026-03-16 07:37
+- **Most recent article:** 2026-03-15 07:00:00
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-10 | 26-11 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 101 | 112 | 111 | 83 | 507 |
-| dengue | 22 | 11 | 16 | 24 | 17 | 15 | 105 |
-| mpox | 10 | 16 | 11 | 14 | 25 | 27 | 103 |
-| rabies | 18 | 15 | 8 | 16 | 16 | 14 | 87 |
-| malaria | 16 | 9 | 15 | 14 | 10 | 11 | 75 |
-| chikungunya | 1 | 7 | 8 | 12 | 40 | 6 | 74 |
-| h5n1 | 2 | 8 | 12 | 12 | 11 | 4 | 49 |
-| meningitis | 4 | 6 | 3 | 7 | 3 | 5 | 28 |
-| leptospirosis | 2 | 1 | 3 | 2 | 4 | 3 | 15 |
-| hpai | 2 | 5 | 0 | 3 | 1 | 2 | 13 |
-| zika | 1 | 2 | 0 | 3 | 3 | 2 | 11 |
-| typhoid | 3 | 0 | 2 | 1 | 2 | 2 | 10 |
-| yersinia | 2 | 0 | 1 | 2 | 1 | 1 | 7 |
-| pertussis | 1 | 2 | 1 | 1 | 0 | 0 | 5 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 26-10 | 26-11 | 26-12 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 70 | 30 | 0 | 105 | 112 | 111 | 83 | 511 |
+| dengue | 22 | 11 | 1 | 16 | 24 | 17 | 15 | 106 |
+| mpox | 10 | 16 | 0 | 11 | 14 | 25 | 27 | 103 |
+| rabies | 18 | 16 | 1 | 8 | 16 | 16 | 14 | 89 |
+| malaria | 16 | 9 | 0 | 15 | 14 | 10 | 11 | 75 |
+| chikungunya | 1 | 7 | 0 | 8 | 12 | 40 | 6 | 74 |
+| h5n1 | 2 | 8 | 0 | 12 | 12 | 11 | 4 | 49 |
+| meningitis | 4 | 6 | 0 | 3 | 7 | 3 | 5 | 28 |
+| hpai | 2 | 5 | 1 | 1 | 3 | 1 | 2 | 15 |
+| leptospirosis | 2 | 1 | 0 | 3 | 2 | 4 | 3 | 15 |
+| zika | 1 | 2 | 0 | 0 | 3 | 3 | 2 | 11 |
+| typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
+| yersinia | 2 | 0 | 0 | 1 | 2 | 1 | 1 | 7 |
+| pertussis | 1 | 2 | 0 | 1 | 1 | 0 | 0 | 5 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -1669,6 +1669,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Video South Carolina's measles outbreak becomes largest in US in years](https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459) (ABC News)
 
+- [‘Prevention becomes the key thing’: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida](https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/) (WJXT News4JAX)
+
+- [World’s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination](https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/) (Inside the Magic)
+
+- [Traveler exposes Disneyland visitors to measles last week](https://www.themeparkinsider.com/flume/202602/12289/) (Theme Park Insider)
+
+- [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
+
 ## 26-6 (malaria)
 
 - [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
@@ -1708,6 +1716,10 @@ Source: [News API](https://newsapi.org/)
 - [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
 
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
+
+## 26-6 (hpai)
+
+- [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-6 (h5n1)
 
@@ -1787,6 +1799,18 @@ Source: [News API](https://newsapi.org/)
 
 - [Estado de São Paulo inicia vacinação contra a chikungunya](https://saude.ig.com.br/2026-02-02/estado-de-sao-paulo-inicia-vacinacao-contra-a-chikungunya.html) (Ig.com.br)
 
+## 26-12 (rabies)
+
+- [Dipolog: LGU RIZAL NAGSAULOG SA RABIES AWARENESS MONTH PINAAGI SA LIBRENG BAKUNA SA MGA ALAGANG HAYOP](https://rpnradio.com/dipolog-lgu-rizal-nagsaulog-sa-rabies-awareness-month-pinaagi-sa-libreng-bakuna-sa-mga-alagang-hayop/) (Rpnradio.com)
+
+## 26-12 (hpai)
+
+- [동물단체 “1000만 닭 묻어버리는 살처분, 옳은가”](https://www.khan.co.kr/article/202603151600001) (Khan.co.kr)
+
+## 26-12 (dengue)
+
+- [Dengue Fever क्या है? | Dengue Symptoms, Platelets, Treatment और Diet पूरी जानकारी](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUCMOWCi25q8) (YouTube)
+
 ## 26-11 (zika)
 
 - [豊中つばさ公園『ma-zika』一部開園記念 東西を結ぶラッピングバス運行開始](https://prtimes.jp/main/html/rd/p/000000965.000078420.html) (Prtimes.jp)
@@ -1794,6 +1818,8 @@ Source: [News API](https://newsapi.org/)
 - [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
 
 ## 26-11 (rabies)
+
+- [Hundar isolerade efter larm om rabies](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1451125) (Aftonbladet.se)
 
 - [Batac: Ilocos Norte LGUs join massive anti-rabies drive](https://rpnradio.com/batac-ilocos-norte-lgus-join-massive-anti-rabies-drive/) (Rpnradio.com)
 
