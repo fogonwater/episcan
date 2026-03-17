@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-03-17 07:28
-- **Most recent article:** 2026-03-16 06:09:46
+- **New articles in last harvest:** 33
+- **Last harvest:** 2026-03-17 19:27
+- **Most recent article:** 2026-03-16 19:25:08
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 4 | 105 | 112 | 111 | 83 | 515 |
-| dengue | 22 | 11 | 1 | 16 | 24 | 17 | 15 | 106 |
-| mpox | 10 | 16 | 1 | 11 | 14 | 25 | 27 | 104 |
+| measles | 70 | 30 | 7 | 101 | 112 | 111 | 83 | 514 |
+| mpox | 10 | 16 | 4 | 11 | 14 | 25 | 27 | 107 |
+| dengue | 22 | 11 | 2 | 16 | 24 | 17 | 15 | 107 |
 | rabies | 18 | 16 | 3 | 8 | 16 | 16 | 14 | 91 |
-| malaria | 16 | 9 | 1 | 15 | 14 | 10 | 11 | 76 |
-| chikungunya | 1 | 7 | 0 | 8 | 12 | 40 | 6 | 74 |
+| malaria | 16 | 9 | 2 | 15 | 14 | 10 | 11 | 77 |
+| chikungunya | 1 | 7 | 1 | 8 | 12 | 40 | 6 | 75 |
+| meningitis | 4 | 6 | 29 | 2 | 7 | 3 | 5 | 56 |
 | h5n1 | 2 | 8 | 0 | 12 | 12 | 11 | 4 | 49 |
-| meningitis | 4 | 6 | 5 | 3 | 7 | 3 | 5 | 33 |
 | leptospirosis | 2 | 1 | 2 | 3 | 2 | 4 | 3 | 17 |
-| hpai | 2 | 5 | 1 | 1 | 3 | 1 | 2 | 15 |
+| hpai | 2 | 5 | 1 | 0 | 3 | 1 | 2 | 14 |
 | zika | 1 | 2 | 0 | 0 | 3 | 3 | 2 | 11 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
-| yersinia | 2 | 0 | 0 | 1 | 2 | 1 | 1 | 7 |
+| yersinia | 2 | 0 | 1 | 1 | 2 | 1 | 1 | 8 |
 | pertussis | 1 | 2 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -1463,8 +1463,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Kano probes diphtheria, meningitis scare in community](https://punchng.com/kano-probes-diphtheria-meningitis-scare-in-community/) (The Punch)
 
-- [Meningitis cases rise in major Midwestern city, prompting public health alert](https://www.foxnews.com/health/meningitis-cases-rise-major-midwestern-city-prompting-public-health-alert) (Fox News)
-
 ## 26-6 (measles)
 
 - [Health officials investigate confirmed measles case at Virginia airport](https://wset.com/news/local/health-officials-investigate-confirmed-measles-case-at-virginia-airport-ronald-regan-washington-national-virginia-department-of-health-2026) (WSET)
@@ -1669,14 +1667,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Video South Carolina's measles outbreak becomes largest in US in years](https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459) (ABC News)
 
-- [‘Prevention becomes the key thing’: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida](https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/) (WJXT News4JAX)
-
-- [World’s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination](https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/) (Inside the Magic)
-
-- [Traveler exposes Disneyland visitors to measles last week](https://www.themeparkinsider.com/flume/202602/12289/) (Theme Park Insider)
-
-- [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
-
 ## 26-6 (malaria)
 
 - [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
@@ -1716,10 +1706,6 @@ Source: [News API](https://newsapi.org/)
 - [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
 
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
-
-## 26-6 (hpai)
-
-- [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-6 (h5n1)
 
@@ -1799,6 +1785,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Estado de São Paulo inicia vacinação contra a chikungunya](https://saude.ig.com.br/2026-02-02/estado-de-sao-paulo-inicia-vacinacao-contra-a-chikungunya.html) (Ig.com.br)
 
+## 26-12 (yersinia)
+
+- [A prospective cohort study to describe the morphology of buboes in patients with bubonic plague using ultrasound imaging](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014133) (Plos.org)
+
 ## 26-12 (rabies)
 
 - [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
@@ -1809,9 +1799,63 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (mpox)
 
+- [Mpox: nova variante resistente a remédio é encontrada](https://saude.ig.com.br/2026-03-16/mpox-nova-variante-resistente-a-remedio-e-encontrada.html) (Ig.com.br)
+
+- [First case of severe mpox disease reported in major city: ‘Life-threatening’](https://www.foxnews.com/health/first-case-severe-mpox-disease-reported-major-city-life-threatening) (Fox News)
+
+- [Casos de Mpox chegam a 149 em 2026 e acendem alerta sanitário](https://saude.ig.com.br/2026-03-16/casos-de-mpox-chegam-a-149-em-2026-e-acendem-alerta-sanitario.html) (Ig.com.br)
+
 - [Nova cepa do vírus da Mpox recombinante preocupa OMS e testes mostram que antiviral mais usado não é eficaz](https://www.terra.com.br/noticias/nova-cepa-do-virus-da-mpox-recombinante-preocupa-oms-e-testes-mostram-que-antiviral-mais-usado-nao-e-eficaz,e91774cb94cd1f69e3de394533acc16e93fs3nx0.html) (Terra.com.br)
 
 ## 26-12 (meningitis)
+
+- [Meningitis-Ausbruch an Universität und Schule – zwei Tote, mehrere Infizierte](https://www.welt.de/vermischtes/article69b82c3dd64ac9417f490140/grossbritannien-meningitis-ausbruch-an-universitaet-und-schule-zwei-tote-mehrere-infizierte.html) (DIE WELT)
+
+- [Why is meningitis spreading in Kent? #health](https://alltoc.com/health/why-is-meningitis-spreading-in-kent) (Alltoc.com)
+
+- [Studerende i kø til antibiotika efter dødsfald i meningitis-udbrud](https://www.dr.dk/nyheder/seneste/studerende-i-koe-til-antibiotika-efter-doedsfald-i-meningitis-udbrud) (Www.dr.dk)
+
+- [Why young people are more at risk of spreading meningitis – and is there a vaccine?](https://www.the-independent.com/life-style/health-and-families/health-news/kent-meningitis-vaccine-symptoms-outbreak-spread-b2939636.html) (The-independent.com)
+
+- [Kent meningitis outbreak a cruel reminder young people most at risk](https://news.sky.com/story/kent-meningitis-outbreak-a-cruel-reminder-young-people-are-most-at-risk-13520607) (Sky.com)
+
+- [Deadly campus meningitis outbreak in the U.K. kills 2, sickens many more](https://www.scientificamerican.com/article/deadly-campus-meningitis-outbreak-in-the-uk-kills-2-sickens-many-more/) (Scientific American)
+
+- [Kent meningitis outbreak: what students need to know](https://theconversation.com/kent-meningitis-outbreak-what-students-need-to-know-278449) (The Conversation Africa)
+
+- [Kent meningitis outbreak: Two dead, 11 others infected in outbreak linked to English university](https://www.cnn.com/2026/03/16/health/uk-meningitis-outbreak-deaths-scli-intl) (CNN)
+
+- [To døde i invasivt meningitis-udbrud: Tester massivt](https://www.bt.dk/udland/to-doede-i-invasivtmeningitis-udbrud-tester-massivt) (Www.bt.dk)
+
+- [¿Qué es la meningitis? Síntomas de alerta, medidas de prevención y qué vacunas integran el esquema](https://www.elpais.com.uy/informacion/salud/que-es-la-meningitis-sintomas-de-alerta-medidas-de-prevencion-y-que-vacunas-integran-el-esquema) (Diario EL PAIS Uruguay)
+
+- [Two people have died from bacterial meningitis in the UK. An expert answers your questions](https://theconversation.com/two-people-have-died-from-bacterial-meningitis-in-the-uk-an-expert-answers-your-questions-278434) (The Conversation Africa)
+
+- [Murió una niña de 5 años por meningitis; escuela 182 de Flor de Maroñas está cerrada por luto](https://www.elpais.com.uy/informacion/salud/murio-una-nina-de-5-anos-por-meningitis-escuela-182-de-flor-de-maronas-esta-cerrada-por-luto) (Diario EL PAIS Uruguay)
+
+- [Schoolgirl who died from meningitis remembered as 'kind and thoughtful'](https://news.sky.com/story/schoolgirl-who-died-from-meningitis-remembered-as-kind-thoughtful-and-intelligent-13520521) (Sky.com)
+
+- [First symptoms of meningitis as two die and 11 seriously ill following UK outbreak](https://www.ladbible.com/news/health/meningitis-first-symptoms-uk-outbreak-696533-20260316) (LADbible)
+
+- [Why young people are more at risk of spreading meningitis – and is there a vaccine?](https://www.the-independent.com/life-style/health-and-families/health-news/meningitis-vaccine-symptoms-kent-outbreak-spread-b2939322.html) (The-independent.com)
+
+- [Meningitis symptoms explained as professor describes ‘great concern’ over Kent outbreak](https://www.gbnews.com/health/meningitis-symptoms-outbreak-kent-professor) (Gbnews.com)
+
+- [Meningitis: MSP activó protocolo sanitario en escuela tras muerte de niña de 5 años](https://www.montevideo.com.uy/Noticias/Meningitis-MSP-activo-protocolo-sanitario-en-escuela-tras-muerte-de-nina-de-5-anos-uc956044) (Montevideo.com.uy)
+
+- [Two young people die following UK meningitis outbreak](https://www.rte.ie/news/uk/2026/0316/1563668-meningitis-uk/) (RTE)
+
+- [Großbritannien: Schwerer Meningitis-Ausbruch in Kent – zwei Tote und viele Erkrankte](https://www.stern.de/panorama/schwerer-meningitis-ausbruch-in-kent---zwei-tote-und-viele-erkrankte-37225250.html) (STERN.de)
+
+- [Meningitis outbreak: What you need to know](https://www.bbc.com/news/articles/c7432klgyldo) (BBC News)
+
+- [School confirms pupil died in Kent meningitis outbreak](https://www.bbc.com/news/articles/cp9mdxz4dd2o) (BBC News)
+
+- [Two dead and 11 infected from ‘invasive’ meningitis outbreak](https://www.ladbible.com/news/uk-news/meningitis-outbreak-two-dead-kent-036487-20260316) (LADbible)
+
+- [What are the symptoms of meningitis and can it be treated?](https://news.sky.com/story/meningitis-the-symptoms-treatments-and-how-to-find-out-if-you-need-the-vaccine-13520397) (Sky.com)
+
+- [Dos muertos tras un brote de meningitis con 13 casos en la universidad británica de Kent](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/16/69b7b7f4e85ece21648b457b.html) (El Mundo)
 
 - [Why did meningitis hit University of Kent? #health](https://alltoc.com/health/why-did-meningitis-hit-university-of-kent) (Alltoc.com)
 
@@ -1825,6 +1869,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (measles)
 
+- [With Midterms Looming, Trump’s Pick for Surgeon General Suddenly Thinks Measles Vaccines Are a Good Idea](https://gizmodo.com/with-midterms-looming-trumps-pick-for-surgeon-general-suddenly-thinks-measles-vaccines-are-a-good-idea-2000733948) (Gizmodo.com)
+
+- [Why is measles spreading again in the UK and US? #health](https://alltoc.com/health/why-is-measles-spreading-again-in-the-uk-and-us) (Alltoc.com)
+
+- [After nearly a year, measles outbreak in northeast B.C. shows signs of slowing down](https://www.cbc.ca/news/canada/british-columbia/northeast-bc-measles-outbreak-slow-down-9.7128288) (CBC News)
+
 - [Local health officials: No reason for elevated worry about measles](https://www.weirtondailytimes.com/news/local-news/2026/03/local-health-officials-no-reason-for-elevated-worry-about-measles/) (Weirtondailytimes.com)
 
 - [はしかの流行は深刻な健康被害をもたらすだけでなく国家に大きな経済的損失も与えるとの指摘](https://news.livedoor.com/article/detail/30775370/) (Livedoor.com)
@@ -1834,6 +1884,8 @@ Source: [News API](https://newsapi.org/)
 - [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
 
 ## 26-12 (malaria)
+
+- [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
 
 - [Naukowy znaleźli słabości pasożytów wywołujących malarię. Będą nowe leki](https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898) (Interia.pl)
 
@@ -1849,7 +1901,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (dengue)
 
+- [Seroprevalence and preventive practices of dengue and chikungunya among school children in Bangkok: Gaps in prevention and vaccination strategies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013026) (Plos.org)
+
 - [Dengue Fever क्या है? | Dengue Symptoms, Platelets, Treatment और Diet पूरी जानकारी](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUCMOWCi25q8) (YouTube)
+
+## 26-12 (chikungunya)
+
+- [Seroprevalence and preventive practices of dengue and chikungunya among school children in Bangkok: Gaps in prevention and vaccination strategies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013026) (Plos.org)
 
 ## 26-11 (zika)
 
