@@ -1,8 +1,134 @@
 {
-  "last_updated": "2026-03-17 19:27",
-  "count_articles_total": 1121,
-  "count_articles_new": 33,
+  "last_updated": "2026-03-18 07:28",
+  "count_articles_total": 1134,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 28382,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Confirmaron el primer caso en la Argentina de Mpox Clado Ib, una variante m\u00e1s contagiosa y severa de la viruela s\u00edmica",
+      "description": "El Ministerio de Salud lo inform\u00f3 a trav\u00e9s del Bolet\u00edn Epidemiol\u00f3gico; se trata de un hombre de 31 a\u00f1os de la ciudad de Buenos Aires que no ten\u00eda antecedentes de viajes",
+      "url": "https://www.lanacion.com.ar/sociedad/confirmaron-el-primer-caso-en-la-argentina-de-mpox-clado-ib-una-variante-mas-contagiosa-y-severa-de-nid17032026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/confirmaron-el-primer-caso-de-mpox-clado-ib-una-Z6LGU6UYJZHRPJX266ZLMFG3LU.jpg?auth=ab97ddba59dd6498640f3dd9a9f9761330c7e8a00326783c218f52863ae40a46&width=1200&quality=85&smart=true&height=675",
+      "publishedAt": "2026-03-17 06:32:58",
+      "content": "El Ministerio de Salud inform\u00f3, a trav\u00e9s del Bolet\u00edn Epidemiol\u00f3gico, que se detect\u00f3 en la Argentina el primer caso de Mpox Clado Ib, una variante m\u00e1s contagiosa y potente del virus de la viruela s\u00edmi\u2026 [+3174 chars]",
+      "retrievedAt": "2026-03-18 07:28:47.607750",
+      "internal_id": "01ea23f23df0ed64c59c593397111603030f7231f8de3cbda6dc020c1cd363bc",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28379,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Storm Newton",
+      "title": "Why young people are more at risk of spreading meningitis \u2013 and is there a vaccine?",
+      "description": "Hundreds of masked university students have queued for antibiotics after a recent death",
+      "url": "https://www.the-independent.com/life-style/health-and-families/health-news/meningococcal-meningitis-outbreak-vaccine-symptoms-b2939878.html",
+      "urlToImage": "https://static.the-independent.com/2026/03/16/12/19/Meningitis-Outbreak-At-The-University-Of-Kent-Leaves-Two-Dead-j613umhs.jpeg?trim=0,1,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-03-17 06:26:23",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+5698 chars]",
+      "retrievedAt": "2026-03-18 07:28:46.545151",
+      "internal_id": "e3bc95f6338c32197657f410fbe97134f6fc8540e72c85258a0bb1f48ba6fe98",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28377,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is meningitis spreading at the University of Kent? #health",
+      "description": "Fast\u2011moving meningococcal outbreak in south\u2011east England Health authorities are responding to an outbreak of invasive meningococcal disease centered on the Canterbury and University of Kent community. The cluster has been severe: at least two young people hav\u2026",
+      "url": "https://alltoc.com/health/why-is-meningitis-spreading-at-the-university-of-kent",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-17 06:10:08",
+      "content": "Health authorities are responding to an outbreak of invasive meningococcal disease centered on the Canterbury and University of Kent community. The cluster has been severe: at least two young people \u2026 [+1538 chars]",
+      "retrievedAt": "2026-03-18 07:28:46.474679",
+      "internal_id": "c42a64a8da0ed39bb2067453c496e1b6c1002476d7936b2bfdd914359a8e698f",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28380,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "James Saunders",
+      "title": "Meningitis outbreak: Canterbury woman, 22, 'catches disease from sharing vape on super-spreader night out'",
+      "description": "A mother has claimed her daughter caught meningitis after sharing a vape during a night out in Canterbury.Khali Goodwin's 22-year-old daughter Keeleigh was rushed to A&E; just before midnight on Saturday - the day before reports emerged of the outbreak in Ken\u2026",
+      "url": "https://www.gbnews.com/health/meningitis-outbreak-canterbury-woman-catches-disease-sharing-vape",
+      "urlToImage": "https://www.gbnews.com/media-library/chemistry-nightclub-kent-outbreak.jpg?id=65299198&width=1200&height=600&coordinates=0%2C474%2C0%2C360",
+      "publishedAt": "2026-03-17 04:39:18",
+      "content": "A mother has claimed her daughter caught meningitis after sharing a vape during a night out in Canterbury. Khali Goodwin's 22-year-old daughter Keeleigh was rushed to A&amp;E just before midnight on\u2026 [+3556 chars]",
+      "retrievedAt": "2026-03-18 07:28:46.597109",
+      "internal_id": "79e653e3491e30c7fc8b91c0d34d6eb6054d27d30d2efb170d8c3c58260f5455",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28381,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Gbnews.com",
+      "author": "James Saunders",
+      "title": "Meningitis outbreak: Iran war 'may spark medicine shortage' just as UK scrambles to contain deadly disease",
+      "description": "Britain may face a medicine shortage as a result of the Iran crisis - just as it races to contain a deadly meningitis outbreak in Kent.Two people have died in the South East after an \"invasive\" spread of the disease, with 13 cases notified since March 13.",
+      "url": "https://www.gbnews.com/health/meningitis-outbreak-iran-war-medicine-shortage-disease-kent-university",
+      "urlToImage": "https://www.gbnews.com/media-library/image.png?id=65299182&width=1200&height=600&coordinates=0%2C0%2C0%2C100",
+      "publishedAt": "2026-03-17 02:23:07",
+      "content": "Britain may face a medicine shortage as a result of the Iran crisis - just as it races to contain a deadly meningitis outbreak in Kent. Two people have died in the South East after an \"invasive\" spr\u2026 [+3245 chars]",
+      "retrievedAt": "2026-03-18 07:28:46.606988",
+      "internal_id": "b674fe6a2c6b84f33cef89e73c1c921ba9cdaa96afdf7364612a26ba4e63e19b",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28376,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What is happening in the Kent meningitis outbreak? #health",
+      "description": "Rapid public health response to an invasive outbreak Health authorities are responding to a fast moving cluster of invasive meningococcal disease in the Kent area after two young people died and more than a dozen others fell seriously ill. The outbreak has af\u2026",
+      "url": "https://alltoc.com/health/what-is-happening-in-the-kent-meningitis-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-17 00:10:55",
+      "content": "Rapid public-health response to an invasive outbreak Health authorities are responding to a fast-moving cluster of invasive meningococcal disease in the Kent area after two young people died and mor\u2026 [+1783 chars]",
+      "retrievedAt": "2026-03-18 07:28:46.455539",
+      "internal_id": "7e90954e8f016a9566c18af2fc1939ad34cd30515a382940ca5d23cd8fb68f2b",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28378,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Montevideo.com.uy",
+      "author": "Montevideo Portal",
+      "title": "Gu\u00eda esencial sobre la meningitis: de la detecci\u00f3n temprana a la importancia de vacunarse",
+      "description": "Un repaso detallado por el origen de la enfermedad, sus s\u00edntomas principales y las medidas sanitarias para proteger la salud de los ni\u00f1os.",
+      "url": "https://www.montevideo.com.uy/Modo-saludable/Guia-esencial-sobre-la-meningitis-de-la-deteccion-temprana-a-la-importancia-de-vacunarse-uc956138",
+      "urlToImage": "https://imagenes.montevideo.com.uy/imgnoticias/202602/_W933_80/947197.jpg",
+      "publishedAt": "2026-03-16 19:33:00",
+      "content": "Montevideo Portal Sabemos que son cosas que pueden ocurrir. Son cosas muy poco frecuentes, pero aunque sea muy poco frecuente, a quien le toca es el 100%, o sea que no es un argumento para no preocu\u2026 [+4871 chars]",
+      "retrievedAt": "2026-03-18 07:28:46.484699",
+      "internal_id": "80cec0a15c2b4883c900b2e8e2b007230d971ed3f08789450fb29eeccb36e1ea",
+      "publishedAtLabel": "Mar 16"
+    },
     {
       "id": 28372,
       "query": [
@@ -20200,6 +20326,114 @@
       "content": "DOJ releases more than 3 million pages related to Epstein 5-year-old boy takes flight from detention center in exclusive video Protecting your kids from AI chatbots and ra\u2026 [+4247 chars]",
       "retrievedAt": "2026-02-03 07:22:42.242661",
       "internal_id": "d51b34293af305bdc313abd989780b9de794f5ddc9e7db3742195efafe68ccca",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27264,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Meningitis cases rise in major Midwestern city, prompting public health alert",
+      "description": "Chicago health officials issue urgent alert after seven meningococcal disease cases, including two deaths. Know the symptoms and warning signs.",
+      "url": "https://www.foxnews.com/health/meningitis-cases-rise-major-midwestern-city-prompting-public-health-alert",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/woman-sick-lying-on-couch.jpg",
+      "publishedAt": "2026-02-01 19:27:17",
+      "content": "Chicago health officials are warning residents to be alert for symptoms of meningococcal disease after several recent infections were reported in adults across the city. Seven cases of Neisseria men\u2026 [+2481 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.973534",
+      "internal_id": "40a379396b659a1f06aab41c2bbb2c808bcb0a6f5afa1102a42d54c4f77f9147",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27260,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Aaron Farrar",
+      "title": "\u2018Prevention becomes the key thing\u2019: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida",
+      "description": "The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.",
+      "url": "https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JZVZ7REGJ5E3ZECSG3FSMVVPVY.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2026-02-01 18:35:39",
+      "content": "JACKSONVILLE, Fla. The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.\u2026 [+2840 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.224316",
+      "internal_id": "5dfda959fd8b51464816add707145754f0357a5f714c2a82f2a70292089e649c",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27253,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Alessia Dunn",
+      "title": "World\u2019s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination",
+      "description": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, January 28. The announcement comes just days after Orange Count\u2026",
+      "url": "https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/disneyland-hotel-sign-steven-miller-flickr.jpg",
+      "publishedAt": "2026-02-01 16:24:23",
+      "content": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, Jan\u2026 [+8173 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.070275",
+      "internal_id": "5e535e7c7f573910801b6f97bda9d1e94aa85de043ffefe322a15b83c4ba95dc",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27254,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Theme Park Insider",
+      "author": null,
+      "title": "Traveler exposes Disneyland visitors to measles last week",
+      "description": "By Robert Niles: Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort last Wednesday.The traveler was from out of the country and arrived at Los\u2026",
+      "url": "https://www.themeparkinsider.com/flume/202602/12289/",
+      "urlToImage": "https://www.themeparkinsider.com/art/flume/12289.jpg",
+      "publishedAt": "2026-02-01 16:04:00",
+      "content": "February 1, 2026, 11:04 AM \u00b7 Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort \u2026 [+1656 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.080184",
+      "internal_id": "de6f02f82a906b4d7f40f0ba7248f8512d4552225ca7936bf68eb661ae895a32",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27262,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Dawid Szczyrbowski",
+      "title": "Ptasia grypa w Polsce. Lekarz weterynarii og\u0142osi\u0142 stref\u0119 zaka\u017cenia",
+      "description": "Ujawniono przypadek ptasiej grypy w woj. \u015bwi\u0119tokrzyskim. Powiatowy lekarz weterynarii w Opatowie og\u0142osi\u0142 \"stref\u0119 obj\u0119t\u0105 zaka\u017ceniem\", kt\u00f3ra dotyczy czterech miejscowo\u015bci w gminie Tar\u0142\u00f3w. Zarz\u0105dzenie wprowadza szereg nakaz\u00f3w i zakaz\u00f3w maj\u0105cych ograniczy\u0107 szerze\u2026",
+      "url": "https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983",
+      "urlToImage": "https://i.iplsc.com/-/000M9S8ADCNAE6NR-C461.jpg",
+      "publishedAt": "2026-02-01 12:10:30",
+      "content": "W skr\u00f3cie Grzegorz Partyka poinformowa o potwierdzeniu wirusa grypy ptak\u00f3w HPAI 26 stycznia we wsi Lene Chaupy w gminie Tar\u00f3w. Powiatowy lekarz weterynarii wyznaczy stref objt \u2026 [+2133 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.365819",
+      "internal_id": "991ebaf4dd4a6e0502fcf8d7fc3a631a7f497c3d4e8be87764f3f4133f99106e",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27249,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Haig Hovaness",
+      "title": "Links 2/1/2026",
+      "description": "Our strategic daily links: stationary motion, U.S. brain drain, measles, snow drought, Caribbean troubles, Chinese kindergarten, EU confusion, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles,\u2026",
+      "url": "https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Kingfishers.jpg",
+      "publishedAt": "2026-02-01 11:55:13",
+      "content": "This 3D floor in Thailand tricks your senses into feeling movement while you stay still. Daniyanizami11 pic.twitter.com/Og6hDPrkfz Science girl (@sciencegirl) January 30, 2026 Bezos\u2019s Blue Origi\u2026 [+7777 chars]",
+      "retrievedAt": "2026-02-03 07:22:41.968318",
+      "internal_id": "d826839f6040d85acd7c9065031200da9fd41a3a158a45d8d18f407ad2fcf9e3",
       "publishedAtLabel": "Feb 1"
     }
   ]

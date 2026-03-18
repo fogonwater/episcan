@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 33
-- **Last harvest:** 2026-03-17 19:27
-- **Most recent article:** 2026-03-16 19:25:08
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-03-18 07:28
+- **Most recent article:** 2026-03-17 06:32:58
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 7 | 101 | 112 | 111 | 83 | 514 |
-| mpox | 10 | 16 | 4 | 11 | 14 | 25 | 27 | 107 |
+| measles | 70 | 30 | 7 | 105 | 112 | 111 | 83 | 518 |
+| mpox | 10 | 16 | 5 | 11 | 14 | 25 | 27 | 108 |
 | dengue | 22 | 11 | 2 | 16 | 24 | 17 | 15 | 107 |
 | rabies | 18 | 16 | 3 | 8 | 16 | 16 | 14 | 91 |
 | malaria | 16 | 9 | 2 | 15 | 14 | 10 | 11 | 77 |
 | chikungunya | 1 | 7 | 1 | 8 | 12 | 40 | 6 | 75 |
-| meningitis | 4 | 6 | 29 | 2 | 7 | 3 | 5 | 56 |
+| meningitis | 4 | 6 | 35 | 3 | 7 | 3 | 5 | 63 |
 | h5n1 | 2 | 8 | 0 | 12 | 12 | 11 | 4 | 49 |
 | leptospirosis | 2 | 1 | 2 | 3 | 2 | 4 | 3 | 17 |
-| hpai | 2 | 5 | 1 | 0 | 3 | 1 | 2 | 14 |
+| hpai | 2 | 5 | 1 | 1 | 3 | 1 | 2 | 15 |
 | zika | 1 | 2 | 0 | 0 | 3 | 3 | 2 | 11 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
 | yersinia | 2 | 0 | 1 | 1 | 2 | 1 | 1 | 8 |
@@ -1463,6 +1463,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Kano probes diphtheria, meningitis scare in community](https://punchng.com/kano-probes-diphtheria-meningitis-scare-in-community/) (The Punch)
 
+- [Meningitis cases rise in major Midwestern city, prompting public health alert](https://www.foxnews.com/health/meningitis-cases-rise-major-midwestern-city-prompting-public-health-alert) (Fox News)
+
 ## 26-6 (measles)
 
 - [Health officials investigate confirmed measles case at Virginia airport](https://wset.com/news/local/health-officials-investigate-confirmed-measles-case-at-virginia-airport-ronald-regan-washington-national-virginia-department-of-health-2026) (WSET)
@@ -1667,6 +1669,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Video South Carolina's measles outbreak becomes largest in US in years](https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459) (ABC News)
 
+- [‘Prevention becomes the key thing’: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida](https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/) (WJXT News4JAX)
+
+- [World’s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination](https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/) (Inside the Magic)
+
+- [Traveler exposes Disneyland visitors to measles last week](https://www.themeparkinsider.com/flume/202602/12289/) (Theme Park Insider)
+
+- [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
+
 ## 26-6 (malaria)
 
 - [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
@@ -1706,6 +1716,10 @@ Source: [News API](https://newsapi.org/)
 - [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
 
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
+
+## 26-6 (hpai)
+
+- [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-6 (h5n1)
 
@@ -1799,6 +1813,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (mpox)
 
+- [Confirmaron el primer caso en la Argentina de Mpox Clado Ib, una variante más contagiosa y severa de la viruela símica](https://www.lanacion.com.ar/sociedad/confirmaron-el-primer-caso-en-la-argentina-de-mpox-clado-ib-una-variante-mas-contagiosa-y-severa-de-nid17032026/) (La Nacion)
+
 - [Mpox: nova variante resistente a remédio é encontrada](https://saude.ig.com.br/2026-03-16/mpox-nova-variante-resistente-a-remedio-e-encontrada.html) (Ig.com.br)
 
 - [First case of severe mpox disease reported in major city: ‘Life-threatening’](https://www.foxnews.com/health/first-case-severe-mpox-disease-reported-major-city-life-threatening) (Fox News)
@@ -1808,6 +1824,18 @@ Source: [News API](https://newsapi.org/)
 - [Nova cepa do vírus da Mpox recombinante preocupa OMS e testes mostram que antiviral mais usado não é eficaz](https://www.terra.com.br/noticias/nova-cepa-do-virus-da-mpox-recombinante-preocupa-oms-e-testes-mostram-que-antiviral-mais-usado-nao-e-eficaz,e91774cb94cd1f69e3de394533acc16e93fs3nx0.html) (Terra.com.br)
 
 ## 26-12 (meningitis)
+
+- [Why young people are more at risk of spreading meningitis – and is there a vaccine?](https://www.the-independent.com/life-style/health-and-families/health-news/meningococcal-meningitis-outbreak-vaccine-symptoms-b2939878.html) (The-independent.com)
+
+- [Why is meningitis spreading at the University of Kent? #health](https://alltoc.com/health/why-is-meningitis-spreading-at-the-university-of-kent) (Alltoc.com)
+
+- [Meningitis outbreak: Canterbury woman, 22, 'catches disease from sharing vape on super-spreader night out'](https://www.gbnews.com/health/meningitis-outbreak-canterbury-woman-catches-disease-sharing-vape) (Gbnews.com)
+
+- [Meningitis outbreak: Iran war 'may spark medicine shortage' just as UK scrambles to contain deadly disease](https://www.gbnews.com/health/meningitis-outbreak-iran-war-medicine-shortage-disease-kent-university) (Gbnews.com)
+
+- [What is happening in the Kent meningitis outbreak? #health](https://alltoc.com/health/what-is-happening-in-the-kent-meningitis-outbreak) (Alltoc.com)
+
+- [Guía esencial sobre la meningitis: de la detección temprana a la importancia de vacunarse](https://www.montevideo.com.uy/Modo-saludable/Guia-esencial-sobre-la-meningitis-de-la-deteccion-temprana-a-la-importancia-de-vacunarse-uc956138) (Montevideo.com.uy)
 
 - [Meningitis-Ausbruch an Universität und Schule – zwei Tote, mehrere Infizierte](https://www.welt.de/vermischtes/article69b82c3dd64ac9417f490140/grossbritannien-meningitis-ausbruch-an-universitaet-und-schule-zwei-tote-mehrere-infizierte.html) (DIE WELT)
 
