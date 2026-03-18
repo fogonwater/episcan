@@ -1,8 +1,657 @@
 {
-  "last_updated": "2026-03-18 07:28",
-  "count_articles_total": 1134,
-  "count_articles_new": 7,
+  "last_updated": "2026-03-18 19:24",
+  "count_articles_total": 1165,
+  "count_articles_new": 36,
   "articles": [
+    {
+      "id": 28390,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Hospitalised woman describes her meningitis symptoms",
+      "description": "Speaking from her hospital bed, the 21-year-old woman said her symptoms included a headache, hot and cold sweats, achey bones and vomiting.",
+      "url": "https://www.bbc.com/news/videos/c8xyxejx82qo",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0n75q5w.jpg",
+      "publishedAt": "2026-03-17 19:23:14",
+      "content": "A 21-year-old woman, who was amongst those exposed to the meningitis outbreak at Club Chemistry in Canterbury on 12 March, has said she will be \"extra vigilant\" when going out from now on. Two days\u2026 [+489 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.595558",
+      "internal_id": "7698cd1886d7178a3224fe33ddb68535682bd26963c0de2097e1acb68fe1ee2b",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28408,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Was response to 'unprecedented' meningitis outbreak too slow?",
+      "description": "Questions are being asked about whether the NHS and authorities should have raised the alarm sooner.",
+      "url": "https://www.bbc.com/news/articles/cjd9dk2v0z3o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1907/live/c08d7140-2227-11f1-a903-99d6604c4b1e.png",
+      "publishedAt": "2026-03-17 18:33:47",
+      "content": "Meningococcal septicaemia, where patients become seriously ill with blood poisoning and inflammation of the brain, is classed as an urgent notifiable disease. Hospitals are duty bound to inform the h\u2026 [+109 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.065504",
+      "internal_id": "2d3953808d6e1ecf51d7dbaf452386dd8449603b35f4398e33f2a30fcaec0162",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28413,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is there a meningitis outbreak in Kent? #health",
+      "description": "Rapid cluster, a traced source, and a targeted public health response Health authorities in Kent have identified a fast moving cluster of invasive meningococcal disease that has hit young people associated with nightlife and student venues. Two young people h\u2026",
+      "url": "https://alltoc.com/health/why-is-there-a-meningitis-outbreak-in-kent",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-17 18:13:25",
+      "content": "Health authorities in Kent have identified a fast-moving cluster of invasive meningococcal disease that has hit young people associated with nightlife and student venues. Two young people have died a\u2026 [+1792 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.206105",
+      "internal_id": "98783800bce3af583d3b1eee5ab01c73a9b26202d769ab2532266997e076622a",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28387,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Anna Batlle Planas",
+      "title": "El cambio clim\u00e1tico dispara la propagaci\u00f3n de epidemias como el dengue",
+      "description": "El cambio clim\u00e1tico y el calentamiento del planeta son un problema de salud p\u00fablica de primer orden. Los cient\u00edficos y expertos llevan d\u00e9cadas advirti\u00e9ndolo y son varios los estudios que lo confirman, como el caso conocido este 17 de marzo sobre un repunte de\u2026",
+      "url": "https://www.mundodeportivo.com/pulso/20260317/1004154480/cambio-climatico-dispara-propagacion-epidemias-dengue-dct.html",
+      "urlToImage": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/11/02/69073fb8c1165.r_d.2268-2605-0.jpeg",
+      "publishedAt": "2026-03-17 18:11:44",
+      "content": "El cambio clim\u00e1tico y el calentamiento del planeta son un problema de salud p\u00fablica de primer orden. Los cient\u00edficos y expertos llevan d\u00e9cadas advirti\u00e9ndolo y son varios los estudios que lo confirman\u2026 [+2195 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.366179",
+      "internal_id": "40ed070d7aa26a035a1880c157499e351ff8060797de448e782134cf03ea9b9a",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28386,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Martin Amrein (mna)",
+      "title": "INTERVIEW - In einer Tigerm\u00fccke in Basel wurde das Dengue-Virus entdeckt: \u00abWir m\u00fcssen damit rechnen, dass solche Nachweise h\u00e4ufiger werden\u00bb, sagt der M\u00fcckenexperte",
+      "description": "Wissenschafter haben das Dengue-Virus erstmals in einer Stechm\u00fccke n\u00f6rdlich der Alpen aufgesp\u00fcrt. In den n\u00e4chsten Jahren seien auch hier Ansteckungen mit der Krankheit zu erwarten, sagt der Insektenforscher Pie M\u00fcller.",
+      "url": "https://www.nzz.ch/wissenschaft/dengue-virus-in-tigermuecke-in-basel-entdeckt-ld.1929694",
+      "urlToImage": "https://img.nzz.ch/2023/07/13/2c970693-1e0d-46cb-b253-d91731beedc4.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=4054,2280,x866,y530&wmark=nzz",
+      "publishedAt": "2026-03-17 17:29:56",
+      "content": "Wissenschafter haben das Dengue-Virus erstmals in einer Stechm\u00fccke n\u00f6rdlich der Alpen aufgesp\u00fcrt. In den n\u00e4chsten Jahren seien auch hier Ansteckungen mit der Krankheit zu erwarten, sagt der Insektenf\u2026 [+7345 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.351306",
+      "internal_id": "86a2bd6ad7fc73bf650f7d44e2091ae0382bc0f492ddf7a4f3f45bf4eee054b7",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28401,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Dos muertos en una epidemia de meningitis \u00absin precedentes\u00bb en Inglaterra",
+      "description": "Una epidemia de meningitis meningoc\u00f3cica, declarada en la regi\u00f3n inglesa de Canterbury y con quince casos contabilizados, ha causado la muerte de dos j\u00f3venes , seg\u00fan ha anunciado este martes el ministro brit\u00e1nico de Salud, Wes Streeting, que ha calificado el \u2026",
+      "url": "https://www.abc.es/internacional/dos-muertos-epidemia-meningitis-precedentes-inglaterra-20260317172552-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/03/17/Kent-kuhE--1200x630@diario_abc.JPG",
+      "publishedAt": "2026-03-17 16:25:54",
+      "content": "Una epidemia de meningitis meningoc\u00f3cica, declarada en la regi\u00f3n inglesa de Canterbury y con quince casos contabilizados, ha causado la muerte de dos j\u00f3venes, seg\u00fan ha anunciado este martes el minist\u2026 [+1898 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.853646",
+      "internal_id": "49a4e8f633136948af866f48eee0377a42a1d99f6c091dada82439f49b2c1102",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28395,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Agencias",
+      "title": "Preocupaci\u00f3n en Inglaterra: una epidemia de meningitis \"sin precedentes\" deja dos estudiantes muertos",
+      "description": "La mayor\u00eda de los casos est\u00e1n relacionados con la discoteca Club Chemistry, frecuentada por estudiantes de Canterbury. La Universidad de Kent ha suspendido los ex\u00e1menes presenciales Leer",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2026/03/17/69b97d14fdddffce598b459b.html",
+      "urlToImage": "https://e01-phantom-elmundo.uecdn.es/a3ba175d3d26342838a92395b7f23a34/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/17/17737634742677.jpg",
+      "publishedAt": "2026-03-17 16:11:09",
+      "content": "Una epidemia de meningitis meningoc\u00f3cica, declarada en la regi\u00f3n inglesa de Canterbury (sureste) y con quince casos contabilizados, caus\u00f3 la muerte de dos j\u00f3venes, anunci\u00f3 el martes el ministro brit\u00e1\u2026 [+3041 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.696943",
+      "internal_id": "d86143e2676319df2581751b455d5fc5a07d49f0fcc4af4ad016aad9fdacb895",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28405,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "Peter St\u00e4uber",
+      "title": "Zwei Tote: Meningitis-Ausbruch in England beunruhigt Beh\u00f6rden",
+      "description": "Zwei junge Menschen sind an einer Hirnhautentz\u00fcndung gestorben, weitere liegen im Krankenhaus. Eine Universit\u00e4t verteilt Antibiotika.",
+      "url": "https://www.morgenpost.de/politik/article411485122/zwei-tote-meningitis-ausbruch-in-england-beunruhigt-behoerden.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/411482752/411482752_1773761453_v16_9_1600.jpeg",
+      "publishedAt": "2026-03-17 15:30:48",
+      "content": "Ein schwerer Meningitis-Ausbruch im S\u00fcdosten Englands sorgt f\u00fcr Beunruhigung in Gro\u00dfbritannien. Bislang hat die Infektionskrankheit zwei junge Todesopfer gefordert, dreizehn weitere Menschen sind ins\u2026 [+3451 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.994114",
+      "internal_id": "a82e94479734ada448c982ccec53e4154002ac56ed990f51d57ff715fd00f3c8",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28403,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Laura  Krimmer",
+      "title": "Meningitis-Welle in England - Wer sich jetzt noch impfen lassen kann",
+      "description": "In England greift eine Meningitis-Welle um sich. Was bedeutet der Ausbruch f\u00fcr uns in Deutschland? Und sollte man sich jetzt noch schnell impfen lassen?",
+      "url": "https://www.bild.de/leben-wissen/medizin/2-tote-durch-meningitis-welle-das-bringt-die-impfung-69b933d9e3715988144619bb",
+      "urlToImage": "https://images.bild.de/69b933d9e3715988144619bb/6386c5dbf445def2ad205b47a6647dbb,d9797597?w=1280",
+      "publishedAt": "2026-03-17 15:22:46",
+      "content": "TTS-Player \u00fcberspringenArtikel weiterlesenIn Kent (Gro\u00dfbritannien) k\u00e4mpfen die Gesundheitsbeh\u00f6rden gegen einen gef\u00e4hrlichen Meningitis-Ausbruch. Zwei junge Menschen (18, 21) sind bereits gestorben, m\u2026 [+5008 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.937140",
+      "internal_id": "0da0d281ef519065f20c22a98ee9174bcc18670b4bc18282ce88e187c47fad8f",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28397,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Meningitis-Ausbruch in England: Hunderte sollen vorbeugend Antibiotika einnehmen",
+      "description": "Nach einem schweren Meningitis-Ausbruch mit zwei Todesopfern in der britischen Grafschaft Kent sind hunderte Menschen vorbeugend mit Antibiotika versorgt worden. Insgesamt wurden bis Dienstag nach Angaben der Gesundheitsbeh\u00f6rden 15 Infektionsf\u00e4lle best\u00e4tigt, \u2026",
+      "url": "https://www.stern.de/news/meningitis-ausbruch-in-england--hunderte-sollen-vorbeugend-antibiotika-einnehmen-37230138.html",
+      "urlToImage": "https://image.stern.de/37230140/t/77/v1/w1440/r1.7778/-/17--gesundheitsminister-streeting---0d6e4c3326081298.jpg",
+      "publishedAt": "2026-03-17 14:55:16",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Nach einem schweren Meningitis-Ausbruch mit zwei Todesopfern in der britischen Grafschaft Kent sind hunderte Menschen vorbeugend mit Antibiotika \u2026 [+2342 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.753775",
+      "internal_id": "749301923d20d6ba149531a597515d4d3575013832d9a1ce2ffd54e2acbad0c2",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28411,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Olivia Burke",
+      "title": "Health Secretary shares warning about how \u2018unprecedented\u2019 meningitis could be spreading",
+      "description": "Wes Streeting has warned that 'close contact' including vaping, kissing and sharing drinks could be contributing to the spread of the meningitis strain.",
+      "url": "https://www.ladbible.com/news/uk-news/uk-meningitis-outbreak-warning-spreading-kiss-vapes-drinks-kent-437137-20260317",
+      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltfac56b4147a21fbb/69b96460d477230347b59caa/meningitis.jpg",
+      "publishedAt": "2026-03-17 14:29:57",
+      "content": "The UK's Health Secretary has said that snogging and sharing vapes could be facilitating the spread of the 'serious and particularly lethal' strain of meningitis which is doing the rounds. The 'unp\u2026 [+2913 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.136323",
+      "internal_id": "3984509c97284cbb69f753a838dbb62261214a05ba64c9d9e9e229855c54bd86",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28389,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bimandra A. Djaafara, Iqbal R.F. Elyazar, Fadjar S.M. Silalahi, Asik Surya, Agus Handito, Burhannudin Thohir, Desfalina Aryani, Mushtofa Kamal, Aditya L. Ramadona, Dyana Gunawan, Hipokrates, Anzala Khoirun Nisa, Edi Prianto, Iriani Samad, Agus Sugiarto, Kimberly Fornace, Hannah E. Clapham, Nuno R. Faria, Swapnil Mishra",
+      "title": "Dengue transmission heterogeneity across Indonesia\u2019s archipelago: Climate-driven spatiotemporal patterns and policy implications",
+      "description": "Author summary Indonesia reports hundreds of thousands of dengue cases annually, ranking among the highest-burden countries in Southeast Asia. Effective disease control requires understanding when and where outbreaks occur, yet Indonesia\u2019s vast archipelago sp\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014135",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014135.g006&size=inline",
+      "publishedAt": "2026-03-17 14:00:00",
+      "content": "Abstract Indonesia has the highest dengue burden in Southeast Asia, with 488 of 514 districts reporting cases annually across its 17,000-island archipelago. Despite this substantial burden, spatiote\u2026 [+51071 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.409284",
+      "internal_id": "fbf25c12c54d3d4d0f4d5fa323f85ed0056f8bc672c0f16425ead81b3ecf3e7e",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28414,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Xiaoqin He, Yutong Zhang, Junchao Lou, Jingyao Wu, Sui Xu, Guoding Zhu, Jianxia Tang, Yaqun Fang, Jun Cao",
+      "title": "LL-37 selectively targets Plasmodium-infected erythrocytes and exhibits antimalarial activity",
+      "description": "Author summary Malaria remains a life-threatening disease, with rising drug resistance undermining current treatments. Host defense peptides like LL-37 offer promising alternatives, but their anti-malarial mechanisms and safety profiles are not fully understo\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014062",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014062.g006&size=inline",
+      "publishedAt": "2026-03-17 14:00:00",
+      "content": "Introduction Malaria remains one of the most devastating infectious diseases globally. In 2024, the World Health Organization (WHO) estimated that there were 282 million malaria cases, marking an in\u2026 [+74942 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.407353",
+      "internal_id": "d1e8a8ff748059e922ba85c9cec550a3d0d5be1c2f233dbbd096eb57e6d167a0",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28415,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Alexandros Angelakis, Anton Beloconi, Bryan O. Nyawanda, Sammy Khagayi, Simon Kariuki, Stephen Munga, Patrick K. Munywoki, Godfrey Bigogo, Penelope Vounatsou",
+      "title": "Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model",
+      "description": "Author summary Malaria remains a major public health challenge in the lowlands of western Kenya, where intense disease transmission persists despite ongoing control efforts. This persistence is driven by a complex inerplay of factors, including local climate \u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014004.g006&size=inline",
+      "publishedAt": "2026-03-17 14:00:00",
+      "content": "Abstract Despite intensive malaria control efforts, the lowlands of western Kenya continue to experience high malaria transmission. Spatial and temporal variations in climatic factors, interventions\u2026 [+60171 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.422045",
+      "internal_id": "bce14646021ef1b93c778a1a2a625742640afc1bd82c556ffbc909089333229f",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28417,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fatiha Najioullah, Rishika Banydeen, Nicolas Garofalo-Gomez, Cristina Santamaria-Dominguez, Martin Savary, Marion Philbert, Raymond Cesaire, Moustapha Dram\u00e9, Yves Hatchuel",
+      "title": "Chikungunya viral load in cerebrospinal fluid and blood is not associated with severity of neurological manifestations in children",
+      "description": "Author summary Neurological manifestations including encephalitis may complicate chikungunya infection among children. Hypothesizing that the viral load (VL) in blood and cerebrospinal fluid (CSF) could be of interest in understanding the mechanisms that medi\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014112",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014112.g002&size=inline",
+      "publishedAt": "2026-03-17 14:00:00",
+      "content": "Abstract Background Chikungunya virus (CHIKV) can induce severe neurological manifestations in children. Investigating the role of the viral load (VL) in the blood and cerebrospinal fluid (CSF) cou\u2026 [+40603 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.720086",
+      "internal_id": "ac9520fa47506fe4aa87093a8358030bcbee200d52a71a6b3da18e7696897ca8",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28416,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "\u201eF\u00fchlt sich hier sehr wohl\u201c: Graz baut Ma\u00dfnahmen gegen Asiatische Tigerm\u00fccke aus",
+      "description": "2026 sollen bis zu acht Millionen sterile Tigerm\u00fccken-M\u00e4nnchen ausgesetzt werden. Erg\u00e4nzt wird das Pilotprojekt mit dem d\u00e4nischen ZikaSeal durch Kinder als \u201eTigerm\u00fccken-Detektive\u201c und Multiplikatoren.",
+      "url": "https://www.diepresse.com/20685013/graz-baut-massnahmen-gegen-asiatische-tigermuecke-aus",
+      "urlToImage": "https://img.diepresse.com/public/incoming/bz56ei-afp34q244ujpg/alternates/DPR_SOCIAL_NACHRICHTEN/AFP_34Q244U.jpg",
+      "publishedAt": "2026-03-17 13:36:11",
+      "content": "2026 sollen bis zu acht Millionen sterile Tigerm\u00fccken-M\u00e4nnchen ausgesetzt werden. Erg\u00e4nzt wird das Pilotprojekt mit dem d\u00e4nischen ZikaSeal durch Kinder als Tigerm\u00fccken-Detektive und Multiplikatoren. \u2026 [+5155 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.570862",
+      "internal_id": "8baa557e587726c60e99807b2fb0968b064ac73100ae0506052403fadf23a32f",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28399,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "rte",
+      "source_name": "RTE",
+      "author": "RT\u00c9 News",
+      "title": "Kent students to be offered jab after meningitis outbreak",
+      "description": "Students in university halls in Kent are to be offered the meningitis B vaccine, as officials work to stem the spread of infection in an \"unprecedented\" outbreak.",
+      "url": "https://www.rte.ie/news/2026/0317/1563835-meningitis-uk/",
+      "urlToImage": "https://www.rte.ie/images/00241200-1600.jpg",
+      "publishedAt": "2026-03-17 13:35:16",
+      "content": "Students in university halls in Kent are to be offered the meningitis B vaccine, as officials work to stem the spread of infection in an \"unprecedented\" outbreak. British Health Secretary Wes Street\u2026 [+1951 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.823275",
+      "internal_id": "55e13a988e47558f4af8ea7da10b6c1921a636b31f4a45ebb390e00e35d76eaa",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28418,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Camila S\u00fanico Ainchil",
+      "title": "Viruela del mono en la Argentina: cu\u00e1les son los s\u00edntomas de la variante Mpox Clado Ib",
+      "description": "Tras el primer caso confirmado en la Argentina, la atenci\u00f3n est\u00e1 puesta en c\u00f3mo se manifiesta el mpox Clado Ib, una variante asociada a fiebre, ganglios inflamados y lesiones en la piel y las mucosas",
+      "url": "https://www.lanacion.com.ar/sociedad/viruela-del-mono-en-la-argentina-cuales-son-los-sintomas-de-la-variante-mpox-clado-ib-nid17032026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/las-marcas-de-la-viruela-del-N7QKEI3BCFFJ3M5M2DKRR6BBIA.jpg?auth=15a80557b2e6fb3087cfcc9c51e5eb3925019da704a896a69ba26278270d9950&width=1200&quality=85&smart=true&height=675",
+      "publishedAt": "2026-03-17 13:22:16",
+      "content": "La confirmaci\u00f3n del primer caso en la Argentina de mpox Clado Ib puso el foco sobre los s\u00edntomas de esta variante de la viruela s\u00edmica, que qued\u00f3 bajo vigilancia internacional por su mayor transmisib\u2026 [+3756 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.861577",
+      "internal_id": "341347ee4a4229c8d6a1659199de09b948bb64217b3a3fe6449de5b85d3a3cbb",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28404,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Meningitis kills two, hospitalises 13 in UK",
+      "description": "The British health minister on Tuesday described a deadly outbreak of meningitis linked to a nightclub as \u201cunprecedented\u201d after two students died and 13 people were hospitalised. Health Minister Wes Streeting told parliament that the outbreak was a \u201crapidly d\u2026",
+      "url": "https://punchng.com/meningitis-kills-two-hospitalises-13-in-uk/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/04/11123350/650x350_meningitis_what_is_it_ref_guide.jpg",
+      "publishedAt": "2026-03-17 13:06:48",
+      "content": "The British health minister on Tuesday described a deadly outbreak of meningitis linked to a nightclub as \u201cunprecedented\u201d after two students died and 13 people were hospitalised. Health Minister Wes\u2026 [+2268 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.965476",
+      "internal_id": "a1b11f47461d2b92cd534a4ee37d7eac1373ad4338133eb636be14f6b04cd597",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28400,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Order-order.com",
+      "author": "Adam Cherry",
+      "title": "Streeting Announces \u201cTargeted\u201d Vaccination Plan for \u201cUnprecedented\u201d Meningitis Outbreak",
+      "description": "Confirming the UK Health Security Agency\u2019s (UKHSA) plan for a \u2018targeted\u2019 vaccination programme for students who live in Kent University\u2019s Canterbury campus accommodation. The programme \u201cmay expand further\u201d depending on the UKHSA\u2019s risk assessment\u2026",
+      "url": "https://order-order.com/2026/03/17/streeting-announces-targeted-vaccination-plan-for-unprecedented-meningitis-outbreak/",
+      "urlToImage": "https://order-order.com/wp-content/uploads/2026/03/Featured-Images-2026-03-17T125823.965.png",
+      "publishedAt": "2026-03-17 12:58:59",
+      "content": "In Henry Mance\u2019s piece today for the FT, lunching with Nigel Farage: \u201cSplendido! Farage says, when the drinks arrive; I suppose its a step to European reconciliation. We clink glasses, and he lights\u2026 [+327 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.837862",
+      "internal_id": "12a15d47b6d0d3825a239932fea453ef09204aec0e867f8b569e4c8db9fb5e06",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28396,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Parents of teen who died in 2025 call for more government support",
+      "description": "Helen and Lee Draper lost their daughter Megan to meningitis in October 2025.",
+      "url": "https://www.bbc.com/news/videos/cq6qenv7vmvo",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0n73s2n.jpg",
+      "publishedAt": "2026-03-17 12:56:56",
+      "content": "Helen and Lee Draper lost their daughter Megan to meningitis in October 2025. She was a student at Bournemouth University. Her parents later found out she wasn't vaccinated against the strain she ha\u2026 [+276 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.738857",
+      "internal_id": "d70831acb13a38ae48c3642e3cc2970d7b53bbeabfa657805a9ca061a443c44c",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28388,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "MG tem seis mortes por dengue e mais de 8 mil casos confirmados",
+      "description": "O cen\u00e1rio tamb\u00e9m preocupa em rela\u00e7\u00e3o \u00e0 chikungunya. Minas j\u00e1 confirmou 2.306 casos da doen\u00e7a e uma morte",
+      "url": "https://www.metropoles.com/minas-gerais/mg-tem-seis-mortes-por-dengue-e-mais-de-8-mil-casos-confirmados",
+      "urlToImage": "https://i.metroimg.com/QVlnqpLNHt0ignriUSl7FJi5B3W22GXWXp9vCIq17PI/w:1200/q:90/f:webp/plain/https://images.metroimg.com/6a2766bb-aedes-aegypti.-zika-dengue-chikungunya.jpg",
+      "publishedAt": "2026-03-17 12:19:22",
+      "content": "Minas Gerais j\u00e1 registra seis mortes por dengue e mais de 8 mil casos confirmados da doen\u00e7a em 2026, segundo dados atualizados pela Secretaria de Estado de Sa\u00fade (SES-MG). Ao todo, o estado contabil\u2026 [+736 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.381009",
+      "internal_id": "958f62da0827271826f5d366093f90d265253b1b51c840aa128741bc75456779",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28412,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How are officials containing the Kent meningitis outbreak? #health",
+      "description": "Rapid response to a fast moving cluster Health authorities, schools and universities in Kent moved quickly after a cluster of severe bacterial meningitis cases emerged among students and young people. Two people have died and more than a dozen others were rep\u2026",
+      "url": "https://alltoc.com/health/how-are-officials-containing-the-kent-meningitis-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-17 12:12:44",
+      "content": "Health authorities, schools and universities in Kent moved quickly after a cluster of severe bacterial meningitis cases emerged among students and young people. Two people have died and more than a d\u2026 [+1913 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.150747",
+      "internal_id": "8669934402f38b50925163da5b5dc59381a59cefd9abb571ae3377a05c217bc5",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28391,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Experts answer your questions on the outbreak",
+      "description": "Two people have died from meningitis in Kent, while another 11 are in hospital with the infection.",
+      "url": "https://www.bbc.com/news/articles/c75e20l4yzwo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b4d2/live/2cb816e0-21e7-11f1-b297-95b0a0a8331e.jpg",
+      "publishedAt": "2026-03-17 11:59:58",
+      "content": "A university student, 21, and a school pupil, 18, are confirmed to have died in the outbreak, and 11 others are in hospital.",
+      "retrievedAt": "2026-03-18 19:24:38.611373",
+      "internal_id": "da40e0a44008d468180876588b4470dbd38ea29599825d2355c6b78525453f68",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28383,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Unvaccinated 17-year-old dies from Measles",
+      "description": "An unvaccinated 17-year-old boy has died from Measles after his condition deteriorated during hospitalization.The Ministry of Health emphasized that the vaccine against the disease is safe and effective, and urged the public to get vaccinated and seek timely \u2026",
+      "url": "https://www.israelnationalnews.com/flashes/679931",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-03-17 11:37:22",
+      "content": "An unvaccinated 17-year-old boy has died from Measles after his condition deteriorated during hospitalization. The Ministry of Health emphasized that the vaccine against the disease is safe and effe\u2026 [+106 chars]",
+      "retrievedAt": "2026-03-18 19:24:37.687534",
+      "internal_id": "2a7d5a0e569514a67a7f480ac1f5043d7feefc5306bfe4da67cf69c550ed57c6",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28384,
+      "query": [
+        "measles"
+      ],
+      "source_id": "ynet",
+      "source_name": "Ynet",
+      "author": "\u05d0\u05d5\u05e8 \u05d4\u05d3\u05e8",
+      "title": "\u05d1\u05df 17 \u05e9\u05dc\u05d0 \u05d7\u05d5\u05e1\u05df \u05e0\u05e4\u05d8\u05e8 \u05de\u05d7\u05e6\u05d1\u05ea - \u05d4\u05e7\u05d5\u05e8\u05d1\u05df \u05d4\u05de\u05d1\u05d5\u05d2\u05e8 \u05d1\u05d9\u05d5\u05ea\u05e8 \u05d1\u05d2\u05dc \u05d4\u05e0\u05d5\u05db\u05d7\u05d9",
+      "description": "\u05d4\u05e0\u05e2\u05e8 \u05e1\u05d1\u05dc \u05de\u05de\u05d7\u05dc\u05d5\u05ea \u05e8\u05e7\u05e2 \u05d5\u05d4\u05d5\u05d0 \u05d4\u05e7\u05d5\u05e8\u05d1\u05df \u05d4-17 \u05de\u05ea\u05d7\u05d9\u05dc\u05ea \u05d4\u05d4\u05ea\u05e4\u05e8\u05e6\u05d5\u05ea. \u05e8\u05d5\u05d1 \u05de\u05e7\u05e8\u05d9 \u05d4\u05ea\u05de\u05d5\u05ea\u05d4 \u05d4\u05d9\u05d5 \u05d1\u05e7\u05e8\u05d1 \u05ea\u05d9\u05e0\u05d5\u05e7\u05d5\u05ea \u05d5\u05d9\u05dc\u05d3\u05d9\u05dd \u05e9\u05dc\u05d0 \u05d7\u05d5\u05e1\u05e0\u05d5",
+      "url": "https://www.ynet.co.il/health/article/bj6gjh89zl",
+      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/03/08/HyboQIG9jyx/HyboQIG9jyx_0_0_1000_563_0_large.jpg",
+      "publishedAt": "2026-03-17 11:35:29",
+      "content": "17, , . (') . , , . -17 - . (Measles virus), . , . -1,000, . , , 10-7 , , . . , -3000 , - -17,000. 19 .",
+      "retrievedAt": "2026-03-18 19:24:37.710873",
+      "internal_id": "6d5a3a9f49f9fc2c5c29202c4a443521bce3437f0ff29ce0600cac22e4d6720d",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28393,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Gef\u00e4hrliche Bakterien: Meningitis-Ausbruch in Kent - Hunderte erhalten Antibiotika",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eGef\u00e4hrliche Bakterien\u201c. Lesen Sie jetzt \u201eMeningitis-Ausbruch in Kent - Hunderte erhalten Antibiotika\u201c.",
+      "url": "https://www.zeit.de/news/2026-03/17/meningitis-ausbruch-in-kent-hunderte-erhalten-antibiotika",
+      "urlToImage": "https://img.zeit.de/news/2026-03/17/meningitis-ausbruch-in-kent-hunderte-erhalten-antibiotika-image-group/wide__1300x731",
+      "publishedAt": "2026-03-17 11:24:10",
+      "content": "Nach zwei Meningitis-Todesf\u00e4llen werden in der Grafschaft Kent in S\u00fcdengland vorsorglich Hunderte Menschen mit Antibiotika behandelt. Vor den Ausgabestellen bildeten sich lange Schlangen. Wie viele M\u2026 [+1373 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.654044",
+      "internal_id": "6c85e97e72a81ec287c21a0f703c010dc4146d73dcdda29fd1a046c6f7c7c02c",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28407,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gef\u00e4hrliche Bakterien: Meningitis-Ausbruch in Kent - Hunderte erhalten Antibiotika",
+      "description": "Zwei junge Menschen sind bereits gestorben, nun erhalten Hunderte Menschen in Gro\u00dfbritannien vorsorglich Antibiotika. Die Sorge vor weiteren F\u00e4llen ist gro\u00df.",
+      "url": "https://www.stern.de/panorama/wissen/gefaehrliche-bakterien--meningitis-ausbruch-in-kent---hunderte-erhalten-antibiotika-37229014.html",
+      "urlToImage": "https://image.stern.de/37229016/t/Gs/v1/w1440/r1.7778/-/17--m2skhj2qu3v3axs2048jpeg---d2c0ed19c2f29cdd.jpg",
+      "publishedAt": "2026-03-17 11:24:10",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Zwei junge Menschen sind bereits gestorben, nun erhalten Hunderte Menschen in Gro\u00dfbritannien vorsorglich Antibiotika. Die Sorge vor weiteren F\u00e4ll\u2026 [+1546 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.023564",
+      "internal_id": "e346fa088c57962d5889731cdf791b21a38eddfc9967939bfa0861a14565a5c4",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28410,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "S. de Diego",
+      "title": "Un brote mortal de meningitis obliga a la universidad inglesa de Kent a suspender ex\u00e1menes presenciales: hay dos fallecidos",
+      "description": "Hay otros 11 j\u00f3venes hospitalizados y se est\u00e1 administrando antibi\u00f3ticos a cientos de estudiantes como prevenci\u00f3n. El foco podr\u00eda estar en una discoteca. M\u00e1s informaci\u00f3n: Mismas muertes con la mitad de casos: la letalidad del meningococo se dispara en las sei\u2026",
+      "url": "https://www.elespanol.com/mundo/europa/20260317/brote-mortal-meningitis-obliga-universidad-inglesa-kent-suspender-examenes-presenciales-fallecidos/1003744172821_0.html",
+      "urlToImage": "https://s3.elespanol.com/2026/03/17/actualidad/1003744172838_261985683_1706x960.jpg?fmt=jpeg",
+      "publishedAt": "2026-03-17 10:33:39",
+      "content": "La universidad de Kent ha suspendido los ex\u00e1menes presenciales tras un brote de meningitis B que ha causado dos muertes y 11 hospitalizaciones. El brote afecta a estudiantes universitarios y de secu\u2026 [+2266 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.121816",
+      "internal_id": "407925efc6898b15ca9d291727a990221b479e4c50ec5d9684d8967ceeb5eb6d",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28394,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Inside Health",
+      "description": "James Gallagher examines the outbreak of bacterial meningitis in Kent.",
+      "url": "https://www.bbc.co.uk/sounds/play/m002sn3q",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0m1r8h6.jpg",
+      "publishedAt": "2026-03-17 10:00:00",
+      "content": "Available for over a year More than 30,000 people are being contacted in the Canterbury area regarding the outbreak of bacterial meningitis in Kent. Two people have died, and others are seriously il\u2026 [+920 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.668658",
+      "internal_id": "8fc14b484aec792d5da882bc3ff553e243b5b65a3bb11b2040e90c7f775663c7",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28409,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Britt Jones",
+      "title": "\u2018Devastated\u2019 family speak out after daughter, 18, dies in Meningitis outbreak",
+      "description": "The Queen Elizabeth's Grammar School student passed away after contracting Meningitis linked to Club Chemistry in Kent",
+      "url": "https://www.ladbible.com/news/health/family-speak-out-daughter-kent-meningitis-outbreak-death-127173-20260317",
+      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt2933aba947355dcd/69b922544d981a58319c5296/Screenshot_2026-03-17_at_09.06.29.png",
+      "publishedAt": "2026-03-17 09:47:10",
+      "content": "A picture one of the two people confirmed to have died in the meningitis outbreak in Kent, has been pictured. The UK Health Security Agency (UKHSA) is currently investigating the outbreak after the\u2026 [+2686 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.093473",
+      "internal_id": "e46e95665a38a00658d176786938424e44b2247758fac49ae42f7f44301ac647",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28402,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": null,
+      "title": "Ausbruch in Gro\u00dfbritannien - Tausende m\u00fcssen zum Meningitis-Test",
+      "description": "An der Universit\u00e4t von Kent ist Meningitis ausgebrochen. Zwei Menschen sind bereits an der Hirnhautentz\u00fcndung gestorben.",
+      "url": "https://www.bild.de/news/ausland/ausbruch-in-grossbritannien-tausende-muessen-zum-meningitis-test-69b9126f56ad962f523d2e46",
+      "urlToImage": "https://images.bild.de/69b9126f56ad962f523d2e46/ae6a4748e5184ff898e38d290adf2503,53e6f552?w=1280",
+      "publishedAt": "2026-03-17 09:43:42",
+      "content": "+++Norwegischer Palast: Mette-Marits Gesundheitszustand deutlich verschlechtert +++Norwegischer Palast: Mette-Marits Gesundheitszustand deutlich verschlechtert +++Norwegischer Palast: Mette-Marit\u2026 [+617 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.868391",
+      "internal_id": "eb0761c5abf0cafd1b7776ba504aeb70cc7f0832ab1c3350e8a4fe95395a2ad9",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28398,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Elena Santos",
+      "title": "Mueren dos j\u00f3venes por un brote de meningitis en Reino Unido: hay 11 hospitalizados y la Universidad de Kent suspende los ex\u00e1menes",
+      "description": "Un brote de meningitis ha causado la muerte de dos j\u00f3venes y otros 11 est\u00e1n hospitalizados, seg\u00fan las autoridades sanitarias de Reino Unido. Ante esta situaci\u00f3n, la Universidad de Kent ha tomado la decisi\u00f3n de suspender los ex\u00e1menes presenciales d\u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/mueren-dos-jovenes-brote-meningitis-reino-unido-hay-11-hospitalizados-universidad-kent-suspende-examenes-f202603.html",
+      "urlToImage": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2026/03/17/estudiantes-haciendo-cola-en-la-universidad-de-kent-para-recibir-antibioticos-el-16-de-marzo-de-2026.jpeg",
+      "publishedAt": "2026-03-17 09:21:05",
+      "content": "Un brote de meningitis ha causado la muerte de dos j\u00f3venes y otros 11 est\u00e1n hospitalizados, seg\u00fan las autoridades sanitarias de Reino Unido. Ante esta situaci\u00f3n, la Universidad de Kent ha tomado la d\u2026 [+2014 chars]",
+      "retrievedAt": "2026-03-18 19:24:38.768318",
+      "internal_id": "85b3a619cb889da57d6969b7c422a10b3070c2464ca89d6529f83f738cf6c645",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28392,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Father of teen who died of meningitis says family are 'beyond devastated'",
+      "description": "A sixth form pupil and a university student have died, while 11 more are seriously ill in hospital.",
+      "url": "https://www.bbc.com/news/articles/cev7rl437epo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/be67/live/8ff404b0-21e4-11f1-934f-036468834728.jpg",
+      "publishedAt": "2026-03-17 08:52:08",
+      "content": "Juliette's head teacher, Amelia McIlroy, said she was \"a genuinely caring and attentive listener, a true friend who listened with warmth, respect and sincere interest to her peers and to our staff\".",
+      "retrievedAt": "2026-03-18 19:24:38.625946",
+      "internal_id": "8a7c33725273e1b1473efc82a41643e2a616bfe366ef6881f49cf502a4a1d49a",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28385,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Lintang, Kenzu",
+      "title": "Gov't calls for isolation of measles cases during Eid travel",
+      "description": "Deputy Minister of Health Dante Saksono Harbuwono has advised that children infected with measles should be isolated and refrain from gathering with family ...",
+      "url": "https://en.antaranews.com/news/408862/govt-calls-for-isolation-of-measles-cases-during-eid-travel",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/03/17/20260317_111659.jpg",
+      "publishedAt": "2026-03-17 08:27:15",
+      "content": "Jakarta (ANTARA) - Deputy Minister of Health Dante Saksono Harbuwono has advised that children infected with measles should be isolated and refrain from gathering with family members during the 2026 \u2026 [+1970 chars]",
+      "retrievedAt": "2026-03-18 19:24:37.766754",
+      "internal_id": "e789fe45c873060471bc83ba5ed428e21405d3ac4f5708c416a3b81ff8cb0fb8",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28406,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "Joe Harker",
+      "title": "Meningitis strain behind outbreak leaving two dead identified as officials race to prevent nationwide spread",
+      "description": "Some cases of a meningitis outbreak in the UK which have resulted in two deaths have been confirmed as meningitis B",
+      "url": "https://www.ladbible.com/news/uk-news/meningitis-uk-outbreak-two-deaths-592018-20260317",
+      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt5fc10c34dc620049/69b90e2c2e51ea15af25df52/meningitis.jpg",
+      "publishedAt": "2026-03-17 08:24:02",
+      "content": "Health experts have identified a strain of meningitis which is part of the outbreak in Kent that has left two people dead and a further 11 confirmed infected. The UK Health Security Agency (UKHSA) w\u2026 [+2560 chars]",
+      "retrievedAt": "2026-03-18 19:24:39.008800",
+      "internal_id": "1e9edcf7518187f6431badf400ee14c3f0030f0660fb109e6205a0b9b3a50c6d",
+      "publishedAtLabel": "Mar 17"
+    },
     {
       "id": 28382,
       "query": [
@@ -20344,96 +20993,6 @@
       "content": "Chicago health officials are warning residents to be alert for symptoms of meningococcal disease after several recent infections were reported in adults across the city. Seven cases of Neisseria men\u2026 [+2481 chars]",
       "retrievedAt": "2026-02-03 07:22:42.973534",
       "internal_id": "40a379396b659a1f06aab41c2bbb2c808bcb0a6f5afa1102a42d54c4f77f9147",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27260,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WJXT News4JAX",
-      "author": "Aaron Farrar",
-      "title": "\u2018Prevention becomes the key thing\u2019: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida",
-      "description": "The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.",
-      "url": "https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JZVZ7REGJ5E3ZECSG3FSMVVPVY.jpg?_a=DATAg1eAZAA0",
-      "publishedAt": "2026-02-01 18:35:39",
-      "content": "JACKSONVILLE, Fla. The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.\u2026 [+2840 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.224316",
-      "internal_id": "5dfda959fd8b51464816add707145754f0357a5f714c2a82f2a70292089e649c",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27253,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Alessia Dunn",
-      "title": "World\u2019s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination",
-      "description": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, January 28. The announcement comes just days after Orange Count\u2026",
-      "url": "https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/disneyland-hotel-sign-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-01 16:24:23",
-      "content": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, Jan\u2026 [+8173 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.070275",
-      "internal_id": "5e535e7c7f573910801b6f97bda9d1e94aa85de043ffefe322a15b83c4ba95dc",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27254,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Theme Park Insider",
-      "author": null,
-      "title": "Traveler exposes Disneyland visitors to measles last week",
-      "description": "By Robert Niles: Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort last Wednesday.The traveler was from out of the country and arrived at Los\u2026",
-      "url": "https://www.themeparkinsider.com/flume/202602/12289/",
-      "urlToImage": "https://www.themeparkinsider.com/art/flume/12289.jpg",
-      "publishedAt": "2026-02-01 16:04:00",
-      "content": "February 1, 2026, 11:04 AM \u00b7 Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort \u2026 [+1656 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.080184",
-      "internal_id": "de6f02f82a906b4d7f40f0ba7248f8512d4552225ca7936bf68eb661ae895a32",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27262,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Dawid Szczyrbowski",
-      "title": "Ptasia grypa w Polsce. Lekarz weterynarii og\u0142osi\u0142 stref\u0119 zaka\u017cenia",
-      "description": "Ujawniono przypadek ptasiej grypy w woj. \u015bwi\u0119tokrzyskim. Powiatowy lekarz weterynarii w Opatowie og\u0142osi\u0142 \"stref\u0119 obj\u0119t\u0105 zaka\u017ceniem\", kt\u00f3ra dotyczy czterech miejscowo\u015bci w gminie Tar\u0142\u00f3w. Zarz\u0105dzenie wprowadza szereg nakaz\u00f3w i zakaz\u00f3w maj\u0105cych ograniczy\u0107 szerze\u2026",
-      "url": "https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983",
-      "urlToImage": "https://i.iplsc.com/-/000M9S8ADCNAE6NR-C461.jpg",
-      "publishedAt": "2026-02-01 12:10:30",
-      "content": "W skr\u00f3cie Grzegorz Partyka poinformowa o potwierdzeniu wirusa grypy ptak\u00f3w HPAI 26 stycznia we wsi Lene Chaupy w gminie Tar\u00f3w. Powiatowy lekarz weterynarii wyznaczy stref objt \u2026 [+2133 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.365819",
-      "internal_id": "991ebaf4dd4a6e0502fcf8d7fc3a631a7f497c3d4e8be87764f3f4133f99106e",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27249,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Haig Hovaness",
-      "title": "Links 2/1/2026",
-      "description": "Our strategic daily links: stationary motion, U.S. brain drain, measles, snow drought, Caribbean troubles, Chinese kindergarten, EU confusion, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles,\u2026",
-      "url": "https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Kingfishers.jpg",
-      "publishedAt": "2026-02-01 11:55:13",
-      "content": "This 3D floor in Thailand tricks your senses into feeling movement while you stay still. Daniyanizami11 pic.twitter.com/Og6hDPrkfz Science girl (@sciencegirl) January 30, 2026 Bezos\u2019s Blue Origi\u2026 [+7777 chars]",
-      "retrievedAt": "2026-02-03 07:22:41.968318",
-      "internal_id": "d826839f6040d85acd7c9065031200da9fd41a3a158a45d8d18f407ad2fcf9e3",
       "publishedAtLabel": "Feb 1"
     }
   ]
