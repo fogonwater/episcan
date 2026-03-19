@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2026-03-19 07:26
-- **Most recent article:** 2026-03-18 07:23:15
+- **New articles in last harvest:** 37
+- **Last harvest:** 2026-03-19 19:23
+- **Most recent article:** 2026-03-18 18:58:00
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 10 | 105 | 112 | 111 | 83 | 521 |
-| mpox | 10 | 16 | 8 | 11 | 14 | 25 | 27 | 111 |
-| dengue | 22 | 11 | 6 | 16 | 24 | 17 | 15 | 111 |
-| rabies | 18 | 16 | 3 | 8 | 16 | 16 | 14 | 91 |
-| meningitis | 4 | 6 | 62 | 3 | 7 | 3 | 5 | 90 |
-| malaria | 16 | 9 | 4 | 15 | 14 | 10 | 11 | 79 |
-| chikungunya | 1 | 7 | 3 | 8 | 12 | 40 | 6 | 77 |
-| h5n1 | 2 | 8 | 0 | 12 | 12 | 11 | 4 | 49 |
+| measles | 70 | 30 | 12 | 101 | 112 | 111 | 83 | 519 |
+| dengue | 22 | 11 | 11 | 16 | 24 | 17 | 15 | 116 |
+| mpox | 10 | 16 | 9 | 11 | 14 | 25 | 27 | 112 |
+| meningitis | 4 | 6 | 80 | 3 | 7 | 3 | 5 | 108 |
+| rabies | 18 | 16 | 5 | 8 | 16 | 16 | 14 | 93 |
+| malaria | 16 | 9 | 11 | 15 | 14 | 10 | 11 | 86 |
+| chikungunya | 1 | 7 | 4 | 8 | 12 | 40 | 6 | 78 |
+| h5n1 | 2 | 8 | 1 | 12 | 12 | 11 | 4 | 50 |
 | leptospirosis | 2 | 1 | 2 | 3 | 2 | 4 | 3 | 17 |
-| hpai | 2 | 5 | 1 | 1 | 3 | 1 | 2 | 15 |
+| hpai | 2 | 5 | 2 | 0 | 3 | 1 | 2 | 15 |
 | zika | 1 | 2 | 1 | 0 | 3 | 3 | 2 | 12 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
 | yersinia | 2 | 0 | 1 | 1 | 2 | 1 | 1 | 8 |
@@ -1669,14 +1669,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Video South Carolina's measles outbreak becomes largest in US in years](https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459) (ABC News)
 
-- [‘Prevention becomes the key thing’: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida](https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/) (WJXT News4JAX)
-
-- [World’s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination](https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/) (Inside the Magic)
-
-- [Traveler exposes Disneyland visitors to measles last week](https://www.themeparkinsider.com/flume/202602/12289/) (Theme Park Insider)
-
-- [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
-
 ## 26-6 (malaria)
 
 - [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
@@ -1716,10 +1708,6 @@ Source: [News API](https://newsapi.org/)
 - [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
 
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
-
-## 26-6 (hpai)
-
-- [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-6 (h5n1)
 
@@ -1809,6 +1797,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (rabies)
 
+- [‘Do not wait for symptoms’: Noida doctor shares what to do immediately after a dog bite](https://economictimes.indiatimes.com/news/new-updates/do-not-wait-for-symptoms-noida-doctor-shares-what-to-do-immediately-after-a-dog-bite/articleshow/129661020.cms) (The Times of India)
+
+- [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
+
 - [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
 
 - [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
@@ -1816,6 +1808,8 @@ Source: [News API](https://newsapi.org/)
 - [Dipolog: LGU RIZAL NAGSAULOG SA RABIES AWARENESS MONTH PINAAGI SA LIBRENG BAKUNA SA MGA ALAGANG HAYOP](https://rpnradio.com/dipolog-lgu-rizal-nagsaulog-sa-rabies-awareness-month-pinaagi-sa-libreng-bakuna-sa-mga-alagang-hayop/) (Rpnradio.com)
 
 ## 26-12 (mpox)
+
+- [OMS alerta sobre nova variante da mpox e falha do antiviral](https://www.metropoles.com/saude/oms-alerta-nova-variante-mpox-antiviral) (Metropoles.com)
 
 - [Mpox Clado Ib en Argentina: qué es, cómo se contagia y cuáles son los síntomas de la variante de la viruela símica](https://www.lanacion.com.ar/salud/mpox-clado-ib-en-argentina-que-es-como-se-contagia-y-cuales-son-los-sintomas-de-la-variante-de-la-nid17032026/) (La Nacion)
 
@@ -1834,6 +1828,42 @@ Source: [News API](https://newsapi.org/)
 - [Nova cepa do vírus da Mpox recombinante preocupa OMS e testes mostram que antiviral mais usado não é eficaz](https://www.terra.com.br/noticias/nova-cepa-do-virus-da-mpox-recombinante-preocupa-oms-e-testes-mostram-que-antiviral-mais-usado-nao-e-eficaz,e91774cb94cd1f69e3de394533acc16e93fs3nx0.html) (Terra.com.br)
 
 ## 26-12 (meningitis)
+
+- [Krankheiten: Meningitis-Ausbruch in Kent: Auch Fall in Frankreich](https://www.zeit.de/news/2026-03/18/meningitis-ausbruch-in-kent-auch-fall-in-frankreich) (Die Zeit)
+
+- [Why did Kent meningitis outbreak surge fast? #health](https://alltoc.com/health/why-did-kent-meningitis-outbreak-surge-fast) (Alltoc.com)
+
+- [How serious is MenB meningitis in Kent? #health](https://alltoc.com/health/how-serious-is-menb-meningitis-in-kent) (Alltoc.com)
+
+- [Why is this meningitis outbreak so explosive?](https://www.bbc.com/news/articles/cqlglkprv0qo) (BBC News)
+
+- [An 'explosive' meningitis B outbreak has killed two students in the UK. What are the symptoms?](https://www.thejournal.ie/meningitis-b-kent-england-outbreak-6988247-Mar2026/) (TheJournal.ie)
+
+- [Meningitiswelle in England: Premier ruft Club-Besucher zu Antibiotika-Behandlung auf](https://www.stern.de/news/meningitiswelle-in-england--premier-ruft-club-besucher-zu-antibiotika-behandlung-auf-37233664.html) (STERN.de)
+
+- [„Beispielloser“ Meningitis-Ausbruch in England weitet sich aus](https://www.diepresse.com/20687945/beispielloser-meningitis-ausbruch-in-england-weitet-sich-aus) (Diepresse.com)
+
+- [Kent’s meningitis outbreak was years in the making – here’s why](https://theconversation.com/kents-meningitis-outbreak-was-years-in-the-making-heres-why-278003) (The Conversation Africa)
+
+- [Number of suspected meningitis cases rises in UK outbreak](https://www.hurriyetdailynews.com/number-of-suspected-meningitis-cases-rises-in-uk-outbreak-220095) (Hurriyet Daily News)
+
+- [Storbritannien starter vaccination af studerende efter meningitisudbrud](https://www.bt.dk/udland/storbritannien-starter-vaccination-af-studerende-efter-meningitisudbrud) (Www.bt.dk)
+
+- [Qué es la meningitis, el trastorno que ha provocado la muerte de dos estudiantes en Reino Unido y una epidemia "sin precedentes"](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/18/69ba731b21efa07d128b45a3.html) (El Mundo)
+
+- [Officials reassure parents suspected meningitis case not linked to outbreak](https://www.bbc.com/news/articles/cy0d0w2ynw2o) (BBC News)
+
+- [Number of suspected meningitis cases rises in UK outbreak: Official](https://www.channelnewsasia.com/world/number-suspected-meningitis-cases-rises-in-uk-outbreak-official-6001236) (CNA)
+
+- [Meningitis cases in Kent rise amid 'explosive' outbreak](https://www.rte.ie/news/uk/2026/0318/1563909-meningitis-kent/) (RTE)
+
+- [Skræmmende udbrud i Storbritannien: Antallet stiger voldsomt](https://www.bt.dk/udland/skraemmende-udbrud-i-storbritannien-antallet-stiger-voldsomt) (Www.bt.dk)
+
+- [Vaccine drive targets 'super-spreader' event after meningitis kills two people at UK university](https://www.thejournal.ie/university-of-kent-meningitis-outbreak-6988065-Mar2026/) (TheJournal.ie)
+
+- [Watch: Mother 'absolutely shocked' to find daughter had meningitis](https://www.bbc.com/news/videos/crk8k608g18o) (BBC News)
+
+- [Today in Sweden: A roundup of the latest news on Wednesday](https://www.thelocal.se/20260318/today-in-sweden-a-roundup-of-the-latest-news-on-wednesday-238) (The Local Sweden)
 
 - [People most at risk of contracting meningitis as 'unprecedented' outbreak now a 'national incident'](https://www.ladbible.com/news/health/meningitis-outbreak-national-incident-uk-health-kent-university-569359-20260318) (LADbible)
 
@@ -1961,6 +1991,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (measles)
 
+- [Vaccine Policy Failure Is a National Security Risk](https://time.com/article/2026/03/17/america-vaccine-policy-is-a-national-security-risk/) (Time)
+
+- [Two measles cases identified at hospital in central Israel](https://www.israelnationalnews.com/news/424165) (Israelnationalnews.com)
+
 - [Unvaccinated 17-year-old dies from Measles](https://www.israelnationalnews.com/flashes/679931) (Israelnationalnews.com)
 
 - [בן 17 שלא חוסן נפטר מחצבת - הקורבן המבוגר ביותר בגל הנוכחי](https://www.ynet.co.il/health/article/bj6gjh89zl) (Ynet)
@@ -1983,6 +2017,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (malaria)
 
+- [Trauer um Bettina Köster: Malaria!-Sängerin wurde 66 Jahre alt](https://www.stern.de/lifestyle/leute/trauer-um-bettina-koester--malaria--saengerin-wurde-66-jahre-alt-37234636.html) (STERN.de)
+
+- [Sängerin der Band Malaria!: Bettina Köster ist im Alter von 66 Jahren gestorben](https://www.focus.de/kultur/stars/saengerin-der-band-malaria-bettina-koester-ist-im-alter-von-66-jahren-gestorben_f8c8c65f-f128-49df-878b-36d9dbdc0af7.html) (Focus)
+
+- [Ihr Hit war „Kaltes, klares Wasser“ - NDW-Ikone (†66) stirbt in Italien](https://www.bild.de/unterhaltung/musik/neue-deutsche-welle-malaria-ikone-bettina-koester-stirbt-in-italien-69baca103f652f40929618f7) (Bild)
+
+- [„Kaltes klares Wasser“: Musikerin Bettina Köster ist tot](https://www.stern.de/lifestyle/leute/musikerin-bettina-koester-im-alter-von-66-jahren-gestorben-37234292.html) (STERN.de)
+
+- [Nachruf auf Musikerin Bettina Köster: Klare und kalte Königin des Noise](https://taz.de/Nachruf-auf-Musikerin-Bettina-Koester/!6163635/) (taz.de)
+
+- [Zum Tod von Bettina Köster: Legende der West-Berliner Postpunk-Szene](https://www.tagesspiegel.de/kultur/zum-tod-von-bettina-koster-legende-der-west-berliner-postpunk-szene-15372388.html) (Der Tagesspiegel)
+
+- [Coinfection with malaria alters the fecundity and within-host persistence of an intestinal nematode](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013564) (Plos.org)
+
 - [LL-37 selectively targets Plasmodium-infected erythrocytes and exhibits antimalarial activity](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014062) (Plos.org)
 
 - [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
@@ -1999,9 +2047,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (hpai)
 
+- [Research: Highly pathogenic avian influenza: audit of vaccination of commercial ducks in France](https://www.gov.uk/government/publications/highly-pathogenic-avian-influenza-audit-of-vaccination-of-commercial-ducks-in-france) (Www.gov.uk)
+
 - [동물단체 “1000만 닭 묻어버리는 살처분, 옳은가”](https://www.khan.co.kr/article/202603151600001) (Khan.co.kr)
 
+## 26-12 (h5n1)
+
+- [SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la Región Metropolitana](https://www.cnnchile.com/pais/sag-confirma-caso-influenza-aviar-aves-de-traspatio-region-metropolitana_20260318/) (Cnnchile.com)
+
 ## 26-12 (dengue)
+
+- [Felipeh Campos é internado em São Paulo em estado grave](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-e-internado-em-sao-paulo-em-estado-grave) (Metropoles.com)
+
+- [Advancing Dengue Response through One Health](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZHjLY0f1PJE) (YouTube)
+
+- [Noise and neglect: Social-media signals expose attention gaps for dengue, chikungunya, lymphatic filariasis and kala-azar in India’s vector-borne NTDs](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013378) (Plos.org)
+
+- [Para a orquídea durar anos: o truque não é a rega, mas esse cuidado com muitos esquecem](https://catracalivre.com.br/noticias/para-a-orquidea-durar-anos-o-truque-nao-e-a-rega-mas-esse-cuidado-com-muitos-esquecem/) (Catracalivre.com.br)
+
+- [Guía básica sobre el dengue: Qué es, cómo se detecta, cuáles son los síntomas y cómo prevenirlo](https://www.tribuna.com.mx/tendencias/2026/3/18/guia-basica-sobre-el-dengue-que-es-como-se-detecta-cuales-son-los-sintomas-como-prevenirlo-432500.html) (Tribuna.com.mx)
 
 - [El cambio climático dispara la propagación de epidemias como el dengue](https://www.mundodeportivo.com/pulso/20260317/1004154480/cambio-climatico-dispara-propagacion-epidemias-dengue-dct.html) (Mundodeportivo.com)
 
@@ -2016,6 +2080,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Fever क्या है? | Dengue Symptoms, Platelets, Treatment और Diet पूरी जानकारी](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUCMOWCi25q8) (YouTube)
 
 ## 26-12 (chikungunya)
+
+- [Noise and neglect: Social-media signals expose attention gaps for dengue, chikungunya, lymphatic filariasis and kala-azar in India’s vector-borne NTDs](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013378) (Plos.org)
 
 - [Chikungunya viral load in cerebrospinal fluid and blood is not associated with severity of neurological manifestations in children](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014112) (Plos.org)
 
