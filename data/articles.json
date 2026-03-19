@@ -1,8 +1,98 @@
 {
-  "last_updated": "2026-03-18 19:24",
-  "count_articles_total": 1165,
-  "count_articles_new": 36,
+  "last_updated": "2026-03-19 07:26",
+  "count_articles_total": 1175,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 28420,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "LADbible",
+      "author": "James Moorhouse",
+      "title": "People most at risk of contracting meningitis as 'unprecedented' outbreak now a 'national incident'",
+      "description": "The people most at risk of contracting meningitis as the 'unprecedented' outbreak has been declared a 'national incident'",
+      "url": "https://www.ladbible.com/news/health/meningitis-outbreak-national-incident-uk-health-kent-university-569359-20260318",
+      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/bltd389f65c65bfb8ad/69ba4f17c270f81f35e2f70e/meningitis-brain-health-UK-outbreak.jpg",
+      "publishedAt": "2026-03-18 07:23:15",
+      "content": "The outbreak of meningitis at the University of Kent has now been declared a national incident as health experts share their concern about its rapid spread. One sixth former and one university stud\u2026 [+3005 chars]",
+      "retrievedAt": "2026-03-19 07:26:14.887086",
+      "internal_id": "172b40b7ffd8350a8030d4c6d0679b301542d0d5b16b4ce4283884e039687a73",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28421,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What is causing the meningitis outbreak in Kent? #health",
+      "description": "A fast moving bacterial outbreak among students Public health authorities have identified the cause of the recent cluster of severe meningitis cases in Kent as invasive meningococcal disease caused by group B (MenB) bacteria. The outbreak has been centred on \u2026",
+      "url": "https://alltoc.com/health/what-is-causing-the-meningitis-outbreak-in-kent",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-18 06:08:18",
+      "content": "A fast-moving bacterial outbreak among students Public-health authorities have identified the cause of the recent cluster of severe meningitis cases in Kent as invasive meningococcal disease caused \u2026 [+1618 chars]",
+      "retrievedAt": "2026-03-19 07:26:15.025084",
+      "internal_id": "2231c651dda18ffcc3bd0467053af7384368c3001b5d11cc84c1f95c69444816",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28422,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Mpox Clado Ib en Argentina: qu\u00e9 es, c\u00f3mo se contagia y cu\u00e1les son los s\u00edntomas de la variante de la viruela s\u00edmica",
+      "description": "El Ministerio de Salud confirm\u00f3 el primer caso en el pa\u00eds; las autoridades instan a reforzar la vigilancia epidemiol\u00f3gica y explican las medidas preventivas necesarias",
+      "url": "https://www.lanacion.com.ar/salud/mpox-clado-ib-en-argentina-que-es-como-se-contagia-y-cuales-son-los-sintomas-de-la-variante-de-la-nid17032026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-ministerio-de-salud-confirmo-el-primer-caso-de-HOSX22XPJFESHFWWNWD6QYWMOY?auth=afdc11f2271bf544f7f91c917f5b6d836409b90cbe9a70aade1dd7e0e3e54a62&width=1200&quality=85&smart=true&height=675",
+      "publishedAt": "2026-03-17 21:54:05",
+      "content": "La llegada del Clado Ib de Mpox a la Argentina se confirm\u00f3 tras la detecci\u00f3n de un primer caso por parte del Ministerio de Salud. Esta variante, originada en la Rep\u00fablica Democr\u00e1tica del Congo hacia \u2026 [+3069 chars]",
+      "retrievedAt": "2026-03-19 07:26:16.028985",
+      "internal_id": "f4b9a0933a2219448e03a0c832294fbf04f2f69fb2c8b68281d84027a620a063",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28419,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "'Unprecedented' meningitis outbreak being treated as national incident",
+      "description": "Some 15 cases have been reported to the UK Health Security Agency (UKHSA) so far, including two deaths, with the number of cases expected to rise.",
+      "url": "https://news.sky.com/story/meningitis-outbreak-being-treated-as-national-incident-as-health-secretary-warns-spread-is-unprecedented-13521053",
+      "urlToImage": "https://e3.365dm.com/26/03/1600x900/skynews-meningitis-university-of-kent_7195977.jpg?20260317230328",
+      "publishedAt": "2026-03-17 21:42:00",
+      "content": "An outbreak of meningitis is being treated as a national incident after the deaths of a sixth-form pupil and a university student. Thousands of students in Kent are being urged to get vaccines and t\u2026 [+2913 chars]",
+      "retrievedAt": "2026-03-19 07:26:14.772433",
+      "internal_id": "01786d72f586ea2de196d68f01b872073612c39b50e3e96fa89d4066583148c8",
+      "publishedAtLabel": "Mar 17"
+    },
+    {
+      "id": 28423,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Bela Lobato",
+      "title": "Nova cepa do v\u00edrus da Mpox recombinante preocupa OMS e testes mostram que antiviral mais usado n\u00e3o \u00e9 eficaz",
+      "description": "No Brasil, n\u00e3o h\u00e1 registro de mortes por mpox em 2024 e 2025, mas a confirma\u00e7\u00e3o de uma nova cepa muda o risco da doen\u00e7a no pa\u00eds",
+      "url": "https://super.abril.com.br/saude/nova-cepa-do-virus-da-mpox-recombinante-preocupa-oms-e-testes-mostram-que-antiviral-mais-usado-nao-e-eficaz/",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2026/03/1703-Mpox-layout_site.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-03-17 21:00:58",
+      "content": "M\u00eas do Consumidor: Super por apenas 9,90No Brasil, n\u00e3o h\u00e1 registro de mortes por mpox em 2024 e 2025, mas a confirma\u00e7\u00e3o de uma nova cepa muda o risco da doen\u00e7a no pa\u00eds Por Klinger Soares Fa\u00edco Filho\u2026 [+7867 chars]",
+      "retrievedAt": "2026-03-19 07:26:16.041459",
+      "internal_id": "901c5427cb4900abcafb929703ed60f72e03ef5d0b5b55e58341786d7eb44552",
+      "publishedAtLabel": "Mar 17"
+    },
     {
       "id": 28390,
       "query": [
@@ -20993,6 +21083,96 @@
       "content": "Chicago health officials are warning residents to be alert for symptoms of meningococcal disease after several recent infections were reported in adults across the city. Seven cases of Neisseria men\u2026 [+2481 chars]",
       "retrievedAt": "2026-02-03 07:22:42.973534",
       "internal_id": "40a379396b659a1f06aab41c2bbb2c808bcb0a6f5afa1102a42d54c4f77f9147",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27260,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Aaron Farrar",
+      "title": "\u2018Prevention becomes the key thing\u2019: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida",
+      "description": "The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.",
+      "url": "https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JZVZ7REGJ5E3ZECSG3FSMVVPVY.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2026-02-01 18:35:39",
+      "content": "JACKSONVILLE, Fla. The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.\u2026 [+2840 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.224316",
+      "internal_id": "5dfda959fd8b51464816add707145754f0357a5f714c2a82f2a70292089e649c",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27253,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Alessia Dunn",
+      "title": "World\u2019s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination",
+      "description": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, January 28. The announcement comes just days after Orange Count\u2026",
+      "url": "https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/disneyland-hotel-sign-steven-miller-flickr.jpg",
+      "publishedAt": "2026-02-01 16:24:23",
+      "content": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, Jan\u2026 [+8173 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.070275",
+      "internal_id": "5e535e7c7f573910801b6f97bda9d1e94aa85de043ffefe322a15b83c4ba95dc",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27254,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Theme Park Insider",
+      "author": null,
+      "title": "Traveler exposes Disneyland visitors to measles last week",
+      "description": "By Robert Niles: Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort last Wednesday.The traveler was from out of the country and arrived at Los\u2026",
+      "url": "https://www.themeparkinsider.com/flume/202602/12289/",
+      "urlToImage": "https://www.themeparkinsider.com/art/flume/12289.jpg",
+      "publishedAt": "2026-02-01 16:04:00",
+      "content": "February 1, 2026, 11:04 AM \u00b7 Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort \u2026 [+1656 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.080184",
+      "internal_id": "de6f02f82a906b4d7f40f0ba7248f8512d4552225ca7936bf68eb661ae895a32",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27262,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Dawid Szczyrbowski",
+      "title": "Ptasia grypa w Polsce. Lekarz weterynarii og\u0142osi\u0142 stref\u0119 zaka\u017cenia",
+      "description": "Ujawniono przypadek ptasiej grypy w woj. \u015bwi\u0119tokrzyskim. Powiatowy lekarz weterynarii w Opatowie og\u0142osi\u0142 \"stref\u0119 obj\u0119t\u0105 zaka\u017ceniem\", kt\u00f3ra dotyczy czterech miejscowo\u015bci w gminie Tar\u0142\u00f3w. Zarz\u0105dzenie wprowadza szereg nakaz\u00f3w i zakaz\u00f3w maj\u0105cych ograniczy\u0107 szerze\u2026",
+      "url": "https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983",
+      "urlToImage": "https://i.iplsc.com/-/000M9S8ADCNAE6NR-C461.jpg",
+      "publishedAt": "2026-02-01 12:10:30",
+      "content": "W skr\u00f3cie Grzegorz Partyka poinformowa o potwierdzeniu wirusa grypy ptak\u00f3w HPAI 26 stycznia we wsi Lene Chaupy w gminie Tar\u00f3w. Powiatowy lekarz weterynarii wyznaczy stref objt \u2026 [+2133 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.365819",
+      "internal_id": "991ebaf4dd4a6e0502fcf8d7fc3a631a7f497c3d4e8be87764f3f4133f99106e",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27249,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Haig Hovaness",
+      "title": "Links 2/1/2026",
+      "description": "Our strategic daily links: stationary motion, U.S. brain drain, measles, snow drought, Caribbean troubles, Chinese kindergarten, EU confusion, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles,\u2026",
+      "url": "https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Kingfishers.jpg",
+      "publishedAt": "2026-02-01 11:55:13",
+      "content": "This 3D floor in Thailand tricks your senses into feeling movement while you stay still. Daniyanizami11 pic.twitter.com/Og6hDPrkfz Science girl (@sciencegirl) January 30, 2026 Bezos\u2019s Blue Origi\u2026 [+7777 chars]",
+      "retrievedAt": "2026-02-03 07:22:41.968318",
+      "internal_id": "d826839f6040d85acd7c9065031200da9fd41a3a158a45d8d18f407ad2fcf9e3",
       "publishedAtLabel": "Feb 1"
     }
   ]
