@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 37
-- **Last harvest:** 2026-03-19 19:23
-- **Most recent article:** 2026-03-18 18:58:00
+- **New articles in last harvest:** 18
+- **Last harvest:** 2026-03-20 07:24
+- **Most recent article:** 2026-03-19 05:47:06
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 12 | 101 | 112 | 111 | 83 | 519 |
-| dengue | 22 | 11 | 11 | 16 | 24 | 17 | 15 | 116 |
+| measles | 70 | 30 | 16 | 105 | 112 | 111 | 83 | 527 |
+| dengue | 22 | 11 | 16 | 16 | 24 | 17 | 15 | 121 |
+| meningitis | 4 | 6 | 85 | 3 | 7 | 3 | 5 | 113 |
 | mpox | 10 | 16 | 9 | 11 | 14 | 25 | 27 | 112 |
-| meningitis | 4 | 6 | 80 | 3 | 7 | 3 | 5 | 108 |
 | rabies | 18 | 16 | 5 | 8 | 16 | 16 | 14 | 93 |
-| malaria | 16 | 9 | 11 | 15 | 14 | 10 | 11 | 86 |
+| malaria | 16 | 9 | 13 | 15 | 14 | 10 | 11 | 88 |
 | chikungunya | 1 | 7 | 4 | 8 | 12 | 40 | 6 | 78 |
-| h5n1 | 2 | 8 | 1 | 12 | 12 | 11 | 4 | 50 |
+| h5n1 | 2 | 8 | 2 | 12 | 12 | 11 | 4 | 51 |
 | leptospirosis | 2 | 1 | 2 | 3 | 2 | 4 | 3 | 17 |
-| hpai | 2 | 5 | 2 | 0 | 3 | 1 | 2 | 15 |
-| zika | 1 | 2 | 1 | 0 | 3 | 3 | 2 | 12 |
+| hpai | 2 | 5 | 2 | 1 | 3 | 1 | 2 | 16 |
+| zika | 1 | 2 | 2 | 0 | 3 | 3 | 2 | 13 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
 | yersinia | 2 | 0 | 1 | 1 | 2 | 1 | 1 | 8 |
 | pertussis | 1 | 2 | 0 | 1 | 1 | 0 | 0 | 5 |
@@ -1669,6 +1669,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Video South Carolina's measles outbreak becomes largest in US in years](https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459) (ABC News)
 
+- [‘Prevention becomes the key thing’: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida](https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/) (WJXT News4JAX)
+
+- [World’s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination](https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/) (Inside the Magic)
+
+- [Traveler exposes Disneyland visitors to measles last week](https://www.themeparkinsider.com/flume/202602/12289/) (Theme Park Insider)
+
+- [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
+
 ## 26-6 (malaria)
 
 - [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
@@ -1708,6 +1716,10 @@ Source: [News API](https://newsapi.org/)
 - [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
 
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
+
+## 26-6 (hpai)
+
+- [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-6 (h5n1)
 
@@ -1789,6 +1801,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (zika)
 
+- [北おおさか信用金庫に感謝状を贈呈 豊中つばさ公園『ma-zika』整備に貢献](https://prtimes.jp/main/html/rd/p/000000970.000078420.html) (Prtimes.jp)
+
 - [„Fühlt sich hier sehr wohl“: Graz baut Maßnahmen gegen Asiatische Tigermücke aus](https://www.diepresse.com/20685013/graz-baut-massnahmen-gegen-asiatische-tigermuecke-aus) (Diepresse.com)
 
 ## 26-12 (yersinia)
@@ -1828,6 +1842,16 @@ Source: [News API](https://newsapi.org/)
 - [Nova cepa do vírus da Mpox recombinante preocupa OMS e testes mostram que antiviral mais usado não é eficaz](https://www.terra.com.br/noticias/nova-cepa-do-virus-da-mpox-recombinante-preocupa-oms-e-testes-mostram-que-antiviral-mais-usado-nao-e-eficaz,e91774cb94cd1f69e3de394533acc16e93fs3nx0.html) (Terra.com.br)
 
 ## 26-12 (meningitis)
+
+- [UK meningitis outbreak — should Europe be worried?](https://www.politico.eu/article/uk-meningitis-outbreak-should-europe-be-worried-united-kingdom/) (POLITICO.eu)
+
+- [NiMet’s meningitis alert: Curbing a recurring tragedy](https://punchng.com/nimets-meningitis-alert-curbing-a-recurring-tragedy/) (The Punch)
+
+- [UK races to contain meningitis outbreak in Kent after two deaths](https://japantoday.com/category/world/uk-races-to-contain-meningitis-outbreak-in-kent-after-two-deaths2) (Japan Today)
+
+- [Watch: Why this 'unprecedented' outbreak isn't another Covid](https://www.bbc.com/news/videos/c5yqyq1jgneo) (BBC News)
+
+- [Risk of meningitis spreading through Europe ‘very low’ despite fatal outbreak in England](https://www.irishtimes.com/health/2026/03/18/risk-of-meningitis-spreading-through-europe-very-low-despite-fatal-outbreak-in-england/) (The Irish Times)
 
 - [Krankheiten: Meningitis-Ausbruch in Kent: Auch Fall in Frankreich](https://www.zeit.de/news/2026-03/18/meningitis-ausbruch-in-kent-auch-fall-in-frankreich) (Die Zeit)
 
@@ -1991,6 +2015,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (measles)
 
+- [Heading to Bali, Vietnam or Thailand? Why a measles vaccine is more important than ever](https://theconversation.com/heading-to-bali-vietnam-or-thailand-why-a-measles-vaccine-is-more-important-than-ever-278310) (The Conversation Africa)
+
+- [麻しん（はしか）に注意 | 日本感染症学会](https://www.kansensho.or.jp/jaid_measles_warning/jaid_measles_warning-2.html) (Kansensho.or.jp)
+
+- [Measles confirmed in Weld County resident, possible exposure in Loveland](https://www.denverpost.com/2026/03/18/colorado-measles-weld-loveland-uchealth/) (The Denver Post)
+
+- [Latvia records first measles outbreak since 2018](https://www.thestar.com.my/news/world/2026/03/19/latvia-records-first-measles-outbreak-since-2018) (The Star Online)
+
 - [Vaccine Policy Failure Is a National Security Risk](https://time.com/article/2026/03/17/america-vaccine-policy-is-a-national-security-risk/) (Time)
 
 - [Two measles cases identified at hospital in central Israel](https://www.israelnationalnews.com/news/424165) (Israelnationalnews.com)
@@ -2016,6 +2048,10 @@ Source: [News API](https://newsapi.org/)
 - [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
 
 ## 26-12 (malaria)
+
+- [Westberliner Kultband: Trauer um Bettina Köster: Malaria!-Sängerin wurde 66 Jahre alt](https://www.n-tv.de/leute/Trauer-um-Bettina-Koester-Malaria-Saengerin-wurde-66-Jahre-alt-id30486780.html) (N-tv.de)
+
+- [Malaria resurgence feared as Africa faces funding decline](https://punchng.com/malaria-resurgence-feared-as-africa-faces-funding-decline/) (The Punch)
 
 - [Trauer um Bettina Köster: Malaria!-Sängerin wurde 66 Jahre alt](https://www.stern.de/lifestyle/leute/trauer-um-bettina-koester--malaria--saengerin-wurde-66-jahre-alt-37234636.html) (STERN.de)
 
@@ -2053,9 +2089,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (h5n1)
 
+- [SAG confirma un nuevo caso de influenza aviar H5N1 en Chile](https://www.latercera.com/pulso/noticia/confirma-un-nuevo-caso-de-influenza-aviar-h5n1-en-chile/) (Latercera.com)
+
 - [SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la Región Metropolitana](https://www.cnnchile.com/pais/sag-confirma-caso-influenza-aviar-aves-de-traspatio-region-metropolitana_20260318/) (Cnnchile.com)
 
 ## 26-12 (dengue)
+
+- [KOMMENTAR - Erstmals wurde das Dengue-Virus in einer Tigermücke nördlich der Alpen nachgewiesen. Es ist höchste Zeit, dass wir gegen die Plagegeister vorgehen](https://www.nzz.ch/meinung/erstmals-wurde-das-dengue-virus-in-einer-tigermuecke-noerdlich-der-alpen-nachgewiesen-es-ist-hoechste-zeit-dass-wir-entschieden-gegen-die-plagegeister-vorgehen-ld.1929874) (Www.nzz.ch)
+
+- [Estado de Felipeh Campos é atualizado após internação: leia nota](https://www.metropoles.com/celebridades/stado-de-felipeh-campos-e-atualizado-apos-internacao-leia-nota) (Metropoles.com)
+
+- [Urgente: Felipeh Campos é internado com quadro de saúde grave](https://www.terra.com.br/diversao/tv/urgente-felipeh-campos-e-internado-com-quadro-de-saude-grave,f8792af959ac83597001b210cb4f8021t8poc39q.html) (Terra.com.br)
+
+- [Inundaciones elevan riesgos sanitarios en Ecuador; dengue y agua contaminada, entre las principales amenazas](https://www.elcomercio.com/actualidad/ecuador/inundaciones-elevan-riesgos-sanitarios-en-ecuador-dengue-y-agua-contaminada-entre-las-principales-amenazas/) (Elcomercio.com)
+
+- [Saiba por que Felipeh Campos está internado em estado grave](https://www.metropoles.com/celebridades/saiba-o-motivo-da-internacao-de-felipeh-campos) (Metropoles.com)
 
 - [Felipeh Campos é internado em São Paulo em estado grave](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-e-internado-em-sao-paulo-em-estado-grave) (Metropoles.com)
 

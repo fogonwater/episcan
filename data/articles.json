@@ -1,8 +1,332 @@
 {
-  "last_updated": "2026-03-19 19:23",
-  "count_articles_total": 1207,
-  "count_articles_new": 37,
+  "last_updated": "2026-03-20 07:24",
+  "count_articles_total": 1230,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 28461,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Niall Johnston, Conjoint Associate Lecturer, Faculty of Medicine, UNSW Sydney, Phoebe Williams, Paediatrician & Infectious Diseases Physician; Senior Lecturer & NHMRC Fellow, Faculty of Medicine, University of Sydney",
+      "title": "Heading to Bali, Vietnam or Thailand? Why a measles vaccine is more important than ever",
+      "description": "Easter holidays are around the corner. Here\u2019s why it\u2019s a good time to check if you\u2019ve been vaccinated against measles if you\u2019re about to head overseas.",
+      "url": "https://theconversation.com/heading-to-bali-vietnam-or-thailand-why-a-measles-vaccine-is-more-important-than-ever-278310",
+      "urlToImage": "https://images.theconversation.com/files/724827/original/file-20260318-57-dnrvap.jpg?ixlib=rb-4.1.0&rect=0%2C213%2C1920%2C960&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-03-19 05:47:06",
+      "content": "SeaDragon VietNam/Pexels If you\u2019re planning an Easter holiday to Bali, Vietnam or Thailand, it\u2019s a good time to check if you and your family are vaccinated against measles. These are among destinat\u2026 [+5767 chars]",
+      "retrievedAt": "2026-03-20 07:24:46.013787",
+      "internal_id": "22802b4fda2956c74569bdaeee3de8ba6ef1bd4458b5511a698d670ed1859b98",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28478,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u5317\u304a\u304a\u3055\u304b\u4fe1\u7528\u91d1\u5eab\u306b\u611f\u8b1d\u72b6\u3092\u8d08\u5448 \u8c4a\u4e2d\u3064\u3070\u3055\u516c\u5712\u300ema-zika\u300f\u6574\u5099\u306b\u8ca2\u732e",
+      "description": "[\u8c4a\u4e2d\u5e02] \u8c4a\u4e2d\u5e02\u3067\u306f\u3001\u307e\u3061\u306e\u5c06\u6765\u50cf\u300c\u307f\u3089\u3044\u5275\u9020\u90fd\u5e02 \u3068\u3088\u306a\u304b\uff5e\u660e\u65e5\u304c\u3082\u3063\u3068\u697d\u3057\u307f\u306a\u307e\u3061\uff5e\u300d\u306e\u5b9f\u73fe\u306b\u5411\u3051\u3001\u4f01\u696d\u7248\u3075\u308b\u3055\u3068\u7d0d\u7a0e\u306a\u3069\u3001\u3055\u307e\u3056\u307e\u306a\u304b\u305f\u3061\u3067\u5e02\u306e\u53d6\u308a\u7d44\u307f\u3092\u5fdc\u63f4\u3044\u305f\u3060\u3051\u308b\u4f01\u696d\u3068\u306e\u5354\u50cd\u3092\u9032\u3081\u3066\u3044\u307e\u3059\u3002 ...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000970.000078420.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/78420/970/78420-970-5fa56b8d12592622b1556cea7dde1b0b-1193x895.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-03-19 05:33:52",
+      "content": "Copyright \u00a9 PR TIMES Corporation All Rights Reserved.",
+      "retrievedAt": "2026-03-20 07:24:48.728759",
+      "internal_id": "8a7f8a2e65e6f5abece22bf39df81f34b63061a1ba5a39d890ef5a2011588574",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28474,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "POLITICO.eu",
+      "author": "Helen Collis",
+      "title": "UK meningitis outbreak \u2014 should Europe be worried?",
+      "description": "Two people have died and 27 have fallen ill. Health officials are issuing antibiotics and vaccine doses.",
+      "url": "https://www.politico.eu/article/uk-meningitis-outbreak-should-europe-be-worried-united-kingdom/",
+      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/03/18/GettyImages-2266380310-scaled.jpg",
+      "publishedAt": "2026-03-19 05:00:00",
+      "content": "In Europe, 12 countries routinely offer the vaccine to infants for free the Czech Republic, Finland, France, Germany, Greece, Ireland, Italy, Lithuania, Luxembourg, Malta, Portugal and Spain. Croat\u2026 [+836 chars]",
+      "retrievedAt": "2026-03-20 07:24:47.861910",
+      "internal_id": "58293706b8b69ed6d474767d7d6deb8ddb167a826beb6a3a118416f3274cd795",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28470,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Martin Amrein (mna)",
+      "title": "KOMMENTAR - Erstmals wurde das Dengue-Virus in einer Tigerm\u00fccke n\u00f6rdlich der Alpen nachgewiesen. Es ist h\u00f6chste Zeit, dass wir gegen die Plagegeister vorgehen",
+      "description": "Die Tessiner Bev\u00f6lkerung macht es vor, wie sich die Asiatische Tigerm\u00fccke in Schach halten l\u00e4sst. Diesen Fleiss braucht es auch in der Nordschweiz und in Deutschland.",
+      "url": "https://www.nzz.ch/meinung/erstmals-wurde-das-dengue-virus-in-einer-tigermuecke-noerdlich-der-alpen-nachgewiesen-es-ist-hoechste-zeit-dass-wir-entschieden-gegen-die-plagegeister-vorgehen-ld.1929874",
+      "urlToImage": "https://img.nzz.ch/2026/03/18/cab4c775-3130-49ac-a240-918f4aa7a6d4.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y100&wmark=nzz",
+      "publishedAt": "2026-03-19 04:30:00",
+      "content": "Die Tessiner Bev\u00f6lkerung macht es vor, wie sich die Asiatische Tigerm\u00fccke in Schach halten l\u00e4sst. Diesen Fleiss braucht es auch in der Nordschweiz und in Deutschland. 19.03.2026, 05.30 Uhr Braucht \u2026 [+4391 chars]",
+      "retrievedAt": "2026-03-20 07:24:47.159847",
+      "internal_id": "22562d7ebdacc511a19faa9616eafd7080588b2da8bfe18a53d6f9424f82f725",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28462,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kansensho.or.jp",
+      "author": null,
+      "title": "\u9ebb\u3057\u3093\uff08\u306f\u3057\u304b\uff09\u306b\u6ce8\u610f | \u65e5\u672c\u611f\u67d3\u75c7\u5b66\u4f1a",
+      "description": "\u9ebb\u3057\u3093\uff08\u306f\u3057\u304b\uff09\u304c\u4e16\u754c\u30fb\u56fd\u5185\u3067 \u5897\u52a0\u3057\u3066\u3044\u307e\u3059 \u7c73\u56fd\u30fb\u82f1\u56fd\u3092\u306f\u3058\u3081\u4e16\u754c\u5404\u5730\u3067\u9ebb\u3057\u3093\u306e\u6d41\u884c\u304c\u62e1\u5927\u3057\u3066\u3044\u307e\u3059\u3002\u65e5\u672c\u3067\u3082\u611f\u67d3\u5831\u544a\u304c\u6025\u5897\u3057\u3066\u3044\u307e\u3059\u3002 \u9ebb\u3057\u3093\u306f\u611f\u67d3\u529b\u304c\u6975\u3081\u3066\u5f37\u304f\u3001\u9069\u5207\u306a\u30ef\u30af\u30c1\u30f3\u63a5\u7a2e\u3092\u53d7\u3051\u3066\u3044\u306a\u3051\u308c\u3070\u8ab0\u3067\u3082\u611f\u67d3\u3059\u308b\u30ea\u30b9\u30af\u304c\u3042\u308a\u307e\u3059\u3002 \u672c\u5b66\u4f1a\u306f\u56fd\u6c11\u306e\u7686\u69d8\u306b\u3001\u6700\u65b0\u60c5\u5831\u3068\u9069\u5207\u306a\u5bfe\u5fdc\u306b\u3064\u3044\u3066\u304a\u4f1d\u3048\u3057\u307e\u3059\u3002",
+      "url": "https://www.kansensho.or.jp/jaid_measles_warning/jaid_measles_warning-2.html",
+      "urlToImage": null,
+      "publishedAt": "2026-03-19 04:28:02",
+      "content": "Measles virus90%CDC: Epidemiology and Prevention of Vaccine-Preventable Diseases, Pink Book R= 12181090%CDC Pink Book",
+      "retrievedAt": "2026-03-20 07:24:46.036205",
+      "internal_id": "b0ec40e74986b3f6ba8b0c46bf5e5e94b2fb999e771a459eb16b86786eedfcc9",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28464,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Denver Post",
+      "author": "Katie Langford",
+      "title": "Measles confirmed in Weld County resident, possible exposure in Loveland",
+      "description": "A Weld County resident has a confirmed case of the measles and may have exposed people at a northern Colorado hospital to the virus this week, public health officials said Wednesday.",
+      "url": "https://www.denverpost.com/2026/03/18/colorado-measles-weld-loveland-uchealth/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2026/02/Education_Measles_Absenteeism_59689.jpg?w=1024&h=683",
+      "publishedAt": "2026-03-19 02:14:28",
+      "content": "A Weld County resident has a confirmed case of the measles and may have exposed people at a northern Colorado hospital to the virus this week, public health officials said Wednesday. The resident, a\u2026 [+1841 chars]",
+      "retrievedAt": "2026-03-20 07:24:46.170945",
+      "internal_id": "5770629e722efa50804232bf70783fd3b0bba6db53e616ad1b09cbd5c507b686",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28477,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "N-tv.de",
+      "author": "n-tv NACHRICHTEN",
+      "title": "Westberliner Kultband: Trauer um Bettina K\u00f6ster: Malaria!-S\u00e4ngerin wurde 66 Jahre alt",
+      "description": "Die Musikerin Bettina K\u00f6ster ist tot. Die Frontfrau der Berliner Kultband \"Malaria!\" starb im Alter von 66 Jahren. Mit ihrer Band \"Malaria!\" pr\u00e4gte K\u00f6ster die fr\u00fchen 1980er Jahre.",
+      "url": "https://www.n-tv.de/leute/Trauer-um-Bettina-Koester-Malaria-Saengerin-wurde-66-Jahre-alt-id30486780.html",
+      "urlToImage": "https://www.n-tv.de/img/30486779/1773881068/Img_16_9/1200/Malaria-die-Berliner-Frauen-Band-live-auf-der-Documenta-7-am-20-06-1982-im-Friedericianum-Kassel.jpg",
+      "publishedAt": "2026-03-18 23:45:16",
+      "content": "Westberliner KultbandTrauer um Bettina K\u00f6ster: Malaria!-S\u00e4ngerin wurde 66 Jahre alt Bettina K\u00f6ster und Schlagzeugerin Gudrun Gut 1982 auf der Documenta in Kassel. (Foto: picture-alliance / Jazzarchi\u2026 [+2138 chars]",
+      "retrievedAt": "2026-03-20 07:24:48.363494",
+      "internal_id": "cde0617b0ed6eb0b113a08ac07d130266ae9d2914ebb8b461cd8efba9a069d43",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28472,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "NiMet\u2019s meningitis alert: Curbing a recurring tragedy",
+      "description": "NiMet issues a serious alert on the high risk of meningitis in Nigeria. Learn about the causes, symptoms, and why proactive measures are crucial to curb th Read More: https://punchng.com/nimets-meningitis-alert-curbing-a-recurring-tragedy/",
+      "url": "https://punchng.com/nimets-meningitis-alert-curbing-a-recurring-tragedy/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/03/18230931/Greg-Odogwu-1200x630.jpg",
+      "publishedAt": "2026-03-18 23:35:32",
+      "content": "The recent warning issued by the Nigerian Meteorological Agency about the heightened risk of cerebrospinal meningitis in parts of Nigeria should not be treated as a routine seasonal advisory. It is, \u2026 [+8370 chars]",
+      "retrievedAt": "2026-03-20 07:24:47.769997",
+      "internal_id": "9c40e64edb0c9995d9c896027866993b121a3dc4e8c648a0a38027178b587fd0",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28476,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Malaria resurgence feared as Africa faces funding decline",
+      "description": "African leaders warn of a malaria resurgence due to a major funding crisis, threatening decades of progress and risking millions of lives across the contin Read More: https://punchng.com/malaria-resurgence-feared-as-africa-faces-funding-decline/",
+      "url": "https://punchng.com/malaria-resurgence-feared-as-africa-faces-funding-decline/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/27021705/malaria.jpg",
+      "publishedAt": "2026-03-18 23:24:47",
+      "content": "African leaders have raised fresh concerns over a deepening funding crisis threatening efforts to eliminate malaria, warning that the continent risks losing decades of progress if urgent action is no\u2026 [+5067 chars]",
+      "retrievedAt": "2026-03-20 07:24:48.294151",
+      "internal_id": "5ea8a91088ea292c6de7db375d0391f28da33000485e1b5281f68d315910e75c",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28468,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Estado de Felipeh Campos \u00e9 atualizado ap\u00f3s interna\u00e7\u00e3o: leia nota",
+      "description": "O jornalista Felipeh Campos foi internado em S\u00e3o Paulo com quadro severo de dengue",
+      "url": "https://www.metropoles.com/celebridades/stado-de-felipeh-campos-e-atualizado-apos-internacao-leia-nota",
+      "urlToImage": "https://i.metroimg.com/dv1Egxhu61jzixi7TyU1vqwXjZU0RniIRYu0WygVJlM/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2025/09/22115433/3-1711.jpg",
+      "publishedAt": "2026-03-18 22:41:39",
+      "content": "O jornalista Felipeh Campos, de 52 anos, foi internado nesta quarta-feira (18/3) ap\u00f3s um quadro severo de dengue. Em nota enviada ao Metr\u00f3poles, ele atualizou o estado de sa\u00fade e informou que n\u00e3o h\u00e1 \u2026 [+1471 chars]",
+      "retrievedAt": "2026-03-20 07:24:47.035270",
+      "internal_id": "751439d668f7c32bb9ba3601afcf77942da90d4e0d292ece28d716a7f3756424",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28466,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Famosos e Celebridades",
+      "title": "Urgente: Felipeh Campos \u00e9 internado com quadro de sa\u00fade grave",
+      "description": "O apresentador Felipeh Campos est\u00e1 internado em estado cr\u00edtico ap\u00f3s sofrer uma hemorragia causada por um quadro grave de dengue",
+      "url": "https://www.terra.com.br/diversao/tv/urgente-felipeh-campos-e-internado-com-quadro-de-saude-grave,f8792af959ac83597001b210cb4f8021t8poc39q.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/18/1195217940-1773868502.jpg",
+      "publishedAt": "2026-03-18 22:12:30",
+      "content": "Nesta quarta-feira (18), o apresentador Felipeh Campos foi internado em um hospital particular em S\u00e3o Paulo. O jornalista apresenta um caso grave de dengue. Sua contagem de plaquetas est\u00e1 em 25 mil,\u2026 [+848 chars]",
+      "retrievedAt": "2026-03-20 07:24:46.979287",
+      "internal_id": "d9d771424774759110b7736ae808be7bb97fb4e7f2fe706fda85614235c529fb",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28467,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Elcomercio.com",
+      "author": "Luc\u00eda V\u00e1sconez",
+      "title": "Inundaciones elevan riesgos sanitarios en Ecuador; dengue y agua contaminada, entre las principales amenazas",
+      "description": "Las inundaciones en Ecuador elevan el riesgo de dengue y enfermedades por agua contaminada. Conozca las recomendaciones del MSP.",
+      "url": "https://www.elcomercio.com/actualidad/ecuador/inundaciones-elevan-riesgos-sanitarios-en-ecuador-dengue-y-agua-contaminada-entre-las-principales-amenazas/",
+      "urlToImage": "https://media.elcomercio.com/wp-content/uploads/2026/03/inundaciones-2026.jpg",
+      "publishedAt": "2026-03-18 21:40:48",
+      "content": "Suscr\u00edbete a nuestro canal de WhatsApp y recibe noticias al instante, directo en tu celular.",
+      "retrievedAt": "2026-03-20 07:24:47.020926",
+      "internal_id": "2b2ef3b814db760fdb5eb32f9cf8b27a2347dc47119eceebb015538025e04ae3",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28475,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Japan Today",
+      "author": null,
+      "title": "UK races to contain meningitis outbreak in Kent after two deaths",
+      "description": "Britain will roll out meningitis vaccines to students at a university in southeast England after an &quot;unprecedented&quot; outbreak of the disease killed two people \u200cwhile the number of new cases jumped to 20. The UK Health Security Agency said all those a\u2026",
+      "url": "https://japantoday.com/category/world/uk-races-to-contain-meningitis-outbreak-in-kent-after-two-deaths2",
+      "urlToImage": null,
+      "publishedAt": "2026-03-18 21:40:43",
+      "content": "Britain will roll out meningitis vaccines to students at a university in southeast England after an \"unprecedented\" outbreak of the disease killed two people while the number of new cases jumped to 2\u2026 [+2895 chars]",
+      "retrievedAt": "2026-03-20 07:24:47.902847",
+      "internal_id": "c11340a42b8addb6edf3a3fda6661d43a95a33fb06461a4eef68af056e2a2166",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28469,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Saiba por que Felipeh Campos est\u00e1 internado em estado grave",
+      "description": "Felipeh Campos foi internado nesta quarta-feira (18/3), em S\u00e3o Paulo, em estado grave",
+      "url": "https://www.metropoles.com/celebridades/saiba-o-motivo-da-internacao-de-felipeh-campos",
+      "urlToImage": "https://i.metroimg.com/Qow3J1vfIfVTrRORU1yVlNqmlhWGusJiKuy3mH2pzEY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/felipeh-campos-internado-hospital-sao-paulo-estado-grave-1.jpg",
+      "publishedAt": "2026-03-18 20:32:46",
+      "content": "O jornalista Felipeh Campos foi internado nesta quarta-feira (18/3) em estado grave. Segundo informa\u00e7\u00f5es da coluna F\u00e1bia Oliveira, do Metr\u00f3poles, o comunicador est\u00e1 com um quadro cr\u00edtico de dengue. \u2026 [+900 chars]",
+      "retrievedAt": "2026-03-20 07:24:47.090644",
+      "internal_id": "130c5570273bf0a668eb250137bf53590dc7f19ab75ecc071d90c964462bb6a2",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28465,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Latercera.com",
+      "author": "Emiliano Carrizo",
+      "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile",
+      "description": "El caso fue detectado por el SAG en aves de traspatio de la Regi\u00f3n Metropolitana y se descart\u00f3 que exista la presencia del virus en aves para consumo masivo.",
+      "url": "https://www.latercera.com/pulso/noticia/confirma-un-nuevo-caso-de-influenza-aviar-h5n1-en-chile/",
+      "urlToImage": "https://www.latercera.com/resizer/v2/RG64K52IPRHRTCMWG6I57LLAXY.jpg?auth=e5d8b56f24dc380a943d149b195dba33310bdaae037484554058ecc2ca1bcf9e&height=630&width=1200&smart=true",
+      "publishedAt": "2026-03-18 20:21:39",
+      "content": "El Servicio Agr\u00edcola y Ganadero (SAG) detect\u00f3 un caso de influenza aviar H5N1 tras la denuncia de muerte de aves dom\u00e9sticas. La situaci\u00f3n fue confirmada tras un an\u00e1lisis de laboratorio. En detalle,\u2026 [+1618 chars]",
+      "retrievedAt": "2026-03-20 07:24:46.639567",
+      "internal_id": "49253bbb490b05e5fd538c20bdbb3bb377599cdea9adcce07c525abf7d67907a",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28471,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Watch: Why this 'unprecedented' outbreak isn't another Covid",
+      "description": "Meningitis infections result from close and prolonged physical contact and spreads more slowly than Covid.",
+      "url": "https://www.bbc.com/news/videos/c5yqyq1jgneo",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0n7fhxh.jpg",
+      "publishedAt": "2026-03-18 19:51:43",
+      "content": "Meningitis typically occurs as isolated one-off cases, but the outbreak in Kent is being described as \"unprecedented\" because there have been 20 cases since the weekend. However, this infection requ\u2026 [+183 chars]",
+      "retrievedAt": "2026-03-20 07:24:47.350536",
+      "internal_id": "fb66713614c66111e388f55fbd4d259859b4a1cabebe4c5e2f13cdfc89ba442c",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28473,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Shauna Bowers",
+      "title": "Risk of meningitis spreading through Europe \u2018very low\u2019 despite fatal outbreak in England",
+      "description": "UK Health Security Agency said two people had died during an outbreak of meningitis in Kent",
+      "url": "https://www.irishtimes.com/health/2026/03/18/risk-of-meningitis-spreading-through-europe-very-low-despite-fatal-outbreak-in-england/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/4VORNDUO7VIOCK2X7LJWSTYPZM.jpg?smart=true&auth=528b4244f426a50b71eb9d44d199f2770dda904424cb424b0c9739c4e91458b2&width=1200&height=630",
+      "publishedAt": "2026-03-18 19:51:22",
+      "content": "The risk of an outbreak of meningitis in Europe is very low, the European infectious disease body has said, after an explosive number of cases were reported in England. On March 15th, the UK Health \u2026 [+2447 chars]",
+      "retrievedAt": "2026-03-20 07:24:47.797453",
+      "internal_id": "9b8e36212fcdd802b6f57094203635906cfc4e4fc84a75b638ec04b6c952278c",
+      "publishedAtLabel": "Mar 18"
+    },
+    {
+      "id": 28463,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "Chen Yufen, Ieva Burchika, Malahova Polina",
+      "title": "Latvia records first measles outbreak since 2018",
+      "description": "RIGA, March 18 (Xinhua) -- Latvia has recorded its first measles outbreak since 2018, Ilze Udre, a spokesperson for the Centre for Disease Prevention and Control (CDC) noted Wednesday. Read full story",
+      "url": "https://www.thestar.com.my/news/world/2026/03/19/latvia-records-first-measles-outbreak-since-2018",
+      "urlToImage": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+      "publishedAt": "2026-03-18 19:51:00",
+      "content": "RIGA, March 18 (Xinhua) -- Latvia has recorded its first measles outbreak since 2018, Ilze Udre, a spokesperson for the Centre for Disease Prevention and Control (CDC) noted Wednesday. She pointed \u2026 [+1249 chars]",
+      "retrievedAt": "2026-03-20 07:24:46.091972",
+      "internal_id": "7003e37fc7f579c8c2adb15114a5950d5fd8a2ea6a33eaf442c5ede8f6196d66",
+      "publishedAtLabel": "Mar 18"
+    },
     {
       "id": 28454,
       "query": [
@@ -21750,6 +22074,96 @@
       "content": "Chicago health officials are warning residents to be alert for symptoms of meningococcal disease after several recent infections were reported in adults across the city. Seven cases of Neisseria men\u2026 [+2481 chars]",
       "retrievedAt": "2026-02-03 07:22:42.973534",
       "internal_id": "40a379396b659a1f06aab41c2bbb2c808bcb0a6f5afa1102a42d54c4f77f9147",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27260,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Aaron Farrar",
+      "title": "\u2018Prevention becomes the key thing\u2019: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida",
+      "description": "The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.",
+      "url": "https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JZVZ7REGJ5E3ZECSG3FSMVVPVY.jpg?_a=DATAg1eAZAA0",
+      "publishedAt": "2026-02-01 18:35:39",
+      "content": "JACKSONVILLE, Fla. The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.\u2026 [+2840 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.224316",
+      "internal_id": "5dfda959fd8b51464816add707145754f0357a5f714c2a82f2a70292089e649c",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27253,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Alessia Dunn",
+      "title": "World\u2019s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination",
+      "description": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, January 28. The announcement comes just days after Orange Count\u2026",
+      "url": "https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/disneyland-hotel-sign-steven-miller-flickr.jpg",
+      "publishedAt": "2026-02-01 16:24:23",
+      "content": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, Jan\u2026 [+8173 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.070275",
+      "internal_id": "5e535e7c7f573910801b6f97bda9d1e94aa85de043ffefe322a15b83c4ba95dc",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27254,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Theme Park Insider",
+      "author": null,
+      "title": "Traveler exposes Disneyland visitors to measles last week",
+      "description": "By Robert Niles: Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort last Wednesday.The traveler was from out of the country and arrived at Los\u2026",
+      "url": "https://www.themeparkinsider.com/flume/202602/12289/",
+      "urlToImage": "https://www.themeparkinsider.com/art/flume/12289.jpg",
+      "publishedAt": "2026-02-01 16:04:00",
+      "content": "February 1, 2026, 11:04 AM \u00b7 Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort \u2026 [+1656 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.080184",
+      "internal_id": "de6f02f82a906b4d7f40f0ba7248f8512d4552225ca7936bf68eb661ae895a32",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27262,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Dawid Szczyrbowski",
+      "title": "Ptasia grypa w Polsce. Lekarz weterynarii og\u0142osi\u0142 stref\u0119 zaka\u017cenia",
+      "description": "Ujawniono przypadek ptasiej grypy w woj. \u015bwi\u0119tokrzyskim. Powiatowy lekarz weterynarii w Opatowie og\u0142osi\u0142 \"stref\u0119 obj\u0119t\u0105 zaka\u017ceniem\", kt\u00f3ra dotyczy czterech miejscowo\u015bci w gminie Tar\u0142\u00f3w. Zarz\u0105dzenie wprowadza szereg nakaz\u00f3w i zakaz\u00f3w maj\u0105cych ograniczy\u0107 szerze\u2026",
+      "url": "https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983",
+      "urlToImage": "https://i.iplsc.com/-/000M9S8ADCNAE6NR-C461.jpg",
+      "publishedAt": "2026-02-01 12:10:30",
+      "content": "W skr\u00f3cie Grzegorz Partyka poinformowa o potwierdzeniu wirusa grypy ptak\u00f3w HPAI 26 stycznia we wsi Lene Chaupy w gminie Tar\u00f3w. Powiatowy lekarz weterynarii wyznaczy stref objt \u2026 [+2133 chars]",
+      "retrievedAt": "2026-02-03 07:22:42.365819",
+      "internal_id": "991ebaf4dd4a6e0502fcf8d7fc3a631a7f497c3d4e8be87764f3f4133f99106e",
+      "publishedAtLabel": "Feb 1"
+    },
+    {
+      "id": 27249,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Nakedcapitalism.com",
+      "author": "Haig Hovaness",
+      "title": "Links 2/1/2026",
+      "description": "Our strategic daily links: stationary motion, U.S. brain drain, measles, snow drought, Caribbean troubles, Chinese kindergarten, EU confusion, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles,\u2026",
+      "url": "https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html",
+      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Kingfishers.jpg",
+      "publishedAt": "2026-02-01 11:55:13",
+      "content": "This 3D floor in Thailand tricks your senses into feeling movement while you stay still. Daniyanizami11 pic.twitter.com/Og6hDPrkfz Science girl (@sciencegirl) January 30, 2026 Bezos\u2019s Blue Origi\u2026 [+7777 chars]",
+      "retrievedAt": "2026-02-03 07:22:41.968318",
+      "internal_id": "d826839f6040d85acd7c9065031200da9fd41a3a158a45d8d18f407ad2fcf9e3",
       "publishedAtLabel": "Feb 1"
     }
   ]
