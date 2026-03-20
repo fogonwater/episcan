@@ -1,8 +1,260 @@
 {
-  "last_updated": "2026-03-20 07:24",
-  "count_articles_total": 1230,
-  "count_articles_new": 18,
+  "last_updated": "2026-03-20 19:19",
+  "count_articles_total": 1239,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 28492,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Presse-citron",
+      "author": "Camille Coirault",
+      "title": "Virus Mpox : une souche plus virulente appara\u00eet \u00e0 New York, faut-il s\u2019inqui\u00e9ter ?",
+      "description": "Un seul cas. Un seul et unique cas pour l'instant, mais sa localisation est suffisante pour alerter les \u00e9pid\u00e9miologistes.",
+      "url": "https://www.presse-citron.net/virus-mpox-souche-virulente-apparait-new-york-faut-il-sinquieter/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2026/03/Mpox-1600x900.jpg",
+      "publishedAt": "2026-03-19 19:04:57",
+      "content": "Vous souvenez-vous du Mpox, cet agent pathog\u00e8ne, auparavant appel\u00e9 variole du singe ? C\u2019est un virus du m\u00eame genre que celui responsable de la variole humaine (Orthopoxvirus), \u00e9radiqu\u00e9e en 1980, qui \u2026 [+4479 chars]",
+      "retrievedAt": "2026-03-20 19:19:10.545958",
+      "internal_id": "946adcb200545f448cb5aa3085ca9fcd119ffcb2ad4928ed9412d6e8f96065ae",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28480,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Catharine Coleborne, Professor of History, School of Humanities, Creative Industries and Social Sciences, University of Newcastle",
+      "title": "Friday essay: my mother survived polio \u2013 stories like hers show why vaccination matters",
+      "description": "As a child, Catharine Coleborne\u2019s mother spent a year in bed with polio. Stories like hers reveal why we can\u2019t afford to go backwards on vaccination.",
+      "url": "https://theconversation.com/friday-essay-my-mother-survived-polio-stories-like-hers-show-why-vaccination-matters-272443",
+      "urlToImage": "https://images.theconversation.com/files/724912/original/file-20260319-71-f81m4x.png?ixlib=rb-4.1.0&rect=0%2C72%2C1600%2C800&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-03-19 19:04:32",
+      "content": "Wikimedia Commons/Author supplied Measles cases have already been reported in most states in Australia this year. Cases tripled here last year, compared with the previous one. It\u2019s hard to believe j\u2026 [+18646 chars]",
+      "retrievedAt": "2026-03-20 19:19:08.480637",
+      "internal_id": "08e95d81b3366d2d8ee861a935c6034b87ab41982d838361f34831fd6bdb6a22",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28486,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Huge queues for jabs as meningitis vaccination scheme expanded",
+      "description": "Some queueing for vaccines at the University of Kent were turned away on Thursday.",
+      "url": "https://www.bbc.com/news/articles/cwyk44px2j5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1ec6/live/a454f210-23b1-11f1-9a4e-e13728524fa3.jpg",
+      "publishedAt": "2026-03-19 17:32:03",
+      "content": "With confirmed and suspected cases now at 27, sixth form students in Kent where confirmed or probable cases have been identified are also eligible, along with anyone who has been offered preventative\u2026 [+34 chars]",
+      "retrievedAt": "2026-03-20 19:19:09.574916",
+      "internal_id": "f6e789180a644c8eb796507ccf01486c1cf2a1797472eb43609792415673df63",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28479,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "Varnar f\u00f6r hundk\u00f6p \u2013 risk f\u00f6r rabies",
+      "description": "Jordbruksverket varnar f\u00f6r att k\u00f6pa hund fr\u00e5n l\u00e4nder d\u00e4r rabiessituationen inte \u00e4r under kontroll. Myndigheten meddelar ocks\u00e5 att kontrollerna ska ut\u00f6kas efter",
+      "url": "https://www.aftonbladet.se/nyheter/a/pBPylE/varnar-for-hundkop-risk-for-rabies",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/b0bb8fe5-5518-4eb2-bc37-77ec33400414?fit=crop&format=auto&h=1163&q=50&w=1900&s=223981b7521bae00bbb89f3f881fd4b48692e04e",
+      "publishedAt": "2026-03-19 17:19:35",
+      "content": "Jordbruksverket varnar f\u00f6r att k\u00f6pa hund fr\u00e5n l\u00e4nder d\u00e4r rabiessituationen inte \u00e4r under kontroll. Myndigheten meddelar ocks\u00e5 att kontrollerna ska ut\u00f6kas efter ett par h\u00e4ndelser. Jordbruksverket me\u2026 [+568 chars]",
+      "retrievedAt": "2026-03-20 19:19:08.215742",
+      "internal_id": "180f6656b431aff0d5155dd70327298822ac12a656e9c7d61fe25baefcc03d9d",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28482,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u0915\u0947\u0930\u0932\u092e \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u093e \u0915\u094b\u0939\u0930\u093e\u092e, 20 \u0939\u091c\u093e\u0930 \u092a\u0915\u094d\u0937\u093f\u092f\u094b\u0902 \u0915\u094b \u092e\u093e\u0930\u0928\u0947 \u0915\u093e \u0906\u0926\u0947\u0936",
+      "description": "\u0915\u0947\u0930\u0932\u092e \u0915\u0947 \u0905\u0932\u093e\u092a\u094d\u092a\u0941\u091d\u093e \u0914\u0930 \u0915\u094b\u091d\u093f\u0915\u094b\u0921 \u091c\u093f\u0932\u094b\u0902 \u092e\u0947\u0902 \u092c\u0930\u094d\u0921 \u092b\u094d\u0932\u0942 \u0915\u0940 \u092a\u0941\u0937\u094d\u091f\u093f \u0939\u094b\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u092a\u094d\u0930\u0936\u093e\u0938\u0928 \u0928\u0947 20,000 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u0918\u0930\u0947\u0932\u0942 \u092a\u0915\u094d\u0937\u093f\u092f\u094b\u0902 \u0915\u094b \u092e\u093e\u0930\u0928\u0947 \u0915\u093e \u0906\u0926\u0947\u0936 \u0926\u093f\u092f\u093e \u0939\u0948. \u0938\u0902\u0915\u094d\u0930\u092e\u0923 \u0930\u094b\u0915\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u092d\u093e\u0935\u093f\u0924 \u0907\u0932\u093e\u0915\u094b\u0902 \u092e\u0947\u0902 \u091a\u093f\u0915\u0928 \u0914\u0930 \u0905\u0902\u0921\u0947 \u0915\u0940 \u092c\u093f\u0915\u094d\u0930\u0940 \u092a\u0930 \u0930\u094b\u0915 \u0932\u0917\u093e \u0926\u0940 \u0917\u0908 \u0939\u0948. \u0935\u093f\u0936\u0947\u0937\u091c\u094d\u091e\u094b\u0902 \u0928\u0947 \u0938\u0932\u093e\u0939 \u0926\u0940 \u0939\u0948 \u0915\u093f \u092e\u093e\u0902\u0938 \u2026",
+      "url": "https://www.aajtak.in/india/news/story/alappuzha-kozhikode-bird-flu-alert-h5n1-confirmed-in-kerala-ntc-dhrj-dskc-2501571-2026-03-19",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202603/69bc21ccb39eb-h5n1-bird-flu-virus-191815420-16x9.jpg",
+      "publishedAt": "2026-03-19 16:18:25",
+      "content": "() - . , (H5N1) . , 20,000 . , . , . (PTI) , 7 , . - , 5,961 . - . 21 , . . , . , 14,228 . (NIHSAD) . , . , . . , . . . 70 3 5 , . . , , , . . . . 21 .",
+      "retrievedAt": "2026-03-20 19:19:08.947157",
+      "internal_id": "87beda6b48fa8acaf3faaa0850ea44a3fea8c2c3db1bf56e23d5fa1512f8ca72",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28484,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Govt urges local levels to launch dengue awareness drive as summer begins",
+      "description": "KATHMANDU: With the onset of the summer season, the government has directed local levels at high risk of dengue infection to launch awareness programs aimed at prevention and control. According to the Ministry of Health and Population Nepal, the directive was\u2026",
+      "url": "https://english.khabarhub.com/2026/19/540031/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2026-03-19 13:15:39",
+      "content": "KATHMANDU: With the onset of the summer season, the government has directed local levels at high risk of dengue infection to launch awareness programs aimed at prevention and control. According to t\u2026 [+1087 chars]",
+      "retrievedAt": "2026-03-20 19:19:09.255891",
+      "internal_id": "f557bd65144e235ae0486ad7a380d9691f580cb7087a336e660c22534d66c84b",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28483,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Luis Alfredo Robles",
+      "title": "La regi\u00f3n del Mayo busca protegerse del dengue y sarampi\u00f3n: Alcalde de Navojoa",
+      "description": "Jorge Alberto El\u00edas Retes fue el alcalde anfitri\u00f3n de esta reuni\u00f3n regional intersectorial donde participaron presientes municipales de Etchojoa, \u00c1lamos y Huatabampo",
+      "url": "https://www.tribuna.com.mx/sonora/2026/3/19/la-region-del-mayo-busca-protegerse-del-dengue-sarampion-alcalde-de-navojoa-432637.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/19/f1280x720-497257_628932_4860.png",
+      "publishedAt": "2026-03-19 12:00:00",
+      "content": "Navojoa, Sonora.- Alcaldes del sur de Sonora mantuvieron una primera reuni\u00f3n regional intersectorial para abordar temas de salud como el dengue, rickettsia y sarampi\u00f3n junto a la Jurisdicci\u00f3n Sanitar\u2026 [+843 chars]",
+      "retrievedAt": "2026-03-20 19:19:09.194580",
+      "internal_id": "1f2475c58870726cd1a6aab478bd92666f832b23779f5f17e8c09fd45aa535d2",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28489,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Scientists discover tiny rocket engines inside malaria parasites",
+      "description": "Malaria parasites contain tiny spinning crystals that have puzzled scientists for years. New research reveals they\u2019re powered by a rocket-like reaction that breaks down hydrogen peroxide, releasing energy. This motion may help the parasite detoxify harmful ch\u2026",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260318033111.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/aedes-aegypti-mosquito-sucking-blood-human-skin.webp",
+      "publishedAt": "2026-03-19 11:19:27",
+      "content": "The malaria parasite is packed with tiny crystals that spin nonstop, a strange behavior that puzzled scientists for decades.Researchers have now discovered that these crystals are po\u2026 [+5546 chars]",
+      "retrievedAt": "2026-03-20 19:19:09.992223",
+      "internal_id": "2d12d16135ccd2393e7bfa00349ca4d1cb5c5fb971421319ae9fef258dcb55d2",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28488,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Philip Broadbent, The Conversation",
+      "title": "Meningitis Outbreak Exposes UK's Decade-Long Gap in Protection",
+      "description": "Two young people are dead and 20 are receiving treatment after a meningitis outbreak at the University of Kent.",
+      "url": "https://www.sciencealert.com/meningitis-outbreak-exposes-uks-decade-long-gap-in-protection",
+      "urlToImage": "https://www.sciencealert.com/images/2026/03/Neisseria-meningitidis-bacteria-in-yellow.jpg",
+      "publishedAt": "2026-03-19 11:00:46",
+      "content": "Two young people are dead and 20 are receiving treatment after a meningitis outbreak at the University of Kent. The students caught up in it belong to a generation that has never been routinely vacci\u2026 [+5454 chars]",
+      "retrievedAt": "2026-03-20 19:19:09.657719",
+      "internal_id": "b3a5d5b93b1b9303e5b76ff063920ec143b8001708b293eef63f3bfc45096253",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28490,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Laut.de",
+      "author": "Michael Schuh",
+      "title": "Malaria!: Bettina K\u00f6ster ist tot",
+      "description": "F\u00fcr John Peel war sie die \"Queen of Noise\": Nun ist die Berlinerin, die mit Malaria! Geschichte geschrieben hat (\"Kaltes klares Wasser\"), gestorben.",
+      "url": "https://laut.de/News/Malaria!-Bettina-Koester-ist-tot-19-03-2026-21660",
+      "urlToImage": "https://laut.de/News/Malaria!-Bettina-Koester-ist-tot-19-03-2026-21660/malaria-bettina-koester-ist-tot-249832.jpg",
+      "publishedAt": "2026-03-19 09:32:57",
+      "content": "F\u00fcr John Peel war sie die \"Queen of Noise\": Nun ist die Berlinerin, die mit Malaria! Geschichte geschrieben hat (\"Kaltes klares Wasser\"), gestorben. Konstanz (mis) - Der britische Kult-DJ John Peel \u2026 [+4167 chars]",
+      "retrievedAt": "2026-03-20 19:19:10.018569",
+      "internal_id": "19d6f39c62fdfb87e7fae1395e3f25c99d5fb8948af1d5dbc2671964155d77a7",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28481,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "Kerala bird flu scare: Nearly 6,000 birds to be culled from March 21. Authorities on high alert",
+      "description": "Kerala bird flu scare: Bird flu (H5N1) has been confirmed in Alappuzha's Muhamma grama panchayat, prompting authorities to cull over 5,000 birds. Rapid response teams are implementing containment measures within a one-kilometre radius of the epicentre. The pu\u2026",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/kerala-bird-flu-scare-nearly-6000-birds-to-be-culled-from-march-21-authorities-on-high-alert/articleshow/129675665.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129675846,width-1200,height-630,imgsize-1532171,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-19 09:21:47",
+      "content": "Bird flu (H5N1) has been confirmed in Ward 7 of Alappuzha's Muhamma grama panchayat, prompting authorities to initiate immediate containment measures in accordance with the Government of Indias 2021 \u2026 [+2105 chars]",
+      "retrievedAt": "2026-03-20 19:19:08.937315",
+      "internal_id": "a2454db3e992bce91229fe019d5ba5c187ce7161e7102c6efc655312ae153124",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28485,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Dazed",
+      "author": "Halima Jibril",
+      "title": "How to not freak out about meningitis, according to an expert",
+      "description": "Following the outbreak of the meningococcal disease at the University of Kent, we spoke to The Meningitis Research Foundation about how best to protect yourself and those around you",
+      "url": "https://www.dazeddigital.com/life-culture/article/69923/1/meningitis-outbreak-uk-symptoms-vaccination?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-to-not-freak-out-about-meningitis-according-to-an-expert",
+      "urlToImage": "https://images-prod.dazeddigital.com/1024/0-0-1024-682/azure/dazed-prod/1440/1/1441757.jpg",
+      "publishedAt": "2026-03-19 09:00:00",
+      "content": "The University of Kent has moved its exams and classes online following the ongoing outbreak of meningitis in the county. If youre like me, youre probably thinking that you and those around you will \u2026 [+4355 chars]",
+      "retrievedAt": "2026-03-20 19:19:09.559376",
+      "internal_id": "baa72a2ea6f7e0708e81c16cf1f25cddecd80bc55c68bd3648b6c2ea5e2d8be4",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28487,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "rte",
+      "source_name": "RTE",
+      "author": "RT\u00c9 News",
+      "title": "UK meningitis cases likely to rise in 'unusual outbreak'",
+      "description": "The number of cases of meningitis linked to an outbreak in Kent, England, is likely to rise, a health leader has said, as experts look at whether the bacteria has become able to transmit more easily.",
+      "url": "https://www.rte.ie/news/uk/2026/0319/1564099-meningitis-cases-uk/",
+      "urlToImage": "https://www.rte.ie/images/0024156f-1600.jpg",
+      "publishedAt": "2026-03-19 07:59:16",
+      "content": "The number of cases of meningitis linked to an outbreak in Kent, England, is likely to rise, a health leader has said, as experts look at whether the bacteria has become able to transmit more easily.\u2026 [+4779 chars]",
+      "retrievedAt": "2026-03-20 19:19:09.634721",
+      "internal_id": "234c4945a32bed21835fcf23b92d2386687951de895d2b8f0bd19dc46af552ff",
+      "publishedAtLabel": "Mar 19"
+    },
+    {
+      "id": 28491,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "\u201eKaltes klares Wasser\u201c: Musikerin Bettina K\u00f6ster ist tot",
+      "description": "\u201eHebe meine Schenkel, hebe meine Brust, kaltes klares Wasser\u201c: Bettina K\u00f6ster pr\u00e4gte mit der Band Malaria! in den fr\u00fchen 80ern die Musikszene. Nun starb sie in Italien.",
+      "url": "https://www.stern.de/lifestyle/leute/bettina-koester--musikerin-im-alter-von-66-jahren-gestorben-37234292.html",
+      "urlToImage": "https://image.stern.de/37234302/t/xF/v1/w1440/r1.7778/-/bettina-koester-ist-tot.jpg",
+      "publishedAt": "2026-03-19 07:30:00",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Hebe meine Schenkel, hebe meine Brust, kaltes klares Wasser: Bettina K\u00f6ster pr\u00e4gte mit der Band Malaria! in den fr\u00fchen 80ern die Musikszene. Nun \u2026 [+1732 chars]",
+      "retrievedAt": "2026-03-20 19:19:10.043634",
+      "internal_id": "83458c28829880522ce85cefad1a0e7ef488cee506292160789297174d32ea14",
+      "publishedAtLabel": "Mar 19"
+    },
     {
       "id": 28461,
       "query": [
@@ -22074,96 +22326,6 @@
       "content": "Chicago health officials are warning residents to be alert for symptoms of meningococcal disease after several recent infections were reported in adults across the city. Seven cases of Neisseria men\u2026 [+2481 chars]",
       "retrievedAt": "2026-02-03 07:22:42.973534",
       "internal_id": "40a379396b659a1f06aab41c2bbb2c808bcb0a6f5afa1102a42d54c4f77f9147",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27260,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WJXT News4JAX",
-      "author": "Aaron Farrar",
-      "title": "\u2018Prevention becomes the key thing\u2019: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida",
-      "description": "The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.",
-      "url": "https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JZVZ7REGJ5E3ZECSG3FSMVVPVY.jpg?_a=DATAg1eAZAA0",
-      "publishedAt": "2026-02-01 18:35:39",
-      "content": "JACKSONVILLE, Fla. The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.\u2026 [+2840 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.224316",
-      "internal_id": "5dfda959fd8b51464816add707145754f0357a5f714c2a82f2a70292089e649c",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27253,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Alessia Dunn",
-      "title": "World\u2019s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination",
-      "description": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, January 28. The announcement comes just days after Orange Count\u2026",
-      "url": "https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/disneyland-hotel-sign-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-01 16:24:23",
-      "content": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, Jan\u2026 [+8173 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.070275",
-      "internal_id": "5e535e7c7f573910801b6f97bda9d1e94aa85de043ffefe322a15b83c4ba95dc",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27254,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Theme Park Insider",
-      "author": null,
-      "title": "Traveler exposes Disneyland visitors to measles last week",
-      "description": "By Robert Niles: Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort last Wednesday.The traveler was from out of the country and arrived at Los\u2026",
-      "url": "https://www.themeparkinsider.com/flume/202602/12289/",
-      "urlToImage": "https://www.themeparkinsider.com/art/flume/12289.jpg",
-      "publishedAt": "2026-02-01 16:04:00",
-      "content": "February 1, 2026, 11:04 AM \u00b7 Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort \u2026 [+1656 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.080184",
-      "internal_id": "de6f02f82a906b4d7f40f0ba7248f8512d4552225ca7936bf68eb661ae895a32",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27262,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Dawid Szczyrbowski",
-      "title": "Ptasia grypa w Polsce. Lekarz weterynarii og\u0142osi\u0142 stref\u0119 zaka\u017cenia",
-      "description": "Ujawniono przypadek ptasiej grypy w woj. \u015bwi\u0119tokrzyskim. Powiatowy lekarz weterynarii w Opatowie og\u0142osi\u0142 \"stref\u0119 obj\u0119t\u0105 zaka\u017ceniem\", kt\u00f3ra dotyczy czterech miejscowo\u015bci w gminie Tar\u0142\u00f3w. Zarz\u0105dzenie wprowadza szereg nakaz\u00f3w i zakaz\u00f3w maj\u0105cych ograniczy\u0107 szerze\u2026",
-      "url": "https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983",
-      "urlToImage": "https://i.iplsc.com/-/000M9S8ADCNAE6NR-C461.jpg",
-      "publishedAt": "2026-02-01 12:10:30",
-      "content": "W skr\u00f3cie Grzegorz Partyka poinformowa o potwierdzeniu wirusa grypy ptak\u00f3w HPAI 26 stycznia we wsi Lene Chaupy w gminie Tar\u00f3w. Powiatowy lekarz weterynarii wyznaczy stref objt \u2026 [+2133 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.365819",
-      "internal_id": "991ebaf4dd4a6e0502fcf8d7fc3a631a7f497c3d4e8be87764f3f4133f99106e",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27249,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Haig Hovaness",
-      "title": "Links 2/1/2026",
-      "description": "Our strategic daily links: stationary motion, U.S. brain drain, measles, snow drought, Caribbean troubles, Chinese kindergarten, EU confusion, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles,\u2026",
-      "url": "https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Kingfishers.jpg",
-      "publishedAt": "2026-02-01 11:55:13",
-      "content": "This 3D floor in Thailand tricks your senses into feeling movement while you stay still. Daniyanizami11 pic.twitter.com/Og6hDPrkfz Science girl (@sciencegirl) January 30, 2026 Bezos\u2019s Blue Origi\u2026 [+7777 chars]",
-      "retrievedAt": "2026-02-03 07:22:41.968318",
-      "internal_id": "d826839f6040d85acd7c9065031200da9fd41a3a158a45d8d18f407ad2fcf9e3",
       "publishedAtLabel": "Feb 1"
     }
   ]
