@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2026-03-20 19:19
-- **Most recent article:** 2026-03-19 19:04:57
+- **New articles in last harvest:** 12
+- **Last harvest:** 2026-03-21 07:18
+- **Most recent article:** 2026-03-20 07:03:32
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 17 | 101 | 112 | 111 | 83 | 524 |
-| dengue | 22 | 11 | 18 | 16 | 24 | 17 | 15 | 123 |
-| meningitis | 4 | 6 | 89 | 3 | 7 | 3 | 5 | 117 |
+| measles | 70 | 30 | 17 | 105 | 112 | 111 | 83 | 528 |
+| dengue | 22 | 11 | 21 | 16 | 24 | 17 | 15 | 126 |
+| meningitis | 4 | 6 | 97 | 3 | 7 | 3 | 5 | 125 |
 | mpox | 10 | 16 | 10 | 11 | 14 | 25 | 27 | 113 |
 | rabies | 18 | 16 | 6 | 8 | 16 | 16 | 14 | 94 |
 | malaria | 16 | 9 | 16 | 15 | 14 | 10 | 11 | 91 |
-| chikungunya | 1 | 7 | 4 | 8 | 12 | 40 | 6 | 78 |
+| chikungunya | 1 | 7 | 5 | 8 | 12 | 40 | 6 | 79 |
 | h5n1 | 2 | 8 | 4 | 12 | 12 | 11 | 4 | 53 |
-| leptospirosis | 2 | 1 | 2 | 3 | 2 | 4 | 3 | 17 |
-| hpai | 2 | 5 | 2 | 0 | 3 | 1 | 2 | 15 |
-| zika | 1 | 2 | 2 | 0 | 3 | 3 | 2 | 13 |
+| leptospirosis | 2 | 1 | 3 | 3 | 2 | 4 | 3 | 18 |
+| hpai | 2 | 5 | 2 | 1 | 3 | 1 | 2 | 16 |
+| zika | 1 | 2 | 3 | 0 | 3 | 3 | 2 | 14 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
 | yersinia | 2 | 0 | 1 | 1 | 2 | 1 | 1 | 8 |
 | pertussis | 1 | 2 | 0 | 1 | 1 | 0 | 0 | 5 |
@@ -1669,6 +1669,14 @@ Source: [News API](https://newsapi.org/)
 
 - [Video South Carolina's measles outbreak becomes largest in US in years](https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459) (ABC News)
 
+- [‘Prevention becomes the key thing’: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida](https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/) (WJXT News4JAX)
+
+- [World’s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination](https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/) (Inside the Magic)
+
+- [Traveler exposes Disneyland visitors to measles last week](https://www.themeparkinsider.com/flume/202602/12289/) (Theme Park Insider)
+
+- [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
+
 ## 26-6 (malaria)
 
 - [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
@@ -1708,6 +1716,10 @@ Source: [News API](https://newsapi.org/)
 - [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
 
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
+
+## 26-6 (hpai)
+
+- [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-6 (h5n1)
 
@@ -1789,6 +1801,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (zika)
 
+- [Primo caso di dengue della stagione. Ecco i virus in arrivo](https://www.repubblica.it/salute/2026/03/20/news/primo_caso_dengue_stagione_virus_west_nile-425232410/) (La Repubblica)
+
 - [北おおさか信用金庫に感謝状を贈呈 豊中つばさ公園『ma-zika』整備に貢献](https://prtimes.jp/main/html/rd/p/000000970.000078420.html) (Prtimes.jp)
 
 - [„Fühlt sich hier sehr wohl“: Graz baut Maßnahmen gegen Asiatische Tigermücke aus](https://www.diepresse.com/20685013/graz-baut-massnahmen-gegen-asiatische-tigermuecke-aus) (Diepresse.com)
@@ -1835,9 +1849,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (meningitis)
 
+- [I went to bed with a sore ear, meningitis put me in a coma](https://www.bbc.com/news/articles/c747lme8pg1o) (BBC News)
+
+- [Family of teen who died in meningitis outbreak says loss is 'immeasurable'](https://www.bbc.com/news/articles/c2d8gjejrgpo) (BBC News)
+
+- [Meningitis in Kent, and sonic hedgehogs](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/meningitis-kent-and-sonic-hedgehogs) (The Naked Scientists)
+
+- ['Unprecedented' Meningitis Outbreak in UK Spreads to 27 Cases](https://www.sciencealert.com/unprecedented-meningitis-outbreak-in-uk-spreads-to-27-cases) (ScienceAlert)
+
+- [Bacterial meningitis is deadly, but can also have life-altering long-term effects – new study](https://theconversation.com/bacterial-meningitis-is-deadly-but-can-also-have-life-altering-long-term-effects-new-study-278545) (The Conversation Africa)
+
+- [UK meningitis outbreak cases rise to 27: official](https://japantoday.com/category/world/uk-meningitis-outbreak-cases-rise-to-27-official) (Japan Today)
+
 - [Huge queues for jabs as meningitis vaccination scheme expanded](https://www.bbc.com/news/articles/cwyk44px2j5o) (BBC News)
 
+- [Nine meningitis B cases confirmed in Ireland; HSE says ‘no evidence of increase or link’ to Kent outbreak](https://www.independent.ie/irish-news/nine-meningitis-b-cases-confirmed-in-ireland-hse-says-no-evidence-of-increase-or-link-to-kent-outbreak/a1294606306.html) (Independent.ie)
+
 - [Meningitis Outbreak Exposes UK's Decade-Long Gap in Protection](https://www.sciencealert.com/meningitis-outbreak-exposes-uks-decade-long-gap-in-protection) (ScienceAlert)
+
+- [Archbishop of Canterbury: Prayers with those impacted by meningitis outbreak](https://www.christiantoday.com/news/archbishop-of-canterbury-prayers-with-those-impacted-by-meningitis-outbreak) (Christiantoday.com)
 
 - [How to not freak out about meningitis, according to an expert](https://www.dazeddigital.com/life-culture/article/69923/1/meningitis-outbreak-uk-symptoms-vaccination?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-to-not-freak-out-about-meningitis-according-to-an-expert) (Dazed)
 
@@ -2085,6 +2115,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (leptospirosis)
 
+- [Perú reporta cuarta muerte por leptospirosis, segunda en frontera con Ecuador](https://www.elcomercio.com/actualidad/mundo/peru-reporta-cuarta-muerte-leptospirosis-segunda-frontera-ecuador/) (Elcomercio.com)
+
 - [Why is possum urine toxic?](https://www.lifesciencesworld.com/why-is-possum-urine-toxic/) (Lifesciencesworld.com)
 
 - [Brigadas médicas y sueros antialacrán: El plan de intervención integral del Ministerio de Salud en Taisha](https://www.elcomercio.com/actualidad/ecuador/brigadas-medicas-y-sueros-antialacran-el-plan-de-intervencion-integral-del-ministerio-de-salud-en-taisha/) (Elcomercio.com)
@@ -2106,6 +2138,12 @@ Source: [News API](https://newsapi.org/)
 - [SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la Región Metropolitana](https://www.cnnchile.com/pais/sag-confirma-caso-influenza-aviar-aves-de-traspatio-region-metropolitana_20260318/) (Cnnchile.com)
 
 ## 26-12 (dengue)
+
+- [Primo caso di dengue della stagione. Ecco i virus in arrivo](https://www.repubblica.it/salute/2026/03/20/news/primo_caso_dengue_stagione_virus_west_nile-425232410/) (La Repubblica)
+
+- [Ratinho manda recado após Felipeh Campos ser internado em estado crítico](https://www.metropoles.com/colunas/fabia-oliveira/ratinho-manda-recado-apos-felipeh-campos-ser-internado-em-estado-critico) (Metropoles.com)
+
+- [Felipeh Campos segue internado sem previsão de alta; leia boletim](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-segue-internado-sem-previsao-de-alta-leia-boletim) (Metropoles.com)
 
 - [Govt urges local levels to launch dengue awareness drive as summer begins](https://english.khabarhub.com/2026/19/540031/) (Khabarhub.com)
 
@@ -2144,6 +2182,8 @@ Source: [News API](https://newsapi.org/)
 - [Dengue Fever क्या है? | Dengue Symptoms, Platelets, Treatment और Diet पूरी जानकारी](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUCMOWCi25q8) (YouTube)
 
 ## 26-12 (chikungunya)
+
+- [Primo caso di dengue della stagione. Ecco i virus in arrivo](https://www.repubblica.it/salute/2026/03/20/news/primo_caso_dengue_stagione_virus_west_nile-425232410/) (La Repubblica)
 
 - [Noise and neglect: Social-media signals expose attention gaps for dengue, chikungunya, lymphatic filariasis and kala-azar in India’s vector-borne NTDs](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013378) (Plos.org)
 
