@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2026-03-21 07:18
-- **Most recent article:** 2026-03-20 07:03:32
+- **New articles in last harvest:** 20
+- **Last harvest:** 2026-03-21 19:11
+- **Most recent article:** 2026-03-20 17:53:40
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-6 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 17 | 105 | 112 | 111 | 83 | 528 |
-| dengue | 22 | 11 | 21 | 16 | 24 | 17 | 15 | 126 |
-| meningitis | 4 | 6 | 97 | 3 | 7 | 3 | 5 | 125 |
+| measles | 70 | 30 | 18 | 101 | 112 | 111 | 83 | 525 |
+| meningitis | 4 | 6 | 109 | 3 | 7 | 3 | 5 | 137 |
+| dengue | 22 | 11 | 26 | 16 | 24 | 17 | 15 | 131 |
 | mpox | 10 | 16 | 10 | 11 | 14 | 25 | 27 | 113 |
 | rabies | 18 | 16 | 6 | 8 | 16 | 16 | 14 | 94 |
-| malaria | 16 | 9 | 16 | 15 | 14 | 10 | 11 | 91 |
+| malaria | 16 | 9 | 18 | 15 | 14 | 10 | 11 | 93 |
 | chikungunya | 1 | 7 | 5 | 8 | 12 | 40 | 6 | 79 |
-| h5n1 | 2 | 8 | 4 | 12 | 12 | 11 | 4 | 53 |
+| h5n1 | 2 | 8 | 5 | 12 | 12 | 11 | 4 | 54 |
 | leptospirosis | 2 | 1 | 3 | 3 | 2 | 4 | 3 | 18 |
-| hpai | 2 | 5 | 2 | 1 | 3 | 1 | 2 | 16 |
-| zika | 1 | 2 | 3 | 0 | 3 | 3 | 2 | 14 |
+| zika | 1 | 2 | 4 | 0 | 3 | 3 | 2 | 15 |
+| hpai | 2 | 5 | 2 | 0 | 3 | 1 | 2 | 15 |
 | typhoid | 3 | 0 | 0 | 2 | 1 | 2 | 2 | 10 |
 | yersinia | 2 | 0 | 1 | 1 | 2 | 1 | 1 | 8 |
 | pertussis | 1 | 2 | 0 | 1 | 1 | 0 | 0 | 5 |
@@ -1669,14 +1669,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Video South Carolina's measles outbreak becomes largest in US in years](https://abcnews.go.com/GMA/Wellness/video/south-carolinas-measles-outbreak-largest-us-years-129749459) (ABC News)
 
-- [‘Prevention becomes the key thing’: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida](https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/) (WJXT News4JAX)
-
-- [World’s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination](https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/) (Inside the Magic)
-
-- [Traveler exposes Disneyland visitors to measles last week](https://www.themeparkinsider.com/flume/202602/12289/) (Theme Park Insider)
-
-- [Links 2/1/2026](https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html) (Nakedcapitalism.com)
-
 ## 26-6 (malaria)
 
 - [Malaria-diabetes comorbidity is linked to higher parasitaemia and enhanced IgG response to malaria vaccine candidate antigens](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341659) (Plos.org)
@@ -1716,10 +1708,6 @@ Source: [News API](https://newsapi.org/)
 - [Effect of a gut commensal Lactobacillus strain Limosilactobacillus caviae JL20 on leptospiral whole-cell inactivated vaccine in hamsters](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013951) (Plos.org)
 
 - [McCaughey: Mamdani’s homeless policy turns deadly](https://www.bostonherald.com/2026/02/02/mccaughey-mamdanis-homeless-policy-turns-deadly/) (Boston Herald)
-
-## 26-6 (hpai)
-
-- [Ptasia grypa w Polsce. Lekarz weterynarii ogłosił strefę zakażenia](https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983) (Interia.pl)
 
 ## 26-6 (h5n1)
 
@@ -1801,6 +1789,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (zika)
 
+- [Characterization of arbovirus infections in patients within Haiti by screening discarded malaria rapid diagnostic test cassettes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014089) (Plos.org)
+
 - [Primo caso di dengue della stagione. Ecco i virus in arrivo](https://www.repubblica.it/salute/2026/03/20/news/primo_caso_dengue_stagione_virus_west_nile-425232410/) (La Repubblica)
 
 - [北おおさか信用金庫に感謝状を贈呈 豊中つばさ公園『ma-zika』整備に貢献](https://prtimes.jp/main/html/rd/p/000000970.000078420.html) (Prtimes.jp)
@@ -1848,6 +1838,30 @@ Source: [News API](https://newsapi.org/)
 - [Nova cepa do vírus da Mpox recombinante preocupa OMS e testes mostram que antiviral mais usado não é eficaz](https://www.terra.com.br/noticias/nova-cepa-do-virus-da-mpox-recombinante-preocupa-oms-e-testes-mostram-que-antiviral-mais-usado-nao-e-eficaz,e91774cb94cd1f69e3de394533acc16e93fs3nx0.html) (Terra.com.br)
 
 ## 26-12 (meningitis)
+
+- [Los afectados por meningitis en Reino Unido llegan a 29 mientras las vacunas se agotan](https://www.abc.es/sociedad/afectados-meningitis-reino-unido-llegan-vacunas-agotan-20260320185319-nt.html) (Www.abc.es)
+
+- [Thousands get meningitis vaccine as experts wait to see outbreak peak](https://www.bbc.com/news/articles/cj3752nn4v0o) (BBC News)
+
+- [El Ministerio de Sanidad se pronuncia sobre el brote de meningitis de Reino Unido: estas son las advertencias](https://www.mundodeportivo.com/pulso/20260320/1004156492/ministerio-sanidad-pronuncia-sobre-brote-meningitis-reino-unido-estas-advertencias-dct.html) (Mundodeportivo.com)
+
+- ['I feel so grateful to be alive': Meningitis survivor speaks to the BBC](https://www.bbc.com/news/videos/cp3ld6dq4d1o) (BBC News)
+
+- [Muere un adolescente de 15 años por meningitis en Don Benito (Badajoz)](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/20/69bd6f41e9cf4a727d8b45c0.html) (El Mundo)
+
+- [Meningitis in Kent](https://www.lrb.co.uk/blog/2026/march/meningitis-in-kent) (London Review of Books)
+
+- [Zahl der Meningitis-Fälle in England steigt](https://orf.at/stories/3424451/) (Orf.at)
+
+- [Los pediatras piden ampliar la vacuna de la meningitis B y la hepatitis A ante el repunte de casos en España](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/20/69bd3b1efdddff11328b4581.html) (El Mundo)
+
+- [Zahl der Meningitis-Fälle in England steigt](https://www.tagesschau.de/ausland/europa/meningitis-england-100.html) (tagesschau.de)
+
+- [Number of meningitis cases in UK outbreak rises to 29](https://www.rte.ie/news/uk/2026/0320/1564331-uk-meningitis-cases/) (RTE)
+
+- [How serious is Kent’s meningitis outbreak? #health](https://alltoc.com/health/how-serious-is-kents-meningitis-outbreak) (Alltoc.com)
+
+- [Hirnhautentzündung - Das macht Meningitis B so tückisch](https://www.bild.de/leben-wissen/medizin/das-macht-meningitis-b-tueckischer-als-andere-meningitis-varianten-69bbfc42d225a75f4a234f2c) (Bild)
 
 - [I went to bed with a sore ear, meningitis put me in a coma](https://www.bbc.com/news/articles/c747lme8pg1o) (BBC News)
 
@@ -2045,6 +2059,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (measles)
 
+- [Brandon mayor defends upcoming Royal Manitoba Winter Fair after event at same site led to measles outbreak](https://www.cbc.ca/news/canada/manitoba/royal-manitoba-winter-fair-measles-mayor-vaccination-9.7135134) (CBC News)
+
 - [Friday essay: my mother survived polio – stories like hers show why vaccination matters](https://theconversation.com/friday-essay-my-mother-survived-polio-stories-like-hers-show-why-vaccination-matters-272443) (The Conversation Africa)
 
 - [Heading to Bali, Vietnam or Thailand? Why a measles vaccine is more important than ever](https://theconversation.com/heading-to-bali-vietnam-or-thailand-why-a-measles-vaccine-is-more-important-than-ever-278310) (The Conversation Africa)
@@ -2080,6 +2096,10 @@ Source: [News API](https://newsapi.org/)
 - [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
 
 ## 26-12 (malaria)
+
+- [Characterization of arbovirus infections in patients within Haiti by screening discarded malaria rapid diagnostic test cassettes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014089) (Plos.org)
+
+- [Malaria parasitemia and its association with liver function parameters, and lipid profile among malaria-infected adult patients in western Ethiopia: A comparative cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345059) (Plos.org)
 
 - [Scientists discover tiny rocket engines inside malaria parasites](https://www.sciencedaily.com/releases/2026/03/260318033111.htm) (Science Daily)
 
@@ -2129,6 +2149,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (h5n1)
 
+- [Estudo lista ações para evitar surtos de H5N1 em mamíferos marinhos](https://www.metropoles.com/ciencia/surtos-h5n1-mamiferos-marinhos-america) (Metropoles.com)
+
 - [केरलम में बर्ड फ्लू का कोहराम, 20 हजार पक्षियों को मारने का आदेश](https://www.aajtak.in/india/news/story/alappuzha-kozhikode-bird-flu-alert-h5n1-confirmed-in-kerala-ntc-dhrj-dskc-2501571-2026-03-19) (Aajtak.in)
 
 - [Kerala bird flu scare: Nearly 6,000 birds to be culled from March 21. Authorities on high alert](https://economictimes.indiatimes.com/news/new-updates/kerala-bird-flu-scare-nearly-6000-birds-to-be-culled-from-march-21-authorities-on-high-alert/articleshow/129675665.cms) (The Times of India)
@@ -2138,6 +2160,16 @@ Source: [News API](https://newsapi.org/)
 - [SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la Región Metropolitana](https://www.cnnchile.com/pais/sag-confirma-caso-influenza-aviar-aves-de-traspatio-region-metropolitana_20260318/) (Cnnchile.com)
 
 ## 26-12 (dengue)
+
+- [Felipeh Campos toma atitude após boatos sobre saúde e atualiza quadro](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-toma-atitude-apos-boatos-sobre-saude-e-atualiza-quadro) (Metropoles.com)
+
+- [Internado, quadro de Felipeh Campos piorou devido a conduta errada: 'Com hemorragia'](https://www.terra.com.br/diversao/gente/internado-quadro-de-felipeh-campos-piorou-devido-a-conduta-errada-com-hemorragia,363f8af302d4746380fd7bdc1df887f6y8tecsgz.html) (Terra.com.br)
+
+- [O que o caso da internação de Felipeh Campos revela sobre os sinais graves de doença](https://veja.abril.com.br/saude/o-que-o-caso-de-felipeh-campos-revela-sobre-os-sinais-de-doenca/) (Abril.com.br)
+
+- [Segnalati casi di virus Dengue in Friuli Venezia Giulia](https://www.ansa.it/friuliveneziagiulia/notizie/2026/03/20/segnalati-casi-di-virus-dengue-in-friuli-venezia-giulia_f5535224-fb65-4b12-8566-1bc903ffed86.html) (ANSA.it)
+
+- [Characterization of arbovirus infections in patients within Haiti by screening discarded malaria rapid diagnostic test cassettes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014089) (Plos.org)
 
 - [Primo caso di dengue della stagione. Ecco i virus in arrivo](https://www.repubblica.it/salute/2026/03/20/news/primo_caso_dengue_stagione_virus_west_nile-425232410/) (La Repubblica)
 

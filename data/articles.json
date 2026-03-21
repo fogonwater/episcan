@@ -1,8 +1,370 @@
 {
-  "last_updated": "2026-03-21 07:18",
-  "count_articles_total": 1256,
-  "count_articles_new": 12,
+  "last_updated": "2026-03-21 19:11",
+  "count_articles_total": 1271,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 28523,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Los afectados por meningitis en Reino Unido llegan a 29 mientras las vacunas se agotan",
+      "description": "El brote de enfermedad meningoc\u00f3cica invasiva detectado en Kent, Inglaterra, que ya se cobr\u00f3 la vida de dos personas, ha alcanzado este viernes los 29 casos, seg\u00fan la actualizaci\u00f3n de la Agencia de Seguridad Sanitaria del Reino Unido (UKHSA). A esa dimensi\u00f3n \u2026",
+      "url": "https://www.abc.es/sociedad/afectados-meningitis-reino-unido-llegan-vacunas-agotan-20260320185319-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/03/20/campus-U07442470041ZyG-1200x630@diario_abc.jpg",
+      "publishedAt": "2026-03-20 17:53:40",
+      "content": "El brote de enfermedad meningoc\u00f3cica invasiva detectado en Kent, Inglaterra, que ya se cobr\u00f3 la vida de dos personas, ha alcanzado este viernes los 29 casos, seg\u00fan la actualizaci\u00f3n de la Agencia de S\u2026 [+5309 chars]",
+      "retrievedAt": "2026-03-21 19:11:04.148880",
+      "internal_id": "d83fe1a0da38ae99e14067ee33b0daca14ba15f22b83457bc623e0d773f6b3f0",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28517,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Thousands get meningitis vaccine as experts wait to see outbreak peak",
+      "description": "The outbreak, which has killed two people, is thought to have originated at a Canterbury nightclub.",
+      "url": "https://www.bbc.com/news/articles/cj3752nn4v0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14d1/live/a7a89990-2464-11f1-a2c1-39d16ad974aa.jpg",
+      "publishedAt": "2026-03-20 17:40:02",
+      "content": "More than 4,500 young people have been vaccinated and over 10,000 treated with antibiotics in a huge drive to tackle a deadly meningitis outbreak in Kent, as health officials say it is too early to s\u2026 [+29 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.910702",
+      "internal_id": "bbec2e29f20004ceb35272e60db7152800ab4a304bac92c203f550d864dfcdb1",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28509,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Felipeh Campos toma atitude ap\u00f3s boatos sobre sa\u00fade e atualiza quadro",
+      "description": "O apresentador Felipeh Campos est\u00e1 internado desde o \u00faltimo dia 18 na Benefic\u00eancia Portuguesa, em S\u00e3o Paulo, ap\u00f3s um quadro grave de dengue.",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-toma-atitude-apos-boatos-sobre-saude-e-atualiza-quadro",
+      "urlToImage": "https://i.metroimg.com/ExELHrj7301FCV7BUAXWXh8fGCgRi972aF0IL8ElSuo/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/felipeh-campos-internado-hospital-sao-paulo-estado-grave-2.jpg",
+      "publishedAt": "2026-03-20 17:36:34",
+      "content": "O apresentador Felipeh Campos decidiu reagir diante da onda de fake news envolvendo seu estado de sa\u00fade. Internado desde o \u00faltimo dia 18 na Benefic\u00eancia Portuguesa, em S\u00e3o Paulo, ele revelou \u00e0 coluna\u2026 [+1437 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.250890",
+      "internal_id": "e283b0e07f2f2c1704e89abad9d8ba354477b816f531b229087a89f3b5071b8f",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28508,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Mais Novela",
+      "title": "Internado, quadro de Felipeh Campos piorou devido a conduta errada: 'Com hemorragia'",
+      "description": "Jornalista de 52 anos revelou que automedica\u00e7\u00e3o derrubou suas plaquetas para n\u00edvel cr\u00edtico de 20 mil; entenda o perigo.",
+      "url": "https://www.terra.com.br/diversao/gente/internado-quadro-de-felipeh-campos-piorou-devido-a-conduta-errada-com-hemorragia,363f8af302d4746380fd7bdc1df887f6y8tecsgz.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/20/1769561329-internado-quadro-de-felipeh-campos-piorou-devido-a-conduta-errada-com-hemorragia.jpg",
+      "publishedAt": "2026-03-20 16:57:30",
+      "content": "O jornalista Felipeh Campos, de 52 anos, permanece internado em estado grave ap\u00f3s ser diagnosticado com dengue hemorr\u00e1gica. O comunicador deu entrada na unidade hospitalar na \u00faltima quarta-feira (18)\u2026 [+1128 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.180200",
+      "internal_id": "2a07569763b82f853c159f650feb41d9a05c4fcabdae7e9575555ffea1a17cd0",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28519,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Anna Batlle Planas",
+      "title": "El Ministerio de Sanidad se pronuncia sobre el brote de meningitis de Reino Unido: estas son las advertencias",
+      "description": "El Ministerio de Sanidad de Espa\u00f1a se ha pronunciado sobre el brote de meningitis que afecta al condado ingl\u00e9s de Kent. En su comunicado, publicado en la p\u00e1gina web oficial del Ministerio, aseguran que \"el n\u00famero de casos nuevos de la enfermedad en Espa\u00f1a sig\u2026",
+      "url": "https://www.mundodeportivo.com/pulso/20260320/1004156492/ministerio-sanidad-pronuncia-sobre-brote-meningitis-reino-unido-estas-advertencias-dct.html",
+      "urlToImage": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/files/fp/uploads/2025/06/11/68496e3911254.r_d.1717-1249-0.jpeg",
+      "publishedAt": "2026-03-20 16:56:10",
+      "content": "El Ministerio de Sanidad de Espa\u00f1a se ha pronunciado sobre el brote de meningitis que afecta al condado ingl\u00e9s de Kent. En su comunicado, publicado en la p\u00e1gina web oficial del Ministerio, aseguran q\u2026 [+2045 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.993931",
+      "internal_id": "770ede382c77a82a6a8cc75d03eea283bfb442e06e9ec4128d7e015ac2c56d50",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28515,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "'I feel so grateful to be alive': Meningitis survivor speaks to the BBC",
+      "description": "Annabelle Mackay, 21, has spoken to the BBC about her experience surviving meningitis.",
+      "url": "https://www.bbc.com/news/videos/cp3ld6dq4d1o",
+      "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+      "publishedAt": "2026-03-20 16:31:06",
+      "content": "Twenty-one-year-old Annabelle Mackay has spoken to the BBC about her experience of surviving a meningitis infection. The University of Kent law student believes she may have contracted it on 5 Marc\u2026 [+552 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.781071",
+      "internal_id": "c2037f77f8c24ef9a1a0fd1f5b45b18c4be42d36fee3aae072a653b6d03ee9bd",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28507,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Reda\u00e7\u00e3o VEJA",
+      "title": "O que o caso da interna\u00e7\u00e3o de Felipeh Campos revela sobre os sinais graves de doen\u00e7a",
+      "description": "Interna\u00e7\u00e3o do apresentador acende alerta para sintomas que precedem quadros mais severos da dengue e exigem aten\u00e7\u00e3o imediata",
+      "url": "https://veja.abril.com.br/saude/o-que-o-caso-de-felipeh-campos-revela-sobre-os-sinais-de-doenca/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/03/felipeh-campos-dengue.jpeg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-03-20 16:22:12",
+      "content": "Pular para o conte\u00fado Abril Day: Assine VEJA por apenas 9,90 Por Reda\u00e7\u00e3o VEJA Sa\u00fade 20 mar 2026, 13h22 \u2022 Atualizado em 20 mar 2026, 13h27 Felipeh Campos (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s \u2026 [+3714 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.166859",
+      "internal_id": "bfe6cf0faaeb4f6ae0e4b35eae1594ffe268013cb07ecfbff163b1916fd78d16",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28513,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "David Vigario",
+      "title": "Muere un adolescente de 15 a\u00f1os por meningitis en Don Benito (Badajoz)",
+      "description": "El \u00c1rea de Salud de Don Benito ha confirmado el fallecimiento de un adolescente de 15 a\u00f1os a causa de una meningoencefalitis provocada por la reactivaci\u00f3n del virus tipo 6....",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2026/03/20/69bd6f41e9cf4a727d8b45c0.html",
+      "urlToImage": "https://e01-phantom-elmundo.uecdn.es/f6d9994d5846ea975af4f79a17341df7/crop/72x0/1118x697/f/webp/assets/multimedia/imagenes/2026/03/20/17740229572514.png",
+      "publishedAt": "2026-03-20 16:14:17",
+      "content": "El \u00c1rea de Salud de Don Benito ha confirmado el fallecimiento de un adolescente de 15 a\u00f1os a causa de una meningoencefalitis provocada por la reactivaci\u00f3n del virus tipo 6. Seg\u00fan ha informado Salud P\u2026 [+1725 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.755703",
+      "internal_id": "8e9098068f0b8124db430ca1dcf305d9ecae7fb782db13a8413a49f9fa1631b7",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28522,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "London Review of Books",
+      "author": "Liam Shaw",
+      "title": "Meningitis in Kent",
+      "description": "The first vaccines a two-month-old child gets in England offer protection against three species of virus and five bacteria. Since 2015, they have...",
+      "url": "https://www.lrb.co.uk/blog/2026/march/meningitis-in-kent",
+      "urlToImage": "https://www.lrb.co.uk/storage/social_image/lrb_assets/icons/lrb-blog-social.jpg",
+      "publishedAt": "2026-03-20 16:06:45",
+      "content": "The first vaccines a two-month-old child gets in England offer protection against three species of virus and five bacteria. Since 2015, they have included Neisseria meningitidis group B, the bacteriu\u2026 [+6194 chars]",
+      "retrievedAt": "2026-03-21 19:11:04.136196",
+      "internal_id": "185dfc7ca10cd1dac98d128c7c9b1e064de7c6e19f9cd2ad0927e8efc1e08f21",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28506,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Estudo lista a\u00e7\u00f5es para evitar surtos de H5N1 em mam\u00edferos marinhos",
+      "description": "De acordo com o novo estudo, os surtos provocados por H5N1 j\u00e1 mataram mais de 50 mil focas e le\u00f5es-marinhos na Am\u00e9rica do Sul",
+      "url": "https://www.metropoles.com/ciencia/surtos-h5n1-mamiferos-marinhos-america",
+      "urlToImage": "https://i.metroimg.com/aRAN7sXluxhVOxztg3iaRCEArzcrFaFFRuQ_PpVOmkE/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/mamiferos-marinhos.jpg",
+      "publishedAt": "2026-03-20 15:34:30",
+      "content": "Segundo um novo estudo, mais de 50 mil pin\u00edpedes, grupo que inclui focas e le\u00f5es-marinhos, j\u00e1 foram v\u00edtimas de surtos de gripe avi\u00e1ria na Am\u00e9rica do Sul. Al\u00e9m de descobrir os n\u00fameros, a pesquisa teve\u2026 [+3028 chars]",
+      "retrievedAt": "2026-03-21 19:11:02.642753",
+      "internal_id": "0534d1db3480cd1e78680edbb627e2a0ecc8b632554679063631df212854cc0b",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28510,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Segnalati casi di virus Dengue in Friuli Venezia Giulia",
+      "description": "Alcuni casi di virus Dengue sono stati segnalati tra mercoled\u00ec e oggi in Friuli Venezia Giulia. Nel dettaglio, due casi sono stati accertati a Trieste mentre uno, a Gradisca d'Isonzo, \u00e8 in fase di accertamento. (ANSA)",
+      "url": "https://www.ansa.it/friuliveneziagiulia/notizie/2026/03/20/segnalati-casi-di-virus-dengue-in-friuli-venezia-giulia_f5535224-fb65-4b12-8566-1bc903ffed86.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/10/2/6b4eebc57e0389180d3a3f71bcb43358.jpg",
+      "publishedAt": "2026-03-20 15:13:47",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.356754",
+      "internal_id": "3859f298d88b7e67810c4b476c713f5319aa031210b4f18aa50694e190e03faf",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28520,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Zahl der Meningitis-F\u00e4lle in England steigt",
+      "description": "",
+      "url": "https://orf.at/stories/3424451/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2026-03-20 14:37:08",
+      "content": "Die britischen Beh\u00f6rden haben weiterhin mit einem Meningitis-Ausbruch in S\u00fcdengland zu k\u00e4mpfen. Heute meldete die Gesundheitsbeh\u00f6rde UKHSA erneut mehr F\u00e4lle der Meningokokken-Untergruppe B: Es wurden\u2026 [+1211 chars]",
+      "retrievedAt": "2026-03-21 19:11:04.018751",
+      "internal_id": "188d9c9298a39bbf5ddbf09dcceb6c3ba18b913f3703dfdc0f0892d1ecfdcb85",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28511,
+      "query": [
+        "dengue",
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Graham A. Matulis, Haley P. Smith, Grant Hall, Rachel S. Katich, Korey L. Delp, Christina E. Douglas, Jennifer Williams, Shawn Hirsch, Raina Kumar, Ian Pshea-Smith, Abigail A. Lilak, Bernard A. Okech, Keersten Ricks, Christopher P. Stefan, Alexandre Existe, Jeffrey R. Kugelman, Ian Sutherland, James Dunford, Jacques Boncy, Michael E. von Fricken, Jeffrey W. Koehler",
+      "title": "Characterization of arbovirus infections in patients within Haiti by screening discarded malaria rapid diagnostic test cassettes",
+      "description": "Author summary Public health activities such as vector-borne disease surveillance are largely interrupted within countries experiencing humanitarian crises. Within Haiti, a country currently experiencing ongoing political instability, numerous vector-borne vi\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014089",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014089.g002&size=inline",
+      "publishedAt": "2026-03-20 14:00:00",
+      "content": "Abstract Background Arboviruses represent a diverse group of pathogens transmitted by arthropod vectors. Within Haiti, arboviruses responsible for previous outbreaks include dengue virus, Zika viru\u2026 [+38376 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.369477",
+      "internal_id": "43d3059e23f5f115f61eab2e8d0ac81b79243fbb8dec0fa8a6545bedd0ad41c5",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28524,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Nigus Checkole, Waqtola Cheneke, Temam Ibrahim, Shiferaw Bekele, Birhane Teklay, Mebrahtu Tefera, Ataklti Gebretsadik, Bisrat Fikadu, Getachew Belay Kassahun",
+      "title": "Malaria parasitemia and its association with liver function parameters, and lipid profile among malaria-infected adult patients in western Ethiopia: A comparative cross-sectional study",
+      "description": "Background Malaria poses a public health problem because it manifests anemia, renal and liver dysfunction, Jaundice, and dyslipidemia. Therefore, the study aimed to assess malaria parasitemia and its association with liver function parameters and lipid profil\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345059",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0345059.g001&size=inline",
+      "publishedAt": "2026-03-20 14:00:00",
+      "content": "Abstract Background Malaria poses a public health problem because it manifests anemia, renal and liver dysfunction, Jaundice, and dyslipidemia. Therefore, the study aimed to assess malaria parasite\u2026 [+28737 chars]",
+      "retrievedAt": "2026-03-21 19:11:04.597945",
+      "internal_id": "dc0e58665297c0c3bd7e847e300c95d4c329157b8f8cb39e35b23a80a8b376c7",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28516,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Mar\u00eda S\u00e1nchez Monge",
+      "title": "Los pediatras piden ampliar la vacuna de la meningitis B y la hepatitis A ante el repunte de casos en Espa\u00f1a",
+      "description": "La alerta por un brote de meningitis B en Reino Unido y el aumento de contagios de sarampi\u00f3n y hepatitis A en nuestro pa\u00eds han marcado la jornada anual del CAV-AEP. Los expertos proponen cambios urgentes en el calendario de vacunaci\u00f3n para adolescentes y lact\u2026",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2026/03/20/69bd3b1efdddff11328b4581.html",
+      "urlToImage": "https://e01-phantom-elmundo.uecdn.es/38e317529b925e5d998c00c2b0f67f64/crop/0x0/3072x2048/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/20/17740096092401.jpg",
+      "publishedAt": "2026-03-20 12:27:53",
+      "content": "La jornada anual de inmunizaciones del Comit\u00e9 Asesor de Vacunas de la Asociaci\u00f3n Espa\u00f1ola de Pediatr\u00eda (CAV-AEP) ha coincidido con la alerta sanitaria en Reino Unido por un brote de meningitis B, que\u2026 [+4624 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.817150",
+      "internal_id": "fac392efd6b30de0feb90fef0bf5480ca110209f0cd80b62db0cf7338a8416fb",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28512,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "tagesschau.de",
+      "title": "Zahl der Meningitis-F\u00e4lle in England steigt",
+      "description": "Ein au\u00dfergew\u00f6hnlicher Ausbruch von Meningitis - also Hirnhautentz\u00fcndungen - in S\u00fcdostengland breitet sich aus. Die Zahl der F\u00e4lle steigt. Zwei junge Menschen sind bislang gestorben.",
+      "url": "https://www.tagesschau.de/ausland/europa/meningitis-england-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/2f644c9d-d990-4fc2-a765-ab9e5f94cccc/AAABnQsmoUM/AAABmyZE0EA/16x9-big/meningitis-england-104.jpg?width=1280",
+      "publishedAt": "2026-03-20 12:18:33",
+      "content": "Stand: 20.03.2026 13:18 Uhr Ein au\u00dfergew\u00f6hnlicher Ausbruch von Meningitis - also Hirnhautentz\u00fcndungen - in S\u00fcdostengland breitet sich aus. Die Zahl der F\u00e4lle steigt. Zwei junge Menschen sind bislang\u2026 [+2168 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.719425",
+      "internal_id": "79ba61f899ae439c9729c96d11ff41cf2cbac404045fc51ce336235633a78977",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28521,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "rte",
+      "source_name": "RTE",
+      "author": "RT\u00c9 News",
+      "title": "Number of meningitis cases in UK outbreak rises to 29",
+      "description": "The number of cases of meningitis linked to an outbreak in Kent in England has risen to 29, up from 27 previously, the UK Health Security Agency (UKHSA) has said, including both confirmed and suspected cases.",
+      "url": "https://www.rte.ie/news/uk/2026/0320/1564331-uk-meningitis-cases/",
+      "urlToImage": "https://www.rte.ie/images/00241200-1600.jpg",
+      "publishedAt": "2026-03-20 10:20:26",
+      "content": "The number of cases of meningitis linked to an outbreak in Kent in England has risen to 29, up from 27 previously, the UK Health Security Agency (UKHSA) has said, including both confirmed and suspect\u2026 [+2587 chars]",
+      "retrievedAt": "2026-03-21 19:11:04.043011",
+      "internal_id": "5933529c9fc152bc74eff64933b72239bf5c8227ae66eb707a7f45bec3701337",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28505,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Brandon mayor defends upcoming Royal Manitoba Winter Fair after event at same site led to measles outbreak",
+      "description": "An outbreak of measles traced to an agricultural fair in Brandon in January has that city's mayor defending the upcoming Royal Manitoba Winter Fair. The annual event starts March 30 and is expected to attract more than 40,000 people over six days.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/royal-manitoba-winter-fair-measles-mayor-vaccination-9.7135134",
+      "urlToImage": "https://i.cbc.ca/ais/1.6406907,1648998346000/full/max/0/default.jpg?im=Crop%2Crect%3D%282%2C11%2C948%2C533%29%3BResize%3D620",
+      "publishedAt": "2026-03-20 10:00:00",
+      "content": "An outbreak of measles traced to an agricultural fair in Brandon in January has that city's mayor defending the upcoming Royal Manitoba Winter Fair. The annual event starts March 30 and is expected \u2026 [+4356 chars]",
+      "retrievedAt": "2026-03-21 19:11:02.230684",
+      "internal_id": "86e1eb6271afd8f07394f88f1aab69126b113e684d2f59090b7b0cd9a2d874de",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28514,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How serious is Kent\u2019s meningitis outbreak? #health",
+      "description": "Kent MenB outbreak: deaths and serious illness In Kent, England, health officials have been responding to an outbreak of invasive meningococcal disease caused by the MenB (serogroup B) strain. Coverage centers on a fast moving cluster among people connected t\u2026",
+      "url": "https://alltoc.com/health/how-serious-is-kents-meningitis-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-20 09:54:34",
+      "content": "In Kent, England, health officials have been responding to an outbreak of invasive meningococcal disease caused by the MenB (serogroup B) strain. Coverage centers on a fast-moving cluster among peopl\u2026 [+1771 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.768409",
+      "internal_id": "e72d6ec4a7aaa5798ecadfead1520dacb39659ef47673f44dee738cebc9587a3",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28518,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Michel Winges",
+      "title": "Hirnhautentz\u00fcndung - Das macht Meningitis B so t\u00fcckisch",
+      "description": "Beginnt wie eine Grippe, kann jedoch in Stunden lebensgef\u00e4hrlich werden: Meningitis B ist in Deutschland die h\u00e4ufigste auftretende Meningitis-Variante.",
+      "url": "https://www.bild.de/leben-wissen/medizin/das-macht-meningitis-b-tueckischer-als-andere-meningitis-varianten-69bbfc42d225a75f4a234f2c",
+      "urlToImage": "https://images.bild.de/69bbfc42d225a75f4a234f2c/a499ca3648da3669412240d2c289311e,de4416bc?w=1280",
+      "publishedAt": "2026-03-20 09:17:39",
+      "content": "TTS-Player \u00fcberspringenArtikel weiterlesenIn Deutschland ist Meningitis B die h\u00e4ufigste Form der Meningitis. Fieber, Kopfschmerzen und Sch\u00fcttelfrost Symptome, die viele f\u00e4lschlicherweise f\u00fcr eine Gri\u2026 [+2160 chars]",
+      "retrievedAt": "2026-03-21 19:11:03.969711",
+      "internal_id": "af8b25790f1502974d525c4eb3a79872085cdb748176457c2befb692401b38fe",
+      "publishedAtLabel": "Mar 20"
+    },
     {
       "id": 28496,
       "query": [
@@ -22544,96 +22906,6 @@
       "content": "Chicago health officials are warning residents to be alert for symptoms of meningococcal disease after several recent infections were reported in adults across the city. Seven cases of Neisseria men\u2026 [+2481 chars]",
       "retrievedAt": "2026-02-03 07:22:42.973534",
       "internal_id": "40a379396b659a1f06aab41c2bbb2c808bcb0a6f5afa1102a42d54c4f77f9147",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27260,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "WJXT News4JAX",
-      "author": "Aaron Farrar",
-      "title": "\u2018Prevention becomes the key thing\u2019: Pop-up clinic offers MMR vaccine after recent measles cases in Northeast Florida",
-      "description": "The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.",
-      "url": "https://www.news4jax.com/health/2026/02/01/prevention-becomes-the-key-thing-pop-up-clinic-offers-mmr-vaccine-after-recent-measles-cases-in-northeast-florida/",
-      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/JZVZ7REGJ5E3ZECSG3FSMVVPVY.jpg?_a=DATAg1eAZAA0",
-      "publishedAt": "2026-02-01 18:35:39",
-      "content": "JACKSONVILLE, Fla. The Florida Department of Health and Duval County Department of Health launched a pop-up vaccination clinic Sunday morning in response to recent measles cases in Northeast Florida.\u2026 [+2840 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.224316",
-      "internal_id": "5dfda959fd8b51464816add707145754f0357a5f714c2a82f2a70292089e649c",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27253,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Alessia Dunn",
-      "title": "World\u2019s Most Contagious Infectious Disease Outbreak at Disney, Officials Notify All of Contamination",
-      "description": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, January 28. The announcement comes just days after Orange Count\u2026",
-      "url": "https://insidethemagic.net/2026/02/worlds-most-contagious-infectious-disease-outbreak-at-disney-officials-notify-all-of-contamination-ad1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/10/disneyland-hotel-sign-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-01 16:24:23",
-      "content": "Orange County health officials confirmed Saturday that a second measles case has been identified in 2026, this time involving an international traveler who visited Disneyland Resort on Wednesday, Jan\u2026 [+8173 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.070275",
-      "internal_id": "5e535e7c7f573910801b6f97bda9d1e94aa85de043ffefe322a15b83c4ba95dc",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27254,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Theme Park Insider",
-      "author": null,
-      "title": "Traveler exposes Disneyland visitors to measles last week",
-      "description": "By Robert Niles: Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort last Wednesday.The traveler was from out of the country and arrived at Los\u2026",
-      "url": "https://www.themeparkinsider.com/flume/202602/12289/",
-      "urlToImage": "https://www.themeparkinsider.com/art/flume/12289.jpg",
-      "publishedAt": "2026-02-01 16:04:00",
-      "content": "February 1, 2026, 11:04 AM \u00b7 Here's a bummer of a story for Disneyland fans. Orange County health officials are warning that a person with infectious measles spent the day at the Disneyland Resort \u2026 [+1656 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.080184",
-      "internal_id": "de6f02f82a906b4d7f40f0ba7248f8512d4552225ca7936bf68eb661ae895a32",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27262,
-      "query": [
-        "hpai"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Dawid Szczyrbowski",
-      "title": "Ptasia grypa w Polsce. Lekarz weterynarii og\u0142osi\u0142 stref\u0119 zaka\u017cenia",
-      "description": "Ujawniono przypadek ptasiej grypy w woj. \u015bwi\u0119tokrzyskim. Powiatowy lekarz weterynarii w Opatowie og\u0142osi\u0142 \"stref\u0119 obj\u0119t\u0105 zaka\u017ceniem\", kt\u00f3ra dotyczy czterech miejscowo\u015bci w gminie Tar\u0142\u00f3w. Zarz\u0105dzenie wprowadza szereg nakaz\u00f3w i zakaz\u00f3w maj\u0105cych ograniczy\u0107 szerze\u2026",
-      "url": "https://wydarzenia.interia.pl/swietokrzyskie/news-ptasia-grypa-w-polsce-lekarz-weterynarii-oglosil-strefe-zaka,nId,22545983",
-      "urlToImage": "https://i.iplsc.com/-/000M9S8ADCNAE6NR-C461.jpg",
-      "publishedAt": "2026-02-01 12:10:30",
-      "content": "W skr\u00f3cie Grzegorz Partyka poinformowa o potwierdzeniu wirusa grypy ptak\u00f3w HPAI 26 stycznia we wsi Lene Chaupy w gminie Tar\u00f3w. Powiatowy lekarz weterynarii wyznaczy stref objt \u2026 [+2133 chars]",
-      "retrievedAt": "2026-02-03 07:22:42.365819",
-      "internal_id": "991ebaf4dd4a6e0502fcf8d7fc3a631a7f497c3d4e8be87764f3f4133f99106e",
-      "publishedAtLabel": "Feb 1"
-    },
-    {
-      "id": 27249,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Nakedcapitalism.com",
-      "author": "Haig Hovaness",
-      "title": "Links 2/1/2026",
-      "description": "Our strategic daily links: stationary motion, U.S. brain drain, measles, snow drought, Caribbean troubles, Chinese kindergarten, EU confusion, Gaza horrors, Ukraine burning, vanishing privacy, Trumpishness, Musk world, hapless Democrats, immigration troubles,\u2026",
-      "url": "https://www.nakedcapitalism.com/2026/02/links-2-1-2026.html",
-      "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2026/01/Kingfishers.jpg",
-      "publishedAt": "2026-02-01 11:55:13",
-      "content": "This 3D floor in Thailand tricks your senses into feeling movement while you stay still. Daniyanizami11 pic.twitter.com/Og6hDPrkfz Science girl (@sciencegirl) January 30, 2026 Bezos\u2019s Blue Origi\u2026 [+7777 chars]",
-      "retrievedAt": "2026-02-03 07:22:41.968318",
-      "internal_id": "d826839f6040d85acd7c9065031200da9fd41a3a158a45d8d18f407ad2fcf9e3",
       "publishedAtLabel": "Feb 1"
     }
   ]
