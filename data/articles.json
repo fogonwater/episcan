@@ -1,8 +1,260 @@
 {
-  "last_updated": "2026-03-22 07:21",
-  "count_articles_total": 1113,
-  "count_articles_new": 24,
+  "last_updated": "2026-03-22 19:12",
+  "count_articles_total": 1124,
+  "count_articles_new": 14,
   "articles": [
+    {
+      "id": 28556,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "UK meningitis outbreak cases rise to 34: official",
+      "description": "Bacterial meningitis has only been routinely vaccinated in the UK since 2015.",
+      "url": "https://www.channelnewsasia.com/world/uk-meningitis-outbreak-cases-rise-34-official-6009046",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--NOLZPATo--/c_crop,h_900,w_1600,x_0,y_67/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/03/19/ap26077536265661.jpg?itok=G134qmVJ",
+      "publishedAt": "2026-03-21 19:08:38",
+      "content": "LONDON: The number of meningitis cases reported in a deadly outbreak linked to a nightclub in southeast England rose from 29 to 34, including 23 confirmed cases, UK health officials announced Saturda\u2026 [+1253 chars]",
+      "retrievedAt": "2026-03-22 19:12:25.724988",
+      "internal_id": "df04d3c7606f9da45875eeb699cf1551f66320d46b7968b2c7bb5f0184d0e0e6",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28561,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Press Association",
+      "title": "Meningitis cases rise to 34 from 29 in British county of Kent outbreak",
+      "description": "Eighteen of the 23 confirmed cases are meningitis B. All cases have required hospital admission.",
+      "url": "https://www.thejournal.ie/meningitis-b-britain-kent-6991355-Mar2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/6991355/river/?height=400&version=6991368",
+      "publishedAt": "2026-03-21 16:51:39",
+      "content": "THE NUMBER OF cases linked to the meningitis outbreak in the English county of Kent has risen to 34, up from 29 previously, as hundreds of students queued for a third day to get vaccinated. Some 23 \u2026 [+1194 chars]",
+      "retrievedAt": "2026-03-22 19:12:26.118788",
+      "internal_id": "76bd9cf2ebad0f3b182a56bb08370538da664178e618b39aef35ddd6399fe7f0",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28551,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Felipeh Campos fala ap\u00f3s interna\u00e7\u00e3o: \u201cFoi um susto grande\u201d",
+      "description": "Apresentador Felipeh Campos se pronunciou do hospital, atualizou quadro de sa\u00fade e agradeceu mensagens de apoio ap\u00f3s interna\u00e7\u00e3o por dengue",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-fala-apos-internacao-foi-um-susto-grande",
+      "urlToImage": "https://i.metroimg.com/h26YgNmf23sWKbzuY6kFQMSESQoW3QoNl89yh77zgRk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/felipeh-campos-fala-apos-internacao-1.jpg",
+      "publishedAt": "2026-03-21 16:10:06",
+      "content": "Felipeh Campos gravou um pronunciamento nas redes sociais neste s\u00e1bado (21/3), dias ap\u00f3s ser internado com um quadro grave de dengue. Do hospital, o apresentador atualizou f\u00e3s e amigos sobre seu est\u2026 [+1829 chars]",
+      "retrievedAt": "2026-03-22 19:12:25.093020",
+      "internal_id": "416d70788f7da5e367c40bc85907c5d3cbc27c0ed7a09f77d82fa83e9a4ec1bb",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28552,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": null,
+      "title": "Temperature, Larval Diet, and Density Effects on Development Rate and Survival of Aedes aegypti (Diptera: Culicidae)",
+      "description": "Many environmental factors, biotic and abiotic interact to influence organismal development. Given the importance of Aedes aegypti as a vector of human pathogens including dengue and yellow fever, understanding the impact of environmental factors such as temp\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0087468",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0087468.g001&size=inline",
+      "publishedAt": "2026-03-21 13:48:58",
+      "content": "Abstract Many environmental factors, biotic and abiotic interact to influence organismal development. Given the importance of Aedes aegypti as a vector of human pathogens including dengue and yellow\u2026 [+43497 chars]",
+      "retrievedAt": "2026-03-22 19:12:25.246795",
+      "internal_id": "00694d3a869acfb0e32ded340915a79341b2a17d156d4800bfa2ce5b76f63667",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28558,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.nrc.nl",
+      "author": "Joep de Groot",
+      "title": "Meer dan twintig gevallen van meningitis in het VK, twee jongeren overleden",
+      "description": "Meningokokken: Twee studentes overleden aan een hersenvliesontsteking na bezoek aan een nachtclub, die een \u2018super spreader\u2019 lijkt te zijn geweest. Bezoekers van de club laten zich massaal vaccineren.",
+      "url": "https://www.nrc.nl/nieuws/2026/03/21/meer-dan-twintig-gevallen-van-meningitis-in-het-vk-twee-jongeren-overleden-a4923645",
+      "urlToImage": "https://images.nrc.nl/fvSFIudoZN5wR1kUF7ZT3iDDPfs=/1200x627/smart/filters:no_upscale()/s3/static.nrc.nl/wp-content/uploads/2026/03/21122527/210326VER_2032471259_Engeland.jpg",
+      "publishedAt": "2026-03-21 12:53:01",
+      "content": "Het aantal gevallen van meningitis (hersenvliesontsteking) in het Britse graafschap Kent is vrijdag opgelopen naar 23, meldt de Britse gezondheidsautoriteit; elf gevallen worden nog onderzocht. Deze \u2026 [+1857 chars]",
+      "retrievedAt": "2026-03-22 19:12:25.833578",
+      "internal_id": "d3133c7c1b877a8ca92404a094cb6bb3b2e9261c94e430596a5e09d8c14c3822",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28550,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uae40\ucc3d\ud6a8 \uc120\uc784\uae30\uc790",
+      "title": "\uc804\ubd81 \uc7a5\uc218 \uc624\ub9ac \ub18d\uc7a5\uc11c \uace0\ubcd1\uc6d0\uc131 AI \ud655\uc9c4\u00b7\u00b7\u00b7\uc804\uad6d 60\ubc88\uc9f8",
+      "description": "\uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI) \ud655\uc0b0 \ucc28\ub2e8\uc744 \uc704\ud574 \ubc29\uc5ed\uc694\uc6d0\uc774 \uac00\uae08\ub18d\uc7a5 \ucd9c\uc785 \ucc28\ub7c9\uacfc \ub18d\uc7a5 \uc8fc\ubcc0\uc5d0 \ub300\ud574 \uc18c\ub3c5 \uc791\uc5c5\uc744 \uc2dc\ud589\ud558\uace0 \uc788\ub2e4. \uc804\ubd81\ub3c4 \uc81c\uacf5\uc804\ubd81 \uc7a5\uc218\uc758 \ud55c \uc624\ub9ac \ub18d\uc7a5\uc5d0\uc11c \uace0\ubcd1\uc6d0\uc131 \uc870\ub958\uc778\ud50c\ub8e8\uc5d4\uc790(AI)\uac00 \ubc1c\uc0dd\ud574 \ubc29\uc5ed \ub2f9\uad6d\uc774 \uae34\uae09 \ub300\uc751\uc5d0 \ub098\uc130\ub2e4.\uc804\ubd81\ub3c4\ub294 \uc7a5\uc218 \uc0b0\uc11c\uba74 \uc18c\uc7ac \uc721\uc6a9\uc624\ub9ac \ub18d\uc7a5\uc5d0\uc11c \uac80\ucd9c\ub41c H5\ud615 \ud56d\uc6d0\uc774 \uc815\ubc00 \uac80\uc0ac \uacb0\uacfc \uace0\ubcd1\uc6d0\uc131 AI(H5N1\ud615)\ub85c \ucd5c\uc885 \ud655\uc9c4\ub410\ub2e4\uace0 \u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202603212137001",
+      "urlToImage": "https://img.khan.co.kr/news/2026/03/21/news-p.v1.20260321.2ea236567a204e59a9faa0b3945c4a41_P1.jpg",
+      "publishedAt": "2026-03-21 12:37:00",
+      "content": "AI \u00b7\u00b7\u00b7 60 2026.03.21 21:37 (AI) . (AI) . H5 AI(H5N1) 21 . 60 . 9 14 . 11, 10, 9 8 . . 12000 . . 10\u339e 31 . . . 11 \u00b7 . .",
+      "retrievedAt": "2026-03-22 19:12:24.764490",
+      "internal_id": "9785a6d5fc80b0098bffe74f90155b81ccc9eee4aa8380b2abe0ff10280a28bb",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28553,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Scientific American",
+      "author": "Lauren J. Young",
+      "title": "U.K.\u2019s deadly meningitis outbreak shows importance of vaccination",
+      "description": "Infectious disease experts say shots against meningococcal meningitis can be lifesaving during an outbreak, but U.S. regulators have attempted to roll back recommendations of such a vaccine for children",
+      "url": "https://www.scientificamerican.com/article/u-k-s-deadly-meningitis-outbreak-shows-importance-of-vaccination/",
+      "urlToImage": "https://static.scientificamerican.com/dam/m/426b5b29413cb8ca/original/GettyImages-1265278079_meningitis.jpg?m=1774037181.898&w=1200",
+      "publishedAt": "2026-03-21 12:00:00",
+      "content": "Health officials in the U.K. are rushing to contain a deadly outbreak of a form of bacterial meningitis called by meningococcal meningitis launching a massive antibiotic and vaccination campaign for \u2026 [+7470 chars]",
+      "retrievedAt": "2026-03-22 19:12:25.486164",
+      "internal_id": "535429da11b7ae8a5c8dcd065444fc97dbb6dcb9dd289e7e9d01a40bdaa0f2d3",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28562,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Perfil Brasil",
+      "title": "Cear\u00e1 confirma terceiro caso de Mpox este ano",
+      "description": "Estado monitora avan\u00e7o da doen\u00e7a ap\u00f3s atualiza\u00e7\u00e3o de dados na plataforma Integra SUS e refor\u00e7a orienta\u00e7\u00f5es de preven\u00e7\u00e3o",
+      "url": "https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/21/509321814-abre-perfil-brasil-2026-03-21t083046833.jpg",
+      "publishedAt": "2026-03-21 11:39:29",
+      "content": "O monitoramento epidemiol\u00f3gico no Cear\u00e1 registrou uma nova atualiza\u00e7\u00e3o importante nesta sexta-feira com a confirma\u00e7\u00e3o do terceiro caso de Mpox no estado em 2026. Os dados foram oficializados por meio\u2026 [+2575 chars]",
+      "retrievedAt": "2026-03-22 19:12:26.972470",
+      "internal_id": "cb806710a5d7a2ddbacbeb7668d097bd311193657ed25e46d66229911ac3de74",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28554,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "EFE",
+      "title": "Un espa\u00f1ol en el epicentro del brote de meningitis B en Kent: \"Ha sido un poco apocal\u00edptico\"",
+      "description": "El a\u00f1o de Erasmus del estudiante madrile\u00f1o Carlos Valladares en Canterbury (Kent, sureste de Inglaterra) se torn\u00f3 esta semana en una experiencia que \u00e9l calific\u00f3 de casi...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2026/03/21/69be7c82e9cf4a815f8b45ad.html",
+      "urlToImage": "https://e01-phantom-elmundo.uecdn.es/31f314c48062a80bcbfc43d1f6ad6035/crop/0x148/1782x1336/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/21/17740916890751.jpg",
+      "publishedAt": "2026-03-21 11:15:41",
+      "content": "El a\u00f1o de Erasmus del estudiante madrile\u00f1o Carlos Valladares en Canterbury (Kent, sureste de Inglaterra) se torn\u00f3 esta semana en una experiencia que \u00e9l calific\u00f3 de casi \"apocal\u00edptica\" despu\u00e9s de que \u2026 [+3667 chars]",
+      "retrievedAt": "2026-03-22 19:12:25.558086",
+      "internal_id": "dd07150310db8a1ae1ca677b7dd67d23849db46f6f15bc02c69ba2a818cef7e4",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28559,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": null,
+      "title": "Meningitis cases rise to 34 in UK as students queue for third day for vaccines",
+      "description": "A total of 18 of the 23 confirmed cases are meningitis B",
+      "url": "https://www.irishtimes.com/health/2026/03/21/meningitis-cases-rise-to-34-in-uk-as-students-queue-for-third-day-for-vaccines/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/SHUWCHKBXZJFPN34SP3WLTVACU.jpg?smart=true&auth=fce21bb5b2d3db4665e289812507d465c84f3e53b88962486313a6bff08a457e&width=1200&height=630",
+      "publishedAt": "2026-03-21 11:12:31",
+      "content": "The number of cases linked to the meningitis outbreak in Kent, England has risen to 34, up from 29 previously, as hundreds of students queued for a third day to get vaccinated. Some 23 cases have be\u2026 [+2683 chars]",
+      "retrievedAt": "2026-03-22 19:12:25.952384",
+      "internal_id": "901df9f78810802d0e73b18790661cb8cf140bbe842f3cce6ff25007e7d110fc",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28549,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "The Star Online",
+      "title": "10-year-old boy is latest rabies victim in S'wak",
+      "description": "KUCHING: A ten-year-old boy from Kuching is the latest death due to rabies in Sarawak. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/21/10-year-old-boy-is-latest-rabies-victim-in-s039wak",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/21/3824367.jpg",
+      "publishedAt": "2026-03-21 11:06:00",
+      "content": "KUCHING: A ten-year-old boy from Kuching is the latest death due to rabies in Sarawak. The Sarawak Health Department said the victim had been bitten by a stray dog on Feb 11, 2026, and only washed h\u2026 [+1084 chars]",
+      "retrievedAt": "2026-03-22 19:12:24.266317",
+      "internal_id": "3c250e2012189a063a0d2ba2922cd8f82503cf5aadcdc5acb9888ac798d5b4e1",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28555,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Meningitis cases rise as vaccine queues continue",
+      "description": "The UKHSA says the number of confirmed or suspected cases in Kent has risen from 29 to 34.",
+      "url": "https://www.bbc.com/news/articles/cg40ql71p9yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4272/live/f043ed80-24ff-11f1-ba46-637c713acadc.jpg",
+      "publishedAt": "2026-03-21 10:09:14",
+      "content": "A total of 4,500 people have received vaccinations since they were introduced on Wednesday, following the recent outbreak, which has left two young people dead.",
+      "retrievedAt": "2026-03-22 19:12:25.640948",
+      "internal_id": "6c3440964d32d2f928aa825faebb7d174b5f379c11565e8b26e35d969aa7b488",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28557,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "rte",
+      "source_name": "RTE",
+      "author": "RT\u00c9 News",
+      "title": "Number of cases in UK meningitis outbreak rises to 34",
+      "description": "The number of cases linked to the meningitis outbreak in Kent in the UK, has risen to 34, up from 29 previously, as hundreds of students queued for a third day to get vaccinated.",
+      "url": "https://www.rte.ie/news/uk/2026/0321/1564499-meningitis-uk/",
+      "urlToImage": "https://www.rte.ie/images/002417cb-1600.jpg",
+      "publishedAt": "2026-03-21 09:57:37",
+      "content": "The number of cases linked to the meningitis outbreak in Kent in the UK, has risen to 34, up from 29 previously, as hundreds of students queued for a third day to get vaccinated. Some 23 cases have \u2026 [+760 chars]",
+      "retrievedAt": "2026-03-22 19:12:25.761597",
+      "internal_id": "4faff804c87249d013a4bbb4f04e93e3aabc90b5efda73598ab4e5eaad5d1db3",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28560,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Meningitis outbreak: Total cases rise to 34",
+      "description": "The number of meningitis cases in the UK's outbreak has risen to 34, the UK Health Security Agency (UKHSA) has said.",
+      "url": "https://news.sky.com/story/meningitis-outbreak-total-cases-rise-to-34-13522491",
+      "urlToImage": "https://e3.365dm.com/25/10/1600x900/skynews-breaking-breaking-news_7042253.png?20260317121341",
+      "publishedAt": "2026-03-21 09:31:00",
+      "content": "The number of meningitis cases in the UK's outbreak has risen to 34, the UK Health Security Agency (UKHSA) has said. The numbers include two students who died from the virus in Kent last weekend. T\u2026 [+324 chars]",
+      "retrievedAt": "2026-03-22 19:12:25.988855",
+      "internal_id": "07f3d17b05cdb390cc991bd32b0975a7a11388d243f34fd149c9345f4536ba09",
+      "publishedAtLabel": "Mar 21"
+    },
     {
       "id": 28545,
       "query": [
@@ -20007,60 +20259,6 @@
       "content": "WASHINGTON -- A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing it\u2026 [+6421 chars]",
       "retrievedAt": "2026-02-10 07:29:48.760315",
       "internal_id": "e8be81c292df08f70c70726c3781bfd2549b22d51f5b08909d41eb33637378b1",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27430,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Dr. Scott Gottlieb says measles outbreak may \"get worse, unfortunately, before it resolves\"",
-      "description": "Former FDA Commissioner Dr. Scott Gottlieb, who sits on the boards of Pfizer and UnitedHealthcare, told \"Face the Nation with Margaret Brennan\" that the current measles outbreak could be a \"long cycle, especially now that this has gotten embedded in political\u2026",
-      "url": "https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/08/d23efcef-ccc8-4ff6-ad90-2424ebfa7c08/thumbnail/1200x630/64aa23137f56de268ab21ab8512d8e59/cbsn-fusion-dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves-thumbnail.jpg",
-      "publishedAt": "2026-02-08 18:48:00",
-      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
-      "retrievedAt": "2026-02-09 19:33:32.146881",
-      "internal_id": "d53faee33d148860b0fa18390927ba9b49bb9e2e851e7c4377bc8281ce8df364",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27431,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Rick Lye",
-      "title": "Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis\u2014Is Your Family at Risk?",
-      "description": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) issued a formal warning regarding an additional case of measl\u2026",
-      "url": "https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/11/disneyland-marquee-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-08 14:40:54",
-      "content": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) i\u2026 [+6917 chars]",
-      "retrievedAt": "2026-02-09 19:33:32.238856",
-      "internal_id": "ca8ffcf7d60394c586e3e9a8f7df293bfeb0ccb722b475db872d4a2cd2425d29",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27432,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tv9kannada.com",
-      "author": "Vinay Kashappanavar",
-      "title": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0c85\u0cac\u0ccd\u0cac\u0cb0: \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4\u0cc1 H5N1 \u0c9f\u0cc6\u0ca8\u0ccd\u0cb7\u0ca8\u0ccd",
-      "description": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf H5N1 \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0cad\u0cc0\u0ca4\u0cbf \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 H5N1 \u0cb5\u0cc8\u0cb0\u0cb8\u0ccd \u0c86\u0ca4\u0c82\u0c95 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0ca4 \u0caa\u0c95\u0ccd\u0cb7\u0cbf\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cae\u0cbe\u0ca8\u0cb5\u0cb0\u0cbf\u0c97\u0cc6 \u0cb9\u0cb0\u0ca1\u0cc1\u0cb5 \u0c88 \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6\u0cbf\u0c82\u0ca6 \u0c89\u0c82\u0c9f\u0cbe\u0c97\u0cc1\u0cb5 \u0cb8\u0cbe\u0cb5\u0cbf\u0ca8 \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0cb0\u0ccb\u0c97 \u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0cb2\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0ca6\u0c82\u0ca4\u0cc6 \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0cb0\u0cc1 \u0cb8\u0cc2\u0c9a\u0cbf\u0cb8\u0cbf\u0ca6\u0ccd\u0ca6\u0cbe\u0cb0\u0cc6. \u0c85\u0cb7\u0ccd\u0c9f\u0c95\u0ccd\u0c95\u0cc2 \u0c88 \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0c97\u0cc6 \u0ca4\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0ca6\u0cb5\u0cb0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf\u2026",
-      "url": "https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html",
-      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2026/02/bird-flue.jpg",
-      "publishedAt": "2026-02-08 11:20:30",
-      "content": ", 08: H5N1 . 1,500 , . . . ? H5N1 , , . , . 4 6 . : ? ? .. ., . .50, . . . . . .",
-      "retrievedAt": "2026-02-09 19:33:32.929027",
-      "internal_id": "120cf99f5b71c89f79f81ed3a2765c804bbab06e828df650d3cf8d1328f5e6e5",
       "publishedAtLabel": "Feb 8"
     }
   ]

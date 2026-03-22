@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 24
-- **Last harvest:** 2026-03-22 07:21
-- **Most recent article:** 2026-03-21 07:20:22
+- **New articles in last harvest:** 14
+- **Last harvest:** 2026-03-22 19:12
+- **Most recent article:** 2026-03-21 19:08:38
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 112 | 111 | 83 | 426 |
-| meningitis | 4 | 6 | 126 | 7 | 3 | 5 | 151 |
-| dengue | 22 | 11 | 26 | 24 | 17 | 15 | 115 |
-| mpox | 10 | 16 | 11 | 13 | 25 | 27 | 102 |
-| rabies | 18 | 16 | 6 | 16 | 16 | 14 | 86 |
+| measles | 70 | 30 | 20 | 110 | 111 | 83 | 424 |
+| meningitis | 4 | 6 | 135 | 7 | 3 | 5 | 160 |
+| dengue | 22 | 11 | 28 | 24 | 17 | 15 | 117 |
+| mpox | 10 | 16 | 12 | 13 | 25 | 27 | 103 |
+| rabies | 18 | 16 | 7 | 16 | 16 | 14 | 87 |
 | malaria | 16 | 9 | 20 | 14 | 10 | 11 | 80 |
 | chikungunya | 1 | 7 | 6 | 12 | 40 | 6 | 72 |
-| h5n1 | 2 | 8 | 6 | 12 | 11 | 4 | 43 |
+| h5n1 | 2 | 8 | 7 | 11 | 11 | 4 | 43 |
 | zika | 1 | 2 | 4 | 3 | 3 | 2 | 15 |
 | leptospirosis | 2 | 1 | 3 | 2 | 4 | 3 | 15 |
 | hpai | 2 | 5 | 2 | 3 | 1 | 2 | 15 |
@@ -1245,10 +1245,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
-- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
-
-- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
-
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1316,8 +1312,6 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
-
-- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1411,6 +1405,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (rabies)
 
+- [10-year-old boy is latest rabies victim in S'wak](https://www.thestar.com.my/news/nation/2026/03/21/10-year-old-boy-is-latest-rabies-victim-in-s039wak) (The Star Online)
+
 - [Varnar för hundköp – risk för rabies](https://www.aftonbladet.se/nyheter/a/pBPylE/varnar-for-hundkop-risk-for-rabies) (Aftonbladet.se)
 
 - [‘Do not wait for symptoms’: Noida doctor shares what to do immediately after a dog bite](https://economictimes.indiatimes.com/news/new-updates/do-not-wait-for-symptoms-noida-doctor-shares-what-to-do-immediately-after-a-dog-bite/articleshow/129661020.cms) (The Times of India)
@@ -1424,6 +1420,8 @@ Source: [News API](https://newsapi.org/)
 - [Dipolog: LGU RIZAL NAGSAULOG SA RABIES AWARENESS MONTH PINAAGI SA LIBRENG BAKUNA SA MGA ALAGANG HAYOP](https://rpnradio.com/dipolog-lgu-rizal-nagsaulog-sa-rabies-awareness-month-pinaagi-sa-libreng-bakuna-sa-mga-alagang-hayop/) (Rpnradio.com)
 
 ## 26-12 (mpox)
+
+- [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
 
 - [Wellness expert reveals surprising health benefits of daily cold exposure: 'Huge difference'](https://www.foxnews.com/health/wellness-expert-reveals-surprising-health-benefits-daily-cold-exposure-huge-difference) (Fox News)
 
@@ -1448,6 +1446,24 @@ Source: [News API](https://newsapi.org/)
 - [Nova cepa do vírus da Mpox recombinante preocupa OMS e testes mostram que antiviral mais usado não é eficaz](https://www.terra.com.br/noticias/nova-cepa-do-virus-da-mpox-recombinante-preocupa-oms-e-testes-mostram-que-antiviral-mais-usado-nao-e-eficaz,e91774cb94cd1f69e3de394533acc16e93fs3nx0.html) (Terra.com.br)
 
 ## 26-12 (meningitis)
+
+- [UK meningitis outbreak cases rise to 34: official](https://www.channelnewsasia.com/world/uk-meningitis-outbreak-cases-rise-34-official-6009046) (CNA)
+
+- [Meningitis cases rise to 34 from 29 in British county of Kent outbreak](https://www.thejournal.ie/meningitis-b-britain-kent-6991355-Mar2026/) (TheJournal.ie)
+
+- [Meer dan twintig gevallen van meningitis in het VK, twee jongeren overleden](https://www.nrc.nl/nieuws/2026/03/21/meer-dan-twintig-gevallen-van-meningitis-in-het-vk-twee-jongeren-overleden-a4923645) (Www.nrc.nl)
+
+- [U.K.’s deadly meningitis outbreak shows importance of vaccination](https://www.scientificamerican.com/article/u-k-s-deadly-meningitis-outbreak-shows-importance-of-vaccination/) (Scientific American)
+
+- [Un español en el epicentro del brote de meningitis B en Kent: "Ha sido un poco apocalíptico"](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/21/69be7c82e9cf4a815f8b45ad.html) (El Mundo)
+
+- [Meningitis cases rise to 34 in UK as students queue for third day for vaccines](https://www.irishtimes.com/health/2026/03/21/meningitis-cases-rise-to-34-in-uk-as-students-queue-for-third-day-for-vaccines/) (The Irish Times)
+
+- [Meningitis cases rise as vaccine queues continue](https://www.bbc.com/news/articles/cg40ql71p9yo) (BBC News)
+
+- [Number of cases in UK meningitis outbreak rises to 34](https://www.rte.ie/news/uk/2026/0321/1564499-meningitis-uk/) (RTE)
+
+- [Meningitis outbreak: Total cases rise to 34](https://news.sky.com/story/meningitis-outbreak-total-cases-rise-to-34-13522491) (Sky.com)
 
 - [Five questions that still need answering about the meningitis outbreak](https://www.bbc.com/news/articles/cz783d70x8ro) (BBC News)
 
@@ -1801,6 +1817,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (h5n1)
 
+- [전북 장수 오리 농장서 고병원성 AI 확진···전국 60번째](https://www.khan.co.kr/article/202603212137001) (Khan.co.kr)
+
 - [Senapred declara alerta temprana preventiva en La Araucanía por detección de influenza aviar H5N1 en aves de corral](https://www.latercera.com/nacional/noticia/senapred-declara-alerta-temprana-preventiva-en-la-araucania-por-deteccion-de-influenza-aviar-h5n1-en-aves-de-corral/) (Latercera.com)
 
 - [Estudo lista ações para evitar surtos de H5N1 em mamíferos marinhos](https://www.metropoles.com/ciencia/surtos-h5n1-mamiferos-marinhos-america) (Metropoles.com)
@@ -1814,6 +1832,10 @@ Source: [News API](https://newsapi.org/)
 - [SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la Región Metropolitana](https://www.cnnchile.com/pais/sag-confirma-caso-influenza-aviar-aves-de-traspatio-region-metropolitana_20260318/) (Cnnchile.com)
 
 ## 26-12 (dengue)
+
+- [Felipeh Campos fala após internação: “Foi um susto grande”](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-fala-apos-internacao-foi-um-susto-grande) (Metropoles.com)
+
+- [Temperature, Larval Diet, and Density Effects on Development Rate and Survival of Aedes aegypti (Diptera: Culicidae)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0087468) (Plos.org)
 
 - [Felipeh Campos toma atitude após boatos sobre saúde e atualiza quadro](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-toma-atitude-apos-boatos-sobre-saude-e-atualiza-quadro) (Metropoles.com)
 
