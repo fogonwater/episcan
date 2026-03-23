@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 25
-- **Last harvest:** 2026-03-23 07:35
-- **Most recent article:** 2026-03-22 05:15:34
+- **New articles in last harvest:** 9
+- **Last harvest:** 2026-03-23 19:23
+- **Most recent article:** 2026-03-22 18:03:23
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 0 | 112 | 111 | 83 | 426 |
-| meningitis | 4 | 6 | 156 | 2 | 7 | 3 | 5 | 183 |
+| measles | 70 | 30 | 20 | 1 | 110 | 111 | 83 | 425 |
+| meningitis | 4 | 6 | 156 | 8 | 7 | 3 | 5 | 189 |
 | dengue | 22 | 11 | 28 | 0 | 24 | 17 | 15 | 117 |
 | mpox | 10 | 16 | 12 | 0 | 13 | 25 | 27 | 103 |
-| rabies | 18 | 16 | 7 | 0 | 16 | 16 | 14 | 87 |
+| rabies | 18 | 16 | 7 | 1 | 16 | 16 | 14 | 88 |
 | malaria | 16 | 9 | 20 | 0 | 14 | 10 | 11 | 80 |
 | chikungunya | 1 | 7 | 7 | 0 | 12 | 40 | 6 | 73 |
-| h5n1 | 2 | 8 | 7 | 0 | 12 | 11 | 4 | 44 |
+| h5n1 | 2 | 8 | 7 | 1 | 11 | 11 | 4 | 44 |
 | zika | 1 | 2 | 4 | 0 | 3 | 3 | 2 | 15 |
 | leptospirosis | 2 | 1 | 3 | 0 | 2 | 4 | 3 | 15 |
 | hpai | 2 | 5 | 2 | 0 | 3 | 1 | 2 | 15 |
@@ -1245,10 +1245,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
-- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
-
-- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
-
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1316,8 +1312,6 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
-
-- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1399,11 +1393,35 @@ Source: [News API](https://newsapi.org/)
 
 - [World Water Day 2026: Importance of Clean Water and Hydration for Health](https://www.metropolisindia.com/blog/preventive-healthcare/world-water-day) (Metropolisindia.com)
 
+## 26-13 (rabies)
+
+- [Sarawak reviewing strategies to strengthen rabies control](https://www.thestar.com.my/news/nation/2026/03/22/sarawak-reviewing-strategies-to-strengthen-rabies-control) (The Star Online)
+
 ## 26-13 (meningitis)
+
+- [What caused Kent meningitis outbreak? #health](https://alltoc.com/health/what-caused-kent-meningitis-outbreak) (Alltoc.com)
+
+- [Meningitis cases in Kent drop as vaccine rollout continues](https://www.thejournal.ie/meningitis-cases-in-kent-drop-as-vaccine-rollout-continues-6991723-Mar2026/) (TheJournal.ie)
+
+- [What’s causing the Kent meningitis outbreak? #health](https://alltoc.com/health/whats-causing-the-kent-meningitis-outbreak) (Alltoc.com)
+
+- [Kent meningitis cases drop as vaccine rollout continues](https://www.rte.ie/news/uk/2026/0322/1564610-meningitis-uk/) (RTE)
+
+- [Another college sees suspected meningitis case](https://www.bbc.com/news/articles/cwydl214dplo) (BBC News)
+
+- [Meningitis outbreak: Total cases in Kent falls](https://news.sky.com/story/meningitis-outbreak-total-cases-in-kent-falls-13522977) (Sky.com)
 
 - [What’s behind Kent’s meningitis outbreak surge? #health](https://alltoc.com/health/whats-behind-kents-meningitis-outbreak-surge) (Alltoc.com)
 
 - [How fast did MenB vaccine rollout happen? #health](https://alltoc.com/health/how-fast-did-menb-vaccine-rollout-happen) (Alltoc.com)
+
+## 26-13 (measles)
+
+- [Tsar Nicholas II’s Daughters Proudly Showing Their Bald Heads in 1917](https://www.vintag.es/2026/03/romanov-sisters-shaved-heads.html) (Vintag.es)
+
+## 26-13 (h5n1)
+
+- [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
 
 ## 26-12 (zika)
 
