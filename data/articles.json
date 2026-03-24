@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-03-23 19:23",
-  "count_articles_total": 1158,
-  "count_articles_new": 9,
+  "last_updated": "2026-03-24 07:28",
+  "count_articles_total": 1180,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 28615,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Faz.net",
+      "author": "Florian Sanktjohanser",
+      "title": "Wandern auf Tahiti: In das gr\u00fcne Herz der S\u00fcdsee",
+      "description": "Die Vall\u00e9e de Papenoo ist Tahitis gr\u00f6\u00dftes Tal. Auf einer Wanderung lernt man viel \u00fcber Natur und Geschichte der Insel \u2013 und \u00fcber die Wiedergeburt der polynesischen Kultur.",
+      "url": "https://www.faz.net/aktuell/reise/wandern-auf-tahiti-im-vallee-de-papenoo-accg-200650673.html",
+      "urlToImage": "https://media0.faz.net/image/w1200h627/7d2173749419/w5500h2873x0y364o/202603/197f27da-2223-11f1-9971-7ba8e7492b43/vulkanische-grundlage-das.webp",
+      "publishedAt": "2026-03-23 06:10:35",
+      "content": "Tahitis Urwald ist h\u00fcbsch und harmlos. Keine Giftschlangen, keine Gro\u00dfkatzen, nicht mal Malaria. Und doch zucke ich zusammen, als es pl\u00f6tzlich h\u00f6llisch am Hals brennt. Ah, eine Feuerameise, ruft Teha\u2026 [+7397 chars]",
+      "retrievedAt": "2026-03-24 07:28:43.194618",
+      "internal_id": "afbd904e90ec8e1b47462fa4a958c94a0e21a72192753d78a6837eaa8d713a68",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 28607,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How did MenB meningitis spread in Kent? #health",
+      "description": "MenB meningitis outbreak: what happened and why it mattered An outbreak of invasive meningococcal disease in Kent, England has been linked to a university nightclub setting, with public health authorities moving quickly to identify cases and interrupt transmi\u2026",
+      "url": "https://alltoc.com/health/how-did-menb-meningitis-spread-in-kent",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-23 06:03:44",
+      "content": "An outbreak of invasive meningococcal disease in Kent, England has been linked to a university nightclub setting, with public health authorities moving quickly to identify cases and interrupt transmi\u2026 [+1701 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.855514",
+      "internal_id": "b8b1f375dab6c29861251ed4c9e5744921aca55981b3b2f433f9ca4d6e33fbf3",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 28597,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "AdvanSentinel\u30fb\u5bae\u5d0e\u5927\u5b66\u30fb\u5bae\u5d0e\u770c\u304c\u3001\u6e21\u308a\u9ce5\u304c\u98db\u6765\u3059\u308b\u6e56\u6cbc\u6c34\u3067\u306e\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3\u30b6\u30a6\u30a4\u30eb\u30b9\u691c\u51fa\u60c5\u5831\u3092\u990a\u9d8f\u4e8b\u696d\u8005\u306e\u9632\u75ab\u306b\u6d3b\u7528\u3059\u308b\u305f\u3081\u306e\u5171\u540c\u7814\u7a76\u3092\u958b\u59cb",
+      "description": "[\u682a\u5f0f\u4f1a\u793eAdvanSentinel] \u682a\u5f0f\u4f1a\u793eAdvanSentinel\uff08\u672c\u793e\uff1a\u5927\u962a\u5e02\u3001\u4ee3\u8868\u53d6\u7de0\u5f79\u793e\u9577\uff1a\u897f\u7530 \u90fd\u3001\u4ee5\u4e0bAdvanSentinel\uff09\u30fb\u56fd\u7acb\u5927\u5b66\u6cd5\u4eba\u5bae\u5d0e\u5927\u5b66\uff08\u5b66\u9577\uff1a\u9bab\u5cf6 \u6d69\u3001\u4ee5\u4e0b\u5bae\u5d0e\u5927\u5b66\uff09\u30fb\u5bae\u5d0e\u770c\u306f\u3001\u6e21\u308a\u9ce5\u304c\u98db\u6765\u3057\u305f\u6e56\u6cbc\u6c34\u304b\u3089\u306e\u9ad8\u75c5\u539f\u6027\u9ce5\u30a4\u30f3\u30d5\u30eb\u30a8\u30f3...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000012.000143755.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/143755/12/143755-12-3973f08292e46058d1e93854374f4795-1205x670.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-03-23 05:40:42",
+      "content": "AdvanSentinel AdvanSentinel HPAI 20246HPAI HPAIHPAI AdvanSentinelAdvanSentinel 2025912026831 AdvanSentinel CADIC CADICHPAI AdvanSentinelHPAI10H\u2026 [+24 chars]",
+      "retrievedAt": "2026-03-24 07:28:41.320970",
+      "internal_id": "6db3606d123a5f2bf92916adc7f32f2e14d7b23200632fee4561fc981c4d148f",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 28599,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "ScienceAlert",
+      "author": "Octavia Calder-Dawe & Kate Smith, The Conversation",
+      "title": "Bacterial Meningitis Survivors Face Life\u2011Altering Effects, Expert Says",
+      "description": "Bacterial meningitis is once again in global headlines, with recent cases linked to the University of Otago in New Zealand and a fast-growing outbreak at the University of Kent in England.",
+      "url": "https://www.sciencealert.com/bacterial-meningitis-survivors-face-life\u2011altering-effects-expert-says",
+      "urlToImage": "https://www.sciencealert.com/images/2026/03/Copy-of-Template-for-CMS-Cover-Image-1200x675-1.jpg",
+      "publishedAt": "2026-03-23 01:14:59",
+      "content": "Bacterial meningitis is once again in global headlines, with recent cases linked to the University of Otago in New Zealand and a fast-growing outbreak at the University of Kent in England. Bacterial\u2026 [+4893 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.386567",
+      "internal_id": "ed5fcca108ab2c717eddbfe4e02efa4ba88ac06dc2c1a22ffa792876a6b48ec8",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 28602,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What caused the Kent meningitis outbreak? #health",
+      "description": "Kent outbreak: what\u2019s behind the explosive MenB spread? In southern England, an outbreak of invasive meningococcal disease\u2014specifically meningitis B (MenB)\u2014has led to multiple deaths and hundreds of close contact exposures among students and other people in t\u2026",
+      "url": "https://alltoc.com/health/what-caused-the-kent-meningitis-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-23 00:03:55",
+      "content": "Kent outbreak: whats behind the explosive MenB spread? In southern England, an outbreak of invasive meningococcal diseasespecifically meningitis B (MenB)has led to multiple deaths and hundreds of cl\u2026 [+1712 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.721851",
+      "internal_id": "6574fdffbf6cd774ae146b2eda253da0c6f6022fe84ad706138020127d562ea6",
+      "publishedAtLabel": "Mar 23"
+    },
+    {
+      "id": 28601,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Grafschaft Kent: Zahl der Meningitis-F\u00e4lle in England gesunken \u2013 noch keine Entwarnung",
+      "description": "Nach dem Meningitis-Ausbruch in Kent gehen die Fallzahlen in England zur\u00fcck. Trotz Ma\u00dfnahmen bleibt die Lage f\u00fcr Beh\u00f6rden herausfordernd.",
+      "url": "https://www.stern.de/gesundheit/meningitis-in-england--fallzahlen-sinken-nach-ausbruch-mit-zwei-toten-37244876.html",
+      "urlToImage": "https://image.stern.de/37244884/t/GL/v3/w1440/r1.7778/-/meningitis-england.jpg",
+      "publishedAt": "2026-03-22 20:35:00",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Nach dem Meningitis-Ausbruch in S\u00fcdengland sinken die Fallzahlen leicht. Die Beh\u00f6rden warnen jedoch weiter vor einer angespannten Lage. Nach dem\u2026 [+1732 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.583537",
+      "internal_id": "d611904426fccc2510e406bf100d51b184db8c5c6839a206994fdf2aa423021b",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28598,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Felipeh Campos recebe alta ap\u00f3s quadro grave de dengue",
+      "description": "Comunicador Felipeh Campos deixou hospital em SP neste domingo (22/3) ap\u00f3s quatro dias internado",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-recebe-alta-apos-quadro-grave-de-dengue",
+      "urlToImage": "https://i.metroimg.com/Qow3J1vfIfVTrRORU1yVlNqmlhWGusJiKuy3mH2pzEY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/felipeh-campos-internado-hospital-sao-paulo-estado-grave-1.jpg",
+      "publishedAt": "2026-03-22 19:34:07",
+      "content": "Felipeh Campos recebeu alta neste domingo (22/3) ap\u00f3s enfrentar um quadro cr\u00edtico de dengue. O apresentador da Band foi internado na \u00faltima quarta-feira (19/3) no hospital Benefici\u00eancia Portugues em\u2026 [+1767 chars]",
+      "retrievedAt": "2026-03-24 07:28:41.794608",
+      "internal_id": "3d78b7f5cc22e7ee2518b895facb58c8f65dd465fbe2d8ad605cf88e433f8a59",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28600,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "UK authorities revise meningitis outbreak cases to 29",
+      "description": "British health authorities revise the meningitis outbreak UK cases to 29. Learn about the vaccination efforts and the MenB strain affecting Kent. Read More: https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/",
+      "url": "https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/04/11123350/650x350_meningitis_what_is_it_ref_guide.jpg",
+      "publishedAt": "2026-03-22 19:24:53",
+      "content": "British health authorities on Sunday revised down the number of confirmed and likely cases from a meningitis outbreak in southeast England to 29, from a figure of 34 given previously. The UK Health \u2026 [+1326 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.468195",
+      "internal_id": "7340092cad392d6d8e7c437e6307bde9242eba93f45655aa8d6a92bd255ac226",
+      "publishedAtLabel": "Mar 22"
+    },
     {
       "id": 28596,
       "query": [
@@ -73,6 +217,24 @@
       "content": "Health authorities and experts describe the Kent outbreak as unusual in size and speed and still centered on a student-related cluster. Cases have been linked to social settings in the area, includin\u2026 [+1564 chars]",
       "retrievedAt": "2026-03-23 19:23:10.925457",
       "internal_id": "5ae94c43e7f8088d55289aa0cff01b3bb94a82b515f573eb706e9847ea090c5d",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28606,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How is meningitis B spread and preventable? #health",
+      "description": "What is known about MenB transmission and prevention The Kent cluster has focused attention on MenB\u2014meningococcal meningitis caused by serogroup B\u2014because spread can be fast among people who spend time together in close settings. How it spreads MenB transmiss\u2026",
+      "url": "https://alltoc.com/health/how-is-meningitis-b-spread-and-preventable",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-22 12:04:06",
+      "content": "The Kent cluster has focused attention on MenBmeningococcal meningitis caused by serogroup Bbecause spread can be fast among people who spend time together in close settings. How it spreads MenB tr\u2026 [+1333 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.843027",
+      "internal_id": "f3ac2ff28d6757354a1327834983b084f45b48656e0c522399d997c7b6fe8abe",
       "publishedAtLabel": "Mar 22"
     },
     {
@@ -436,6 +598,24 @@
       "publishedAtLabel": "Mar 21"
     },
     {
+      "id": 28609,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How many people were affected in Kent? #health",
+      "description": "Kent meningitis outbreak: confirmed cases, deaths, and totals The Kent outbreak of invasive meningococcal disease has affected at least dozens of people, with totals evolving as investigators confirmed additional infections and treated exposures. In reporting\u2026",
+      "url": "https://alltoc.com/health/how-many-people-were-affected-in-kent",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-21 12:03:46",
+      "content": "The Kent outbreak of invasive meningococcal disease has affected at least dozens of people, with totals evolving as investigators confirmed additional infections and treated exposures. In reporting \u2026 [+1521 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.880940",
+      "internal_id": "ef9f7fec6e9d7ad95a360f447e1124bc0ca5dc5497837f8215300dcb9edd7633",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
       "id": 28553,
       "query": [
         "meningitis"
@@ -562,6 +742,24 @@
       "publishedAtLabel": "Mar 21"
     },
     {
+      "id": 28611,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "There are no meningitis restrictions in Canterbury - but something feels different",
+      "description": "Events are cancelled and businesses say the city feels quieter after the start of the outbreak which has killed two young people.",
+      "url": "https://www.bbc.com/news/articles/c1mk092gmreo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6872/live/b8b9d350-250b-11f1-b297-95b0a0a8331e.jpg",
+      "publishedAt": "2026-03-21 09:51:54",
+      "content": "In response, public health officials have made vaccinations and preventative antibiotics available to thousands of students, staff, club attendees and close contacts of cases. Pop-up vaccine clinics \u2026 [+41 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.905971",
+      "internal_id": "021fc20c96763d01f37c11144ff3c2c2cad4e2f0c90955ebebdf292a486f07ca",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
       "id": 28560,
       "query": [
         "meningitis"
@@ -598,6 +796,42 @@
       "publishedAtLabel": "Mar 21"
     },
     {
+      "id": 28613,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How is MenB vaccine eligibility being considered? #health",
+      "description": "Experts consider expanding MenB vaccine eligibility after Kent After a MenB (meningitis B) outbreak in Kent that has caused deaths and sickened multiple people, experts are weighing whether eligibility for MenB vaccination should be broadened. A scientific ad\u2026",
+      "url": "https://alltoc.com/health/how-is-menb-vaccine-eligibility-being-considered",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-21 06:04:06",
+      "content": "After a MenB (meningitis B) outbreak in Kent that has caused deaths and sickened multiple people, experts are weighing whether eligibility for MenB vaccination should be broadened. A scientific advi\u2026 [+1652 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.931799",
+      "internal_id": "3d9c774d0ba3dacc0f7a0bfd134609adca73e58b44de17e68f37e0f2579d16ca",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28614,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Independent.ie",
+      "author": "Eilish O'Regan",
+      "title": "Meningitis strain in Kent outbreak has led to 12 deaths in Ireland in past five years",
+      "description": "Twelve people in Ireland have died over the last five years from the dangerous strain of meningitis found in several of those infected in the outbreak of the disease in Kent, England.",
+      "url": "https://www.independent.ie/irish-news/meningitis-strain-in-kent-outbreak-has-led-to-12-deaths-in-ireland-in-past-five-years/a1396390330.html",
+      "urlToImage": "https://focus.independent.ie/thumbor/YR_S9SWflIxdX0RVc74GOEV0USI=/0x0:3238x2158/629x0/prod-mh-ireland/691c01d5-d641-4cc1-9796-14cd13c7fe5f/cbb1b9fa-3a90-416d-bba9-58048059298e/691c01d5-d641-4cc1-9796-14cd13c7fe5f.jpg",
+      "publishedAt": "2026-03-21 05:30:00",
+      "content": "Twelve people in Ireland have died over the last five years from the dangerous strain of meningitis found in several of those infected in the outbreak of the disease in Kent, England. The 12 deaths,\u2026 [+106 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.944360",
+      "internal_id": "78a470eacbbea505cdbfe44e287a13c530fbc6f05a2e2977cb938085cb0a3f64",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
       "id": 28572,
       "query": [
         "meningitis"
@@ -613,6 +847,24 @@
       "content": "LONDON: Young people in southeast England and beyond are lining up for the meningitis B vaccine after an outbreak killed two people, sparking supply warnings from pharmacies and raising broader quest\u2026 [+3867 chars]",
       "retrievedAt": "2026-03-23 07:35:08.133122",
       "internal_id": "02d77b7d226da8a7ded2ad190705da1613be36f9aa2671e9e99f209fb1060aa1",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28608,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "NYT News Service",
+      "title": "UK meningitis outbreak evokes COVID memories & horrible sight",
+      "description": "A meningitis outbreak at the University of Kent has led to two deaths and at least 29 infections, prompting public health measures including vaccinations and preventive antibiotics. Students and staff are receiving targeted vaccines for \"group B\" meningococca\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/uk-meningitis-outbreak-evokes-covid-memories-horrible-sight/articleshow/129712388.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129712414,width-1200,height-630,imgsize-238326,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-21 03:13:12",
+      "content": "CANTERBURY: Much of the University of Kent campus outside Canterbury was eerily deserted on Thursday, except for a line of masked students waiting to be vaccinated, after the site in southeastern Eng\u2026 [+4704 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.868083",
+      "internal_id": "5461ed20794c3239fb156b70395f124910037a096eac880ba32360ad39e7903c",
       "publishedAtLabel": "Mar 21"
     },
     {
@@ -703,6 +955,24 @@
       "content": "A fast-growing meningitis outbreak in southern England has affected students and nearby communities, with health authorities identifying it as invasive meningococcal disease caused by the MenB strain\u2026 [+1551 chars]",
       "retrievedAt": "2026-03-23 07:35:08.185529",
       "internal_id": "b08c0b6bcbc64c1e0b41f98125c1b0675490f035e4f00853387d56dbbf10b881",
+      "publishedAtLabel": "Mar 21"
+    },
+    {
+      "id": 28612,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How will Kent MenB vaccine eligibility change? #health",
+      "description": "Experts review whether MenB vaccines should reach more people After the meningitis B (MenB) outbreak in Kent, a scientific advisory committee is considering whether to expand vaccine eligibility. The key issue is coverage: the MenB strain involved in the outb\u2026",
+      "url": "https://alltoc.com/health/how-will-kent-menb-vaccine-eligibility-change",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-21 00:04:11",
+      "content": "After the meningitis B (MenB) outbreak in Kent, a scientific advisory committee is considering whether to expand vaccine eligibility. The key issue is coverage: the MenB strain involved in the outbre\u2026 [+1610 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.918492",
+      "internal_id": "7c96ba92335a51a9358bc1a16b7e2564462ba72fd75fec24478bbc6fbe70780d",
       "publishedAtLabel": "Mar 21"
     },
     {
@@ -937,6 +1207,24 @@
       "content": "Pular para o conte\u00fado Abril Day: Assine VEJA por apenas 9,90 Por Reda\u00e7\u00e3o VEJA Sa\u00fade 20 mar 2026, 13h22 \u2022 Atualizado em 20 mar 2026, 13h27 Felipeh Campos (Divulga\u00e7\u00e3o/Divulga\u00e7\u00e3o) Continua ap\u00f3s \u2026 [+3714 chars]",
       "retrievedAt": "2026-03-21 19:11:03.166859",
       "internal_id": "bfe6cf0faaeb4f6ae0e4b35eae1594ffe268013cb07ecfbff163b1916fd78d16",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28610,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "ET Online",
+      "title": "This headache can kill in 24 hours. Here's what doctors want you to know",
+      "description": "A deadly bacterial meningitis can strike fast. Early signs like a stiff neck, a specific rash, and extreme light sensitivity demand urgent medical help. This infection progresses rapidly, leaving little time for delay. Prevention through masks, hygiene, and v\u2026",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/this-headache-can-kill-in-24-hours-heres-what-doctors-want-you-to-know/articleshow/129704060.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129704871,width-1200,height-630,imgsize-41102,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2026-03-20 16:17:08",
+      "content": "A headache is usually harmless, but theres one type that can turn deadly in a single day. Bacterial meningitis progresses rapidly, often leaving no time to wait and see. Dr Priyam Bordoloi, a physici\u2026 [+3475 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.893510",
+      "internal_id": "dabf9295a3cc1ab3d6e8d9dc74bcd89f1a8db9abc775f4ebc33b3b5fd21f9eb6",
       "publishedAtLabel": "Mar 20"
     },
     {
@@ -1248,6 +1536,24 @@
       "publishedAtLabel": "Mar 20"
     },
     {
+      "id": 28603,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What is the MenB vaccine situation in UK Kent? #health",
+      "description": "MenB vaccine demand and guidance during the Kent outbreak During the meningitis outbreak in Kent, public messaging has been dominated by a practical question: who should get the MenB vaccine, and whether people need to buy it privately. In the provided storie\u2026",
+      "url": "https://alltoc.com/health/what-is-the-menb-vaccine-situation-in-uk-kent",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-20 12:03:48",
+      "content": "During the meningitis outbreak in Kent, public messaging has been dominated by a practical question: who should get the MenB vaccine, and whether people need to buy it privately. In the provided sto\u2026 [+1544 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.803480",
+      "internal_id": "cfd83c7a988052e55a73c46b90f79de6dde53715591e46d7250567722e2624e5",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
       "id": 28541,
       "query": [
         "meningitis"
@@ -1407,6 +1713,42 @@
       "content": "\"I remember leaving hospital that day just so deflated because I just didn't know how Mark was going to be because at that stage he was just lying awake, he wasn't moving, he wasn't moving his arms, \u2026 [+22 chars]",
       "retrievedAt": "2026-03-21 07:17:59.412648",
       "internal_id": "0072b53b12f432c9d6af8afe010d4a91575ec034a8105af50e6b218ce1c78e23",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28604,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What did the Kent meningitis outbreak prompt? #health",
+      "description": "What officials did as MenB spread in Kent In Kent, England, a cluster of meningococcal disease cases linked to a student nightlife setting triggered an expanded public health response aimed at stopping transmission and preventing further deaths. As the number\u2026",
+      "url": "https://alltoc.com/health/what-did-the-kent-meningitis-outbreak-prompt",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-20 06:04:20",
+      "content": "In Kent, England, a cluster of meningococcal disease cases linked to a student nightlife setting triggered an expanded public health response aimed at stopping transmission and preventing further dea\u2026 [+1456 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.817516",
+      "internal_id": "3e84e0af1292d8f834329d1c43439c8074fbe6d6664aed8f0466b9d625581a65",
+      "publishedAtLabel": "Mar 20"
+    },
+    {
+      "id": 28605,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How many meningitis cases were linked to Kent? #health",
+      "description": "How many cases were linked to Kent\u2019s outbreak Coverage tied to the Kent outbreak indicates the number of investigated cases increased over the reporting period, with health authorities updating figures as they refined the investigation and offered vaccination\u2026",
+      "url": "https://alltoc.com/health/how-many-meningitis-cases-were-linked-to-kent",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-20 06:04:20",
+      "content": "Coverage tied to the Kent outbreak indicates the number of investigated cases increased over the reporting period, with health authorities updating figures as they refined the investigation and offer\u2026 [+1028 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.830453",
+      "internal_id": "29c30b9d8b76d6b67bb55cce84a8ad58b2991ed6d5a99ceeae0cf1e390f0fd5c",
       "publishedAtLabel": "Mar 20"
     },
     {
@@ -20871,6 +21213,60 @@
       "content": "WASHINGTON -- A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing it\u2026 [+6421 chars]",
       "retrievedAt": "2026-02-10 07:29:48.760315",
       "internal_id": "e8be81c292df08f70c70726c3781bfd2549b22d51f5b08909d41eb33637378b1",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27430,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Dr. Scott Gottlieb says measles outbreak may \"get worse, unfortunately, before it resolves\"",
+      "description": "Former FDA Commissioner Dr. Scott Gottlieb, who sits on the boards of Pfizer and UnitedHealthcare, told \"Face the Nation with Margaret Brennan\" that the current measles outbreak could be a \"long cycle, especially now that this has gotten embedded in political\u2026",
+      "url": "https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/08/d23efcef-ccc8-4ff6-ad90-2424ebfa7c08/thumbnail/1200x630/64aa23137f56de268ab21ab8512d8e59/cbsn-fusion-dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves-thumbnail.jpg",
+      "publishedAt": "2026-02-08 18:48:00",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-02-09 19:33:32.146881",
+      "internal_id": "d53faee33d148860b0fa18390927ba9b49bb9e2e851e7c4377bc8281ce8df364",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27431,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Rick Lye",
+      "title": "Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis\u2014Is Your Family at Risk?",
+      "description": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) issued a formal warning regarding an additional case of measl\u2026",
+      "url": "https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/11/disneyland-marquee-steven-miller-flickr.jpg",
+      "publishedAt": "2026-02-08 14:40:54",
+      "content": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) i\u2026 [+6917 chars]",
+      "retrievedAt": "2026-02-09 19:33:32.238856",
+      "internal_id": "ca8ffcf7d60394c586e3e9a8f7df293bfeb0ccb722b475db872d4a2cd2425d29",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27432,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tv9kannada.com",
+      "author": "Vinay Kashappanavar",
+      "title": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0c85\u0cac\u0ccd\u0cac\u0cb0: \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4\u0cc1 H5N1 \u0c9f\u0cc6\u0ca8\u0ccd\u0cb7\u0ca8\u0ccd",
+      "description": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf H5N1 \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0cad\u0cc0\u0ca4\u0cbf \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 H5N1 \u0cb5\u0cc8\u0cb0\u0cb8\u0ccd \u0c86\u0ca4\u0c82\u0c95 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0ca4 \u0caa\u0c95\u0ccd\u0cb7\u0cbf\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cae\u0cbe\u0ca8\u0cb5\u0cb0\u0cbf\u0c97\u0cc6 \u0cb9\u0cb0\u0ca1\u0cc1\u0cb5 \u0c88 \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6\u0cbf\u0c82\u0ca6 \u0c89\u0c82\u0c9f\u0cbe\u0c97\u0cc1\u0cb5 \u0cb8\u0cbe\u0cb5\u0cbf\u0ca8 \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0cb0\u0ccb\u0c97 \u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0cb2\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0ca6\u0c82\u0ca4\u0cc6 \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0cb0\u0cc1 \u0cb8\u0cc2\u0c9a\u0cbf\u0cb8\u0cbf\u0ca6\u0ccd\u0ca6\u0cbe\u0cb0\u0cc6. \u0c85\u0cb7\u0ccd\u0c9f\u0c95\u0ccd\u0c95\u0cc2 \u0c88 \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0c97\u0cc6 \u0ca4\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0ca6\u0cb5\u0cb0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf\u2026",
+      "url": "https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html",
+      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2026/02/bird-flue.jpg",
+      "publishedAt": "2026-02-08 11:20:30",
+      "content": ", 08: H5N1 . 1,500 , . . . ? H5N1 , , . , . 4 6 . : ? ? .. ., . .50, . . . . . .",
+      "retrievedAt": "2026-02-09 19:33:32.929027",
+      "internal_id": "120cf99f5b71c89f79f81ed3a2765c804bbab06e828df650d3cf8d1328f5e6e5",
       "publishedAtLabel": "Feb 8"
     }
   ]

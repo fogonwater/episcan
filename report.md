@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-03-23 19:23
-- **Most recent article:** 2026-03-22 18:03:23
+- **New articles in last harvest:** 19
+- **Last harvest:** 2026-03-24 07:28
+- **Most recent article:** 2026-03-23 06:10:35
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 1 | 110 | 111 | 83 | 425 |
-| meningitis | 4 | 6 | 156 | 8 | 7 | 3 | 5 | 189 |
-| dengue | 22 | 11 | 28 | 0 | 24 | 17 | 15 | 117 |
+| measles | 70 | 30 | 20 | 1 | 112 | 111 | 83 | 427 |
+| meningitis | 4 | 6 | 166 | 14 | 7 | 3 | 5 | 205 |
+| dengue | 22 | 11 | 28 | 1 | 24 | 17 | 15 | 118 |
 | mpox | 10 | 16 | 12 | 0 | 13 | 25 | 27 | 103 |
 | rabies | 18 | 16 | 7 | 1 | 16 | 16 | 14 | 88 |
-| malaria | 16 | 9 | 20 | 0 | 14 | 10 | 11 | 80 |
+| malaria | 16 | 9 | 20 | 1 | 14 | 10 | 11 | 81 |
 | chikungunya | 1 | 7 | 7 | 0 | 12 | 40 | 6 | 73 |
-| h5n1 | 2 | 8 | 7 | 1 | 11 | 11 | 4 | 44 |
+| h5n1 | 2 | 8 | 7 | 1 | 12 | 11 | 4 | 45 |
+| hpai | 2 | 5 | 2 | 1 | 3 | 1 | 2 | 16 |
 | zika | 1 | 2 | 4 | 0 | 3 | 3 | 2 | 15 |
 | leptospirosis | 2 | 1 | 3 | 0 | 2 | 4 | 3 | 15 |
-| hpai | 2 | 5 | 2 | 0 | 3 | 1 | 2 | 15 |
 | typhoid | 3 | 0 | 0 | 1 | 0 | 2 | 2 | 8 |
 | yersinia | 2 | 0 | 1 | 0 | 2 | 1 | 1 | 7 |
 | pertussis | 1 | 2 | 0 | 0 | 1 | 0 | 0 | 4 |
@@ -1245,6 +1245,10 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
+- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
+
+- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
+
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1312,6 +1316,8 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
+
+- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1399,11 +1405,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (meningitis)
 
+- [How did MenB meningitis spread in Kent? #health](https://alltoc.com/health/how-did-menb-meningitis-spread-in-kent) (Alltoc.com)
+
+- [Bacterial Meningitis Survivors Face Life‑Altering Effects, Expert Says](https://www.sciencealert.com/bacterial-meningitis-survivors-face-life‑altering-effects-expert-says) (ScienceAlert)
+
+- [What caused the Kent meningitis outbreak? #health](https://alltoc.com/health/what-caused-the-kent-meningitis-outbreak) (Alltoc.com)
+
+- [Grafschaft Kent: Zahl der Meningitis-Fälle in England gesunken – noch keine Entwarnung](https://www.stern.de/gesundheit/meningitis-in-england--fallzahlen-sinken-nach-ausbruch-mit-zwei-toten-37244876.html) (STERN.de)
+
+- [UK authorities revise meningitis outbreak cases to 29](https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/) (The Punch)
+
 - [What caused Kent meningitis outbreak? #health](https://alltoc.com/health/what-caused-kent-meningitis-outbreak) (Alltoc.com)
 
 - [Meningitis cases in Kent drop as vaccine rollout continues](https://www.thejournal.ie/meningitis-cases-in-kent-drop-as-vaccine-rollout-continues-6991723-Mar2026/) (TheJournal.ie)
 
 - [What’s causing the Kent meningitis outbreak? #health](https://alltoc.com/health/whats-causing-the-kent-meningitis-outbreak) (Alltoc.com)
+
+- [How is meningitis B spread and preventable? #health](https://alltoc.com/health/how-is-meningitis-b-spread-and-preventable) (Alltoc.com)
 
 - [Kent meningitis cases drop as vaccine rollout continues](https://www.rte.ie/news/uk/2026/0322/1564610-meningitis-uk/) (RTE)
 
@@ -1419,9 +1437,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Tsar Nicholas II’s Daughters Proudly Showing Their Bald Heads in 1917](https://www.vintag.es/2026/03/romanov-sisters-shaved-heads.html) (Vintag.es)
 
+## 26-13 (malaria)
+
+- [Wandern auf Tahiti: In das grüne Herz der Südsee](https://www.faz.net/aktuell/reise/wandern-auf-tahiti-im-vallee-de-papenoo-accg-200650673.html) (Faz.net)
+
+## 26-13 (hpai)
+
+- [AdvanSentinel・宮崎大学・宮崎県が、渡り鳥が飛来する湖沼水での鳥インフルエンザウイルス検出情報を養鶏事業者の防疫に活用するための共同研究を開始](https://prtimes.jp/main/html/rd/p/000000012.000143755.html) (Prtimes.jp)
+
 ## 26-13 (h5n1)
 
 - [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
+
+## 26-13 (dengue)
+
+- [Felipeh Campos recebe alta após quadro grave de dengue](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-recebe-alta-apos-quadro-grave-de-dengue) (Metropoles.com)
 
 ## 26-12 (zika)
 
@@ -1497,6 +1527,8 @@ Source: [News API](https://newsapi.org/)
 
 - [What caused Kent’s meningitis outbreak escalation? #health](https://alltoc.com/health/what-caused-kents-meningitis-outbreak-escalation) (Alltoc.com)
 
+- [How many people were affected in Kent? #health](https://alltoc.com/health/how-many-people-were-affected-in-kent) (Alltoc.com)
+
 - [U.K.’s deadly meningitis outbreak shows importance of vaccination](https://www.scientificamerican.com/article/u-k-s-deadly-meningitis-outbreak-shows-importance-of-vaccination/) (Scientific American)
 
 - [Un español en el epicentro del brote de meningitis B en Kent: "Ha sido un poco apocalíptico"](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/21/69be7c82e9cf4a815f8b45ad.html) (El Mundo)
@@ -1507,15 +1539,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Number of cases in UK meningitis outbreak rises to 34](https://www.rte.ie/news/uk/2026/0321/1564499-meningitis-uk/) (RTE)
 
+- [There are no meningitis restrictions in Canterbury - but something feels different](https://www.bbc.com/news/articles/c1mk092gmreo) (BBC News)
+
 - [Meningitis outbreak: Total cases rise to 34](https://news.sky.com/story/meningitis-outbreak-total-cases-rise-to-34-13522491) (Sky.com)
 
+- [How is MenB vaccine eligibility being considered? #health](https://alltoc.com/health/how-is-menb-vaccine-eligibility-being-considered) (Alltoc.com)
+
+- [Meningitis strain in Kent outbreak has led to 12 deaths in Ireland in past five years](https://www.independent.ie/irish-news/meningitis-strain-in-kent-outbreak-has-led-to-12-deaths-in-ireland-in-past-five-years/a1396390330.html) (Independent.ie)
+
 - [Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate](https://economictimes.indiatimes.com/news/international/world-news/kent-meningitis-outbreak-triggers-surge-in-uk-vaccine-demand-policy-debate/articleshow/129712453.cms) (The Times of India)
+
+- [UK meningitis outbreak evokes COVID memories & horrible sight](https://economictimes.indiatimes.com/news/international/world-news/uk-meningitis-outbreak-evokes-covid-memories-horrible-sight/articleshow/129712388.cms) (The Times of India)
 
 - [Five questions that still need answering about the meningitis outbreak](https://www.bbc.com/news/articles/cz783d70x8ro) (BBC News)
 
 - [El brote de meningitis que azota el sureste de Inglaterra llega al pico de contagios](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/21/69bd7343e4d4d82e3c8b4570.html) (El Mundo)
 
 - [What caused meningitis outbreak in Kent? #health](https://alltoc.com/health/what-caused-meningitis-outbreak-in-kent) (Alltoc.com)
+
+- [How will Kent MenB vaccine eligibility change? #health](https://alltoc.com/health/how-will-kent-menb-vaccine-eligibility-change) (Alltoc.com)
 
 - [What caused Kent meningitis outbreak spread? #health](https://alltoc.com/health/what-caused-kent-meningitis-outbreak-spread) (Alltoc.com)
 
@@ -1528,6 +1570,8 @@ Source: [News API](https://newsapi.org/)
 - [El Ministerio de Sanidad se pronuncia sobre el brote de meningitis de Reino Unido: estas son las advertencias](https://www.mundodeportivo.com/pulso/20260320/1004156492/ministerio-sanidad-pronuncia-sobre-brote-meningitis-reino-unido-estas-advertencias-dct.html) (Mundodeportivo.com)
 
 - ['I feel so grateful to be alive': Meningitis survivor speaks to the BBC](https://www.bbc.com/news/videos/cp3ld6dq4d1o) (BBC News)
+
+- [This headache can kill in 24 hours. Here's what doctors want you to know](https://economictimes.indiatimes.com/magazines/panache/this-headache-can-kill-in-24-hours-heres-what-doctors-want-you-to-know/articleshow/129704060.cms) (The Times of India)
 
 - [Muere un adolescente de 15 años por meningitis en Don Benito (Badajoz)](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/20/69bd6f41e9cf4a727d8b45c0.html) (El Mundo)
 
@@ -1555,6 +1599,8 @@ Source: [News API](https://newsapi.org/)
 
 - [How many cases are linked to Kent? #health](https://alltoc.com/health/how-many-cases-are-linked-to-kent) (Alltoc.com)
 
+- [What is the MenB vaccine situation in UK Kent? #health](https://alltoc.com/health/what-is-the-menb-vaccine-situation-in-uk-kent) (Alltoc.com)
+
 - [What triggered Kent’s meningitis outbreak? #science](https://alltoc.com/science/what-triggered-kents-meningitis-outbreak) (Alltoc.com)
 
 - [Meningitis-Ausbruch: Müssen wir jetzt unsere Kinder impfen lassen?](https://www.brigitte.de/gesund/gesundheit/meningitis-ausbruch--muessen-wir-jetzt-unsere-kinder-impfen--14069062.html) (Brigitte.de)
@@ -1570,6 +1616,10 @@ Source: [News API](https://newsapi.org/)
 - [Family of teen who died from meningitis outbreak issue desperate plea as they explain her first symptoms](https://www.ladbible.com/news/uk-news/meningitis-outbreak-uk-news-family-health-symptoms-infection-444954-20260320) (LADbible)
 
 - [I went to bed with a sore ear, meningitis put me in a coma](https://www.bbc.com/news/articles/c747lme8pg1o) (BBC News)
+
+- [What did the Kent meningitis outbreak prompt? #health](https://alltoc.com/health/what-did-the-kent-meningitis-outbreak-prompt) (Alltoc.com)
+
+- [How many meningitis cases were linked to Kent? #health](https://alltoc.com/health/how-many-meningitis-cases-were-linked-to-kent) (Alltoc.com)
 
 - [Family of teen who died in meningitis outbreak says loss is 'immeasurable'](https://www.bbc.com/news/articles/c2d8gjejrgpo) (BBC News)
 
