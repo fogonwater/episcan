@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2026-03-24 07:28
-- **Most recent article:** 2026-03-23 06:10:35
+- **New articles in last harvest:** 11
+- **Last harvest:** 2026-03-24 19:27
+- **Most recent article:** 2026-03-23 18:03:47
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 1 | 112 | 111 | 83 | 427 |
-| meningitis | 4 | 6 | 166 | 14 | 7 | 3 | 5 | 205 |
-| dengue | 22 | 11 | 28 | 1 | 24 | 17 | 15 | 118 |
+| measles | 70 | 30 | 20 | 2 | 110 | 111 | 83 | 426 |
+| meningitis | 4 | 6 | 166 | 20 | 7 | 3 | 5 | 211 |
+| dengue | 22 | 11 | 28 | 2 | 24 | 17 | 15 | 119 |
 | mpox | 10 | 16 | 12 | 0 | 13 | 25 | 27 | 103 |
 | rabies | 18 | 16 | 7 | 1 | 16 | 16 | 14 | 88 |
 | malaria | 16 | 9 | 20 | 1 | 14 | 10 | 11 | 81 |
-| chikungunya | 1 | 7 | 7 | 0 | 12 | 40 | 6 | 73 |
-| h5n1 | 2 | 8 | 7 | 1 | 12 | 11 | 4 | 45 |
-| hpai | 2 | 5 | 2 | 1 | 3 | 1 | 2 | 16 |
+| chikungunya | 1 | 7 | 7 | 2 | 12 | 40 | 6 | 75 |
+| h5n1 | 2 | 8 | 7 | 1 | 11 | 11 | 4 | 44 |
+| hpai | 2 | 5 | 2 | 2 | 3 | 1 | 2 | 17 |
 | zika | 1 | 2 | 4 | 0 | 3 | 3 | 2 | 15 |
 | leptospirosis | 2 | 1 | 3 | 0 | 2 | 4 | 3 | 15 |
 | typhoid | 3 | 0 | 0 | 1 | 0 | 2 | 2 | 8 |
@@ -1245,10 +1245,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
-- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
-
-- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
-
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1316,8 +1312,6 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
-
-- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1405,6 +1399,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (meningitis)
 
+- [Did meningitis outbreak in Kent peak? #health](https://alltoc.com/health/did-meningitis-outbreak-in-kent-peak) (Alltoc.com)
+
+- [Последствия бактериального менингита: что происходит с выжившими после болезни](https://hi-news.ru/science/posledstviya-bakterialnogo-meningita-chto-proishodit-s-vyzhivshimi-posle-bolezni.html) (Hi-news.ru)
+
+- [Teen Shares a Vape with Her Friends During a Night Out, Ends Up in a Coma with Meningitis: ‘Life or Death Situation’](https://people.com/meningitis-sharing-vape-teen-hospitalized-11929833) (PEOPLE)
+
+- [What changed in Kent meningitis cases? #health](https://alltoc.com/health/what-changed-in-kent-meningitis-cases) (Alltoc.com)
+
+- [Why did case numbers drop to 20? #health](https://alltoc.com/health/why-did-case-numbers-drop-to-20) (Alltoc.com)
+
+- [Meningitis outbreak passes peak, says health agency](https://www.bbc.com/news/articles/ckgwrxdldmzo) (BBC News)
+
 - [How did MenB meningitis spread in Kent? #health](https://alltoc.com/health/how-did-menb-meningitis-spread-in-kent) (Alltoc.com)
 
 - [Bacterial Meningitis Survivors Face Life‑Altering Effects, Expert Says](https://www.sciencealert.com/bacterial-meningitis-survivors-face-life‑altering-effects-expert-says) (ScienceAlert)
@@ -1435,6 +1441,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (measles)
 
+- [Measles Warning Issued for Western Sydney, Blue Mountains](https://www.ibtimes.com.au/measles-warning-issued-western-sydney-blue-mountains-1864104) (Ibtimes.com.au)
+
 - [Tsar Nicholas II’s Daughters Proudly Showing Their Bald Heads in 1917](https://www.vintag.es/2026/03/romanov-sisters-shaved-heads.html) (Vintag.es)
 
 ## 26-13 (malaria)
@@ -1442,6 +1450,8 @@ Source: [News API](https://newsapi.org/)
 - [Wandern auf Tahiti: In das grüne Herz der Südsee](https://www.faz.net/aktuell/reise/wandern-auf-tahiti-im-vallee-de-papenoo-accg-200650673.html) (Faz.net)
 
 ## 26-13 (hpai)
+
+- [Assessment of a baloxavir marboxil treatment protocol for high pathogenicity avian influenza in Okinawa Rails, an endangered species endemic to Japan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345055) (Plos.org)
 
 - [AdvanSentinel・宮崎大学・宮崎県が、渡り鳥が飛来する湖沼水での鳥インフルエンザウイルス検出情報を養鶏事業者の防疫に活用するための共同研究を開始](https://prtimes.jp/main/html/rd/p/000000012.000143755.html) (Prtimes.jp)
 
@@ -1451,7 +1461,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (dengue)
 
+- [Dengue transmission dynamics in an urban setting in western India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013636) (Plos.org)
+
 - [Felipeh Campos recebe alta após quadro grave de dengue](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-recebe-alta-apos-quadro-grave-de-dengue) (Metropoles.com)
+
+## 26-13 (chikungunya)
+
+- [En difficultés sur le chikungunya, la biotech Valneva joue son va-tout avec son vaccin contre la maladie de Lyme](https://www.challenges.fr/entreprise/sante/en-difficultes-sur-le-chikungunya-la-biotech-valneva-joue-son-va-tout-avec-son-vaccin-contre-la-maladie-de-lyme_642016) (Challenges)
+
+- [Vaccin contre le chikungunya : une vingtaine de cas d’effets indésirables graves](https://sante.ouest-france.fr/maladies/chikungunya/vaccin-contre-le-chikungunya-une-vingtaine-de-cas-deffets-indesirables-graves-065dcaec-26a3-11f1-aab7-85ef88fbd7c1) (Ouest-France)
 
 ## 26-12 (zika)
 
