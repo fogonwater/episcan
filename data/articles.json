@@ -1,8 +1,405 @@
 {
-  "last_updated": "2026-03-25 07:28",
-  "count_articles_total": 1210,
-  "count_articles_new": 19,
+  "last_updated": "2026-03-25 19:21",
+  "count_articles_total": 1229,
+  "count_articles_new": 22,
   "articles": [
+    {
+      "id": 28648,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Montreal's Sainte-Justine hospital flagged as measles exposure site in latest outbreak",
+      "description": "Quebec has declared another measles outbreak, with two new confirmed cases and multiple exposure sites identified across various health-care settings in Montreal and the Laurentians.",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-montreal-measles-outbreak-sainte-justine-hospital-9.7140064",
+      "urlToImage": "https://i.cbc.ca/ais/1.5874495,1774367806393/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3824%2C2151%29%3BResize%3D620",
+      "publishedAt": "2026-03-24 18:39:32",
+      "content": "Quebec has declared another measles outbreak, with two new confirmed cases and multiple exposure sites identified across various health-care settings in Montreal and the Laurentians. \"At the moment\u2026 [+2569 chars]",
+      "retrievedAt": "2026-03-25 19:21:31.219043",
+      "internal_id": "de480e310e4c949f20d96f43d132be3b91aa36754a039207914e81857d6a74cf",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28656,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Huffingtonpost.es",
+      "author": "Mila Fern\u00e1ndez",
+      "title": "El brote de meningitis B de Reino Unido pone en guardia a los padres espa\u00f1oles: la Asociaci\u00f3n Espa\u00f1ola de Pediatr\u00eda propone extender la vacunaci\u00f3n a los adolescentes",
+      "description": "El brote de meningitis B iniciado en Canterbury (sureste de Inglaterra), que ha dejado por el momento dos muertos y m\u00e1s de una veintena de contagios \u201411 confirmados y 9 por confirmar\u2014, ha generado un clima de alarma en la sociedad brit\u00e1nica que es\u2026",
+      "url": "https://www.huffingtonpost.es/life/salud/brote-meningitis-reino-unido-vacuna-espana-f202603.html",
+      "urlToImage": "https://img2.huffingtonpost.es/files/og_thumbnail/uploads/2026/03/24/un-adolescente-vacunandose.jpeg",
+      "publishedAt": "2026-03-24 18:27:43",
+      "content": "El brote de meningitis B iniciado en Canterbury (sureste de Inglaterra), que ha dejado por el momento dos muertos y m\u00e1s de una veintena de contagios 11 confirmados y 9 por confirmar, ha generado un c\u2026 [+4264 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.708504",
+      "internal_id": "c24061bc1f5144cc715ee24bc3a3e8d5261e723b2c6eecc5dc9e63ca8631d85d",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28658,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Has Kent meningitis outbreak reached peak? #health",
+      "description": "Did the Kent meningitis outbreak pass its peak? Several updates describe the outbreak moving through phases, with public health agencies communicating changing assessments of whether transmission was still accelerating. At one stage, UK health authorities sai\u2026",
+      "url": "https://alltoc.com/health/has-kent-meningitis-outbreak-reached-peak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-24 18:04:11",
+      "content": "Did the Kent meningitis outbreak pass its peak? Several updates describe the outbreak moving through phases, with public health agencies communicating changing assessments of whether transmission wa\u2026 [+1690 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.901345",
+      "internal_id": "65eddae8b67b1eb7121c4147c4c288d944c289bd39315d74ae799dd7206bee9d",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28659,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did Kent meningitis outbreak spike? #health",
+      "description": "What\u2019s behind the Kent meningitis spike Multiple stories in the provided set frame the Kent outbreak as unusually explosive compared with typical patterns\u2014triggering intensified investigation and public health action. Experts highlighted that the outbreak\u2019s s\u2026",
+      "url": "https://alltoc.com/health/why-did-kent-meningitis-outbreak-spike",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-24 18:04:11",
+      "content": "Whats behind the Kent meningitis spike Multiple stories in the provided set frame the Kent outbreak as unusually explosive compared with typical patternstriggering intensified investigation and publ\u2026 [+1953 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.918358",
+      "internal_id": "f0b65ea5018b3903f13898df8fd4733963f58690c90616bfb3744dd725b210ed",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28660,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How many Kent meningitis cases were confirmed? #health",
+      "description": "Kent meningitis outbreak: confirmed cases trend Reporting on the Kent outbreak centers on a rapidly changing count as public health agencies test samples, reclassify suspected illnesses, and update vaccination and antibiotic campaigns. At one point in the cov\u2026",
+      "url": "https://alltoc.com/health/how-many-kent-meningitis-cases-were-confirmed",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-24 18:04:11",
+      "content": "Kent meningitis outbreak: confirmed cases trend Reporting on the Kent outbreak centers on a rapidly changing count as public health agencies test samples, reclassify suspected illnesses, and update \u2026 [+1642 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.968026",
+      "internal_id": "db9090e717a44c6794f8ee533d6678a64a340d0d4fd6b460591f204435731ea7",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28661,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elespanol.com",
+      "author": "Laurine Maurice",
+      "title": "Muere una joven de 17 a\u00f1os en el Hospital de D\u00e9nia a las horas de ser ingresada por una meningitis",
+      "description": "Las autoridades est\u00e1n localizando a las personas del entorno cercano de la joven para administrarles el tratamiento preventivo (quimioprofilaxis) y evitar nuevos contagios. M\u00e1s informaci\u00f3n: Muere un joven de 19 a\u00f1os en Alicante despu\u00e9s de atragantarse mientra\u2026",
+      "url": "https://www.elespanol.com/alicante/marina-alta/20260324/muere-joven-anos-hospital-denia-horas-ingresada-meningitis/1003744182309_0.html",
+      "urlToImage": "https://s3.elespanol.com/2023/03/16/alicante/vivir/salud/748935818_231705151_1706x960.jpg?fmt=jpeg",
+      "publishedAt": "2026-03-24 16:11:00",
+      "content": "Una joven de 17 a\u00f1os ha fallecido este lunes en el hospital de D\u00e9nia (Alicante) a causa de una meningitis, seg\u00fan confirman fuentes de la Conselleria de Sanidad. Seg\u00fan recoge Efe, los an\u00e1lisis microb\u2026 [+1154 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.992969",
+      "internal_id": "f15ebdad41e60ce3055fd9a96895a536e91779f0d082be5e5e2184e27575dced",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28657,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Meningitis B vaccines offered to more school children - as cases fall",
+      "description": "The vaccine will be offered to year 11 pupils at schools affected by the Kent outbreak. On Monday, 20 cases of meningitis had been confirmed, with a further three under investigation.",
+      "url": "https://news.sky.com/story/meningitis-b-vaccines-offered-to-more-school-children-as-cases-fall-13523912",
+      "urlToImage": "https://e3.365dm.com/26/03/1600x900/skynews-university-of-kent_7199102.jpg?20260321140235",
+      "publishedAt": "2026-03-24 15:41:00",
+      "content": "Meningitis B vaccines will be offered to year 11 pupils at schools affected by the Kent outbreak. NHS Kent and Medway said on Tuesday that 10,627 vaccines had been given out. The meningitis outbrea\u2026 [+2005 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.812013",
+      "internal_id": "04598c082792fc25f80ede43584cdb749f7ccf35e11f98db740b6580c58a86c7",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28662,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Muere una joven de 17 a\u00f1os por meningitis en el Hospital de Denia",
+      "description": "Una joven de 17 a\u00f1os ha fallecido este lunes en el Hospital de Denia tras ingresar con \u00abs\u00edntomas compatibles\u00bb con meningitis. Horas despu\u00e9s, la Conselleria de Sanidad ha confirmado que la causa de la muerte ha sido esta enfermedad infecciosa. \u00c1s\u00ed, fuentes de \u2026",
+      "url": "https://www.abc.es/espana/comunidad-valenciana/muere-joven-anos-meningitis-hospital-denia-20260324162920-nt.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/03/24/hospital-denia-U26777433266CiQ-1200x630@diario_abc.JPG",
+      "publishedAt": "2026-03-24 15:29:26",
+      "content": "Una joven de 17 a\u00f1os ha fallecido este lunes en el Hospital de Denia tras ingresar con \u00abs\u00edntomas compatibles\u00bb con meningitis. Horas despu\u00e9s, la Conselleria de Sanidad ha confirmado que la causa de la\u2026 [+766 chars]",
+      "retrievedAt": "2026-03-25 19:21:33.073324",
+      "internal_id": "34acc07b21feabcea74ce8511dff3522048276fd2b5863238747d30170d99155",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28667,
+      "query": [
+        "malaria",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Everyeye.it",
+      "author": "Gianluca Cobucci",
+      "title": "C'\u00e8 un motivo preciso se le zanzare ti adorano e non \u00e8 quello che pensi",
+      "description": "No, non vengono da voi perch\u00e9 avete il sangue pi\u00f9 dolce o perch\u00e9 siete sempre pi\u00f9 accaldati. Il MIT ci risponde scientificamente.Ogni anno le zanzare causano oltre 700.000 morti trasmettendo malaria, febbre gialla, virus Zika e, come abbiamo visto, il recente\u2026",
+      "url": "https://tech.everyeye.it/notizie/e-motivo-preciso-zanzare-adorano-non-pensi-867401.html",
+      "urlToImage": "https://images.everyeye.it/img-notizie/c-E-motivo-preciso-zanzare-adorano-non-pensi-v3-867401.jpg",
+      "publishedAt": "2026-03-24 15:07:00",
+      "content": "Ogni anno le zanzare causano oltre 700.000 morti trasmettendo malaria, febbre gialla, virus Zika e, come abbiamo visto, il recente West Nile. Non scelgono le vittime per caso: ricercatori del Georgia\u2026 [+2094 chars]",
+      "retrievedAt": "2026-03-25 19:21:33.567103",
+      "internal_id": "13d615872dcc9a725da948ae409751a599ec563d06038566ff9dc739f155dc8c",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28652,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Efe",
+      "title": "Muere una adolescente de 17 a\u00f1os por meningitis en el hospital de D\u00e9nia (Alicante)",
+      "description": "Una adolescente de 17 a\u00f1os ha fallecido este lunes en el hospital de D\u00e9nia (Alicante) por meningitis, han informado a Efe fuentes de la conselleria valenciana de Sanidad. El...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2026/03/24/69c2a2dde4d4d87c5c8b4587.html",
+      "urlToImage": "https://e01-phantom-elmundo.uecdn.es/ad4f6996b9cea4423e88d615f0e2d8e4/crop/70x0/842x515/f/webp/assets/multimedia/imagenes/2026/03/24/17743635533465.jpg",
+      "publishedAt": "2026-03-24 14:49:16",
+      "content": "Una adolescente de 17 a\u00f1os ha fallecido este lunes en el hospital de D\u00e9nia (Alicante) por meningitis, han informado a Efe fuentes de la conselleria valenciana de Sanidad. El an\u00e1lisis microbiol\u00f3gico \u2026 [+559 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.631722",
+      "internal_id": "038e8e2d1502e6367dedb786a9e11d8e3547e26fe0da3c1c06340db8ab700df3",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28650,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Marielena Vogel Saivish, Research Fellow in Virology (Post-Doc position), The University of Texas Medical Branch",
+      "title": "Dengue fever is a growing problem: why it\u2019s so hard to beat with vaccines",
+      "description": "In recent decades, cases have risen sharply in Africa as urbanisation, travel and climate change have expanded mosquito habitats.",
+      "url": "https://theconversation.com/dengue-fever-is-a-growing-problem-why-its-so-hard-to-beat-with-vaccines-277538",
+      "urlToImage": "https://images.theconversation.com/files/723561/original/file-20260312-57-uahht0.jpg?ixlib=rb-4.1.0&rect=0%2C333%2C3999%2C1999&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-03-24 14:20:32",
+      "content": "Dengue, a mosquito-borne disease, affects millions of people every year across Asia, Africa and Latin America. And it\u2019s expanding geographically as warmer temperatures and urban growth allow mosquito\u2026 [+7800 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.138570",
+      "internal_id": "140958fe69dea0dd017f356eec862a3429b4a689ee3f802d3d502d8ace64863a",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28647,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Jezebel",
+      "author": "Danielle Han",
+      "title": "Sorry, What Did You Say RFK Jr. Did to a Dead Raccoon\u2019s Penis?",
+      "description": "The only thing the guy in charge of our country's health and well-being loves more than spreading measles is mutilating dead animals.",
+      "url": "https://www.jezebel.com/sorry-what-did-you-say-rfk-jr-did-to-a-raccoons-penis",
+      "urlToImage": "https://img.pastemagazine.com/wp-content/juploads/2026/03/Untitled-design-2-2.jpg",
+      "publishedAt": "2026-03-24 12:49:59",
+      "content": "Its impossible to imagine a world without Robert F. Kennedy Jr.not just for launching the U.S. back to 1905, where everyone died of measles, but because every third headline about him is the most twi\u2026 [+2040 chars]",
+      "retrievedAt": "2026-03-25 19:21:31.192482",
+      "internal_id": "4b906b1d3a69b8f97040765a9c7cf3f0b6f52f18ebdbaa0248f3296d6859c11b",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28649,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport Pte. Ltd.",
+      "title": "Helport AI Showcases Its AI Solutions at \u201cRise of AI Labor\u201d Philippines Event",
+      "description": "Helport AI showcased AI Co-Pilot, TwinX, and HyprX in the Philippines, highlighting its results-driven model to scale enterprise productivity....",
+      "url": "https://www.globenewswire.com/news-release/2026/03/24/3261240/0/en/Helport-AI-Showcases-Its-AI-Solutions-at-Rise-of-AI-Labor-Philippines-Event.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/99f041f5-dc15-4a26-80b3-c798949b74fd",
+      "publishedAt": "2026-03-24 12:31:00",
+      "content": "MAKATI, Philippines, March 24, 2026 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (Helport AI or the Company), a global technology company providing enterprise clients with intelligent custom\u2026 [+5733 chars]",
+      "retrievedAt": "2026-03-25 19:21:31.574868",
+      "internal_id": "1894cb163b73dbe2b89a36d286d8f29065f9ba36992c12e7631a8096bf024391",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28654,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How many MenB cases in Kent now? #health",
+      "description": "Kent meningitis outbreak: where the numbers stand Several pieces of coverage in the provided pool track how the UK Health Security Agency (UKHSA) has updated the Kent meningitis outbreak, with the total count changing after testing and classification. In one \u2026",
+      "url": "https://alltoc.com/health/how-many-menb-cases-in-kent-now",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-24 12:03:25",
+      "content": "Several pieces of coverage in the provided pool track how the UK Health Security Agency (UKHSA) has updated the Kent meningitis outbreak, with the total count changing after testing and classificatio\u2026 [+1518 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.666063",
+      "internal_id": "3ff6f7407bc80b902aa0d1fc59dcb8a0c59d63e2cf374688e07b55dc2bae712d",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28655,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did Kent MenB vaccine eligibility widen? #health",
+      "description": "Why eligibility for the MenB vaccine expanded in Kent In the coverage pool, the UK\u2019s meningitis B vaccination effort in Kent is described as being broadened in response to the outbreak after cases among local students. The specific expansion mentioned is that\u2026",
+      "url": "https://alltoc.com/health/why-did-kent-menb-vaccine-eligibility-widen",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-24 12:03:25",
+      "content": "In the coverage pool, the UKs meningitis B vaccination effort in Kent is described as being broadened in response to the outbreak after cases among local students. The specific expansion mentioned i\u2026 [+1409 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.698851",
+      "internal_id": "9d919b4e359964f1643c6c9a757d3a770676df57f143cbf1cc6f282e3e9fc70b",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28664,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": null,
+      "title": "Meningococcal disease: background information",
+      "description": "Meningococcal disease is a rare but serious infection that can cause meningitis or sepsis. This page explains what it is, how it spreads, who is most at risk and what to do if you\u2019re concerned.",
+      "url": "https://www.gov.uk/guidance/meningococcal-disease-background-information",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-03-24 11:55:06",
+      "content": "Seeking medical advice Call 999 immediately if you think someone has meningitis or sepsis. Call NHS 111 if youre unsure but concerned. March 2026 outbreak For the most up to date informatio\u2026 [+4067 chars]",
+      "retrievedAt": "2026-03-25 19:21:33.116831",
+      "internal_id": "3f1b221ab8f7e68c1079a3278ac4bb940f9014bccc0c4d53f082e9fdd0ad9113",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28666,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "bild",
+      "source_name": "Bild",
+      "author": "Linus Uhrig",
+      "title": "Nach Malaria-Schock - Freiburger feiert pl\u00f6tzlich Leistungs-Explosion",
+      "description": "Ein junger Freiburger Hoffnungstr\u00e4ger sorgte beim Sieg in St. Pauli f\u00fcr Aufsehen. Trainer und Mitspieler sehen klare Fortschritte \u2013 auf und neben dem Platz.",
+      "url": "https://www.bild.de/sport/fussball/sc-freiburg-profi-feiert-ploetzlich-leistungs-explosion-69c26428af187d606b81115a",
+      "urlToImage": "https://images.bild.de/69c26428af187d606b81115a/37fcfc0e29a1cda0b2883643cbefe5e5,9fa4ef0c?w=1280",
+      "publishedAt": "2026-03-24 11:47:04",
+      "content": "Ein junger Freiburger Hoffnungstr\u00e4ger sorgt nach langer Ausfallzeit und schweren ersten Monaten im Breisgau jetzt f\u00fcr Aufsehen. Trainer und Mitspieler sehen klare Fortschritte auf und neben dem Platz\u2026 [+98 chars]",
+      "retrievedAt": "2026-03-25 19:21:33.548414",
+      "internal_id": "9ebb4bcc5de1772e2746b962e04c87415cf1378b505a5c6886652dd4b36c3936",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28646,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Ministry of Health: Jackal infected with rabies found in the Jordan Valley",
+      "description": "The Ministry of Health has reported a jackal infected with rabies that was identified in the community of Yardena, within the Jordan Valley's Valley of Springs Regional Council. Two individuals who were exposed to the jackal have been referred to receive prev\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/680940",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-03-24 11:42:57",
+      "content": "The Ministry of Health has reported a jackal infected with rabies that was identified in the community of Yardena, within the Jordan Valley's Valley of Springs Regional Council. Two individuals who w\u2026 [+403 chars]",
+      "retrievedAt": "2026-03-25 19:21:30.923901",
+      "internal_id": "3b501c35cca06f0cf5548767bfebf66ba45d6e08ad3a73984bb982a2ee9000cf",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28665,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "https://www.facebook.com/lavozdegalicia",
+      "title": "Investigan la muerte por posible meningitis de un joven de 17 a\u00f1os en Alicante",
+      "description": "El Hospital de Denia, en el que acababa de ingresar, est\u00e1 pendiente del resultado de las pruebas microbiol\u00f3gicas para confirmar la causa del fallecimiento",
+      "url": "https://www.lavozdegalicia.es/noticia/sociedad/2026/03/24/investigan-muerte-posible-meningitis-joven-17-anos-alicante/00031774347677370487199.htm",
+      "urlToImage": "https://img.lavdg.com/sc/GydjGcKBZ-TmQhYMGPoVzVVRpB8=/1280x/2026/03/24/00121774348922086633460/Foto/j_20260324_113840000.jpg",
+      "publishedAt": "2026-03-24 10:42:00",
+      "content": "La Conselleria de Sanidad investiga si una joven menor de edad, de 17 a\u00f1os, muri\u00f3 este lunes por meningitis tras ingresar en el Hospital de Denia (Alicante) con \u00absintomatolog\u00eda compatible\u00bb con esta e\u2026 [+610 chars]",
+      "retrievedAt": "2026-03-25 19:21:33.151114",
+      "internal_id": "2293fb9965faab07b49ed833541315e2a581335fb97372a6f05ec854df5c0311",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28651,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Meningitis vaccines offered to some Year 11 pupils",
+      "description": "Year 11 pupils are to receive the vaccine in schools where it has already been offered.",
+      "url": "https://www.bbc.com/news/articles/cyv17r8l7n0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2016/live/22e16710-276a-11f1-934f-036468834728.jpg",
+      "publishedAt": "2026-03-24 10:17:20",
+      "content": "Prof Robin May, chief scientific officer at the UKHSA, says its analysis offers \"strong reassurance that our existing vaccinations and antibiotic treatment offer will be effective against this strain\u2026 [+1 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.597559",
+      "internal_id": "7650a83af34cbecb8b5ddb87425f030c15459cedd565fc3507d3294d7f209451",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28653,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Inside Health",
+      "description": "James Gallagher is joined by experts to answer key questions on the meningitis outbreak.",
+      "url": "https://www.bbc.co.uk/sounds/play/m002t18t",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0m1r8h6.jpg",
+      "publishedAt": "2026-03-24 10:00:00",
+      "content": "Available for over a year Little over a week on from the first meningitis cases in Canterbury, many crucial questions remain. So this week we're taking an in-depth look at those questions and what\u2026 [+666 chars]",
+      "retrievedAt": "2026-03-25 19:21:32.649090",
+      "internal_id": "17fc5a9ed32cd3e2f76238619f5981679f66c2a59d9c8450f3e398d15dce0dfa",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28663,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Rachael Davis",
+      "title": "\u2018I dismissed my symptoms as food poisoning. Then meningitis almost killed me\u2019",
+      "description": "Hannah Ewing, 26, says the bacterial meningitis outbreak in Kent has left her fearful",
+      "url": "https://www.the-independent.com/life-style/health-and-families/meningitis-symptoms-outbreak-kent-bacterial-b2944291.html",
+      "urlToImage": "https://static.the-independent.com/2026/03/24/06/23130322-0934fc40-1be7-45be-877c-1ca0d23b710d.jpeg?trim=378,0,422,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-03-24 09:55:20",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+9691 chars]",
+      "retrievedAt": "2026-03-25 19:21:33.090887",
+      "internal_id": "53a9a81f53b2f6b1a9adcb9b70ecd488dd2d425e39e31551a6bab585a1d2917f",
+      "publishedAtLabel": "Mar 24"
+    },
     {
       "id": 28631,
       "query": [
@@ -21753,60 +22150,6 @@
       "content": "WASHINGTON -- A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing it\u2026 [+6421 chars]",
       "retrievedAt": "2026-02-10 07:29:48.760315",
       "internal_id": "e8be81c292df08f70c70726c3781bfd2549b22d51f5b08909d41eb33637378b1",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27430,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Dr. Scott Gottlieb says measles outbreak may \"get worse, unfortunately, before it resolves\"",
-      "description": "Former FDA Commissioner Dr. Scott Gottlieb, who sits on the boards of Pfizer and UnitedHealthcare, told \"Face the Nation with Margaret Brennan\" that the current measles outbreak could be a \"long cycle, especially now that this has gotten embedded in political\u2026",
-      "url": "https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/08/d23efcef-ccc8-4ff6-ad90-2424ebfa7c08/thumbnail/1200x630/64aa23137f56de268ab21ab8512d8e59/cbsn-fusion-dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves-thumbnail.jpg",
-      "publishedAt": "2026-02-08 18:48:00",
-      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
-      "retrievedAt": "2026-02-09 19:33:32.146881",
-      "internal_id": "d53faee33d148860b0fa18390927ba9b49bb9e2e851e7c4377bc8281ce8df364",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27431,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Rick Lye",
-      "title": "Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis\u2014Is Your Family at Risk?",
-      "description": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) issued a formal warning regarding an additional case of measl\u2026",
-      "url": "https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/11/disneyland-marquee-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-08 14:40:54",
-      "content": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) i\u2026 [+6917 chars]",
-      "retrievedAt": "2026-02-09 19:33:32.238856",
-      "internal_id": "ca8ffcf7d60394c586e3e9a8f7df293bfeb0ccb722b475db872d4a2cd2425d29",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27432,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tv9kannada.com",
-      "author": "Vinay Kashappanavar",
-      "title": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0c85\u0cac\u0ccd\u0cac\u0cb0: \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4\u0cc1 H5N1 \u0c9f\u0cc6\u0ca8\u0ccd\u0cb7\u0ca8\u0ccd",
-      "description": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf H5N1 \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0cad\u0cc0\u0ca4\u0cbf \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 H5N1 \u0cb5\u0cc8\u0cb0\u0cb8\u0ccd \u0c86\u0ca4\u0c82\u0c95 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0ca4 \u0caa\u0c95\u0ccd\u0cb7\u0cbf\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cae\u0cbe\u0ca8\u0cb5\u0cb0\u0cbf\u0c97\u0cc6 \u0cb9\u0cb0\u0ca1\u0cc1\u0cb5 \u0c88 \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6\u0cbf\u0c82\u0ca6 \u0c89\u0c82\u0c9f\u0cbe\u0c97\u0cc1\u0cb5 \u0cb8\u0cbe\u0cb5\u0cbf\u0ca8 \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0cb0\u0ccb\u0c97 \u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0cb2\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0ca6\u0c82\u0ca4\u0cc6 \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0cb0\u0cc1 \u0cb8\u0cc2\u0c9a\u0cbf\u0cb8\u0cbf\u0ca6\u0ccd\u0ca6\u0cbe\u0cb0\u0cc6. \u0c85\u0cb7\u0ccd\u0c9f\u0c95\u0ccd\u0c95\u0cc2 \u0c88 \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0c97\u0cc6 \u0ca4\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0ca6\u0cb5\u0cb0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf\u2026",
-      "url": "https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html",
-      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2026/02/bird-flue.jpg",
-      "publishedAt": "2026-02-08 11:20:30",
-      "content": ", 08: H5N1 . 1,500 , . . . ? H5N1 , , . , . 4 6 . : ? ? .. ., . .50, . . . . . .",
-      "retrievedAt": "2026-02-09 19:33:32.929027",
-      "internal_id": "120cf99f5b71c89f79f81ed3a2765c804bbab06e828df650d3cf8d1328f5e6e5",
       "publishedAtLabel": "Feb 8"
     }
   ]

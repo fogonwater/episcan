@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 19
-- **Last harvest:** 2026-03-25 07:28
-- **Most recent article:** 2026-03-24 06:03:38
+- **New articles in last harvest:** 22
+- **Last harvest:** 2026-03-25 19:21
+- **Most recent article:** 2026-03-24 18:39:32
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 3 | 112 | 111 | 83 | 429 |
-| meningitis | 4 | 6 | 175 | 25 | 7 | 3 | 5 | 225 |
-| dengue | 22 | 11 | 28 | 2 | 24 | 17 | 15 | 119 |
+| measles | 70 | 30 | 20 | 5 | 110 | 111 | 83 | 429 |
+| meningitis | 4 | 6 | 175 | 40 | 7 | 3 | 5 | 240 |
+| dengue | 22 | 11 | 28 | 3 | 24 | 17 | 15 | 120 |
 | mpox | 10 | 16 | 12 | 0 | 13 | 25 | 27 | 103 |
-| rabies | 18 | 16 | 7 | 1 | 16 | 16 | 14 | 88 |
-| malaria | 16 | 9 | 20 | 2 | 14 | 10 | 11 | 82 |
+| rabies | 18 | 16 | 7 | 2 | 16 | 16 | 14 | 89 |
+| malaria | 16 | 9 | 20 | 4 | 14 | 10 | 11 | 84 |
 | chikungunya | 1 | 7 | 7 | 2 | 12 | 40 | 6 | 75 |
-| h5n1 | 2 | 8 | 7 | 2 | 12 | 11 | 4 | 46 |
-| hpai | 2 | 5 | 2 | 3 | 3 | 1 | 2 | 18 |
-| zika | 1 | 2 | 4 | 0 | 3 | 3 | 2 | 15 |
+| h5n1 | 2 | 8 | 7 | 2 | 11 | 11 | 4 | 45 |
+| hpai | 2 | 5 | 2 | 4 | 3 | 1 | 2 | 19 |
+| zika | 1 | 2 | 4 | 1 | 3 | 3 | 2 | 16 |
 | leptospirosis | 2 | 1 | 3 | 0 | 2 | 4 | 3 | 15 |
 | typhoid | 3 | 0 | 0 | 1 | 0 | 2 | 2 | 8 |
 | yersinia | 2 | 0 | 1 | 0 | 2 | 1 | 1 | 7 |
@@ -1245,10 +1245,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
-- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
-
-- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
-
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1316,8 +1312,6 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
-
-- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1395,11 +1389,17 @@ Source: [News API](https://newsapi.org/)
 
 - [Casos por chikungunya aumentan en Bolivia. Declaran alerta en Santa Cruz tras muerte de una persona](https://www.bostonherald.com/2026/02/10/casos-por-chikungunya-aumentan-en-bolivia-declaran-alerta-en-santa-cruz-tras-muerte-de-una-persona/) (Boston Herald)
 
+## 26-13 (zika)
+
+- [C'è un motivo preciso se le zanzare ti adorano e non è quello che pensi](https://tech.everyeye.it/notizie/e-motivo-preciso-zanzare-adorano-non-pensi-867401.html) (Everyeye.it)
+
 ## 26-13 (typhoid)
 
 - [World Water Day 2026: Importance of Clean Water and Hydration for Health](https://www.metropolisindia.com/blog/preventive-healthcare/world-water-day) (Metropolisindia.com)
 
 ## 26-13 (rabies)
+
+- [Ministry of Health: Jackal infected with rabies found in the Jordan Valley](https://www.israelnationalnews.com/flashes/680940) (Israelnationalnews.com)
 
 - [Sarawak reviewing strategies to strengthen rabies control](https://www.thestar.com.my/news/nation/2026/03/22/sarawak-reviewing-strategies-to-strengthen-rabies-control) (The Star Online)
 
@@ -1408,6 +1408,36 @@ Source: [News API](https://newsapi.org/)
 - [Roche launches the cobas eplex respiratory pathogen panel 3, a fast and comprehensive test to help clinicians treat patients with respiratory infections, in CE markets](https://www.prnewswire.co.uk/news-releases/roche-launches-the-cobas-eplex-respiratory-pathogen-panel-3-a-fast-and-comprehensive-test-to-help-clinicians-treat-patients-with-respiratory-infections-in-ce-markets-302722600.html) (PR Newswire UK)
 
 ## 26-13 (meningitis)
+
+- [El brote de meningitis B de Reino Unido pone en guardia a los padres españoles: la Asociación Española de Pediatría propone extender la vacunación a los adolescentes](https://www.huffingtonpost.es/life/salud/brote-meningitis-reino-unido-vacuna-espana-f202603.html) (Huffingtonpost.es)
+
+- [Has Kent meningitis outbreak reached peak? #health](https://alltoc.com/health/has-kent-meningitis-outbreak-reached-peak) (Alltoc.com)
+
+- [Why did Kent meningitis outbreak spike? #health](https://alltoc.com/health/why-did-kent-meningitis-outbreak-spike) (Alltoc.com)
+
+- [How many Kent meningitis cases were confirmed? #health](https://alltoc.com/health/how-many-kent-meningitis-cases-were-confirmed) (Alltoc.com)
+
+- [Muere una joven de 17 años en el Hospital de Dénia a las horas de ser ingresada por una meningitis](https://www.elespanol.com/alicante/marina-alta/20260324/muere-joven-anos-hospital-denia-horas-ingresada-meningitis/1003744182309_0.html) (Elespanol.com)
+
+- [Meningitis B vaccines offered to more school children - as cases fall](https://news.sky.com/story/meningitis-b-vaccines-offered-to-more-school-children-as-cases-fall-13523912) (Sky.com)
+
+- [Muere una joven de 17 años por meningitis en el Hospital de Denia](https://www.abc.es/espana/comunidad-valenciana/muere-joven-anos-meningitis-hospital-denia-20260324162920-nt.html) (Www.abc.es)
+
+- [Muere una adolescente de 17 años por meningitis en el hospital de Dénia (Alicante)](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/24/69c2a2dde4d4d87c5c8b4587.html) (El Mundo)
+
+- [How many MenB cases in Kent now? #health](https://alltoc.com/health/how-many-menb-cases-in-kent-now) (Alltoc.com)
+
+- [Why did Kent MenB vaccine eligibility widen? #health](https://alltoc.com/health/why-did-kent-menb-vaccine-eligibility-widen) (Alltoc.com)
+
+- [Meningococcal disease: background information](https://www.gov.uk/guidance/meningococcal-disease-background-information) (Www.gov.uk)
+
+- [Investigan la muerte por posible meningitis de un joven de 17 años en Alicante](https://www.lavozdegalicia.es/noticia/sociedad/2026/03/24/investigan-muerte-posible-meningitis-joven-17-anos-alicante/00031774347677370487199.htm) (Lavozdegalicia.es)
+
+- [Meningitis vaccines offered to some Year 11 pupils](https://www.bbc.com/news/articles/cyv17r8l7n0o) (BBC News)
+
+- [Inside Health](https://www.bbc.co.uk/sounds/play/m002t18t) (BBC News)
+
+- [‘I dismissed my symptoms as food poisoning. Then meningitis almost killed me’](https://www.the-independent.com/life-style/health-and-families/meningitis-symptoms-outbreak-kent-bacterial-b2944291.html) (The-independent.com)
 
 - [What’s happening with the Kent meningitis outbreak? #health](https://alltoc.com/health/whats-happening-with-the-kent-meningitis-outbreak) (Alltoc.com)
 
@@ -1461,6 +1491,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (measles)
 
+- [Montreal's Sainte-Justine hospital flagged as measles exposure site in latest outbreak](https://www.cbc.ca/news/canada/montreal/quebec-montreal-measles-outbreak-sainte-justine-hospital-9.7140064) (CBC News)
+
+- [Sorry, What Did You Say RFK Jr. Did to a Dead Raccoon’s Penis?](https://www.jezebel.com/sorry-what-did-you-say-rfk-jr-did-to-a-raccoons-penis) (Jezebel)
+
 - [Consider measles risks in spring break vacation plans, health officials urge Manitoba parents](https://www.cbc.ca/news/canada/manitoba/measles-spring-break-school-divisions-9.7139029) (CBC News)
 
 - [Measles Warning Issued for Western Sydney, Blue Mountains](https://www.ibtimes.com.au/measles-warning-issued-western-sydney-blue-mountains-1864104) (Ibtimes.com.au)
@@ -1469,11 +1503,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (malaria)
 
+- [C'è un motivo preciso se le zanzare ti adorano e non è quello che pensi](https://tech.everyeye.it/notizie/e-motivo-preciso-zanzare-adorano-non-pensi-867401.html) (Everyeye.it)
+
+- [Nach Malaria-Schock - Freiburger feiert plötzlich Leistungs-Explosion](https://www.bild.de/sport/fussball/sc-freiburg-profi-feiert-ploetzlich-leistungs-explosion-69c26428af187d606b81115a) (Bild)
+
 - [Historia de una burbuja de 200 años: un relojero visionario, un remedio contra la malaria y el ritual de la sobremesa](https://www.elconfidencial.com/gastronomia/2026-03-24/historia-burbuja-schweppes-bra_4319051/) (Elconfidencial.com)
 
 - [Wandern auf Tahiti: In das grüne Herz der Südsee](https://www.faz.net/aktuell/reise/wandern-auf-tahiti-im-vallee-de-papenoo-accg-200650673.html) (Faz.net)
 
 ## 26-13 (hpai)
+
+- [Helport AI Showcases Its AI Solutions at “Rise of AI Labor” Philippines Event](https://www.globenewswire.com/news-release/2026/03/24/3261240/0/en/Helport-AI-Showcases-Its-AI-Solutions-at-Rise-of-AI-Labor-Philippines-Event.html) (GlobeNewswire)
 
 - [【松山、博多、名古屋、広島にて開催！】ローカル生成AIの最前線と業務活用シナリオ紹介セミナー～最新事例から読み解く、AIワークステーションが拓く可能性～](https://prtimes.jp/main/html/rd/p/000000367.000021299.html) (Prtimes.jp)
 
@@ -1488,6 +1528,8 @@ Source: [News API](https://newsapi.org/)
 - [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
 
 ## 26-13 (dengue)
+
+- [Dengue fever is a growing problem: why it’s so hard to beat with vaccines](https://theconversation.com/dengue-fever-is-a-growing-problem-why-its-so-hard-to-beat-with-vaccines-277538) (The Conversation Africa)
 
 - [Dengue transmission dynamics in an urban setting in western India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013636) (Plos.org)
 
