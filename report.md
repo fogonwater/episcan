@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-03-24 19:27
-- **Most recent article:** 2026-03-23 18:03:47
+- **New articles in last harvest:** 19
+- **Last harvest:** 2026-03-25 07:28
+- **Most recent article:** 2026-03-24 06:03:38
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 2 | 110 | 111 | 83 | 426 |
-| meningitis | 4 | 6 | 166 | 20 | 7 | 3 | 5 | 211 |
+| measles | 70 | 30 | 20 | 3 | 112 | 111 | 83 | 429 |
+| meningitis | 4 | 6 | 175 | 25 | 7 | 3 | 5 | 225 |
 | dengue | 22 | 11 | 28 | 2 | 24 | 17 | 15 | 119 |
 | mpox | 10 | 16 | 12 | 0 | 13 | 25 | 27 | 103 |
 | rabies | 18 | 16 | 7 | 1 | 16 | 16 | 14 | 88 |
-| malaria | 16 | 9 | 20 | 1 | 14 | 10 | 11 | 81 |
+| malaria | 16 | 9 | 20 | 2 | 14 | 10 | 11 | 82 |
 | chikungunya | 1 | 7 | 7 | 2 | 12 | 40 | 6 | 75 |
-| h5n1 | 2 | 8 | 7 | 1 | 11 | 11 | 4 | 44 |
-| hpai | 2 | 5 | 2 | 2 | 3 | 1 | 2 | 17 |
+| h5n1 | 2 | 8 | 7 | 2 | 12 | 11 | 4 | 46 |
+| hpai | 2 | 5 | 2 | 3 | 3 | 1 | 2 | 18 |
 | zika | 1 | 2 | 4 | 0 | 3 | 3 | 2 | 15 |
 | leptospirosis | 2 | 1 | 3 | 0 | 2 | 4 | 3 | 15 |
 | typhoid | 3 | 0 | 0 | 1 | 0 | 2 | 2 | 8 |
 | yersinia | 2 | 0 | 1 | 0 | 2 | 1 | 1 | 7 |
-| pertussis | 1 | 2 | 0 | 0 | 1 | 0 | 0 | 4 |
+| pertussis | 1 | 2 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
@@ -1245,6 +1245,10 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
+- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
+
+- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
+
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1312,6 +1316,8 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
+
+- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1397,9 +1403,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Sarawak reviewing strategies to strengthen rabies control](https://www.thestar.com.my/news/nation/2026/03/22/sarawak-reviewing-strategies-to-strengthen-rabies-control) (The Star Online)
 
+## 26-13 (pertussis)
+
+- [Roche launches the cobas eplex respiratory pathogen panel 3, a fast and comprehensive test to help clinicians treat patients with respiratory infections, in CE markets](https://www.prnewswire.co.uk/news-releases/roche-launches-the-cobas-eplex-respiratory-pathogen-panel-3-a-fast-and-comprehensive-test-to-help-clinicians-treat-patients-with-respiratory-infections-in-ce-markets-302722600.html) (PR Newswire UK)
+
 ## 26-13 (meningitis)
 
+- [What’s happening with the Kent meningitis outbreak? #health](https://alltoc.com/health/whats-happening-with-the-kent-meningitis-outbreak) (Alltoc.com)
+
+- [Level 2 - Meningococcal Disease in the Democratic Republic of the Congo](https://wwwnc.cdc.gov/travel/notices/level2/meningococcal-drc) (Cdc.gov)
+
 - [Did meningitis outbreak in Kent peak? #health](https://alltoc.com/health/did-meningitis-outbreak-in-kent-peak) (Alltoc.com)
+
+- [How Covid fear shaped the meningitis response](https://shows.acast.com/newstatesman/episodes/how-covid-fear-shaped-the-meningitis-response) (Acast.com)
 
 - [Последствия бактериального менингита: что происходит с выжившими после болезни](https://hi-news.ru/science/posledstviya-bakterialnogo-meningita-chto-proishodit-s-vyzhivshimi-posle-bolezni.html) (Hi-news.ru)
 
@@ -1408,6 +1424,8 @@ Source: [News API](https://newsapi.org/)
 - [What changed in Kent meningitis cases? #health](https://alltoc.com/health/what-changed-in-kent-meningitis-cases) (Alltoc.com)
 
 - [Why did case numbers drop to 20? #health](https://alltoc.com/health/why-did-case-numbers-drop-to-20) (Alltoc.com)
+
+- [How many Kent cases are confirmed now? #health](https://alltoc.com/health/how-many-kent-cases-are-confirmed-now) (Alltoc.com)
 
 - [Meningitis outbreak passes peak, says health agency](https://www.bbc.com/news/articles/ckgwrxdldmzo) (BBC News)
 
@@ -1420,6 +1438,8 @@ Source: [News API](https://newsapi.org/)
 - [Grafschaft Kent: Zahl der Meningitis-Fälle in England gesunken – noch keine Entwarnung](https://www.stern.de/gesundheit/meningitis-in-england--fallzahlen-sinken-nach-ausbruch-mit-zwei-toten-37244876.html) (STERN.de)
 
 - [UK authorities revise meningitis outbreak cases to 29](https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/) (The Punch)
+
+- [Number of meningitis cases linked to fatal UK outbreak drops to 20](https://www.irishtimes.com/world/uk/2026/03/22/number-of-meningitis-cases-linked-to-fatal-uk-outbreak-drops-to-20/) (The Irish Times)
 
 - [What caused Kent meningitis outbreak? #health](https://alltoc.com/health/what-caused-kent-meningitis-outbreak) (Alltoc.com)
 
@@ -1441,21 +1461,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (measles)
 
+- [Consider measles risks in spring break vacation plans, health officials urge Manitoba parents](https://www.cbc.ca/news/canada/manitoba/measles-spring-break-school-divisions-9.7139029) (CBC News)
+
 - [Measles Warning Issued for Western Sydney, Blue Mountains](https://www.ibtimes.com.au/measles-warning-issued-western-sydney-blue-mountains-1864104) (Ibtimes.com.au)
 
 - [Tsar Nicholas II’s Daughters Proudly Showing Their Bald Heads in 1917](https://www.vintag.es/2026/03/romanov-sisters-shaved-heads.html) (Vintag.es)
 
 ## 26-13 (malaria)
 
+- [Historia de una burbuja de 200 años: un relojero visionario, un remedio contra la malaria y el ritual de la sobremesa](https://www.elconfidencial.com/gastronomia/2026-03-24/historia-burbuja-schweppes-bra_4319051/) (Elconfidencial.com)
+
 - [Wandern auf Tahiti: In das grüne Herz der Südsee](https://www.faz.net/aktuell/reise/wandern-auf-tahiti-im-vallee-de-papenoo-accg-200650673.html) (Faz.net)
 
 ## 26-13 (hpai)
+
+- [【松山、博多、名古屋、広島にて開催！】ローカル生成AIの最前線と業務活用シナリオ紹介セミナー～最新事例から読み解く、AIワークステーションが拓く可能性～](https://prtimes.jp/main/html/rd/p/000000367.000021299.html) (Prtimes.jp)
 
 - [Assessment of a baloxavir marboxil treatment protocol for high pathogenicity avian influenza in Okinawa Rails, an endangered species endemic to Japan](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345055) (Plos.org)
 
 - [AdvanSentinel・宮崎大学・宮崎県が、渡り鳥が飛来する湖沼水での鳥インフルエンザウイルス検出情報を養鶏事業者の防疫に活用するための共同研究を開始](https://prtimes.jp/main/html/rd/p/000000012.000143755.html) (Prtimes.jp)
 
 ## 26-13 (h5n1)
+
+- [Casos de influenza aviar se siguen extendiendo por el país: SAG confirma nuevos hallazgos en aves de Magallanes y del Maule](https://www.latercera.com/nacional/noticia/casos-de-influenza-aviar-se-siguen-extendiendo-por-el-pais-sag-confirma-nuevos-hallazgos-en-aves-de-magallanes-y-del-maule/) (Latercera.com)
 
 - [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
 
@@ -1529,15 +1557,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-12 (meningitis)
 
+- [Nicht schon wieder ... - Ist Meningitis das neue Covid?](https://www.bild.de/news/ausland/infektionswelle-in-england-ist-meningitis-das-neue-covid-69bd157f8f5761671715960c) (Bild)
+
+- [Voldsomt meningitis-udbrud blandt unge: Smittetallet stiger yderligere](https://www.bt.dk/nyheder/voldsomt-meningitis-udbrud-blandt-unge-smittetallet-stiger-yderligere) (Www.bt.dk)
+
 - [UK meningitis outbreak cases rise to 34: official](https://www.channelnewsasia.com/world/uk-meningitis-outbreak-cases-rise-34-official-6009046) (CNA)
 
 - [How does the MenB Kent vaccine rollout work? #health](https://alltoc.com/health/how-does-the-menb-kent-vaccine-rollout-work) (Alltoc.com)
 
 - [How did meningitis outbreak become so explosive? #health](https://alltoc.com/health/how-did-meningitis-outbreak-become-so-explosive) (Alltoc.com)
 
+- [What strain was linked to Kent outbreak? #health](https://alltoc.com/health/what-strain-was-linked-to-kent-outbreak) (Alltoc.com)
+
 - [Meningitis cases rise to 34 from 29 in British county of Kent outbreak](https://www.thejournal.ie/meningitis-b-britain-kent-6991355-Mar2026/) (TheJournal.ie)
 
 - [Simple neck test that anyone can do at home to check if you have meningitis](https://www.ladbible.com/news/health/meningitis-neck-stiffness-test-uk-outbreak-759202-20260321) (LADbible)
+
+- [Towie star Jordan Brook reveals he has meningitis in update from hospital bed](https://www.the-independent.com/news/health/jordan-brook-towie-meningitis-outbreak-kent-b2943146.html) (The-independent.com)
 
 - [Meer dan twintig gevallen van meningitis in het VK, twee jongeren overleden](https://www.nrc.nl/nieuws/2026/03/21/meer-dan-twintig-gevallen-van-meningitis-in-het-vk-twee-jongeren-overleden-a4923645) (Www.nrc.nl)
 
@@ -1553,6 +1589,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningitis cases rise to 34 in UK as students queue for third day for vaccines](https://www.irishtimes.com/health/2026/03/21/meningitis-cases-rise-to-34-in-uk-as-students-queue-for-third-day-for-vaccines/) (The Irish Times)
 
+- [Director of Public Health issues vaccine reminder, following Kent meningitis outbreak](https://sbuhb.nhs.wales/news/swansea-bay-health-news/director-of-public-health-issues-vaccine-reminder-following-kent-meningitis-outbreak/) (Nhs.wales)
+
+- [Un Erasmus español en el epicentro de meningitis de Kent: «Ha sido un poco apocalíptico»](https://www.lavozdegalicia.es/noticia/sociedad/2026/03/21/erasmusespanol-epicentro-meningitis-kent-poco-apocaliptico/00031774089353179111999.htm) (Lavozdegalicia.es)
+
 - [Meningitis cases rise as vaccine queues continue](https://www.bbc.com/news/articles/cg40ql71p9yo) (BBC News)
 
 - [Number of cases in UK meningitis outbreak rises to 34](https://www.rte.ie/news/uk/2026/0321/1564499-meningitis-uk/) (RTE)
@@ -1563,11 +1603,17 @@ Source: [News API](https://newsapi.org/)
 
 - [How is MenB vaccine eligibility being considered? #health](https://alltoc.com/health/how-is-menb-vaccine-eligibility-being-considered) (Alltoc.com)
 
+- [What is happening in Kent’s MenB outbreak? #health](https://alltoc.com/health/what-is-happening-in-kents-menb-outbreak) (Alltoc.com)
+
 - [Meningitis strain in Kent outbreak has led to 12 deaths in Ireland in past five years](https://www.independent.ie/irish-news/meningitis-strain-in-kent-outbreak-has-led-to-12-deaths-in-ireland-in-past-five-years/a1396390330.html) (Independent.ie)
+
+- [How nightclub fun turned into a meningitis outbreak? Check doctor's advice on symptoms, risk & more](https://economictimes.indiatimes.com/news/international/world-news/how-nightclub-fun-turned-into-a-meningococcal-meningitis-outbreak-check-doctors-advice/articleshow/129712890.cms) (The Times of India)
 
 - [Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate](https://economictimes.indiatimes.com/news/international/world-news/kent-meningitis-outbreak-triggers-surge-in-uk-vaccine-demand-policy-debate/articleshow/129712453.cms) (The Times of India)
 
 - [UK meningitis outbreak evokes COVID memories & horrible sight](https://economictimes.indiatimes.com/news/international/world-news/uk-meningitis-outbreak-evokes-covid-memories-horrible-sight/articleshow/129712388.cms) (The Times of India)
+
+- [Five questions that need answering about the meningitis outbreak](https://www.bbc.co.uk/news/articles/cz783d70x8ro) (BBC News)
 
 - [Five questions that still need answering about the meningitis outbreak](https://www.bbc.com/news/articles/cz783d70x8ro) (BBC News)
 
