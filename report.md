@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-03-26 07:32
-- **Most recent article:** 2026-03-25 07:30:30
+- **New articles in last harvest:** 15
+- **Last harvest:** 2026-03-26 19:29
+- **Most recent article:** 2026-03-25 18:04:02
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 7 | 112 | 111 | 83 | 433 |
-| meningitis | 4 | 6 | 175 | 46 | 7 | 3 | 5 | 246 |
-| dengue | 22 | 11 | 28 | 5 | 24 | 17 | 15 | 122 |
+| measles | 70 | 30 | 20 | 9 | 110 | 111 | 83 | 433 |
+| meningitis | 4 | 6 | 175 | 55 | 7 | 3 | 5 | 255 |
+| dengue | 22 | 11 | 28 | 8 | 24 | 17 | 15 | 125 |
 | mpox | 10 | 16 | 12 | 0 | 13 | 25 | 27 | 103 |
 | rabies | 18 | 16 | 7 | 2 | 16 | 16 | 14 | 89 |
-| malaria | 16 | 9 | 20 | 5 | 14 | 10 | 11 | 85 |
+| malaria | 16 | 9 | 20 | 6 | 14 | 10 | 11 | 86 |
 | chikungunya | 1 | 7 | 7 | 2 | 12 | 40 | 6 | 75 |
-| h5n1 | 2 | 8 | 7 | 2 | 12 | 11 | 4 | 46 |
+| h5n1 | 2 | 8 | 7 | 2 | 11 | 11 | 4 | 45 |
 | hpai | 2 | 5 | 2 | 4 | 3 | 1 | 2 | 19 |
 | zika | 1 | 2 | 4 | 1 | 3 | 3 | 2 | 16 |
 | leptospirosis | 2 | 1 | 3 | 0 | 2 | 4 | 3 | 15 |
+| yersinia | 2 | 0 | 1 | 1 | 2 | 1 | 1 | 8 |
 | typhoid | 3 | 0 | 0 | 1 | 0 | 2 | 2 | 8 |
-| yersinia | 2 | 0 | 1 | 0 | 2 | 1 | 1 | 7 |
 | pertussis | 1 | 2 | 0 | 1 | 1 | 0 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -1245,10 +1245,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
-- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
-
-- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
-
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1316,8 +1312,6 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
-
-- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1399,6 +1393,10 @@ Source: [News API](https://newsapi.org/)
 
 - [C'è un motivo preciso se le zanzare ti adorano e non è quello che pensi](https://tech.everyeye.it/notizie/e-motivo-preciso-zanzare-adorano-non-pensi-867401.html) (Everyeye.it)
 
+## 26-13 (yersinia)
+
+- [Fis suppresses late-stage virulence gene expression in Yersinia pseudotuberculosis at environmental temperatures](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014105) (Plos.org)
+
 ## 26-13 (typhoid)
 
 - [World Water Day 2026: Importance of Clean Water and Hydration for Health](https://www.metropolisindia.com/blog/preventive-healthcare/world-water-day) (Metropolisindia.com)
@@ -1414,6 +1412,24 @@ Source: [News API](https://newsapi.org/)
 - [Roche launches the cobas eplex respiratory pathogen panel 3, a fast and comprehensive test to help clinicians treat patients with respiratory infections, in CE markets](https://www.prnewswire.co.uk/news-releases/roche-launches-the-cobas-eplex-respiratory-pathogen-panel-3-a-fast-and-comprehensive-test-to-help-clinicians-treat-patients-with-respiratory-infections-in-ce-markets-302722600.html) (PR Newswire UK)
 
 ## 26-13 (meningitis)
+
+- [How does MenB meningitis spread in Kent? #health](https://alltoc.com/health/how-does-menb-meningitis-spread-in-kent) (Alltoc.com)
+
+- [Kent meningitis outbreak: the latest on the bacterial strain at its centre](https://theconversation.com/kent-meningitis-outbreak-the-latest-on-the-bacterial-strain-at-its-centre-278925) (The Conversation Africa)
+
+- [What strain drove the Kent meningitis outbreak? #health](https://alltoc.com/health/what-strain-drove-the-kent-meningitis-outbreak) (Alltoc.com)
+
+- [Why did NHS delay warning about Kent meningitis? #health](https://alltoc.com/health/why-did-nhs-delay-warning-about-kent-meningitis) (Alltoc.com)
+
+- [Los niños gallegos tendrán una nueva vacuna de refuerzo contra la meningitis B a los 12 años](https://esradio.libertaddigital.com/galicia/2026-03-25/los-ninos-gallegos-tendran-una-nueva-vacuna-de-refuerzo-contra-la-meningitis-b-a-los-12-anos-7379899/) (Libertaddigital.com)
+
+- [Los niños de 12 años tendrán en Galicia una vacuna de refuerzo contra la meningitis](https://www.lavozdegalicia.es/noticia/galicia/2026/03/25/ninos-12-anos-tendran-galicia-dosis-refuerzo-contra-meningitis/00031774431394774432709.htm) (Lavozdegalicia.es)
+
+- [Los niños gallegos tendrán una nueva vacuna de refuerzo contra la meningitis B a los 12 años](https://www.europapress.es/galicia/noticia-ninos-gallegos-tendran-nueva-vacuna-refuerzo-contra-meningitis-12-anos-20260325111721.html) (Europapress.es)
+
+- [Hospital 'missed earlier opportunity' to raise alarm about meningitis](https://news.sky.com/story/hospital-missed-earlier-opportunity-to-raise-alarm-about-meningitis-13524184) (Sky.com)
+
+- [Why does an English hospital ‘indefensibly’ delaying news of a deadly Meningitis outbreak causing loss of limbs, blindness and brain injury NOT lead to calls for a health secretary or anyone to resign when in Scotland keeping details of one patient’s poss](https://talkingupscotlandtwo.com/2026/03/25/why-does-an-english-hospital-indefensibly-delaying-news-of-a-deadly-meningitis-outbreak-causing-loss-of-limbs-blindness-and-brain-injury-not-lead-to-calls-for-a-health-secretary-or-anyone-to-resi/) (Talkingupscotlandtwo.com)
 
 - [Brote de meningitis en jóvenes en reino unido: ¿puede pasar lo mismo en España?](https://www.infosalus.com/salud-investigacion/noticia-brote-meningitis-jovenes-reino-unido-puede-pasar-mismo-espana-20260325082849.html) (Infosalus.com)
 
@@ -1509,6 +1525,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (measles)
 
+- [Measles outbreak grows to seven cases in Washtenaw county; unvaccinated children and adults affected](https://economictimes.indiatimes.com/news/international/us/measles-outbreak-grows-to-seven-cases-in-washtenaw-county-unvaccinated-children-and-adults-affected/articleshow/129808776.cms) (The Times of India)
+
+- [A Florida University Had One Of The Largest Measles Outbreaks In Decades, So Why Wasn’t The Public Made More Aware Of It?](https://brobible.com/culture/article/florida-university-measles-outbreaks/) (BroBible)
+
 - [Florida measles cases rise to 140 as health officials report another seven cases](https://theapopkavoice.com/stories/florida-measles-cases-rise-to-140-as-health-officials-report-another-seven-cases,165788) (The Apopka Voice)
 
 - [RFK Jr. Wants To Give Your Kids Early Start On Their Melanoma](https://www.wonkette.com/p/rfk-jr-wants-to-give-your-kids-early) (Wonkette.com)
@@ -1524,6 +1544,8 @@ Source: [News API](https://newsapi.org/)
 - [Tsar Nicholas II’s Daughters Proudly Showing Their Bald Heads in 1917](https://www.vintag.es/2026/03/romanov-sisters-shaved-heads.html) (Vintag.es)
 
 ## 26-13 (malaria)
+
+- [Co-infections of malaria and dengue in Timika, a highly endemic malaria area in Central Papua, Indonesia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345164) (Plos.org)
 
 - [Host macrophages/monocytes promote malaria transmission by modulating mosquito microbiota via SR-A-mediated phagocytosis](https://www.nature.com/articles/s41467-026-70966-3) (Nature.com)
 
@@ -1552,6 +1574,12 @@ Source: [News API](https://newsapi.org/)
 - [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
 
 ## 26-13 (dengue)
+
+- [Ibaneis inaugura Praça Jornalista Paulo Pestana, no Lago Norte](https://www.metropoles.com/distrito-federal/ibaneis-inaugura-praca-jornalista-paulo-pestana-no-lago-norte) (Metropoles.com)
+
+- [Co-infections of malaria and dengue in Timika, a highly endemic malaria area in Central Papua, Indonesia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345164) (Plos.org)
+
+- [The frantic, high-tech fight to stop climate-fueled dengue fever](https://grist.org/health/the-fight-to-stop-climate-fueled-dengue-fever-mosquitoes/) (Grist)
 
 - [Dengue Fever: Challenges in Vaccine Development and Global Impact](https://www.downtoearth.org.in/health/dengue-fever-is-a-growing-problem-why-its-so-hard-to-beat-with-vaccines) (Down To Earth Magazine)
 

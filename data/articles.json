@@ -1,8 +1,279 @@
 {
-  "last_updated": "2026-03-26 07:32",
-  "count_articles_total": 1243,
-  "count_articles_new": 11,
+  "last_updated": "2026-03-26 19:29",
+  "count_articles_total": 1255,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 28689,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How does MenB meningitis spread in Kent? #health",
+      "description": "What the Kent MenB outbreak suggests about spread Kent\u2019s meningitis B (MenB) outbreak triggered a major public health response after a cluster of invasive meningococcal disease cases. Across the coverage, several consistent points emerge about how MenB can sp\u2026",
+      "url": "https://alltoc.com/health/how-does-menb-meningitis-spread-in-kent",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-25 18:04:02",
+      "content": "Kents meningitis B (MenB) outbreak triggered a major public-health response after a cluster of invasive meningococcal disease cases. Across the coverage, several consistent points emerge about how Me\u2026 [+1645 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.853268",
+      "internal_id": "5b7a1fd918a4098364d906de8c58c2aecf79389b47ce91ecbcd6c328db367bf7",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28680,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Durva More",
+      "title": "Measles outbreak grows to seven cases in Washtenaw county; unvaccinated children and adults affected",
+      "description": "A measles outbreak has been reported in Washtenaw County with several unvaccinated people infected. Officials say the disease spreads fast and warn residents to stay alert. Some exposure locations were shared, including a hospital visit. Health teams are trac\u2026",
+      "url": "https://economictimes.indiatimes.com/news/international/us/measles-outbreak-grows-to-seven-cases-in-washtenaw-county-unvaccinated-children-and-adults-affected/articleshow/129808776.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-129808776,width-1200,height-630,imgsize-1181952,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-03-25 18:02:08",
+      "content": "A measles outbreak in Washtenaw County, Michigan has grown to seven confirmed cases, and all the people infected were not vaccinated, including both children and adults. Health officials said the lat\u2026 [+2012 chars]",
+      "retrievedAt": "2026-03-26 19:29:26.601115",
+      "internal_id": "b8b3e0d16a461eb68ca83f84eab7227a010430a69815dd075e0ab4967731ebd9",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28682,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Ibaneis inaugura Pra\u00e7a Jornalista Paulo Pestana, no Lago Norte",
+      "description": "Pra\u00e7a homenageia Paulo Pestana, jornalista do DF que morreu ap\u00f3s dengue hemorr\u00e1gica em 2024",
+      "url": "https://www.metropoles.com/distrito-federal/ibaneis-inaugura-praca-jornalista-paulo-pestana-no-lago-norte",
+      "urlToImage": "https://i.metroimg.com/68sNlVCbJngFmDU78q4ksrfyP2mMdupgFZOhwOi2cbA/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/paulo-pestana-ibaneis.jpg",
+      "publishedAt": "2026-03-25 17:44:33",
+      "content": "O governador Ibaneis Rocha (MDB) inaugurou a Pra\u00e7a Jornalista Paulo Pestana, no Lago Norte (DF) nesta quarta-feira (25/3). O equipamento p\u00fablico leva o nome de um dos principais comunicadores da hist\u2026 [+4597 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.095942",
+      "internal_id": "e8743468dd2b5121e72348490cbe0932b45d14b96279083ad76c8b30d0941ff5",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28684,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Mark Fielder, Professor of Medical Microbiology, Kingston University",
+      "title": "Kent meningitis outbreak: the latest on the bacterial strain at its centre",
+      "description": "A meningitis outbreak in Kent linked to a genetically unusual strain has raised urgent questions about why it is spreading among young people.",
+      "url": "https://theconversation.com/kent-meningitis-outbreak-the-latest-on-the-bacterial-strain-at-its-centre-278925",
+      "urlToImage": "https://images.theconversation.com/files/726135/original/file-20260325-71-jsu15f.jpg?ixlib=rb-4.1.0&rect=0%2C316%2C4032%2C2016&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-03-25 14:33:35",
+      "content": "A meningitis outbreak in Kent has been caused by a strain of bacteria that appears to be genetically distinct from anything scientists have seen before. Health officials are working urgently to under\u2026 [+4145 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.526073",
+      "internal_id": "4385d724df7039dc39f50fb9b6a985407bb76a282f13cb5c12f7fc808657a89d",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28679,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BroBible",
+      "author": "Douglas Charles",
+      "title": "A Florida University Had One Of The Largest Measles Outbreaks In Decades, So Why Wasn\u2019t The Public Made More Aware Of It?",
+      "description": "Ave Maria University in Florida recently had one of the biggest measles outbreaks to occur in the United States in decades, but officials told the public very little about it. Now, people are asking why? Why are public officials so hesitant to discuss measles\u2026",
+      "url": "https://brobible.com/culture/article/florida-university-measles-outbreaks/",
+      "urlToImage": "https://brobible.com/wp-content/uploads/2026/03/measles-florida.jpg",
+      "publishedAt": "2026-03-25 14:23:22",
+      "content": "istockphoto composite Ave Maria University in Florida recently had one of the biggest measles outbreaks to occur in the United States in decades, but officials told the public very little about it. \u2026 [+4107 chars]",
+      "retrievedAt": "2026-03-26 19:29:26.548173",
+      "internal_id": "c435276ce4bf04f990ef05a7cc8f8fbf9833ffc07320e128b8090eb4afba1fe5",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28683,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Bunga Rana, Leily Trianty, Marsha S. Santoso, Agatha M. Puspitasari, Fahira A. Nisa, Ristya Amalia, Lise Carlier, Kevin Tetteh, Rintis Noviyanti, R. Tedjo Sasmono",
+      "title": "Co-infections of malaria and dengue in Timika, a highly endemic malaria area in Central Papua, Indonesia",
+      "description": "Objective Malaria and dengue are two important infectious diseases in Indonesia, but information about their co-infections is still limited. This study aimed to describe malaria\u2013dengue co-infections in Timika, Papua, including the clinical manifestations and \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345164",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0345164.g002&size=inline",
+      "publishedAt": "2026-03-25 14:00:00",
+      "content": "Abstract Objective Malaria and dengue are two important infectious diseases in Indonesia, but information about their co-infections is still limited. This study aimed to describe malariadengue co-i\u2026 [+28488 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.147879",
+      "internal_id": "2b456fc3fcaa34534f6656b4d975d365c9c591f01446a406b9dbbd870a565416",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28693,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Soheila Javadi, Stephan Pienko\u00df, Dominik Meggers, Andrea Wimbert, Vivian B. Brandenburg, Pascal Dietze, Sina Sch\u00e4kermann, Lilo Greune, Petra Dersch, Franz Narberhaus",
+      "title": "Fis suppresses late-stage virulence gene expression in Yersinia pseudotuberculosis at environmental temperatures",
+      "description": "Author summary Bacterial pathogens must precisely control virulence gene expression to transition successfully between environmental reservoirs and host infection. In Yersinia pseudotuberculosis, the nucleoid-associated protein Fis plays a crucial role in coo\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014105",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014105.g010&size=inline",
+      "publishedAt": "2026-03-25 14:00:00",
+      "content": "Citation: Javadi S, Pienko\u00df S, Meggers D, Wimbert A, Brandenburg VB, Dietze P, et al. (2026) Fis suppresses late-stage virulence gene expression in Yersinia pseudotuberculosis at environmental temper\u2026 [+72943 chars]",
+      "retrievedAt": "2026-03-26 19:29:28.953497",
+      "internal_id": "64a4bf0de38b8a0f559ac793c3c3244f8cd16c6f5b860865ca14ae5f88903390",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28686,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What strain drove the Kent meningitis outbreak? #health",
+      "description": "UKHSA identified the outbreak as meningitis B strain UK health authorities have identified the bacterial strain behind the Kent meningitis outbreak as meningitis B (MenB) . The coverage indicates that UKHSA concluded the strain involved in the outbreak that r\u2026",
+      "url": "https://alltoc.com/health/what-strain-drove-the-kent-meningitis-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-25 12:03:50",
+      "content": "UK health authorities have identified the bacterial strain behind the Kent meningitis outbreak as meningitis B (MenB). The coverage indicates that UKHSA concluded the strain involved in the outbreak\u2026 [+1260 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.635833",
+      "internal_id": "9bf78ffe5f062a10c30c28af4fd56c66048c4bc2a5add48e09a64f3d0ab48d7f",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28688,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did NHS delay warning about Kent meningitis? #health",
+      "description": "NHS trust took two days to raise alarm Multiple reports say the NHS in England took two days before raising the alert about the Kent meningitis outbreak , prompting questions about timeliness of communication with public health authorities. The reports descri\u2026",
+      "url": "https://alltoc.com/health/why-did-nhs-delay-warning-about-kent-meningitis",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-25 12:03:50",
+      "content": "Multiple reports say the NHS in England took two days before raising the alert about the Kent meningitis outbreak, prompting questions about timeliness of communication with public health authorities\u2026 [+1602 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.839003",
+      "internal_id": "74a8e2123866de59d59f27fedca92b14b5fae9bb1edc07ee00d56986a522a2a0",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28687,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Libertaddigital.com",
+      "author": "esRadio Galicia / Agencias",
+      "title": "Los ni\u00f1os gallegos tendr\u00e1n una nueva vacuna de refuerzo contra la meningitis B a los 12 a\u00f1os",
+      "description": "Rueda ha explicado que Galicia ya tiene dos: una tetravalente (contra el meningococo C) y otra frente al meningococo B",
+      "url": "https://esradio.libertaddigital.com/galicia/2026-03-25/los-ninos-gallegos-tendran-una-nueva-vacuna-de-refuerzo-contra-la-meningitis-b-a-los-12-anos-7379899/",
+      "urlToImage": "https://s1.staticld.com/2026/03/25/1200/675/1017x672/nino-recibe-vacuna.jpg",
+      "publishedAt": "2026-03-25 11:08:16",
+      "content": "El presidente de la Xunta, Alfonso Rueda, ha avanzado este mi\u00e9rcoles que Galicia dar\u00e1 un nuevo paso para \"completar\" su calendario de vacunaci\u00f3n y reforzar la protecci\u00f3n frente al meningococo B con u\u2026 [+1509 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.662628",
+      "internal_id": "65cb817bc81fe72008f6782cb7c76954ed63b39dc45f5dace6ab958fc1fc7b23",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28690,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "MARIO BERAMENDI",
+      "title": "Los ni\u00f1os de 12 a\u00f1os tendr\u00e1n en Galicia una vacuna de refuerzo contra la meningitis",
+      "description": "Rueda defiende ante las cr\u00edticas de la oposici\u00f3n el modelo sanitario gallego y recuerda que la comunidad tiene \u00abo mellor calendario de vacinaci\u00f3n do mundo\u00bb en un pleno del Parlamento en el que Besteiro le ha acusado de emprender \u00abunha demolici\u00f3n programada da\u2026",
+      "url": "https://www.lavozdegalicia.es/noticia/galicia/2026/03/25/ninos-12-anos-tendran-galicia-dosis-refuerzo-contra-meningitis/00031774431394774432709.htm",
+      "urlToImage": "https://img.lavdg.com/sc/lvKwk-z1oWHD59IRTrIf7tCLW2E=/1280x/2026/03/20/00121774011422290556896/Foto/H_20231118_152622000.jpg",
+      "publishedAt": "2026-03-25 10:34:00",
+      "content": "El presidente de la Xunta, Alfonso Rueda, ha anunciado esta ma\u00f1ana en el Parlamento gallego que los ni\u00f1os de 12 a\u00f1os recibir\u00e1n un refuerzo en la protecci\u00f3n contra el meningococo B, que ahora se sumin\u2026 [+2666 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.904746",
+      "internal_id": "4abf2203a59d288d7541bb668d8785953760892a1ecc2de4c4ac443f79a189c7",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28691,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": null,
+      "title": "Los ni\u00f1os gallegos tendr\u00e1n una nueva vacuna de refuerzo contra la meningitis B a los 12 a\u00f1os",
+      "description": "El presidente de la Xunta, Alfonso Rueda, ha avanzado este mi\u00e9rcoles que Galicia dar\u00e1 un nuevo paso para \"completar\" su calendario de vacunaci\u00f3n y reforzar la protecci\u00f3n frente al meningococo B con una nueva vacuna que se administrar\u00e1 a los 12 a\u00f1os.",
+      "url": "https://www.europapress.es/galicia/noticia-ninos-gallegos-tendran-nueva-vacuna-refuerzo-contra-meningitis-12-anos-20260325111721.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260325111721_1200.jpg",
+      "publishedAt": "2026-03-25 10:17:21",
+      "content": "SANTIAGO DE COMPOSTELA, 25 Mar. (EUROPA PRESS) - El presidente de la Xunta, Alfonso Rueda, ha avanzado este mi\u00e9rcoles que Galicia dar\u00e1 un nuevo paso para \"completar\" su calendario de vacunaci\u00f3n y\u2026 [+1580 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.955558",
+      "internal_id": "a397eec3b57b8def4db533b24a0f90629da3be79aa153edb1553264b8cc13173",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28685,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Hospital 'missed earlier opportunity' to raise alarm about meningitis",
+      "description": "Health Secretary Wes Streeting told Sky News the failure to report the case quickly was \"not acceptable\" - but there is currently no indication it had a \"material impact\" on the outbreak.",
+      "url": "https://news.sky.com/story/hospital-missed-earlier-opportunity-to-raise-alarm-about-meningitis-13524184",
+      "urlToImage": "https://e3.365dm.com/26/01/1600x900/skynews-hospital-margate-queen-elizabeth_7133701.jpg?20260112201720",
+      "publishedAt": "2026-03-25 09:50:00",
+      "content": "A hospital trust has admitted it missed an earlier opportunity to alert health officials about a potential case of meningitis in Kent. An \"unwell\" patient first went to Queen Elizabeth The Queen Mot\u2026 [+3004 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.575037",
+      "internal_id": "6fcdf1bfc93e29eeab955da3ed30b75eaf2a688c225470a95ce72e61e3b2b9e5",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28692,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Talkingupscotlandtwo.com",
+      "author": "Johnrobertson834",
+      "title": "Why does an English hospital \u2018indefensibly\u2019 delaying news of a deadly Meningitis outbreak causing loss of limbs, blindness and brain injury NOT lead to calls for a health secretary or anyone to resign when in Scotland keeping details of one patient\u2019s poss",
+      "description": "Why does an English hospital \u2018indefensibly\u2019 delaying news of a deadly Meningitis outbreak causing loss of limbs, blindness and brain injury NOT lead to calls for a health secretary or anyone to resign when in Scotland keeping details of one patient\u2019s posstalk\u2026",
+      "url": "https://talkingupscotlandtwo.com/2026/03/25/why-does-an-english-hospital-indefensibly-delaying-news-of-a-deadly-meningitis-outbreak-causing-loss-of-limbs-blindness-and-brain-injury-not-lead-to-calls-for-a-health-secretary-or-anyone-to-resi/",
+      "urlToImage": "https://talkingupscotlandtwo.com/wp-content/uploads/2026/03/image-209.png",
+      "publishedAt": "2026-03-25 09:27:16",
+      "content": "Today with a photo of a nurse, BBC Health reports, the above and: The NHS waited two days before raising the alarm about the meningitis outbreak, the BBC has learnt. The UK Health Security Agency wa\u2026 [+4254 chars]",
+      "retrievedAt": "2026-03-26 19:29:28.044503",
+      "internal_id": "1f21150e415ae6249cdf088677072289cf38f36964ea18a33703169a4b762950",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28681,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Grist",
+      "author": "Zoya Teirstein",
+      "title": "The frantic, high-tech fight to stop climate-fueled dengue fever",
+      "description": "Scientists in Brazil and Peru may have found a way to beat mosquitoes at their own game. The U.S. may soon need to do the same.",
+      "url": "https://grist.org/health/the-fight-to-stop-climate-fueled-dengue-fever-mosquitoes/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2026/03/dengue-final-2000x1125-1.jpg?quality=75&strip=all",
+      "publishedAt": "2026-03-25 08:45:00",
+      "content": "This story was produced by Grist and co-published with Salud con lupa. It is part of the Grist series Vital Signs, exploring the ways climate change affects your health. This reporting initiative is \u2026 [+28077 chars]",
+      "retrievedAt": "2026-03-26 19:29:27.080042",
+      "internal_id": "50c4fc18735b8f2beb81277c709c50da8cfb7872da587cd0791336f25d20e717",
+      "publishedAtLabel": "Mar 25"
+    },
     {
       "id": 28671,
       "query": [
@@ -22348,60 +22619,6 @@
       "content": "WASHINGTON -- A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing it\u2026 [+6421 chars]",
       "retrievedAt": "2026-02-10 07:29:48.760315",
       "internal_id": "e8be81c292df08f70c70726c3781bfd2549b22d51f5b08909d41eb33637378b1",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27430,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Dr. Scott Gottlieb says measles outbreak may \"get worse, unfortunately, before it resolves\"",
-      "description": "Former FDA Commissioner Dr. Scott Gottlieb, who sits on the boards of Pfizer and UnitedHealthcare, told \"Face the Nation with Margaret Brennan\" that the current measles outbreak could be a \"long cycle, especially now that this has gotten embedded in political\u2026",
-      "url": "https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/08/d23efcef-ccc8-4ff6-ad90-2424ebfa7c08/thumbnail/1200x630/64aa23137f56de268ab21ab8512d8e59/cbsn-fusion-dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves-thumbnail.jpg",
-      "publishedAt": "2026-02-08 18:48:00",
-      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
-      "retrievedAt": "2026-02-09 19:33:32.146881",
-      "internal_id": "d53faee33d148860b0fa18390927ba9b49bb9e2e851e7c4377bc8281ce8df364",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27431,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Rick Lye",
-      "title": "Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis\u2014Is Your Family at Risk?",
-      "description": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) issued a formal warning regarding an additional case of measl\u2026",
-      "url": "https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/11/disneyland-marquee-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-08 14:40:54",
-      "content": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) i\u2026 [+6917 chars]",
-      "retrievedAt": "2026-02-09 19:33:32.238856",
-      "internal_id": "ca8ffcf7d60394c586e3e9a8f7df293bfeb0ccb722b475db872d4a2cd2425d29",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27432,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tv9kannada.com",
-      "author": "Vinay Kashappanavar",
-      "title": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0c85\u0cac\u0ccd\u0cac\u0cb0: \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4\u0cc1 H5N1 \u0c9f\u0cc6\u0ca8\u0ccd\u0cb7\u0ca8\u0ccd",
-      "description": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf H5N1 \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0cad\u0cc0\u0ca4\u0cbf \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 H5N1 \u0cb5\u0cc8\u0cb0\u0cb8\u0ccd \u0c86\u0ca4\u0c82\u0c95 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0ca4 \u0caa\u0c95\u0ccd\u0cb7\u0cbf\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cae\u0cbe\u0ca8\u0cb5\u0cb0\u0cbf\u0c97\u0cc6 \u0cb9\u0cb0\u0ca1\u0cc1\u0cb5 \u0c88 \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6\u0cbf\u0c82\u0ca6 \u0c89\u0c82\u0c9f\u0cbe\u0c97\u0cc1\u0cb5 \u0cb8\u0cbe\u0cb5\u0cbf\u0ca8 \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0cb0\u0ccb\u0c97 \u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0cb2\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0ca6\u0c82\u0ca4\u0cc6 \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0cb0\u0cc1 \u0cb8\u0cc2\u0c9a\u0cbf\u0cb8\u0cbf\u0ca6\u0ccd\u0ca6\u0cbe\u0cb0\u0cc6. \u0c85\u0cb7\u0ccd\u0c9f\u0c95\u0ccd\u0c95\u0cc2 \u0c88 \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0c97\u0cc6 \u0ca4\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0ca6\u0cb5\u0cb0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf\u2026",
-      "url": "https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html",
-      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2026/02/bird-flue.jpg",
-      "publishedAt": "2026-02-08 11:20:30",
-      "content": ", 08: H5N1 . 1,500 , . . . ? H5N1 , , . , . 4 6 . : ? ? .. ., . .50, . . . . . .",
-      "retrievedAt": "2026-02-09 19:33:32.929027",
-      "internal_id": "120cf99f5b71c89f79f81ed3a2765c804bbab06e828df650d3cf8d1328f5e6e5",
       "publishedAtLabel": "Feb 8"
     }
   ]
