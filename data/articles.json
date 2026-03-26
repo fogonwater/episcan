@@ -1,8 +1,188 @@
 {
-  "last_updated": "2026-03-25 19:21",
-  "count_articles_total": 1229,
-  "count_articles_new": 22,
+  "last_updated": "2026-03-26 07:32",
+  "count_articles_total": 1243,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 28671,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Down To Earth Magazine",
+      "author": "Marielena Vogel Saivish",
+      "title": "Dengue Fever: Challenges in Vaccine Development and Global Impact",
+      "description": "Dengue Fever: Challenges in Vaccine Development and Global Impactdowntoearth.org.in",
+      "url": "https://www.downtoearth.org.in/health/dengue-fever-is-a-growing-problem-why-its-so-hard-to-beat-with-vaccines",
+      "urlToImage": "https://gumlet.assettype.com/downtoearth%2F2026-03-25%2Froqotp1o%2FiStock-1982029948.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-03-25 07:30:30",
+      "content": "Dengue, a mosquito-borne disease, affects millions of people every year across Asia, Africa and Latin America. And its expanding geographically as warmer temperatures and urban growth allow mosqu\u2026 [+7471 chars]",
+      "retrievedAt": "2026-03-26 07:32:49.483547",
+      "internal_id": "4d3bce6beed65284ea7ffdc5e4e5f379610dcea134226ea190a15564d57fdfd0",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28676,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "Brote de meningitis en j\u00f3venes en reino unido: \u00bfpuede pasar lo mismo en Espa\u00f1a?",
+      "description": "El reciente brote de meningitis en j\u00f3venes en Reino Unido ha reavivado la preocupaci\u00f3n sobre una enfermedad poco frecuente pero potencialmente grave. Aunque en la mayor\u00eda de los casos la meningitis es de origen v\u00edrico y leve, las formas bacterianas -como la c\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-brote-meningitis-jovenes-reino-unido-puede-pasar-mismo-espana-20260325082849.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260325082849_1200.jpg",
+      "publishedAt": "2026-03-25 07:28:49",
+      "content": "MADRID, 25 Mar. (EDIZIONES) - El reciente brote de meningitis en j\u00f3venes en Reino Unido ha reavivado la preocupaci\u00f3n sobre una enfermedad poco frecuente pero potencialmente grave. Aunque en la \u2026 [+7178 chars]",
+      "retrievedAt": "2026-03-26 07:32:50.186972",
+      "internal_id": "7cd806823a579de4d0be0daf31e1a69bae2ae7a6a4fe0af50e15905c1830b8d2",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28673,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did NHS delay meningitis outbreak alarm? #health",
+      "description": "Two day delay in warning during UK meningitis outbreak Coverage indicates the NHS waited two days before raising the alarm about a meningitis outbreak, with the BBC having learnt details of the timing. In public health terms, even short delays can matter beca\u2026",
+      "url": "https://alltoc.com/health/why-did-nhs-delay-meningitis-outbreak-alarm",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-25 06:04:02",
+      "content": "Two-day delay in warning during UK meningitis outbreak Coverage indicates the NHS waited two days before raising the alarm about a meningitis outbreak, with the BBC having learnt details of the timi\u2026 [+1590 chars]",
+      "retrievedAt": "2026-03-26 07:32:49.944793",
+      "internal_id": "78fdbdd9c22f66cb5c48128f7b07fa3e054beab6ed04eb9f02a2907ad4329f9d",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28674,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Kent meningitis outbreak\u2014what caused spike? #health",
+      "description": "Explosive MenB outbreak in Kent: strain and transmission dynamics Multiple stories describe an \u201cunprecedented\u201d meningitis outbreak in Kent, linked to student/social settings, with the outbreak eventually showing signs of slowing and containment efforts increa\u2026",
+      "url": "https://alltoc.com/health/kent-meningitis-outbreak-what-caused-spike",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-25 06:04:02",
+      "content": "Explosive MenB outbreak in Kent: strain and transmission dynamics Multiple stories describe an unprecedented meningitis outbreak in Kent, linked to student/social settings, with the outbreak eventua\u2026 [+1966 chars]",
+      "retrievedAt": "2026-03-26 07:32:50.002767",
+      "internal_id": "5bdffce93935b1d1e1fa5598a20b5f856ae0c3fae0642c3458ae255eb7a18a01",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28670,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "salute@gedi.it (Redazione di Salute)",
+      "title": "Dalla leishmaniosi alla dengue: le malattie in arrivo dalle nuove zanzare",
+      "description": "Esperti a confronto per frenare il rischio contagio dagli animali all\u2019uomo, favorito dai cambiamenti climatici",
+      "url": "https://www.repubblica.it/salute/2026/03/25/news/zanzare_parassiti_rischio_nuove_malattie-425243084/",
+      "urlToImage": "https://www.repstatic.it/content/contenthub/img/2026/03/24/172329219-8c6d6b61-9578-4024-8161-c9c315f466fd.jpg",
+      "publishedAt": "2026-03-25 05:00:00",
+      "content": "Attaccano gli animali, li infettano e indirettamente colpiscono le persone. Sono le malattie trasmesse dalle zanzare, le nuove zanzare che i cambiamenti climatici ci presentano come vettori per virus\u2026 [+7547 chars]",
+      "retrievedAt": "2026-03-26 07:32:49.181453",
+      "internal_id": "919e816737dbe7d850683e98b2e933de40a3e025d7c97630559f9ecb359766fc",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28672,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "NHS waited two days before raising alarm about meningitis outbreak",
+      "description": "Experts say the wait was indefensible and possibly delayed identification of the outbreak.",
+      "url": "https://www.bbc.com/news/articles/cp8dnxln3y5o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/560e/live/f35c1210-27b4-11f1-934f-036468834728.jpg",
+      "publishedAt": "2026-03-25 00:26:15",
+      "content": "Experts have criticised the delay, saying it may have put people at risk, as earlier health warnings to the public would have meant those subsequently developing symptoms could have sought medical he\u2026 [+9 chars]",
+      "retrievedAt": "2026-03-26 07:32:49.807847",
+      "internal_id": "3dc21e0612a415ec8931c9c1c202fe158176a3d7e0bee3cf61a0c8c19096f52d",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28675,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How did a MenB genome drive Kent outbreak? #health",
+      "description": "Distinct meningitis B genome tied to Kent outbreak factors Experts say the \u201cdistinct\u201d meningitis B genome is one of the factors driving the Kent outbreak, alongside two other elements. The discussion appears in connection with BMJ coverage of the 2026 outbrea\u2026",
+      "url": "https://alltoc.com/health/how-did-a-menb-genome-drive-kent-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-25 00:03:30",
+      "content": "Distinct meningitis B genome tied to Kent outbreak factors Experts say the distinct meningitis B genome is one of the factors driving the Kent outbreak, alongside two other elements. The discussion \u2026 [+1402 chars]",
+      "retrievedAt": "2026-03-26 07:32:50.071806",
+      "internal_id": "b1215e21f724fa54fc87b1559f37f952daafb2e5a6d314d84efd347f74fea63b",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28678,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Biao He, Meilin Li, Shuai Guo, Jiaqin Fang, Yongling Fan, Nie Tan, Taiping Liu, Jianyong Li, Feng Zhu, Jian Zhang, Wenyue Xu",
+      "title": "Host macrophages/monocytes promote malaria transmission by modulating mosquito microbiota via SR-A-mediated phagocytosis",
+      "description": "He et al. report that the host-derived macrophages/monocytes enhanced malaria transmission by reducing the abundance of transmission-blocking microbiota in mosquito midgut via SRA-mediated phagocytosis. In addition, the depletion of macrophages/monocytes or t\u2026",
+      "url": "https://www.nature.com/articles/s41467-026-70966-3",
+      "urlToImage": null,
+      "publishedAt": "2026-03-25 00:00:00",
+      "content": "Malaria: (still) a global health priority. EClinicalMedicine 34, 100891. https://doi.org/10.1016/j.eclinm.2021.100891 (2021) WHO. World Malaria Report 2024. (2025). Alonso, P.\u2026 [+9046 chars]",
+      "retrievedAt": "2026-03-26 07:32:50.551176",
+      "internal_id": "79af95d25a8a601f5536d6c6cae5d53c1fe3ca97505fb712d1d7642b707d59b2",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28669,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Apopka Voice",
+      "author": "Christine Sexton Florida Phoenix",
+      "title": "Florida measles cases rise to 140 as health officials report another seven cases",
+      "description": "Florida is seeing a continued rise in measles cases, with the latest infections concentrated in Collier County teens and a young child in Broward County. Health officials say most cases involve unvaccinated individuals, reinforcing the importance of the MMR v\u2026",
+      "url": "https://theapopkavoice.com/stories/florida-measles-cases-rise-to-140-as-health-officials-report-another-seven-cases,165788",
+      "urlToImage": "https://epsilon.creativecirclecdn.com/apopka/original/20260324-145235-b6c-GettyImages-462294288-1024x706-1.jpg",
+      "publishedAt": "2026-03-24 23:57:28",
+      "content": "In Summary: Florida has reported 140 measles cases as of mid-March, with new infections primarily affecting teenagers in Collier County. State and federal data show the vast majority of cases are li\u2026 [+3685 chars]",
+      "retrievedAt": "2026-03-26 07:32:48.145692",
+      "internal_id": "6e7ef47edf7f9ec6542b77a7033cfe264e64f2adb727f3de111357d4f737f5db",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28668,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "RFK Jr. Wants To Give Your Kids Early Start On Their Melanoma",
+      "description": "Well he can't be the only one walking around looking like a leather bag.",
+      "url": "https://www.wonkette.com/p/rfk-jr-wants-to-give-your-kids-early",
+      "urlToImage": "https://substackcdn.com/image/youtube/w_728,c_limit/B8n_WWDVl2w",
+      "publishedAt": "2026-03-24 20:20:44",
+      "content": "Oh boy, it is getting hard to keep track of the myriad ways that Robert F. Kennedy Jr. is making America healthy again. As of just a few days ago, were just 13 measles cases away from making it an ev\u2026 [+7667 chars]",
+      "retrievedAt": "2026-03-26 07:32:47.887453",
+      "internal_id": "c0cd6cbd7c9a2b2f4a30eaad85ff812a3301c377d4debc9b8741970dcdc579c6",
+      "publishedAtLabel": "Mar 24"
+    },
     {
       "id": 28648,
       "query": [
@@ -200,6 +380,24 @@
       "content": "Dengue, a mosquito-borne disease, affects millions of people every year across Asia, Africa and Latin America. And it\u2019s expanding geographically as warmer temperatures and urban growth allow mosquito\u2026 [+7800 chars]",
       "retrievedAt": "2026-03-25 19:21:32.138570",
       "internal_id": "140958fe69dea0dd017f356eec862a3429b4a689ee3f802d3d502d8ace64863a",
+      "publishedAtLabel": "Mar 24"
+    },
+    {
+      "id": 28677,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Limerick Leader",
+      "author": "Lili Lonergan",
+      "title": "Meningitis case confirmed in Ireland as HSE issues public health update",
+      "description": "Meningitis case confirmed in Ireland as HSE issues public health updatelimerickleader.ie",
+      "url": "https://www.limerickleader.ie/news/national-news/2046161/meningitis-case-confirmed-in-ireland-as-hse-issues-public-health-update.html",
+      "urlToImage": "https://www.limerickleader.ie/resizer/1200/700/true/2026_03_24/MixCollage-24-Mar-2026-12-31-PM-6441-1774355578550.jpg--meningitis_case_confirmed_in_ireland_as_hse_issues_public_health_update.jpg?1774355578622",
+      "publishedAt": "2026-03-24 13:10:02",
+      "content": "A case of Meningitis has been been confirmed in Ireland with health officials moving quickly to contain any potential spread while stressing there is no wider cause for alarm. The Health Service Exe\u2026 [+1513 chars]",
+      "retrievedAt": "2026-03-26 07:32:50.223016",
+      "internal_id": "80402d429013ad982fb8c909f2bd50c69b144ffd7ac5920638f19f92b509ab81",
       "publishedAtLabel": "Mar 24"
     },
     {
@@ -22150,6 +22348,60 @@
       "content": "WASHINGTON -- A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing it\u2026 [+6421 chars]",
       "retrievedAt": "2026-02-10 07:29:48.760315",
       "internal_id": "e8be81c292df08f70c70726c3781bfd2549b22d51f5b08909d41eb33637378b1",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27430,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Dr. Scott Gottlieb says measles outbreak may \"get worse, unfortunately, before it resolves\"",
+      "description": "Former FDA Commissioner Dr. Scott Gottlieb, who sits on the boards of Pfizer and UnitedHealthcare, told \"Face the Nation with Margaret Brennan\" that the current measles outbreak could be a \"long cycle, especially now that this has gotten embedded in political\u2026",
+      "url": "https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/08/d23efcef-ccc8-4ff6-ad90-2424ebfa7c08/thumbnail/1200x630/64aa23137f56de268ab21ab8512d8e59/cbsn-fusion-dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves-thumbnail.jpg",
+      "publishedAt": "2026-02-08 18:48:00",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-02-09 19:33:32.146881",
+      "internal_id": "d53faee33d148860b0fa18390927ba9b49bb9e2e851e7c4377bc8281ce8df364",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27431,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Rick Lye",
+      "title": "Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis\u2014Is Your Family at Risk?",
+      "description": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) issued a formal warning regarding an additional case of measl\u2026",
+      "url": "https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/11/disneyland-marquee-steven-miller-flickr.jpg",
+      "publishedAt": "2026-02-08 14:40:54",
+      "content": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) i\u2026 [+6917 chars]",
+      "retrievedAt": "2026-02-09 19:33:32.238856",
+      "internal_id": "ca8ffcf7d60394c586e3e9a8f7df293bfeb0ccb722b475db872d4a2cd2425d29",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27432,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tv9kannada.com",
+      "author": "Vinay Kashappanavar",
+      "title": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0c85\u0cac\u0ccd\u0cac\u0cb0: \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4\u0cc1 H5N1 \u0c9f\u0cc6\u0ca8\u0ccd\u0cb7\u0ca8\u0ccd",
+      "description": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf H5N1 \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0cad\u0cc0\u0ca4\u0cbf \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 H5N1 \u0cb5\u0cc8\u0cb0\u0cb8\u0ccd \u0c86\u0ca4\u0c82\u0c95 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0ca4 \u0caa\u0c95\u0ccd\u0cb7\u0cbf\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cae\u0cbe\u0ca8\u0cb5\u0cb0\u0cbf\u0c97\u0cc6 \u0cb9\u0cb0\u0ca1\u0cc1\u0cb5 \u0c88 \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6\u0cbf\u0c82\u0ca6 \u0c89\u0c82\u0c9f\u0cbe\u0c97\u0cc1\u0cb5 \u0cb8\u0cbe\u0cb5\u0cbf\u0ca8 \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0cb0\u0ccb\u0c97 \u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0cb2\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0ca6\u0c82\u0ca4\u0cc6 \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0cb0\u0cc1 \u0cb8\u0cc2\u0c9a\u0cbf\u0cb8\u0cbf\u0ca6\u0ccd\u0ca6\u0cbe\u0cb0\u0cc6. \u0c85\u0cb7\u0ccd\u0c9f\u0c95\u0ccd\u0c95\u0cc2 \u0c88 \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0c97\u0cc6 \u0ca4\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0ca6\u0cb5\u0cb0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf\u2026",
+      "url": "https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html",
+      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2026/02/bird-flue.jpg",
+      "publishedAt": "2026-02-08 11:20:30",
+      "content": ", 08: H5N1 . 1,500 , . . . ? H5N1 , , . , . 4 6 . : ? ? .. ., . .50, . . . . . .",
+      "retrievedAt": "2026-02-09 19:33:32.929027",
+      "internal_id": "120cf99f5b71c89f79f81ed3a2765c804bbab06e828df650d3cf8d1328f5e6e5",
       "publishedAtLabel": "Feb 8"
     }
   ]
