@@ -1,8 +1,280 @@
 {
-  "last_updated": "2026-03-27 07:32",
-  "count_articles_total": 1269,
-  "count_articles_new": 11,
+  "last_updated": "2026-03-27 19:20",
+  "count_articles_total": 1281,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 28709,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "SUS passa a oferecer teste r\u00e1pido para diagn\u00f3stico de dengue",
+      "description": "Exame identifica prote\u00edna do v\u00edrus nos primeiros dias da infec\u00e7\u00e3o e pode ampliar o diagn\u00f3stico precoce da doen\u00e7a na rede p\u00fablica",
+      "url": "https://www.metropoles.com/saude/sus-oferecera-teste-rapido-diagnostico-dengue",
+      "urlToImage": "https://i.metroimg.com/EIWVRRqPgV1wujxwOycj10AP7bN2a7-TvyCMr175Zzk/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/exame-de-sangue.jpg",
+      "publishedAt": "2026-03-26 18:54:43",
+      "content": "O Sistema \u00danico de Sa\u00fade (SUS) passar\u00e1 a oferecer um teste r\u00e1pido para diagn\u00f3stico de dengue que permite identificar a infec\u00e7\u00e3o logo nos primeiros dias de sintomas. A incorpora\u00e7\u00e3o do exame foi ofici\u2026 [+5666 chars]",
+      "retrievedAt": "2026-03-27 19:20:35.869593",
+      "internal_id": "925e848178ab98fd94385af379f7577bc4178f047db3d700fe6722194fa1774a",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28714,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How did the Kent meningitis outbreak spread? #health",
+      "description": "Kent meningitis outbreak: what\u2019s known about transmission and response Multiple reports describe a large meningitis outbreak in Kent, England , driven by invasive meningococcal disease , with public health actions focused on rapidly identifying cases and prev\u2026",
+      "url": "https://alltoc.com/health/how-did-the-kent-meningitis-outbreak-spread",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-26 18:04:36",
+      "content": "Kent meningitis outbreak: whats known about transmission and response Multiple reports describe a large meningitis outbreak in Kent, England, driven by invasive meningococcal disease, with public he\u2026 [+1782 chars]",
+      "retrievedAt": "2026-03-27 19:20:36.384853",
+      "internal_id": "54c3b3ec1b74b78806256d440151a590a75f76984968f322165c4af99980c5af",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28717,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Jacob A Tennessen, Research Scientist in Immunology and Infectious Diseases, Harvard University",
+      "title": "Mosquitoes carrying malaria are evolving more quickly than insecticides can kill them \u2013 researchers pinpoint how",
+      "description": "Once-lethal insecticides now require concerningly high concentrations to effectively kill mosquitoes. Some mosquitoes are already immune to all classes of insecticides used to control malaria.",
+      "url": "https://theconversation.com/mosquitoes-carrying-malaria-are-evolving-more-quickly-than-insecticides-can-kill-them-researchers-pinpoint-how-275391",
+      "urlToImage": "https://images.theconversation.com/files/725159/original/file-20260319-57-o1tmci.JPG?ixlib=rb-4.1.0&rect=0%2C368%2C1920%2C960&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-03-26 18:00:53",
+      "content": "_Anopheles darlingi_, a key carrier of malaria, is rapidly evolving resistance to insecticides. Romuald Carinci and Pascal Gaborit/Duchemin lab/Institut Pasteur de la Guyane, CC BY-SA The fight agai\u2026 [+6552 chars]",
+      "retrievedAt": "2026-03-27 19:20:37.438711",
+      "internal_id": "155118e8fa73520881ed62088577125e8be6fb26addd8136e2658fa161ab3274",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28719,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Ig.com.br",
+      "author": "Arthur Felipe Farias, Arthur Felipe Farias",
+      "title": "Minas registra novos casos de mpox e total chega a 17",
+      "description": "Doen\u00e7a avan\u00e7a em duas cidades mineiras. Os pacientes s\u00e3o homens e j\u00e1 se recuperaram, segundo autoridades estaduais de sa\u00fade",
+      "url": "https://saude.ig.com.br/2026-03-26/minas-registra-novos-casos-de-mpox-e-total-chega-a-17.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/02/2j/mp/022jmpn889eqltzeup71zcnxq.jpg",
+      "publishedAt": "2026-03-26 17:15:10",
+      "content": "Minas Gerais voltou a registrar novos casos de mpox, ampliando o n\u00famero de pessoas infectadas pela doen\u00e7a no estado. De acordo com informa\u00e7\u00f5es divulgadas pela Secretaria de Estado de Sa\u00fade (SES-MG), \u2026 [+2593 chars]",
+      "retrievedAt": "2026-03-27 19:20:38.636150",
+      "internal_id": "75a950d31c6efbbc832e02770a30628780f2b6483d47fc12378e86263effdcb8",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28705,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Star Online",
+      "author": "DIVYA THERESA RAVI",
+      "title": "Sarawak tightens extensive system to control rabies",
+      "description": "PETALING JAYA: Sarawak is implementing a comprehensive system to control rabies, ranging from mandatory dog vaccinations to cross-border enforcement. Read full story",
+      "url": "https://www.thestar.com.my/news/nation/2026/03/27/sarawak-tightens-extensive-system-to-control-rabies",
+      "urlToImage": "https://apicms.thestar.com.my/uploads/images/2026/03/27/3832048.jpg",
+      "publishedAt": "2026-03-26 16:00:00",
+      "content": "PETALING JAYA: Sarawak is implementing a comprehensive system to control rabies, ranging from mandatory dog vaccinations to cross-border enforcement. The state Department of \u00adVete\u00adrinary Services sa\u2026 [+2478 chars]",
+      "retrievedAt": "2026-03-27 19:20:34.787198",
+      "internal_id": "7b6f5a0917ec22d8ca8153928628a47f7438b76615a409245aedf2119a9dbf94",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28716,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Brigitte.de",
+      "author": "Andrea Berning",
+      "title": "Meningitis-Ausbruch: Brauchen auch \u00e4ltere Kinder jetzt die Meningokokken-Impfung?",
+      "description": "Im S\u00fcden Englands hat eine Meningitiswelle unter Jugendlichen schon zwei Todesopfer gefordert, zahlreiche weitere Infizierte liegen schwer erkrankt im Krankenhaus. Wer Kinder in dem Alter hat, fragt sich nat\u00fcrlich, wie gro\u00df die Gefahr hier bei uns ist. Eine K\u2026",
+      "url": "https://www.brigitte.de/gesund/gesundheit/meningitis-ausbruch--eltern-sorgen-sich-um-ihre-aelteren-kinder-14069062.html",
+      "urlToImage": "https://image.brigitte.de/14069058/t/h7/v2/w1440/r1.7778/-/meningokokken-ausbruch.jpg",
+      "publishedAt": "2026-03-26 13:18:00",
+      "content": "Beunruhigende Bilder kommen derzeit aus der Grafschaft Kent: Schlangen von Sch\u00fcler:innen und Studierenden bilden sich vor den Einrichtungen, in denen prophylaktisch Antibiotika ausgegeben werden. Das\u2026 [+5050 chars]",
+      "retrievedAt": "2026-03-27 19:20:36.642514",
+      "internal_id": "63dd05b459938dad859661148f6388decf9903de978c0226238582c34cf64f34",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28713,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Shane Raymond",
+      "title": "Debunked: Keir Starmer did not suggest the UK should go into lockdown over meningitis cases",
+      "description": "An outbreak at a Kent nightclub has led to the deaths of two young adults.",
+      "url": "https://www.thejournal.ie/factcheck-debunked-keir-starmer-meningitis-lockdowns-kent-outbreak-6994403-Mar2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/6994403/river/?height=400&version=6994490",
+      "publishedAt": "2026-03-26 13:04:23",
+      "content": "FALSE CLAIMS THAT Keir Starmer, the British Prime Minister, warned that a lockdown might be imposed were shared widely online as England fought a fatal meningitis outbreak. The claims spread after t\u2026 [+2874 chars]",
+      "retrievedAt": "2026-03-27 19:20:36.347389",
+      "internal_id": "d8818cbd5c7250ee077a7759c80dc47bf003c8963ac547556e573d35ecb36dec",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28715,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Aljazeera.net",
+      "author": "\u0633\u0627\u0631\u0629 \u062c\u0645\u0627\u0644",
+      "title": "\u0645\u0631\u0636 \u0642\u0627\u062a\u0644 \u0628\u064a\u0646 \u0637\u0644\u0627\u0628 \u0627\u0644\u062c\u0627\u0645\u0639\u0627\u062a \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629.. \"\u0627\u0644\u0633\u0627\u0639\u0629 \u0627\u0644\u0630\u0647\u0628\u064a\u0629\" \u0642\u062f \u062a\u0646\u0642\u0630 \u062d\u064a\u0627\u062a\u0643",
+      "description": "\u0631\u063a\u0645 \u062e\u0637\u0648\u0631\u062a\u0647\u060c \u064a\u0643\u0645\u0646 \u0633\u0631 \u0645\u0648\u0627\u062c\u0647\u0629 \"\u0627\u0644\u062a\u0647\u0627\u0628 \u0627\u0644\u0633\u062d\u0627\u064a\u0627\" \u0641\u064a \"\u0639\u064a\u0646 \u0627\u0644\u0635\u062f\u064a\u0642\" \u0627\u0644\u0648\u0627\u0639\u064a\u0629\u060c \u0648\u0641\u064a \u0641\u0647\u0645 \u0627\u0644\u0623\u0633\u0628\u0627\u0628 \u0627\u0644\u062a\u064a \u062a\u062c\u0639\u0644 \u0627\u0644\u062d\u0631\u0645 \u0627\u0644\u062c\u0627\u0645\u0639\u064a \u0628\u064a\u0626\u0629 \u0645\u062b\u0627\u0644\u064a\u0629 \u0644\u0627\u0646\u062a\u0634\u0627\u0631 \u0627\u0644\u0628\u0643\u062a\u064a\u0631\u064a\u0627. \u0641\u0643\u064a\u0641 \u062a\u062d\u0648\u0644 \u0648\u0639\u064a\u0643 \u0627\u0644\u0634\u062e\u0635\u064a \u0625\u0644\u0649 \u062f\u0631\u0639 \u064a\u062d\u0645\u064a \u0632\u0645\u064a\u0644\u0643 \u0641\u064a \u0627\u0644\u0633\u0643\u0646\u061f",
+      "url": "https://www.aljazeera.net/lifestyle/2026/3/26/%d9%85%d8%b1%d8%b6-%d9%82%d8%a7%d8%aa%d9%84-%d8%a8%d9%8a%d9%86-%d8%b7%d9%84%d8%a7%d8%a8-%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a9",
+      "urlToImage": "https://www.aljazeera.net/wp-content/uploads/2026/03/%D8%A7%D9%84%D8%AA%D9%87%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D8%AD%D8%A7%D9%8A%D8%A7-%D9%83%D9%86%D8%AA-1774458746.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-03-26 13:00:00",
+      "content": "\" \". \" \" (Meningitis) \" \". list of 2 itemsend of list \" \" 24 . . \"\" \"\" / . 20 23 29 . . () \"\" \" \" . \" \" (British Medical Journal) . . . . \" \" . \" \". . . \"\" \" \" \"\". \"\" () \" \" \u2026 [+218 chars]",
+      "retrievedAt": "2026-03-27 19:20:36.542009",
+      "internal_id": "7d6872d1787072b3181178b3acd93b11b39c823022892ca4315dd01fd2975f70",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28708,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Vitoria Lopes Gomez",
+      "title": "SUS agora tem teste r\u00e1pido para dengue; veja como funciona",
+      "description": "Teste j\u00e1 pode ser disponibilizado na rede p\u00fablica O post SUS agora tem teste r\u00e1pido para dengue; veja como funciona apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2026/03/26/medicina-e-saude/sus-agora-tem-teste-rapido-para-dengue-veja-como-funciona/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2026/03/dengue-scaled.jpg",
+      "publishedAt": "2026-03-26 11:47:10",
+      "content": "O Sistema \u00danico de Sa\u00fade (SUS) contar\u00e1 com um teste r\u00e1pido para diagn\u00f3stico da dengue, com foco na identifica\u00e7\u00e3o precoce da infec\u00e7\u00e3o. A medida foi oficializada nesta quinta-feira (26), com publica\u00e7\u00e3o\u2026 [+2072 chars]",
+      "retrievedAt": "2026-03-27 19:20:35.840195",
+      "internal_id": "1c3329e29d0950c42b25c338ead800a6b6ef301d039462d722b5916d6d9820d3",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28712,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Infosalus.com",
+      "author": null,
+      "title": "ISCIII expone un cambio de paradigma de mejora de utilidad de pruebas diagn\u00f3sticas en dengue con ingenier\u00eda de productos",
+      "description": "Un equipo de investigadores del Instituto de Salud Carlos III (ISCIII) ha publicado un art\u00edculo a trav\u00e9s del que propone un cambio de paradigma para mejorar la utilidad real de pruebas diagn\u00f3sticas para el dengue y otras enfermedades desatendidas, para lo que\u2026",
+      "url": "https://www.infosalus.com/salud-investigacion/noticia-isciii-expone-cambio-paradigma-mejora-utilidad-pruebas-diagnosticas-dengue-ingenieria-productos-20260326122627.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260326122627_1200.jpg",
+      "publishedAt": "2026-03-26 11:26:27",
+      "content": "MADRID, 26 Mar. (EUROPA PRESS) - Un equipo de investigadores del Instituto de Salud Carlos III (ISCIII) ha publicado un art\u00edculo a trav\u00e9s del que propone un cambio de paradigma para mejorar la u\u2026 [+2411 chars]",
+      "retrievedAt": "2026-03-27 19:20:35.955983",
+      "internal_id": "d0bb743bc04f84edd774a5ccab9fd66a286e35b0d416e7928a44ae14fb7f9c0f",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28711,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "Health alert issued for dengue outbreaks spreading in travel hotspots",
+      "description": "The CDC has issued a Level 1 dengue fever warning covering 15+ countries, urging spring break travelers to take precautions against mosquito bites.",
+      "url": "https://www.foxnews.com/health/health-alert-issued-dengue-outbreaks-spreading-travel-hotspots",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/maldives-terrorism-advisory.jpg",
+      "publishedAt": "2026-03-26 11:00:27",
+      "content": "The U.S. Centers for Disease Control and Prevention has issued a warning about dengue fever in over 15 countries. The \"Level 1: Practice Usual Precautions\" alert was published on Monday. \"Dengue is\u2026 [+3461 chars]",
+      "retrievedAt": "2026-03-27 19:20:35.945188",
+      "internal_id": "602878b6ffaaacc06f14bf48cfad857d15ca52e89d6d9e5d350efcf870e621f6",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28707,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "la-repubblica",
+      "source_name": "La Repubblica",
+      "author": "repubblicawww@repubblica.it (Redazione Repubblica.it)",
+      "title": "Influenza aviaria, l\u2019allarme di Bassetti: \u201cE\u2019 dietro l\u2019angolo\u201d",
+      "description": "Il direttore della clinica malattie infettive dell\u2019ospedale San Martino invita a potenziare sorveglianza e diagnostica",
+      "url": "https://genova.repubblica.it/cronaca/2026/03/26/news/influenza_aviaria_l_allarme_di_bassetti_e__dietro_l_angolo-425247003/",
+      "urlToImage": "https://www.repstatic.it/content/localirep/img/rep-genova/2026/03/26/113745208-9f3828ae-46ec-4fa0-a555-b1e40406a4c8.jpg",
+      "publishedAt": "2026-03-26 10:37:51",
+      "content": "\"Tanto tuon\u00f2 che piovve. Abbiamo in Italia il primo caso umano di influenza aviaria\", causato \"da un virus chiamato H9N2 che \u00e8 simile ad altri virus aviari come H5N1\". Il paziente, \"ricoverato in Lom\u2026 [+1292 chars]",
+      "retrievedAt": "2026-03-27 19:20:35.485852",
+      "internal_id": "11fb0d4cf9292fb68a80d8c16a883633960df423b688b8df62e9cb426fc3b1f5",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28706,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": "Israel National News",
+      "title": "Measles patient stayed in public bomb shelter in Kiryat Malachi",
+      "description": "Measles patients spent time in a public bomb shelter, blood donation center, and hotel, Health Ministry warns.",
+      "url": "https://www.israelnationalnews.com/news/424608",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1114524.jpg",
+      "publishedAt": "2026-03-26 10:27:24",
+      "content": "Israel's Health Ministry on Wednesday warned that a measles patient may have infected people at a public bomb shelter in southern Israel. According to an epidemiological investigation conducted by t\u2026 [+1830 chars]",
+      "retrievedAt": "2026-03-27 19:20:35.080956",
+      "internal_id": "220269ccd08501c16a980b47f729752931bb2f71e0f29a986889a1b8cac7f1d1",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28710,
+      "query": [
+        "dengue",
+        "malaria",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Travellers reminded to protect themselves against mosquito bites",
+      "description": "New UKHSA data shows dengue cases have fallen significantly, but chikungunya infections rose 43% in 2025 and malaria continues to be reported at consistently high levels among returning travellers",
+      "url": "https://www.gov.uk/government/news/travellers-reminded-to-protect-themselves-against-mosquito-bites",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-03-26 09:45:05",
+      "content": "The UK Health Security Agency (UKHSA) is reminding people to take precautions against mosquito-borne infections during the upcoming Easter break and spring travel period. While the latest data brings\u2026 [+5655 chars]",
+      "retrievedAt": "2026-03-27 19:20:35.907794",
+      "internal_id": "c1aca1fe5b920e5584ca9eed8212df007cc3e8e839018fa317f929491d75ce79",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28718,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "Daniela Remus, NDR",
+      "title": "In Deutschland gibt es erste F\u00e4lle der MPox-Variante Klade Ib",
+      "description": "Die Mpox-Klade Ib hat im vergangenen Jahr rund 45.000 Erkrankungen in mehr als 20 afrikanischen L\u00e4ndern verursacht - auch Todesf\u00e4lle. Seit Anfang des Jahres sind in Deutschland Ansteckungsf\u00e4lle mit dieser Variante aufgetaucht. Von D. Remus.",
+      "url": "https://www.tagesschau.de/wissen/forschung/mpox-deutschland-variante-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/f9b44110-e308-4229-950a-bc079434d42a/AAABnRpTJ0E/AAABnSSvrFg/16x9-big/zelle-mpox-100.jpg?width=1280",
+      "publishedAt": "2026-03-26 09:14:00",
+      "content": "Stand: 26.03.2026 10:14 Uhr Die Mpox-Klade Ib hat im vergangenen Jahr rund 45 000 Erkrankungen in mehr als 20 afrikanischen L\u00e4ndern verursacht - auch Todesf\u00e4lle. Seit Anfang des Jahres sind in Deuts\u2026 [+5426 chars]",
+      "retrievedAt": "2026-03-27 19:20:38.625080",
+      "internal_id": "39e171b2d262e34a05c21bf41a4bd15318a3127d44b81855819da617842dd6f3",
+      "publishedAtLabel": "Mar 26"
+    },
     {
       "id": 28699,
       "query": [
@@ -22818,60 +23090,6 @@
       "content": "WASHINGTON -- A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing it\u2026 [+6421 chars]",
       "retrievedAt": "2026-02-10 07:29:48.760315",
       "internal_id": "e8be81c292df08f70c70726c3781bfd2549b22d51f5b08909d41eb33637378b1",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27430,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Dr. Scott Gottlieb says measles outbreak may \"get worse, unfortunately, before it resolves\"",
-      "description": "Former FDA Commissioner Dr. Scott Gottlieb, who sits on the boards of Pfizer and UnitedHealthcare, told \"Face the Nation with Margaret Brennan\" that the current measles outbreak could be a \"long cycle, especially now that this has gotten embedded in political\u2026",
-      "url": "https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/08/d23efcef-ccc8-4ff6-ad90-2424ebfa7c08/thumbnail/1200x630/64aa23137f56de268ab21ab8512d8e59/cbsn-fusion-dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves-thumbnail.jpg",
-      "publishedAt": "2026-02-08 18:48:00",
-      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
-      "retrievedAt": "2026-02-09 19:33:32.146881",
-      "internal_id": "d53faee33d148860b0fa18390927ba9b49bb9e2e851e7c4377bc8281ce8df364",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27431,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Rick Lye",
-      "title": "Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis\u2014Is Your Family at Risk?",
-      "description": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) issued a formal warning regarding an additional case of measl\u2026",
-      "url": "https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/11/disneyland-marquee-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-08 14:40:54",
-      "content": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) i\u2026 [+6917 chars]",
-      "retrievedAt": "2026-02-09 19:33:32.238856",
-      "internal_id": "ca8ffcf7d60394c586e3e9a8f7df293bfeb0ccb722b475db872d4a2cd2425d29",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27432,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tv9kannada.com",
-      "author": "Vinay Kashappanavar",
-      "title": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0c85\u0cac\u0ccd\u0cac\u0cb0: \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4\u0cc1 H5N1 \u0c9f\u0cc6\u0ca8\u0ccd\u0cb7\u0ca8\u0ccd",
-      "description": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf H5N1 \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0cad\u0cc0\u0ca4\u0cbf \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 H5N1 \u0cb5\u0cc8\u0cb0\u0cb8\u0ccd \u0c86\u0ca4\u0c82\u0c95 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0ca4 \u0caa\u0c95\u0ccd\u0cb7\u0cbf\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cae\u0cbe\u0ca8\u0cb5\u0cb0\u0cbf\u0c97\u0cc6 \u0cb9\u0cb0\u0ca1\u0cc1\u0cb5 \u0c88 \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6\u0cbf\u0c82\u0ca6 \u0c89\u0c82\u0c9f\u0cbe\u0c97\u0cc1\u0cb5 \u0cb8\u0cbe\u0cb5\u0cbf\u0ca8 \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0cb0\u0ccb\u0c97 \u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0cb2\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0ca6\u0c82\u0ca4\u0cc6 \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0cb0\u0cc1 \u0cb8\u0cc2\u0c9a\u0cbf\u0cb8\u0cbf\u0ca6\u0ccd\u0ca6\u0cbe\u0cb0\u0cc6. \u0c85\u0cb7\u0ccd\u0c9f\u0c95\u0ccd\u0c95\u0cc2 \u0c88 \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0c97\u0cc6 \u0ca4\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0ca6\u0cb5\u0cb0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf\u2026",
-      "url": "https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html",
-      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2026/02/bird-flue.jpg",
-      "publishedAt": "2026-02-08 11:20:30",
-      "content": ", 08: H5N1 . 1,500 , . . . ? H5N1 , , . , . 4 6 . : ? ? .. ., . .50, . . . . . .",
-      "retrievedAt": "2026-02-09 19:33:32.929027",
-      "internal_id": "120cf99f5b71c89f79f81ed3a2765c804bbab06e828df650d3cf8d1328f5e6e5",
       "publishedAtLabel": "Feb 8"
     }
   ]

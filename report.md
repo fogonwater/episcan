@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-03-27 07:32
-- **Most recent article:** 2026-03-26 06:30:00
+- **New articles in last harvest:** 15
+- **Last harvest:** 2026-03-27 19:20
+- **Most recent article:** 2026-03-26 18:54:43
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 12 | 112 | 111 | 83 | 438 |
-| meningitis | 4 | 6 | 175 | 58 | 7 | 3 | 5 | 258 |
-| dengue | 22 | 11 | 28 | 10 | 24 | 17 | 15 | 127 |
-| mpox | 10 | 16 | 12 | 0 | 13 | 25 | 27 | 103 |
-| rabies | 18 | 16 | 7 | 2 | 16 | 16 | 14 | 89 |
-| malaria | 16 | 9 | 20 | 8 | 14 | 10 | 11 | 88 |
-| chikungunya | 1 | 7 | 7 | 3 | 12 | 40 | 6 | 76 |
-| h5n1 | 2 | 8 | 7 | 3 | 12 | 11 | 4 | 47 |
+| measles | 70 | 30 | 20 | 13 | 110 | 111 | 83 | 437 |
+| meningitis | 4 | 6 | 175 | 62 | 7 | 3 | 5 | 262 |
+| dengue | 22 | 11 | 28 | 15 | 24 | 17 | 15 | 132 |
+| mpox | 10 | 16 | 12 | 2 | 13 | 25 | 27 | 105 |
+| malaria | 16 | 9 | 20 | 10 | 14 | 10 | 11 | 90 |
+| rabies | 18 | 16 | 7 | 3 | 16 | 16 | 14 | 90 |
+| chikungunya | 1 | 7 | 7 | 4 | 12 | 40 | 6 | 77 |
+| h5n1 | 2 | 8 | 7 | 4 | 11 | 11 | 4 | 47 |
 | hpai | 2 | 5 | 2 | 4 | 3 | 1 | 2 | 19 |
 | zika | 1 | 2 | 4 | 1 | 3 | 3 | 2 | 16 |
 | leptospirosis | 2 | 1 | 3 | 0 | 2 | 4 | 3 | 15 |
@@ -1245,10 +1245,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
-- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
-
-- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
-
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1316,8 +1312,6 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
-
-- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1409,6 +1403,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (rabies)
 
+- [Sarawak tightens extensive system to control rabies](https://www.thestar.com.my/news/nation/2026/03/27/sarawak-tightens-extensive-system-to-control-rabies) (The Star Online)
+
 - [Ministry of Health: Jackal infected with rabies found in the Jordan Valley](https://www.israelnationalnews.com/flashes/680940) (Israelnationalnews.com)
 
 - [Sarawak reviewing strategies to strengthen rabies control](https://www.thestar.com.my/news/nation/2026/03/22/sarawak-reviewing-strategies-to-strengthen-rabies-control) (The Star Online)
@@ -1417,7 +1413,21 @@ Source: [News API](https://newsapi.org/)
 
 - [Roche launches the cobas eplex respiratory pathogen panel 3, a fast and comprehensive test to help clinicians treat patients with respiratory infections, in CE markets](https://www.prnewswire.co.uk/news-releases/roche-launches-the-cobas-eplex-respiratory-pathogen-panel-3-a-fast-and-comprehensive-test-to-help-clinicians-treat-patients-with-respiratory-infections-in-ce-markets-302722600.html) (PR Newswire UK)
 
+## 26-13 (mpox)
+
+- [Minas registra novos casos de mpox e total chega a 17](https://saude.ig.com.br/2026-03-26/minas-registra-novos-casos-de-mpox-e-total-chega-a-17.html) (Ig.com.br)
+
+- [In Deutschland gibt es erste Fälle der MPox-Variante Klade Ib](https://www.tagesschau.de/wissen/forschung/mpox-deutschland-variante-100.html) (tagesschau.de)
+
 ## 26-13 (meningitis)
+
+- [How did the Kent meningitis outbreak spread? #health](https://alltoc.com/health/how-did-the-kent-meningitis-outbreak-spread) (Alltoc.com)
+
+- [Meningitis-Ausbruch: Brauchen auch ältere Kinder jetzt die Meningokokken-Impfung?](https://www.brigitte.de/gesund/gesundheit/meningitis-ausbruch--eltern-sorgen-sich-um-ihre-aelteren-kinder-14069062.html) (Brigitte.de)
+
+- [Debunked: Keir Starmer did not suggest the UK should go into lockdown over meningitis cases](https://www.thejournal.ie/factcheck-debunked-keir-starmer-meningitis-lockdowns-kent-outbreak-6994403-Mar2026/) (TheJournal.ie)
+
+- [مرض قاتل بين طلاب الجامعات البريطانية.. "الساعة الذهبية" قد تنقذ حياتك](https://www.aljazeera.net/lifestyle/2026/3/26/%d9%85%d8%b1%d8%b6-%d9%82%d8%a7%d8%aa%d9%84-%d8%a8%d9%8a%d9%86-%d8%b7%d9%84%d8%a7%d8%a8-%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a9) (Aljazeera.net)
 
 - [Kent meningitis outbreak peaks after vaccinations #health](https://alltoc.com/health/kent-meningitis-outbreak-peaks-after-vaccinations) (Alltoc.com)
 
@@ -1537,6 +1547,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (measles)
 
+- [Measles patient stayed in public bomb shelter in Kiryat Malachi](https://www.israelnationalnews.com/news/424608) (Israelnationalnews.com)
+
 - [Health Ministry reports Measles patient stayed in public shelter in Kiryat Malachi](https://www.israelnationalnews.com/flashes/681169) (Israelnationalnews.com)
 
 - [RFK Jr. Is Losing His Grip on the CDC](https://www.theatlantic.com/health/2026/03/cdc-director-hhs-kennedy-bhattacharya/686541/) (The Atlantic)
@@ -1562,6 +1574,10 @@ Source: [News API](https://newsapi.org/)
 - [Tsar Nicholas II’s Daughters Proudly Showing Their Bald Heads in 1917](https://www.vintag.es/2026/03/romanov-sisters-shaved-heads.html) (Vintag.es)
 
 ## 26-13 (malaria)
+
+- [Mosquitoes carrying malaria are evolving more quickly than insecticides can kill them – researchers pinpoint how](https://theconversation.com/mosquitoes-carrying-malaria-are-evolving-more-quickly-than-insecticides-can-kill-them-researchers-pinpoint-how-275391) (The Conversation Africa)
+
+- [Travellers reminded to protect themselves against mosquito bites](https://www.gov.uk/government/news/travellers-reminded-to-protect-themselves-against-mosquito-bites) (Www.gov.uk)
 
 - [Cum recunoști malaria la timp: de la cazul copiilor infectați recent la metodele de protecție recomandate de medici](https://adevarul.ro/stiri-interne/sanatate/cum-recunosti-malaria-la-timp-de-la-cazul-2517950.html) (Adevarul.ro)
 
@@ -1591,6 +1607,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (h5n1)
 
+- [Influenza aviaria, l’allarme di Bassetti: “E’ dietro l’angolo”](https://genova.repubblica.it/cronaca/2026/03/26/news/influenza_aviaria_l_allarme_di_bassetti_e__dietro_l_angolo-425247003/) (La Repubblica)
+
 - [SAG suspende certificación de exportaciones avícolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial](https://www.df.cl/regiones/sag-confirma-deteccion-del-primer-caso-positivo-de-influenza-aviar-h5n1-en) (Www.df.cl)
 
 - [Casos de influenza aviar se siguen extendiendo por el país: SAG confirma nuevos hallazgos en aves de Magallanes y del Maule](https://www.latercera.com/nacional/noticia/casos-de-influenza-aviar-se-siguen-extendiendo-por-el-pais-sag-confirma-nuevos-hallazgos-en-aves-de-magallanes-y-del-maule/) (Latercera.com)
@@ -1598,6 +1616,16 @@ Source: [News API](https://newsapi.org/)
 - [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
 
 ## 26-13 (dengue)
+
+- [SUS passa a oferecer teste rápido para diagnóstico de dengue](https://www.metropoles.com/saude/sus-oferecera-teste-rapido-diagnostico-dengue) (Metropoles.com)
+
+- [SUS agora tem teste rápido para dengue; veja como funciona](https://olhardigital.com.br/2026/03/26/medicina-e-saude/sus-agora-tem-teste-rapido-para-dengue-veja-como-funciona/) (Olhardigital.com.br)
+
+- [ISCIII expone un cambio de paradigma de mejora de utilidad de pruebas diagnósticas en dengue con ingeniería de productos](https://www.infosalus.com/salud-investigacion/noticia-isciii-expone-cambio-paradigma-mejora-utilidad-pruebas-diagnosticas-dengue-ingenieria-productos-20260326122627.html) (Infosalus.com)
+
+- [Health alert issued for dengue outbreaks spreading in travel hotspots](https://www.foxnews.com/health/health-alert-issued-dengue-outbreaks-spreading-travel-hotspots) (Fox News)
+
+- [Travellers reminded to protect themselves against mosquito bites](https://www.gov.uk/government/news/travellers-reminded-to-protect-themselves-against-mosquito-bites) (Www.gov.uk)
 
 - [Caída de pelo: cómo diferenciar un proceso temporal de un problema crónico](https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/caida-de-pelo-como-diferenciar-un-proceso-temporal-de-un-problema-cronico-nid26032026/) (La Nacion)
 
@@ -1620,6 +1648,8 @@ Source: [News API](https://newsapi.org/)
 - [Felipeh Campos recebe alta após quadro grave de dengue](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-recebe-alta-apos-quadro-grave-de-dengue) (Metropoles.com)
 
 ## 26-13 (chikungunya)
+
+- [Travellers reminded to protect themselves against mosquito bites](https://www.gov.uk/government/news/travellers-reminded-to-protect-themselves-against-mosquito-bites) (Www.gov.uk)
 
 - [Il faut faut "anticiper" l'épidémie de chikungunya aux Antilles et en Guyane "en vaccinant les personnes les plus fragiles", estime un épidémiologiste](https://www.franceinfo.fr/sante/maladie/chikungunya/il-faut-faut-anticiper-l-epidemie-de-chikungunya-aux-antilles-et-en-guyane-en-vaccinant-les-personnes-les-plus-fragiles-estime-un-epidemiologiste_7894070.html) (Franceinfo.fr)
 
