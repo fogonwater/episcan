@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2026-03-26 19:29
-- **Most recent article:** 2026-03-25 18:04:02
+- **New articles in last harvest:** 11
+- **Last harvest:** 2026-03-27 07:32
+- **Most recent article:** 2026-03-26 06:30:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 9 | 110 | 111 | 83 | 433 |
-| meningitis | 4 | 6 | 175 | 55 | 7 | 3 | 5 | 255 |
-| dengue | 22 | 11 | 28 | 8 | 24 | 17 | 15 | 125 |
+| measles | 70 | 30 | 20 | 12 | 112 | 111 | 83 | 438 |
+| meningitis | 4 | 6 | 175 | 58 | 7 | 3 | 5 | 258 |
+| dengue | 22 | 11 | 28 | 10 | 24 | 17 | 15 | 127 |
 | mpox | 10 | 16 | 12 | 0 | 13 | 25 | 27 | 103 |
 | rabies | 18 | 16 | 7 | 2 | 16 | 16 | 14 | 89 |
-| malaria | 16 | 9 | 20 | 6 | 14 | 10 | 11 | 86 |
-| chikungunya | 1 | 7 | 7 | 2 | 12 | 40 | 6 | 75 |
-| h5n1 | 2 | 8 | 7 | 2 | 11 | 11 | 4 | 45 |
+| malaria | 16 | 9 | 20 | 8 | 14 | 10 | 11 | 88 |
+| chikungunya | 1 | 7 | 7 | 3 | 12 | 40 | 6 | 76 |
+| h5n1 | 2 | 8 | 7 | 3 | 12 | 11 | 4 | 47 |
 | hpai | 2 | 5 | 2 | 4 | 3 | 1 | 2 | 19 |
 | zika | 1 | 2 | 4 | 1 | 3 | 3 | 2 | 16 |
 | leptospirosis | 2 | 1 | 3 | 0 | 2 | 4 | 3 | 15 |
@@ -1245,6 +1245,10 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
+- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
+
+- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
+
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1312,6 +1316,8 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
+
+- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1412,6 +1418,12 @@ Source: [News API](https://newsapi.org/)
 - [Roche launches the cobas eplex respiratory pathogen panel 3, a fast and comprehensive test to help clinicians treat patients with respiratory infections, in CE markets](https://www.prnewswire.co.uk/news-releases/roche-launches-the-cobas-eplex-respiratory-pathogen-panel-3-a-fast-and-comprehensive-test-to-help-clinicians-treat-patients-with-respiratory-infections-in-ce-markets-302722600.html) (PR Newswire UK)
 
 ## 26-13 (meningitis)
+
+- [Kent meningitis outbreak peaks after vaccinations #health](https://alltoc.com/health/kent-meningitis-outbreak-peaks-after-vaccinations) (Alltoc.com)
+
+- [How did Kent’s meningitis outbreak vaccination demand change? #health](https://alltoc.com/health/how-did-kents-meningitis-outbreak-vaccination-demand-change) (Alltoc.com)
+
+- [First serogroup Y meningitis outbreak in Hubei Province Central China linked to adolescent immunization gaps](https://www.nature.com/articles/s41598-026-42174-y) (Nature.com)
 
 - [How does MenB meningitis spread in Kent? #health](https://alltoc.com/health/how-does-menb-meningitis-spread-in-kent) (Alltoc.com)
 
@@ -1525,6 +1537,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (measles)
 
+- [Health Ministry reports Measles patient stayed in public shelter in Kiryat Malachi](https://www.israelnationalnews.com/flashes/681169) (Israelnationalnews.com)
+
+- [RFK Jr. Is Losing His Grip on the CDC](https://www.theatlantic.com/health/2026/03/cdc-director-hhs-kennedy-bhattacharya/686541/) (The Atlantic)
+
+- [CDC Acting Director Tells Staff He's Had 'Scientific' Disagreements With RFK Jr. (Margaret Manto/NOTUS)](https://www.memeorandum.com/260325/p111) (Memeorandum.com)
+
 - [Measles outbreak grows to seven cases in Washtenaw county; unvaccinated children and adults affected](https://economictimes.indiatimes.com/news/international/us/measles-outbreak-grows-to-seven-cases-in-washtenaw-county-unvaccinated-children-and-adults-affected/articleshow/129808776.cms) (The Times of India)
 
 - [A Florida University Had One Of The Largest Measles Outbreaks In Decades, So Why Wasn’t The Public Made More Aware Of It?](https://brobible.com/culture/article/florida-university-measles-outbreaks/) (BroBible)
@@ -1544,6 +1562,10 @@ Source: [News API](https://newsapi.org/)
 - [Tsar Nicholas II’s Daughters Proudly Showing Their Bald Heads in 1917](https://www.vintag.es/2026/03/romanov-sisters-shaved-heads.html) (Vintag.es)
 
 ## 26-13 (malaria)
+
+- [Cum recunoști malaria la timp: de la cazul copiilor infectați recent la metodele de protecție recomandate de medici](https://adevarul.ro/stiri-interne/sanatate/cum-recunosti-malaria-la-timp-de-la-cazul-2517950.html) (Adevarul.ro)
+
+- [Estudio científico revela por qué los mosquitos siempre eligen las superficies oscuras para atacar](https://www.elpais.com.uy/vida-actual/ciencia/estudio-cientifico-revela-por-que-los-mosquitos-siempre-eligen-las-superficies-oscuras-para-atacar) (Diario EL PAIS Uruguay)
 
 - [Co-infections of malaria and dengue in Timika, a highly endemic malaria area in Central Papua, Indonesia](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345164) (Plos.org)
 
@@ -1569,11 +1591,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (h5n1)
 
+- [SAG suspende certificación de exportaciones avícolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial](https://www.df.cl/regiones/sag-confirma-deteccion-del-primer-caso-positivo-de-influenza-aviar-h5n1-en) (Www.df.cl)
+
 - [Casos de influenza aviar se siguen extendiendo por el país: SAG confirma nuevos hallazgos en aves de Magallanes y del Maule](https://www.latercera.com/nacional/noticia/casos-de-influenza-aviar-se-siguen-extendiendo-por-el-pais-sag-confirma-nuevos-hallazgos-en-aves-de-magallanes-y-del-maule/) (Latercera.com)
 
 - [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
 
 ## 26-13 (dengue)
+
+- [Caída de pelo: cómo diferenciar un proceso temporal de un problema crónico](https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/caida-de-pelo-como-diferenciar-un-proceso-temporal-de-un-problema-cronico-nid26032026/) (La Nacion)
+
+- [Estudio científico revela por qué los mosquitos siempre eligen las superficies oscuras para atacar](https://www.elpais.com.uy/vida-actual/ciencia/estudio-cientifico-revela-por-que-los-mosquitos-siempre-eligen-las-superficies-oscuras-para-atacar) (Diario EL PAIS Uruguay)
 
 - [Ibaneis inaugura Praça Jornalista Paulo Pestana, no Lago Norte](https://www.metropoles.com/distrito-federal/ibaneis-inaugura-praca-jornalista-paulo-pestana-no-lago-norte) (Metropoles.com)
 
@@ -1592,6 +1620,8 @@ Source: [News API](https://newsapi.org/)
 - [Felipeh Campos recebe alta após quadro grave de dengue](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-recebe-alta-apos-quadro-grave-de-dengue) (Metropoles.com)
 
 ## 26-13 (chikungunya)
+
+- [Il faut faut "anticiper" l'épidémie de chikungunya aux Antilles et en Guyane "en vaccinant les personnes les plus fragiles", estime un épidémiologiste](https://www.franceinfo.fr/sante/maladie/chikungunya/il-faut-faut-anticiper-l-epidemie-de-chikungunya-aux-antilles-et-en-guyane-en-vaccinant-les-personnes-les-plus-fragiles-estime-un-epidemiologiste_7894070.html) (Franceinfo.fr)
 
 - [En difficultés sur le chikungunya, la biotech Valneva joue son va-tout avec son vaccin contre la maladie de Lyme](https://www.challenges.fr/entreprise/sante/en-difficultes-sur-le-chikungunya-la-biotech-valneva-joue-son-va-tout-avec-son-vaccin-contre-la-maladie-de-lyme_642016) (Challenges)
 

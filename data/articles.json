@@ -1,8 +1,207 @@
 {
-  "last_updated": "2026-03-26 19:29",
-  "count_articles_total": 1255,
-  "count_articles_new": 15,
+  "last_updated": "2026-03-27 07:32",
+  "count_articles_total": 1269,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 28699,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Ca\u00edda de pelo: c\u00f3mo diferenciar un proceso temporal de un problema cr\u00f3nico",
+      "description": "Las causas de este proceso llamado efluvio tel\u00f3geno pueden ser enfermedades virales como el Covid-19 o la gripe; cu\u00e1ndo conviene consultar a un m\u00e9dico",
+      "url": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/caida-de-pelo-como-diferenciar-un-proceso-temporal-de-un-problema-cronico-nid26032026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/la-caida-de-pelo-puede-afectar-tanto-a-varones-PZIINIKIX5HYPDWJL4SZ4FKNKI.jpg?auth=5f0161d06d5018833b8859545e100d896ea8519283343eb87f5b3a449f71c3dc&width=1200&quality=85&smart=true&height=675",
+      "publishedAt": "2026-03-26 06:30:00",
+      "content": "Si despu\u00e9s de una gripe, dengue o Covid notaste que se te cae m\u00e1s el pelo de lo normal, tranquilo: no sos el \u00fanico. De hecho, es una consulta cada vez m\u00e1s frecuente despu\u00e9s de haber atravesado una en\u2026 [+2823 chars]",
+      "retrievedAt": "2026-03-27 07:32:21.873726",
+      "internal_id": "91d6537675c15ce2e7059f3d965ddf447b8f38cc3bb6671ade0e3c013aa4bae9",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28700,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Kent meningitis outbreak peaks after vaccinations #health",
+      "description": "Kent MenB outbreak: peak seems passed as vaccines ramp up Public health officials in the UK reported that the Kent meningitis outbreak\u2014linked to invasive meningococcal disease of the MenB strain\u2014appears to be past its peak, even as the response continues. Acr\u2026",
+      "url": "https://alltoc.com/health/kent-meningitis-outbreak-peaks-after-vaccinations",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-26 06:03:48",
+      "content": "Public health officials in the UK reported that the Kent meningitis outbreaklinked to invasive meningococcal disease of the MenB strainappears to be past its peak, even as the response continues. Ac\u2026 [+1532 chars]",
+      "retrievedAt": "2026-03-27 07:32:22.167839",
+      "internal_id": "99485003901a931cf76b324c0d3840684f7bce0628fc8b0c22848dd81e15742e",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28695,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Health Ministry reports Measles patient stayed in public shelter in Kiryat Malachi",
+      "description": "The Ministry of Health has reported a confirmed measles case involving a patient who stayed in a public bomb shelter in Kiryat Malachi.According to the epidemiological investigation, the patient was present at the public bomb shelter located at 147 Jerusalem \u2026",
+      "url": "https://www.israelnationalnews.com/flashes/681169",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-03-26 01:55:00",
+      "content": "The Ministry of Health has reported a confirmed measles case involving a patient who stayed in a public bomb shelter in Kiryat Malachi. According to the epidemiological investigation, the patient wa\u2026 [+332 chars]",
+      "retrievedAt": "2026-03-27 07:32:20.676830",
+      "internal_id": "10f485e3a0b1324914ce2294ea3874a4015c22844c4033a8773eb373ea73f698",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28702,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How did Kent\u2019s meningitis outbreak vaccination demand change? #health",
+      "description": "Demand for meningitis vaccination surged in England during Kent outbreak During the Kent meningitis B outbreak, UK health services saw a rapid increase in demand for vaccination, with parental consents rising substantially in Greater Manchester. Health immuni\u2026",
+      "url": "https://alltoc.com/health/how-did-kents-meningitis-outbreak-vaccination-demand-change",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-26 00:03:41",
+      "content": "During the Kent meningitis B outbreak, UK health services saw a rapid increase in demand for vaccination, with parental consents rising substantially in Greater Manchester. Health immunisation servic\u2026 [+1462 chars]",
+      "retrievedAt": "2026-03-27 07:32:22.504992",
+      "internal_id": "299db9b966a073e4ffc1be2ccf0d3b09a9b0aafc0b0aa2f51e500abfc2cf00b4",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28701,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Dan Li, Siquan Wang, Zhao Jiang, Fei He, Xiang Zhang, Bingqing Zhu, Hongmei Yang, Jing Lv, Lei Wang",
+      "title": "First serogroup Y meningitis outbreak in Hubei Province Central China linked to adolescent immunization gaps",
+      "description": "Meningococcal meningitis poses a persistent public health threat globally, with evolving epidemic serogroups complicating prevention especially in China in recent years. On May 27, 2024, Hubei Province (central China) reported its first laboratory-confirmed c\u2026",
+      "url": "https://www.nature.com/articles/s41598-026-42174-y",
+      "urlToImage": null,
+      "publishedAt": "2026-03-26 00:00:00",
+      "content": "1. World Health Organization (WHO). Meningococcal Meningitis Fact Sheet. WHO; Feb. 2018 2.Stephens, D. S., Greenwood, B. &amp; Brandtzaeg, P. Epidemic meningitis, meningococcaemia, and \u2026 [+4673 chars]",
+      "retrievedAt": "2026-03-27 07:32:22.294350",
+      "internal_id": "540df9f410fabbac6b66d6094d012b86928c2d0c547ff673aec08fa84e507652",
+      "publishedAtLabel": "Mar 26"
+    },
+    {
+      "id": 28696,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Atlantic",
+      "author": "Tom Bartlett",
+      "title": "RFK Jr. Is Losing His Grip on the CDC",
+      "description": "The Trump administration seems to be putting MAHA on notice.",
+      "url": "https://www.theatlantic.com/health/2026/03/cdc-director-hhs-kennedy-bhattacharya/686541/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/qzp4-lyeVEOACjXoR8zjyUKYfJI=/8x285:6706x3774/1200x625/media/img/mt/2026/03/2026_03_25_RFK_Jr_Is_Losing/original.jpg",
+      "publishedAt": "2026-03-25 22:54:15",
+      "content": "Today, Acting CDC Director Jay Bhattacharya said something that no other prominent health leader in the Trump administration has. I think it is vital that every kid in this country get the measles va\u2026 [+8750 chars]",
+      "retrievedAt": "2026-03-27 07:32:20.745522",
+      "internal_id": "1824d4f1d7960c3a2962a153653e5a61396fafc3a8c64fbf55073ac66c666e7c",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28703,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Adevarul.ro",
+      "author": "Raluca Stepanov",
+      "title": "Cum recuno\u0219ti malaria la timp: de la cazul copiilor infecta\u021bi recent la metodele de protec\u021bie recomandate de medici",
+      "description": "Diagnosticul de malarie a fost confirmat \u00een cazul a doi dintre cei trei copii din Ia\u0219i \u00eentor\u0219i dintr-o c\u0103l\u0103torie pe continentul african. Fra\u021bii, \u00een v\u00e2rst\u0103 de 3 \u0219i 5 ani, sunt interna\u021bi acum la Spitalul de Boli Infec\u021bioase ,,Victor Babe\u0219\" din Bucure\u0219ti.",
+      "url": "https://adevarul.ro/stiri-interne/sanatate/cum-recunosti-malaria-la-timp-de-la-cazul-2517950.html",
+      "urlToImage": "https://cdn.adh.reperio.news/image-f/fd4b4828-c981-4f35-89b2-187b0cef5497/index.jpeg?p=f%3Djpeg%26w%3D1200%26h%3D630%26r%3Dcover",
+      "publishedAt": "2026-03-25 21:53:06",
+      "content": "Diagnosticul de malarie a fost confirmat \u00een cazul a doi dintre cei trei copii din Iai \u00eentori dintr-o cltorie pe continentul african. Fraii, \u00een v\u00e2rst de 3 i 5 ani, sunt internai acum la Spitalul de Bo\u2026 [+2243 chars]",
+      "retrievedAt": "2026-03-27 07:32:22.935511",
+      "internal_id": "69fe032e13e24a86de7e5381889d5835d36018af72a1f321d37afbf7cdf394c5",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28697,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Www.df.cl",
+      "author": "Equipo DF Regiones",
+      "title": "SAG suspende certificaci\u00f3n de exportaciones av\u00edcolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial",
+      "description": "El caso de H5N1 fue detectado en un plantel de la comuna de El Monte (RM) y ya fue notificado a la Organizaci\u00f3n Mundial de Sanidad Animal (OMSA).",
+      "url": "https://www.df.cl/regiones/sag-confirma-deteccion-del-primer-caso-positivo-de-influenza-aviar-h5n1-en",
+      "urlToImage": "https://www.df.cl/noticias/site/artic/20260325/imag/foto_0000000920260325182343/Aton_695515.jpg",
+      "publishedAt": "2026-03-25 21:29:24",
+      "content": "Durante la tarde de este mi\u00e9rcoles el Servicio Agr\u00edcola y Ganadero (SAG) de Chile confirm\u00f3 la detecci\u00f3n del primer caso positivo de influenza aviar H5N1 en aves de postura en un plantel industrial, c\u2026 [+2769 chars]",
+      "retrievedAt": "2026-03-27 07:32:21.047789",
+      "internal_id": "8bc36bbdf39da4771ccc516864486e338ed41074f7ba0cb73002c91082163d76",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28694,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "CDC Acting Director Tells Staff He's Had 'Scientific' Disagreements With RFK Jr. (Margaret Manto/NOTUS)",
+      "description": "Margaret Manto / NOTUS: CDC Acting Director Tells Staff He's Had \u2018Scientific\u2019 Disagreements With RFK Jr. \u2014 In an internal meeting, Jay Bhattacharya spoke candidly about his relationship with Kennedy, expressed support for the measles vaccine and said his re\u2026",
+      "url": "https://www.memeorandum.com/260325/p111",
+      "urlToImage": "https://static.notus.org/dims4/default/c4eb2c4/2147483647/strip/true/crop/5251x2954+0+273/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe8%2F33%2F4fda79ba46c18a2d99f7c8451158%2Fap25142738866903.jpg",
+      "publishedAt": "2026-03-25 21:20:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-03-27 07:32:20.195561",
+      "internal_id": "c779620c65bb8da5e87d073a7daef6d06934cccefcd5153c9f863e2d56116c48",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28704,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Franceinfo.fr",
+      "author": "franceinfo",
+      "title": "Il faut faut \"anticiper\" l'\u00e9pid\u00e9mie de chikungunya aux Antilles et en Guyane \"en vaccinant les personnes les plus fragiles\", estime un \u00e9pid\u00e9miologiste",
+      "description": "Dans une tribune, des \u00e9pid\u00e9miologistes appellent \u00e0 organiser la vaccination pour \u00e9viter une nouvelle \u00e9pid\u00e9mie de chikungunya.",
+      "url": "https://www.franceinfo.fr/sante/maladie/chikungunya/il-faut-faut-anticiper-l-epidemie-de-chikungunya-aux-antilles-et-en-guyane-en-vaccinant-les-personnes-les-plus-fragiles-estime-un-epidemiologiste_7894070.html",
+      "urlToImage": "https://www.franceinfo.fr/pictures/HsQC7vLrRCZeqWGx2djGH_0Zros/0x464:5000x3277/1500x843/2026/03/25/maxstockfr268962-69c43d274b36d076465754.jpg",
+      "publishedAt": "2026-03-25 19:57:25",
+      "content": "Il est possible d'\"anticiper\" l'\u00e9pid\u00e9mie de chikungunya aux Antilles et en Guyane \"en vaccinant les personnes les plus fragiles\", \"dans les mois \u00e0 venir\", affirme mercredi 25 mars sur France Inter le\u2026 [+1062 chars]",
+      "retrievedAt": "2026-03-27 07:32:23.288586",
+      "internal_id": "229711bcbd57211dde8ab29fe22738b3c8fba5a04b27988dd3c54c469a12ac70",
+      "publishedAtLabel": "Mar 25"
+    },
+    {
+      "id": 28698,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diario EL PAIS Uruguay",
+      "author": "Lautaro Rijo",
+      "title": "Estudio cient\u00edfico revela por qu\u00e9 los mosquitos siempre eligen las superficies oscuras para atacar",
+      "description": "Este nuevo hallazgo abre la puerta a estrategias m\u00e1s eficaces para combatir enfermedades transmitidas por el insecto, tales como la malaria, la fiebre amarilla o el dengue.",
+      "url": "https://www.elpais.com.uy/vida-actual/ciencia/estudio-cientifico-revela-por-que-los-mosquitos-siempre-eligen-las-superficies-oscuras-para-atacar",
+      "urlToImage": "https://imgs.elpais.com.uy/dims4/default/147f61c/2147483647/strip/true/crop/3000x1875+0+0/resize/1200x750!/format/webp/quality/90/?url=https%3A%2F%2Fel-pais-uruguay-production-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff0%2Fc7%2F8fbf7c42426290a094be9796f3f8%2Farchive-fotos-1-1896739-d6988351f3ddc011097c9f034aecfd55-15575385.jpg",
+      "publishedAt": "2026-03-25 19:46:06",
+      "content": "Un estudio publicado en la revista cient\u00edfica Science Advances revel\u00f3 que el comportamiento de vuelo de los mosquitos a la hora de buscar humanos no es aleatorio, como se cre\u00eda previamente, sino que \u2026 [+2577 chars]",
+      "retrievedAt": "2026-03-27 07:32:21.256756",
+      "internal_id": "3b655e5d5edfb6af02c4a58245f796315e7ee6ba67a6f3568f946447cb88679e",
+      "publishedAtLabel": "Mar 25"
+    },
     {
       "id": 28689,
       "query": [
@@ -22619,6 +22818,60 @@
       "content": "WASHINGTON -- A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing it\u2026 [+6421 chars]",
       "retrievedAt": "2026-02-10 07:29:48.760315",
       "internal_id": "e8be81c292df08f70c70726c3781bfd2549b22d51f5b08909d41eb33637378b1",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27430,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Dr. Scott Gottlieb says measles outbreak may \"get worse, unfortunately, before it resolves\"",
+      "description": "Former FDA Commissioner Dr. Scott Gottlieb, who sits on the boards of Pfizer and UnitedHealthcare, told \"Face the Nation with Margaret Brennan\" that the current measles outbreak could be a \"long cycle, especially now that this has gotten embedded in political\u2026",
+      "url": "https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/08/d23efcef-ccc8-4ff6-ad90-2424ebfa7c08/thumbnail/1200x630/64aa23137f56de268ab21ab8512d8e59/cbsn-fusion-dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves-thumbnail.jpg",
+      "publishedAt": "2026-02-08 18:48:00",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-02-09 19:33:32.146881",
+      "internal_id": "d53faee33d148860b0fa18390927ba9b49bb9e2e851e7c4377bc8281ce8df364",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27431,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Inside the Magic",
+      "author": "Rick Lye",
+      "title": "Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis\u2014Is Your Family at Risk?",
+      "description": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) issued a formal warning regarding an additional case of measl\u2026",
+      "url": "https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/",
+      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/11/disneyland-marquee-steven-miller-flickr.jpg",
+      "publishedAt": "2026-02-08 14:40:54",
+      "content": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) i\u2026 [+6917 chars]",
+      "retrievedAt": "2026-02-09 19:33:32.238856",
+      "internal_id": "ca8ffcf7d60394c586e3e9a8f7df293bfeb0ccb722b475db872d4a2cd2425d29",
+      "publishedAtLabel": "Feb 8"
+    },
+    {
+      "id": 27432,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Tv9kannada.com",
+      "author": "Vinay Kashappanavar",
+      "title": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0c85\u0cac\u0ccd\u0cac\u0cb0: \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4\u0cc1 H5N1 \u0c9f\u0cc6\u0ca8\u0ccd\u0cb7\u0ca8\u0ccd",
+      "description": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf H5N1 \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0cad\u0cc0\u0ca4\u0cbf \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 H5N1 \u0cb5\u0cc8\u0cb0\u0cb8\u0ccd \u0c86\u0ca4\u0c82\u0c95 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0ca4 \u0caa\u0c95\u0ccd\u0cb7\u0cbf\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cae\u0cbe\u0ca8\u0cb5\u0cb0\u0cbf\u0c97\u0cc6 \u0cb9\u0cb0\u0ca1\u0cc1\u0cb5 \u0c88 \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6\u0cbf\u0c82\u0ca6 \u0c89\u0c82\u0c9f\u0cbe\u0c97\u0cc1\u0cb5 \u0cb8\u0cbe\u0cb5\u0cbf\u0ca8 \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0cb0\u0ccb\u0c97 \u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0cb2\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0ca6\u0c82\u0ca4\u0cc6 \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0cb0\u0cc1 \u0cb8\u0cc2\u0c9a\u0cbf\u0cb8\u0cbf\u0ca6\u0ccd\u0ca6\u0cbe\u0cb0\u0cc6. \u0c85\u0cb7\u0ccd\u0c9f\u0c95\u0ccd\u0c95\u0cc2 \u0c88 \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0c97\u0cc6 \u0ca4\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0ca6\u0cb5\u0cb0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf\u2026",
+      "url": "https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html",
+      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2026/02/bird-flue.jpg",
+      "publishedAt": "2026-02-08 11:20:30",
+      "content": ", 08: H5N1 . 1,500 , . . . ? H5N1 , , . , . 4 6 . : ? ? .. ., . .50, . . . . . .",
+      "retrievedAt": "2026-02-09 19:33:32.929027",
+      "internal_id": "120cf99f5b71c89f79f81ed3a2765c804bbab06e828df650d3cf8d1328f5e6e5",
       "publishedAtLabel": "Feb 8"
     }
   ]
