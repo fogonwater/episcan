@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-03-28 07:24
-- **Most recent article:** 2026-03-27 07:13:34
+- **New articles in last harvest:** 13
+- **Last harvest:** 2026-03-28 19:14
+- **Most recent article:** 2026-03-27 17:00:05
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-7 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 15 | 112 | 111 | 83 | 441 |
-| meningitis | 4 | 6 | 175 | 63 | 7 | 3 | 5 | 263 |
-| dengue | 22 | 11 | 28 | 16 | 24 | 17 | 15 | 133 |
-| mpox | 10 | 16 | 12 | 2 | 13 | 25 | 27 | 105 |
-| malaria | 16 | 9 | 20 | 11 | 14 | 10 | 11 | 91 |
-| rabies | 18 | 16 | 7 | 3 | 16 | 16 | 14 | 90 |
-| chikungunya | 1 | 7 | 7 | 5 | 12 | 40 | 6 | 78 |
-| h5n1 | 2 | 8 | 7 | 4 | 12 | 11 | 4 | 48 |
+| measles | 70 | 30 | 20 | 17 | 110 | 111 | 83 | 441 |
+| meningitis | 4 | 6 | 175 | 65 | 7 | 3 | 5 | 265 |
+| dengue | 22 | 11 | 28 | 17 | 24 | 17 | 15 | 134 |
+| mpox | 10 | 16 | 12 | 4 | 13 | 25 | 27 | 107 |
+| malaria | 16 | 9 | 20 | 13 | 14 | 10 | 11 | 93 |
+| rabies | 18 | 16 | 7 | 5 | 16 | 16 | 14 | 92 |
+| chikungunya | 1 | 7 | 7 | 7 | 12 | 40 | 6 | 80 |
+| h5n1 | 2 | 8 | 7 | 4 | 11 | 11 | 4 | 47 |
 | hpai | 2 | 5 | 2 | 6 | 3 | 1 | 2 | 21 |
+| leptospirosis | 2 | 1 | 3 | 1 | 2 | 4 | 3 | 16 |
 | zika | 1 | 2 | 4 | 1 | 3 | 3 | 2 | 16 |
-| leptospirosis | 2 | 1 | 3 | 0 | 2 | 4 | 3 | 15 |
 | yersinia | 2 | 0 | 1 | 1 | 2 | 1 | 1 | 8 |
 | typhoid | 3 | 0 | 0 | 1 | 0 | 2 | 2 | 8 |
 | pertussis | 1 | 2 | 0 | 1 | 1 | 0 | 0 | 5 |
@@ -1245,10 +1245,6 @@ Source: [News API](https://newsapi.org/)
 
 - ['Take the vaccine, please,' a top US health official says in an appeal as measles cases rise](https://abcnews.go.com/Health/wireStory/vaccine-top-us-health-official-appeal-measles-cases-129972374) (ABC News)
 
-- [Dr. Scott Gottlieb says measles outbreak may "get worse, unfortunately, before it resolves"](https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/) (CBS News)
-
-- [Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis—Is Your Family at Risk?](https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/) (Inside the Magic)
-
 ## 26-7 (malaria)
 
 - [Popular honeymoon destination faces avian malaria threat, spread by mosquitoes](https://www.foxnews.com/health/popular-honeymoon-destination-faces-avian-malaria-threat-spread-mosquitoes) (Fox News)
@@ -1316,8 +1312,6 @@ Source: [News API](https://newsapi.org/)
 - [Veterináři varují: Ptačí chřipka je na vzestupu, buďte obezřetní](https://www.novinky.cz/clanek/domaci-zpravy-zlinsky-kraj-veterinari-varuji-ptaci-chripka-je-na-vzestupu-budte-obezretni-40561694) (Novinky.cz)
 
 - [경북 봉화 산란계 농장 고병원성 AI 확진···39만 마리 살처분](https://www.khan.co.kr/article/202602090915001) (Khan.co.kr)
-
-- [ನೆರೆ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಕ್ಕಿ ಜ್ವರದ ಅಬ್ಬರ: ಕರ್ನಾಟಕದಲ್ಲೂ ಶುರುವಾಯತ್ತು H5N1 ಟೆನ್ಷನ್](https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html) (Tv9kannada.com)
 
 ## 26-7 (dengue)
 
@@ -1409,6 +1403,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (rabies)
 
+- [Delivery of canine rabies vaccination programme in Kutupalong-Balukhali refugee camps, Cox’s Bazar, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014143) (Plos.org)
+
+- [rabies 0.6.0](https://pypi.org/project/rabies/0.6.0/) (Pypi.org)
+
 - [Sarawak tightens extensive system to control rabies](https://www.thestar.com.my/news/nation/2026/03/27/sarawak-tightens-extensive-system-to-control-rabies) (The Star Online)
 
 - [Ministry of Health: Jackal infected with rabies found in the Jordan Valley](https://www.israelnationalnews.com/flashes/680940) (Israelnationalnews.com)
@@ -1421,11 +1419,19 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (mpox)
 
+- [Mpox ainda circula no país; saiba a principal forma de transmissão atual](https://veja.abril.com.br/saude/mpox-ainda-circula-no-pais-saiba-a-principal-forma-de-transmissao-atual/) (Abril.com.br)
+
+- [La OMS alerta del riesgo de transmisión de la viruela del mono si no se contienen ya los brotes existentes](https://www.20minutos.es/salud/actualidad/oms-alerta-riesgo-transmision-comunitaria-viruela-mono-si-no-se-contienen-rapidamente-los-brotes-existentes_6951671_0.html) (20minutos.es)
+
 - [Minas registra novos casos de mpox e total chega a 17](https://saude.ig.com.br/2026-03-26/minas-registra-novos-casos-de-mpox-e-total-chega-a-17.html) (Ig.com.br)
 
 - [In Deutschland gibt es erste Fälle der MPox-Variante Klade Ib](https://www.tagesschau.de/wissen/forschung/mpox-deutschland-variante-100.html) (tagesschau.de)
 
 ## 26-13 (meningitis)
+
+- [How does UKHSA describe meningitis B outbreak? #health](https://alltoc.com/health/how-does-ukhsa-describe-meningitis-b-outbreak) (Alltoc.com)
+
+- [¿Debe preocupar el brote "explosivo" de meningitis en Reino Unido? "Las farmacias están desbordadas"](https://www.elperiodico.com/es/sanidad/20260327/debe-preocupar-brote-explosivo-meningitis-reino-unido-128180749) (Elperiodico.com)
 
 - [Our daughter battled Meningitis B despite being vaccinated in 'very rare' case](https://www.bbc.com/news/articles/c3ex3j0w53yo) (BBC News)
 
@@ -1555,6 +1561,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (measles)
 
+- [The Horrors That Could Lie Ahead if Vaccines Vanish (ProPublica)](https://www.memeorandum.com/260327/p38) (Memeorandum.com)
+
+- [Pathetic GOP Rep Blames Measles Outbreaks On 'Open Borders'](https://crooksandliars.com/2026/03/pathetic-gop-rep-blames-measles-outbreaks) (Crooksandliars.com)
+
 - [Indonesia to probe doctor's death from suspected measles](https://en.antaranews.com/news/409994/indonesia-to-probe-doctors-death-from-suspected-measles) (Antaranews.com)
 
 - [Measles Outbreak in Texas Immigration Jail Spills Into the Public](https://www.texastribune.org/2026/03/26/texas-measles-el-paso-federal-detention-center-public-community-infections/) (The Texas Tribune)
@@ -1587,6 +1597,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-13 (malaria)
 
+- [Reduced cytochrome P-450 (CYP) 2D6 activity and Plasmodium vivax malaria risk in Amazonians: A retrospective, population-based cohort study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014160) (Plos.org)
+
+- [Urzędniczka odkryła podejrzane laboratorium. "Zdałam sobie sprawę, że mam kłopoty"](https://wiadomosci.gazeta.pl/swiat/7,198075,32689975,urzedniczka-odkryla-podejrzane-laboratorium-zdalam-sobie-sprawe.html) (Gazeta.pl)
+
 - [SORA Technology、マラリア対策衛星解析Zmartを買収・子会社化 宇宙事業への本格参入を発表](https://prtimes.jp/main/html/rd/p/000000015.000098395.html) (Prtimes.jp)
 
 - [Mosquitoes carrying malaria are evolving more quickly than insecticides can kill them – researchers pinpoint how](https://theconversation.com/mosquitoes-carrying-malaria-are-evolving-more-quickly-than-insecticides-can-kill-them-researchers-pinpoint-how-275391) (The Conversation Africa)
@@ -1608,6 +1622,10 @@ Source: [News API](https://newsapi.org/)
 - [Historia de una burbuja de 200 años: un relojero visionario, un remedio contra la malaria y el ritual de la sobremesa](https://www.elconfidencial.com/gastronomia/2026-03-24/historia-burbuja-schweppes-bra_4319051/) (Elconfidencial.com)
 
 - [Wandern auf Tahiti: In das grüne Herz der Südsee](https://www.faz.net/aktuell/reise/wandern-auf-tahiti-im-vallee-de-papenoo-accg-200650673.html) (Faz.net)
+
+## 26-13 (leptospirosis)
+
+- [Genomic analysis of human-infecting Leptospira borgpetersenii isolates in Sri Lanka: Expanded PF07598 gene family repertoire and less genome reduction than bovine isolates](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012540) (Plos.org)
 
 ## 26-13 (hpai)
 
@@ -1634,6 +1652,8 @@ Source: [News API](https://newsapi.org/)
 - [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
 
 ## 26-13 (dengue)
+
+- [Tras 30 años de espera, Durazo Montaño refuerza acciones de salud y abasto de agua en Navojoa](https://www.tribuna.com.mx/sonora/2026/3/27/tras-30-anos-de-espera-durazo-montano-refuerza-acciones-de-salud-abasto-de-agua-en-navojoa-433399.html) (Tribuna.com.mx)
 
 - [Crecen los casos: otro virus transmitido por mosquitos desplaza al dengue este año](https://www.lanacion.com.ar/sociedad/crecen-los-casos-otro-virus-transmitido-por-mosquitos-desplaza-al-dengue-este-ano-nid26032026/) (La Nacion)
 
@@ -1668,6 +1688,10 @@ Source: [News API](https://newsapi.org/)
 - [Felipeh Campos recebe alta após quadro grave de dengue](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-recebe-alta-apos-quadro-grave-de-dengue) (Metropoles.com)
 
 ## 26-13 (chikungunya)
+
+- [How many England chikungunya cases now? #health](https://alltoc.com/health/how-many-england-chikungunya-cases-now) (Alltoc.com)
+
+- [Tras 30 años de espera, Durazo Montaño refuerza acciones de salud y abasto de agua en Navojoa](https://www.tribuna.com.mx/sonora/2026/3/27/tras-30-anos-de-espera-durazo-montano-refuerza-acciones-de-salud-abasto-de-agua-en-navojoa-433399.html) (Tribuna.com.mx)
 
 - [Crecen los casos: otro virus transmitido por mosquitos desplaza al dengue este año](https://www.lanacion.com.ar/sociedad/crecen-los-casos-otro-virus-transmitido-por-mosquitos-desplaza-al-dengue-este-ano-nid26032026/) (La Nacion)
 

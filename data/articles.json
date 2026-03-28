@@ -1,8 +1,243 @@
 {
-  "last_updated": "2026-03-28 07:24",
-  "count_articles_total": 1291,
-  "count_articles_new": 7,
+  "last_updated": "2026-03-28 19:14",
+  "count_articles_total": 1301,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 28738,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Vict\u00f3ria Ribeiro",
+      "title": "Mpox ainda circula no pa\u00eds; saiba a principal forma de transmiss\u00e3o atual",
+      "description": "Brasil concentra ao menos 140 casos confirmados apenas em 2026; infectologista detalha as principais formas de cont\u00e1gio e como se proteger",
+      "url": "https://veja.abril.com.br/saude/mpox-ainda-circula-no-pais-saiba-a-principal-forma-de-transmissao-atual/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2022/05/shutterstock_2159695701.jpg.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-03-27 17:00:05",
+      "content": "Pular para o conte\u00fado Oferta Rel\u00e2mpago: VEJA por apenas 9,90Mpox: les\u00f5es na pele s\u00e3o o principal sintoma da infec\u00e7\u00e3o (VEJA/Shutterstock) Continua ap\u00f3s publicidade A Secretaria de Estado de Sa\u00fade d\u2026 [+3233 chars]",
+      "retrievedAt": "2026-03-28 19:14:57.661652",
+      "internal_id": "d388bf5d02cd63d0012676bb205ed10661d547dfe3d567ed885b2c42977040f2",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28728,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Luke Gamble, Karlette A. Fernandes, Keiichiro Tazawa, Rubaiya Ahmad, Kamrul Islam, James Hood, Bernadette Abela, Balaji Chandrashekar, Frederic Lohr, Ryan M. Wallace, Tim Parkin, Andrew D. Gibson, Catherine Swedberg",
+      "title": "Delivery of canine rabies vaccination programme in Kutupalong-Balukhali refugee camps, Cox\u2019s Bazar, Bangladesh",
+      "description": "Author summary Rabies is a deadly but preventable disease that kills more than 60,000 people each year, mostly children. Nearly all human infections are caused by bites from infected dogs. Vaccinating dogs is the most effective way to stop rabies from spreadi\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014143",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014143.g004&size=inline",
+      "publishedAt": "2026-03-27 14:00:00",
+      "content": "Abstract Background Rabies causes over 60,000 deaths annually, primarily among children, with dog bites responsible for nearly all human cases. Although mass dog vaccination is effective in low-res\u2026 [+36608 chars]",
+      "retrievedAt": "2026-03-28 19:14:54.964206",
+      "internal_id": "936b66a59fa2e53222d85e6bace23836fab1c8c79b049ce51b5448ed251220b8",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28735,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Rodrigo M. Corder, Maria Carolina S. B. Pu\u00e7a, Carlos A. Prete, Winni A. Ladeia, Priscila T. Rodrigues, Igor C. Johansen, Tais Nobrega de Sousa, Marcelo U. Ferreira, on behalf of the M\u00e2ncio Lima Cohort Study Working Group",
+      "title": "Reduced cytochrome P-450 (CYP) 2D6 activity and Plasmodium vivax malaria risk in Amazonians: A retrospective, population-based cohort study",
+      "description": "Author summary The cytochrome P-450 (CYP) isoenzyme 2D6 metabolizes up to 25% of commonly used medicines, including primaquine (PQ), which is the only widely available drug that eliminates latent hypnozoites, thus preventing relapses of Plasmodium vivax malar\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014160",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014160.g001&size=inline",
+      "publishedAt": "2026-03-27 14:00:00",
+      "content": "Abstract Background Primaquine (PQ) is the only widely available drug that eliminates latent hypnozoites, thereby preventing relapses of Plasmodium vivax malaria. Because PQ biotransformation media\u2026 [+40121 chars]",
+      "retrievedAt": "2026-03-28 19:14:57.076400",
+      "internal_id": "9f03ebc3b81cc2522d97002d36871c2e5854900a0002f19640c6d598bed39391",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28739,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Indika Senavirathna, Dinesha Jayasundara, Janith Warnasekara, Suneth Agampodi, Ellie J. Putz, Jarlath E. Nally, Darrell O. Bayles, Reetika Chaurasia, Joseph M. Vinetz",
+      "title": "Genomic analysis of human-infecting Leptospira borgpetersenii isolates in Sri Lanka: Expanded PF07598 gene family repertoire and less genome reduction than bovine isolates",
+      "description": "Author summary Leptospirosis is an emerging bacterial zoonosis worldwide. Leptospira borgpetersenii is a causative agent of human leptospirosis in some agricultural contexts. We address here the relatively neglected comparative genome analysis of L. borgpeter\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0012540",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0012540.strk&size=inline",
+      "publishedAt": "2026-03-27 14:00:00",
+      "content": "Abstract Leptospira borgpetersenii is a causative agent of human leptospirosis, with the potential to lead to severe disease manifestations. The first published analysis of L. borgpetersenii, perfor\u2026 [+51708 chars]",
+      "retrievedAt": "2026-03-28 19:14:57.879894",
+      "internal_id": "e4097d40bf74d98d29c69c01941f9387fa86011cdb1798b5cd6e74713c383704",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28730,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "The Horrors That Could Lie Ahead if Vaccines Vanish (ProPublica)",
+      "description": "ProPublica: The Horrors That Could Lie Ahead if Vaccines Vanish \u2014 Researchers at Stanford University modeled how many people could die or be disabled in 25 years if vaccines for polio, measles, rubella or diphtheria were no longer available. \u2026 Before vaccin\u2026",
+      "url": "https://www.memeorandum.com/260327/p38",
+      "urlToImage": "https://www.propublica.org/wp-content/uploads/2026/03/20260324-hhs-modeling-og-FINAL.jpg",
+      "publishedAt": "2026-03-27 13:15:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-03-28 19:14:55.233390",
+      "internal_id": "950c660609fcf5810b1ca4828ce3db99a59a90f7282f93f9d5dc69dc7bbe2ea8",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28732,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How does UKHSA describe meningitis B outbreak? #health",
+      "description": "UK meningitis B response and case management in Kent In Kent, the UK has been dealing with an outbreak of meningitis B that has prompted a major public health response, including expanded vaccination and widespread antibiotic treatment. Several reports in the\u2026",
+      "url": "https://alltoc.com/health/how-does-ukhsa-describe-meningitis-b-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-27 12:04:15",
+      "content": "In Kent, the UK has been dealing with an outbreak of meningitis B that has prompted a major public health response, including expanded vaccination and widespread antibiotic treatment. Several report\u2026 [+1782 chars]",
+      "retrievedAt": "2026-03-28 19:14:56.632608",
+      "internal_id": "90da27ccb47287f91f0a3ff4dacd269876930532c442ade6fcafa914ecac2c7d",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28736,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How many England chikungunya cases now? #health",
+      "description": "Chikungunya cases in England reach a 10 year high Health authorities in the UK have reported that chikungunya cases in England are at their highest level in more than a decade, according to newly released UKHSA figures. The reported count stands at 160 cases \u2026",
+      "url": "https://alltoc.com/health/how-many-england-chikungunya-cases-now",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-27 12:04:15",
+      "content": "Health authorities in the UK have reported that chikungunya cases in England are at their highest level in more than a decade, according to newly released UKHSA figures. The reported count stands at\u2026 [+1591 chars]",
+      "retrievedAt": "2026-03-28 19:14:57.492533",
+      "internal_id": "b8fa12d28cb55b4b3151eb634bded5a05282564e4d80c7ffd422853537da1ec3",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28731,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Tribuna.com.mx",
+      "author": "Luis Alfredo Robles",
+      "title": "Tras 30 a\u00f1os de espera, Durazo Monta\u00f1o refuerza acciones de salud y abasto de agua en Navojoa",
+      "description": "Jorge Alberto El\u00edas Retes, presidente municipal de Navojoa agradeci\u00f3 el apoyo por parte del gobierno del estado para mejorar la atenci\u00f3n de los servicios p\u00fablicos",
+      "url": "https://www.tribuna.com.mx/sonora/2026/3/27/tras-30-anos-de-espera-durazo-montano-refuerza-acciones-de-salud-abasto-de-agua-en-navojoa-433399.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2026/3/27/f1280x720-498497_630172_5050.png",
+      "publishedAt": "2026-03-27 12:00:00",
+      "content": "Navojoa, Sonora.- Durante su recorrido por el sur de Sonora, el gobernador del estado, Alfonso Durazo Monta\u00f1o, dio el banderazo de inicio a la Mega Jornada Nacional contra el Dengue y Chikungunya 202\u2026 [+1960 chars]",
+      "retrievedAt": "2026-03-28 19:14:56.155910",
+      "internal_id": "1e2aa694dc15c3e6c665d41bfa5c4a04cc19caabc40e45abe46e4d72a18350da",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28737,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "20minutos.es",
+      "author": "20M EP",
+      "title": "La OMS alerta del riesgo de transmisi\u00f3n de la viruela del mono si no se contienen ya los brotes existentes",
+      "description": "La organizaci\u00f3n se\u00f1ala que&nbsp;la transmisi\u00f3n contin\u00faa principalmente a trav\u00e9s de los contactos sexuales.",
+      "url": "https://www.20minutos.es/salud/actualidad/oms-alerta-riesgo-transmision-comunitaria-viruela-mono-si-no-se-contienen-rapidamente-los-brotes-existentes_6951671_0.html",
+      "urlToImage": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/27/69c668a6dab0e8-53377235.jpeg",
+      "publishedAt": "2026-03-27 11:57:29",
+      "content": "La Organizaci\u00f3n Mundial de la Salud ha publicado su \u00faltimo informe de situaci\u00f3n sobre los brotes de mpox (o viruela del mono) que se est\u00e1n produciendo en la actualidad en diferentes pa\u00edses. En el doc\u2026 [+1966 chars]",
+      "retrievedAt": "2026-03-28 19:14:57.651060",
+      "internal_id": "1b6022ea4a1419c5829a95217b423d3d54946f42845d60a9384075b76524b8d4",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28729,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Crooksandliars.com",
+      "author": "Heather",
+      "title": "Pathetic GOP Rep Blames Measles Outbreaks On 'Open Borders'",
+      "description": "Florida Representative Byron Daniels, who is hoping to be the state's next governor, made this pathetic claim while downplaying the role vaccine hesitancy is playing in the measles outbreaks across the country and in his home state. Daniels made an appearance\u2026",
+      "url": "https://crooksandliars.com/2026/03/pathetic-gop-rep-blames-measles-outbreaks",
+      "urlToImage": "https://crooksandliars.com/files/primary_image/26/03/cnn-byron-donalds-032626.png",
+      "publishedAt": "2026-03-27 11:40:16",
+      "content": "Florida Representative Byron Daniels, who is hoping to be the state's next governor, made this pathetic claim while downplaying the role vaccine hesitancy is playing in the measles outbreaks across t\u2026 [+3739 chars]",
+      "retrievedAt": "2026-03-28 19:14:55.192571",
+      "internal_id": "73352213ea50f2ca178d874496a0053ef087c639d4b0cc1036b7a0b9eee4b508",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28727,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": "contact@cobralab.ca",
+      "title": "rabies 0.6.0",
+      "description": "RABIES: Rodent Automated Bold Improvement of EPI Sequences.",
+      "url": "https://pypi.org/project/rabies/0.6.0/",
+      "urlToImage": null,
+      "publishedAt": "2026-03-27 10:57:35",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-03-28 19:14:54.935367",
+      "internal_id": "6e7997cbdcb9b8f0a2cd74006d511658790363a643a8ec17bd8d796af94a1fb5",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28734,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Gazeta.pl",
+      "author": "Artur Siekaczy\u0144ski",
+      "title": "Urz\u0119dniczka odkry\u0142a podejrzane laboratorium. \"Zda\u0142am sobie spraw\u0119, \u017ce mam k\u0142opoty\"",
+      "description": "W jednym z magazyn\u00f3w w Reedley w Kalifornii urz\u0119dniczka ds. egzekwowania przepis\u00f3w odkry\u0142a fiolki opisane m.in. jako HIV, malaria, COVID-19 i Ebola. \"Musia\u0142am wyj\u015b\u0107 z tego budynku, nie pokazuj\u0105c, \u017ce si\u0119 boj\u0119\".",
+      "url": "https://wiadomosci.gazeta.pl/swiat/7,198075,32689975,urzedniczka-odkryla-podejrzane-laboratorium-zdalam-sobie-sprawe.html",
+      "urlToImage": "https://bi.im-g.pl/im/16/2c/1f/z32689174IER,Cwiczenia-sluzb-medycznych--zdj--ilustracyjne-.jpg",
+      "publishedAt": "2026-03-27 10:33:00",
+      "content": "Jesalyn Harper, urz\u0119dniczka zajmuj\u0105ca si\u0119 egzekwowaniem lokalnych przepis\u00f3w, wesz\u0142a do jednego z magazyn\u00f3w w Reedley. By\u0142a to reakcja na zg\u0142oszenie, z kt\u00f3rego wynika\u0142o, \u017ce cho\u0107 budynek teoretycznie j\u2026 [+2416 chars]",
+      "retrievedAt": "2026-03-28 19:14:57.054759",
+      "internal_id": "79f5665527291cace75b52595ef4c5d89eb4d016de8018758f0cffccf863eb08",
+      "publishedAtLabel": "Mar 27"
+    },
+    {
+      "id": 28733,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Rafa Sardi\u00f1a",
+      "title": "\u00bfDebe preocupar el brote \"explosivo\" de meningitis en Reino Unido? \"Las farmacias est\u00e1n desbordadas\"",
+      "description": "La meningitis vuelve a copar titulares en la prensa internacional. En esta ocasi\u00f3n, por un brote que ha provocado que Reino Unido declara la \"emergencia nacional\". En las \u00faltimas horas, dos j\u00f3venes estudiantes han fallecido a causa de esta enfermedad infeccio\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20260327/debe-preocupar-brote-explosivo-meningitis-reino-unido-128180749",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/de8c73e3-b0c9-473c-b86f-51424d949bd9_16-9-discover-aspect-ratio_default_0_x1000y445.jpg",
+      "publishedAt": "2026-03-27 09:05:00",
+      "content": "La meningitis vuelve a copar titulares en la prensa internacional. En esta ocasi\u00f3n, por un brote que ha provocado que Reino Unido declara la \"emergencia nacional\". En las \u00faltimas horas, dos j\u00f3venes e\u2026 [+3420 chars]",
+      "retrievedAt": "2026-03-28 19:14:56.801723",
+      "internal_id": "b91dd280edc87ebc79d4f688c5df5613aaa23fb8cb110e070da0404158d953d2",
+      "publishedAtLabel": "Mar 27"
+    },
     {
       "id": 28723,
       "query": [
@@ -23217,60 +23452,6 @@
       "content": "WASHINGTON -- A leading U.S. health official on Sunday urged people to get inoculated against the measles at a time of outbreaks across several states and as the United States is at risk of losing it\u2026 [+6421 chars]",
       "retrievedAt": "2026-02-10 07:29:48.760315",
       "internal_id": "e8be81c292df08f70c70726c3781bfd2549b22d51f5b08909d41eb33637378b1",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27430,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbs-news",
-      "source_name": "CBS News",
-      "author": "CBS News",
-      "title": "Dr. Scott Gottlieb says measles outbreak may \"get worse, unfortunately, before it resolves\"",
-      "description": "Former FDA Commissioner Dr. Scott Gottlieb, who sits on the boards of Pfizer and UnitedHealthcare, told \"Face the Nation with Margaret Brennan\" that the current measles outbreak could be a \"long cycle, especially now that this has gotten embedded in political\u2026",
-      "url": "https://www.cbsnews.com/video/dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/08/d23efcef-ccc8-4ff6-ad90-2424ebfa7c08/thumbnail/1200x630/64aa23137f56de268ab21ab8512d8e59/cbsn-fusion-dr-scott-gottlieb-says-measles-outbreak-may-get-worse-unfortunately-before-it-resolves-thumbnail.jpg",
-      "publishedAt": "2026-02-08 18:48:00",
-      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
-      "retrievedAt": "2026-02-09 19:33:32.146881",
-      "internal_id": "d53faee33d148860b0fa18390927ba9b49bb9e2e851e7c4377bc8281ce8df364",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27431,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Inside the Magic",
-      "author": "Rick Lye",
-      "title": "Confirmed Outbreak Alert: Second Measles Exposure at Disneyland Sparks Health Crisis\u2014Is Your Family at Risk?",
-      "description": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) issued a formal warning regarding an additional case of measl\u2026",
-      "url": "https://insidethemagic.net/2026/02/orange-county-health-officials-warn-of-second-measles-exposure-at-disneyland-rl1/",
-      "urlToImage": "https://insidethemagic.net/wp-content/uploads/2025/11/disneyland-marquee-steven-miller-flickr.jpg",
-      "publishedAt": "2026-02-08 14:40:54",
-      "content": "The \u201cHappiest Place on Earth\u201d is currently under a cloud of caution as health officials confirm a significant public health threat. On February 7, 2026, the Orange County Health Care Agency (OCHCA) i\u2026 [+6917 chars]",
-      "retrievedAt": "2026-02-09 19:33:32.238856",
-      "internal_id": "ca8ffcf7d60394c586e3e9a8f7df293bfeb0ccb722b475db872d4a2cd2425d29",
-      "publishedAtLabel": "Feb 8"
-    },
-    {
-      "id": 27432,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Tv9kannada.com",
-      "author": "Vinay Kashappanavar",
-      "title": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0c85\u0cac\u0ccd\u0cac\u0cb0: \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0caf\u0ca4\u0ccd\u0ca4\u0cc1 H5N1 \u0c9f\u0cc6\u0ca8\u0ccd\u0cb7\u0ca8\u0ccd",
-      "description": "\u0ca8\u0cc6\u0cb0\u0cc6 \u0cb0\u0cbe\u0c9c\u0ccd\u0caf\u0c97\u0cb3\u0cb2\u0ccd\u0cb2\u0cbf H5N1 \u0cb9\u0c95\u0ccd\u0c95\u0cbf \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6 \u0cad\u0cc0\u0ca4\u0cbf \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0c95\u0cb0\u0ccd\u0ca8\u0cbe\u0c9f\u0c95\u0ca6\u0cb2\u0ccd\u0cb2\u0cc2 H5N1 \u0cb5\u0cc8\u0cb0\u0cb8\u0ccd \u0c86\u0ca4\u0c82\u0c95 \u0cb6\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0c97\u0cbf\u0ca6\u0cc6. \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0ca4 \u0caa\u0c95\u0ccd\u0cb7\u0cbf\u0c97\u0cb3\u0cbf\u0c82\u0ca6 \u0cae\u0cbe\u0ca8\u0cb5\u0cb0\u0cbf\u0c97\u0cc6 \u0cb9\u0cb0\u0ca1\u0cc1\u0cb5 \u0c88 \u0c9c\u0ccd\u0cb5\u0cb0\u0ca6\u0cbf\u0c82\u0ca6 \u0c89\u0c82\u0c9f\u0cbe\u0c97\u0cc1\u0cb5 \u0cb8\u0cbe\u0cb5\u0cbf\u0ca8 \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cbf\u0ca6\u0ccd\u0ca6\u0cc1, \u0cb0\u0ccb\u0c97 \u0cb2\u0c95\u0ccd\u0cb7\u0ca3\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0ca8\u0cbf\u0cb0\u0ccd\u0cb2\u0c95\u0ccd\u0cb7\u0cbf\u0cb8\u0ca6\u0c82\u0ca4\u0cc6 \u0cb5\u0cc8\u0ca6\u0ccd\u0caf\u0cb0\u0cc1 \u0cb8\u0cc2\u0c9a\u0cbf\u0cb8\u0cbf\u0ca6\u0ccd\u0ca6\u0cbe\u0cb0\u0cc6. \u0c85\u0cb7\u0ccd\u0c9f\u0c95\u0ccd\u0c95\u0cc2 \u0c88 \u0cb8\u0ccb\u0c82\u0c95\u0cbf\u0c97\u0cc6 \u0ca4\u0cc1\u0ca4\u0ccd\u0ca4\u0cbe\u0ca6\u0cb5\u0cb0 \u0ca6\u0cc7\u0cb9\u0ca6\u0cb2\u0ccd\u0cb2\u0cbf\u2026",
-      "url": "https://tv9kannada.com/health/bird-flu-alert-in-karnataka-doctors-urge-preventive-measures-1146326.html",
-      "urlToImage": "https://images.tv9kannada.com/wp-content/uploads/2026/02/bird-flue.jpg",
-      "publishedAt": "2026-02-08 11:20:30",
-      "content": ", 08: H5N1 . 1,500 , . . . ? H5N1 , , . , . 4 6 . : ? ? .. ., . .50, . . . . . .",
-      "retrievedAt": "2026-02-09 19:33:32.929027",
-      "internal_id": "120cf99f5b71c89f79f81ed3a2765c804bbab06e828df650d3cf8d1328f5e6e5",
       "publishedAtLabel": "Feb 8"
     }
   ]
