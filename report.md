@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-03-29 07:27
-- **Most recent article:** 2026-03-28 04:50:36
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-03-29 19:16
+- **Most recent article:** 2026-03-28 18:03:53
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 19 | 107 | 83 | 329 |
-| meningitis | 4 | 6 | 175 | 70 | 3 | 5 | 263 |
-| dengue | 22 | 11 | 28 | 19 | 16 | 15 | 111 |
-| mpox | 10 | 16 | 12 | 4 | 24 | 27 | 93 |
+| measles | 70 | 30 | 20 | 21 | 99 | 83 | 323 |
+| meningitis | 4 | 6 | 175 | 75 | 1 | 5 | 266 |
+| dengue | 22 | 11 | 28 | 19 | 14 | 15 | 109 |
+| mpox | 10 | 16 | 12 | 4 | 23 | 27 | 92 |
 | malaria | 16 | 9 | 20 | 14 | 10 | 11 | 80 |
 | rabies | 18 | 16 | 7 | 5 | 16 | 14 | 76 |
-| chikungunya | 1 | 7 | 7 | 8 | 40 | 6 | 69 |
-| h5n1 | 2 | 8 | 7 | 4 | 11 | 4 | 36 |
+| chikungunya | 1 | 7 | 7 | 8 | 39 | 6 | 68 |
+| h5n1 | 2 | 8 | 7 | 4 | 8 | 4 | 33 |
 | hpai | 2 | 5 | 2 | 6 | 1 | 2 | 18 |
-| leptospirosis | 2 | 1 | 3 | 1 | 4 | 3 | 14 |
+| leptospirosis | 2 | 1 | 3 | 1 | 3 | 3 | 13 |
 | zika | 1 | 2 | 4 | 1 | 3 | 2 | 13 |
 | typhoid | 3 | 0 | 0 | 1 | 2 | 2 | 8 |
 | yersinia | 2 | 0 | 1 | 1 | 1 | 1 | 6 |
@@ -513,15 +513,9 @@ Source: [News API](https://newsapi.org/)
 
 - [La OMS asegura que el riesgo de mpox se mantiene pese a nueva cepa recombinante](https://www.infosalus.com/salud-investigacion/noticia-oms-asegura-riesgo-mpox-mantiene-pese-nueva-cepa-recombinante-20260216151802.html) (Infosalus.com)
 
-- ["ราชทัณฑ์" ยังไม่พบป่วยเพิ่ม หลังมีผู้ต้องขังติดเชื้อ "ฝีดาษลิง" เสียชีวิต](https://www.thairath.co.th/news/local/2914377) (Thairath.co.th)
-
 ## 26-8 (meningitis)
 
 - [The Mindset That Took Her From 2% Survival Odds to the Paralympics | Amy Purdy](https://lewishowes.com/podcast/the-mindset-that-took-her-from-2-survival-odds-to-the-paralympics-amy-purdy/) (Lewishowes.com)
-
-- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
-
-- [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (measles)
 
@@ -723,22 +717,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why is measles surging in London and the US? #health](https://alltoc.com/health/why-is-measles-surging-in-london-and-the-us) (Alltoc.com)
 
-- [‘Big measles outbreak’ affecting children under 10 confirmed in London](https://www.independent.ie/world-news/britain/big-measles-outbreak-affecting-children-under-10-confirmed-in-london/a1972459778.html) (Independent.ie)
-
-- [Worst US measles outbreak in 30 years: South Carolina, Florida battle health crisis, several college campuses hit badly](https://economictimes.indiatimes.com/news/international/us/worst-us-measles-outbreak-in-30-years-south-carolina-florida-battles-health-crisis-several-college-campuses-hit-badly/articleshow/128387603.cms) (The Times of India)
-
-- [UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBC](https://www.lbc.co.uk/article/uk-measles-outbreak-vaccinations-london-5HjdSMs_2/) (LBC)
-
-- [I’m not very worried about measles spreading in Singapore, says Health Minister Ong Ye Kung](https://www.straitstimes.com/singapore/not-very-worried-health-minister-ong-ye-kung-on-potential-for-measles-spread-in-singapore) (The Straits Times)
-
-- ['Fast-spreading' measles outbreak hits several schools in London](https://www.bbc.com/news/articles/cev7edxxzm7o) (BBC News)
-
-- [North London measles outbreak hits several schools with at least 34 children infected](https://www.bbc.co.uk/news/articles/cev7edxxzm7o) (BBC News)
-
-- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
-
-- [What's driving recent measles outbreaks? #health](https://alltoc.com/health/what-s-driving-recent-measles-outbreaks) (Alltoc.com)
-
 ## 26-8 (malaria)
 
 - [Community awareness and health providers’ perspectives on zoonotic Plasmodium knowlesi malaria in Thailand: A mixed-methods assessment](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013891) (Plos.org)
@@ -769,8 +747,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What to do with possum poo?](https://www.lifesciencesworld.com/what-to-do-with-possum-poo/) (Lifesciencesworld.com)
 
-- [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
-
 ## 26-8 (hpai)
 
 - [Seek Labs Awarded $2 Million Federal Grant for a Novel CRISPR-Based, Mutation-Resistant Therapeutic to Combat Avian Flu in Partnership with Canadian Food Inspection Agency](https://financialpost.com/pmn/business-wire-news-releases-pmn/seek-labs-awarded-2-million-federal-grant-for-a-novel-crispr-based-mutation-resistant-therapeutic-to-combat-avian-flu-in-partnership-with-canadian-food-inspection-agency) (Financial Post)
@@ -792,12 +768,6 @@ Source: [News API](https://newsapi.org/)
 - [Центр Гамалеи разрабатывает "вакцинные консервы" против оспы обезьян](https://www.interfax.ru/russia/1072953) (Interfax.ru)
 
 - [Директор Центра Гамалеи Логунов рассказал о разработке вакцины от оспы обезьян](https://news.mail.ru/society/69824299/) (Mail.ru)
-
-- [В Антарктиде подтверждена массовая гибель поморников от птичьего гриппа H5N1](https://overclockers.ru/blog/This_is_the_way/show/249831/V-Antarktide-podtverzhdena-massovaya-gibel-pomornikov-ot-ptich-ego-grippa-H5N1) (Overclockers.ru)
-
-- [Why has H5N1 appeared in Antarctica? #science](https://alltoc.com/science/why-has-h5n1-appeared-in-antarctica) (Alltoc.com)
-
-- [What does H5N1 in Antarctica mean for wildlife? #science](https://alltoc.com/science/what-does-h5n1-in-antarctica-mean-for-wildlife) (Alltoc.com)
 
 ## 26-8 (dengue)
 
@@ -828,10 +798,6 @@ Source: [News API](https://newsapi.org/)
 - [NS5-targeting nucleoside analogs inhibit dengue virus and other flaviviruses](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013970) (Plos.org)
 
 - [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
-
-- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
-
-- [El ‘charco-lago’ de La Sabana y la amenaza del dengue](https://www.nacion.com/opinion/cartas/el-charco-lago-de-la-sabana-y-la-amenaza-del/USRTT4KV6BAUXKH224MBLOZXLA/story/) (Nacion.com)
 
 ## 26-8 (chikungunya)
 
@@ -913,8 +879,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cruise line halts operations suddenly, leaving future trips in limbo](https://www.foxnews.com/lifestyle/cruise-line-halts-operations-suddenly-leaving-future-trips-limbo) (Fox News)
 
-- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
-
 ## 26-13 (zika)
 
 - [C'è un motivo preciso se le zanzare ti adorano e non è quello che pensi](https://tech.everyeye.it/notizie/e-motivo-preciso-zanzare-adorano-non-pensi-867401.html) (Everyeye.it)
@@ -954,6 +918,16 @@ Source: [News API](https://newsapi.org/)
 - [In Deutschland gibt es erste Fälle der MPox-Variante Klade Ib](https://www.tagesschau.de/wissen/forschung/mpox-deutschland-variante-100.html) (tagesschau.de)
 
 ## 26-13 (meningitis)
+
+- [Why did Kent delay alerting meningitis UKHSA? #health](https://alltoc.com/health/why-did-kent-delay-alerting-meningitis-ukhsa) (Alltoc.com)
+
+- [Más de un tercio de los muertos por meningitis en todo el mundo son niños de menos de 5 años](https://www.mundodeportivo.com/pulso/20260328/1004160994/mas-tercio-muertos-meningitis-mundo-son-ninos-5-anos-dct.html) (Mundodeportivo.com)
+
+- [Más de 250.000 personas fallecieron en todo el mundo por meningitis en el 2023 y más de un tercio eran menores de cinco años](https://www.lavozdegalicia.es/noticia/sociedad/2026/03/28/250000-personas-fallecieron-meningitis-2023-tercio-menores-cinco-anos/00031774691586838482794.htm) (Lavozdegalicia.es)
+
+- [Studie: Meningitis für eine Viertelmillion Todesfälle weltweit verantwortlich](https://www.stern.de/news/studie--meningitis-fuer-eine-viertelmillion-todesfaelle-weltweit-verantwortlich-37263674.html) (STERN.de)
+
+- [La meningitis sigue siendo una amenaza global: más de 250.000 muertes en 2023 pese al avance de las vacunas](https://www.infosalus.com/salud-investigacion/noticia-meningitis-sigue-siendo-amenaza-global-mas-250000-muertes-2023-pese-avance-vacunas-20260328090125.html) (Infosalus.com)
 
 - [Meningitis kills a quarter million people a year, study](https://www.rte.ie/news/world/2026/0328/1565623-meningetis-world-study/) (RTE)
 
@@ -1096,6 +1070,10 @@ Source: [News API](https://newsapi.org/)
 - [How fast did MenB vaccine rollout happen? #health](https://alltoc.com/health/how-fast-did-menb-vaccine-rollout-happen) (Alltoc.com)
 
 ## 26-13 (measles)
+
+- [How serious is Mexico’s measles campaign? #health](https://alltoc.com/health/how-serious-is-mexicos-measles-campaign) (Alltoc.com)
+
+- [There's a massive measles vaccine campaign in Mexico. Is the public on board?](https://www.npr.org/2026/03/28/g-s1-115502/measles-vaccines-mexico) (NPR)
 
 - [Signs point to measles cases spreading undetected in NSW](https://www.abc.net.au/news/2026-03-28/nsw-why-is-measles-on-the-rise-vaccine-rates-and-overseas-travel/106444852) (ABC News (AU))
 
