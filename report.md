@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 2
-- **Last harvest:** 2026-03-30 07:39
-- **Most recent article:** 2026-03-29 06:04:20
+- **Last harvest:** 2026-03-30 19:27
+- **Most recent article:** 2026-03-29 14:20:00
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 21 | 1 | 107 | 83 | 332 |
-| meningitis | 4 | 6 | 175 | 75 | 1 | 2 | 5 | 268 |
-| dengue | 22 | 11 | 28 | 19 | 0 | 16 | 15 | 111 |
-| mpox | 10 | 16 | 12 | 4 | 0 | 24 | 27 | 93 |
-| malaria | 16 | 9 | 20 | 14 | 0 | 10 | 11 | 80 |
+| measles | 70 | 30 | 20 | 21 | 1 | 99 | 83 | 324 |
+| meningitis | 4 | 6 | 175 | 75 | 2 | 1 | 5 | 268 |
+| dengue | 22 | 11 | 28 | 19 | 0 | 14 | 15 | 109 |
+| mpox | 10 | 16 | 12 | 4 | 0 | 23 | 27 | 92 |
+| malaria | 16 | 9 | 20 | 14 | 1 | 10 | 11 | 81 |
 | rabies | 18 | 16 | 7 | 5 | 0 | 16 | 14 | 76 |
-| chikungunya | 1 | 7 | 7 | 8 | 0 | 40 | 6 | 69 |
-| h5n1 | 2 | 8 | 7 | 4 | 0 | 11 | 4 | 36 |
+| chikungunya | 1 | 7 | 7 | 8 | 0 | 39 | 6 | 68 |
+| h5n1 | 2 | 8 | 7 | 4 | 0 | 8 | 4 | 33 |
 | hpai | 2 | 5 | 2 | 6 | 0 | 1 | 2 | 18 |
 | leptospirosis | 2 | 1 | 3 | 1 | 0 | 3 | 3 | 13 |
 | zika | 1 | 2 | 4 | 1 | 0 | 3 | 2 | 13 |
@@ -513,13 +513,9 @@ Source: [News API](https://newsapi.org/)
 
 - [La OMS asegura que el riesgo de mpox se mantiene pese a nueva cepa recombinante](https://www.infosalus.com/salud-investigacion/noticia-oms-asegura-riesgo-mpox-mantiene-pese-nueva-cepa-recombinante-20260216151802.html) (Infosalus.com)
 
-- ["ราชทัณฑ์" ยังไม่พบป่วยเพิ่ม หลังมีผู้ต้องขังติดเชื้อ "ฝีดาษลิง" เสียชีวิต](https://www.thairath.co.th/news/local/2914377) (Thairath.co.th)
-
 ## 26-8 (meningitis)
 
 - [The Mindset That Took Her From 2% Survival Odds to the Paralympics | Amy Purdy](https://lewishowes.com/podcast/the-mindset-that-took-her-from-2-survival-odds-to-the-paralympics-amy-purdy/) (Lewishowes.com)
-
-- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
 
 ## 26-8 (measles)
 
@@ -721,22 +717,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why is measles surging in London and the US? #health](https://alltoc.com/health/why-is-measles-surging-in-london-and-the-us) (Alltoc.com)
 
-- [‘Big measles outbreak’ affecting children under 10 confirmed in London](https://www.independent.ie/world-news/britain/big-measles-outbreak-affecting-children-under-10-confirmed-in-london/a1972459778.html) (Independent.ie)
-
-- [Worst US measles outbreak in 30 years: South Carolina, Florida battle health crisis, several college campuses hit badly](https://economictimes.indiatimes.com/news/international/us/worst-us-measles-outbreak-in-30-years-south-carolina-florida-battles-health-crisis-several-college-campuses-hit-badly/articleshow/128387603.cms) (The Times of India)
-
-- [UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBC](https://www.lbc.co.uk/article/uk-measles-outbreak-vaccinations-london-5HjdSMs_2/) (LBC)
-
-- [I’m not very worried about measles spreading in Singapore, says Health Minister Ong Ye Kung](https://www.straitstimes.com/singapore/not-very-worried-health-minister-ong-ye-kung-on-potential-for-measles-spread-in-singapore) (The Straits Times)
-
-- ['Fast-spreading' measles outbreak hits several schools in London](https://www.bbc.com/news/articles/cev7edxxzm7o) (BBC News)
-
-- [North London measles outbreak hits several schools with at least 34 children infected](https://www.bbc.co.uk/news/articles/cev7edxxzm7o) (BBC News)
-
-- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
-
-- [What's driving recent measles outbreaks? #health](https://alltoc.com/health/what-s-driving-recent-measles-outbreaks) (Alltoc.com)
-
 ## 26-8 (malaria)
 
 - [Community awareness and health providers’ perspectives on zoonotic Plasmodium knowlesi malaria in Thailand: A mixed-methods assessment](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013891) (Plos.org)
@@ -789,12 +769,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Директор Центра Гамалеи Логунов рассказал о разработке вакцины от оспы обезьян](https://news.mail.ru/society/69824299/) (Mail.ru)
 
-- [В Антарктиде подтверждена массовая гибель поморников от птичьего гриппа H5N1](https://overclockers.ru/blog/This_is_the_way/show/249831/V-Antarktide-podtverzhdena-massovaya-gibel-pomornikov-ot-ptich-ego-grippa-H5N1) (Overclockers.ru)
-
-- [Why has H5N1 appeared in Antarctica? #science](https://alltoc.com/science/why-has-h5n1-appeared-in-antarctica) (Alltoc.com)
-
-- [What does H5N1 in Antarctica mean for wildlife? #science](https://alltoc.com/science/what-does-h5n1-in-antarctica-mean-for-wildlife) (Alltoc.com)
-
 ## 26-8 (dengue)
 
 - [DF não tem previsão para vacinar público geral contra dengue](https://www.metropoles.com/distrito-federal/df-nao-tem-previsao-para-vacinar-publico-geral-contra-dengue) (Metropoles.com)
@@ -824,10 +798,6 @@ Source: [News API](https://newsapi.org/)
 - [NS5-targeting nucleoside analogs inhibit dengue virus and other flaviviruses](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013970) (Plos.org)
 
 - [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
-
-- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
-
-- [El ‘charco-lago’ de La Sabana y la amenaza del dengue](https://www.nacion.com/opinion/cartas/el-charco-lago-de-la-sabana-y-la-amenaza-del/USRTT4KV6BAUXKH224MBLOZXLA/story/) (Nacion.com)
 
 ## 26-8 (chikungunya)
 
@@ -909,15 +879,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Cruise line halts operations suddenly, leaving future trips in limbo](https://www.foxnews.com/lifestyle/cruise-line-halts-operations-suddenly-leaving-future-trips-limbo) (Fox News)
 
-- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
-
 ## 26-14 (meningitis)
+
+- [What happened in the Kent meningitis outbreak? #health](https://alltoc.com/health/what-happened-in-the-kent-meningitis-outbreak) (Alltoc.com)
 
 - [Kent meningitis outbreak: how many cases? #health](https://alltoc.com/health/kent-meningitis-outbreak-how-many-cases) (Alltoc.com)
 
 ## 26-14 (measles)
 
 - [Is measles vaccination campaign in Mexico succeeding? #world](https://alltoc.com/world/is-measles-vaccination-campaign-in-mexico-succeeding) (Alltoc.com)
+
+## 26-14 (malaria)
+
+- ['Type 5' Contributes to Africa's Diabetes Woes](https://www.newser.com/story/385954/type-5-contributes-to-africas-diabetes-woes.html) (Newser)
 
 ## 26-13 (zika)
 
