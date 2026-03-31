@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-03-31 07:36
-- **Most recent article:** 2026-03-30 07:00:43
+- **New articles in last harvest:** 18
+- **Last harvest:** 2026-03-31 19:27
+- **Most recent article:** 2026-03-30 18:53:50
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 21 | 3 | 107 | 83 | 334 |
-| meningitis | 4 | 6 | 175 | 75 | 5 | 3 | 5 | 273 |
-| dengue | 22 | 11 | 28 | 19 | 5 | 16 | 15 | 116 |
-| mpox | 10 | 16 | 12 | 4 | 0 | 24 | 27 | 93 |
-| malaria | 16 | 9 | 20 | 14 | 1 | 10 | 11 | 81 |
-| rabies | 18 | 16 | 7 | 5 | 0 | 16 | 14 | 76 |
-| chikungunya | 1 | 7 | 7 | 8 | 1 | 40 | 6 | 70 |
-| h5n1 | 2 | 8 | 7 | 4 | 0 | 11 | 4 | 36 |
+| measles | 70 | 30 | 20 | 21 | 6 | 99 | 83 | 329 |
+| meningitis | 4 | 6 | 175 | 75 | 9 | 1 | 5 | 275 |
+| dengue | 22 | 11 | 28 | 19 | 12 | 14 | 15 | 121 |
+| mpox | 10 | 16 | 12 | 4 | 0 | 23 | 27 | 92 |
+| malaria | 16 | 9 | 20 | 14 | 2 | 10 | 11 | 82 |
+| rabies | 18 | 16 | 7 | 5 | 2 | 16 | 14 | 78 |
+| chikungunya | 1 | 7 | 7 | 8 | 8 | 39 | 6 | 76 |
+| h5n1 | 2 | 8 | 7 | 4 | 0 | 8 | 4 | 33 |
+| zika | 1 | 2 | 4 | 1 | 8 | 3 | 2 | 21 |
 | hpai | 2 | 5 | 2 | 6 | 0 | 1 | 2 | 18 |
-| zika | 1 | 2 | 4 | 1 | 2 | 3 | 2 | 15 |
-| leptospirosis | 2 | 1 | 3 | 1 | 0 | 4 | 3 | 14 |
+| leptospirosis | 2 | 1 | 3 | 1 | 0 | 3 | 3 | 13 |
 | typhoid | 3 | 0 | 0 | 1 | 0 | 2 | 2 | 8 |
 | yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 1 | 6 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
@@ -513,15 +513,9 @@ Source: [News API](https://newsapi.org/)
 
 - [La OMS asegura que el riesgo de mpox se mantiene pese a nueva cepa recombinante](https://www.infosalus.com/salud-investigacion/noticia-oms-asegura-riesgo-mpox-mantiene-pese-nueva-cepa-recombinante-20260216151802.html) (Infosalus.com)
 
-- ["ราชทัณฑ์" ยังไม่พบป่วยเพิ่ม หลังมีผู้ต้องขังติดเชื้อ "ฝีดาษลิง" เสียชีวิต](https://www.thairath.co.th/news/local/2914377) (Thairath.co.th)
-
 ## 26-8 (meningitis)
 
 - [The Mindset That Took Her From 2% Survival Odds to the Paralympics | Amy Purdy](https://lewishowes.com/podcast/the-mindset-that-took-her-from-2-survival-odds-to-the-paralympics-amy-purdy/) (Lewishowes.com)
-
-- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
-
-- [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (measles)
 
@@ -723,22 +717,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why is measles surging in London and the US? #health](https://alltoc.com/health/why-is-measles-surging-in-london-and-the-us) (Alltoc.com)
 
-- [‘Big measles outbreak’ affecting children under 10 confirmed in London](https://www.independent.ie/world-news/britain/big-measles-outbreak-affecting-children-under-10-confirmed-in-london/a1972459778.html) (Independent.ie)
-
-- [Worst US measles outbreak in 30 years: South Carolina, Florida battle health crisis, several college campuses hit badly](https://economictimes.indiatimes.com/news/international/us/worst-us-measles-outbreak-in-30-years-south-carolina-florida-battles-health-crisis-several-college-campuses-hit-badly/articleshow/128387603.cms) (The Times of India)
-
-- [UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBC](https://www.lbc.co.uk/article/uk-measles-outbreak-vaccinations-london-5HjdSMs_2/) (LBC)
-
-- [I’m not very worried about measles spreading in Singapore, says Health Minister Ong Ye Kung](https://www.straitstimes.com/singapore/not-very-worried-health-minister-ong-ye-kung-on-potential-for-measles-spread-in-singapore) (The Straits Times)
-
-- ['Fast-spreading' measles outbreak hits several schools in London](https://www.bbc.com/news/articles/cev7edxxzm7o) (BBC News)
-
-- [North London measles outbreak hits several schools with at least 34 children infected](https://www.bbc.co.uk/news/articles/cev7edxxzm7o) (BBC News)
-
-- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
-
-- [What's driving recent measles outbreaks? #health](https://alltoc.com/health/what-s-driving-recent-measles-outbreaks) (Alltoc.com)
-
 ## 26-8 (malaria)
 
 - [Community awareness and health providers’ perspectives on zoonotic Plasmodium knowlesi malaria in Thailand: A mixed-methods assessment](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013891) (Plos.org)
@@ -769,8 +747,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What to do with possum poo?](https://www.lifesciencesworld.com/what-to-do-with-possum-poo/) (Lifesciencesworld.com)
 
-- [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
-
 ## 26-8 (hpai)
 
 - [Seek Labs Awarded $2 Million Federal Grant for a Novel CRISPR-Based, Mutation-Resistant Therapeutic to Combat Avian Flu in Partnership with Canadian Food Inspection Agency](https://financialpost.com/pmn/business-wire-news-releases-pmn/seek-labs-awarded-2-million-federal-grant-for-a-novel-crispr-based-mutation-resistant-therapeutic-to-combat-avian-flu-in-partnership-with-canadian-food-inspection-agency) (Financial Post)
@@ -792,12 +768,6 @@ Source: [News API](https://newsapi.org/)
 - [Центр Гамалеи разрабатывает "вакцинные консервы" против оспы обезьян](https://www.interfax.ru/russia/1072953) (Interfax.ru)
 
 - [Директор Центра Гамалеи Логунов рассказал о разработке вакцины от оспы обезьян](https://news.mail.ru/society/69824299/) (Mail.ru)
-
-- [В Антарктиде подтверждена массовая гибель поморников от птичьего гриппа H5N1](https://overclockers.ru/blog/This_is_the_way/show/249831/V-Antarktide-podtverzhdena-massovaya-gibel-pomornikov-ot-ptich-ego-grippa-H5N1) (Overclockers.ru)
-
-- [Why has H5N1 appeared in Antarctica? #science](https://alltoc.com/science/why-has-h5n1-appeared-in-antarctica) (Alltoc.com)
-
-- [What does H5N1 in Antarctica mean for wildlife? #science](https://alltoc.com/science/what-does-h5n1-in-antarctica-mean-for-wildlife) (Alltoc.com)
 
 ## 26-8 (dengue)
 
@@ -828,10 +798,6 @@ Source: [News API](https://newsapi.org/)
 - [NS5-targeting nucleoside analogs inhibit dengue virus and other flaviviruses](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013970) (Plos.org)
 
 - [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
-
-- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
-
-- [El ‘charco-lago’ de La Sabana y la amenaza del dengue](https://www.nacion.com/opinion/cartas/el-charco-lago-de-la-sabana-y-la-amenaza-del/USRTT4KV6BAUXKH224MBLOZXLA/story/) (Nacion.com)
 
 ## 26-8 (chikungunya)
 
@@ -913,15 +879,39 @@ Source: [News API](https://newsapi.org/)
 
 - [Cruise line halts operations suddenly, leaving future trips in limbo](https://www.foxnews.com/lifestyle/cruise-line-halts-operations-suddenly-leaving-future-trips-limbo) (Fox News)
 
-- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
-
 ## 26-14 (zika)
+
+- [BH remove carros abandonados das ruas para ajudar no combate à dengue](https://www.metropoles.com/minas-gerais/bh-remove-carros-abandonados-das-ruas-para-ajudar-no-combate-a-dengue) (Metropoles.com)
+
+- ["Preocupación" en MSP por mayor presencia de mosquitos Aedes aegypti, transmisores de dengue zika y chikungunya](https://www.elpais.com.uy/informacion/salud/preocupacion-en-msp-por-mayor-presencia-de-mosquitos-aedes-aegypti-transmisores-de-dengue-zika-y-chikungunya) (Diario EL PAIS Uruguay)
+
+- [Furto de vírus na Unicamp: mais de 20 cepas foram levadas](https://ultimosegundo.ig.com.br/agencias/dw/2026-03-30/furto-de-virus-na-unicamp--mais-de-20-cepas-foram-levadas.html) (Ig.com.br)
+
+- [Furto de vírus na Unicamp: mais de 20 cepas foram levadas](https://www.terra.com.br/noticias/furto-de-virus-na-unicamp-mais-de-20-cepas-foram-levadas,d76e0b3331f08da4c062e8c1c5a0d3ca7tcraiso.html) (Terra.com.br)
+
+- [Furto de vírus na Unicamp: mais de 20 cepas foram levadas](https://www.dw.com/pt-br/furto-de-v%C3%ADrus-na-unicamp-mais-de-20-cepas-foram-levadas/a-76591577) (DW (English))
+
+- [Dengue, zika, herpes: 24 tipos vírus foram retirados de laboratório de alta segurança da Unicamp](https://www.diariodocentrodomundo.com.br/dengue-zika-herpes-24-tipos-virus-foram-retirados-de-laboratorio-de-alta-seguranca-da-unicamp/) (Diariodocentrodomundo.com.br)
 
 - [Furto de vírus na Unicamp: 10 pontos para entender a investigação](https://g1.globo.com/sp/campinas-regiao/noticia/2026/03/30/furto-de-virus-na-unicamp-10-pontos-para-entender-a-investigacao.ghtml) (Globo)
 
 - [Dengue, zika, herpes: ao menos 24 tipos de vírus foram transportados em furto na Unicamp, diz TV](https://www.terra.com.br/noticias/brasil/cidades/dengue-zika-herpes-ao-menos-24-tipos-de-virus-foram-transportados-em-furto-na-unicamp-diz-tv,8fd3cccade33bc92edf6fdc016767d6371r23akb.html) (Terra.com.br)
 
+## 26-14 (rabies)
+
+- [Civic body begins mass anti-rabies vaccination drive for stray dogs](https://timesofindia.indiatimes.com/city/bhubaneswar/civic-body-begins-mass-anti-rabies-vaccination-drive-for-stray-dogs/articleshow/129910079.cms) (The Times of India)
+
+- [Paralytic rabies outbreak mimicking guillain–Barré syndrome in French Amazonia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014149) (Plos.org)
+
 ## 26-14 (meningitis)
+
+- [Why was the Kent meningitis alert delayed? #health](https://alltoc.com/health/why-was-the-kent-meningitis-alert-delayed) (Alltoc.com)
+
+- [The meningitis vaccine now sits at the centre of two health crises](https://theconversation.com/the-meningitis-vaccine-now-sits-at-the-centre-of-two-health-crises-278931) (The Conversation Africa)
+
+- [What caused delays reporting Kent cases? #health](https://alltoc.com/health/what-caused-delays-reporting-kent-cases) (Alltoc.com)
+
+- [How is Kent’s meningitis outbreak controlled? #health](https://alltoc.com/health/how-is-kents-meningitis-outbreak-controlled) (Alltoc.com)
 
 - [What happened with Kent meningitis outbreak? #health](https://alltoc.com/health/what-happened-with-kent-meningitis-outbreak) (Alltoc.com)
 
@@ -935,6 +925,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-14 (measles)
 
+- [হাম কী, কেন ও কীভাবে ছড়ায় | What is Measles Disease | Rubeola | Health Explain | Prothom Alo](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D07isJalM2Hw) (YouTube)
+
+- [Indonesia reports 93 percent drop in measles cases since early 2026](https://en.antaranews.com/news/410442/indonesia-reports-93-percent-drop-in-measles-cases-since-early-2026) (Antaranews.com)
+
+- [Bangladesh PM orders probe into measles outbreak](https://www.channelnewsasia.com/asia/bangladesh-pm-tarique-rahman-measles-outbreak-probe-6025596) (CNA)
+
 - [Measles cases rise, Indonesia urges vigilance among health workers](https://en.antaranews.com/news/410378/measles-cases-rise-indonesia-urges-vigilance-among-health-workers) (Antaranews.com)
 
 - [Today in Sweden: A roundup of the latest news on Monday](https://www.thelocal.se/20260330/today-in-sweden-a-roundup-of-the-latest-news-on-monday-238) (The Local Sweden)
@@ -943,9 +939,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-14 (malaria)
 
+- [Malariamittel: Wie die Natur einen berühmten Bitterstoff herstellt](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/heilmittel-gegen-malaria-wie-die-natur-den-beruehmten-bitterstoff-chinin-herstellt-accg-200663421.html) (Faz.net)
+
 - ['Type 5' Contributes to Africa's Diabetes Woes](https://www.newser.com/story/385954/type-5-contributes-to-africas-diabetes-woes.html) (Newser)
 
 ## 26-14 (dengue)
+
+- [BH remove carros abandonados das ruas para ajudar no combate à dengue](https://www.metropoles.com/minas-gerais/bh-remove-carros-abandonados-das-ruas-para-ajudar-no-combate-a-dengue) (Metropoles.com)
+
+- ["Preocupación" en MSP por mayor presencia de mosquitos Aedes aegypti, transmisores de dengue zika y chikungunya](https://www.elpais.com.uy/informacion/salud/preocupacion-en-msp-por-mayor-presencia-de-mosquitos-aedes-aegypti-transmisores-de-dengue-zika-y-chikungunya) (Diario EL PAIS Uruguay)
+
+- [Vacina pode frear a circulação da dengue no Brasil](https://super.abril.com.br/saude/vacina-pode-frear-a-circulacao-da-dengue-no-brasil/) (Abril.com.br)
+
+- [Furto de vírus na Unicamp: mais de 20 cepas foram levadas](https://ultimosegundo.ig.com.br/agencias/dw/2026-03-30/furto-de-virus-na-unicamp--mais-de-20-cepas-foram-levadas.html) (Ig.com.br)
+
+- [Furto de vírus na Unicamp: mais de 20 cepas foram levadas](https://www.terra.com.br/noticias/furto-de-virus-na-unicamp-mais-de-20-cepas-foram-levadas,d76e0b3331f08da4c062e8c1c5a0d3ca7tcraiso.html) (Terra.com.br)
+
+- [Furto de vírus na Unicamp: mais de 20 cepas foram levadas](https://www.dw.com/pt-br/furto-de-v%C3%ADrus-na-unicamp-mais-de-20-cepas-foram-levadas/a-76591577) (DW (English))
+
+- [Dengue, zika, herpes: 24 tipos vírus foram retirados de laboratório de alta segurança da Unicamp](https://www.diariodocentrodomundo.com.br/dengue-zika-herpes-24-tipos-virus-foram-retirados-de-laboratorio-de-alta-seguranca-da-unicamp/) (Diariodocentrodomundo.com.br)
 
 - [Furto de vírus na Unicamp: 10 pontos para entender a investigação](https://g1.globo.com/sp/campinas-regiao/noticia/2026/03/30/furto-de-virus-na-unicamp-10-pontos-para-entender-a-investigacao.ghtml) (Globo)
 
@@ -958,6 +970,20 @@ Source: [News API](https://newsapi.org/)
 - [Rapid and facile colorimetric biosensing of dengue NS1 antigen using gold nanoparticles: potential for point-of-care testing](https://pubs.rsc.org/en/content/articlelanding/2026/ra/d5ra10028c) (Royal Society of Chemistry)
 
 ## 26-14 (chikungunya)
+
+- [BH remove carros abandonados das ruas para ajudar no combate à dengue](https://www.metropoles.com/minas-gerais/bh-remove-carros-abandonados-das-ruas-para-ajudar-no-combate-a-dengue) (Metropoles.com)
+
+- ["Preocupación" en MSP por mayor presencia de mosquitos Aedes aegypti, transmisores de dengue zika y chikungunya](https://www.elpais.com.uy/informacion/salud/preocupacion-en-msp-por-mayor-presencia-de-mosquitos-aedes-aegypti-transmisores-de-dengue-zika-y-chikungunya) (Diario EL PAIS Uruguay)
+
+- [Furto de vírus na Unicamp: mais de 20 cepas foram levadas](https://ultimosegundo.ig.com.br/agencias/dw/2026-03-30/furto-de-virus-na-unicamp--mais-de-20-cepas-foram-levadas.html) (Ig.com.br)
+
+- [Stirred tank bioreactor process for chikungunya vaccine candidate VEEV-ΔC-CHIKV](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344564) (Plos.org)
+
+- [Furto de vírus na Unicamp: mais de 20 cepas foram levadas](https://www.terra.com.br/noticias/furto-de-virus-na-unicamp-mais-de-20-cepas-foram-levadas,d76e0b3331f08da4c062e8c1c5a0d3ca7tcraiso.html) (Terra.com.br)
+
+- [Furto de vírus na Unicamp: mais de 20 cepas foram levadas](https://www.dw.com/pt-br/furto-de-v%C3%ADrus-na-unicamp-mais-de-20-cepas-foram-levadas/a-76591577) (DW (English))
+
+- [Dengue, zika, herpes: 24 tipos vírus foram retirados de laboratório de alta segurança da Unicamp](https://www.diariodocentrodomundo.com.br/dengue-zika-herpes-24-tipos-virus-foram-retirados-de-laboratorio-de-alta-seguranca-da-unicamp/) (Diariodocentrodomundo.com.br)
 
 - [Furto de vírus na Unicamp: 10 pontos para entender a investigação](https://g1.globo.com/sp/campinas-regiao/noticia/2026/03/30/furto-de-virus-na-unicamp-10-pontos-para-entender-a-investigacao.ghtml) (Globo)
 
