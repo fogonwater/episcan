@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-04-03 07:33
-- **Most recent article:** 2026-04-02 06:04:09
+- **New articles in last harvest:** 19
+- **Last harvest:** 2026-04-03 19:20
+- **Most recent article:** 2026-04-02 18:51:06
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-8 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 21 | 13 | 107 | 83 | 344 |
-| meningitis | 4 | 6 | 175 | 75 | 13 | 3 | 5 | 281 |
-| dengue | 22 | 11 | 28 | 19 | 17 | 16 | 15 | 128 |
-| mpox | 10 | 16 | 12 | 4 | 4 | 24 | 27 | 97 |
-| rabies | 18 | 16 | 7 | 5 | 14 | 16 | 14 | 90 |
-| malaria | 16 | 9 | 20 | 14 | 5 | 10 | 11 | 85 |
-| chikungunya | 1 | 7 | 7 | 8 | 9 | 40 | 6 | 78 |
-| h5n1 | 2 | 8 | 7 | 4 | 4 | 11 | 4 | 40 |
+| measles | 70 | 30 | 20 | 21 | 15 | 99 | 83 | 338 |
+| meningitis | 4 | 6 | 175 | 75 | 15 | 1 | 5 | 281 |
+| dengue | 22 | 11 | 28 | 19 | 17 | 14 | 15 | 126 |
+| mpox | 10 | 16 | 12 | 4 | 9 | 23 | 27 | 101 |
+| rabies | 18 | 16 | 7 | 5 | 19 | 16 | 14 | 95 |
+| malaria | 16 | 9 | 20 | 14 | 9 | 10 | 11 | 89 |
+| chikungunya | 1 | 7 | 7 | 8 | 10 | 39 | 6 | 78 |
+| h5n1 | 2 | 8 | 7 | 4 | 4 | 8 | 4 | 37 |
 | zika | 1 | 2 | 4 | 1 | 14 | 3 | 2 | 27 |
 | hpai | 2 | 5 | 2 | 6 | 2 | 1 | 2 | 20 |
-| leptospirosis | 2 | 1 | 3 | 1 | 0 | 4 | 3 | 14 |
+| leptospirosis | 2 | 1 | 3 | 1 | 0 | 3 | 3 | 13 |
 | typhoid | 3 | 0 | 0 | 1 | 1 | 2 | 2 | 9 |
 | yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 1 | 6 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
@@ -513,15 +513,9 @@ Source: [News API](https://newsapi.org/)
 
 - [La OMS asegura que el riesgo de mpox se mantiene pese a nueva cepa recombinante](https://www.infosalus.com/salud-investigacion/noticia-oms-asegura-riesgo-mpox-mantiene-pese-nueva-cepa-recombinante-20260216151802.html) (Infosalus.com)
 
-- ["ราชทัณฑ์" ยังไม่พบป่วยเพิ่ม หลังมีผู้ต้องขังติดเชื้อ "ฝีดาษลิง" เสียชีวิต](https://www.thairath.co.th/news/local/2914377) (Thairath.co.th)
-
 ## 26-8 (meningitis)
 
 - [The Mindset That Took Her From 2% Survival Odds to the Paralympics | Amy Purdy](https://lewishowes.com/podcast/the-mindset-that-took-her-from-2-survival-odds-to-the-paralympics-amy-purdy/) (Lewishowes.com)
-
-- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
-
-- [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
 
 ## 26-8 (measles)
 
@@ -723,22 +717,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why is measles surging in London and the US? #health](https://alltoc.com/health/why-is-measles-surging-in-london-and-the-us) (Alltoc.com)
 
-- [‘Big measles outbreak’ affecting children under 10 confirmed in London](https://www.independent.ie/world-news/britain/big-measles-outbreak-affecting-children-under-10-confirmed-in-london/a1972459778.html) (Independent.ie)
-
-- [Worst US measles outbreak in 30 years: South Carolina, Florida battle health crisis, several college campuses hit badly](https://economictimes.indiatimes.com/news/international/us/worst-us-measles-outbreak-in-30-years-south-carolina-florida-battles-health-crisis-several-college-campuses-hit-badly/articleshow/128387603.cms) (The Times of India)
-
-- [UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBC](https://www.lbc.co.uk/article/uk-measles-outbreak-vaccinations-london-5HjdSMs_2/) (LBC)
-
-- [I’m not very worried about measles spreading in Singapore, says Health Minister Ong Ye Kung](https://www.straitstimes.com/singapore/not-very-worried-health-minister-ong-ye-kung-on-potential-for-measles-spread-in-singapore) (The Straits Times)
-
-- ['Fast-spreading' measles outbreak hits several schools in London](https://www.bbc.com/news/articles/cev7edxxzm7o) (BBC News)
-
-- [North London measles outbreak hits several schools with at least 34 children infected](https://www.bbc.co.uk/news/articles/cev7edxxzm7o) (BBC News)
-
-- [What are the symptoms of measles - and what should you do if you think your child is infected?](https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953) (Sky.com)
-
-- [What's driving recent measles outbreaks? #health](https://alltoc.com/health/what-s-driving-recent-measles-outbreaks) (Alltoc.com)
-
 ## 26-8 (malaria)
 
 - [Community awareness and health providers’ perspectives on zoonotic Plasmodium knowlesi malaria in Thailand: A mixed-methods assessment](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013891) (Plos.org)
@@ -769,8 +747,6 @@ Source: [News API](https://newsapi.org/)
 
 - [What to do with possum poo?](https://www.lifesciencesworld.com/what-to-do-with-possum-poo/) (Lifesciencesworld.com)
 
-- [What are the symptoms of Leptospirosis in humans?](https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/) (Lifesciencesworld.com)
-
 ## 26-8 (hpai)
 
 - [Seek Labs Awarded $2 Million Federal Grant for a Novel CRISPR-Based, Mutation-Resistant Therapeutic to Combat Avian Flu in Partnership with Canadian Food Inspection Agency](https://financialpost.com/pmn/business-wire-news-releases-pmn/seek-labs-awarded-2-million-federal-grant-for-a-novel-crispr-based-mutation-resistant-therapeutic-to-combat-avian-flu-in-partnership-with-canadian-food-inspection-agency) (Financial Post)
@@ -792,12 +768,6 @@ Source: [News API](https://newsapi.org/)
 - [Центр Гамалеи разрабатывает "вакцинные консервы" против оспы обезьян](https://www.interfax.ru/russia/1072953) (Interfax.ru)
 
 - [Директор Центра Гамалеи Логунов рассказал о разработке вакцины от оспы обезьян](https://news.mail.ru/society/69824299/) (Mail.ru)
-
-- [В Антарктиде подтверждена массовая гибель поморников от птичьего гриппа H5N1](https://overclockers.ru/blog/This_is_the_way/show/249831/V-Antarktide-podtverzhdena-massovaya-gibel-pomornikov-ot-ptich-ego-grippa-H5N1) (Overclockers.ru)
-
-- [Why has H5N1 appeared in Antarctica? #science](https://alltoc.com/science/why-has-h5n1-appeared-in-antarctica) (Alltoc.com)
-
-- [What does H5N1 in Antarctica mean for wildlife? #science](https://alltoc.com/science/what-does-h5n1-in-antarctica-mean-for-wildlife) (Alltoc.com)
 
 ## 26-8 (dengue)
 
@@ -828,10 +798,6 @@ Source: [News API](https://newsapi.org/)
 - [NS5-targeting nucleoside analogs inhibit dengue virus and other flaviviruses](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013970) (Plos.org)
 
 - [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
-
-- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
-
-- [El ‘charco-lago’ de La Sabana y la amenaza del dengue](https://www.nacion.com/opinion/cartas/el-charco-lago-de-la-sabana-y-la-amenaza-del/USRTT4KV6BAUXKH224MBLOZXLA/story/) (Nacion.com)
 
 ## 26-8 (chikungunya)
 
@@ -913,8 +879,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cruise line halts operations suddenly, leaving future trips in limbo](https://www.foxnews.com/lifestyle/cruise-line-halts-operations-suddenly-leaving-future-trips-limbo) (Fox News)
 
-- [Casos de dengue geram alerta em Santa Catarina](https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html) (Ig.com.br)
-
 ## 26-14 (zika)
 
 - [Health advice for women returning from areas with a risk of Zika virus](https://www.gov.uk/guidance/health-advice-for-women-returning-from-areas-with-a-risk-of-zika-virus) (Www.gov.uk)
@@ -951,6 +915,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-14 (rabies)
 
+- [Why did CDC pause rabies testing? #health](https://alltoc.com/health/why-did-cdc-pause-rabies-testing) (Alltoc.com)
+
+- [Why did CDC stop testing rabies and pox? #health](https://alltoc.com/health/why-did-cdc-stop-testing-rabies-and-pox) (Alltoc.com)
+
+- [CDC pauses testing for rabies and other serious infectious diseases](https://www.nbcnews.com/health/health-news/cdc-pauses-testing-rabies-monkeypox-epstein-barr-viruses-rcna266377) (NBC News)
+
+- [Why did CDC stop rabies and pox testing? #health](https://alltoc.com/health/why-did-cdc-stop-rabies-and-pox-testing) (Alltoc.com)
+
+- [CDC pauses dozens of types of lab testing during evaluation and in wake of downsizing](https://abcnews.com/Technology/wireStory/cdc-pauses-dozens-types-lab-testing-evaluation-wake-131630572) (Abcnews.com)
+
 - [What did CDC pause testing for rabies and mpox? #health](https://alltoc.com/health/what-did-cdc-pause-testing-for-rabies-and-mpox) (Alltoc.com)
 
 - [CDC Temporarily Stops Rabies, Pox Virus Testing](https://www.newser.com/story/386550/cdc-temporarily-stops-rabies-pox-virus-testing.html) (Newser)
@@ -981,6 +955,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-14 (mpox)
 
+- [Congo says its mpox outbreak is over after 2 years, more than 2,200 suspected deaths](https://abcnews.com/International/wireStory/congo-mpox-outbreak-after-2-years-2200-suspected-131657702) (Abcnews.com)
+
+- [Congo says its mpox outbreak is over after 2 years and more than 2,200 suspected deaths](https://www.seattlepi.com/news/world/article/congo-says-its-mpox-outbreak-is-over-after-2-22185799.php) (seattlepi.com)
+
+- [Congo says its mpox outbreak is over after 2 years and more than 2,200 suspected deaths](https://www.news4jax.com/health/2026/04/02/congo-says-its-mpox-outbreak-is-over-after-2-years-and-more-than-2200-suspected-deaths/) (WJXT News4JAX)
+
+- [สิงคโปร์ยืนยัน พบผู้ป่วยฝีดาษลิงติดต่อในประเทศครั้งแรก ย้ำความเสี่ยงยังต่ำ](https://www.thairath.co.th/news/foreign/2924349) (Thairath.co.th)
+
+- [Singapore confirms first two locally transmitted mpox cases; authorities say risk to public is low](https://www.channelnewsasia.com/singapore/mpox-clade-1b-infection-cases-communicable-diseases-agency-6033226) (CNA)
+
 - [What did CDC pause testing for rabies and mpox? #health](https://alltoc.com/health/what-did-cdc-pause-testing-for-rabies-and-mpox) (Alltoc.com)
 
 - [CDC Temporarily Stops Rabies, Pox Virus Testing](https://www.newser.com/story/386550/cdc-temporarily-stops-rabies-pox-virus-testing.html) (Newser)
@@ -990,6 +974,10 @@ Source: [News API](https://newsapi.org/)
 - [Why did CDC pause testing for rabies and mpox? #health](https://alltoc.com/health/why-did-cdc-pause-testing-for-rabies-and-mpox) (Alltoc.com)
 
 ## 26-14 (meningitis)
+
+- [How is Hib making a comeback? #health](https://alltoc.com/health/how-is-hib-making-a-comeback) (Alltoc.com)
+
+- [A deadly bacterial disease is making a comeback as vaccine rates fall](https://www.nbcnews.com/health/health-news/bacterial-disease-hib-doctors-warn-rising-vaccination-rates-drop-rcna265851) (NBC News)
 
 - [How did NHS England handle Kent meningitis alerts? #health](https://alltoc.com/health/how-did-nhs-england-handle-kent-meningitis-alerts) (Alltoc.com)
 
@@ -1019,6 +1007,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-14 (measles)
 
+- [Is Measles Returning in a More Vicious Form?](https://dnascience.plos.org/2026/04/02/is-measles-returning-in-a-more-vicious-form/) (Plos.org)
+
+- [US Scientists Sequence 1,000 Genomes From Measles, a Disease Long Eliminated With Vaccines](https://kffhealthnews.org/news/article/measles-genome-cdc-data-elimination-status-outbreaks-rfk/) (Kffhealthnews.org)
+
 - [U confirms measles case on campus, warns of exposure](https://dailyutahchronicle.com/2026/04/01/u-confirms-measles-case-on-campus-warns-of-exposure/) (Dailyutahchronicle.com)
 
 - [Indonesia reports first health professional death amid measles outbreak](https://www.straitstimes.com/asia/se-asia/indonesia-reports-first-health-professional-death-amid-measles-outbreak) (The Straits Times)
@@ -1046,6 +1038,14 @@ Source: [News API](https://newsapi.org/)
 - [Is measles vaccination campaign in Mexico succeeding? #world](https://alltoc.com/world/is-measles-vaccination-campaign-in-mexico-succeeding) (Alltoc.com)
 
 ## 26-14 (malaria)
+
+- [Tödliche Gefahr für die Tiere: Hundemalaria breitet sich aus – Landkreis warnt vor Zecken](https://www.tagesspiegel.de/berlin/todliche-gefahr-fur-die-tiere-hundemalaria-breitet-sich-aus--landkreis-warnt-vor-zecken-15433052.html) (Der Tagesspiegel)
+
+- [Wiesenzecken: Hundemalaria breitet sich aus - Landkreis warnt vor Zecken](https://www.tagesspiegel.de/berlin/wiesenzecken-hundemalaria-breitet-sich-aus-landkreis-warnt-vor-zecken-15433052.html) (Der Tagesspiegel)
+
+- [Wiesenzecken: Hundemalaria breitet sich aus - Landkreis warnt vor Zecken](https://www.zeit.de/news/2026-04/02/hundemalaria-breitet-sich-aus-landkreis-warnt-vor-zecken) (Die Zeit)
+
+- [Wiesenzecken: Hundemalaria breitet sich aus - Landkreis warnt vor Zecken](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/wiesenzecken--hundemalaria-breitet-sich-aus---landkreis-warnt-vor-zecken-37279718.html) (STERN.de)
 
 - [emod-malaria 2.32.39.dev2](https://pypi.org/project/emod-malaria/2.32.39.dev2/) (Pypi.org)
 
@@ -1110,6 +1110,8 @@ Source: [News API](https://newsapi.org/)
 - [Rapid and facile colorimetric biosensing of dengue NS1 antigen using gold nanoparticles: potential for point-of-care testing](https://pubs.rsc.org/en/content/articlelanding/2026/ra/d5ra10028c) (Royal Society of Chemistry)
 
 ## 26-14 (chikungunya)
+
+- [Fiebre chikungunya: preocupa la velocidad con la que crecen los casos en las últimas semanas](https://www.lanacion.com.ar/sociedad/fiebre-chikungunya-preocupa-la-velocidad-con-la-que-crecen-los-casos-en-las-ultimas-semanas-nid02042026/) (La Nacion)
 
 - [Mato Grosso do Sul vai receber vacina contra chikungunya](https://www.terra.com.br/vida-e-estilo/saude/mato-grosso-do-sul-vai-receber-vacina-contra-chikungunya,bb79a61535e97e9ce42fa62470b65cecsdir61pm.html) (Terra.com.br)
 

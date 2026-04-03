@@ -1,8 +1,350 @@
 {
-  "last_updated": "2026-04-03 07:33",
-  "count_articles_total": 1173,
-  "count_articles_new": 13,
+  "last_updated": "2026-04-03 19:20",
+  "count_articles_total": 1177,
+  "count_articles_new": 19,
   "articles": [
+    {
+      "id": 28845,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "Fabiola Czubaj",
+      "title": "Fiebre chikungunya: preocupa la velocidad con la que crecen los casos en las \u00faltimas semanas",
+      "description": "Diez jurisdicciones informaron diagn\u00f3sticos y en el norte del pa\u00eds se intensifican medidas para contener el brote activo",
+      "url": "https://www.lanacion.com.ar/sociedad/fiebre-chikungunya-preocupa-la-velocidad-con-la-que-crecen-los-casos-en-las-ultimas-semanas-nid02042026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/el-mosquito-aedes-VYNUJTEDOFEQNNIQ4SPVPFIUCA.jpg?auth=241260c572bad34eade992656cf41cbdc3bf5b53ec8d7849f230ef7202a9c141&width=1200&quality=85&smart=true&height=675",
+      "publishedAt": "2026-04-02 18:51:06",
+      "content": "La velocidad con la que en las dos \u00faltimas semanas se confirmaron nuevos casos de fiebre chikungunya ya es de preocupaci\u00f3n sanitaria y las medidas que se est\u00e1n reforzando en el norte del pa\u00eds apuntan\u2026 [+3857 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.728914",
+      "internal_id": "5df5945d99a409320191bbdd8c51a3aea8c0c596a55f3128f330404656f9554b",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28843,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "T\u00f6dliche Gefahr f\u00fcr die Tiere: Hundemalaria breitet sich aus \u2013 Landkreis warnt vor Zecken",
+      "description": "Zeckenbisse k\u00f6nnen die Krankheit Babesiose \u00fcbertragen. Der Landkreis Oberspreewald-Lausitz ruft Hundehalter zu erh\u00f6hter Vorsicht gerade im Fr\u00fchling auf.",
+      "url": "https://www.tagesspiegel.de/berlin/todliche-gefahr-fur-die-tiere-hundemalaria-breitet-sich-aus--landkreis-warnt-vor-zecken-15433052.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15433051/alternates/BASE_16_9_W1400/1775217521000/die-wiesenzecke-kann-hundemalaria-auslosen.jpeg",
+      "publishedAt": "2026-04-02 18:48:48",
+      "content": "Der Landkreis Oberspreewald-Lausitz warnt Hundehalter vor der sogenannten Hundemalaria, die durch Zecken \u00fcbertragen wird. Die Infektionskrankheit Babesiose trete inzwischen auch in der Region bei Hun\u2026 [+2480 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.180603",
+      "internal_id": "8e62ad9339aa38bdb876a3266ee1f8dff39828b6fb5c1fe501b84d71fd757e09",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28844,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Wiesenzecken: Hundemalaria breitet sich aus - Landkreis warnt vor Zecken",
+      "description": "T\u00f6dliche Gefahr f\u00fcr Hunde: Zeckenbisse k\u00f6nnen die Krankheit Babesiose \u00fcbertragen. Der Landkreis Oberspreewald-Lausitz ruft Hundehalter zu erh\u00f6hter Vorsicht gerade im Fr\u00fchling auf.",
+      "url": "https://www.tagesspiegel.de/berlin/wiesenzecken-hundemalaria-breitet-sich-aus-landkreis-warnt-vor-zecken-15433052.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15433051/alternates/BASE_16_9_W1400/1775155727000/die-wiesenzecke-kann-hundemalaria-auslosen.jpeg",
+      "publishedAt": "2026-04-02 18:48:48",
+      "content": "Der Landkreis Oberspreewald-Lausitz warnt Hundehalter vor der sogenannten Hundemalaria, die durch Zecken \u00fcbertragen wird. Die Infektionskrankheit Babesiose trete inzwischen auch in der Region bei Hun\u2026 [+2195 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.191257",
+      "internal_id": "ac074ce96048b55aa3098ca0e7a65a2d9144eebe6287ba0caef7c6be441cf316",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28841,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Wiesenzecken: Hundemalaria breitet sich aus - Landkreis warnt vor Zecken",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eWiesenzecken\u201c. Lesen Sie jetzt \u201eHundemalaria breitet sich aus - Landkreis warnt vor Zecken\u201c.",
+      "url": "https://www.zeit.de/news/2026-04/02/hundemalaria-breitet-sich-aus-landkreis-warnt-vor-zecken",
+      "urlToImage": "https://img.zeit.de/news/2026-04/02/hundemalaria-breitet-sich-aus-landkreis-warnt-vor-zecken-image-group/wide__1300x731",
+      "publishedAt": "2026-04-02 18:47:41",
+      "content": "Der Landkreis Oberspreewald-Lausitz warnt Hundehalter vor der sogenannten Hundemalaria, die durch Zecken \u00fcbertragen wird. Die Infektionskrankheit Babesiose trete inzwischen auch in der Region bei Hun\u2026 [+2135 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.111708",
+      "internal_id": "f2581304b81761edd4b1e137fdc5d018e7e22273f4bc0abdb0452aa62ada4d0a",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28842,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Wiesenzecken: Hundemalaria breitet sich aus - Landkreis warnt vor Zecken",
+      "description": "T\u00f6dliche Gefahr f\u00fcr Hunde: Zeckenbisse k\u00f6nnen die Krankheit Babesiose \u00fcbertragen. Der Landkreis Oberspreewald-Lausitz ruft Hundehalter zu erh\u00f6hter Vorsicht gerade im Fr\u00fchling auf.",
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/wiesenzecken--hundemalaria-breitet-sich-aus---landkreis-warnt-vor-zecken-37279718.html",
+      "urlToImage": "https://image.stern.de/37279720/t/TM/v1/w1440/r1.7778/-/02--eu2vgwfvddv32axs2048jpeg---034000de6aac3110.jpg",
+      "publishedAt": "2026-04-02 18:47:41",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen T\u00f6dliche Gefahr f\u00fcr Hunde: Zeckenbisse k\u00f6nnen die Krankheit Babesiose \u00fcbertragen. Der Landkreis Oberspreewald-Lausitz ruft Hundehalter zu erh\u00f6hte\u2026 [+2332 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.141597",
+      "internal_id": "6be2225e7b99abfc0921ff8c0904fef46fd548654913c4bbc2c3f28dded1bb7c",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28837,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Ricki Lewis, PhD",
+      "title": "Is Measles Returning in a More Vicious Form?",
+      "description": "Eman, our informally adopted son who is a physician in Monrovia, Liberia, is recovering from the measles. He contracted it from a\u2026 The post Is Measles Returning in a More Vicious Form? appeared first on DNA Science.",
+      "url": "https://dnascience.plos.org/2026/04/02/is-measles-returning-in-a-more-vicious-form/",
+      "urlToImage": "https://dnascience.plos.org/wp-content/uploads/sites/12/2026/04/Measles_Illustration_IMG.jpg",
+      "publishedAt": "2026-04-02 18:06:06",
+      "content": "Eman, our informally adopted son who is a physician in Monrovia, Liberia, is recovering from the measles. He contracted it from a teen patient. \u201cIt started with a slight fever and chills, and became\u2026 [+4417 chars]",
+      "retrievedAt": "2026-04-03 19:20:00.965264",
+      "internal_id": "a087b41d4a6f3cb1782a02aa4582bfc82471bf8b4c407dbb18865e04d17702a8",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28834,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did CDC pause rabies testing? #health",
+      "description": "CDC pauses rabies and other infectious disease testing The CDC temporarily stopped testing for rabies and pox viruses for state and local public health labs. The immediate driver is staffing strain: federal support that normally helps labs run specialized tes\u2026",
+      "url": "https://alltoc.com/health/why-did-cdc-pause-rabies-testing",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-02 18:04:02",
+      "content": "The CDC temporarily stopped testing for rabies and pox viruses for state and local public health labs. The immediate driver is staffing strain: federal support that normally helps labs run specialize\u2026 [+1571 chars]",
+      "retrievedAt": "2026-04-03 19:20:00.547238",
+      "internal_id": "f79cba07621fc60d078f4d27805353925628034a1d463b1828313308826a8344",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28835,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did CDC stop testing rabies and pox? #health",
+      "description": "CDC pauses testing for rabies and pox viruses CDC temporarily paused testing for rabies and pox viruses for state and local public health labs. The central reason given in the coverage is staffing shortages: federal public health lab support has been reduced \u2026",
+      "url": "https://alltoc.com/health/why-did-cdc-stop-testing-rabies-and-pox",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-02 18:04:02",
+      "content": "CDC temporarily paused testing for rabies and pox viruses for state and local public health labs. The central reason given in the coverage is staffing shortages: federal public health lab support has\u2026 [+1572 chars]",
+      "retrievedAt": "2026-04-03 19:20:00.567570",
+      "internal_id": "6d3beffe274c0f1e07e8b9b26fa1411b232fc8de797d43a115930ac4831f4edc",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28847,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abcnews.com",
+      "author": "The Associated Press",
+      "title": "Congo says its mpox outbreak is over after 2 years, more than 2,200 suspected deaths",
+      "description": "Congo has declared the end of a two-year mpox outbreak, which is believed to have caused over 2,200 deaths",
+      "url": "https://abcnews.com/International/wireStory/congo-mpox-outbreak-after-2-years-2200-suspected-131657702",
+      "urlToImage": "https://i.abcnewsfe.com/a/cacd1060-ca01-4dfd-b6e3-01946212b167/wirestory_f1219ae63e5675aa74d1202e21b9035b_16x9.jpg?w=1600",
+      "publishedAt": "2026-04-02 17:00:57",
+      "content": "CAPE TOWN, South Africa -- Congo on Thursday declared the end of a two-year outbreak of the mpox disease that's believed to have caused more than 2,200 deaths in the country. Health Minister Roger K\u2026 [+1708 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.903266",
+      "internal_id": "6ff41cd0a67eee5415c89d0dbc327bfd3dee5b1dad9d56e83e3c5c39f49008a7",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28848,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "Associated Press",
+      "title": "Congo says its mpox outbreak is over after 2 years and more than 2,200 suspected deaths",
+      "description": "Congo has declared the end of a two-year mpox outbreak, which is believed to have caused over 2,200 deaths. Health Minister Roger Kamba announced that the outbreak is no longer a national emergency. The World Health Organization had declared it a global healt\u2026",
+      "url": "https://www.seattlepi.com/news/world/article/congo-says-its-mpox-outbreak-is-over-after-2-22185799.php",
+      "urlToImage": null,
+      "publishedAt": "2026-04-02 16:52:23",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.942301",
+      "internal_id": "c5c3df3bce7522f00d453bf368a3cf1f259d7ca5279b97e6e17898a6553f217c",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28850,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "WJXT News4JAX",
+      "author": "Associated Press",
+      "title": "Congo says its mpox outbreak is over after 2 years and more than 2,200 suspected deaths",
+      "description": "Congo has declared the end of a two-year mpox outbreak, which is believed to have caused over 2,200 deaths.",
+      "url": "https://www.news4jax.com/health/2026/04/02/congo-says-its-mpox-outbreak-is-over-after-2-years-and-more-than-2200-suspected-deaths/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/AZFM4RJUWBGGFHUAEC7YNCS5ME.jpg?_a=DATAg1fkZAA0",
+      "publishedAt": "2026-04-02 16:44:14",
+      "content": "CAPE TOWN Congo on Thursday declared the end of a two-year outbreak of the mpox disease that's believed to have caused more than 2,200 deaths in the country. Health Minister Roger Kamba told journal\u2026 [+1844 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.973281",
+      "internal_id": "d47674a3d26bcfbfc5e0bb93df970158c4dcf164094e62a1738d377e10af5e09",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28849,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Thairath.co.th",
+      "author": "Thairath",
+      "title": "\u0e2a\u0e34\u0e07\u0e04\u0e42\u0e1b\u0e23\u0e4c\u0e22\u0e37\u0e19\u0e22\u0e31\u0e19 \u0e1e\u0e1a\u0e1c\u0e39\u0e49\u0e1b\u0e48\u0e27\u0e22\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01 \u0e22\u0e49\u0e33\u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07\u0e22\u0e31\u0e07\u0e15\u0e48\u0e33",
+      "description": "\u0e2a\u0e34\u0e07\u0e04\u0e42\u0e1b\u0e23\u0e4c\u0e22\u0e37\u0e19\u0e22\u0e31\u0e19 \u0e1e\u0e1a\u0e1c\u0e39\u0e49\u0e15\u0e34\u0e14\u0e40\u0e0a\u0e37\u0e49\u0e2d\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07\u0e17\u0e35\u0e48\u0e40\u0e01\u0e34\u0e14\u0e08\u0e32\u0e01\u0e01\u0e32\u0e23\u0e41\u0e1e\u0e23\u0e48\u0e40\u0e0a\u0e37\u0e49\u0e2d\u0e20\u0e32\u0e22\u0e43\u0e19\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e23\u0e31\u0e49\u0e07\u0e41\u0e23\u0e01 \u0e41\u0e15\u0e48\u0e17\u0e32\u0e07\u0e01\u0e32\u0e23\u0e22\u0e37\u0e19\u0e22\u0e31\u0e19\u0e27\u0e48\u0e32 \u0e04\u0e27\u0e32\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07\u0e17\u0e35\u0e48\u0e44\u0e27\u0e23\u0e31\u0e2a\u0e21\u0e35\u0e15\u0e48\u0e2d\u0e2a\u0e31\u0e07\u0e04\u0e21\u0e22\u0e31\u0e07\u0e04\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e23\u0e30\u0e14\u0e31\u0e1a\u0e15\u0e48\u0e33",
+      "url": "https://www.thairath.co.th/news/foreign/2924349",
+      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa7HHCWS3hDpgnxxOJVGGRglBogsLTfbsJmdDA1lD3a4mEFWKpEwj.jpg",
+      "publishedAt": "2026-04-02 14:44:38",
+      "content": "2 .. 2569 (CDA) mpox 30 34 1 (clade 1b) 30 25 .. 30 .. clade 1b 20 .. 34 26 .. 31 .. 1 .. 21 .. CDA 2 CDA - clade 1b clade 2 2566 2567 CDA 21 .. 7 2568 23 , , , , CDA CDA (NCID\u2026 [+60 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.962748",
+      "internal_id": "2ed773201a4904e077cf6e0c5423fcb47ca6e062c36d3baa1f71c77f2bf1bc9b",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28836,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "The Associated Press",
+      "title": "CDC pauses testing for rabies and other serious infectious diseases",
+      "description": "The CDC has paused its diagnostic testing for rabies, monkeypox and a number of other infectious diseases.",
+      "url": "https://www.nbcnews.com/health/health-news/cdc-pauses-testing-rabies-monkeypox-epstein-barr-viruses-rcna266377",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260402-Raccoon-rs-d557c1.jpg",
+      "publishedAt": "2026-04-02 13:49:58",
+      "content": "The federal governments disease-tracking agency has paused its diagnostic testing for rabies, monkeypox and a number of other infectious diseases. Subscribe to read this story ad-free Get unlimite\u2026 [+2339 chars]",
+      "retrievedAt": "2026-04-03 19:20:00.615469",
+      "internal_id": "b6d36002d1155de792bf5ecb547092d59c6b54e9cf800866c9a0c2ef55e21f70",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28832,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did CDC stop rabies and pox testing? #health",
+      "description": "CDC pauses testing for rabies and pox viruses The CDC has stopped conducting certain rabies and pox virus tests that it previously provided to state and local health departments. The change removes the diseases from a list of tests the agency conducts for tho\u2026",
+      "url": "https://alltoc.com/health/why-did-cdc-stop-rabies-and-pox-testing",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-02 12:04:19",
+      "content": "The CDC has stopped conducting certain rabies and pox virus tests that it previously provided to state and local health departments. The change removes the diseases from a list of tests the agency co\u2026 [+1387 chars]",
+      "retrievedAt": "2026-04-03 19:20:00.509347",
+      "internal_id": "a50f1496a6422b91e2491bc4d18e2058af788ad027d5083f8309043d8715d302",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28839,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How is Hib making a comeback? #health",
+      "description": "Hib cases rise as vaccine coverage lags A growing number of clinicians are warning that Haemophilus influenzae type b (Hib)\u2014a bacterial infection that can cause meningitis\u2014is \u201cmaking a comeback\u201d as vaccination rates fall. The issue ties directly to immunizati\u2026",
+      "url": "https://alltoc.com/health/how-is-hib-making-a-comeback",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-02 12:04:19",
+      "content": "A growing number of clinicians are warning that Haemophilus influenzae type b (Hib)a bacterial infection that can cause meningitisis making a comeback as vaccination rates fall. The issue ties direc\u2026 [+1598 chars]",
+      "retrievedAt": "2026-04-03 19:20:01.790588",
+      "internal_id": "03b28721816b5c2e76c9df8eefe5f9e3fcc3d8b1769b2a31218fd1fd2e7d43c1",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28833,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Abcnews.com",
+      "author": "MIKE STOBBE AP medical writer",
+      "title": "CDC pauses dozens of types of lab testing during evaluation and in wake of downsizing",
+      "description": "The federal government\u2019s disease-tracking agency has paused its diagnostic testing for rabies, monkeypox and a number of other infectious diseases",
+      "url": "https://abcnews.com/Technology/wireStory/cdc-pauses-dozens-types-lab-testing-evaluation-wake-131630572",
+      "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+      "publishedAt": "2026-04-02 11:47:30",
+      "content": "NEW YORK -- The federal government's disease-tracking agency has paused its diagnostic testing for rabies, monkeypox and a number of other infectious diseases. The Centers for Disease Control and Pr\u2026 [+2490 chars]",
+      "retrievedAt": "2026-04-03 19:20:00.535563",
+      "internal_id": "77ea1f221bd19d694cb6427224d0d774a79a225274869572eecc57ae46119b85",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28840,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "A deadly bacterial disease is making a comeback as vaccine rates fall",
+      "description": "Hib, a deadly bacterial infection that causes meningitis, is making a comeback, doctors warn. They say the rise in cases is changing the way they practice medicine.",
+      "url": "https://www.nbcnews.com/health/health-news/bacterial-disease-hib-doctors-warn-rising-vaccination-rates-drop-rcna265851",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/260401-hib-vaccine-ww-1212-ee0120.jpg",
+      "publishedAt": "2026-04-02 09:00:41",
+      "content": "A scar that runs along the base of Dr. Lara Johnsons neck serves as a permanent reminder of the devastating effects of a vaccine-preventable disease. Subscribe to read this story ad-free Get unlim\u2026 [+8743 chars]",
+      "retrievedAt": "2026-04-03 19:20:01.876754",
+      "internal_id": "67b3cdb7716472f73a04b08bd037ef6d725889c23a983847d8547338f8aa9ee8",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28838,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kffhealthnews.org",
+      "author": "Amy Maxmen",
+      "title": "US Scientists Sequence 1,000 Genomes From Measles, a Disease Long Eliminated With Vaccines",
+      "description": "This week, the CDC began to publish long-awaited data that will reveal the extent of measles\u2019 comeback. While applauding the science, researchers say the Trump administration has done little to contain the virus. \u201cThat we\u2019re even talking about this is nuts,\u201d \u2026",
+      "url": "https://kffhealthnews.org/news/article/measles-genome-cdc-data-elimination-status-outbreaks-rfk/",
+      "urlToImage": "https://kffhealthnews.org/wp-content/uploads/sites/2/2026/04/Broad_01.jpg",
+      "publishedAt": "2026-04-02 09:00:00",
+      "content": "Amy MaxmenThis week, the Centers for Diseases Control and Prevention posted online its first large tranche of advanced genetic data from measles viruses spreading last year. Scientists with knowledge\u2026 [+11142 chars]",
+      "retrievedAt": "2026-04-03 19:20:01.014678",
+      "internal_id": "a70f66c29234311bf0cff1c5b8c2356a2213c6a3d317d4c030bb6135249fba7e",
+      "publishedAtLabel": "Apr 2"
+    },
+    {
+      "id": 28846,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "CNA",
+      "author": null,
+      "title": "Singapore confirms first two locally transmitted mpox cases; authorities say risk to public is low",
+      "description": "The two cases - both men aged 30 and 34 - are also the country's first reported infections of the more serious clade Ib variant.",
+      "url": "https://www.channelnewsasia.com/singapore/mpox-clade-1b-infection-cases-communicable-diseases-agency-6033226",
+      "urlToImage": "https://dam.mediacorp.sg/image/upload/s--lwJOfVN5--/c_crop,h_449,w_799,x_1,y_76/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/04/02/2024-11-13t155136z_1_lynxmpekac0pm_rtroptp_3_health-mpox-britain.jpg?itok=y-xV0o_I",
+      "publishedAt": "2026-04-02 08:29:00",
+      "content": "SINGAPORE: Singapore has confirmed its first locally transmitted cases of mpox, the Communicable Diseases Agency (CDA) said on Thursday (Apr 2). The two cases both men aged 30 and 34 - are also the \u2026 [+1579 chars]",
+      "retrievedAt": "2026-04-03 19:20:02.892621",
+      "internal_id": "cb7c6a30a1b5df7fad6d27d4a833b9f5a8fe3a28e8ec0fd33156a0bc811f3bd6",
+      "publishedAtLabel": "Apr 2"
+    },
     {
       "id": 28830,
       "query": [
@@ -20893,279 +21235,6 @@
       "content": "Several recent clusters have exposed how quickly measles can reestablish itself when population immunity falls. In northeast London, more than 60 children including cases in multiple schools and a nu\u2026 [+1860 chars]",
       "retrievedAt": "2026-02-17 07:26:29.543612",
       "internal_id": "c8fe7b10932bff2a1bcedf25cdb248a699fd2eea8562d4070714d2a4a7ff7b10",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27659,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Lucca Marreiros, Lucca Marreiros",
-      "title": "Casos de dengue geram alerta em Santa Catarina",
-      "description": "Foram identificados mais de cinco mil focos do mosquito Aedes aegypti em mais de 200 cidades; veja cuidados e orienta\u00e7\u00f5es para evitar a doen\u00e7a",
-      "url": "https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/br/ca/16/brca16j82khgwjyuggb8qo9d9.jpg",
-      "publishedAt": "2026-02-15 18:42:32",
-      "content": "Os casos prov\u00e1veis de chikungunya em Santa Catarina mais que dobraram entre janeiro e fevereiro de 2026 em rela\u00e7\u00e3o ao mesmo per\u00edodo do ano passado. De acordo com dados da Secretaria de Estado da Sa\u00fad\u2026 [+2889 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.937006",
-      "internal_id": "452d076fb68ab702f32c31e1405dc63a5f7ae7a06d9584e4a1cfa3d8c473ff72",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27667,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Independent.ie",
-      "author": "Sam Hall",
-      "title": "\u2018Big measles outbreak\u2019 affecting children under 10 confirmed in London",
-      "description": "A \u201cbig measles outbreak\u201d in parts of London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.",
-      "url": "https://www.independent.ie/world-news/britain/big-measles-outbreak-affecting-children-under-10-confirmed-in-london/a1972459778.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/6WTTVg1BhVEASdLj9aVFI8difwg=/629x460/smart/prod-mh-ireland/19ea93d4-e12b-4924-83e5-94b3ba256c9d/668fc77d-09c9-4531-8b48-3c4a342d408c/19ea93d4-e12b-4924-83e5-94b3ba256c9d.jpg",
-      "publishedAt": "2026-02-15 16:39:47",
-      "content": "The UK Health Security Agency said the outbreak in schools and nurseries had left some youngsters requiring hospital treatment A big measles outbreak in parts of London is affecting unvaccinated chi\u2026 [+3633 chars]",
-      "retrievedAt": "2026-02-17 07:26:29.625814",
-      "internal_id": "37477ed454e530e30632a607913b960a293610610bf4b4c57da8169ab7a3d303",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27655,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Global Desk",
-      "title": "Worst US measles outbreak in 30 years: South Carolina, Florida battle health crisis, several college campuses hit badly",
-      "description": "Largest measles outbreak in the recent past have raised fears especially college campuses.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/worst-us-measles-outbreak-in-30-years-south-carolina-florida-battles-health-crisis-several-college-campuses-hit-badly/articleshow/128387603.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128387603,width-1200,height-630,imgsize-5490,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-15 15:28:53",
-      "content": "Americans are coping with what has quickly become the largest U.S. measles outbreak in more than three decades, federal health data show. This outbreak comes during an already dire period for the dis\u2026 [+3173 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.287011",
-      "internal_id": "570c4087460bcc4934e792002c48ca51b0a13a0dfdb6797e15ad44060aaecf95",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27660,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Redacci\u00f3n de La Naci\u00f3n",
-      "title": "El \u2018charco-lago\u2019 de La Sabana y la amenaza del dengue",
-      "description": "La gesti\u00f3n del actual ministro de Educaci\u00f3n, la iniciativa de la Municipalidad de San Jos\u00e9 para con los adultos mayores en estado de pobreza y las razones por las que el parque La Sabana presenta riesgos para la salud y la seguridad: tres de las cartas de hoy",
-      "url": "https://www.nacion.com/opinion/cartas/el-charco-lago-de-la-sabana-y-la-amenaza-del/USRTT4KV6BAUXKH224MBLOZXLA/story/",
-      "urlToImage": "https://www.nacion.com/resizer/v2/AYVZ7FNNPRGJNLH72FV2JKDK6A.png?smart=true&auth=62763a1df66045c83ad1c6c95ea1320ab9ee75d6cb2f49986ccc73cc7f2c429a&width=1440",
-      "publishedAt": "2026-02-15 15:00:00",
-      "content": "Es preocupante el charco de La Sabana en San Jos\u00e9 (antes, lago) porque se ha convertido en foco ideal para la proliferaci\u00f3n del zancudo del dengue. Es contradictorio que Costa Rica afirme combatir se\u2026 [+3312 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.982668",
-      "internal_id": "d217e5b5708fb07602d968a6399555e31423a729b945783f4eb99e6046b35819",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27676,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LBC",
-      "author": "Flaminia Luck",
-      "title": "UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBC",
-      "description": "UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBClbc.co.uk",
-      "url": "https://www.lbc.co.uk/article/uk-measles-outbreak-vaccinations-london-5HjdSMs_2/",
-      "urlToImage": "https://images.globalplayer.com/images/792869?crop=16_9&width=1200&signature=C0ynjqVKE3X1zTcVSxKWrDngiVI=",
-      "publishedAt": "2026-02-15 14:05:48",
-      "content": "Global health officials announced earlier this year that the UK is no longer considered to have eliminated measles. Dozens of suspected cases have now been reported in north London, amid an outbreak \u2026 [+2725 chars]",
-      "retrievedAt": "2026-02-17 07:26:29.778972",
-      "internal_id": "aedbc14287093893d2b34cf1d0b4369fe0b27558bf69a9ed73dcd56c34d88e8e",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27674,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Ng Keng Gene",
-      "title": "I\u2019m not very worried about measles spreading in Singapore, says Health Minister Ong Ye Kung",
-      "description": "Health Minister Ong Ye Kung states he is not concerned about measles spreading in Singapore due to high adult immunity, despite a rise in cases. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/not-very-worried-health-minister-ong-ye-kung-on-potential-for-measles-spread-in-singapore",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/0a628537266d66c580dac5f7a2dc904a232b43b4bcc5645bdfbd67fec7a76892",
-      "publishedAt": "2026-02-15 14:01:59",
-      "content": "SINGAPORE Health Minister Ong Ye Kung said on Feb 15 that he is not very worried about measles spreading in Singapore, amid the increase in cases here in 2026. This is as 99 per cent of Singapores a\u2026 [+2742 chars]",
-      "retrievedAt": "2026-02-17 07:26:29.753480",
-      "internal_id": "d66198fe9d52fcb1fce8c4b5edb9d27d273012fdc525c299ca4c0e1cf97baac2",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27656,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Overclockers.ru",
-      "author": "This_is_the_way",
-      "title": "\u0412 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0430 \u043c\u0430\u0441\u0441\u043e\u0432\u0430\u044f \u0433\u0438\u0431\u0435\u043b\u044c \u043f\u043e\u043c\u043e\u0440\u043d\u0438\u043a\u043e\u0432 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1",
-      "description": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435, \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0432 Scientific Reports, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u043e, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 \u0441\u0442\u0430\u043b \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u0431\u043e\u043b\u0435\u0435 50 \u043f\u043e\u043c\u043e\u0440\u043d\u0438\u043a\u043e\u0432 \u0432 \u0441\u0435\u0437\u043e\u043d\u044b 2023\u20132024 \u0433\u043e\u0434\u043e\u0432. \u041f\u043e\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0435\u0440\u0432\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0432\u044b\u0437\u044b\u0432\u0430\u043b\u043e \u0443 \u043f\u0442\u0438\u0446 \u043f\u043e\u0442\u0435\u0440\u044e \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u0438, \u0441\u043a\u0440\u0443\u0447\u0438\u0432\u0430\u043d\u0438\u0435 \u0448\u0435\u0438 \u0438 \u043f\u0430\u0434\u0435\u043d\u0438\u044f \u0441 \u0432\u044b\u0441\u043e\u0442\u044b.",
-      "url": "https://overclockers.ru/blog/This_is_the_way/show/249831/V-Antarktide-podtverzhdena-massovaya-gibel-pomornikov-ot-ptich-ego-grippa-H5N1",
-      "urlToImage": "https://overclockers.ru/st/legacy/blog/442863/717203_O.png",
-      "publishedAt": "2026-02-15 13:03:08",
-      "content": "H5N1. Scientific Reports, 50 20232024 . , , . : scitechdaily.com . , 2024 , , . : scitechdaily.com H5N1 1996 . . 400 : , , . . . . 80- 800 . .",
-      "retrievedAt": "2026-02-16 19:17:20.644549",
-      "internal_id": "9d7075030b3cdbcfe877ca2a01c56c3ea8c83f3aba31ad69a6c3027ebbda4ae4",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27657,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why has H5N1 appeared in Antarctica? #science",
-      "description": "First confirmed avian\u2011flu deaths in Antarctica raise alarm Researchers have confirmed that highly pathogenic H5N1 avian influenza has killed more than 50 skuas in Antarctica \u2014 the first confirmed wildlife deaths from the virus on the continent. The finding si\u2026",
-      "url": "https://alltoc.com/science/why-has-h5n1-appeared-in-antarctica",
-      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
-      "publishedAt": "2026-02-15 12:03:04",
-      "content": "Researchers have confirmed that highly pathogenic H5N1 avian influenza has killed more than 50 skuas in Antarctica the first confirmed wildlife deaths from the virus on the continent. The finding sig\u2026 [+1479 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.668637",
-      "internal_id": "410a5da1eb35d6103fa0e28431eb3821754e34ecf8c55b1d6ef76abbff1df37d",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27652,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "'Fast-spreading' measles outbreak hits several schools in London",
-      "description": "A number of children have been hospitalised as officials urge families to check they are up to date with their vaccines.",
-      "url": "https://www.bbc.com/news/articles/cev7edxxzm7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9864/live/b008a410-0a4a-11f1-aeec-d316ccfb6391.jpg",
-      "publishedAt": "2026-02-15 09:03:01",
-      "content": "She said: \"Measles is a nasty illness for any child, but for some it can lead to long term complications and tragically death, but is so easily preventable with two doses of the MMRV [measles, mumps,\u2026 [+30 chars]",
-      "retrievedAt": "2026-02-16 19:17:19.752235",
-      "internal_id": "d2f5ea29bfa85bfd138551c4c0e4ecfeee8a44a86e51a06b7205949a77b525d1",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27668,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Maia Davies",
-      "title": "North London measles outbreak hits several schools with at least 34 children infected",
-      "description": "A number of children have been hospitalised as officials urge families to check they are up to date with their vaccines.",
-      "url": "https://www.bbc.co.uk/news/articles/cev7edxxzm7o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9864/live/b008a410-0a4a-11f1-aeec-d316ccfb6391.jpg",
-      "publishedAt": "2026-02-15 09:03:01",
-      "content": "Dr Vanessa Saliba from the UKHSA said the \"big\" outbreak was \"mostly affecting unvaccinated children under 10 in schools and nurseries\". She said: \"Measles is a nasty illness for any child, but for \u2026 [+598 chars]",
-      "retrievedAt": "2026-02-17 07:26:29.650237",
-      "internal_id": "4a35f1265908581be2258d2c3400450214c010b5c05e264b16e0490d81c37496",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27653,
-      "query": [
-        "measles",
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": null,
-      "title": "What are the symptoms of measles - and what should you do if you think your child is infected?",
-      "description": "Measles is a highly infectious disease that can lead to complications including pneumonia, meningitis and - in rare cases - death. It is easily prevented with two jabs. But cases have surged as vaccine rates have fallen, prompting a warning to parents to make\u2026",
-      "url": "https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953",
-      "urlToImage": "https://e3.365dm.com/23/11/1600x900/skynews-measles-stock_6367226.jpg?20250226202650",
-      "publishedAt": "2026-02-15 09:00:00",
-      "content": "A \"fast-spreading\" measles outbreak in north London has left more than 60 children infected - and about a dozen needing hospital treatment. The Sunday Times reported60 suspected cases in Enfield, w\u2026 [+6134 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.119442",
-      "internal_id": "47d209b6e77fb805da5bb122545e678563f7851a66b75d5042c605b0af5b3979",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27662,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Thairath.co.th",
-      "author": "Thairath",
-      "title": "\"\u0e23\u0e32\u0e0a\u0e17\u0e31\u0e13\u0e11\u0e4c\" \u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e1b\u0e48\u0e27\u0e22\u0e40\u0e1e\u0e34\u0e48\u0e21 \u0e2b\u0e25\u0e31\u0e07\u0e21\u0e35\u0e1c\u0e39\u0e49\u0e15\u0e49\u0e2d\u0e07\u0e02\u0e31\u0e07\u0e15\u0e34\u0e14\u0e40\u0e0a\u0e37\u0e49\u0e2d \"\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07\" \u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15",
-      "description": "\"\u0e01\u0e23\u0e21\u0e23\u0e32\u0e0a\u0e17\u0e31\u0e13\u0e11\u0e4c\" \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e21\u0e35\u0e1c\u0e39\u0e49\u0e15\u0e49\u0e2d\u0e07\u0e02\u0e31\u0e07\u0e15\u0e34\u0e14\u0e40\u0e0a\u0e37\u0e49\u0e2d \"\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07\" \u0e2b\u0e25\u0e31\u0e07\u0e21\u0e35\u0e1c\u0e39\u0e49\u0e15\u0e49\u0e2d\u0e07\u0e02\u0e31\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e19\u0e33\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32\u0e09\u0e35\u0e14\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e38\u0e48\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07",
-      "url": "https://www.thairath.co.th/news/local/2914377",
-      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa7HMV67YmILtFlcEQQCPgpCXaxKQe6kYpKn2TkGSQaQRYxImQ4NF.jpg",
-      "publishedAt": "2026-02-15 08:15:46",
-      "content": "\"\" \"\" 15 .. 2569 13 .. 13 .. 2569 21 16 .. 2569 (MPox) .",
-      "retrievedAt": "2026-02-16 19:17:21.974506",
-      "internal_id": "8601d64a25489f665b5f45ebcaad4d6864cdd4ae0d59e760f5ad7e809fc0624b",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27654,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "What's driving recent measles outbreaks? #health",
-      "description": "How the outbreaks began and where they're spreading A string of measles clusters has emerged in recent weeks in multiple countries and settings, driven largely by gaps in childhood measles\u2011mumps\u2011rubella (MMR) vaccination coverage. Local health authorities rep\u2026",
-      "url": "https://alltoc.com/health/what-s-driving-recent-measles-outbreaks",
-      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
-      "publishedAt": "2026-02-15 08:07:25",
-      "content": "A string of measles clusters has emerged in recent weeks in multiple countries and settings, driven largely by gaps in childhood measlesmumpsrubella (MMR) vaccination coverage. Local health authoriti\u2026 [+1707 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.219945",
-      "internal_id": "0486ffb11339b36904640b886888098678f78b0dce95c833bafc9563fe6ea09f",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27658,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "What does H5N1 in Antarctica mean for wildlife? #science",
-      "description": "A new front in a global avian influenza outbreak Scientists confirmed highly pathogenic avian influenza H5N1 after a mass die\u2011off of seabirds on the Antarctic Peninsula, where more than 50 skuas were found dead. This marks the first confirmed wildlife fatalit\u2026",
-      "url": "https://alltoc.com/science/what-does-h5n1-in-antarctica-mean-for-wildlife",
-      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
-      "publishedAt": "2026-02-15 08:03:38",
-      "content": "A new front in a global avian influenza outbreak Scientists confirmed highly pathogenic avian influenza H5N1 after a mass dieoff of seabirds on the Antarctic Peninsula, where more than 50 skuas were\u2026 [+1711 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.681226",
-      "internal_id": "38a496f4f87853f23d11fd3b4e14d28247d266cd96ea5640cd94d39ae185b3a0",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27661,
-      "query": [
-        "meningitis",
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Lifesciencesworld.com",
-      "author": "Noah Whitman",
-      "title": "What are the symptoms of Leptospirosis in humans?",
-      "description": "What Are the Symptoms of Leptospirosis in Humans? The symptoms of Leptospirosis in humans are highly variable, ranging from mild, flu-like illness to severe, life-threatening complications, including kidney failure, liver damage, and meningitis. Understanding\u2026",
-      "url": "https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/",
-      "urlToImage": null,
-      "publishedAt": "2026-02-15 07:36:42",
-      "content": "The symptoms of Leptospirosis in humans are highly variable, ranging from mild, flu-like illness to severe, life-threatening complications, including kidney failure, liver damage, and meningitis. Und\u2026 [+9296 chars]",
-      "retrievedAt": "2026-02-16 19:17:21.149512",
-      "internal_id": "48cd5c8db557066fa51e535905aa86789308076e039ed401f62d24593643a4d0",
       "publishedAtLabel": "Feb 15"
     }
   ]
