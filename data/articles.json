@@ -1,8 +1,208 @@
 {
-  "last_updated": "2026-04-04 07:26",
-  "count_articles_total": 1205,
-  "count_articles_new": 13,
+  "last_updated": "2026-04-04 19:15",
+  "count_articles_total": 1201,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 28873,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How did Congo end its mpox outbreak? #health",
+      "description": "Congo declares mpox outbreak over after two years The Republic of the Congo announced that its mpox outbreak is over after a two year episode and more than 2,200 suspected deaths. The declaration signals that the outbreak has moved past the phase in which sus\u2026",
+      "url": "https://alltoc.com/health/how-did-congo-end-its-mpox-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-03 18:04:20",
+      "content": "The Republic of the Congo announced that its mpox outbreak is over after a two-year episode and more than 2,200 suspected deaths. The declaration signals that the outbreak has moved past the phase in\u2026 [+1538 chars]",
+      "retrievedAt": "2026-04-04 19:15:33.352843",
+      "internal_id": "a40a51628617338bb15d3ea1e9d1249e3754a583d6dacbd13190c926d76a9984",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28864,
+      "query": [
+        "rabies",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Umn.edu",
+      "author": null,
+      "title": "State public health labs step up as CDC pauses testing for various pathogens, including rabies, mpox",
+      "description": "State public health labs step up as CDC pauses testing for various pathogens, including rabies, mpoxumn.edu",
+      "url": "https://www.cidrap.umn.edu/rabies/state-public-health-labs-step-cdc-pauses-testing-various-pathogens-including-rabies-mpox",
+      "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/7433935932_7673e5f88e_k.jpg?itok=_Tg2vVi5",
+      "publishedAt": "2026-04-03 17:28:27",
+      "content": "Work with raccoons and need a rabies test? Don't send samples to the Centers for Disease Control and Prevention (CDC) for at least the next couple of weeks. The agency has temporarily paused testi\u2026 [+3694 chars]",
+      "retrievedAt": "2026-04-04 19:15:31.239637",
+      "internal_id": "b2734f1bed851764bbc070293f64f3f00378be2fb0d27f8ff073f77a45ff9630",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28874,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Elcomercio.com",
+      "author": "Gabriela Quiroz",
+      "title": "\u00bfQu\u00e9 es la variante Clado Ib de la mpox? Sus s\u00edntomas y formas de contagio",
+      "description": "La variante clado Ib de la viruela s\u00edmica genera dudas. Conozca qu\u00e9 es, c\u00f3mo se transmite y cu\u00e1les son sus s\u00edntomas.",
+      "url": "https://www.elcomercio.com/tendencias/salud/que-es-variante-clado-ib-mpox-sintomas-contagio/",
+      "urlToImage": "https://media.elcomercio.com/wp-content/uploads/2026/04/mpox-1024x683-1.jpg",
+      "publishedAt": "2026-04-03 16:26:37",
+      "content": "Suscr\u00edbete a nuestro canal de WhatsApp y recibe noticias al instante, directo en tu celular.",
+      "retrievedAt": "2026-04-04 19:15:33.378262",
+      "internal_id": "c521a0f1171e27713e30b5b98e7e0118e699aa3f32de28b82589eaeb17d7f7b9",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28865,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dog and cat sterilization campaign launched to control rabies",
+      "description": "CHITWAN: Kalika Municipality in Chitwan has carried out a sterilization and vaccination campaign targeting community dogs and cats to help control the spread of rabies. The municipality launched the initiative citing a high risk of disease transmission, as co\u2026",
+      "url": "https://english.khabarhub.com/2026/03/542412/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2026/04/Kalika-Municipality-e1775199763198.jpg",
+      "publishedAt": "2026-04-03 14:15:39",
+      "content": "CHITWAN: Kalika Municipality in Chitwan has carried out a sterilization and vaccination campaign targeting community dogs and cats to help control the spread of rabies. The municipality launched the\u2026 [+1024 chars]",
+      "retrievedAt": "2026-04-04 19:15:31.275383",
+      "internal_id": "86b9e4693c8717a9522b702c06749b92c8ecd4d91c1093861e5fd8901bae59c9",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28868,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": "la-nacion",
+      "source_name": "La Nacion",
+      "author": "LA NACION",
+      "title": "Qu\u00e9 es la fiebre chikungunya: el virus transmitido por mosquitos que crece m\u00e1s r\u00e1pido que el dengue",
+      "description": "El aumento de casos en varias provincias encendi\u00f3 alertas sanitarias y reforz\u00f3 las medidas de prevenci\u00f3n frente a esta infecci\u00f3n viral",
+      "url": "https://www.lanacion.com.ar/sociedad/que-es-la-fiebre-chikungunya-el-virus-transmitido-por-mosquitos-que-crece-mas-rapido-que-el-dengue-nid03042026/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/los-sintomas-de-la-fiebre-chikungunya-suelen-ANZYGCZQP5EK5BOHF26OGMVTNU.jpg?auth=1ca766195ebeb9a673eb820870a2bd79a8a28aa337d559502e939c129021c781&width=1200&quality=85&smart=true&height=675",
+      "publishedAt": "2026-04-03 14:02:49",
+      "content": "El crecimiento acelerado de los casos de fiebre chikungunya en distintas provincias volvi\u00f3 a poner en el centro de la escena a una enfermedad que, hasta hace poco, ten\u00eda una circulaci\u00f3n limitada en l\u2026 [+5142 chars]",
+      "retrievedAt": "2026-04-04 19:15:32.178393",
+      "internal_id": "cf33a64cedee32fcb9804ae7557562ffd7a83d2634ea9d88c66ebd4b745c603f",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28870,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Donghoon Chung, Yuka Otsuka, Eunjung Kim, Sultan Ullah, Nicole M. Kennedy, Khac Huy Ngo, Jinjoo Kang, Reece Tomlinson, Brian Alejandro, Koji Barnaby, Jeffrey Miller, Justin Shumate, Chwee Fang Teo, Yaw Bia Tan, Che Shin Chew, CongBao Kang, Dahai Luo, Louis Scampavia, Timothy P. Spicer, Thomas D. Bannister",
+      "title": "Discovery of a potent anti-Zika virus benzamide series targeting the viral protein NS4B",
+      "description": "Author summary Since its pandemic spread in 2015\u20132016, Zika virus infection remains a significant public health threat worldwide. The virus can cause severe brain damage in developing babies and serious neurological complications like Guillain-Barr\u00e9 syndrome \u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013609",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013609.g007&size=inline",
+      "publishedAt": "2026-04-03 14:00:00",
+      "content": "Citation: Chung D, Otsuka Y, Kim E, Ullah S, Kennedy NM, Ngo KH, et al. (2026) Discovery of a potent anti-Zika virus benzamide series targeting the viral protein NS4B. PLoS Pathog 22(4): e1013609. \u2026 [+54466 chars]",
+      "retrievedAt": "2026-04-04 19:15:32.943039",
+      "internal_id": "620f4c07d6ecc1bc7a5e5fa5a5a772f310c46b0782ea0c4c1625a00000aabe23",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28871,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did Congo declare mpox outbreak over? #health",
+      "description": "Congo ends two year mpox outbreak declaration The Republic of the Congo says its mpox outbreak is over after a two year period and more than 2,200 suspected deaths. The declaration marks the end of a prolonged emergency that had been associated with high mort\u2026",
+      "url": "https://alltoc.com/health/why-did-congo-declare-mpox-outbreak-over",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-03 12:03:56",
+      "content": "The Republic of the Congo says its mpox outbreak is over after a two-year period and more than 2,200 suspected deaths. The declaration marks the end of a prolonged emergency that had been associated \u2026 [+1757 chars]",
+      "retrievedAt": "2026-04-04 19:15:33.239942",
+      "internal_id": "d062e8ce36ddf5347ca2e54958916d2b7cf1cf9c1255e3b24d5945d0dd2e5d81",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28866,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Vaccination booth pops up at Royal Manitoba Winter Fair as measles cases rise",
+      "description": "A new booth offering measles vaccination debuted this week at the Royal Manitoba Winter Fair in Brandon, which is being held at the same site as a January event linked to an outbreak of more than 30 cases.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/vaccination-booth-brandon-measless-9.7152300",
+      "urlToImage": "https://i.cbc.ca/ais/4020d838-62ea-4a97-bdb7-c27f1f5e30f6,1775164376659/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1671%2C939%29%3BResize%3D620",
+      "publishedAt": "2026-04-03 10:00:00",
+      "content": "A new booth offering measles vaccination debuted this week at the Royal Manitoba Winter Fair in Brandon, which is being held at the same site as a January event linked to an outbreak of more than 30 \u2026 [+3761 chars]",
+      "retrievedAt": "2026-04-04 19:15:31.523380",
+      "internal_id": "bea48cac4a686d08c67dc96a40de9b6899f57edcb8a4c7a019e13a17a88ee0b3",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28872,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Abcnews.com",
+      "author": "The Associated Press",
+      "title": "Congo says its mpox outbreak is over after 2 years and more than 2,200 suspected deaths",
+      "description": "Congo has declared the end of a two-year mpox outbreak, which is believed to have caused over 2,200 deaths",
+      "url": "https://abcnews.com/Health/wireStory/congo-mpox-outbreak-after-2-years-2200-suspected-131657703",
+      "urlToImage": "https://i.abcnewsfe.com/a/cacd1060-ca01-4dfd-b6e3-01946212b167/wirestory_f1219ae63e5675aa74d1202e21b9035b_16x9.jpg?w=1600",
+      "publishedAt": "2026-04-03 08:19:49",
+      "content": "CAPE TOWN, South Africa -- Congo on Thursday declared the end of a two-year outbreak of the mpox disease that's believed to have caused more than 2,200 deaths in the country. Health Minister Roger K\u2026 [+1708 chars]",
+      "retrievedAt": "2026-04-04 19:15:33.314761",
+      "internal_id": "2db1cec1fbfbcebeb441b0b56d522222f80898bef9641d6663e416ac21428541",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28869,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Dangerous bacterial infection hits highest level seen in Canada in more than a decade",
+      "description": "Annual cases of invasive meningococcal disease, a rare but dangerous bacterial infection, have hit the highest level seen in Canada in more than a decade. This rapidly-progressing illness can cause meningitis, sepsis or even death, and children and young adul\u2026",
+      "url": "https://www.cbc.ca/news/health/invasive-meningococcal-disease-rising-9.7151929",
+      "urlToImage": "https://i.cbc.ca/ais/d4c64cb0-3f27-4f9f-8c9e-b11b87f3c52d,1775155055686/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C60%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2026-04-03 08:00:00",
+      "content": "Annual cases of invasive meningococcal disease (IMD), a rare but dangerous bacterial infection, have hit the highest level seen in Canada in more than a decade. This rapidly progressing illness is k\u2026 [+9043 chars]",
+      "retrievedAt": "2026-04-04 19:15:32.332646",
+      "internal_id": "84eb48442d69e91ca90225e2fb48f9ddd404e3bf0232a7dbfdf49041c5940aee",
+      "publishedAtLabel": "Apr 3"
+    },
+    {
+      "id": 28867,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Orf.at",
+      "author": "ORF.at",
+      "title": "Vogelgrippe: Stallpflicht f\u00e4llt in ganz \u00d6sterreich",
+      "description": "",
+      "url": "https://orf.at/stories/3425813/",
+      "urlToImage": "https://orf.at/mojo/1_4_1/storyserver//news/common/images/og-fallback-news.png",
+      "publishedAt": "2026-04-03 07:26:50",
+      "content": "In ganz \u00d6sterreich wird morgen die Stallpflicht f\u00fcr Gefl\u00fcgel aufgehoben, nachdem sich mit dem Fr\u00fchlingsbeginn die Lage rund um die Vogelgrippe (H5N1) sp\u00fcrbar entspannt habe, teilte das B\u00fcro von Ober\u00f6\u2026 [+508 chars]",
+      "retrievedAt": "2026-04-04 19:15:31.902042",
+      "internal_id": "d987c647291da8c99cf8d6170f36943edad13602eb40489360c662d8d4ae7799",
+      "publishedAtLabel": "Apr 3"
+    },
     {
       "id": 28860,
       "query": [
@@ -21470,279 +21670,6 @@
       "content": "Several recent clusters have exposed how quickly measles can reestablish itself when population immunity falls. In northeast London, more than 60 children including cases in multiple schools and a nu\u2026 [+1860 chars]",
       "retrievedAt": "2026-02-17 07:26:29.543612",
       "internal_id": "c8fe7b10932bff2a1bcedf25cdb248a699fd2eea8562d4070714d2a4a7ff7b10",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27659,
-      "query": [
-        "dengue",
-        "chikungunya"
-      ],
-      "source_id": null,
-      "source_name": "Ig.com.br",
-      "author": "Lucca Marreiros, Lucca Marreiros",
-      "title": "Casos de dengue geram alerta em Santa Catarina",
-      "description": "Foram identificados mais de cinco mil focos do mosquito Aedes aegypti em mais de 200 cidades; veja cuidados e orienta\u00e7\u00f5es para evitar a doen\u00e7a",
-      "url": "https://ultimosegundo.ig.com.br/brasil/2026-02-15/casos-de-dengue-geram-alerta-em-santa-catarina.html",
-      "urlToImage": "https://i0.statig.com.br/bancodeimagens/br/ca/16/brca16j82khgwjyuggb8qo9d9.jpg",
-      "publishedAt": "2026-02-15 18:42:32",
-      "content": "Os casos prov\u00e1veis de chikungunya em Santa Catarina mais que dobraram entre janeiro e fevereiro de 2026 em rela\u00e7\u00e3o ao mesmo per\u00edodo do ano passado. De acordo com dados da Secretaria de Estado da Sa\u00fad\u2026 [+2889 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.937006",
-      "internal_id": "452d076fb68ab702f32c31e1405dc63a5f7ae7a06d9584e4a1cfa3d8c473ff72",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27667,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Independent.ie",
-      "author": "Sam Hall",
-      "title": "\u2018Big measles outbreak\u2019 affecting children under 10 confirmed in London",
-      "description": "A \u201cbig measles outbreak\u201d in parts of London is affecting unvaccinated children under the age of 10, the UK Health Security Agency (UKHSA) has confirmed.",
-      "url": "https://www.independent.ie/world-news/britain/big-measles-outbreak-affecting-children-under-10-confirmed-in-london/a1972459778.html",
-      "urlToImage": "https://focus.independent.ie/thumbor/6WTTVg1BhVEASdLj9aVFI8difwg=/629x460/smart/prod-mh-ireland/19ea93d4-e12b-4924-83e5-94b3ba256c9d/668fc77d-09c9-4531-8b48-3c4a342d408c/19ea93d4-e12b-4924-83e5-94b3ba256c9d.jpg",
-      "publishedAt": "2026-02-15 16:39:47",
-      "content": "The UK Health Security Agency said the outbreak in schools and nurseries had left some youngsters requiring hospital treatment A big measles outbreak in parts of London is affecting unvaccinated chi\u2026 [+3633 chars]",
-      "retrievedAt": "2026-02-17 07:26:29.625814",
-      "internal_id": "37477ed454e530e30632a607913b960a293610610bf4b4c57da8169ab7a3d303",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27655,
-      "query": [
-        "measles"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Global Desk",
-      "title": "Worst US measles outbreak in 30 years: South Carolina, Florida battle health crisis, several college campuses hit badly",
-      "description": "Largest measles outbreak in the recent past have raised fears especially college campuses.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/worst-us-measles-outbreak-in-30-years-south-carolina-florida-battles-health-crisis-several-college-campuses-hit-badly/articleshow/128387603.cms",
-      "urlToImage": "https://img.etimg.com/thumb/msid-128387603,width-1200,height-630,imgsize-5490,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-02-15 15:28:53",
-      "content": "Americans are coping with what has quickly become the largest U.S. measles outbreak in more than three decades, federal health data show. This outbreak comes during an already dire period for the dis\u2026 [+3173 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.287011",
-      "internal_id": "570c4087460bcc4934e792002c48ca51b0a13a0dfdb6797e15ad44060aaecf95",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27660,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Nacion.com",
-      "author": "Redacci\u00f3n de La Naci\u00f3n",
-      "title": "El \u2018charco-lago\u2019 de La Sabana y la amenaza del dengue",
-      "description": "La gesti\u00f3n del actual ministro de Educaci\u00f3n, la iniciativa de la Municipalidad de San Jos\u00e9 para con los adultos mayores en estado de pobreza y las razones por las que el parque La Sabana presenta riesgos para la salud y la seguridad: tres de las cartas de hoy",
-      "url": "https://www.nacion.com/opinion/cartas/el-charco-lago-de-la-sabana-y-la-amenaza-del/USRTT4KV6BAUXKH224MBLOZXLA/story/",
-      "urlToImage": "https://www.nacion.com/resizer/v2/AYVZ7FNNPRGJNLH72FV2JKDK6A.png?smart=true&auth=62763a1df66045c83ad1c6c95ea1320ab9ee75d6cb2f49986ccc73cc7f2c429a&width=1440",
-      "publishedAt": "2026-02-15 15:00:00",
-      "content": "Es preocupante el charco de La Sabana en San Jos\u00e9 (antes, lago) porque se ha convertido en foco ideal para la proliferaci\u00f3n del zancudo del dengue. Es contradictorio que Costa Rica afirme combatir se\u2026 [+3312 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.982668",
-      "internal_id": "d217e5b5708fb07602d968a6399555e31423a729b945783f4eb99e6046b35819",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27676,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "LBC",
-      "author": "Flaminia Luck",
-      "title": "UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBC",
-      "description": "UK no longer considered to have eliminated measles, global health officials announce - as outbreak sweeps London | LBClbc.co.uk",
-      "url": "https://www.lbc.co.uk/article/uk-measles-outbreak-vaccinations-london-5HjdSMs_2/",
-      "urlToImage": "https://images.globalplayer.com/images/792869?crop=16_9&width=1200&signature=C0ynjqVKE3X1zTcVSxKWrDngiVI=",
-      "publishedAt": "2026-02-15 14:05:48",
-      "content": "Global health officials announced earlier this year that the UK is no longer considered to have eliminated measles. Dozens of suspected cases have now been reported in north London, amid an outbreak \u2026 [+2725 chars]",
-      "retrievedAt": "2026-02-17 07:26:29.778972",
-      "internal_id": "aedbc14287093893d2b34cf1d0b4369fe0b27558bf69a9ed73dcd56c34d88e8e",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27674,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "The Straits Times",
-      "author": "Ng Keng Gene",
-      "title": "I\u2019m not very worried about measles spreading in Singapore, says Health Minister Ong Ye Kung",
-      "description": "Health Minister Ong Ye Kung states he is not concerned about measles spreading in Singapore due to high adult immunity, despite a rise in cases. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/singapore/not-very-worried-health-minister-ong-ye-kung-on-potential-for-measles-spread-in-singapore",
-      "urlToImage": "https://cassette.sphdigital.com.sg/image/straitstimes/0a628537266d66c580dac5f7a2dc904a232b43b4bcc5645bdfbd67fec7a76892",
-      "publishedAt": "2026-02-15 14:01:59",
-      "content": "SINGAPORE Health Minister Ong Ye Kung said on Feb 15 that he is not very worried about measles spreading in Singapore, amid the increase in cases here in 2026. This is as 99 per cent of Singapores a\u2026 [+2742 chars]",
-      "retrievedAt": "2026-02-17 07:26:29.753480",
-      "internal_id": "d66198fe9d52fcb1fce8c4b5edb9d27d273012fdc525c299ca4c0e1cf97baac2",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27656,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Overclockers.ru",
-      "author": "This_is_the_way",
-      "title": "\u0412 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u0434\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0430 \u043c\u0430\u0441\u0441\u043e\u0432\u0430\u044f \u0433\u0438\u0431\u0435\u043b\u044c \u043f\u043e\u043c\u043e\u0440\u043d\u0438\u043a\u043e\u0432 \u043e\u0442 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430 H5N1",
-      "description": "\u0418\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u0435, \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u043d\u043e\u0435 \u0432 Scientific Reports, \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u043b\u043e, \u0447\u0442\u043e \u0432\u0438\u0440\u0443\u0441 \u0441\u0442\u0430\u043b \u043f\u0440\u0438\u0447\u0438\u043d\u043e\u0439 \u0441\u043c\u0435\u0440\u0442\u0438 \u0431\u043e\u043b\u0435\u0435 50 \u043f\u043e\u043c\u043e\u0440\u043d\u0438\u043a\u043e\u0432 \u0432 \u0441\u0435\u0437\u043e\u043d\u044b 2023\u20132024 \u0433\u043e\u0434\u043e\u0432. \u041f\u043e\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0435\u0440\u0432\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0432\u044b\u0437\u044b\u0432\u0430\u043b\u043e \u0443 \u043f\u0442\u0438\u0446 \u043f\u043e\u0442\u0435\u0440\u044e \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0446\u0438\u0438, \u0441\u043a\u0440\u0443\u0447\u0438\u0432\u0430\u043d\u0438\u0435 \u0448\u0435\u0438 \u0438 \u043f\u0430\u0434\u0435\u043d\u0438\u044f \u0441 \u0432\u044b\u0441\u043e\u0442\u044b.",
-      "url": "https://overclockers.ru/blog/This_is_the_way/show/249831/V-Antarktide-podtverzhdena-massovaya-gibel-pomornikov-ot-ptich-ego-grippa-H5N1",
-      "urlToImage": "https://overclockers.ru/st/legacy/blog/442863/717203_O.png",
-      "publishedAt": "2026-02-15 13:03:08",
-      "content": "H5N1. Scientific Reports, 50 20232024 . , , . : scitechdaily.com . , 2024 , , . : scitechdaily.com H5N1 1996 . . 400 : , , . . . . 80- 800 . .",
-      "retrievedAt": "2026-02-16 19:17:20.644549",
-      "internal_id": "9d7075030b3cdbcfe877ca2a01c56c3ea8c83f3aba31ad69a6c3027ebbda4ae4",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27657,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why has H5N1 appeared in Antarctica? #science",
-      "description": "First confirmed avian\u2011flu deaths in Antarctica raise alarm Researchers have confirmed that highly pathogenic H5N1 avian influenza has killed more than 50 skuas in Antarctica \u2014 the first confirmed wildlife deaths from the virus on the continent. The finding si\u2026",
-      "url": "https://alltoc.com/science/why-has-h5n1-appeared-in-antarctica",
-      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
-      "publishedAt": "2026-02-15 12:03:04",
-      "content": "Researchers have confirmed that highly pathogenic H5N1 avian influenza has killed more than 50 skuas in Antarctica the first confirmed wildlife deaths from the virus on the continent. The finding sig\u2026 [+1479 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.668637",
-      "internal_id": "410a5da1eb35d6103fa0e28431eb3821754e34ecf8c55b1d6ef76abbff1df37d",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27652,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "'Fast-spreading' measles outbreak hits several schools in London",
-      "description": "A number of children have been hospitalised as officials urge families to check they are up to date with their vaccines.",
-      "url": "https://www.bbc.com/news/articles/cev7edxxzm7o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9864/live/b008a410-0a4a-11f1-aeec-d316ccfb6391.jpg",
-      "publishedAt": "2026-02-15 09:03:01",
-      "content": "She said: \"Measles is a nasty illness for any child, but for some it can lead to long term complications and tragically death, but is so easily preventable with two doses of the MMRV [measles, mumps,\u2026 [+30 chars]",
-      "retrievedAt": "2026-02-16 19:17:19.752235",
-      "internal_id": "d2f5ea29bfa85bfd138551c4c0e4ecfeee8a44a86e51a06b7205949a77b525d1",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27668,
-      "query": [
-        "measles"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Maia Davies",
-      "title": "North London measles outbreak hits several schools with at least 34 children infected",
-      "description": "A number of children have been hospitalised as officials urge families to check they are up to date with their vaccines.",
-      "url": "https://www.bbc.co.uk/news/articles/cev7edxxzm7o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9864/live/b008a410-0a4a-11f1-aeec-d316ccfb6391.jpg",
-      "publishedAt": "2026-02-15 09:03:01",
-      "content": "Dr Vanessa Saliba from the UKHSA said the \"big\" outbreak was \"mostly affecting unvaccinated children under 10 in schools and nurseries\". She said: \"Measles is a nasty illness for any child, but for \u2026 [+598 chars]",
-      "retrievedAt": "2026-02-17 07:26:29.650237",
-      "internal_id": "4a35f1265908581be2258d2c3400450214c010b5c05e264b16e0490d81c37496",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27653,
-      "query": [
-        "measles",
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": null,
-      "title": "What are the symptoms of measles - and what should you do if you think your child is infected?",
-      "description": "Measles is a highly infectious disease that can lead to complications including pneumonia, meningitis and - in rare cases - death. It is easily prevented with two jabs. But cases have surged as vaccine rates have fallen, prompting a warning to parents to make\u2026",
-      "url": "https://news.sky.com/story/what-are-the-symptoms-of-measles-and-what-should-you-do-if-you-think-your-child-is-infected-12872953",
-      "urlToImage": "https://e3.365dm.com/23/11/1600x900/skynews-measles-stock_6367226.jpg?20250226202650",
-      "publishedAt": "2026-02-15 09:00:00",
-      "content": "A \"fast-spreading\" measles outbreak in north London has left more than 60 children infected - and about a dozen needing hospital treatment. The Sunday Times reported60 suspected cases in Enfield, w\u2026 [+6134 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.119442",
-      "internal_id": "47d209b6e77fb805da5bb122545e678563f7851a66b75d5042c605b0af5b3979",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27662,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Thairath.co.th",
-      "author": "Thairath",
-      "title": "\"\u0e23\u0e32\u0e0a\u0e17\u0e31\u0e13\u0e11\u0e4c\" \u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e1e\u0e1a\u0e1b\u0e48\u0e27\u0e22\u0e40\u0e1e\u0e34\u0e48\u0e21 \u0e2b\u0e25\u0e31\u0e07\u0e21\u0e35\u0e1c\u0e39\u0e49\u0e15\u0e49\u0e2d\u0e07\u0e02\u0e31\u0e07\u0e15\u0e34\u0e14\u0e40\u0e0a\u0e37\u0e49\u0e2d \"\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07\" \u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15",
-      "description": "\"\u0e01\u0e23\u0e21\u0e23\u0e32\u0e0a\u0e17\u0e31\u0e13\u0e11\u0e4c\" \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e21\u0e35\u0e1c\u0e39\u0e49\u0e15\u0e49\u0e2d\u0e07\u0e02\u0e31\u0e07\u0e15\u0e34\u0e14\u0e40\u0e0a\u0e37\u0e49\u0e2d \"\u0e1d\u0e35\u0e14\u0e32\u0e29\u0e25\u0e34\u0e07\" \u0e2b\u0e25\u0e31\u0e07\u0e21\u0e35\u0e1c\u0e39\u0e49\u0e15\u0e49\u0e2d\u0e07\u0e02\u0e31\u0e07\u0e40\u0e2a\u0e35\u0e22\u0e0a\u0e35\u0e27\u0e34\u0e15 \u0e1e\u0e23\u0e49\u0e2d\u0e21\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e19\u0e33\u0e27\u0e31\u0e04\u0e0b\u0e35\u0e19\u0e40\u0e02\u0e49\u0e32\u0e21\u0e32\u0e09\u0e35\u0e14\u0e43\u0e2b\u0e49\u0e01\u0e25\u0e38\u0e48\u0e21\u0e40\u0e2a\u0e35\u0e48\u0e22\u0e07",
-      "url": "https://www.thairath.co.th/news/local/2914377",
-      "urlToImage": "https://static.thairath.co.th/media/dFQROr7oWzulq5Fa7HMV67YmILtFlcEQQCPgpCXaxKQe6kYpKn2TkGSQaQRYxImQ4NF.jpg",
-      "publishedAt": "2026-02-15 08:15:46",
-      "content": "\"\" \"\" 15 .. 2569 13 .. 13 .. 2569 21 16 .. 2569 (MPox) .",
-      "retrievedAt": "2026-02-16 19:17:21.974506",
-      "internal_id": "8601d64a25489f665b5f45ebcaad4d6864cdd4ae0d59e760f5ad7e809fc0624b",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27654,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "What's driving recent measles outbreaks? #health",
-      "description": "How the outbreaks began and where they're spreading A string of measles clusters has emerged in recent weeks in multiple countries and settings, driven largely by gaps in childhood measles\u2011mumps\u2011rubella (MMR) vaccination coverage. Local health authorities rep\u2026",
-      "url": "https://alltoc.com/health/what-s-driving-recent-measles-outbreaks",
-      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
-      "publishedAt": "2026-02-15 08:07:25",
-      "content": "A string of measles clusters has emerged in recent weeks in multiple countries and settings, driven largely by gaps in childhood measlesmumpsrubella (MMR) vaccination coverage. Local health authoriti\u2026 [+1707 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.219945",
-      "internal_id": "0486ffb11339b36904640b886888098678f78b0dce95c833bafc9563fe6ea09f",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27658,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "What does H5N1 in Antarctica mean for wildlife? #science",
-      "description": "A new front in a global avian influenza outbreak Scientists confirmed highly pathogenic avian influenza H5N1 after a mass die\u2011off of seabirds on the Antarctic Peninsula, where more than 50 skuas were found dead. This marks the first confirmed wildlife fatalit\u2026",
-      "url": "https://alltoc.com/science/what-does-h5n1-in-antarctica-mean-for-wildlife",
-      "urlToImage": "https://alltoc.com/cdn/1045/og.png",
-      "publishedAt": "2026-02-15 08:03:38",
-      "content": "A new front in a global avian influenza outbreak Scientists confirmed highly pathogenic avian influenza H5N1 after a mass dieoff of seabirds on the Antarctic Peninsula, where more than 50 skuas were\u2026 [+1711 chars]",
-      "retrievedAt": "2026-02-16 19:17:20.681226",
-      "internal_id": "38a496f4f87853f23d11fd3b4e14d28247d266cd96ea5640cd94d39ae185b3a0",
-      "publishedAtLabel": "Feb 15"
-    },
-    {
-      "id": 27661,
-      "query": [
-        "meningitis",
-        "leptospirosis"
-      ],
-      "source_id": null,
-      "source_name": "Lifesciencesworld.com",
-      "author": "Noah Whitman",
-      "title": "What are the symptoms of Leptospirosis in humans?",
-      "description": "What Are the Symptoms of Leptospirosis in Humans? The symptoms of Leptospirosis in humans are highly variable, ranging from mild, flu-like illness to severe, life-threatening complications, including kidney failure, liver damage, and meningitis. Understanding\u2026",
-      "url": "https://www.lifesciencesworld.com/what-are-the-symptoms-of-leptospirosis-in-humans/",
-      "urlToImage": null,
-      "publishedAt": "2026-02-15 07:36:42",
-      "content": "The symptoms of Leptospirosis in humans are highly variable, ranging from mild, flu-like illness to severe, life-threatening complications, including kidney failure, liver damage, and meningitis. Und\u2026 [+9296 chars]",
-      "retrievedAt": "2026-02-16 19:17:21.149512",
-      "internal_id": "48cd5c8db557066fa51e535905aa86789308076e039ed401f62d24593643a4d0",
       "publishedAtLabel": "Feb 15"
     }
   ]
