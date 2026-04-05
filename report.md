@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-04-04 19:15
-- **Most recent article:** 2026-04-03 18:04:20
+- **New articles in last harvest:** 2
+- **Last harvest:** 2026-04-05 07:30
+- **Most recent article:** 2026-04-04 04:30:00
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-8 | 26-9 | Total |
-|--|-|-|-|-|-|-|-|-|
-| measles | 70 | 30 | 20 | 21 | 21 | 99 | 83 | 344 |
-| meningitis | 4 | 6 | 175 | 75 | 17 | 1 | 5 | 283 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 14 | 15 | 127 |
-| mpox | 10 | 16 | 12 | 4 | 17 | 23 | 27 | 109 |
-| rabies | 18 | 16 | 7 | 5 | 24 | 16 | 14 | 100 |
-| malaria | 16 | 9 | 20 | 14 | 9 | 10 | 11 | 89 |
-| chikungunya | 1 | 7 | 7 | 8 | 11 | 39 | 6 | 79 |
-| h5n1 | 2 | 8 | 7 | 4 | 7 | 8 | 4 | 40 |
-| zika | 1 | 2 | 4 | 1 | 15 | 3 | 2 | 28 |
-| hpai | 2 | 5 | 2 | 6 | 2 | 1 | 2 | 20 |
-| leptospirosis | 2 | 1 | 3 | 1 | 0 | 3 | 3 | 13 |
-| typhoid | 3 | 0 | 0 | 1 | 1 | 2 | 2 | 9 |
-| yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 1 | 6 |
-| pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-9 | Total |
+|--|-|-|-|-|-|-|-|
+| meningitis | 4 | 6 | 175 | 75 | 18 | 5 | 283 |
+| measles | 70 | 30 | 20 | 21 | 22 | 78 | 241 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 14 | 112 |
+| mpox | 10 | 16 | 12 | 4 | 17 | 27 | 86 |
+| rabies | 18 | 16 | 7 | 5 | 24 | 13 | 83 |
+| malaria | 16 | 9 | 20 | 14 | 9 | 11 | 79 |
+| chikungunya | 1 | 7 | 7 | 8 | 11 | 6 | 40 |
+| h5n1 | 2 | 8 | 7 | 4 | 7 | 4 | 32 |
+| zika | 1 | 2 | 4 | 1 | 15 | 2 | 25 |
+| hpai | 2 | 5 | 2 | 6 | 2 | 2 | 19 |
+| leptospirosis | 2 | 1 | 3 | 1 | 0 | 1 | 8 |
+| typhoid | 3 | 0 | 0 | 1 | 1 | 2 | 7 |
+| yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 5 |
+| pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 4 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -80,8 +80,6 @@ Source: [News API](https://newsapi.org/)
 - [What kind of shots do ferrets need?](https://www.lifesciencesworld.com/what-kind-of-shots-do-ferrets-need/) (Lifesciencesworld.com)
 
 - [How does a rabid groundhog act?](https://www.lifesciencesworld.com/how-does-a-rabid-groundhog-act/) (Lifesciencesworld.com)
-
-- [What to do if a possum bites your dog?](https://www.lifesciencesworld.com/what-to-do-if-a-possum-bites-your-dog/) (Lifesciencesworld.com)
 
 ## 26-9 (mpox)
 
@@ -309,16 +307,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are U.S. measles cases nearing 1,000? #health](https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000) (Alltoc.com)
 
-- [Why are US measles cases surging? #health](https://alltoc.com/health/why-are-us-measles-cases-surging) (Alltoc.com)
-
-- [Why are U.S. measles cases spiking? #health](https://alltoc.com/health/why-are-u-s-measles-cases-spiking) (Alltoc.com)
-
-- [How is the north London measles outbreak spreading? #health](https://alltoc.com/health/how-is-the-north-london-measles-outbreak-spreading) (Alltoc.com)
-
-- [How Birmingham is getting ahead of measles by encouraging vaccine uptake](https://www.bbc.co.uk/news/articles/cj98319yzlgo) (BBC News)
-
-- [13,000 calls in three months: How one city is keeping ahead of measles](https://www.bbc.com/news/articles/cj98319yzlgo) (BBC News)
-
 ## 26-9 (malaria)
 
 - [Científicos descubren el origen de la preferencia de los mosquitos por la sangre humana](https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html) (Okdiario.com)
@@ -346,10 +334,6 @@ Source: [News API](https://newsapi.org/)
 ## 26-9 (leptospirosis)
 
 - [Rethinking Leptospirosis Prevention, the Philippines](https://wwwnc.cdc.gov/eid/article/32/3/25-1250_article) (Cdc.gov)
-
-- [Teen dies from suspected Leptospirosis as Health Ministry urges caution](https://www.fijivillage.com/news/teen-dies-from-suspected-leptospirosis-as-health-ministry-urges-caution-8a379e/) (Fijivillage)
-
-- [Health Ministry issues warning after teen dies of suspected leptospirosis | Fiji Sun](https://fijisun.com.fj/living/health/health-ministry-issues-warning-after-teen-dies-of-suspected-leptospirosis) (Fiji Sun Online)
 
 ## 26-9 (hpai)
 
@@ -397,8 +381,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Over 7,000 people affected by dengue in Sudurpaschim over three years](https://english.khabarhub.com/2026/22/536219/) (Khabarhub.com)
 
-- [Un antiviral chez les moustiques favorise la dengue](https://www.techno-science.net/actualite/antiviral-chez-moustiques-favorise-dengue-N28316.html) (Techno-science.net)
-
 ## 26-9 (chikungunya)
 
 - [Aumentam casos de "chikungunya" em viajantes](https://observador.pt/2026/02/27/aumentam-casos-de-chikungunya-em-viajantes-mas-risco-na-europa-e-baixo/) (Observador.pt)
@@ -412,472 +394,6 @@ Source: [News API](https://newsapi.org/)
 - [Chikungunya, dengue, Zika : ces virus tropicaux pourraient s’implanter chez nous dans les prochaines décennies](https://www.rtbf.be/article/chikungunya-dengue-zika-ces-virus-tropicaux-pourraient-s-implanter-chez-nous-dans-les-prochaines-decennies-11682267) (RTBF)
 
 - [Resurgent threat in a changing climate: A 20-year bibliometric analysis of global Chikungunya research evolution and pandemic preparedness](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013959) (Plos.org)
-
-## 26-8 (zika)
-
-- [株式会社東邦に豊中市が感謝状を贈呈 豊中つばさ公園『ma-zika』整備に貢献](https://prtimes.jp/main/html/rd/p/000000959.000078420.html) (Prtimes.jp)
-
-- [株式会社グルーヴに豊中市が感謝状を贈呈 豊中つばさ公園『ma-zika』整備に貢献](https://prtimes.jp/main/html/rd/p/000000958.000078420.html) (Prtimes.jp)
-
-- [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
-
-## 26-8 (yersinia)
-
-- [Yersinia : une enquête pour identifier l’origine de la contamination](https://agriculture.gouv.fr/yersinia-une-enquete-pour-identifier-lorigine-de-la-contamination) (Gouv.fr)
-
-## 26-8 (typhoid)
-
-- [Statistical methods for predicting the presence of Salmonella Typhi in wastewater samples at Asante Akyem Agogo, Ghana](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013973) (Plos.org)
-
-- [The privileged life and tragic death of an 11-year-old Tipperary girl](https://www.irishtimes.com/life-style/people/2026/02/16/the-privileged-life-and-tragic-death-of-an-11-year-old-tipperary-girl/) (The Irish Times)
-
-## 26-8 (rabies)
-
-- [Kano releases N99m for dog rabies vaccination](https://punchng.com/kano-releases-n99m-for-dog-rabies-vaccination/) (The Punch)
-
-- [Pet vaccine hesitancy rare in area, but not unknown to some local veterinarians](https://www.thesunchronicle.com/news/local_news/pet-vaccine-hesitancy-rare-in-area-but-not-unknown-to-some-local-veterinarians/article_2562bf75-3621-4245-84f6-5e96b172cf3d.html) (The Sun Chronicle)
-
-- [Who was the girl who lived through rabies?](https://www.lifesciencesworld.com/who-was-the-girl-who-lived-through-rabies/) (Lifesciencesworld.com)
-
-- [Why does rabies make racoons aggressive?](https://www.lifesciencesworld.com/why-does-rabies-make-racoons-aggressive/) (Lifesciencesworld.com)
-
-- [What vaccine should all ferrets receive?](https://www.lifesciencesworld.com/what-vaccine-should-all-ferrets-receive/) (Lifesciencesworld.com)
-
-- [Are Marshall ferrets vaccinated?](https://www.lifesciencesworld.com/are-marshall-ferrets-vaccinated/) (Lifesciencesworld.com)
-
-- [Lincoln County confirms 1st rabies case of 2026](https://www.wsoctv.com/news/local/lincoln-county-confirms-1st-rabies-case-2026-raccoon/L2VL76IOSNGJPBANCPK3URGBVI/) (WSOC Charlotte)
-
-- [Rabies, host population structure, and cross-species transmission to the migratory bat Tadarida brasiliensis in Chile](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013964) (Plos.org)
-
-- [Why can’t rabies be cured?](https://www.lifesciencesworld.com/why-cant-rabies-be-cured/) (Lifesciencesworld.com)
-
-- [What are the odds of a bat having rabies?](https://www.lifesciencesworld.com/what-are-the-odds-of-a-bat-having-rabies/) (Lifesciencesworld.com)
-
-- [Stream It Or Skip It: ‘Primate’ on VOD, a Bare-Bananas Basic Chimp-Attack Horror Flick](https://decider.com/2026/02/18/primate-movie-stream-it-or-skip-it/) (Decider)
-
-- [Rabid skunk found in Arvada; health officials urge caution during warm winter](https://www.denverpost.com/2026/02/18/rabies-arvada-colorado-jefferson-county/) (The Denver Post)
-
-- [Why do animals act crazy when they have rabies?](https://www.lifesciencesworld.com/why-do-animals-act-crazy-when-they-have-rabies/) (Lifesciencesworld.com)
-
-- [Are bats in the house a risk for rabies?](https://www.lifesciencesworld.com/are-bats-in-the-house-a-risk-for-rabies/) (Lifesciencesworld.com)
-
-- [Watch: Viral video of stray dog attacking woman has everyone talking](https://timesofindia.indiatimes.com/etimes/trending/watch-viral-video-of-stray-dog-attacking-woman-has-everyone-talking/articleshow/128489379.cms) (The Times of India)
-
-- [Why does rabies cause foaming at the mouth?](https://www.lifesciencesworld.com/why-does-rabies-cause-foaming-at-the-mouth/) (Lifesciencesworld.com)
-
-## 26-8 (mpox)
-
-- [Mpox: Ministério da Saúde confirma 55 casos da doença no Brasil](https://www.metropoles.com/saude/mpox-casos-doenca-brasil) (Metropoles.com)
-
-- [Nova pandemia? Mpox volta ao radar e especialistas reforçam prevenção](https://www.metropoles.com/colunas/claudia-meireles/nova-pandemia-mpox) (Metropoles.com)
-
-- [Erstmals Mpox-Fälle der Klade Ib in Österreich](https://orf.at/stories/3420849/) (Orf.at)
-
-- [OMS identifica nova variante da mpox em dois países](https://olhardigital.com.br/2026/02/20/medicina-e-saude/oms-identifica-nova-variante-da-mpox-em-dois-paises/) (Olhardigital.com.br)
-
-- [O que é Mpox? Doença tem 4 casos confirmados no Brasil em 2026](https://saude.ig.com.br/2026-02-20/o-que-e-mpox--doenca-tem-4-casos-confirmados-no-brasil-em-2026.html) (Ig.com.br)
-
-- [O que a Mpox faz na pele? Entenda consequências da doença viral](https://olhardigital.com.br/2026/02/20/medicina-e-saude/o-que-a-mpox-faz-na-pele-entenda-consequencias-da-doenca-viral/) (Olhardigital.com.br)
-
-- [Mpox in people living with and without HIV, including people on PrEP, during a multistate outbreak in Spain in 2022](https://www.nature.com/articles/s41598-026-37209-3) (Nature.com)
-
-- [Brasil tem 47 casos de Mpox confirmados em 2026; veja números por estado](https://valor.globo.com/brasil/noticia/2026/02/19/brasil-tem-47-casos-de-mpox-confirmados-em-2026-veja-numeros-por-estado.ghtml) (Globo)
-
-- [Mpox: OMS confirma circulação de nova variante do vírus](https://veja.abril.com.br/saude/mpox-oms-confirma-circulacao-de-nova-variante-do-virus/) (Abril.com.br)
-
-- [Mpox: por que ela voltou?](https://veja.abril.com.br/coluna/letra-de-medico/mpox-por-que-ela-voltou/) (Abril.com.br)
-
-- [พบ 2 อสม.คุก ใกล้ชิด มีเชื้อ "ฝีดาษลิง" ทั้งคู่ ราชทัณฑ์สั่งคุมเข้ม จัดวัคซีนฉีดป้องกัน](https://www.thairath.co.th/news/local/2915093) (Thairath.co.th)
-
-- [Mpox: entenda infecção com novo caso registrado no Brasil e quais os riscos após carnaval](https://veja.abril.com.br/saude/mpox-entenda-infeccao-com-novo-caso-registrado-no-brasil-e-quais-os-riscos-apos-carnaval/) (Abril.com.br)
-
-- [Bavarian Nordic Receives USD 22.5 Million Contract for its Mpox and Smallpox Vaccine from the Government of Canada](https://www.globenewswire.com/news-release/2026/02/18/3239931/0/en/Bavarian-Nordic-Receives-USD-22-5-Million-Contract-for-its-Mpox-and-Smallpox-Vaccine-from-the-Government-of-Canada.html) (GlobeNewswire)
-
-- [Bavarian Nordic modtager ordre på USD 22,5 mio. på levering af mpox- og koppevacciner til den canadiske regering](https://www.globenewswire.com/news-release/2026/02/18/3239931/0/da/Bavarian-Nordic-modtager-ordre-p%C3%A5-USD-22-5-mio-p%C3%A5-levering-af-mpox-og-koppevacciner-til-den-canadiske-regering.html) (GlobeNewswire)
-
-- [サイクロン「ゲザニ」、マダガスカル上陸 2週間で2度目の気候災害、多くの子どもに被害 ユニセフ、840万米ドルの緊急支援を要請 【プレスリリース】](https://prtimes.jp/main/html/rd/p/000002655.000005176.html) (Prtimes.jp)
-
-- [Porto Alegre confirma caso de Mpox e prefeitura faz alerta para Carnaval](https://veja.abril.com.br/saude/porto-alegre-confirma-caso-de-mpox-e-prefeitura-faz-alerta-para-carnaval/) (Abril.com.br)
-
-- [Acá cerca: confirman un caso de viruela símica en Rio Grande do Sul](https://www.montevideo.com.uy/Archivo/Aca-cerca-confirman-un-caso-de-viruela-simica-en-Rio-Grande-do-Sul-uc953343) (Montevideo.com.uy)
-
-- [OMS confirma surgimento de nova variante de mpox e pede vigilância](https://www.metropoles.com/saude/oms-nova-variante-de-mpox) (Metropoles.com)
-
-- [Caso de Mpox é confirmado em Porto Alegre em 2026](https://valor.globo.com/brasil/noticia/2026/02/17/caso-de-mpox-e-confirmado-em-porto-alegre-em-2026.ghtml) (Globo)
-
-- [Porto Alegre confirma primeiro caso de mpox. Veja sintomas e cuidados](https://www.metropoles.com/brasil/porto-alegre-confirma-primeiro-caso-de-mpox-veja-sintomas-e-cuidados) (Metropoles.com)
-
-- [Porto Alegre (RS) confirma primeiro caso de Mpox em 2026](https://ultimosegundo.ig.com.br/brasil/2026-02-17/porto-alegre-confirma-caso-de-mpox.html) (Ig.com.br)
-
-- [La OMS advierte a nivel mundial de la reaparición de una enfermedad muy temida en el pasado: "Puede haber más casos de los que se notifican actualmente"](https://www.eleconomista.es/salud-bienestar/enfermedades/noticias/13779716/02/26/la-oms-advierte-a-nivel-mundial-de-la-reaparicion-de-una-enfermedad-muy-temida-en-el-pasado-puede-haber-mas-casos-de-los-que-se-notifican-actualmente.html) (Eleconomista.es)
-
-- [La OMS asegura que el riesgo de mpox se mantiene pese a nueva cepa recombinante](https://www.infosalus.com/salud-investigacion/noticia-oms-asegura-riesgo-mpox-mantiene-pese-nueva-cepa-recombinante-20260216151802.html) (Infosalus.com)
-
-## 26-8 (meningitis)
-
-- [The Mindset That Took Her From 2% Survival Odds to the Paralympics | Amy Purdy](https://lewishowes.com/podcast/the-mindset-that-took-her-from-2-survival-odds-to-the-paralympics-amy-purdy/) (Lewishowes.com)
-
-## 26-8 (measles)
-
-- [Measles Cases This Year Near 1,000. That We Know Of.](https://www.motherjones.com/politics/2026/02/measles-cases-vaccines-rfk-south-carolina/) (Mother Jones)
-
-- [Measles exposure reported at Nemours Childrens Hospital in Del. NBC10 Philadelphia](https://www.nbcphiladelphia.com/news/local/measles-exposure-at-nemours-childrens-hospital-emergency-room-delaware/4356297/) (NBC 10 Philadelphia)
-
-- [Why are measles outbreaks increasing now? #health](https://alltoc.com/health/why-are-measles-outbreaks-increasing-now) (Alltoc.com)
-
-- [Measles case confirmed in a person who visited a Montgomery County car dealership and a Wawa](https://www.inquirer.com/health/measles-montgomery-county-car-dealership-20260221.html) (The Philadelphia Inquirer)
-
-- [Health officials warn of possible measles exposure in Bethesda](https://www.wmar2news.com/news/state/health-officials-warn-of-possible-measles-exposure-in-bethesda) (WMAR ABC2News Baltimore)
-
-- [America's vaccine wars are shaking Australia, driven by 'sticky' myth](https://www.abc.net.au/news/2026-02-22/australia-vaccine-hesitancy-fight-restore-confidence/106353012) (ABC News (AU))
-
-- [Why are measles cases spiking in 2026? #health](https://alltoc.com/health/why-are-measles-cases-spiking-in-2026) (Alltoc.com)
-
-- [Health officials urge vaccination as measles detected in wastewater of 6 Oregon counties - NewsBreak](https://www.newsbreak.com/share/4502622163078-health-officials-urge-vaccination-as-measles-detected-in-wastewater-of-6-oregon-counties?s=a2&amp;share_destination_id=MzM4MjQ0NzE5LTE3NzE2ODg2Mzc1Mjk%3D&amp;pd=0MtEtzMS&amp;hl=en_US&amp;send_time=1771688637&amp;actBtn=bottomBar&amp;_f=app_share&amp;trans_data=%7B%22platform%22%3A1%2C%22cv%22%3A%2226.6.1%22%2C%22languages%22%3A%22en%22%7D) (Newsbreak.com)
-
-- [Port: When politics trump a child's health](https://www.inforum.com/opinion/columns/port-when-politics-trump-a-childs-health) (INFORUM)
-
-- [Mother Of Measles Victim: ‘I Still Wouldn’t Have Given My Son The Vaccine’](https://crooksandliars.com/2026/02/mother-measles-victim-laments-i-still) (Crooksandliars.com)
-
-- [U.S. closes in on 1,000 measles cases in first two months of 2026](https://www.nbcnews.com/health/health-news/us-closes-1000-measles-cases-first-two-months-2026-rcna259998) (NBC News)
-
-- [Why are measles outbreaks spreading in London? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-london) (Alltoc.com)
-
-- [Measles alert issued for Sydney Airport, two flights](https://www.9news.com.au/national/measles-alert-sydney-airport-nsw/d71b2ba8-120f-481a-b55a-be109cbdbf4f) (9News)
-
-- [Why are measles outbreaks surging? #health](https://alltoc.com/health/why-are-measles-outbreaks-surging) (Alltoc.com)
-
-- [Measles outbreak linked to unvaccinated children in Washington state](https://www.khq.com/news/measles-outbreak-linked-to-unvaccinated-children-in-washington-state/article_bdb3b874-378b-4ca0-bd0f-1d4cf3b3094d.html) (KHQ Right Now)
-
-- [Measles exposure reported at Nemours Children's Hospital emergency department](https://6abc.com/post/measles-exposure-reported-nemours-childrens-hospital-emergency-department/18626690/) (WPVI-TV)
-
-- [Measles tally in Lancaster County grows; outbreak now includes Chester County case](https://lancasteronline.com/news/health/measles-tally-in-lancaster-county-grows-outbreak-now-includes-chester-county-case/article_75775b45-f602-4f2b-a35d-d7843d49905d.html) (LancasterOnline)
-
-- [First case of measles confirmed in Lee Health system amid Collier County outbreak](https://www.gulfcoastnewsnow.com/article/first-measles-case-lee-health-outbreak/70433535) (Gulfcoastnewsnow.com)
-
-- [Spartanburg measles outbreak: How did we get here?](https://www.npr.org/2026/02/20/nx-s1-5718384/spartanburg-measles-outbreak-how-did-we-get-here) (NPR)
-
-- [Manitoba has already seen more measles cases in February than any other months since outbreak began](https://www.cbc.ca/news/canada/manitoba/measles-february-highest-case-count-9.7099759) (CBC News)
-
-- [South Carolina Hospitals Aren't Required to Disclose Measles-Related Admissions. That Leaves Doctors in the Dark. (Jennifer Berry Hawes/ProPublica)](https://www.memeorandum.com/260220/p89) (Memeorandum.com)
-
-- [South Carolina Hospitals Aren’t Required to Disclose Measles-Related Admissions. That Leaves Doctors in the Dark.](https://www.propublica.org/article/south-carolina-measles-hospital-admissions) (ProPublica)
-
-- [Indefinite measles exposure advisory issued for Parkland County](https://www.cbc.ca/news/canada/edmonton/parkland-county-alta-measles-advisory-9.7099406) (CBC News)
-
-- [The Measles Surge Is Just the Beginning](https://time.com/7380102/rfk-jr-vaccine-schedule-measles-rsv/) (Time)
-
-- [Why is measles spreading in London? #health](https://alltoc.com/health/why-is-measles-spreading-in-london) (Alltoc.com)
-
-- [Bill to eliminate childhood vaccine mandates killed in NH House](https://www.wmur.com/article/new-hampshire-house-bill-vaccine-mandates/70435160) (WMUR Manchester)
-
-- [US nears 1,000 measles cases with infections confirmed in 26 states, CDC data shows](https://abcnews.com/Health/us-nears-1000-measles-cases-infections-confirmed-26/story?id=130332831) (Abcnews.com)
-
-- [Student Infected With Measles in Major University Outbreak Speaks Out](https://www.today.com/health/news/college-student-measles-ave-maria-university-outbreak-rcna259890) (TODAY)
-
-- [The Download: Microsoft’s online reality check, and the worrying rise in measles cases](https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/) (MIT Technology Review)
-
-- [Measles cases surge in Salt Lake County: 'Stay home'](https://www.sltrib.com/news/health/2026/02/20/measles-cases-surge-salt-lake/) (Salt Lake Tribune)
-
-- [I’m Vaccinated Against Measles. How Can I Check if I’m Still Fully Immune?](https://www.kqed.org/news/12073722/2026-measles-cases-mmr-vaccine-how-to-get-titer-test-immunity-antibodies-extra-dose) (KQED)
-
-- [The measles symptoms to look out for as cases rise across UK](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-outbreak-vaccine-rash-uk-b2924262.html) (The-independent.com)
-
-- [Measles cases are rising. Other vaccine-preventable infections could be next.](https://www.technologyreview.com/2026/02/20/1133365/measles-cases-rising-vaccine-preventable-infections-mumps-hepatitis-b/) (MIT Technology Review)
-
-- [How serious is the measles resurgence? #health](https://alltoc.com/health/how-serious-is-the-measles-resurgence) (Alltoc.com)
-
-- [Why are measles outbreaks rising in London? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising-in-london) (Alltoc.com)
-
-- [Some older adults may lack measles protection despite vaccination, officials warn](https://www.wyff4.com/article/mmr-vaccine-recommended-in-older-adults-measles/70422013) (WYFF4 Greenville)
-
-- [Why is measles surging in London? #health](https://alltoc.com/health/why-is-measles-surging-in-london) (Alltoc.com)
-
-- [Seventh measles case reported in North Dakota, 2 hospitalized](https://www.inforum.com/health/seventh-measles-case-reported-in-north-dakota-two-hospitalized) (INFORUM)
-
-- [Measles found in Oregon wastewater suggests wider spread than confirmed cases show](https://www.oregonlive.com/health/2026/02/measles-found-in-oregon-wastewater-suggests-wider-spread-than-confirmed-cases-show.html) (OregonLive)
-
-- [More measles cases in London amid outbreak](https://www.bbc.com/news/articles/c1l7m3renv7o) (BBC News)
-
-- [Health Ministry: Measles patient traveled on bus from Beitar Illit to Emmanuel](https://www.israelnationalnews.com/flashes/676651) (Israelnationalnews.com)
-
-- [What's driving measles outbreaks in London? #health](https://alltoc.com/health/what-s-driving-measles-outbreaks-in-london) (Alltoc.com)
-
-- [Measles cases continue to rise in England - and this is where outbreak could spread next](https://news.sky.com/story/measles-cases-continue-to-rise-in-england-and-this-is-where-outbreak-could-spread-next-13509662) (Sky.com)
-
-- [What is measles? The six subtle symptoms to look out for in children](https://www.the-independent.com/life-style/health-and-families/measles-symptoms-outbreak-vaccine-london-b2923774.html) (The-independent.com)
-
-- [Parents urged to ensure children are up to date on vaccinations as measles cases grow](https://www.wsbradio.com/news/local/parents-urged-ensure-children-are-up-date-vaccinations-measles-cases-grow/ITZLPNZCBZEQ5F7NIJPVR4CNNM/) (WSB Radio)
-
-- [Major MMR Death Signal Exposed, COVID Shot Excess Deaths Confirmed — And the Bill That Could End 40 Years of Vaccine Immunity](https://www.globalresearch.ca/major-mmr-death-signal-exposed-covid-shot-excess-deaths-confirmed-bill-end-40-years-vaccine-immunity/5916432) (Globalresearch.ca)
-
-- [What is driving the north London measles outbreak? #health](https://alltoc.com/health/what-is-driving-the-north-london-measles-outbreak) (Alltoc.com)
-
-- [Ideas: This Is How a Child Dies of Measles](https://www.sueddeutsche.de/projekte/artikel/gesundheit/this-is-how-a-child-dies-of-measles-e673105/) (Süddeutsche Zeitung)
-
-- [Why is measles surging in north London? #health](https://alltoc.com/health/why-is-measles-surging-in-north-london) (Alltoc.com)
-
-- [Why are measles outbreaks rising now? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising-now) (Alltoc.com)
-
-- [Health officials confirm second measles case in Metro East](https://www.stlpr.org/health-science-environment/2026-02-18/illinois-health-officials-confirm-second-measles-case-in-metro-east-release-exposure-locations) (Stlpr.org)
-
-- [Manitobans may have been exposed to measles at Neepawa medical clinic, public health officials warn](https://www.cbc.ca/news/canada/manitoba/neepawa-measles-exposure-9.7096528) (CBC News)
-
-- [Why are measles outbreaks rising? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising) (Alltoc.com)
-
-- [What does the north London measles outbreak mean? #health](https://alltoc.com/health/what-does-the-north-london-measles-outbreak-mean) (Alltoc.com)
-
-- [Annie Andrews: There Is Only One Way to Stop the Spread of Measles](https://dianeravitch.net/2026/02/18/annie-andrews-there-is-only-one-way-to-stop-the-spread-of-measles/) (Dianeravitch.net)
-
-- [Ichilov Hospital security guard diagnosed with measles](https://www.israelnationalnews.com/flashes/676548) (Israelnationalnews.com)
-
-- [BREAKING STUDY: MMR and MMRV Vaccines Linked to 2,657% More U.S. Deaths Than Measles Infection Since 1995](https://www.globalresearch.ca/mmr-mmrv-vaccines-more-us-deaths-measles-infection/5916326) (Globalresearch.ca)
-
-- [Why are measles outbreaks growing now? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing-now) (Alltoc.com)
-
-- [Enugu vaccinates over 2.1m children against measles-rubella -WHO](https://punchng.com/enugu-vaccinates-over-2-1m-children-against-measles-rubella-who/) (The Punch)
-
-- [Explosive global measles outbreaks pose risk to Canadian travellers, health officials warn](https://www.cbc.ca/news/health/measles-global-travel-risks-9.7093765) (CBC News)
-
-- [Passenger on El Al flight from NYC to Tel Aviv infected with measles, health ministry says](https://www.haaretz.com/us-news/2026-02-18/ty-article/.premium/passenger-on-el-al-flight-from-nyc-to-tel-aviv-infected-with-measles-health-ministry-says/0000019c-6fc4-d631-a3de-7fcca6030000) (Haaretz)
-
-- [What caused the north London measles outbreak? #health](https://alltoc.com/health/what-caused-the-north-london-measles-outbreak) (Alltoc.com)
-
-- [SC State Senator Proposes Bill To Remove Religious Exemptions For Vaccines In Public School Children](https://www.techdirt.com/2026/02/17/sc-state-senator-proposes-bill-to-remove-religious-exemptions-for-vaccines-in-public-school-children/) (Techdirt)
-
-- [Illinois reports first measles case of 2026](https://chicago.suntimes.com/health/2026/02/17/illinois-reports-first-measles-case-of-2026) (Suntimes.com)
-
-- [UCSF Fresno offering 2-year Infectious Disease Fellowship as flu and measles cases rise](https://abc30.com/post/ucsf-fresno-offering-2-year-infectious-disease-fellowship-flu-measles-cases-rise/18613743/) (KFSN-TV)
-
-- [Why are measles outbreaks rising in London and the US? #health](https://alltoc.com/health/why-are-measles-outbreaks-rising-in-london-and-the-us) (Alltoc.com)
-
-- [No deaths reported from measles vaccine – UBTH](https://punchng.com/no-deaths-reported-from-measles-vaccine-ubth/) (The Punch)
-
-- [Measles Outbreak Strikes Florida University](https://www.shtfplan.com/health/measles-outbreak-strikes-florida-university) (Shtfplan.com)
-
-- [New measles case brings North Carolina total to 22 since December: health officials](https://wlos.com/news/local/new-measles-case-north-carolina-total-22-december-2025-state-health-officials-ncdhhs-healthcare-hospital-vaccine-mmr-symptoms-buncombe-county-charlotte-virus) (WLOS)
-
-- [Child vaccination rates are falling fast, with some regions barely reaching 80%](https://theconversation.com/child-vaccination-rates-are-falling-fast-with-some-regions-barely-reaching-80-259387) (The Conversation Africa)
-
-- [Out-of-state traveler to Chester County diagnosed with measles; now 10 cases in state](https://lancasteronline.com/news/health/out-of-state-traveler-to-chester-county-diagnosed-with-measles-now-10-cases-in-state/article_93945cd1-518c-4fcc-aa68-5a1379e85b55.html) (LancasterOnline)
-
-- [An out-of-state traveler to Chester County diagnosed with measles; now 10 cases in state](https://lancasteronline.com/news/health/an-out-of-state-traveler-to-chester-county-diagnosed-with-measles-now-10-cases-in/article_93945cd1-518c-4fcc-aa68-5a1379e85b55.html) (LancasterOnline)
-
-- [No child died from measles–rubella shot, UBTH denies ‘killer vaccine’ claims](https://punchng.com/no-child-died-from-measles-rubella-shot-ubth-denies-killer-vaccine-claims/) (The Punch)
-
-- [What sparked the north London measles outbreak? #health](https://alltoc.com/health/what-sparked-the-north-london-measles-outbreak) (Alltoc.com)
-
-- [An age-structured spatially varying coefficient model for high-resolution mapping of vaccination coverage](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013989) (Plos.org)
-
-- [Prime minister urges parents to check vaccines are up to date after measles outbreak](https://news.sky.com/story/prime-minister-urges-parents-to-check-vaccines-are-up-to-date-after-measles-outbreak-13508557) (Sky.com)
-
-- [How serious is the north London measles outbreak? #health](https://alltoc.com/health/how-serious-is-the-north-london-measles-outbreak) (Alltoc.com)
-
-- [Measles Outbreaks Are Increasingly Common. Here’s What You Need to Know.](https://slate.com/technology/2026/02/measles-outbreaks-vaccines-babies-guide.html) (Slate Magazine)
-
-- [I am one of the many London parents who haven’t vaccinated their children against measles – let me explain](https://www.the-independent.com/life-style/health-and-families/features/mmrv-measles-outbreak-vaccination-children-covid-b2921185.html) (The-independent.com)
-
-- [Why are measles cases rising in London? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-london) (Alltoc.com)
-
-- [Florida Department of Health confirms sixth measles case in Duval County in 2026](https://www.news4jax.com/news/local/2026/02/16/florida-department-of-health-confirms-sixth-measles-case-in-duval-county-in-2026/) (WJXT News4JAX)
-
-- [Virginia grocery store, ER, among exposure sites after adult tests positive for measles](https://www.wusa9.com/article/news/health/virginia-grocery-store-er-among-exposure-sites-measles/65-a70a14fb-3f89-48e2-bfa7-acf8e77bc172) (WUSA9.com)
-
-- [Largest measles outbreak in recent history reported on southwestern college campus](https://www.foxnews.com/health/largest-measles-outbreak-recent-history-reported-southwestern-college-campus) (Fox News)
-
-- [Guidance: Easy read guide to the MMR vaccination](https://www.gov.uk/government/publications/easy-read-guide-to-the-mmr-vaccination) (Www.gov.uk)
-
-- [Health officials warn of measles exposure at busy Pa. airport](https://www.pennlive.com/health/2026/02/health-officials-warn-of-measles-exposure-at-busy-pa-airport.html) (PennLive)
-
-- [Six subtle symptoms of measles in children – and how to get the vaccine](https://www.the-independent.com/life-style/health-and-families/measles-outbreak-vaccine-symptoms-london-b2921219.html) (The-independent.com)
-
-- [6 subtle warning signs of measles in children – and how to prevent it](https://www.the-independent.com/life-style/health-and-families/children-sunday-times-london-vaccination-nhs-b2921194.html) (The-independent.com)
-
-- [What's causing the measles outbreaks? #health](https://alltoc.com/health/what-s-causing-the-measles-outbreaks) (Alltoc.com)
-
-- [Unvaccinated pupils could be excluded from school as measles hits north London](https://www.bbc.com/news/articles/c99jyexve1jo) (BBC News)
-
-- [North London measles outbreak: Unvaccinated pupils could be excluded from school](https://www.bbc.co.uk/news/articles/c99jyexve1jo) (BBC News)
-
-- [Why are measles outbreaks spreading now? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-now) (Alltoc.com)
-
-- [Q&A with The Atlantic's Liz Bruenig on her hypothetical creative nonfiction measles essay, writing in second person, persuading parents about vaccines, and more (Laura Hazard Owen/Nieman Lab)](https://mediagazer.com/260216/p1) (Mediagazer.com)
-
-- [Why are measles cases surging? #health](https://alltoc.com/health/why-are-measles-cases-surging) (Alltoc.com)
-
-- [Person with measles passed through Philadelphia International Airport, health officials say](https://www.cbsnews.com/philadelphia/news/measles-philadelphia-international-airport/) (CBS News)
-
-- [Measles exposure reported at Philadelphia International Airport](https://6abc.com/post/measles-exposure-reported-philadelphia-international-airport/18605914/) (WPVI-TV)
-
-- [Health officials warn of measles exposure at Philadelphia Airport](https://www.nbcphiladelphia.com/news/local/measles-exposure-phl-airport/4353084/) (NBC 10 Philadelphia)
-
-- [Why are measles cases surging now? #health](https://alltoc.com/health/why-are-measles-cases-surging-now) (Alltoc.com)
-
-- [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
-
-- [Why is measles surging in London and the US? #health](https://alltoc.com/health/why-is-measles-surging-in-london-and-the-us) (Alltoc.com)
-
-## 26-8 (malaria)
-
-- [Community awareness and health providers’ perspectives on zoonotic Plasmodium knowlesi malaria in Thailand: A mixed-methods assessment](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013891) (Plos.org)
-
-- [Comparative clinical transcriptome of pir genes in severe Plasmodium vivax malaria](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013342) (Plos.org)
-
-- [Reduced cyclin D3 expression in erythroid cells protects against malaria](https://www.nature.com/articles/s41586-026-10110-9) (Nature.com)
-
-- [Malaria is hindered by repression of a cell-cycle protein](https://www.nature.com/articles/d41586-026-00289-2) (Nature.com)
-
-- [Deciphering the etiology of the 2024 outbreak of undiagnosed febrile illness in Panzi, Democratic Republic of the Congo](https://www.nature.com/articles/s41591-026-04235-7) (Nature.com)
-
-- [NIPRD trains young scientists to boost medicine security, safe antimalarials](https://www.premiumtimesng.com/health/health-news/857405-niprd-trains-young-scientists-to-boost-medicine-security-safe-antimalarials.html) (Premium Times)
-
-- [Ministry of Health and Wellness confirms 2 malaria cases in Toledo](https://www.breakingbelizenews.com/2026/02/17/ministry-of-health-and-wellness-confirms-2-malaria-cases-in-toledo/) (Breaking Belize News)
-
-- [Airport Malaria Cluster in Certified Malaria-Free Country, Libya, 2024](https://wwwnc.cdc.gov/eid/article/32/2/25-1508_article) (Cdc.gov)
-
-- [African leaders mobilise malaria funding at AU summit](https://punchng.com/african-leaders-mobilise-malaria-funding-at-au-summit/) (The Punch)
-
-- [Malaria in Kilifi South: Drug misuse, mosquitoes and poverty fuel crisis](https://www.standardmedia.co.ke/health/health-science/article/2001540954/malaria-in-kilifi-south-drug-misuse-mosquitoes-and-poverty-fuel-crisis) (Standard Digital)
-
-## 26-8 (leptospirosis)
-
-- [Is possum pee toxic to dogs?](https://www.lifesciencesworld.com/is-possum-pee-toxic-to-dogs/) (Lifesciencesworld.com)
-
-- [Bacolod records first suspected leptospirosis death in 2026](https://rpnradio.com/bacolod-records-first-suspected-leptospirosis-death-in-2026/) (Rpnradio.com)
-
-- [What to do with possum poo?](https://www.lifesciencesworld.com/what-to-do-with-possum-poo/) (Lifesciencesworld.com)
-
-## 26-8 (hpai)
-
-- [Seek Labs Awarded $2 Million Federal Grant for a Novel CRISPR-Based, Mutation-Resistant Therapeutic to Combat Avian Flu in Partnership with Canadian Food Inspection Agency](https://financialpost.com/pmn/business-wire-news-releases-pmn/seek-labs-awarded-2-million-federal-grant-for-a-novel-crispr-based-mutation-resistant-therapeutic-to-combat-avian-flu-in-partnership-with-canadian-food-inspection-agency) (Financial Post)
-
-## 26-8 (h5n1)
-
-- [Na Hradecku se objevila ptačí chřipka, utraceno bude přes 230 tisíc slepic](https://www.novinky.cz/clanek/domaci-na-hradecku-se-objevila-ptaci-chripka-utraceno-bude-pres-230-tisic-slepic-40563390) (Novinky.cz)
-
-- [How did bird flu reach Antarctica? #science](https://alltoc.com/science/how-did-bird-flu-reach-antarctica) (Alltoc.com)
-
-- [Polarforscher besorgt: Vogelgrippe in der Antarktis könnte innerhalb kurzer Zeit alle Tiere töten](https://www.n-tv.de/panorama/Vogelgrippe-in-der-Antarktis-koennte-innerhalb-kurzer-Zeit-alle-Tiere-toeten-id30375036.html) (N-tv.de)
-
-- [H5N1: Polarforscher melden starke Ausbreitung der Vogelgrippe in Antarktis](https://www.zeit.de/gesundheit/2026-02/antarktis-vogelgrippe-h5n1-polarforscher-alarmiert) (Die Zeit)
-
-- [В Центре Гамалеи появились «консервы» вакцин против оспы обезьян и птичьего гриппа](https://life.ru/p/1842471) (Life.ru)
-
-- [Vége a nyugalomnak: betört az érintetlen kontinensre a rettegett vírus](https://www.origo.hu/tudomany/2026/02/h5n1-madarinfluenza-antarktisz-tomeges-pusztulas) (Origo.hu)
-
-- [Центр Гамалеи разрабатывает "вакцинные консервы" против оспы обезьян](https://www.interfax.ru/russia/1072953) (Interfax.ru)
-
-- [Директор Центра Гамалеи Логунов рассказал о разработке вакцины от оспы обезьян](https://news.mail.ru/society/69824299/) (Mail.ru)
-
-## 26-8 (dengue)
-
-- [DF não tem previsão para vacinar público geral contra dengue](https://www.metropoles.com/distrito-federal/df-nao-tem-previsao-para-vacinar-publico-geral-contra-dengue) (Metropoles.com)
-
-- [QY Research株式会社デング熱検査の世界および日本市場：メーカー、シェア、トレンド予測2026](https://japan.cnet.com/release/31147568/) (CNET)
-
-- [The emergence of hyperendemic dengue in Bangladesh: An ecological study of structural breaks and transmission regime shifts, 2008–2025](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343246) (Plos.org)
-
-- [DF recebe vacina da dengue em dose única e inicia imunização](https://www.metropoles.com/distrito-federal/df-recebe-vacina-da-dengue-em-dose-unica-e-inicia-imunizacao) (Metropoles.com)
-
-- [Insólito, pero real: el mosquito que hizo cerrar la frontera entre Mendoza y Chile por 24 horas](https://www.lanacion.com.ar/sociedad/insolito-pero-real-el-mosquito-que-hizo-cerrar-la-frontera-entre-mendoza-y-chile-por-24-horas-nid19022026/) (La Nacion)
-
-- [Tecnologia amplia controle da dengue no Brasil](https://valor.globo.com/patrocinado/dino/noticia/2026/02/19/tecnologia-amplia-controle-da-dengue-no-brasil-1.ghtml) (Globo)
-
-- [El virus del chikungunya se transmite ya en media Europa: en España e Italia el riesgo dura más de seis meses](https://www.elespanol.com/ciencia/salud/20260219/virus-chikungunya-transmite-media-europa-espana-italia-riesgo-dura-meses/1003744136156_0.html) (Elespanol.com)
-
-- [Correction: Mathematical modeling and dynamic analysis of dengue fever: examining economic and psychological impacts and forecasting disease trends through 2030—a case study of Nepal](https://www.nature.com/articles/s41598-026-40264-5) (Nature.com)
-
-- [Complejo Los Libertadores cerrará temporalmente por fumigación tras hallazgo de mosquito sospechoso de ser transmisor del dengue y fiebre amarilla](https://www.df.cl/economia-y-politica/actualidad/complejo-los-libertadores-cerrara-temporalmente-por-fumigacion-tras) (Www.df.cl)
-
-- [Anuncian cierre temporal de paso fronterizo Cristo Redentor tras detección de mosquito que transmite el dengue](https://www.latercera.com/nacional/noticia/anuncian-cierre-temporal-de-paso-fronterizo-cristo-redentor-tras-deteccion-de-mosquito-que-transmite-el-dengue/) (Latercera.com)
-
-- [Anuncian cierre temporal del Paso Los Libertadores por hallazgo de mosquito del dengue](https://www.cnnchile.com/pais/paso-los-libertadores-por-hallazgo-de-mosquito-del-dengue_20260218/) (Cnnchile.com)
-
-- [Tecnologia cria proteção contínua contra o Aedes aegypti](https://valor.globo.com/patrocinado/dino/noticia/2026/02/18/tecnologia-cria-protecao-continua-contra-o-aedes-aegypti-1.ghtml) (Globo)
-
-- [NS5-targeting nucleoside analogs inhibit dengue virus and other flaviviruses](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013970) (Plos.org)
-
-- [From Fofō to the Lab: Can Pacific healing help fight deadly viruses?](https://pmn.co.nz/read/health/from-fof-to-the-lab-can-pacific-healing-help-fight-deadly-viruses) (Pmn.co.nz)
-
-## 26-8 (chikungunya)
-
-- [Virus tropicale Chikungunya, paziente ricoverata a Vasto](https://www.ansa.it/abruzzo/notizie/2026/02/21/virus-tropicale-chikungunya-paziente-ricoverata-a-vasto_acd4ee3c-0195-48b7-b5d4-1a3534ab1b31.html) (ANSA.it)
-
-- ["Je n’en avais jamais entendu parler auparavant" : cette maladie tropicale risque de s'installer en Belgique, une patiente belge témoigne](https://www.lalibre.be/planete/sante/2026/02/20/je-nen-avais-jamais-entendu-parler-auparavant-cette-maladie-tropicale-risque-de-sinstaller-en-belgique-une-patiente-belge-temoigne-YKBNCYVTKVC2BDVE5LBOXJAEJI/) (Lalibre.be)
-
-- [Douleurs articulaires, fatigue, fièvre : quelle est cette maladie tropicale qui pourrait arriver en Belgique ? “J’ai été malade pendant deux mois”](https://www.dhnet.be/actu/sante/2026/02/20/douleurs-articulaires-fatigue-fievre-quelle-est-cette-maladie-tropicale-qui-pourrait-arriver-en-belgique-jai-ete-malade-pendant-deux-mois-SXVK7IMNLRBUVFKSWCVDS4EAYE/) (dh.be)
-
-- [Alertă privind o boală tropicală dureroasă care s-ar putea extinde în aproape toată Europa. România are deja un caz de infectare](https://www.mediafax.ro/stirile-zilei/alerta-privind-o-boala-tropicala-dureroasa-care-s-ar-putea-extinde-in-aproape-toata-europa-romania-are-deja-un-caz-de-infectare-23690378) (Mediafax.ro)
-
-- [Chikungunya-Virus breitet sich in Europa aus: So schützen Sie sich vor der Tropenkrankheit](https://www.chip.de/news/gesundheit-fitness/chikungunya-virus-breitet-sich-in-europa-aus-so-schuetzen-sie-sich-vor-der-tropenkrankheit_817d4b2b-345b-4a6a-aef1-36f94faf5bce.html) (CHIP Online Deutschland)
-
-- [Tropisch virus door klimaatopwarming nu ook gevaar voor België](https://newsmonkey.be/tropisch-virus-door-klimaatopwarming-nu-ook-gevaar-voor-belgie/) (Newsmonkey.be)
-
-- [Enfin un vaccin efficace et sans risque contre le chikungunya ?](https://www.techno-science.net/actualite/enfin-vaccin-efficace-sans-risque-contre-chikungunya-N28303.html) (Techno-science.net)
-
-- [How can travelers avoid chikungunya infection? #travel](https://alltoc.com/travel/how-can-travelers-avoid-chikungunya-infection) (Alltoc.com)
-
-- [Tijgermug kan ons ook bij lagere temperaturen in de zomer besmetten met tropisch virus chikungunya](https://www.vrt.be/vrtnws/nl/2026/02/19/chikungunya-virus-meer-risico/) (Www.vrt.be)
-
-- [Magyarországon is megjelenhet a gyerekekre és idősekre halálos veszélyt jelentő kór](https://index.hu/kulfold/2026/02/19/chikungunyalaz-szunyog-klimavaltozas-azsiai-tigrisszunyog-europa-betegseg/) (Index.hu)
-
-- [O boală tropicală mortală se răspândește în Europa. Și România riscă să fie afectată: „E doar o chestiune de timp”](https://www.digi24.ro/stiri/externe/o-boala-tropicala-mortala-se-raspandeste-in-europa-si-romania-risca-sa-fie-afectata-e-doar-o-chestiune-de-timp-3637209) (Digi24.ro)
-
-- [El virus del chikungunya se transmite ya en media Europa: en España e Italia el riesgo dura más de seis meses](https://www.elespanol.com/ciencia/salud/20260219/virus-chikungunya-transmite-media-europa-espana-italia-riesgo-dura-meses/1003744136156_0.html) (Elespanol.com)
-
-- [Portugal com maior risco de transmissão do vírus Chikungunya](https://observador.pt/2026/02/19/portugal-na-area-de-maior-risco-na-europa-de-transmissao-do-virus-chikungunya/) (Observador.pt)
-
-- [Pelätty trooppinen tauti leviää kohti Suomea – Tutkijat: ”Vain ajan kysymys”](https://www.iltalehti.fi/ulkomaat/a/e76c1a31-77a6-46f8-8272-62843aba87d5) (Iltalehti.fi)
-
-- [Mücken übertragen Chikungunya-Virus – Studie warnt vor früherer Saison in Europa](https://www.morgenpost.de/ratgeber-wissen/article411253311/muecken-uebertragen-chikungunya-virus-studie-warnt-vor-frueherer-saison-in-europa.html) (Berliner Morgenpost)
-
-- [Portugal na área de maior risco na Europa de transmissão do vírus Chikungunya](https://expresso.pt/sociedade/2026-02-18-portugal-na-area-de-maior-risco-na-europa-de-transmissao-do-virus-chikungunya-d5d647c8) (Expresso.pt)
-
-- [Kiadták a figyelmeztetést: Magyarországra tart a veszélyes vírus](https://www.origo.hu/tudomany/2026/02/chikungunya-laz-magyarorszagi-kockazat-terjedes) (Origo.hu)
-
-- [Portugal na área de maior risco na Europa de transmissão do vírus Chikungunya](https://greensavers.sapo.pt/portugal-na-area-de-maior-risco-na-europa-de-transmissao-do-virus-chikungunya/) (Sapo.pt)
-
-- [Wyniszczająca choroba tropikalna może już przenosić się po całej Europie](https://geekweek.interia.pl/medycyna/news-wyniszczajaca-choroba-tropikalna-moze-juz-przenosic-sie-po-c,nId,22602222) (Interia.pl)
-
-- [Chikungunya pode ser transmitida em grande parte da Europa, diz estudo](https://www.dw.com/pt-br/chikungunya-pode-ser-transmitida-em-grande-parte-da-europa/a-76020771) (DW (English))
-
-- [Le chikungunya peut désormais se propager dans la plupart des pays européens](https://www.courrierinternational.com/article/sante-le-chikungunya-peut-desormais-se-propager-dans-la-plupart-des-pays-europeens_240755) (Courrier International)
-
-- [Tehlikeli virüs hızla yayılıyor: Vaka sayıları fırladı](https://www.yenicaggazetesi.com/tehlikeli-virus-hizla-yayiliyor-vaka-sayilari-firladi-1002311h.htm) (Yenicaggazetesi.com)
-
-- [Aquecimento global eleva risco de surtos de vírus chikungunya na Europa, diz estudo](https://www.infomoney.com.br/mundo/aquecimento-global-eleva-risco-de-surtos-de-virus-chikungunya-na-europa-diz-estudo/) (InfoMoney)
-
-- [Chikungunya pode ser transmitida em grande parte da Europa](https://www.terra.com.br/noticias/chikungunya-pode-ser-transmitida-em-grande-parte-da-europa,9994cd63b28f87c40d2f1a059c33bf5129m1oolb.html) (Terra.com.br)
-
-- [Tropický vírus útočí na obľúbenú exotiku Slovákov, odborníci vydali naliehavé varovanie](https://cestovanie.pravda.sk/exotika/clanok/786731-tropicky-virus-utoci-na-oblubenu-exotiku-slovakov-vedci-dvihaju-varovny-prst/) (Pravda.sk)
-
-- [Chikungunya breitet sich aus: Tropen-Virus bedroht Europa stärker als gedacht](https://www.n-tv.de/wissen/Tropen-Virus-bedroht-Europa-staerker-als-gedacht-id30375308.html) (N-tv.de)
-
-- [Chikungunya-Virus könnte schon bald ein europäisches Problem werden](https://www.diepresse.com/20604336/chikungunya-virus-koennte-schon-bald-ein-europaeisches-problem-werden) (Diepresse.com)
-
-- [Cum contribuie schimbările climatice la răspândirea unei boli tropicale mortale în cea mai mare parte a Europei](https://adevarul.ro/stiri-externe/europa/cun-contribuie-schimbarile-climatice-la-2509162.html) (Adevarul.ro)
-
-- [Συναγερμός και στην Ελλάδα για τον ιό τσικουνγκούνια - Τι προβλέπει νέα μελέτη](https://www.skai.gr/news/health/synagermos-gia-ton-io-tsikoungkounia-kai-stin-ellada) (Skai.gr)
-
-- [Chikungunya für Europa problematischer als gedacht](https://science.orf.at/stories/3234259/) (Science.orf.at)
-
-- [Groźna tropikalna choroba może być powszechna w Europie. "To tylko kwestia czasu"](https://next.gazeta.pl/next/7,172392,32607321,grozna-tropikalna-choroba-moze-byc-powszechna-w-europie-to.html) (Gazeta.pl)
-
-- [Tropikal bölgelerde görülen hastalık artık Avrupa’nın büyük bölümünü tehdit ediyor](https://anlatilaninotesi.com.tr/20260218/tropikal-bolgelerde-gorulen-hastalik-artik-avrupanin-buyuk-bolumunu-tehdit-ediyor-1103592948.html) (Anlatilaninotesi.com.tr)
-
-- [Tropikal hastalık Avrupa'da salgına dönüşebilir](https://www.haber7.com/dunya/haber/3605237-tropikal-hastalik-avrupada-salgina-donusebilir) (Haber7.com)
-
-- [Kühle Sommer - kein Problem: Experten: Chikungunya für Europa problematischer als gedacht](https://www.tagesspiegel.de/wissen/kuhle-sommer-kein-problem-experten-chikungunya-fur-europa-problematischer-als-gedacht-15263013.html) (Der Tagesspiegel)
-
-- [Neue Studie zu Chikungunya: Das Virus verbreitet sich bei niedrigeren Temperaturen als gedacht](https://www.tagesspiegel.de/wissen/neue-studie-zu-chikungunya-das-virus-verbreitet-sich-bei-niedrigeren-temperaturen-als-gedacht-15263013.html) (Der Tagesspiegel)
-
-- [Kühle Sommer - kein Problem: Experten: Chikungunya für Europa problematischer als gedacht](https://www.zeit.de/news/2026-02/18/experten-chikungunya-fuer-europa-problematischer-als-gedacht) (Die Zeit)
-
-- [Kühle Sommer - kein Problem: Experten: Chikungunya für Europa problematischer als gedacht](https://www.stern.de/panorama/wissen/kuehle-sommer---kein-problem--experten--chikungunya-fuer-europa-problematischer-als-gedacht-37146676.html) (STERN.de)
-
-- [Urgent warning issued by CDC as chikungunya virus outbreak hits vacation destination](https://www.foxnews.com/travel/urgent-warning-issued-cdc-chikungunya-virus-outbreak-hits-vacation-destination) (Fox News)
-
-- [Cruise line halts operations suddenly, leaving future trips in limbo](https://www.foxnews.com/lifestyle/cruise-line-halts-operations-suddenly-leaving-future-trips-limbo) (Fox News)
 
 ## 26-14 (zika)
 
@@ -1003,6 +519,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-14 (meningitis)
 
+- [Our daughter died of MenB - we fear outbreaks without wider vaccine rollout](https://www.bbc.com/news/articles/cn78gvjv508o) (BBC News)
+
 - [Dangerous bacterial infection hits highest level seen in Canada in more than a decade](https://www.cbc.ca/news/health/invasive-meningococcal-disease-rising-9.7151929) (CBC News)
 
 - [El resurgir del sarampión y la meningitis obliga a un cambio en el calendario vacunal](https://www.abc.es/espana/andalucia/resurgir-sarampion-meningitis-obliga-cambio-calendario-vacunal-20260403191846-nts.html) (Www.abc.es)
@@ -1038,6 +556,8 @@ Source: [News API](https://newsapi.org/)
 - [Kent meningitis outbreak: how many cases? #health](https://alltoc.com/health/kent-meningitis-outbreak-how-many-cases) (Alltoc.com)
 
 ## 26-14 (measles)
+
+- [Revealed: the age group in which children have lowest protection against measles](https://www.independent.ie/irish-news/revealed-the-age-group-in-which-children-have-lowest-protection-against-measles/a825018934.html) (Independent.ie)
 
 - [Vaccination booth pops up at Royal Manitoba Winter Fair as measles cases rise](https://www.cbc.ca/news/canada/manitoba/vaccination-booth-brandon-measless-9.7152300) (CBC News)
 
