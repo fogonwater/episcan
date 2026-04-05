@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2026-04-05 07:30
-- **Most recent article:** 2026-04-04 04:30:00
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-04-05 19:17
+- **Most recent article:** 2026-04-04 18:04:01
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|
-| meningitis | 4 | 6 | 175 | 75 | 18 | 5 | 283 |
-| measles | 70 | 30 | 20 | 21 | 22 | 78 | 241 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 14 | 112 |
-| mpox | 10 | 16 | 12 | 4 | 17 | 27 | 86 |
-| rabies | 18 | 16 | 7 | 5 | 24 | 13 | 83 |
-| malaria | 16 | 9 | 20 | 14 | 9 | 11 | 79 |
+| meningitis | 4 | 6 | 175 | 75 | 19 | 5 | 284 |
+| measles | 70 | 30 | 20 | 21 | 26 | 70 | 237 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 13 | 111 |
+| mpox | 10 | 16 | 12 | 4 | 19 | 26 | 87 |
+| rabies | 18 | 16 | 7 | 5 | 26 | 13 | 85 |
+| malaria | 16 | 9 | 20 | 14 | 9 | 10 | 78 |
 | chikungunya | 1 | 7 | 7 | 8 | 11 | 6 | 40 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 4 | 32 |
 | zika | 1 | 2 | 4 | 1 | 15 | 2 | 25 |
@@ -134,8 +134,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : deux nouveaux cas de variole B détectés à La Réunion](https://www.franceinfo.fr/sante/maladie/variole-du-singe/mpox-deux-nouveaux-cas-de-variole-b-detectes-a-la-reunion_7824263.html) (Franceinfo.fr)
 
 - [Mpox no Brasil: doença pode matar? Conheça os sintomas](https://www.terra.com.br/vida-e-estilo/saude/mpox-no-brasil-doenca-pode-matar-conheca-os-sintomas,b18bf05d58a7886ed451ae6886d76da1uor4cbaz.html) (Terra.com.br)
-
-- [O que é mpox? Infectologista explica como reconhecer os sintomas](https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox) (Metropoles.com)
 
 ## 26-9 (meningitis)
 
@@ -291,22 +289,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles cases surging in 2026? #health](https://alltoc.com/health/why-are-measles-cases-surging-in-2026) (Alltoc.com)
 
-- [Health Ministry: Six-year-old dead due to measles](https://www.israelnationalnews.com/news/422811) (Israelnationalnews.com)
-
-- [ילדה בן 6 שלא חוסנה נפטרה מחצבת - הקורבן ה-16 בגל התחלואה](https://www.ynet.co.il/health/article/skd0rs00obl) (Ynet)
-
-- [Why are measles cases rising in the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s) (Alltoc.com)
-
-- [Parent creates safer social media; global measles outbreaks making travel risky: CBC’s Marketplace Cheat Sheet](https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743) (CBC News)
-
-- [Govt responds to Australia's measles notice from RI travel history](https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history) (Antaranews.com)
-
-- [Why are measles cases rising in 2026? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-2026) (Alltoc.com)
-
-- [Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180) (CBC News)
-
-- [Why are U.S. measles cases nearing 1,000? #health](https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000) (Alltoc.com)
-
 ## 26-9 (malaria)
 
 - [Científicos descubren el origen de la preferencia de los mosquitos por la sangre humana](https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html) (Okdiario.com)
@@ -328,8 +310,6 @@ Source: [News API](https://newsapi.org/)
 - [Malaria screening in Papua increases by 337 percent in 2021-2025: Govt](https://en.antaranews.com/news/405738/malaria-screening-in-papua-increases-by-337-percent-in-2021-2025-govt) (Antaranews.com)
 
 - [snt-malaria-budgeting 0.7.0](https://pypi.org/project/snt-malaria-budgeting/0.7.0/) (Pypi.org)
-
-- [Bambina 12 anni colpita da malaria ricoverata in ospedale](https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html) (ANSA.it)
 
 ## 26-9 (leptospirosis)
 
@@ -378,8 +358,6 @@ Source: [News API](https://newsapi.org/)
 - [Municipio de Navojoa realizará mega jornada de descacharre contra el dengue](https://www.tribuna.com.mx/sonora/2026/2/23/municipio-de-navojoa-realizara-mega-jornada-de-descacharre-contra-el-dengue-430375.html) (Tribuna.com.mx)
 
 - [Dengue cases, deaths more than halved in 2025, says Ahmad Zahid](https://www.thestar.com.my/news/nation/2026/02/23/dengue-cases-deaths-more-than-halved-in-2025-says-ahmad-zahid) (The Star Online)
-
-- [Over 7,000 people affected by dengue in Sudurpaschim over three years](https://english.khabarhub.com/2026/22/536219/) (Khabarhub.com)
 
 ## 26-9 (chikungunya)
 
@@ -433,6 +411,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-14 (rabies)
 
+- [Why is CDC pausing rabies testing? #health](https://alltoc.com/health/why-is-cdc-pausing-rabies-testing) (Alltoc.com)
+
+- [Why did CDC pause tests for rabies and mpox? #health](https://alltoc.com/health/why-did-cdc-pause-tests-for-rabies-and-mpox) (Alltoc.com)
+
 - [State public health labs step up as CDC pauses testing for various pathogens, including rabies, mpox](https://www.cidrap.umn.edu/rabies/state-public-health-labs-step-cdc-pauses-testing-various-pathogens-including-rabies-mpox) (Umn.edu)
 
 - [Dog and cat sterilization campaign launched to control rabies](https://english.khabarhub.com/2026/03/542412/) (Khabarhub.com)
@@ -483,6 +465,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-14 (mpox)
 
+- [Why is CDC pausing rabies testing? #health](https://alltoc.com/health/why-is-cdc-pausing-rabies-testing) (Alltoc.com)
+
+- [Why did CDC pause tests for rabies and mpox? #health](https://alltoc.com/health/why-did-cdc-pause-tests-for-rabies-and-mpox) (Alltoc.com)
+
 - [How did Congo end its mpox outbreak? #health](https://alltoc.com/health/how-did-congo-end-its-mpox-outbreak) (Alltoc.com)
 
 - [State public health labs step up as CDC pauses testing for various pathogens, including rabies, mpox](https://www.cidrap.umn.edu/rabies/state-public-health-labs-step-cdc-pauses-testing-various-pathogens-including-rabies-mpox) (Umn.edu)
@@ -518,6 +504,8 @@ Source: [News API](https://newsapi.org/)
 - [Why did CDC pause testing for rabies and mpox? #health](https://alltoc.com/health/why-did-cdc-pause-testing-for-rabies-and-mpox) (Alltoc.com)
 
 ## 26-14 (meningitis)
+
+- [James Johnston, father of teenager Aoife Johnston, dies following cancer diagnosis](https://www.irishtimes.com/ireland/2026/04/04/james-johnston-father-of-teenager-aoife-johnston-dies-following-cancer-diagnosis/) (The Irish Times)
 
 - [Our daughter died of MenB - we fear outbreaks without wider vaccine rollout](https://www.bbc.com/news/articles/cn78gvjv508o) (BBC News)
 
@@ -556,6 +544,14 @@ Source: [News API](https://newsapi.org/)
 - [Kent meningitis outbreak: how many cases? #health](https://alltoc.com/health/kent-meningitis-outbreak-how-many-cases) (Alltoc.com)
 
 ## 26-14 (measles)
+
+- [As Trump weighs appeal of vaccine ruling, Kennedy supporters push for fight](https://richmond.com/news/nation-world/government-politics/article_a6c48442-5fc0-5807-9209-c404440a0fc1.html) (Richmond.com)
+
+- [As Trump weighs appeal of vaccine ruling, Kennedy supporters push for fight](https://roanoke.com/news/nation-world/government-politics/article_1d42f1e1-817a-5937-a7de-a710c5e1bb6c.html) (Roanoke Times)
+
+- [3 more children die with measles symptoms at Rajshahi Medical, 149 still hospitalised](https://www.tbsnews.net/bangladesh/health/3-more-children-die-measles-symptoms-rajshahi-medical-149-still-hospitalised) (Tbsnews.net)
+
+- [All children aged 6-59 months to receive measles vaccine regardless of prior doses: Health minister](https://www.tbsnews.net/bangladesh/health/all-children-aged-6-59-months-receive-measles-vaccine-regardless-prior-doses) (Tbsnews.net)
 
 - [Revealed: the age group in which children have lowest protection against measles](https://www.independent.ie/irish-news/revealed-the-age-group-in-which-children-have-lowest-protection-against-measles/a825018934.html) (Independent.ie)
 
