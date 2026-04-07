@@ -1,8 +1,135 @@
 {
-  "last_updated": "2026-04-07 07:37",
-  "count_articles_total": 997,
-  "count_articles_new": 6,
+  "last_updated": "2026-04-07 19:29",
+  "count_articles_total": 993,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 28901,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Israelnationalnews.com",
+      "author": null,
+      "title": "Ministry of Health: Measles patient traveled by public transportation from Beit Shemesh to Jerusalem",
+      "description": "The Ministry of Health reports that a measles patient traveled today (Monday) at 1:00 PM on bus line 630, departing from a bus stop between Hefetz Haim and Ben Ish Hai streets in Beit Shemesh to Hadassah Ein Kerem Hospital in Jerusalem.The Ministry noted that\u2026",
+      "url": "https://www.israelnationalnews.com/flashes/682531",
+      "urlToImage": "https://2.a7.org/files/pictures/000/1075218.jpg",
+      "publishedAt": "2026-04-06 18:44:43",
+      "content": "The Ministry of Health reports that a measles patient traveled today (Monday) at 1:00 PM on bus line 630, departing from a bus stop between Hefetz Haim and Ben Ish Hai streets in Beit Shemesh to Hada\u2026 [+156 chars]",
+      "retrievedAt": "2026-04-07 19:29:30.893549",
+      "internal_id": "4f9aea25d2db42262e989f1c3b5e68900ab2d77ea38757a6e197c0647093d2fd",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 28897,
+      "query": [
+        "rabies",
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "CDC pauses rabies and mpox testing #health",
+      "description": "CDC pauses certain disease testing amid staffing shortages The Centers for Disease Control and Prevention has temporarily halted testing for rabies and several other serious infectious diseases , citing staffing shortages and related disruptions to federal la\u2026",
+      "url": "https://alltoc.com/health/cdc-pauses-rabies-and-mpox-testing",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-06 18:04:01",
+      "content": "The Centers for Disease Control and Prevention has temporarily halted testing for rabies and several other serious infectious diseases, citing staffing shortages and related disruptions to federal la\u2026 [+1630 chars]",
+      "retrievedAt": "2026-04-07 19:29:30.589742",
+      "internal_id": "43c6b7370ff28dd06c33618081348630f7e759d8f7bed686c9d0397d0de1bcfa",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 28898,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Fatma Tanis",
+      "title": "Medical supplies are stuck in Dubai, as clinics around the world face shortages",
+      "description": "The war in Iran has slowed down international shipping, much of which contains medical and humanitarian goods destined for Asia and Africa.",
+      "url": "https://www.npr.org/2026/04/06/nx-s1-5775543/medical-supplies-stuck-dubai-clinics-world-face-shortages",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5247x2951+0+273/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd2%2F0e%2F8a78422741f38a93a7fe46196e0b%2Ftankers-2265405460.jpg",
+      "publishedAt": "2026-04-06 17:12:35",
+      "content": "It's a critical time for hospitals and clinics in Yemen. The country has a chronic malnutrition problem and ongoing outbreaks of cholera, measles and polio, says Marc Schakal, the program manager fo\u2026 [+5070 chars]",
+      "retrievedAt": "2026-04-07 19:29:30.804289",
+      "internal_id": "442ae53364918be3f3305cca1c885a738250093af1d2b82f0a393c7aedd0079d",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 28899,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Polly Davis Doig with Newser.AI",
+      "title": "Bangladesh Races to Contain Measles Outbreak Among Kids",
+      "description": "Bangladesh is rushing to contain what may be its deadliest measles flare-up in decades, with more than 100 suspected deaths\u2014mostly children\u2014and over 7,500 possible cases since mid-March. Health officials say over 900 infections have been confirmed, a dramatic\u2026",
+      "url": "https://www.newser.com/story/386790/bangladesh-races-to-contain-measles-outbreak-among-kids.html",
+      "urlToImage": "https://img2-azrcdn.newser.com/image/1676239-12-20260406115801.jpeg",
+      "publishedAt": "2026-04-06 16:58:00",
+      "content": "Bangladesh is rushing to contain what may be its deadliest measles flare-up in decades, with more than 100 suspected deaths\u2014mostly children\u2014and over 7,500 possible cases since mid-March. Health offic\u2026 [+1396 chars]",
+      "retrievedAt": "2026-04-07 19:29:30.848862",
+      "internal_id": "56e934575ea8d5337c959754f557cde3a22f33763847ad1001630f4e0e615c2c",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 28902,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Giacomo Guido, Valentina Totaro, Peter Lochoro, Jerry Ictho, Edoardo Occa, Kajal Chhaganlal, Francesco Vladimiro Segala, Giovanni Dall\u2019Oglio, Braunde Francisco Mechendura, Elmano Gomonda, Giovanni Putoto, Federica Penco, Muhammad Asaduzzaman, Emanuele Nicastri, Farkas Ferenc Bal\u00e1zs, Roberta Iatta, Botond Lakatos, Raja Waqar Ali, Annalisa Saracino, Francesco Di Gennaro",
+      "title": "Household and community-based approaches to malaria and cholera prevention: A narrative review with case studies from Uganda and Mozambique",
+      "description": "Author summary The spread of infectious diseases like malaria and cholera continues despite existing preventive measures; indeed, it\u2019s worsening within a global context of climate change, disproportionately impacting low-resource populations. Adopting specifi\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014186",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014186.g005&size=inline",
+      "publishedAt": "2026-04-06 14:00:00",
+      "content": "Introduction The global landscape of infectious diseases is continually evolving. The spread of vector-borne, waterborne, foodborne, and airborne diseases is strongly influenced by climate change an\u2026 [+41444 chars]",
+      "retrievedAt": "2026-04-07 19:29:31.668604",
+      "internal_id": "6e3e970fab3580c7efe4f2aea304746ac57c9c19e653efd039399d32ee4ada05",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 28903,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: Geschichte - Michael Sontheimer",
+      "title": "Andr\u00e9e Blouin: Sie galt als gef\u00e4hrlichste Frau Afrikas",
+      "description": "Aufgewachsen im Waisenhaus als Nummer 22 k\u00e4mpfte Andr\u00e9e Blouin gegen Europas Kolonialherren. 40 Jahre nach ihrem Tod ist ihr bewegtes Leben neu zu entdecken.",
+      "url": "https://www.zeit.de/2026/15/andree-blouin-aktivistin-kolonialismus-autobiografie-my-country-africa",
+      "urlToImage": "https://img.zeit.de/2026/15/sie-galt-als-gefaehrlichste-frau-afrikas-bild-1/wide__1300x731",
+      "publishedAt": "2026-04-06 10:47:40",
+      "content": "\"Nichts hat mich so politisiert wie der Tod meines erst zwei Jahre alten Sohnes\", schreibt Andr\u00e9e Blouin in ihren Memoiren. An Malaria war er gestorben, in ihren Armen, 1944 in Bangui, der Hauptstadt\u2026 [+632 chars]",
+      "retrievedAt": "2026-04-07 19:29:31.680947",
+      "internal_id": "ed010a698c0ac371dbbe14470ae17662dc1ed81c1900d98933ffc9f9e6ce3715",
+      "publishedAtLabel": "Apr 6"
+    },
+    {
+      "id": 28900,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Why Bangladesh is seeing a deadly spike in measles",
+      "description": "More than 100 people, mostly children, have been killed by measles since mid-March, officials suspect.",
+      "url": "https://www.bbc.com/news/articles/cevkz2z7dm8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/23c2/live/6b50b9e0-3185-11f1-86cc-99d8e53afbd3.jpg",
+      "publishedAt": "2026-04-06 09:59:40",
+      "content": "\"Vaccines are foundational to child survival,\" Rana Flowers, the Unicef representative in Bangladesh, said in a statement on Sunday, adding that the current measles outbreak was \"putting thousands of\u2026 [+72 chars]",
+      "retrievedAt": "2026-04-07 19:29:30.861232",
+      "internal_id": "e9ebf902ae37d9afa3c9cd703969d059af900e97444fafba0decac23616f3c16",
+      "publishedAtLabel": "Apr 6"
+    },
     {
       "id": 28895,
       "query": [
@@ -17800,204 +17927,6 @@
       "content": "Harrisburg, Pa. In response to a recent spike in Highly Pathogenic Avian Influenza (HPAI), the Commonwealth has mobilized additional personnel, expanded testing capacity, and is coordinating closely \u2026 [+6056 chars]",
       "retrievedAt": "2026-02-24 07:26:47.846395",
       "internal_id": "ce7eec96c60a9d270a6601726942adc8050558ae6ac876ccc756cde8ab62af18",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27897,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Israel National News",
-      "title": "Health Ministry: Six-year-old dead due to measles",
-      "description": "Unvaccinated six-year-old boy brought to hospital in critical condition. Pronounced dead after attempts to revive him.",
-      "url": "https://www.israelnationalnews.com/news/422811",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1206788.jpg",
-      "publishedAt": "2026-02-22 16:54:46",
-      "content": "The Israeli Ministry of Health reported on Sunday that an unvaccinated six-year-old boy died overnight from measles. The boy was brought in critical condition to a hospital, where doctors pronounced \u2026 [+390 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.393726",
-      "internal_id": "35bef6eb3d62790ed7df254364db6aa8c43605324a700092d37310169285c62a",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27902,
-      "query": [
-        "measles"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05d0\u05d5\u05e8 \u05d4\u05d3\u05e8",
-      "title": "\u05d9\u05dc\u05d3\u05d4 \u05d1\u05df 6 \u05e9\u05dc\u05d0 \u05d7\u05d5\u05e1\u05e0\u05d4 \u05e0\u05e4\u05d8\u05e8\u05d4 \u05de\u05d7\u05e6\u05d1\u05ea - \u05d4\u05e7\u05d5\u05e8\u05d1\u05df \u05d4-16 \u05d1\u05d2\u05dc \u05d4\u05ea\u05d7\u05dc\u05d5\u05d0\u05d4",
-      "description": "\u05d1\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d0\u05de\u05e8\u05d5 \u05db\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d4 \u05d4\u05d2\u05d9\u05e2\u05d4 \u05d1\u05de\u05e6\u05d1 \u05d0\u05e0\u05d5\u05e9 \u05dc\u05d1\u05d9\u05ea \u05d4\u05d7\u05d5\u05dc\u05d9\u05dd \u05d4\u05d3\u05e1\u05d4 \u05e2\u05d9\u05df \u05db\u05e8\u05dd \u05d1\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e9\u05dd \u05dc\u05d0\u05d7\u05e8 \u05de\u05d0\u05de\u05e6\u05d9 \u05d4\u05d7\u05d9\u05d9\u05d0\u05d4, \u05e0\u05d0\u05dc\u05e6\u05d5 \u05d4\u05e8\u05d5\u05e4\u05d0\u05d9\u05dd \u05dc\u05e7\u05d1\u05d5\u05e2 \u05d0\u05ea \u05de\u05d5\u05ea\u05d4",
-      "url": "https://www.ynet.co.il/health/article/skd0rs00obl",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/26/ry7RdvEWZl/ry7RdvEWZl_1_67_1000_563_0_large.jpg",
-      "publishedAt": "2026-02-22 16:31:37",
-      "content": "(Measles virus), . , . -1,000, . , , 10-7 , , . , , -2,900 . , 10,000-15,000 . , -1,000 , . , .",
-      "retrievedAt": "2026-02-23 19:28:35.679713",
-      "internal_id": "b93974e2cc94bfb2313c84ca033a3e7604b9c8e3107a47dd211ba750b4fb5d17",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27899,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles cases rising in the U.S.? #health",
-      "description": "A fast growing outbreak driven by pockets of under vaccination Public health agencies report a steep rise in measles cases across the United States this year, driven largely by clusters of unvaccinated people and several localized outbreaks. The Centers for D\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-02-22 15:10:33",
-      "content": "Public health agencies report a steep rise in measles cases across the United States this year, driven largely by clusters of unvaccinated people and several localized outbreaks. The Centers for Dise\u2026 [+1755 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.550841",
-      "internal_id": "26d78ac9a53cdf1f12336d1febc1ed4b8ab829a0a7e91bd673701bd1a0529956",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27905,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Metr\u00f3poles",
-      "title": "O que \u00e9 mpox? Infectologista explica como reconhecer os sintomas",
-      "description": "A mpox \u00e9 uma doen\u00e7a viral que exige aten\u00e7\u00e3o para ser reconhecida logo aos primeiros sinais. Cuidados simples ajudam a evitar o cont\u00e1gio",
-      "url": "https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox",
-      "urlToImage": "https://images.metroimg.com/2026/02/pessoa-com-mpox-getty-images.jpg",
-      "publishedAt": "2026-02-22 14:33:50",
-      "content": "A mpox \u00e9 uma doen\u00e7a viral que voltou a chamar aten\u00e7\u00e3o das autoridades de sa\u00fade em 2026. Embora a maioria dos casos registados este ano evolua de forma leve, reconhecer os sintomas e entender como oco\u2026 [+5520 chars]",
-      "retrievedAt": "2026-02-23 19:28:37.676018",
-      "internal_id": "125679b91d5b45fc5cff2a52747809e7da3e7b79a997bbc032969d47c953504c",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27896,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Parent creates safer social media; global measles outbreaks making travel risky: CBC\u2019s Marketplace Cheat Sheet",
-      "description": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743",
-      "urlToImage": "https://i.cbc.ca/ais/5a02f957-25d3-4f0a-840c-cd7954a83475,1771353291311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C243%2C4032%2C2268%29%3BResize%3D620",
-      "publishedAt": "2026-02-22 13:00:00",
-      "content": "Miss something this week? Don't panic. The CBC's Marketplace rounds up the consumer and health news you need. Want this in your inbox? Get the Marketplace newsletter every Friday. Join Marketplace \u2026 [+6281 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.333097",
-      "internal_id": "42f273cabb63eaef53db94cb5713151c656e2d7c99c7357791538a2fd36014c4",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27904,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Bambina 12 anni colpita da malaria ricoverata in ospedale",
-      "description": "Una bambina di 12 anni \u00e8 stata trasferita ieri dall'Ospedale di Chioggia a quello di Padova, per competenza pediatrica, dopo essere stata presa in carico e assistita con sospetto di malaria. (ANSA)",
-      "url": "https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2026/2/5/4c95a0a339dea9ffc445c73a32ce211b.jpg",
-      "publishedAt": "2026-02-22 12:59:12",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2026-02-23 19:28:36.887394",
-      "internal_id": "5aae930093af3e6784828d95f75db24f321f8ef0341c447b9fde03bf7c246cf8",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27940,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Mecca Yumna, Resinta Sulistiyandari",
-      "title": "Govt responds to Australia's measles notice from RI travel history",
-      "description": "The Ministry of Health has received formal notification from Australian health authorities about a measles case involving travel history from Indonesia and is ...",
-      "url": "https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/03/05/Screenshot_20230305_115713_Chrome.jpg",
-      "publishedAt": "2026-02-22 12:23:04",
-      "content": "Jakarta (ANTARA) - The Ministry of Health has received formal notification from Australian health authorities about a measles case involving travel history from Indonesia and is coordinating with Aus\u2026 [+2483 chars]",
-      "retrievedAt": "2026-02-25 07:27:10.154038",
-      "internal_id": "b4595be9d3a0c182a11f8347113f777c2b42d782e93e28008b2fb34c3d4d2c2c",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27898,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles cases rising in 2026? #health",
-      "description": "Explaining the recent surge Public health agencies are reporting a sharp rise in measles cases across multiple countries in 2026. In the United States, the Centers for Disease Control and Prevention has logged 982 cases so far this year \u2014 more than four times\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-2026",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-02-22 12:10:49",
-      "content": "Public health agencies are reporting a sharp rise in measles cases across multiple countries in 2026. In the United States, the Centers for Disease Control and Prevention has logged 982 cases so far \u2026 [+1841 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.541002",
-      "internal_id": "ffc2bca0e455b601c4b08a5ed0e9b54d19a25bf5554c8d706cddb3e6ed79e8e4",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27901,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?",
-      "description": "As Manitoba grapples with a swelling number of measles cases, a school division trustee would like to see mandatory immunization against the illness and other diseases for students.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180",
-      "urlToImage": "https://i.cbc.ca/ais/6d910c5a-ad2b-4271-b713-696864ba2f15,1771706005259/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C31%2C6850%2C3853%29%3BResize%3D620",
-      "publishedAt": "2026-02-22 12:00:00",
-      "content": "Linda Ross wonders if Manitoba's measles outbreak would have spiralled to hundreds of cases if school divisions had pushed for mandatory vaccination against the illness for students almost a decade a\u2026 [+9242 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.640348",
-      "internal_id": "2a060d12e789819eaa6b053315b0ef988a030ac18a7af78e2d9f583ad1cf8ee1",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27903,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Over 7,000 people affected by dengue in Sudurpaschim over three years",
-      "description": "KANCHANPUR: The risk of dengue infection in Sudurpaschim Province continues to be a serious public health concern. According to data from the Health Directorate in Dipayal, a total of 7,683 people have been infected with dengue across the province over the pa\u2026",
-      "url": "https://english.khabarhub.com/2026/22/536219/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2026-02-22 09:15:17",
-      "content": "KANCHANPUR: The risk of dengue infection in Sudurpaschim Province continues to be a serious public health concern. According to data from the Health Directorate in Dipayal, a total of 7,683 people h\u2026 [+1530 chars]",
-      "retrievedAt": "2026-02-23 19:28:36.377617",
-      "internal_id": "71b8c242d6e7a9ff3dde290b690d77a6e7633d30b1b750079a172dbe0d975432",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27900,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are U.S. measles cases nearing 1,000? #health",
-      "description": "Measles is resurging \u2014 what\u2019s happening and why it matters Health authorities are reporting a sharp increase in cases this year, driven mainly by clusters among unvaccinated children and pockets of low immunization coverage. The United States has logged just \u2026",
-      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-02-22 09:11:22",
-      "content": "Health authorities are reporting a sharp increase in cases this year, driven mainly by clusters among unvaccinated children and pockets of low immunization coverage. The United States has logged just\u2026 [+1807 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.569240",
-      "internal_id": "1c73427b6dbfe4d2d7c1646b442f78b5d125ac21b6cd35a4d666aa74c5df913a",
       "publishedAtLabel": "Feb 22"
     }
   ]

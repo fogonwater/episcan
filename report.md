@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2026-04-07 07:37
-- **Most recent article:** 2026-04-06 07:02:00
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-04-07 19:29
+- **Most recent article:** 2026-04-06 18:44:43
 
 ---
 
@@ -13,11 +13,11 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 4 | 6 | 175 | 75 | 19 | 1 | 5 | 285 |
-| measles | 70 | 30 | 20 | 21 | 26 | 4 | 78 | 249 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 6 | 14 | 118 |
-| mpox | 10 | 16 | 12 | 4 | 19 | 0 | 27 | 88 |
-| rabies | 18 | 16 | 7 | 5 | 26 | 2 | 13 | 87 |
-| malaria | 16 | 9 | 20 | 14 | 9 | 0 | 11 | 79 |
+| measles | 70 | 30 | 20 | 21 | 26 | 8 | 70 | 245 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 6 | 13 | 117 |
+| rabies | 18 | 16 | 7 | 5 | 26 | 3 | 13 | 88 |
+| mpox | 10 | 16 | 12 | 4 | 19 | 1 | 26 | 88 |
+| malaria | 16 | 9 | 20 | 14 | 9 | 2 | 10 | 80 |
 | chikungunya | 1 | 7 | 7 | 8 | 11 | 1 | 6 | 41 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 0 | 4 | 32 |
 | zika | 1 | 2 | 4 | 1 | 15 | 0 | 2 | 25 |
@@ -134,8 +134,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : deux nouveaux cas de variole B détectés à La Réunion](https://www.franceinfo.fr/sante/maladie/variole-du-singe/mpox-deux-nouveaux-cas-de-variole-b-detectes-a-la-reunion_7824263.html) (Franceinfo.fr)
 
 - [Mpox no Brasil: doença pode matar? Conheça os sintomas](https://www.terra.com.br/vida-e-estilo/saude/mpox-no-brasil-doenca-pode-matar-conheca-os-sintomas,b18bf05d58a7886ed451ae6886d76da1uor4cbaz.html) (Terra.com.br)
-
-- [O que é mpox? Infectologista explica como reconhecer os sintomas](https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox) (Metropoles.com)
 
 ## 26-9 (meningitis)
 
@@ -291,22 +289,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles cases surging in 2026? #health](https://alltoc.com/health/why-are-measles-cases-surging-in-2026) (Alltoc.com)
 
-- [Health Ministry: Six-year-old dead due to measles](https://www.israelnationalnews.com/news/422811) (Israelnationalnews.com)
-
-- [ילדה בן 6 שלא חוסנה נפטרה מחצבת - הקורבן ה-16 בגל התחלואה](https://www.ynet.co.il/health/article/skd0rs00obl) (Ynet)
-
-- [Why are measles cases rising in the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s) (Alltoc.com)
-
-- [Parent creates safer social media; global measles outbreaks making travel risky: CBC’s Marketplace Cheat Sheet](https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743) (CBC News)
-
-- [Govt responds to Australia's measles notice from RI travel history](https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history) (Antaranews.com)
-
-- [Why are measles cases rising in 2026? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-2026) (Alltoc.com)
-
-- [Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180) (CBC News)
-
-- [Why are U.S. measles cases nearing 1,000? #health](https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000) (Alltoc.com)
-
 ## 26-9 (malaria)
 
 - [Científicos descubren el origen de la preferencia de los mosquitos por la sangre humana](https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html) (Okdiario.com)
@@ -328,8 +310,6 @@ Source: [News API](https://newsapi.org/)
 - [Malaria screening in Papua increases by 337 percent in 2021-2025: Govt](https://en.antaranews.com/news/405738/malaria-screening-in-papua-increases-by-337-percent-in-2021-2025-govt) (Antaranews.com)
 
 - [snt-malaria-budgeting 0.7.0](https://pypi.org/project/snt-malaria-budgeting/0.7.0/) (Pypi.org)
-
-- [Bambina 12 anni colpita da malaria ricoverata in ospedale](https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html) (ANSA.it)
 
 ## 26-9 (leptospirosis)
 
@@ -379,8 +359,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue cases, deaths more than halved in 2025, says Ahmad Zahid](https://www.thestar.com.my/news/nation/2026/02/23/dengue-cases-deaths-more-than-halved-in-2025-says-ahmad-zahid) (The Star Online)
 
-- [Over 7,000 people affected by dengue in Sudurpaschim over three years](https://english.khabarhub.com/2026/22/536219/) (Khabarhub.com)
-
 ## 26-9 (chikungunya)
 
 - [Aumentam casos de "chikungunya" em viajantes](https://observador.pt/2026/02/27/aumentam-casos-de-chikungunya-em-viajantes-mas-risco-na-europa-e-baixo/) (Observador.pt)
@@ -397,15 +375,29 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (rabies)
 
+- [CDC pauses rabies and mpox testing #health](https://alltoc.com/health/cdc-pauses-rabies-and-mpox-testing) (Alltoc.com)
+
 - [30-second dog attack caught on CCTV: Multiple people bitten in viral video](https://economictimes.indiatimes.com/news/new-updates/30-second-dog-attack-caught-on-cctv-multiple-people-bitten-in-viral-video/articleshow/130040238.cms) (The Times of India)
 
 - [Ban on rescue dogs from countries at risk of spreading rabies to remain, CFIA says](https://www.cbc.ca/news/politics/dog-international-import-ban-100-countries-cfia-animal-rescue-9.7152014) (CBC News)
+
+## 26-15 (mpox)
+
+- [CDC pauses rabies and mpox testing #health](https://alltoc.com/health/cdc-pauses-rabies-and-mpox-testing) (Alltoc.com)
 
 ## 26-15 (meningitis)
 
 - [Deadly Childhood Disease Rebounding as Vaccine Rates Drop](https://www.newser.com/story/386755/deadly-childhood-disease-rebounding-as-vaccine-rates-drop.html) (Newser)
 
 ## 26-15 (measles)
+
+- [Ministry of Health: Measles patient traveled by public transportation from Beit Shemesh to Jerusalem](https://www.israelnationalnews.com/flashes/682531) (Israelnationalnews.com)
+
+- [Medical supplies are stuck in Dubai, as clinics around the world face shortages](https://www.npr.org/2026/04/06/nx-s1-5775543/medical-supplies-stuck-dubai-clinics-world-face-shortages) (NPR)
+
+- [Bangladesh Races to Contain Measles Outbreak Among Kids](https://www.newser.com/story/386790/bangladesh-races-to-contain-measles-outbreak-among-kids.html) (Newser)
+
+- [Why Bangladesh is seeing a deadly spike in measles](https://www.bbc.com/news/articles/cevkz2z7dm8o) (BBC News)
 
 - [Structural and mechanistic basis for antibody neutralization of the measles fusion protein](https://www.nature.com/articles/s41467-026-71373-4) (Nature.com)
 
@@ -414,6 +406,12 @@ Source: [News API](https://newsapi.org/)
 - [10 more suspected measles deaths, 974 hospitalised in 24 hours](https://www.tbsnews.net/bangladesh/health/10-more-suspected-measles-deaths-974-hospitalised-24-hours-1403421) (Tbsnews.net)
 
 - [Bangladesh says suspected measles outbreak kills about 100 children](https://www.channelnewsasia.com/asia/bangladesh-measles-outbreak-suspected-deaths-6037621) (CNA)
+
+## 26-15 (malaria)
+
+- [Household and community-based approaches to malaria and cholera prevention: A narrative review with case studies from Uganda and Mozambique](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014186) (Plos.org)
+
+- [Andrée Blouin: Sie galt als gefährlichste Frau Afrikas](https://www.zeit.de/2026/15/andree-blouin-aktivistin-kolonialismus-autobiografie-my-country-africa) (Die Zeit)
 
 ## 26-15 (dengue)
 
