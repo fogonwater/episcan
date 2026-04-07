@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-04-06 19:28
-- **Most recent article:** 2026-04-05 18:19:30
+- **New articles in last harvest:** 6
+- **Last harvest:** 2026-04-07 07:37
+- **Most recent article:** 2026-04-06 07:02:00
 
 ---
 
@@ -12,13 +12,13 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 4 | 6 | 175 | 75 | 19 | 0 | 5 | 284 |
-| measles | 70 | 30 | 20 | 21 | 26 | 3 | 70 | 240 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 2 | 13 | 113 |
+| meningitis | 4 | 6 | 175 | 75 | 19 | 1 | 5 | 285 |
+| measles | 70 | 30 | 20 | 21 | 26 | 4 | 78 | 249 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 6 | 14 | 118 |
+| mpox | 10 | 16 | 12 | 4 | 19 | 0 | 27 | 88 |
 | rabies | 18 | 16 | 7 | 5 | 26 | 2 | 13 | 87 |
-| mpox | 10 | 16 | 12 | 4 | 19 | 0 | 26 | 87 |
-| malaria | 16 | 9 | 20 | 14 | 9 | 0 | 10 | 78 |
-| chikungunya | 1 | 7 | 7 | 8 | 11 | 0 | 6 | 40 |
+| malaria | 16 | 9 | 20 | 14 | 9 | 0 | 11 | 79 |
+| chikungunya | 1 | 7 | 7 | 8 | 11 | 1 | 6 | 41 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 0 | 4 | 32 |
 | zika | 1 | 2 | 4 | 1 | 15 | 0 | 2 | 25 |
 | hpai | 2 | 5 | 2 | 6 | 2 | 0 | 2 | 19 |
@@ -134,6 +134,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : deux nouveaux cas de variole B détectés à La Réunion](https://www.franceinfo.fr/sante/maladie/variole-du-singe/mpox-deux-nouveaux-cas-de-variole-b-detectes-a-la-reunion_7824263.html) (Franceinfo.fr)
 
 - [Mpox no Brasil: doença pode matar? Conheça os sintomas](https://www.terra.com.br/vida-e-estilo/saude/mpox-no-brasil-doenca-pode-matar-conheca-os-sintomas,b18bf05d58a7886ed451ae6886d76da1uor4cbaz.html) (Terra.com.br)
+
+- [O que é mpox? Infectologista explica como reconhecer os sintomas](https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox) (Metropoles.com)
 
 ## 26-9 (meningitis)
 
@@ -289,6 +291,22 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles cases surging in 2026? #health](https://alltoc.com/health/why-are-measles-cases-surging-in-2026) (Alltoc.com)
 
+- [Health Ministry: Six-year-old dead due to measles](https://www.israelnationalnews.com/news/422811) (Israelnationalnews.com)
+
+- [ילדה בן 6 שלא חוסנה נפטרה מחצבת - הקורבן ה-16 בגל התחלואה](https://www.ynet.co.il/health/article/skd0rs00obl) (Ynet)
+
+- [Why are measles cases rising in the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s) (Alltoc.com)
+
+- [Parent creates safer social media; global measles outbreaks making travel risky: CBC’s Marketplace Cheat Sheet](https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743) (CBC News)
+
+- [Govt responds to Australia's measles notice from RI travel history](https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history) (Antaranews.com)
+
+- [Why are measles cases rising in 2026? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-2026) (Alltoc.com)
+
+- [Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180) (CBC News)
+
+- [Why are U.S. measles cases nearing 1,000? #health](https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000) (Alltoc.com)
+
 ## 26-9 (malaria)
 
 - [Científicos descubren el origen de la preferencia de los mosquitos por la sangre humana](https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html) (Okdiario.com)
@@ -310,6 +328,8 @@ Source: [News API](https://newsapi.org/)
 - [Malaria screening in Papua increases by 337 percent in 2021-2025: Govt](https://en.antaranews.com/news/405738/malaria-screening-in-papua-increases-by-337-percent-in-2021-2025-govt) (Antaranews.com)
 
 - [snt-malaria-budgeting 0.7.0](https://pypi.org/project/snt-malaria-budgeting/0.7.0/) (Pypi.org)
+
+- [Bambina 12 anni colpita da malaria ricoverata in ospedale](https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html) (ANSA.it)
 
 ## 26-9 (leptospirosis)
 
@@ -359,6 +379,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue cases, deaths more than halved in 2025, says Ahmad Zahid](https://www.thestar.com.my/news/nation/2026/02/23/dengue-cases-deaths-more-than-halved-in-2025-says-ahmad-zahid) (The Star Online)
 
+- [Over 7,000 people affected by dengue in Sudurpaschim over three years](https://english.khabarhub.com/2026/22/536219/) (Khabarhub.com)
+
 ## 26-9 (chikungunya)
 
 - [Aumentam casos de "chikungunya" em viajantes](https://observador.pt/2026/02/27/aumentam-casos-de-chikungunya-em-viajantes-mas-risco-na-europa-e-baixo/) (Observador.pt)
@@ -379,7 +401,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Ban on rescue dogs from countries at risk of spreading rabies to remain, CFIA says](https://www.cbc.ca/news/politics/dog-international-import-ban-100-countries-cfia-animal-rescue-9.7152014) (CBC News)
 
+## 26-15 (meningitis)
+
+- [Deadly Childhood Disease Rebounding as Vaccine Rates Drop](https://www.newser.com/story/386755/deadly-childhood-disease-rebounding-as-vaccine-rates-drop.html) (Newser)
+
 ## 26-15 (measles)
+
+- [Structural and mechanistic basis for antibody neutralization of the measles fusion protein](https://www.nature.com/articles/s41467-026-71373-4) (Nature.com)
 
 - [Suspected measles outbreak kills nearly 100 children in Bangladesh](https://www.aljazeera.com/news/2026/4/5/suspected-measles-outbreak-kills-nearly-100-children-in-bangladesh) (Al Jazeera English)
 
@@ -389,9 +417,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (dengue)
 
+- [El mosquito del dengue ya sobrevive a los insecticidas más usados en Uruguay, según estudio de la Udelar](https://www.elpais.com.uy/informacion/salud/el-mosquito-del-dengue-ya-sobrevive-a-los-insecticidas-mas-usados-en-uruguay-segun-estudio-de-la-udelar) (Diario EL PAIS Uruguay)
+
+- [La stérilisation va-t-elle faire mouche contre le moustique tigre dès 2030 ?](https://www.20minutes.fr/sante/4216026-20260406-sterilisation-va-faire-mouche-contre-moustique-tigre-2030) (20 Minutes)
+
+- [Investigation of and Response to Autochthonous Dengue, Los Angeles County, California, USA, August–November 2024](https://wwwnc.cdc.gov/eid/article/32/5/25-1812_article) (Cdc.gov)
+
+- [Dengue Incidence, Seroprevalence, and Expansion Factors from Active Surveillance, Brazil, 2016–2021](https://wwwnc.cdc.gov/eid/article/32/4/25-0942_article) (Cdc.gov)
+
 - [Dengue en Uruguay: qué recomienda el MSP para quienes regresan de viaje y cuáles son los síntomas](https://www.elpais.com.uy/informacion/salud/dengue-en-uruguay-que-recomienda-el-msp-para-quienes-regresan-de-viaje-y-cuales-son-los-sintomas) (Diario EL PAIS Uruguay)
 
 - [MSP emitió recomendaciones por dengue a viajeros: cuáles son](https://www.montevideo.com.uy/Modo-saludable/MSP-emitio-recomendaciones-por-dengue-a-viajeros-cuales-son-uc958043) (Montevideo.com.uy)
+
+## 26-15 (chikungunya)
+
+- [La stérilisation va-t-elle faire mouche contre le moustique tigre dès 2030 ?](https://www.20minutes.fr/sante/4216026-20260406-sterilisation-va-faire-mouche-contre-moustique-tigre-2030) (20 Minutes)
 
 ## 26-14 (zika)
 
