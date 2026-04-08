@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-04-08 07:38
-- **Most recent article:** 2026-04-07 06:04:10
+- **New articles in last harvest:** 5
+- **Last harvest:** 2026-04-08 19:34
+- **Most recent article:** 2026-04-07 18:03:40
 
 ---
 
@@ -12,17 +12,17 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 4 | 6 | 175 | 75 | 19 | 1 | 5 | 285 |
-| measles | 70 | 30 | 20 | 21 | 26 | 14 | 78 | 259 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 6 | 14 | 118 |
+| meningitis | 4 | 6 | 175 | 75 | 19 | 2 | 5 | 286 |
+| measles | 70 | 30 | 20 | 21 | 26 | 15 | 70 | 252 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 7 | 13 | 118 |
 | rabies | 18 | 16 | 7 | 5 | 26 | 4 | 13 | 89 |
-| mpox | 10 | 16 | 12 | 4 | 19 | 1 | 27 | 89 |
-| malaria | 16 | 9 | 20 | 14 | 9 | 2 | 11 | 81 |
-| chikungunya | 1 | 7 | 7 | 8 | 11 | 1 | 6 | 41 |
+| mpox | 10 | 16 | 12 | 4 | 19 | 1 | 26 | 88 |
+| malaria | 16 | 9 | 20 | 14 | 9 | 4 | 10 | 82 |
+| chikungunya | 1 | 7 | 7 | 8 | 11 | 2 | 6 | 42 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 1 | 4 | 33 |
 | zika | 1 | 2 | 4 | 1 | 15 | 0 | 2 | 25 |
 | hpai | 2 | 5 | 2 | 6 | 2 | 1 | 2 | 20 |
-| leptospirosis | 2 | 1 | 3 | 1 | 0 | 0 | 1 | 8 |
+| leptospirosis | 2 | 1 | 3 | 1 | 0 | 1 | 1 | 9 |
 | typhoid | 3 | 0 | 0 | 1 | 1 | 0 | 2 | 7 |
 | yersinia | 2 | 0 | 1 | 1 | 0 | 0 | 1 | 5 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
@@ -134,8 +134,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : deux nouveaux cas de variole B détectés à La Réunion](https://www.franceinfo.fr/sante/maladie/variole-du-singe/mpox-deux-nouveaux-cas-de-variole-b-detectes-a-la-reunion_7824263.html) (Franceinfo.fr)
 
 - [Mpox no Brasil: doença pode matar? Conheça os sintomas](https://www.terra.com.br/vida-e-estilo/saude/mpox-no-brasil-doenca-pode-matar-conheca-os-sintomas,b18bf05d58a7886ed451ae6886d76da1uor4cbaz.html) (Terra.com.br)
-
-- [O que é mpox? Infectologista explica como reconhecer os sintomas](https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox) (Metropoles.com)
 
 ## 26-9 (meningitis)
 
@@ -291,22 +289,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles cases surging in 2026? #health](https://alltoc.com/health/why-are-measles-cases-surging-in-2026) (Alltoc.com)
 
-- [Health Ministry: Six-year-old dead due to measles](https://www.israelnationalnews.com/news/422811) (Israelnationalnews.com)
-
-- [ילדה בן 6 שלא חוסנה נפטרה מחצבת - הקורבן ה-16 בגל התחלואה](https://www.ynet.co.il/health/article/skd0rs00obl) (Ynet)
-
-- [Why are measles cases rising in the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s) (Alltoc.com)
-
-- [Parent creates safer social media; global measles outbreaks making travel risky: CBC’s Marketplace Cheat Sheet](https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743) (CBC News)
-
-- [Govt responds to Australia's measles notice from RI travel history](https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history) (Antaranews.com)
-
-- [Why are measles cases rising in 2026? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-2026) (Alltoc.com)
-
-- [Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180) (CBC News)
-
-- [Why are U.S. measles cases nearing 1,000? #health](https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000) (Alltoc.com)
-
 ## 26-9 (malaria)
 
 - [Científicos descubren el origen de la preferencia de los mosquitos por la sangre humana](https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html) (Okdiario.com)
@@ -328,8 +310,6 @@ Source: [News API](https://newsapi.org/)
 - [Malaria screening in Papua increases by 337 percent in 2021-2025: Govt](https://en.antaranews.com/news/405738/malaria-screening-in-papua-increases-by-337-percent-in-2021-2025-govt) (Antaranews.com)
 
 - [snt-malaria-budgeting 0.7.0](https://pypi.org/project/snt-malaria-budgeting/0.7.0/) (Pypi.org)
-
-- [Bambina 12 anni colpita da malaria ricoverata in ospedale](https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html) (ANSA.it)
 
 ## 26-9 (leptospirosis)
 
@@ -379,8 +359,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue cases, deaths more than halved in 2025, says Ahmad Zahid](https://www.thestar.com.my/news/nation/2026/02/23/dengue-cases-deaths-more-than-halved-in-2025-says-ahmad-zahid) (The Star Online)
 
-- [Over 7,000 people affected by dengue in Sudurpaschim over three years](https://english.khabarhub.com/2026/22/536219/) (Khabarhub.com)
-
 ## 26-9 (chikungunya)
 
 - [Aumentam casos de "chikungunya" em viajantes](https://observador.pt/2026/02/27/aumentam-casos-de-chikungunya-em-viajantes-mas-risco-na-europa-e-baixo/) (Observador.pt)
@@ -411,9 +389,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (meningitis)
 
+- [Neuroleptospirosis in patients presenting with primary central nervous system infection: A multicentre study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014183) (Plos.org)
+
 - [Deadly Childhood Disease Rebounding as Vaccine Rates Drop](https://www.newser.com/story/386755/deadly-childhood-disease-rebounding-as-vaccine-rates-drop.html) (Newser)
 
 ## 26-15 (measles)
+
+- [What caused measles cases to rise in Bangladesh? #world](https://alltoc.com/world/what-caused-measles-cases-to-rise-in-bangladesh) (Alltoc.com)
 
 - [What did Bangladesh do for measles? #health](https://alltoc.com/health/what-did-bangladesh-do-for-measles) (Alltoc.com)
 
@@ -445,9 +427,17 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (malaria)
 
+- [Tropenmedizin: Malaria-Prophylaxe: Schlucken Reisende seit Jahren zu viele Pillen?](https://www.stern.de/geo/nehmen-reisende-zu-viel-malaria-prophylaxe--37270340.html) (STERN.de)
+
+- [Meilenstein beim Zeckenschutz - Erste rezeptfreie Kautablette gegen Hunde-Malaria!](https://www.bild.de/service/brandstory/anzeige-rezeptfreie-kautablette-gegen-hundemalaria-und-monsterzecke-ist-da-693c3b1b840050c4769114cb) (Bild)
+
 - [Household and community-based approaches to malaria and cholera prevention: A narrative review with case studies from Uganda and Mozambique](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014186) (Plos.org)
 
 - [Andrée Blouin: Sie galt als gefährlichste Frau Afrikas](https://www.zeit.de/2026/15/andree-blouin-aktivistin-kolonialismus-autobiografie-my-country-africa) (Die Zeit)
+
+## 26-15 (leptospirosis)
+
+- [Neuroleptospirosis in patients presenting with primary central nervous system infection: A multicentre study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014183) (Plos.org)
 
 ## 26-15 (hpai)
 
@@ -458,6 +448,8 @@ Source: [News API](https://newsapi.org/)
 - [Genomic analysis of high pathogenicity avian influenza viruses from Antarctica reveals multiple introductions from South America](https://www.nature.com/articles/s41467-026-71544-3) (Nature.com)
 
 ## 26-15 (dengue)
+
+- [España estrena un insectario de alta seguridad para estudiar virus transmitidos por mosquitos](https://www.eldiario.es/spin/espana-estrena-insectario-alta-seguridad-estudiar-virus-transmitidos-mosquitos-pm_1_13124199.html) (Eldiario.es)
 
 - [El mosquito del dengue ya sobrevive a los insecticidas más usados en Uruguay, según estudio de la Udelar](https://www.elpais.com.uy/informacion/salud/el-mosquito-del-dengue-ya-sobrevive-a-los-insecticidas-mas-usados-en-uruguay-segun-estudio-de-la-udelar) (Diario EL PAIS Uruguay)
 
@@ -472,6 +464,8 @@ Source: [News API](https://newsapi.org/)
 - [MSP emitió recomendaciones por dengue a viajeros: cuáles son](https://www.montevideo.com.uy/Modo-saludable/MSP-emitio-recomendaciones-por-dengue-a-viajeros-cuales-son-uc958043) (Montevideo.com.uy)
 
 ## 26-15 (chikungunya)
+
+- [España estrena un insectario de alta seguridad para estudiar virus transmitidos por mosquitos](https://www.eldiario.es/spin/espana-estrena-insectario-alta-seguridad-estudiar-virus-transmitidos-mosquitos-pm_1_13124199.html) (Eldiario.es)
 
 - [La stérilisation va-t-elle faire mouche contre le moustique tigre dès 2030 ?](https://www.20minutes.fr/sante/4216026-20260406-sterilisation-va-faire-mouche-contre-moustique-tigre-2030) (20 Minutes)
 
