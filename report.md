@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2026-04-10 07:39
-- **Most recent article:** 2026-04-09 06:02:57
+- **New articles in last harvest:** 11
+- **Last harvest:** 2026-04-10 19:23
+- **Most recent article:** 2026-04-09 18:03:07
 
 ---
 
@@ -13,20 +13,20 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 4 | 6 | 175 | 75 | 19 | 3 | 5 | 287 |
-| measles | 70 | 30 | 20 | 21 | 26 | 23 | 78 | 268 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 8 | 14 | 120 |
-| mpox | 10 | 16 | 12 | 4 | 19 | 2 | 27 | 90 |
-| rabies | 18 | 16 | 7 | 5 | 26 | 4 | 13 | 89 |
-| malaria | 16 | 9 | 20 | 14 | 9 | 6 | 11 | 85 |
-| chikungunya | 1 | 7 | 7 | 8 | 11 | 2 | 6 | 42 |
+| measles | 70 | 30 | 20 | 21 | 26 | 28 | 70 | 265 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 8 | 13 | 119 |
+| rabies | 18 | 16 | 7 | 5 | 26 | 6 | 13 | 91 |
+| mpox | 10 | 16 | 12 | 4 | 19 | 3 | 26 | 90 |
+| malaria | 16 | 9 | 20 | 14 | 9 | 6 | 10 | 84 |
+| chikungunya | 1 | 7 | 7 | 8 | 11 | 3 | 6 | 43 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 1 | 4 | 33 |
 | zika | 1 | 2 | 4 | 1 | 15 | 0 | 2 | 25 |
-| hpai | 2 | 5 | 2 | 6 | 2 | 1 | 2 | 20 |
+| hpai | 2 | 5 | 2 | 6 | 2 | 2 | 2 | 21 |
 | leptospirosis | 2 | 1 | 3 | 1 | 0 | 1 | 1 | 9 |
 | typhoid | 3 | 0 | 0 | 1 | 1 | 0 | 2 | 7 |
 | yersinia | 2 | 0 | 1 | 1 | 0 | 0 | 1 | 5 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
-| shigellosis | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -134,8 +134,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : deux nouveaux cas de variole B détectés à La Réunion](https://www.franceinfo.fr/sante/maladie/variole-du-singe/mpox-deux-nouveaux-cas-de-variole-b-detectes-a-la-reunion_7824263.html) (Franceinfo.fr)
 
 - [Mpox no Brasil: doença pode matar? Conheça os sintomas](https://www.terra.com.br/vida-e-estilo/saude/mpox-no-brasil-doenca-pode-matar-conheca-os-sintomas,b18bf05d58a7886ed451ae6886d76da1uor4cbaz.html) (Terra.com.br)
-
-- [O que é mpox? Infectologista explica como reconhecer os sintomas](https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox) (Metropoles.com)
 
 ## 26-9 (meningitis)
 
@@ -291,22 +289,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles cases surging in 2026? #health](https://alltoc.com/health/why-are-measles-cases-surging-in-2026) (Alltoc.com)
 
-- [Health Ministry: Six-year-old dead due to measles](https://www.israelnationalnews.com/news/422811) (Israelnationalnews.com)
-
-- [ילדה בן 6 שלא חוסנה נפטרה מחצבת - הקורבן ה-16 בגל התחלואה](https://www.ynet.co.il/health/article/skd0rs00obl) (Ynet)
-
-- [Why are measles cases rising in the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s) (Alltoc.com)
-
-- [Parent creates safer social media; global measles outbreaks making travel risky: CBC’s Marketplace Cheat Sheet](https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743) (CBC News)
-
-- [Govt responds to Australia's measles notice from RI travel history](https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history) (Antaranews.com)
-
-- [Why are measles cases rising in 2026? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-2026) (Alltoc.com)
-
-- [Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180) (CBC News)
-
-- [Why are U.S. measles cases nearing 1,000? #health](https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000) (Alltoc.com)
-
 ## 26-9 (malaria)
 
 - [Científicos descubren el origen de la preferencia de los mosquitos por la sangre humana](https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html) (Okdiario.com)
@@ -328,8 +310,6 @@ Source: [News API](https://newsapi.org/)
 - [Malaria screening in Papua increases by 337 percent in 2021-2025: Govt](https://en.antaranews.com/news/405738/malaria-screening-in-papua-increases-by-337-percent-in-2021-2025-govt) (Antaranews.com)
 
 - [snt-malaria-budgeting 0.7.0](https://pypi.org/project/snt-malaria-budgeting/0.7.0/) (Pypi.org)
-
-- [Bambina 12 anni colpita da malaria ricoverata in ospedale](https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html) (ANSA.it)
 
 ## 26-9 (leptospirosis)
 
@@ -379,8 +359,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue cases, deaths more than halved in 2025, says Ahmad Zahid](https://www.thestar.com.my/news/nation/2026/02/23/dengue-cases-deaths-more-than-halved-in-2025-says-ahmad-zahid) (The Star Online)
 
-- [Over 7,000 people affected by dengue in Sudurpaschim over three years](https://english.khabarhub.com/2026/22/536219/) (Khabarhub.com)
-
 ## 26-9 (chikungunya)
 
 - [Aumentam casos de "chikungunya" em viajantes](https://observador.pt/2026/02/27/aumentam-casos-de-chikungunya-em-viajantes-mas-risco-na-europa-e-baixo/) (Observador.pt)
@@ -395,7 +373,15 @@ Source: [News API](https://newsapi.org/)
 
 - [Resurgent threat in a changing climate: A 20-year bibliometric analysis of global Chikungunya research evolution and pandemic preparedness](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013959) (Plos.org)
 
+## 26-15 (shigellosis)
+
+- [Emergence of Extensively Drug-Resistant Shigellosis - United States, 2011-2023](https://www.cdc.gov/mmwr/volumes/75/wr/mm7513a1.htm) (Cdc.gov)
+
 ## 26-15 (rabies)
+
+- [Ecuador Free of Rabies project accelerates progress toward eliminating dog-mediated rabies supported by Boehringer Ingelheim’s Stop Rabies program](https://financialpost.com/globe-newswire/ecuador-free-of-rabies-project-accelerates-progress-toward-eliminating-dog-mediated-rabies-supported-by-boehringer-ingelheims-stop-rabies-program) (Financial Post)
+
+- [Ecuador Free of Rabies project accelerates progress toward eliminating dog-mediated rabies supported by Boehringer Ingelheim’s Stop Rabies program](https://www.globenewswire.com/news-release/2026/04/09/3270677/0/en/Ecuador-Free-of-Rabies-project-accelerates-progress-toward-eliminating-dog-mediated-rabies-supported-by-Boehringer-Ingelheim-s-Stop-Rabies-program.html) (GlobeNewswire)
 
 - [Varnar för rabiesrisk vid hundköp – valpar förs in i landet med falska intyg](https://www.dn.se/sverige/varnar-for-rabiesrisk-vid-hundkop-valpar-fors-in-i-landet-med-falska-intyg/) (Www.dn.se)
 
@@ -406,6 +392,8 @@ Source: [News API](https://newsapi.org/)
 - [Ban on rescue dogs from countries at risk of spreading rabies to remain, CFIA says](https://www.cbc.ca/news/politics/dog-international-import-ban-100-countries-cfia-animal-rescue-9.7152014) (CBC News)
 
 ## 26-15 (mpox)
+
+- [How bad for humans is wildlife trade? A new study has answers](https://www.npr.org/2026/04/09/nx-s1-5776668/wildlife-trade-pathogens-spillover) (NPR)
 
 - [Vírus je späť. V Bratislavskom kraji evidujú päť prípadov opičích kiahní](https://spravy.pravda.sk/regiony/clanok/797603-virus-je-spat-v-bratislavskom-kraji-eviduju-pat-pripadov-opicich-kiahni/) (Pravda.sk)
 
@@ -420,6 +408,16 @@ Source: [News API](https://newsapi.org/)
 - [Deadly Childhood Disease Rebounding as Vaccine Rates Drop](https://www.newser.com/story/386755/deadly-childhood-disease-rebounding-as-vaccine-rates-drop.html) (Newser)
 
 ## 26-15 (measles)
+
+- [What triggered the measles outbreak in Utah? #health](https://alltoc.com/health/what-triggered-the-measles-outbreak-in-utah) (Alltoc.com)
+
+- [Indonesia's BPOM approves wider measles vaccine use amid outbreaks](https://en.antaranews.com/news/411816/indonesias-bpom-approves-wider-measles-vaccine-use-amid-outbreaks) (Antaranews.com)
+
+- [First case of measles detected in Quebec City as province faces another outbreak](https://www.cbc.ca/news/canada/montreal/quebec-city-measles-detected-outbreak-9.7157495) (CBC News)
+
+- [Why did measles outbreak spread in Utah? #health](https://alltoc.com/health/why-did-measles-outbreak-spread-in-utah) (Alltoc.com)
+
+- [Invivyd Announces REVOLUTION Program Progress and Advancement of Novel, Potential First- and Best-in-Class Measles Monoclonal Antibody Candidate VMS063 for Treatment and Prevention of Measles](https://www.globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html) (GlobeNewswire)
 
 - [How is the measles outbreak spreading in Utah? #health](https://alltoc.com/health/how-is-the-measles-outbreak-spreading-in-utah) (Alltoc.com)
 
@@ -487,6 +485,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (hpai)
 
+- [Helport AI and QuickCEP Forge Strategic Alliance, Aiming to Accelerate AI Workforce Infrastructure for Global Brands](https://www.globenewswire.com/news-release/2026/04/09/3270980/0/en/Helport-AI-and-QuickCEP-Forge-Strategic-Alliance-Aiming-to-Accelerate-AI-Workforce-Infrastructure-for-Global-Brands.html) (GlobeNewswire)
+
 - [Genomic analysis of high pathogenicity avian influenza viruses from Antarctica reveals multiple introductions from South America](https://www.nature.com/articles/s41467-026-71544-3) (Nature.com)
 
 ## 26-15 (h5n1)
@@ -512,6 +512,8 @@ Source: [News API](https://newsapi.org/)
 - [MSP emitió recomendaciones por dengue a viajeros: cuáles son](https://www.montevideo.com.uy/Modo-saludable/MSP-emitio-recomendaciones-por-dengue-a-viajeros-cuales-son-uc958043) (Montevideo.com.uy)
 
 ## 26-15 (chikungunya)
+
+- [Inhibition of Chikungunya virus nsP2 protease in vitro by scorpion venom peptide pantinin-1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346930) (Plos.org)
 
 - [España estrena un insectario de alta seguridad para estudiar virus transmitidos por mosquitos](https://www.eldiario.es/spin/espana-estrena-insectario-alta-seguridad-estudiar-virus-transmitidos-mosquitos-pm_1_13124199.html) (Eldiario.es)
 

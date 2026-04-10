@@ -1,8 +1,206 @@
 {
-  "last_updated": "2026-04-10 07:39",
+  "last_updated": "2026-04-10 19:23",
   "count_articles_total": 1030,
-  "count_articles_new": 6,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 28933,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What triggered the measles outbreak in Utah? #health",
+      "description": "Measles outbreak began in rural Utah A measles outbreak that started in rural Utah last June has continued spreading, moving from initial clusters into the state\u2019s more populated \u201curban corridor,\u201d with hundreds of people now sickened. This matters because mea\u2026",
+      "url": "https://alltoc.com/health/what-triggered-the-measles-outbreak-in-utah",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-09 18:03:07",
+      "content": "A measles outbreak that started in rural Utah last June has continued spreading, moving from initial clusters into the states more populated urban corridor, with hundreds of people now sickened. Thi\u2026 [+1536 chars]",
+      "retrievedAt": "2026-04-10 19:23:24.050306",
+      "internal_id": "ca0b5ce119e847eb8e0fb34a97285005b5a5f5cf49ea038d2253e4908afce5de",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28939,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Jonathan Lambert",
+      "title": "How bad for humans is wildlife trade? A new study has answers",
+      "description": "People sell wild animals for food and for traditional medicine \u2014 legally and illegally. A study looks at the risks of spillover diseases from those pangolins, giant rats and other exotic critters.",
+      "url": "https://www.npr.org/2026/04/09/nx-s1-5776668/wildlife-trade-pathogens-spillover",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2048x1152+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc4%2F43%2F46ae203a47f6a5cda4614a87e3f4%2Fgettyimages-1211085754.jpg",
+      "publishedAt": "2026-04-09 18:01:22",
+      "content": "In 2003, a shipment of exotic African rodents to a pet store in Illinois sparked the United States' first mpox outbreak . Gambian giant rats and other rodents infected prairie dogs, which in turn in\u2026 [+5632 chars]",
+      "retrievedAt": "2026-04-10 19:23:30.018749",
+      "internal_id": "6b2860755558c021064802dabc1d73d128636d66e896d4ada029f25a32d158b8",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28940,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": "CDC",
+      "title": "Emergence of Extensively Drug-Resistant Shigellosis - United States, 2011-2023",
+      "description": "This report describes the emergence of drug-resistant shigellosis in the United States during 2011-2023.",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7513a1.htm",
+      "urlToImage": "https://www.cdc.gov/mmwr/volumes/75/wr/social-media/weekly_generic_logo_1200x675.jpg?_=17133",
+      "publishedAt": "2026-04-09 17:00:00",
+      "content": "Naeemah Logan, MD1; Meseret G. Birhane, MPH1; Sharla L. McDonald, MPH1; Jemma Alarc\u00f3n, MD2; Salette Amador2; Madhu Anand, DrPH3; Laura H. Bachmann, MD4; Kevin Bernard, MS5; Lindsay S. Black, MPH3; An\u2026 [+23483 chars]",
+      "retrievedAt": "2026-04-10 19:23:30.549635",
+      "internal_id": "0d953dffcff46f4ca83f832ae45d101a490818c93a0f2138c6e4268a6b8f3ac8",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28936,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna Ning Prisie, Yashinta Difa",
+      "title": "Indonesia's BPOM approves wider measles vaccine use amid outbreaks",
+      "description": "Indonesia&#39;s Food and Drug Monitoring Agency (BPOM) has approved the expanded use of the measles vaccine for at-risk adult groups as part of efforts to ...",
+      "url": "https://en.antaranews.com/news/411816/indonesias-bpom-approves-wider-measles-vaccine-use-amid-outbreaks",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/03/30/layanan-vaksinasi-mencegah-campak-di-semarang-2763630.jpg",
+      "publishedAt": "2026-04-09 15:35:30",
+      "content": "Jakarta (ANTARA) - Indonesia's Food and Drug Monitoring Agency (BPOM) has approved the expanded use of the measles vaccine for at-risk adult groups as part of efforts to control outbreaks.The move re\u2026 [+2504 chars]",
+      "retrievedAt": "2026-04-10 19:23:24.149688",
+      "internal_id": "487a68a8ff60c1bb70a1d56f393452bdf20ed3ebd74eb50f18c8a96b80b0f565",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28932,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "First case of measles detected in Quebec City as province faces another outbreak",
+      "description": "The first case of measles has been detected in the Quebec City region, according to the local health authority. On Thursday, public health listed the Clinique M\u00e9dic Axion, the CHUL hospital and an office building as places of possible exposure.",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-city-measles-detected-outbreak-9.7157495",
+      "urlToImage": "https://i.cbc.ca/ais/dee3874f-686c-4b00-a26e-4235ba41c14d,1775743449582/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C350%2C6720%2C3780%29%3BResize%3D620",
+      "publishedAt": "2026-04-09 14:29:18",
+      "content": "The first case of measles has been detected in the Quebec City region, according to the local health authority. The Quebec government says that, as of April 8, the province is facing a measles outb\u2026 [+676 chars]",
+      "retrievedAt": "2026-04-10 19:23:24.029800",
+      "internal_id": "84c42a0ac9e6e7b5ef35080194dcd911d9ecfc02ef0b6aae296543a7c85d949f",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28938,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mohammadamin Mastalipour, M\u00f4nika Aparecida Coronado, Jorge Enrique Hern\u00e1ndez Gonz\u00e1lez, Dieter Willbold, Raphael Josef Eberle",
+      "title": "Inhibition of Chikungunya virus nsP2 protease in vitro by scorpion venom peptide pantinin-1",
+      "description": "Climate change has facilitated the spread of arboviruses like the Chikungunya virus (CHIKV). CHIKV, a re-emerging virus from the Togaviridae family, has caused numerous global outbreaks. The absence of antiviral therapy against CHIKV poses a significant threa\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0346930",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0346930.g004&size=inline",
+      "publishedAt": "2026-04-09 14:00:00",
+      "content": "Abstract Climate change has facilitated the spread of arboviruses like the Chikungunya virus (CHIKV). CHIKV, a re-emerging virus from the Togaviridae family, has caused numerous global outbreaks. Th\u2026 [+61337 chars]",
+      "retrievedAt": "2026-04-10 19:23:25.556917",
+      "internal_id": "78e5679adc930bc5c03c94b19c1606bceb89c7e7dba40522c1d2dfd5b951c4e7",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28937,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Helport AI, Inc.",
+      "title": "Helport AI and QuickCEP Forge Strategic Alliance, Aiming to Accelerate AI Workforce Infrastructure for Global Brands",
+      "description": "Helport AI and QuickCEP partner to deliver a fully managed AI agent solution, combining AI labor infrastructure and SaaS to drive outcome-based growth....",
+      "url": "https://www.globenewswire.com/news-release/2026/04/09/3270980/0/en/Helport-AI-and-QuickCEP-Forge-Strategic-Alliance-Aiming-to-Accelerate-AI-Workforce-Infrastructure-for-Global-Brands.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/4165bcbe-7c28-4ab2-a6fa-6df96179cf81",
+      "publishedAt": "2026-04-09 12:31:00",
+      "content": "SAN DIEGO and SINGAPORE, April 09, 2026 (GLOBE NEWSWIRE) -- Helport AI Limited (NASDAQ: HPAI) (Helport AI or the Company), a global technology company providing enterprise clients with intelligent cu\u2026 [+6387 chars]",
+      "retrievedAt": "2026-04-10 19:23:24.301627",
+      "internal_id": "cee8495f0789adb9b2ca96585ecb371855c7f8568a02e02c5a52abbab56218d1",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28934,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why did measles outbreak spread in Utah? #health",
+      "description": "Measles outbreak keeps expanding after rural start A measles outbreak that began in rural Utah last June has continued to grow, reaching \u201chundreds\u201d of cases across the state\u2019s more urban corridor. The story describes a progression from a small start to a wide\u2026",
+      "url": "https://alltoc.com/health/why-did-measles-outbreak-spread-in-utah",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-09 12:03:27",
+      "content": "A measles outbreak that began in rural Utah last June has continued to grow, reaching hundreds of cases across the states more urban corridor. The story describes a progression from a small start to \u2026 [+1381 chars]",
+      "retrievedAt": "2026-04-10 19:23:24.089297",
+      "internal_id": "f00bfb272a2e20085edaa9c25edecb0b46910154b9884a87524568199b4363a1",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28935,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Invivyd",
+      "title": "Invivyd Announces REVOLUTION Program Progress and Advancement of Novel, Potential First- and Best-in-Class Measles Monoclonal Antibody Candidate VMS063 for Treatment and Prevention of Measles",
+      "description": "NEW HAVEN, Conn., April 09, 2026 (GLOBE NEWSWIRE) -- Invivyd, Inc. (Nasdaq: IVVD) today announced progress in its REVOLUTION clinical program for VYD2311, a novel monoclonal antibody investigational candidate for the prevention of symptomatic COVID-19. Invivy\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/04/09/3270803/0/en/Invivyd-Announces-REVOLUTION-Program-Progress-and-Advancement-of-Novel-Potential-First-and-Best-in-Class-Measles-Monoclonal-Antibody-Candidate-VMS063-for-Treatment-and-Prevention-o.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/7bf12f50-1073-4ce7-81ac-89426c07add3",
+      "publishedAt": "2026-04-09 11:01:00",
+      "content": "Confirmed, pooled, blinded COVID-19 events in the ongoing Phase 3 DECLARATION study of VYD2311 accumulated to date (~ 50% of study progress) can already provide sufficient statistical power t\u2026 [+18529 chars]",
+      "retrievedAt": "2026-04-10 19:23:24.109206",
+      "internal_id": "9fdee7975168bb714c27ba9b214351fefc32bde38e2d1c27a33f92448882e798",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28930,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "financial-post",
+      "source_name": "Financial Post",
+      "author": "GlobeNewswire",
+      "title": "Ecuador Free of Rabies project accelerates progress toward eliminating dog-mediated rabies supported by Boehringer Ingelheim\u2019s Stop Rabies program",
+      "description": "\u2022 Ecuador aims to become one of the first rabies free countries in Latin America.\u2022 Joint efforts with the Ministry of Public Health focus on vaccination, education and epidemiological surveillance. \u2022 Boehringer Ingelheim announces critical support to\u2026",
+      "url": "https://financialpost.com/globe-newswire/ecuador-free-of-rabies-project-accelerates-progress-toward-eliminating-dog-mediated-rabies-supported-by-boehringer-ingelheims-stop-rabies-program",
+      "urlToImage": null,
+      "publishedAt": "2026-04-09 08:02:42",
+      "content": "Ecuador aims to become one of the first rabies free countries in Latin America.Joint efforts with the Ministry of Public Health focus on vaccination, education and epidemiological surveillance. Boehr\u2026 [+5070 chars]",
+      "retrievedAt": "2026-04-10 19:23:23.680115",
+      "internal_id": "205559d5ca80c6cf7749d637d80f2b2f6860a0f7673002ed3f459d0f1dc8fc2f",
+      "publishedAtLabel": "Apr 9"
+    },
+    {
+      "id": 28931,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Boehringer Ingelheim Limited",
+      "title": "Ecuador Free of Rabies project accelerates progress toward eliminating dog-mediated rabies supported by Boehringer Ingelheim\u2019s Stop Rabies program",
+      "description": "\u2022 Ecuador aims to become one of the first rabies free countries in Latin America.\u2022 Joint efforts with the Ministry of Public Health focus on vaccination, education and epidemiological surveillance. \u2022 Boehringer Ingelheim announces critical support to\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/04/09/3270677/0/en/Ecuador-Free-of-Rabies-project-accelerates-progress-toward-eliminating-dog-mediated-rabies-supported-by-Boehringer-Ingelheim-s-Stop-Rabies-program.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f121dfae-77e7-4a01-b1ef-6b757767ddab",
+      "publishedAt": "2026-04-09 08:00:00",
+      "content": "Ecuador aims to become one of the first rabies free countries in Latin America.Joint efforts with the Ministry of Public Health focus on vaccination, education and epidemiological surveillance. Boehr\u2026 [+5466 chars]",
+      "retrievedAt": "2026-04-10 19:23:23.701509",
+      "internal_id": "6610d7d05ba87051cb40f8559d9a18c959592fff625c773b2fa29299e17e0cdb",
+      "publishedAtLabel": "Apr 9"
+    },
     {
       "id": 28925,
       "query": [
@@ -18398,204 +18596,6 @@
       "content": "Harrisburg, Pa. In response to a recent spike in Highly Pathogenic Avian Influenza (HPAI), the Commonwealth has mobilized additional personnel, expanded testing capacity, and is coordinating closely \u2026 [+6056 chars]",
       "retrievedAt": "2026-02-24 07:26:47.846395",
       "internal_id": "ce7eec96c60a9d270a6601726942adc8050558ae6ac876ccc756cde8ab62af18",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27897,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Israel National News",
-      "title": "Health Ministry: Six-year-old dead due to measles",
-      "description": "Unvaccinated six-year-old boy brought to hospital in critical condition. Pronounced dead after attempts to revive him.",
-      "url": "https://www.israelnationalnews.com/news/422811",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1206788.jpg",
-      "publishedAt": "2026-02-22 16:54:46",
-      "content": "The Israeli Ministry of Health reported on Sunday that an unvaccinated six-year-old boy died overnight from measles. The boy was brought in critical condition to a hospital, where doctors pronounced \u2026 [+390 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.393726",
-      "internal_id": "35bef6eb3d62790ed7df254364db6aa8c43605324a700092d37310169285c62a",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27902,
-      "query": [
-        "measles"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05d0\u05d5\u05e8 \u05d4\u05d3\u05e8",
-      "title": "\u05d9\u05dc\u05d3\u05d4 \u05d1\u05df 6 \u05e9\u05dc\u05d0 \u05d7\u05d5\u05e1\u05e0\u05d4 \u05e0\u05e4\u05d8\u05e8\u05d4 \u05de\u05d7\u05e6\u05d1\u05ea - \u05d4\u05e7\u05d5\u05e8\u05d1\u05df \u05d4-16 \u05d1\u05d2\u05dc \u05d4\u05ea\u05d7\u05dc\u05d5\u05d0\u05d4",
-      "description": "\u05d1\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d0\u05de\u05e8\u05d5 \u05db\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d4 \u05d4\u05d2\u05d9\u05e2\u05d4 \u05d1\u05de\u05e6\u05d1 \u05d0\u05e0\u05d5\u05e9 \u05dc\u05d1\u05d9\u05ea \u05d4\u05d7\u05d5\u05dc\u05d9\u05dd \u05d4\u05d3\u05e1\u05d4 \u05e2\u05d9\u05df \u05db\u05e8\u05dd \u05d1\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e9\u05dd \u05dc\u05d0\u05d7\u05e8 \u05de\u05d0\u05de\u05e6\u05d9 \u05d4\u05d7\u05d9\u05d9\u05d0\u05d4, \u05e0\u05d0\u05dc\u05e6\u05d5 \u05d4\u05e8\u05d5\u05e4\u05d0\u05d9\u05dd \u05dc\u05e7\u05d1\u05d5\u05e2 \u05d0\u05ea \u05de\u05d5\u05ea\u05d4",
-      "url": "https://www.ynet.co.il/health/article/skd0rs00obl",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/26/ry7RdvEWZl/ry7RdvEWZl_1_67_1000_563_0_large.jpg",
-      "publishedAt": "2026-02-22 16:31:37",
-      "content": "(Measles virus), . , . -1,000, . , , 10-7 , , . , , -2,900 . , 10,000-15,000 . , -1,000 , . , .",
-      "retrievedAt": "2026-02-23 19:28:35.679713",
-      "internal_id": "b93974e2cc94bfb2313c84ca033a3e7604b9c8e3107a47dd211ba750b4fb5d17",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27899,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles cases rising in the U.S.? #health",
-      "description": "A fast growing outbreak driven by pockets of under vaccination Public health agencies report a steep rise in measles cases across the United States this year, driven largely by clusters of unvaccinated people and several localized outbreaks. The Centers for D\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-02-22 15:10:33",
-      "content": "Public health agencies report a steep rise in measles cases across the United States this year, driven largely by clusters of unvaccinated people and several localized outbreaks. The Centers for Dise\u2026 [+1755 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.550841",
-      "internal_id": "26d78ac9a53cdf1f12336d1febc1ed4b8ab829a0a7e91bd673701bd1a0529956",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27905,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Metr\u00f3poles",
-      "title": "O que \u00e9 mpox? Infectologista explica como reconhecer os sintomas",
-      "description": "A mpox \u00e9 uma doen\u00e7a viral que exige aten\u00e7\u00e3o para ser reconhecida logo aos primeiros sinais. Cuidados simples ajudam a evitar o cont\u00e1gio",
-      "url": "https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox",
-      "urlToImage": "https://images.metroimg.com/2026/02/pessoa-com-mpox-getty-images.jpg",
-      "publishedAt": "2026-02-22 14:33:50",
-      "content": "A mpox \u00e9 uma doen\u00e7a viral que voltou a chamar aten\u00e7\u00e3o das autoridades de sa\u00fade em 2026. Embora a maioria dos casos registados este ano evolua de forma leve, reconhecer os sintomas e entender como oco\u2026 [+5520 chars]",
-      "retrievedAt": "2026-02-23 19:28:37.676018",
-      "internal_id": "125679b91d5b45fc5cff2a52747809e7da3e7b79a997bbc032969d47c953504c",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27896,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Parent creates safer social media; global measles outbreaks making travel risky: CBC\u2019s Marketplace Cheat Sheet",
-      "description": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743",
-      "urlToImage": "https://i.cbc.ca/ais/5a02f957-25d3-4f0a-840c-cd7954a83475,1771353291311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C243%2C4032%2C2268%29%3BResize%3D620",
-      "publishedAt": "2026-02-22 13:00:00",
-      "content": "Miss something this week? Don't panic. The CBC's Marketplace rounds up the consumer and health news you need. Want this in your inbox? Get the Marketplace newsletter every Friday. Join Marketplace \u2026 [+6281 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.333097",
-      "internal_id": "42f273cabb63eaef53db94cb5713151c656e2d7c99c7357791538a2fd36014c4",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27904,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Bambina 12 anni colpita da malaria ricoverata in ospedale",
-      "description": "Una bambina di 12 anni \u00e8 stata trasferita ieri dall'Ospedale di Chioggia a quello di Padova, per competenza pediatrica, dopo essere stata presa in carico e assistita con sospetto di malaria. (ANSA)",
-      "url": "https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2026/2/5/4c95a0a339dea9ffc445c73a32ce211b.jpg",
-      "publishedAt": "2026-02-22 12:59:12",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2026-02-23 19:28:36.887394",
-      "internal_id": "5aae930093af3e6784828d95f75db24f321f8ef0341c447b9fde03bf7c246cf8",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27940,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Mecca Yumna, Resinta Sulistiyandari",
-      "title": "Govt responds to Australia's measles notice from RI travel history",
-      "description": "The Ministry of Health has received formal notification from Australian health authorities about a measles case involving travel history from Indonesia and is ...",
-      "url": "https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/03/05/Screenshot_20230305_115713_Chrome.jpg",
-      "publishedAt": "2026-02-22 12:23:04",
-      "content": "Jakarta (ANTARA) - The Ministry of Health has received formal notification from Australian health authorities about a measles case involving travel history from Indonesia and is coordinating with Aus\u2026 [+2483 chars]",
-      "retrievedAt": "2026-02-25 07:27:10.154038",
-      "internal_id": "b4595be9d3a0c182a11f8347113f777c2b42d782e93e28008b2fb34c3d4d2c2c",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27898,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles cases rising in 2026? #health",
-      "description": "Explaining the recent surge Public health agencies are reporting a sharp rise in measles cases across multiple countries in 2026. In the United States, the Centers for Disease Control and Prevention has logged 982 cases so far this year \u2014 more than four times\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-2026",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-02-22 12:10:49",
-      "content": "Public health agencies are reporting a sharp rise in measles cases across multiple countries in 2026. In the United States, the Centers for Disease Control and Prevention has logged 982 cases so far \u2026 [+1841 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.541002",
-      "internal_id": "ffc2bca0e455b601c4b08a5ed0e9b54d19a25bf5554c8d706cddb3e6ed79e8e4",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27901,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?",
-      "description": "As Manitoba grapples with a swelling number of measles cases, a school division trustee would like to see mandatory immunization against the illness and other diseases for students.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180",
-      "urlToImage": "https://i.cbc.ca/ais/6d910c5a-ad2b-4271-b713-696864ba2f15,1771706005259/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C31%2C6850%2C3853%29%3BResize%3D620",
-      "publishedAt": "2026-02-22 12:00:00",
-      "content": "Linda Ross wonders if Manitoba's measles outbreak would have spiralled to hundreds of cases if school divisions had pushed for mandatory vaccination against the illness for students almost a decade a\u2026 [+9242 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.640348",
-      "internal_id": "2a060d12e789819eaa6b053315b0ef988a030ac18a7af78e2d9f583ad1cf8ee1",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27903,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Over 7,000 people affected by dengue in Sudurpaschim over three years",
-      "description": "KANCHANPUR: The risk of dengue infection in Sudurpaschim Province continues to be a serious public health concern. According to data from the Health Directorate in Dipayal, a total of 7,683 people have been infected with dengue across the province over the pa\u2026",
-      "url": "https://english.khabarhub.com/2026/22/536219/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2026-02-22 09:15:17",
-      "content": "KANCHANPUR: The risk of dengue infection in Sudurpaschim Province continues to be a serious public health concern. According to data from the Health Directorate in Dipayal, a total of 7,683 people h\u2026 [+1530 chars]",
-      "retrievedAt": "2026-02-23 19:28:36.377617",
-      "internal_id": "71b8c242d6e7a9ff3dde290b690d77a6e7633d30b1b750079a172dbe0d975432",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27900,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are U.S. measles cases nearing 1,000? #health",
-      "description": "Measles is resurging \u2014 what\u2019s happening and why it matters Health authorities are reporting a sharp increase in cases this year, driven mainly by clusters among unvaccinated children and pockets of low immunization coverage. The United States has logged just \u2026",
-      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-02-22 09:11:22",
-      "content": "Health authorities are reporting a sharp increase in cases this year, driven mainly by clusters among unvaccinated children and pockets of low immunization coverage. The United States has logged just\u2026 [+1807 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.569240",
-      "internal_id": "1c73427b6dbfe4d2d7c1646b442f78b5d125ac21b6cd35a4d666aa74c5df913a",
       "publishedAtLabel": "Feb 22"
     }
   ]
