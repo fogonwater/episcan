@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-04-11 07:26
-- **Most recent article:** 2026-04-10 06:58:00
+- **New articles in last harvest:** 23
+- **Last harvest:** 2026-04-11 19:18
+- **Most recent article:** 2026-04-10 18:04:04
 
 ---
 
@@ -12,19 +12,19 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 4 | 6 | 175 | 75 | 19 | 3 | 5 | 287 |
-| measles | 70 | 30 | 20 | 21 | 26 | 32 | 78 | 277 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 8 | 14 | 120 |
-| mpox | 10 | 16 | 12 | 4 | 19 | 9 | 27 | 97 |
-| rabies | 18 | 16 | 7 | 5 | 26 | 6 | 13 | 91 |
-| malaria | 16 | 9 | 20 | 14 | 9 | 6 | 11 | 85 |
+| meningitis | 4 | 6 | 175 | 75 | 19 | 4 | 5 | 288 |
+| measles | 70 | 30 | 20 | 21 | 26 | 44 | 70 | 281 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 10 | 13 | 121 |
+| mpox | 10 | 16 | 12 | 4 | 19 | 9 | 26 | 96 |
+| rabies | 18 | 16 | 7 | 5 | 26 | 8 | 13 | 93 |
+| malaria | 16 | 9 | 20 | 14 | 9 | 10 | 10 | 88 |
 | chikungunya | 1 | 7 | 7 | 8 | 11 | 3 | 6 | 43 |
-| h5n1 | 2 | 8 | 7 | 4 | 7 | 1 | 4 | 33 |
+| h5n1 | 2 | 8 | 7 | 4 | 7 | 2 | 4 | 34 |
 | zika | 1 | 2 | 4 | 1 | 15 | 0 | 2 | 25 |
 | hpai | 2 | 5 | 2 | 6 | 2 | 2 | 2 | 21 |
 | leptospirosis | 2 | 1 | 3 | 1 | 0 | 1 | 1 | 9 |
 | typhoid | 3 | 0 | 0 | 1 | 1 | 0 | 2 | 7 |
-| yersinia | 2 | 0 | 1 | 1 | 0 | 0 | 1 | 5 |
+| yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 1 | 6 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
 
@@ -134,8 +134,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : deux nouveaux cas de variole B détectés à La Réunion](https://www.franceinfo.fr/sante/maladie/variole-du-singe/mpox-deux-nouveaux-cas-de-variole-b-detectes-a-la-reunion_7824263.html) (Franceinfo.fr)
 
 - [Mpox no Brasil: doença pode matar? Conheça os sintomas](https://www.terra.com.br/vida-e-estilo/saude/mpox-no-brasil-doenca-pode-matar-conheca-os-sintomas,b18bf05d58a7886ed451ae6886d76da1uor4cbaz.html) (Terra.com.br)
-
-- [O que é mpox? Infectologista explica como reconhecer os sintomas](https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox) (Metropoles.com)
 
 ## 26-9 (meningitis)
 
@@ -291,22 +289,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles cases surging in 2026? #health](https://alltoc.com/health/why-are-measles-cases-surging-in-2026) (Alltoc.com)
 
-- [Health Ministry: Six-year-old dead due to measles](https://www.israelnationalnews.com/news/422811) (Israelnationalnews.com)
-
-- [ילדה בן 6 שלא חוסנה נפטרה מחצבת - הקורבן ה-16 בגל התחלואה](https://www.ynet.co.il/health/article/skd0rs00obl) (Ynet)
-
-- [Why are measles cases rising in the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s) (Alltoc.com)
-
-- [Parent creates safer social media; global measles outbreaks making travel risky: CBC’s Marketplace Cheat Sheet](https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743) (CBC News)
-
-- [Govt responds to Australia's measles notice from RI travel history](https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history) (Antaranews.com)
-
-- [Why are measles cases rising in 2026? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-2026) (Alltoc.com)
-
-- [Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180) (CBC News)
-
-- [Why are U.S. measles cases nearing 1,000? #health](https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000) (Alltoc.com)
-
 ## 26-9 (malaria)
 
 - [Científicos descubren el origen de la preferencia de los mosquitos por la sangre humana](https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html) (Okdiario.com)
@@ -328,8 +310,6 @@ Source: [News API](https://newsapi.org/)
 - [Malaria screening in Papua increases by 337 percent in 2021-2025: Govt](https://en.antaranews.com/news/405738/malaria-screening-in-papua-increases-by-337-percent-in-2021-2025-govt) (Antaranews.com)
 
 - [snt-malaria-budgeting 0.7.0](https://pypi.org/project/snt-malaria-budgeting/0.7.0/) (Pypi.org)
-
-- [Bambina 12 anni colpita da malaria ricoverata in ospedale](https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html) (ANSA.it)
 
 ## 26-9 (leptospirosis)
 
@@ -379,8 +359,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue cases, deaths more than halved in 2025, says Ahmad Zahid](https://www.thestar.com.my/news/nation/2026/02/23/dengue-cases-deaths-more-than-halved-in-2025-says-ahmad-zahid) (The Star Online)
 
-- [Over 7,000 people affected by dengue in Sudurpaschim over three years](https://english.khabarhub.com/2026/22/536219/) (Khabarhub.com)
-
 ## 26-9 (chikungunya)
 
 - [Aumentam casos de "chikungunya" em viajantes](https://observador.pt/2026/02/27/aumentam-casos-de-chikungunya-em-viajantes-mas-risco-na-europa-e-baixo/) (Observador.pt)
@@ -395,11 +373,19 @@ Source: [News API](https://newsapi.org/)
 
 - [Resurgent threat in a changing climate: A 20-year bibliometric analysis of global Chikungunya research evolution and pandemic preparedness](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013959) (Plos.org)
 
+## 26-15 (yersinia)
+
+- [Strategies in immune subversion: How Yersinia pestis inhibits neutrophil responses](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014120) (Plos.org)
+
 ## 26-15 (shigellosis)
 
 - [Emergence of Extensively Drug-Resistant Shigellosis - United States, 2011-2023](https://www.cdc.gov/mmwr/volumes/75/wr/mm7513a1.htm) (Cdc.gov)
 
 ## 26-15 (rabies)
+
+- [В России как минимум в 16 регионах фиксируют очаги бешенства - СМИ](https://korrespondent.net/world/russia/4869853-v-rossyy-kak-mynymum-v-16-rehyonakh-fyksyruuit-ochahy-beshenstva-smy) (Korrespondent.net)
+
+- [В Росії щонайменше у 16 регіонах фіксують осередки сказу - ЗМІ](https://ua.korrespondent.net/world/russia/4869853-v-rosii-schonaimenshe-u-16-rehionakh-fiksuuit-oseredky-skazu-zmi) (Korrespondent.net)
 
 - [Ecuador Free of Rabies project accelerates progress toward eliminating dog-mediated rabies supported by Boehringer Ingelheim’s Stop Rabies program](https://financialpost.com/globe-newswire/ecuador-free-of-rabies-project-accelerates-progress-toward-eliminating-dog-mediated-rabies-supported-by-boehringer-ingelheims-stop-rabies-program) (Financial Post)
 
@@ -435,6 +421,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (meningitis)
 
+- [¿Debe preocupar el brote "explosivo" de meningitis en Reino Unido? "Las farmacias están desbordadas"](https://www.elperiodico.com/es/sanidad/20260410/debe-preocupar-brote-explosivo-meningitis-reino-unido-128180749) (Elperiodico.com)
+
 - [Recent outbreaks highlight the risks of bacterial meningitis – and the need to vaccinate](https://theconversation.com/recent-outbreaks-highlight-the-risks-of-bacterial-meningitis-and-the-need-to-vaccinate-279324) (The Conversation Africa)
 
 - [Neuroleptospirosis in patients presenting with primary central nervous system infection: A multicentre study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014183) (Plos.org)
@@ -442,6 +430,30 @@ Source: [News API](https://newsapi.org/)
 - [Deadly Childhood Disease Rebounding as Vaccine Rates Drop](https://www.newser.com/story/386755/deadly-childhood-disease-rebounding-as-vaccine-rates-drop.html) (Newser)
 
 ## 26-15 (measles)
+
+- [Why are babies too young for vaccines vulnerable? #health](https://alltoc.com/health/why-are-babies-too-young-for-vaccines-vulnerable) (Alltoc.com)
+
+- [Babies are ‘sitting ducks’ as US measles outbreak spreads to more states](https://www.the-independent.com/life-style/health-and-families/measles-outbreak-south-carolina-states-babies-vaccine-b2955406.html) (The-independent.com)
+
+- [Too young for vaccine, babies are 'sitting ducks' in measles outbreaks](https://www.bostonherald.com/2026/04/10/measles-babies/) (Boston Herald)
+
+- [Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks (Associated Press)](https://www.memeorandum.com/260410/p44) (Memeorandum.com)
+
+- [Indonesia rolls out measles shots for health workers](https://en.antaranews.com/news/411915/indonesia-rolls-out-measles-shots-for-health-workers) (Antaranews.com)
+
+- [Rural-to-urban migrant worker mobility shaped measles epidemics in China](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014182) (Plos.org)
+
+- [‘Babies become sitting ducks’: Babies too young for vaccines remain vulnerable in measles ‘hotbed’ communities](https://fortune.com/2026/04/10/vaccines-measles-babies-sitting-ducks/) (Fortune)
+
+- [You Lose This One, Measles.](https://www.wonkette.com/p/you-lose-this-one-measles) (Wonkette.com)
+
+- [What declining vaccination rates mean for families in Allegheny County – where 1 in 3 kindergarten classrooms lack herd immunity for measles](https://theconversation.com/what-declining-vaccination-rates-mean-for-families-in-allegheny-county-where-1-in-3-kindergarten-classrooms-lack-herd-immunity-for-measles-277469) (The Conversation Africa)
+
+- [What declining vaccination rates mean for your family – and what you can do](https://theconversation.com/what-declining-vaccination-rates-mean-for-your-family-and-what-you-can-do-277469) (The Conversation Africa)
+
+- [What caused babies to be 'sitting ducks' in measles outbreaks? #health](https://alltoc.com/health/what-caused-babies-to-be-sitting-ducks-in-measles-outbreaks) (Alltoc.com)
+
+- [Too young for measles vaccine, babies are 'sitting ducks' in outbreaks](https://apnews.com/article/measles-vaccines-mmr-babies-south-carolina-outbreak-85b2ab8ec8baec808f258987b13af9dc) (Associated Press)
 
 - [What makes babies vulnerable in measles outbreaks? #health](https://alltoc.com/health/what-makes-babies-vulnerable-in-measles-outbreaks) (Alltoc.com)
 
@@ -509,6 +521,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (malaria)
 
+- [Cytotoxic Vδ2+ T cell subsets expand in response to malaria in human tonsil and spleen organoids](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013565) (Plos.org)
+
+- [Togo Plans €84 Mln Global Fund Bid to Fight HIV, TB and Malaria for 2027-2029](https://www.togofirst.com/en/health/1004-18687-togo-plans-84-mln-global-fund-bid-to-fight-hiv-tb-and-malaria-for-2027-2029) (Togo First)
+
+- [Zambia: Is the US trading HIV treatment for minerals?](https://www.dw.com/en/zambia-is-the-us-trading-hiv-treatment-for-minerals/a-76713048) (DW (English))
+
+- [Zambia: Is the US trading HIV treatment for resources?](https://www.dw.com/en/zambia-is-the-us-trading-hiv-treatment-for-resources/a-76713048) (DW (English))
+
 - [The benefits of investments to combat HIV, tuberculosis, and malaria for primary healthcare from 2000 to 2023: An economic modeling analysis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005036) (Plos.org)
 
 - [La Comisión anuncia nuevos compromisos mundiales en materia de salud en la Cumbre One Health](https://aquieuropa.com/la-comision-anuncia-nuevos-compromisos-mundiales-en-materia-de-salud-en-la-cumbre-una-salud/) (Aquieuropa.com)
@@ -533,9 +553,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (h5n1)
 
+- [Why vaccinate US dairy cattle against H5N1 now #science](https://alltoc.com/science/why-vaccinate-us-dairy-cattle-against-h5n1-now) (Alltoc.com)
+
 - [Genomic analysis of high pathogenicity avian influenza viruses from Antarctica reveals multiple introductions from South America](https://www.nature.com/articles/s41467-026-71544-3) (Nature.com)
 
 ## 26-15 (dengue)
+
+- [La dengue est un problème de plus en plus préoccupant : pourquoi est-il si difficile de la combattre avec des vaccins](https://theconversation.com/la-dengue-est-un-probleme-de-plus-en-plus-preoccupant-pourquoi-est-il-si-difficile-de-la-combattre-avec-des-vaccins-279916) (The Conversation Africa)
+
+- [One Health Summit : a-t-on enfin avancé sur l’essentiel avant la prochaine crise sanitaire ?](https://www.futura-sciences.com/sante/actualites/health-summit-health-summit-t-on-enfin-avance-essentiel-avant-prochaine-crise-sanitaire-133657/) (Futura)
 
 - [Outbreak of Dengue Virus Serotype 3, Republic of the Marshall Islands, 2019–2021](https://wwwnc.cdc.gov/eid/article/32/4/25-1135_article) (Cdc.gov)
 

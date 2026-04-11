@@ -1,8 +1,422 @@
 {
-  "last_updated": "2026-04-11 07:26",
-  "count_articles_total": 1051,
-  "count_articles_new": 10,
+  "last_updated": "2026-04-11 19:18",
+  "count_articles_total": 1063,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 28958,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are babies too young for vaccines vulnerable? #health",
+      "description": "Measles outbreaks leave unvaccinated babies most exposed In measles \u201chotbed\u201d communities, babies who are too young to receive the measles vaccine are described as being especially vulnerable during outbreaks. Because measles is highly contagious, a community\u2019\u2026",
+      "url": "https://alltoc.com/health/why-are-babies-too-young-for-vaccines-vulnerable",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-10 18:04:04",
+      "content": "In measles hotbed communities, babies who are too young to receive the measles vaccine are described as being especially vulnerable during outbreaks. Because measles is highly contagious, a community\u2026 [+1469 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.179627",
+      "internal_id": "050a5ead56afb82d55d416aa69692547ee19ae03be19e1a14e60639ec6d56cae",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28960,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The-independent.com",
+      "author": "Devi Shastri and Laura Ungar",
+      "title": "Babies are \u2018sitting ducks\u2019 as US measles outbreak spreads to more states",
+      "description": "Dropping vaccination rates have eroded protection across the nation",
+      "url": "https://www.the-independent.com/life-style/health-and-families/measles-outbreak-south-carolina-states-babies-vaccine-b2955406.html",
+      "urlToImage": "https://static.the-independent.com/2026/04/10/15/06/AP26096555305099.jpg?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-04-10 15:49:45",
+      "content": "Your support helps us to tell the story From reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+8511 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.331004",
+      "internal_id": "97133fdffa0d4d93efec85d2fdef06d736862bc2283f5bfd005a80bf2c49aa8e",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28962,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "Too young for vaccine, babies are 'sitting ducks' in measles outbreaks",
+      "description": "Babies completely depend on herd immunity, which requires nearly everyone to be vaccinated.",
+      "url": "https://www.bostonherald.com/2026/04/10/measles-babies/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/04/Measles-Babies_65164-1.jpg?w=1024&h=682",
+      "publishedAt": "2026-04-10 15:44:03",
+      "content": "By DEVI SHASTRI and LAURA UNGAR LANDRUM, South Carolina (AP) With baby Arthur too young for the measles vaccine and a sibling due in June, the Otwells grew nervous when the threat of the highly cont\u2026 [+8266 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.398414",
+      "internal_id": "0d2d449dd6bbfb01a22d04f1958506c7a6847a60a2a466685f8c01938ff31ecf",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28954,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks (Associated Press)",
+      "description": "Associated Press: Too young for the MMR shot, babies become \u2018sitting ducks\u2019 in measles outbreaks \u2014 With baby Arthur too young for the measles vaccine and a sibling due in June, the Otwells grew nervous when the threat of the highly contagious virus started \u2026",
+      "url": "https://www.memeorandum.com/260410/p44",
+      "urlToImage": "https://dims.apnews.com/dims4/default/17766cd/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2F4e%2F536ff570a1e4db4c22a66145ac0b%2Fe46e5fa3733749fea29e5912e7c7e5c4",
+      "publishedAt": "2026-04-10 14:25:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.100510",
+      "internal_id": "cbde5210a31aee3e1771fb2e11a80ae2fa65e934eb4ec23087857c2238e64be0",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28964,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Resinta Sulistiyandari",
+      "title": "Indonesia rolls out measles shots for health workers",
+      "description": "Indonesia&rsquo;s Health Ministry has begun administering measles-rubella (MR) vaccines to medical personnel and health workers in high-risk areas, targeting ...",
+      "url": "https://en.antaranews.com/news/411915/indonesia-rolls-out-measles-shots-for-health-workers",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/04/10/WhatsApp-Image-2026-04-10-at-16.54.23.jpg",
+      "publishedAt": "2026-04-10 14:09:51",
+      "content": "Jakarta (ANTARA) - Indonesia\u2019s Health Ministry has begun administering measles-rubella (MR) vaccines to medical personnel and health workers in high-risk areas, targeting tens of thousands as part of\u2026 [+1889 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.422026",
+      "internal_id": "ee4914fdb5b6b37381fcaa0b860b7aab43887f36ca56ba0d02594ef94e4a8a70",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28961,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Peihua Wang, Xianwen Wang, Wenyi Zhang, Yong Wang, Sen Pei, Xiao-Ke Xu, Wan Yang",
+      "title": "Rural-to-urban migrant worker mobility shaped measles epidemics in China",
+      "description": "Author summary Measles transmission persisted across Provincial-Level Administrative Divisions (PLADs) in China from 2005 to 2014 despite high routine childhood vaccination coverage. We tested our hypothesis that the mobility of inter-PLAD rural-to-urban migr\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014182",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014182.g005&size=inline",
+      "publishedAt": "2026-04-10 14:00:00",
+      "content": "Abstract Despite sustained high routine childhood vaccination coverage, measles outbreaks have persisted across Provincial-Level Administrative Divisions (PLADs) in China. Epidemiological evidence s\u2026 [+61664 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.342966",
+      "internal_id": "792808590c3d99ff0bf04a84eaf00d15d0768f85f4a19f1d864bb1fe29409865",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28971,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Kathleen D. Press, Florian Bach, Elsa Sola, Kylie Camanag, Nicholas L. Dooley, Anselma Ivanawati, Damian Oyong, Mayimuna Nalubega, Abel Kakuru, Sedrack Matsiko, Felistas Nankya, Kenneth Musinguzi, Annet Nalwoga, Evelyn Nansubuga, John Ategeka, Charles Ebusu, Bakar Odongo, Chloe Kashiwagi, Xuhuai Ji, Molly Miranda, Joselyn Tachiwa-Appiah, Kareena Sandhu, Lilit Kamalyan, Kattria van der Ploeg, Michelle Boyle, Lisa E. Wagar, Mark M. Davis, Prasanna Jagannathan",
+      "title": "Cytotoxic V\u03b42+ T cell subsets expand in response to malaria in human tonsil and spleen organoids",
+      "description": "Author summary Plasmodium falciparum (Pf) malaria vaccines are significantly less effective in populations with endemic malaria exposure compared to malaria-na\u00efve individuals. We used human tonsil and spleen organoids to investigate whether Pf infection alter\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013565",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1013565.g005&size=inline",
+      "publishedAt": "2026-04-10 14:00:00",
+      "content": "Abstract Vaccine effectiveness against malaria is dramatically reduced in malaria-exposed compared to malaria-na\u00efve populations, potentially due to altered immune responses in secondary lymphoid org\u2026 [+71638 chars]",
+      "retrievedAt": "2026-04-11 19:18:45.331432",
+      "internal_id": "01a5088421ea82a88caada31cfc14098b71735c777c8966eaa34ea3e8a046201",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28973,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Katelyn R. Sheneman, Matthew B. Lawrenz",
+      "title": "Strategies in immune subversion: How Yersinia pestis inhibits neutrophil responses",
+      "description": "",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014120",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014120.g001&size=inline",
+      "publishedAt": "2026-04-10 14:00:00",
+      "content": "Citation: Sheneman KR, Lawrenz MB (2026) Strategies in immune subversion: How Yersinia pestis inhibits neutrophil responses. PLoS Pathog 22(4): e1014120. https://doi.org/10.1371/journal.ppat.10141\u2026 [+19035 chars]",
+      "retrievedAt": "2026-04-11 19:18:46.289189",
+      "internal_id": "d0d8628803274930eb58ba71479d1bfe266231028700b41e498c43d1c69f93cb",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28955,
+      "query": [
+        "measles"
+      ],
+      "source_id": "fortune",
+      "source_name": "Fortune",
+      "author": "The Associated Press, Laura Ungar, Devi Shastri",
+      "title": "\u2018Babies become sitting ducks\u2019: Babies too young for vaccines remain vulnerable in measles \u2018hotbed\u2019 communities",
+      "description": "Trump administration officials have been pushing anti-vaccine experts in statehouses.",
+      "url": "https://fortune.com/2026/04/10/vaccines-measles-babies-sitting-ducks/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/04/AP26096555305099-e1775828698796.jpg?resize=1200,600",
+      "publishedAt": "2026-04-10 13:47:00",
+      "content": "With baby Arthur too young for the measles vaccine and a sibling due in June, the Otwells grew nervous when the threat of the highly contagious virus started factoring into their grocery run.We go to\u2026 [+7660 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.112233",
+      "internal_id": "131bb8c6184e441e3034dbaa39c92d120c217234dae782e1cf9bf522a7b15a08",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28953,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "You Lose This One, Measles.",
+      "description": "RFK Jr. is not going to be happy about this.",
+      "url": "https://www.wonkette.com/p/you-lose-this-one-measles",
+      "urlToImage": "https://images.unsplash.com/photo-1611689102192-1f6e0e52df0a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxMHx8dmFjY2luZXN8ZW58MHx8fHwxNzc1NzUzMTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "publishedAt": "2026-04-10 12:55:39",
+      "content": "Fun fact there are only five states left that dont allow religious exemptions to public school vaccine mandates. The first four are California, Connecticut, Maine, and New York, which probably isnt t\u2026 [+4592 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.077988",
+      "internal_id": "66c5ac1dfe54ae026ae50e9081d912252c20c13bb078bc647aee55fe58fcae3f",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28956,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Kar-Hai Chu, Associate Professor of Public Health, University of Pittsburgh, Maggie Slavin, Research Program Supervisor, School of Public Health, University of Pittsburgh",
+      "title": "What declining vaccination rates mean for families in Allegheny County \u2013 where 1 in 3 kindergarten classrooms lack herd immunity for measles",
+      "description": "As childhood vaccination rates in Allegheny County decline, The Conversation asked experts why parents are opting out and how to protect vaccination policy.",
+      "url": "https://theconversation.com/what-declining-vaccination-rates-mean-for-families-in-allegheny-county-where-1-in-3-kindergarten-classrooms-lack-herd-immunity-for-measles-277469",
+      "urlToImage": "https://images.theconversation.com/files/725639/original/file-20260323-57-ea9159.jpg?ixlib=rb-4.1.0&rect=0%2C85%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-04-10 12:21:58",
+      "content": "Unvaccinated individuals face 140 times higher risk of contracting measles. Sarah L. Voisin/The Washington Post via Getty Images As the risk of measles remains an ongoing concern, herd immunity in A\u2026 [+6705 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.135110",
+      "internal_id": "6b415625de7e560caafa46b4c182fc97660dc1b2e18abd9b6d97bb8700c6c32d",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28957,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Kar-Hai Chu, Associate Professor of Public Health, University of Pittsburgh, Maggie Slavin, Research Program Supervisor, School of Public Health, University of Pittsburgh",
+      "title": "What declining vaccination rates mean for your family \u2013 and what you can do",
+      "description": "As childhood vaccination rates in Allegheny County decline, The Conversation asked experts why parents are opting out and how to protect vaccination policy.",
+      "url": "https://theconversation.com/what-declining-vaccination-rates-mean-for-your-family-and-what-you-can-do-277469",
+      "urlToImage": "https://images.theconversation.com/files/725639/original/file-20260323-57-ea9159.jpg?ixlib=rb-4.1.0&rect=0%2C85%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-04-10 12:21:58",
+      "content": "Unvaccinated individuals face 140 times higher risk of contracting measles. Sarah L. Voisin/The Washington Post via Getty Images As the risk of measles remains an ongoing concern, herd immunity in A\u2026 [+6705 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.146943",
+      "internal_id": "e52502b340dffe340966a6e58bae9b000e5d85a326a598c8214149bb6afaf7f5",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28959,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What caused babies to be 'sitting ducks' in measles outbreaks? #health",
+      "description": "Measles outbreaks are leaving too young babies especially vulnerable In the United States, measles outbreaks have exposed a recurring public health vulnerability: infants who are not yet eligible for routine vaccination can be \u201csitting ducks\u201d during community\u2026",
+      "url": "https://alltoc.com/health/what-caused-babies-to-be-sitting-ducks-in-measles-outbreaks",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-10 12:03:19",
+      "content": "In the United States, measles outbreaks have exposed a recurring public health vulnerability: infants who are not yet eligible for routine vaccination can be sitting ducks during community transmissi\u2026 [+1553 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.276385",
+      "internal_id": "16fb3de9a5d9b5bcf3dda071248f642b0e002fb16963701b203c19eb5433d6ff",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28965,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why vaccinate US dairy cattle against H5N1 now #science",
+      "description": "Experts urge H5N1 vaccines for US dairy cattle Experts say the moment is right to start vaccinating US dairy cattle against bird flu (H5N1) because the virus has moved beyond its older \u201cpoultry problem\u201d framing and is now present in dairy systems. The situati\u2026",
+      "url": "https://alltoc.com/science/why-vaccinate-us-dairy-cattle-against-h5n1-now",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-10 12:02:06",
+      "content": "Experts say the moment is right to start vaccinating US dairy cattle against bird flu (H5N1) because the virus has moved beyond its older poultry problem framing and is now present in dairy systems. \u2026 [+1522 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.785780",
+      "internal_id": "51b84eea0c2c0363fea8bfaf06a5a38fa27128fe621314bdce961bd0ad53c823",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28951,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u0412 \u0420\u043e\u0441\u0441\u0438\u0438 \u043a\u0430\u043a \u043c\u0438\u043d\u0438\u043c\u0443\u043c \u0432 16 \u0440\u0435\u0433\u0438\u043e\u043d\u0430\u0445 \u0444\u0438\u043a\u0441\u0438\u0440\u0443\u044e\u0442 \u043e\u0447\u0430\u0433\u0438 \u0431\u0435\u0448\u0435\u043d\u0441\u0442\u0432\u0430 - \u0421\u041c\u0418",
+      "description": "\u0421\u0430\u043c\u0430\u044f \u0441\u043b\u043e\u0436\u043d\u0430\u044f \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f \u0441\u0435\u0439\u0447\u0430\u0441 \u0432 \u0422\u044e\u043c\u0435\u043d\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0438, \u0433\u0434\u0435, \u043f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u043c\u0435\u0441\u0442\u043d\u043e\u0433\u043e \u043f\u0440\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430, \u0437\u0430 \u044f\u043d\u0432\u0430\u0440\u044c-\u0444\u0435\u0432\u0440\u0430\u043b\u044c \u0432\u044b\u044f\u0432\u043b\u0435\u043d\u043e \u0431\u043e\u043b\u0435\u0435 40 \u0441\u043b\u0443\u0447\u0430\u0435\u0432 \u0437\u0430\u0431\u043e\u043b\u0435\u0432\u0430\u043d\u0438\u0439.",
+      "url": "https://korrespondent.net/world/russia/4869853-v-rossyy-kak-mynymum-v-16-rehyonakh-fyksyruuit-ochahy-beshenstva-smy",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4399066.jpg",
+      "publishedAt": "2026-04-10 11:59:00",
+      "content": "16 . . , , , - 40 . 71 , 49 . , . 18 . , , , , , , , , , . . , . 34%, - 20% 1418 . 2024 1020 , 2025 - 843. 2025 5,7%, 3,1% . 2026 120 79 . - , , , , , , , , -, . - , , (Rabies virus). (, , \u2026 [+130 chars]",
+      "retrievedAt": "2026-04-11 19:18:43.818080",
+      "internal_id": "eaccea9c5472c51aabbfe3cbb61bd33b24ae9a9f2c9091c7dc13fe4c4bc019b9",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28952,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Korrespondent.net",
+      "author": "1",
+      "title": "\u0412 \u0420\u043e\u0441\u0456\u0457 \u0449\u043e\u043d\u0430\u0439\u043c\u0435\u043d\u0448\u0435 \u0443 16 \u0440\u0435\u0433\u0456\u043e\u043d\u0430\u0445 \u0444\u0456\u043a\u0441\u0443\u044e\u0442\u044c \u043e\u0441\u0435\u0440\u0435\u0434\u043a\u0438 \u0441\u043a\u0430\u0437\u0443 - \u0417\u041c\u0406",
+      "description": "\u041d\u0430\u0439\u0441\u043a\u043b\u0430\u0434\u043d\u0456\u0448\u0430 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044f \u043d\u0438\u043d\u0456 \u0443 \u0422\u044e\u043c\u0435\u043d\u0441\u044c\u043a\u0456\u0439 \u043e\u0431\u043b\u0430\u0441\u0442\u0456, \u0434\u0435, \u0437\u0430 \u0434\u0430\u043d\u0438\u043c\u0438 \u043c\u0456\u0441\u0446\u0435\u0432\u043e\u0433\u043e \u0443\u0440\u044f\u0434\u0443, \u0437\u0430 \u0441\u0456\u0447\u0435\u043d\u044c-\u043b\u044e\u0442\u0438\u0439 \u0432\u0438\u044f\u0432\u0438\u043b\u0438 \u043f\u043e\u043d\u0430\u0434 40 \u0432\u0438\u043f\u0430\u0434\u043a\u0456\u0432 \u0437\u0430\u0445\u0432\u043e\u0440\u044e\u0432\u0430\u043d\u044c.",
+      "url": "https://ua.korrespondent.net/world/russia/4869853-v-rosii-schonaimenshe-u-16-rehionakh-fiksuuit-oseredky-skazu-zmi",
+      "urlToImage": "https://kor.ill.in.ua/m/1260x900/4399066.jpg",
+      "publishedAt": "2026-04-10 11:59:00",
+      "content": "16 . . , , , - 40 . 71 , 49 . , . 18 . , , , , , , , , , . . , . 34%, - 20% 1418 . 2024 1020 , 2025 - 843. 2025 5,7%, 3,1% . 2026 120 79 . - , , , , , , , , -, . - , , (Rabies virus). (, , \u2026 [+129 chars]",
+      "retrievedAt": "2026-04-11 19:18:43.858784",
+      "internal_id": "66cdcd50ee6bf624f33e2e002f8a3ea4700cc5bf8fd40cf16c419043d97ac79e",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28972,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Togo First",
+      "author": "Togo First",
+      "title": "Togo Plans \u20ac84 Mln Global Fund Bid to Fight HIV, TB and Malaria for 2027-2029",
+      "description": "Togo has launched a national consultation to prepare a single funding application to the Global Fund to fight HIV, tuberculosis and malaria for 2027\u20132...",
+      "url": "https://www.togofirst.com/en/health/1004-18687-togo-plans-84-mln-global-fund-bid-to-fight-hiv-tb-and-malaria-for-2027-2029",
+      "urlToImage": "https://www.togofirst.com/media/k2/items/cache/81e9bf3cecb3c175b72ee2239266826a_L.jpg",
+      "publishedAt": "2026-04-10 11:41:48",
+      "content": "REFORMS OVERVIEW STARTING A BUSINESS (more info) At the fifteenth position, worldwide, and first in Africa, under the Starting a Business index of the 2020 Doing Business ranking, Togo sustains its\u2026 [+3089 chars]",
+      "retrievedAt": "2026-04-11 19:18:45.343836",
+      "internal_id": "0e2d109fb974cb8fc4fd7c4a2bac87dce8ca5f2756367d56de4c070636271243",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28969,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Amy Stockdale",
+      "title": "Zambia: Is the US trading HIV treatment for minerals?",
+      "description": "The US is reportedly leveraging health aid to gain access to Zambia's critical minerals. Millions depend on US funding for HIV, tuberculosis, and malaria treatment. Yet Zambia is hesitant to agree.",
+      "url": "https://www.dw.com/en/zambia-is-the-us-trading-hiv-treatment-for-minerals/a-76713048",
+      "urlToImage": "https://static.dw.com/image/76714269_6.jpg",
+      "publishedAt": "2026-04-10 08:41:00",
+      "content": "Around 1.3 million people in Zambia are living with HIV. Many depend on aid for treatment, largely delivered through the United States' PEPFAR program (the President's Emergency Plan for AIDS Relief\u2026 [+5350 chars]",
+      "retrievedAt": "2026-04-11 19:18:45.286089",
+      "internal_id": "624394552186e713cbc119fafda4ea19e7ea7ee060eb42f8fe79b9c7ed29f649",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28970,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "DW (English)",
+      "author": "Amy Stockdale",
+      "title": "Zambia: Is the US trading HIV treatment for resources?",
+      "description": "The US is reportedly leveraging health aid to gain access to Zambia's critical minerals. Millions depend on US funding for HIV, tuberculosis and malaria treatment. Yet Zambia is hesitant to agree. More than a million people in Zambia are living with HIV, one \u2026",
+      "url": "https://www.dw.com/en/zambia-is-the-us-trading-hiv-treatment-for-resources/a-76713048",
+      "urlToImage": "https://static.dw.com/image/76714269_6.jpg",
+      "publishedAt": "2026-04-10 08:41:00",
+      "content": "More than a million people in Zambia are living with HIV, one of several African countries where the United States' President's Emergency Plan for AIDS Relief (PEPFAR) program has been a cornerston\u2026 [+5611 chars]",
+      "retrievedAt": "2026-04-11 19:18:45.319542",
+      "internal_id": "9ca816dbff8905461d684d71e6b6491649d72cccf766cd58f7b3f95e7bc108ed",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28967,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "The Conversation Africa",
+      "author": "Marielena Vogel Saivish, Research Fellow in Virology (Post-Doc position), The University of Texas Medical Branch",
+      "title": "La dengue est un probl\u00e8me de plus en plus pr\u00e9occupant : pourquoi est-il si difficile de la combattre avec des vaccins",
+      "description": "Le nombre de cas a fortement augment\u00e9 en Afrique, l'urbanisation, les d\u00e9placements et le changement climatique ayant \u00e9largi l'aire de r\u00e9partition des moustiques.",
+      "url": "https://theconversation.com/la-dengue-est-un-probleme-de-plus-en-plus-preoccupant-pourquoi-est-il-si-difficile-de-la-combattre-avec-des-vaccins-279916",
+      "urlToImage": "https://images.theconversation.com/files/727900/original/file-20260402-57-cuy3c8.jpg?ixlib=rb-4.1.0&rect=0%2C55%2C668%2C334&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-04-10 08:25:47",
+      "content": "La dengue, une maladie transmise par les moustiques, touche chaque ann\u00e9e des millions de personnes en Asie, en Afrique et en Am\u00e9rique latine. Et elle se propage g\u00e9ographiquement, car le r\u00e9chauffement\u2026 [+9767 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.958002",
+      "internal_id": "678ef4528d356f212d35ac34598edc4c1126339ea38f188b235cf8827daaae35",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28968,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "Rafa Sardi\u00f1a",
+      "title": "\u00bfDebe preocupar el brote \"explosivo\" de meningitis en Reino Unido? \"Las farmacias est\u00e1n desbordadas\"",
+      "description": "La meningitis vuelve a copar titulares en la prensa internacional. En esta ocasi\u00f3n, por un brote que ha provocado que Reino Unido declara la \"emergencia nacional\". En las \u00faltimas horas, dos j\u00f3venes estudiantes han fallecido a causa de esta enfermedad infeccio\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20260410/debe-preocupar-brote-explosivo-meningitis-reino-unido-128180749",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/de8c73e3-b0c9-473c-b86f-51424d949bd9_16-9-discover-aspect-ratio_default_0_x1000y445.jpg",
+      "publishedAt": "2026-04-10 08:25:00",
+      "content": "La meningitis vuelve a copar titulares en la prensa internacional. En esta ocasi\u00f3n, por un brote que ha provocado que Reino Unido declara la \"emergencia nacional\". En las \u00faltimas horas, dos j\u00f3venes e\u2026 [+3420 chars]",
+      "retrievedAt": "2026-04-11 19:18:45.105630",
+      "internal_id": "5d5f17a86abf4dc20c0becca2959e88e070a8a84894cbb41ced4acc1e4cfe487",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28966,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Futura",
+      "author": "V\u00e9ronique Mol\u00e9nat, Journaliste",
+      "title": "One Health Summit : a-t-on enfin avanc\u00e9 sur l\u2019essentiel avant la prochaine crise sanitaire ?",
+      "description": "Le \u00ab One Health Summit \u00bb a r\u00e9uni, du 5 au 7 avril derniers \u00e0 Lyon, dirigeants et scientifiques du monde entier pour explorer les liens indissociables entre la sant\u00e9 humaine, animale et environnementale. Objectif : favoriser le dialogue entre \u00c9tats, scientifiq\u2026",
+      "url": "https://www.futura-sciences.com/sante/actualites/health-summit-health-summit-t-on-enfin-avance-essentiel-avant-prochaine-crise-sanitaire-133657/",
+      "urlToImage": "https://cdn8.futura-sciences.com/a1920/images/virus-sante-pandemie.jpeg",
+      "publishedAt": "2026-04-10 07:45:08",
+      "content": "Grippe aviaire, Covid-19, maladie de Lyme, dengue, sida, fi\u00e8vre Ebola... Aujourd'hui, 75% des infections humaines \u00e9mergentes sont des zoonoses : elles sont provoqu\u00e9es par des agents pathog\u00e8nes infect\u2026 [+5844 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.935239",
+      "internal_id": "083f8d97ebeba3f1743e709c852fa4edc027ad8e591166b5c3273fa414bec299",
+      "publishedAtLabel": "Apr 10"
+    },
+    {
+      "id": 28963,
+      "query": [
+        "measles"
+      ],
+      "source_id": "associated-press",
+      "source_name": "Associated Press",
+      "author": "Devi Shastri",
+      "title": "Too young for measles vaccine, babies are 'sitting ducks' in outbreaks",
+      "description": "Babies too young to be vaccinated are among the most vulnerable in measles outbreaks like the one in South Carolina, which is the largest the U.S. has seen in decades. Babies lack protection against the disease and are more likely to suffer severe complicatio\u2026",
+      "url": "https://apnews.com/article/measles-vaccines-mmr-babies-south-carolina-outbreak-85b2ab8ec8baec808f258987b13af9dc",
+      "urlToImage": "https://dims.apnews.com/dims4/default/17766cd/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F98%2F4e%2F536ff570a1e4db4c22a66145ac0b%2Fe46e5fa3733749fea29e5912e7c7e5c4",
+      "publishedAt": "2026-04-10 07:44:20",
+      "content": "LANDRUM, South Carolina (AP) With baby Arthur too young for the measles vaccine and a sibling due in June, the Otwells grew nervous when the threat of the highly contagious virus started factoring in\u2026 [+7962 chars]",
+      "retrievedAt": "2026-04-11 19:18:44.409969",
+      "internal_id": "0e12f3591414933f33dfe385af5737439a6ef6d23269e56c6a7b83e58a25168b",
+      "publishedAtLabel": "Apr 10"
+    },
     {
       "id": 28950,
       "query": [
@@ -18776,204 +19190,6 @@
       "content": "Harrisburg, Pa. In response to a recent spike in Highly Pathogenic Avian Influenza (HPAI), the Commonwealth has mobilized additional personnel, expanded testing capacity, and is coordinating closely \u2026 [+6056 chars]",
       "retrievedAt": "2026-02-24 07:26:47.846395",
       "internal_id": "ce7eec96c60a9d270a6601726942adc8050558ae6ac876ccc756cde8ab62af18",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27897,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Israelnationalnews.com",
-      "author": "Israel National News",
-      "title": "Health Ministry: Six-year-old dead due to measles",
-      "description": "Unvaccinated six-year-old boy brought to hospital in critical condition. Pronounced dead after attempts to revive him.",
-      "url": "https://www.israelnationalnews.com/news/422811",
-      "urlToImage": "https://2.a7.org/files/pictures/000/1206788.jpg",
-      "publishedAt": "2026-02-22 16:54:46",
-      "content": "The Israeli Ministry of Health reported on Sunday that an unvaccinated six-year-old boy died overnight from measles. The boy was brought in critical condition to a hospital, where doctors pronounced \u2026 [+390 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.393726",
-      "internal_id": "35bef6eb3d62790ed7df254364db6aa8c43605324a700092d37310169285c62a",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27902,
-      "query": [
-        "measles"
-      ],
-      "source_id": "ynet",
-      "source_name": "Ynet",
-      "author": "\u05d0\u05d5\u05e8 \u05d4\u05d3\u05e8",
-      "title": "\u05d9\u05dc\u05d3\u05d4 \u05d1\u05df 6 \u05e9\u05dc\u05d0 \u05d7\u05d5\u05e1\u05e0\u05d4 \u05e0\u05e4\u05d8\u05e8\u05d4 \u05de\u05d7\u05e6\u05d1\u05ea - \u05d4\u05e7\u05d5\u05e8\u05d1\u05df \u05d4-16 \u05d1\u05d2\u05dc \u05d4\u05ea\u05d7\u05dc\u05d5\u05d0\u05d4",
-      "description": "\u05d1\u05de\u05e9\u05e8\u05d3 \u05d4\u05d1\u05e8\u05d9\u05d0\u05d5\u05ea \u05d0\u05de\u05e8\u05d5 \u05db\u05d9 \u05d4\u05d9\u05dc\u05d3\u05d4 \u05d4\u05d2\u05d9\u05e2\u05d4 \u05d1\u05de\u05e6\u05d1 \u05d0\u05e0\u05d5\u05e9 \u05dc\u05d1\u05d9\u05ea \u05d4\u05d7\u05d5\u05dc\u05d9\u05dd \u05d4\u05d3\u05e1\u05d4 \u05e2\u05d9\u05df \u05db\u05e8\u05dd \u05d1\u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05e9\u05dd \u05dc\u05d0\u05d7\u05e8 \u05de\u05d0\u05de\u05e6\u05d9 \u05d4\u05d7\u05d9\u05d9\u05d0\u05d4, \u05e0\u05d0\u05dc\u05e6\u05d5 \u05d4\u05e8\u05d5\u05e4\u05d0\u05d9\u05dd \u05dc\u05e7\u05d1\u05d5\u05e2 \u05d0\u05ea \u05de\u05d5\u05ea\u05d4",
-      "url": "https://www.ynet.co.il/health/article/skd0rs00obl",
-      "urlToImage": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2025/11/26/ry7RdvEWZl/ry7RdvEWZl_1_67_1000_563_0_large.jpg",
-      "publishedAt": "2026-02-22 16:31:37",
-      "content": "(Measles virus), . , . -1,000, . , , 10-7 , , . , , -2,900 . , 10,000-15,000 . , -1,000 , . , .",
-      "retrievedAt": "2026-02-23 19:28:35.679713",
-      "internal_id": "b93974e2cc94bfb2313c84ca033a3e7604b9c8e3107a47dd211ba750b4fb5d17",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27899,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles cases rising in the U.S.? #health",
-      "description": "A fast growing outbreak driven by pockets of under vaccination Public health agencies report a steep rise in measles cases across the United States this year, driven largely by clusters of unvaccinated people and several localized outbreaks. The Centers for D\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-02-22 15:10:33",
-      "content": "Public health agencies report a steep rise in measles cases across the United States this year, driven largely by clusters of unvaccinated people and several localized outbreaks. The Centers for Dise\u2026 [+1755 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.550841",
-      "internal_id": "26d78ac9a53cdf1f12336d1febc1ed4b8ab829a0a7e91bd673701bd1a0529956",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27905,
-      "query": [
-        "mpox"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Metr\u00f3poles",
-      "title": "O que \u00e9 mpox? Infectologista explica como reconhecer os sintomas",
-      "description": "A mpox \u00e9 uma doen\u00e7a viral que exige aten\u00e7\u00e3o para ser reconhecida logo aos primeiros sinais. Cuidados simples ajudam a evitar o cont\u00e1gio",
-      "url": "https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox",
-      "urlToImage": "https://images.metroimg.com/2026/02/pessoa-com-mpox-getty-images.jpg",
-      "publishedAt": "2026-02-22 14:33:50",
-      "content": "A mpox \u00e9 uma doen\u00e7a viral que voltou a chamar aten\u00e7\u00e3o das autoridades de sa\u00fade em 2026. Embora a maioria dos casos registados este ano evolua de forma leve, reconhecer os sintomas e entender como oco\u2026 [+5520 chars]",
-      "retrievedAt": "2026-02-23 19:28:37.676018",
-      "internal_id": "125679b91d5b45fc5cff2a52747809e7da3e7b79a997bbc032969d47c953504c",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27896,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Parent creates safer social media; global measles outbreaks making travel risky: CBC\u2019s Marketplace Cheat Sheet",
-      "description": "The CBC's Marketplace rounds up the consumer and health news you need from the week.",
-      "url": "https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743",
-      "urlToImage": "https://i.cbc.ca/ais/5a02f957-25d3-4f0a-840c-cd7954a83475,1771353291311/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C243%2C4032%2C2268%29%3BResize%3D620",
-      "publishedAt": "2026-02-22 13:00:00",
-      "content": "Miss something this week? Don't panic. The CBC's Marketplace rounds up the consumer and health news you need. Want this in your inbox? Get the Marketplace newsletter every Friday. Join Marketplace \u2026 [+6281 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.333097",
-      "internal_id": "42f273cabb63eaef53db94cb5713151c656e2d7c99c7357791538a2fd36014c4",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27904,
-      "query": [
-        "malaria"
-      ],
-      "source_id": "ansa",
-      "source_name": "ANSA.it",
-      "author": null,
-      "title": "Bambina 12 anni colpita da malaria ricoverata in ospedale",
-      "description": "Una bambina di 12 anni \u00e8 stata trasferita ieri dall'Ospedale di Chioggia a quello di Padova, per competenza pediatrica, dopo essere stata presa in carico e assistita con sospetto di malaria. (ANSA)",
-      "url": "https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html",
-      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2026/2/5/4c95a0a339dea9ffc445c73a32ce211b.jpg",
-      "publishedAt": "2026-02-22 12:59:12",
-      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
-      "retrievedAt": "2026-02-23 19:28:36.887394",
-      "internal_id": "5aae930093af3e6784828d95f75db24f321f8ef0341c447b9fde03bf7c246cf8",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27940,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Antaranews.com",
-      "author": "Mecca Yumna, Resinta Sulistiyandari",
-      "title": "Govt responds to Australia's measles notice from RI travel history",
-      "description": "The Ministry of Health has received formal notification from Australian health authorities about a measles case involving travel history from Indonesia and is ...",
-      "url": "https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history",
-      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2023/03/05/Screenshot_20230305_115713_Chrome.jpg",
-      "publishedAt": "2026-02-22 12:23:04",
-      "content": "Jakarta (ANTARA) - The Ministry of Health has received formal notification from Australian health authorities about a measles case involving travel history from Indonesia and is coordinating with Aus\u2026 [+2483 chars]",
-      "retrievedAt": "2026-02-25 07:27:10.154038",
-      "internal_id": "b4595be9d3a0c182a11f8347113f777c2b42d782e93e28008b2fb34c3d4d2c2c",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27898,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles cases rising in 2026? #health",
-      "description": "Explaining the recent surge Public health agencies are reporting a sharp rise in measles cases across multiple countries in 2026. In the United States, the Centers for Disease Control and Prevention has logged 982 cases so far this year \u2014 more than four times\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-cases-rising-in-2026",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-02-22 12:10:49",
-      "content": "Public health agencies are reporting a sharp rise in measles cases across multiple countries in 2026. In the United States, the Centers for Disease Control and Prevention has logged 982 cases so far \u2026 [+1841 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.541002",
-      "internal_id": "ffc2bca0e455b601c4b08a5ed0e9b54d19a25bf5554c8d706cddb3e6ed79e8e4",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27901,
-      "query": [
-        "measles"
-      ],
-      "source_id": "cbc-news",
-      "source_name": "CBC News",
-      "author": null,
-      "title": "Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?",
-      "description": "As Manitoba grapples with a swelling number of measles cases, a school division trustee would like to see mandatory immunization against the illness and other diseases for students.",
-      "url": "https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180",
-      "urlToImage": "https://i.cbc.ca/ais/6d910c5a-ad2b-4271-b713-696864ba2f15,1771706005259/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C31%2C6850%2C3853%29%3BResize%3D620",
-      "publishedAt": "2026-02-22 12:00:00",
-      "content": "Linda Ross wonders if Manitoba's measles outbreak would have spiralled to hundreds of cases if school divisions had pushed for mandatory vaccination against the illness for students almost a decade a\u2026 [+9242 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.640348",
-      "internal_id": "2a060d12e789819eaa6b053315b0ef988a030ac18a7af78e2d9f583ad1cf8ee1",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27903,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Khabarhub.com",
-      "author": "Khabarhub",
-      "title": "Over 7,000 people affected by dengue in Sudurpaschim over three years",
-      "description": "KANCHANPUR: The risk of dengue infection in Sudurpaschim Province continues to be a serious public health concern. According to data from the Health Directorate in Dipayal, a total of 7,683 people have been infected with dengue across the province over the pa\u2026",
-      "url": "https://english.khabarhub.com/2026/22/536219/",
-      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
-      "publishedAt": "2026-02-22 09:15:17",
-      "content": "KANCHANPUR: The risk of dengue infection in Sudurpaschim Province continues to be a serious public health concern. According to data from the Health Directorate in Dipayal, a total of 7,683 people h\u2026 [+1530 chars]",
-      "retrievedAt": "2026-02-23 19:28:36.377617",
-      "internal_id": "71b8c242d6e7a9ff3dde290b690d77a6e7633d30b1b750079a172dbe0d975432",
-      "publishedAtLabel": "Feb 22"
-    },
-    {
-      "id": 27900,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are U.S. measles cases nearing 1,000? #health",
-      "description": "Measles is resurging \u2014 what\u2019s happening and why it matters Health authorities are reporting a sharp increase in cases this year, driven mainly by clusters among unvaccinated children and pockets of low immunization coverage. The United States has logged just \u2026",
-      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-02-22 09:11:22",
-      "content": "Health authorities are reporting a sharp increase in cases this year, driven mainly by clusters among unvaccinated children and pockets of low immunization coverage. The United States has logged just\u2026 [+1807 chars]",
-      "retrievedAt": "2026-02-23 19:28:35.569240",
-      "internal_id": "1c73427b6dbfe4d2d7c1646b442f78b5d125ac21b6cd35a4d666aa74c5df913a",
       "publishedAtLabel": "Feb 22"
     }
   ]
