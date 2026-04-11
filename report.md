@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-04-10 19:23
-- **Most recent article:** 2026-04-09 18:03:07
+- **New articles in last harvest:** 10
+- **Last harvest:** 2026-04-11 07:26
+- **Most recent article:** 2026-04-10 06:58:00
 
 ---
 
@@ -13,11 +13,11 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-9 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 4 | 6 | 175 | 75 | 19 | 3 | 5 | 287 |
-| measles | 70 | 30 | 20 | 21 | 26 | 28 | 70 | 265 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 8 | 13 | 119 |
+| measles | 70 | 30 | 20 | 21 | 26 | 32 | 78 | 277 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 8 | 14 | 120 |
+| mpox | 10 | 16 | 12 | 4 | 19 | 9 | 27 | 97 |
 | rabies | 18 | 16 | 7 | 5 | 26 | 6 | 13 | 91 |
-| mpox | 10 | 16 | 12 | 4 | 19 | 3 | 26 | 90 |
-| malaria | 16 | 9 | 20 | 14 | 9 | 6 | 10 | 84 |
+| malaria | 16 | 9 | 20 | 14 | 9 | 6 | 11 | 85 |
 | chikungunya | 1 | 7 | 7 | 8 | 11 | 3 | 6 | 43 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 1 | 4 | 33 |
 | zika | 1 | 2 | 4 | 1 | 15 | 0 | 2 | 25 |
@@ -134,6 +134,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox : deux nouveaux cas de variole B détectés à La Réunion](https://www.franceinfo.fr/sante/maladie/variole-du-singe/mpox-deux-nouveaux-cas-de-variole-b-detectes-a-la-reunion_7824263.html) (Franceinfo.fr)
 
 - [Mpox no Brasil: doença pode matar? Conheça os sintomas](https://www.terra.com.br/vida-e-estilo/saude/mpox-no-brasil-doenca-pode-matar-conheca-os-sintomas,b18bf05d58a7886ed451ae6886d76da1uor4cbaz.html) (Terra.com.br)
+
+- [O que é mpox? Infectologista explica como reconhecer os sintomas](https://www.metropoles.com/saude/como-reconhecer-sintomas-da-mpox) (Metropoles.com)
 
 ## 26-9 (meningitis)
 
@@ -289,6 +291,22 @@ Source: [News API](https://newsapi.org/)
 
 - [Why are measles cases surging in 2026? #health](https://alltoc.com/health/why-are-measles-cases-surging-in-2026) (Alltoc.com)
 
+- [Health Ministry: Six-year-old dead due to measles](https://www.israelnationalnews.com/news/422811) (Israelnationalnews.com)
+
+- [ילדה בן 6 שלא חוסנה נפטרה מחצבת - הקורבן ה-16 בגל התחלואה](https://www.ynet.co.il/health/article/skd0rs00obl) (Ynet)
+
+- [Why are measles cases rising in the U.S.? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-the-u-s) (Alltoc.com)
+
+- [Parent creates safer social media; global measles outbreaks making travel risky: CBC’s Marketplace Cheat Sheet](https://www.cbc.ca/news/marketplace/marketplace-cheat-sheet-feb-22-2025-9.7097743) (CBC News)
+
+- [Govt responds to Australia's measles notice from RI travel history](https://en.antaranews.com/news/405442/govt-responds-to-australias-measles-notice-from-ri-travel-history) (Antaranews.com)
+
+- [Why are measles cases rising in 2026? #health](https://alltoc.com/health/why-are-measles-cases-rising-in-2026) (Alltoc.com)
+
+- [Vaccines were once mandatory for Manitoba students. Does the measles outbreak warrant a return?](https://www.cbc.ca/news/canada/manitoba/measles-outbreak-students-vaccination-9.7100180) (CBC News)
+
+- [Why are U.S. measles cases nearing 1,000? #health](https://alltoc.com/health/why-are-u-s-measles-cases-nearing-1000) (Alltoc.com)
+
 ## 26-9 (malaria)
 
 - [Científicos descubren el origen de la preferencia de los mosquitos por la sangre humana](https://muyinteresante.okdiario.com/naturaleza/cientificos-descubren-el-origen-de-la-preferencia-de-los-mosquitos-por-la-sangre-humana.html) (Okdiario.com)
@@ -310,6 +328,8 @@ Source: [News API](https://newsapi.org/)
 - [Malaria screening in Papua increases by 337 percent in 2021-2025: Govt](https://en.antaranews.com/news/405738/malaria-screening-in-papua-increases-by-337-percent-in-2021-2025-govt) (Antaranews.com)
 
 - [snt-malaria-budgeting 0.7.0](https://pypi.org/project/snt-malaria-budgeting/0.7.0/) (Pypi.org)
+
+- [Bambina 12 anni colpita da malaria ricoverata in ospedale](https://www.ansa.it/veneto/notizie/2026/02/22/bambina-12-anni-colpita-da-malaria-ricoverata-in-ospedale_250eceaa-a6f7-4b36-997a-62c6bae2011f.html) (ANSA.it)
 
 ## 26-9 (leptospirosis)
 
@@ -359,6 +379,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Dengue cases, deaths more than halved in 2025, says Ahmad Zahid](https://www.thestar.com.my/news/nation/2026/02/23/dengue-cases-deaths-more-than-halved-in-2025-says-ahmad-zahid) (The Star Online)
 
+- [Over 7,000 people affected by dengue in Sudurpaschim over three years](https://english.khabarhub.com/2026/22/536219/) (Khabarhub.com)
+
 ## 26-9 (chikungunya)
 
 - [Aumentam casos de "chikungunya" em viajantes](https://observador.pt/2026/02/27/aumentam-casos-de-chikungunya-em-viajantes-mas-risco-na-europa-e-baixo/) (Observador.pt)
@@ -393,6 +415,18 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (mpox)
 
+- [Zahl der Mpox-Infektionen in Berlin ist deutlich gestiegen](https://www.focus.de/gesundheit/news/zahl-der-mpox-infektionen-in-berlin-ist-deutlich-gestiegen_e570e7ca-f4d4-4263-ac68-a424b26ed30d.html) (Focus)
+
+- [Mehr Mpox-Infektionen in Berlin festgestellt – neue Variante breitet sich aus](https://www.morgenpost.de/berlin/article411676548/mehr-mpox-infektionen-in-berlin-festgestellt-neue-variante-breitet-sich-aus.html) (Berliner Morgenpost)
+
+- [Treatment of Severe Ocular Mpox with Cidofovir and Tecovirimat](https://wwwnc.cdc.gov/eid/article/32/4/25-0882_article) (Cdc.gov)
+
+- [Hautausschlag, Fieber, Muskelschmerzen: Zahl der Mpox-Infektionen in Berlin hat sich deutlich erhöht](https://www.tagesspiegel.de/berlin/hautausschlag-fieber-muskelschmerzen-zahl-der-mpox-infektionen-in-berlin-hat-sich-deutlich-erhoht-15454204.html) (Der Tagesspiegel)
+
+- [Seltene Krankheit: Zahl der Mpox-Infektionen in Berlin hat sich deutlich erhöht](https://www.tagesspiegel.de/berlin/seltene-krankheit-zahl-der-mpox-infektionen-in-berlin-hat-sich-deutlich-erhoht-15454204.html) (Der Tagesspiegel)
+
+- [Seltene Krankheit: Zahl der Mpox-Infektionen in Berlin hat sich deutlich erhöht](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/seltene-krankheit--zahl-der-mpox-infektionen-in-berlin-hat-sich-deutlich-erhoeht-37295646.html) (STERN.de)
+
 - [How bad for humans is wildlife trade? A new study has answers](https://www.npr.org/2026/04/09/nx-s1-5776668/wildlife-trade-pathogens-spillover) (NPR)
 
 - [Vírus je späť. V Bratislavskom kraji evidujú päť prípadov opičích kiahní](https://spravy.pravda.sk/regiony/clanok/797603-virus-je-spat-v-bratislavskom-kraji-eviduju-pat-pripadov-opicich-kiahni/) (Pravda.sk)
@@ -408,6 +442,14 @@ Source: [News API](https://newsapi.org/)
 - [Deadly Childhood Disease Rebounding as Vaccine Rates Drop](https://www.newser.com/story/386755/deadly-childhood-disease-rebounding-as-vaccine-rates-drop.html) (Newser)
 
 ## 26-15 (measles)
+
+- [What makes babies vulnerable in measles outbreaks? #health](https://alltoc.com/health/what-makes-babies-vulnerable-in-measles-outbreaks) (Alltoc.com)
+
+- [Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks](https://abcnews.com/Health/wireStory/young-mmr-shot-babies-become-sitting-ducks-measles-131905822) (Abcnews.com)
+
+- [Too young for the MMR shot, babies become 'sitting ducks' in measles outbreaks](https://www.seattlepi.com/news/article/too-young-for-the-mmr-shot-babies-become-22198917.php) (seattlepi.com)
+
+- [U confirms second measles case on campus](https://dailyutahchronicle.com/2026/04/09/u-confirms-second-measles-case-on-campus/) (Dailyutahchronicle.com)
 
 - [What triggered the measles outbreak in Utah? #health](https://alltoc.com/health/what-triggered-the-measles-outbreak-in-utah) (Alltoc.com)
 
