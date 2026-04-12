@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 6
-- **Last harvest:** 2026-04-12 07:35
-- **Most recent article:** 2026-04-11 06:06:02
+- **New articles in last harvest:** 5
+- **Last harvest:** 2026-04-12 19:19
+- **Most recent article:** 2026-04-11 19:05:57
 
 ---
 
@@ -13,18 +13,18 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | Total |
 |--|-|-|-|-|-|-|-|
 | meningitis | 3 | 6 | 175 | 75 | 19 | 4 | 282 |
-| measles | 68 | 30 | 20 | 21 | 26 | 48 | 213 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 10 | 108 |
-| malaria | 15 | 9 | 20 | 14 | 9 | 12 | 79 |
+| measles | 63 | 30 | 20 | 21 | 26 | 50 | 210 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 12 | 110 |
+| malaria | 15 | 9 | 20 | 14 | 9 | 14 | 81 |
 | rabies | 16 | 16 | 7 | 5 | 26 | 8 | 78 |
-| mpox | 9 | 16 | 12 | 4 | 19 | 9 | 69 |
+| mpox | 8 | 16 | 12 | 4 | 19 | 9 | 68 |
 | chikungunya | 1 | 7 | 7 | 8 | 11 | 3 | 37 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 2 | 30 |
-| zika | 1 | 2 | 4 | 1 | 15 | 0 | 23 |
+| zika | 1 | 2 | 4 | 1 | 15 | 1 | 24 |
 | hpai | 2 | 5 | 2 | 6 | 2 | 2 | 19 |
 | leptospirosis | 2 | 1 | 3 | 1 | 0 | 1 | 8 |
 | yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 5 |
-| typhoid | 3 | 0 | 0 | 1 | 1 | 0 | 5 |
+| typhoid | 2 | 0 | 0 | 1 | 1 | 0 | 4 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
 
@@ -32,6 +32,10 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-15 (zika)
+
+- [Flight Path Data Shows How Mosquitoes Target Humans](https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/) (Wired)
 
 ## 26-15 (yersinia)
 
@@ -90,6 +94,10 @@ Source: [News API](https://newsapi.org/)
 - [Deadly Childhood Disease Rebounding as Vaccine Rates Drop](https://www.newser.com/story/386755/deadly-childhood-disease-rebounding-as-vaccine-rates-drop.html) (Newser)
 
 ## 26-15 (measles)
+
+- [DOGE Made Drastic Cuts to a Global Vaccine Assistance Program. Now There’s a Deadly Measles Outbreak in Bangladesh](http://futurism.com/health-medicine/doge-vaccines-bangladesh) (Futurism)
+
+- [Babies too young for MMR vaccine become 'sitting ducks' in measles outbreaks](https://www.pbs.org/newshour/health/babies-too-young-for-mmr-vaccine-become-sitting-ducks-in-measles-outbreaks) (PBS)
 
 - [Why are babies too young for MMR still vulnerable? #health](https://alltoc.com/health/why-are-babies-too-young-for-mmr-still-vulnerable) (Alltoc.com)
 
@@ -189,6 +197,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-15 (malaria)
 
+- [gnuhealth-mdg6 5.0.4](https://pypi.org/project/gnuhealth-mdg6/5.0.4/) (Pypi.org)
+
+- [Flight Path Data Shows How Mosquitoes Target Humans](https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/) (Wired)
+
 - [Sex distorter male drive for resistance-resilient population control of the human malaria vector Anopheles gambiae](https://www.nature.com/articles/s41467-026-71627-1) (Nature.com)
 
 - [emod-malaria 2.33.0](https://pypi.org/project/emod-malaria/2.33.0/) (Pypi.org)
@@ -230,6 +242,10 @@ Source: [News API](https://newsapi.org/)
 - [Genomic analysis of high pathogenicity avian influenza viruses from Antarctica reveals multiple introductions from South America](https://www.nature.com/articles/s41467-026-71544-3) (Nature.com)
 
 ## 26-15 (dengue)
+
+- [gnuhealth-ntd-dengue 5.0.4](https://pypi.org/project/gnuhealth-ntd-dengue/5.0.4/) (Pypi.org)
+
+- [Flight Path Data Shows How Mosquitoes Target Humans](https://www.wired.com/story/flight-path-data-shows-how-mosquitoes-target-humans/) (Wired)
 
 - [La dengue est un problème de plus en plus préoccupant : pourquoi est-il si difficile de la combattre avec des vaccins](https://theconversation.com/la-dengue-est-un-probleme-de-plus-en-plus-preoccupant-pourquoi-est-il-si-difficile-de-la-combattre-avec-des-vaccins-279916) (The Conversation Africa)
 
@@ -1799,8 +1815,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroincidence Rate of Typhoidal Salmonella in Children, Kenya, 2017–2018](https://wwwnc.cdc.gov/eid/article/32/3/25-0469_article) (Cdc.gov)
 
-- [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
-
 ## 26-10 (rabies)
 
 - [BMC to launch mass anti-rabies vaccination drive for 52,000 dogs](https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-to-launches-mass-anti-rabies-vaccination-drive-for-52000-dogs/articleshow/129232046.cms) (The Times of India)
@@ -1856,8 +1870,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox Outbreak in Wild Monkeys Likely Traced to a Rope Squirrel They Consumed](https://www.discovermagazine.com/mpox-outbreak-in-wild-monkeys-likely-traced-to-a-rope-squirrel-they-consumed-48758) (Discover Magazine)
 
 - [Brasil registra 88 casos de Mpox em 60 dias; Ministério em alerta](https://saude.ig.com.br/2026-03-02/brasil-registra-88-casos-de-mpox-em-60-dias--ministerio-em-alerta.html) (Ig.com.br)
-
-- [Mpox no Brasil: tudo sobre a infecção viral e o como é tratamento](https://www.infomoney.com.br/saude/tratamento-da-mpox/) (InfoMoney)
 
 ## 26-10 (meningitis)
 
@@ -1994,16 +2006,6 @@ Source: [News API](https://newsapi.org/)
 - [Here's the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-march-1-rcna261075) (NBC News)
 
 - [Will the U.S. lose measles elimination status? #health](https://alltoc.com/health/will-the-u-s-lose-measles-elimination-status) (Alltoc.com)
-
-- [Why are U.S. measles cases soaring? #health](https://alltoc.com/health/why-are-u-s-measles-cases-soaring) (Alltoc.com)
-
-- [Why is measles surging in the U.S.? #health](https://alltoc.com/health/why-is-measles-surging-in-the-u-s) (Alltoc.com)
-
-- [Why are measles cases near 1,000? #health](https://alltoc.com/health/why-are-measles-cases-near-1000) (Alltoc.com)
-
-- [Measles is costing the U.S. millions of dollars. The true losses can't be counted.](https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734) (NBC News)
-
-- [How close is the US to losing measles elimination? #health](https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination) (Alltoc.com)
 
 ## 26-10 (malaria)
 
