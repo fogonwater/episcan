@@ -1,8 +1,63 @@
 {
-  "last_updated": "2026-04-13 19:33",
-  "count_articles_total": 911,
-  "count_articles_new": 2,
+  "last_updated": "2026-04-14 07:40",
+  "count_articles_total": 921,
+  "count_articles_new": 3,
   "articles": [
+    {
+      "id": 28990,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": "Gavin Kermack; Shannen Headley - West Midlands",
+      "title": "Football club's mascot named after mentor who died",
+      "description": "Aaron Mills, 18, who recently died from meningitis, was a mentor and coach for Wolverley FC.",
+      "url": "https://www.bbc.com/news/articles/c05dvpg59j2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "urlToImage": "https://s.yimg.com/os/en/bbc_us_articles_995/aa47cb64d37a094bba12f985c960d959",
+      "publishedAt": "2026-04-13 05:10:23",
+      "content": "A grassroots football club in Kidderminster will name its new mascot in memory of a former mentor and coach. Aaron Mills died on 3 January from a strain of meningitis that was not covered in his sch\u2026 [+1900 chars]",
+      "retrievedAt": "2026-04-14 07:40:06.560639",
+      "internal_id": "424ee46faef41de6bacfe3f60149a313a6e88a068ff5d4bb8dfefad994969889",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 28991,
+      "query": [
+        "leptospirosis"
+      ],
+      "source_id": null,
+      "source_name": "Rpnradio.com",
+      "author": "2fmn6",
+      "title": "Bacolod logs third leptospirosis death in 2026",
+      "description": "BACOLOD CITY \u2014 A 52-year-old resident of Barangay Estefania here has been reported as the third suspected leptospirosis fatality in the city this year, according to the City Health Office (CHO). The victim had a history of wading in water puddles after rain. \u2026",
+      "url": "https://rpnradio.com/bacolod-logs-third-leptospirosis-death-in-2026/",
+      "urlToImage": "https://rpnradio.com/wp-content/uploads/2026/04/Leptospirosis-death-bacolod.jpg",
+      "publishedAt": "2026-04-13 02:20:46",
+      "content": "BACOLOD CITY A 52-year-old resident of Barangay Estefania here has been reported as the third suspected leptospirosis fatality in the city this year, according to the City Health Office (CHO). The v\u2026 [+1497 chars]",
+      "retrievedAt": "2026-04-14 07:40:07.781975",
+      "internal_id": "8aefdd221620784ab7da698bd248773e800e503a3e8bafe833efafa3cc6c6b37",
+      "publishedAtLabel": "Apr 13"
+    },
+    {
+      "id": 28989,
+      "query": [
+        "dengue",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Mariana Lenharo",
+      "title": "Viruses allegedly stolen from high-security lab cause stir in Brazil",
+      "description": "The missing samples \u2014 reported to include chikungunya and dengue viruses \u2014 have been recovered, but questions linger over motive.",
+      "url": "https://www.nature.com/articles/d41586-026-01211-6",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01211-6/d41586-026-01211-6_52283706.jpg",
+      "publishedAt": "2026-04-13 00:00:00",
+      "content": "Researchers at the State University of Campinas, in Brazil, noticed in February that virus samples had gone missing from a high-security biosafety laboratory.Credit: Leandro Ferreira/Fotoarena via Zu\u2026 [+4625 chars]",
+      "retrievedAt": "2026-04-14 07:40:06.179198",
+      "internal_id": "b409bd6b11e1f78afd0148970162ef0756cb9d15c880436f7bb18e72ee5f76ae",
+      "publishedAtLabel": "Apr 13"
+    },
     {
       "id": 28988,
       "query": [
@@ -16454,6 +16509,132 @@
       "content": "The United States has recorded an unusually large number of measles infections early in 2026, with health authorities reporting measurements approaching 1,000 cases in the first two months of the yea\u2026 [+1822 chars]",
       "retrievedAt": "2026-03-03 07:22:49.245283",
       "internal_id": "6763bfcad0187d290e30f8a7989ab13eebe07d6781f68cefe36fb4997a761c7d",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28073,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are U.S. measles cases soaring? #health",
+      "description": "What public health officials are seeing The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to losing its long held \u2026",
+      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-soaring",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 18:10:57",
+      "content": "The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to l\u2026 [+1699 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.161594",
+      "internal_id": "811bd54c4aafacdc0deacba411dd710a29e4492767eec760a8823f1f761726d4",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28075,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is measles surging in the U.S.? #health",
+      "description": "What drove the recent national spike A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public health officials say could cost the country its long\u2011held elimination status. Large outbreaks c\u2026",
+      "url": "https://alltoc.com/health/why-is-measles-surging-in-the-u-s",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 15:10:11",
+      "content": "A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public-health officials say could cost the country its longheld elimination sta\u2026 [+1892 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.255791",
+      "internal_id": "a5d53fcd105e8e7cb09e347ec154c7600809af21af539071d3efd3dcf08226a9",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28072,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases near 1,000? #health",
+      "description": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, including a major cluster in Spartanburg, South Carolina, and g\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-near-1000",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 12:09:15",
+      "content": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, in\u2026 [+1911 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.137857",
+      "internal_id": "46824ef9ad8179ec098e9eadbd36d1ea40eaf37a7d54974d266dbdf0352032fe",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28071,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Measles is costing the U.S. millions of dollars. The true losses can't be counted.",
+      "description": "In 2026, there have been over 1,000 cases of measles. If vaccination rates keep dropping, the costs of medical care, public health efforts and lost work productivity could skyrocket.",
+      "url": "https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260226-spartanburg-measles-ew-1135a-4e564d.jpg",
+      "publishedAt": "2026-03-01 11:00:00",
+      "content": "In early 2025, as measles began to tear through West Texas, Katherine Wells knew she needed money. Though the outbreak was concentrated in Gaines County, a community an hour away, Wells, who heads L\u2026 [+9516 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.114894",
+      "internal_id": "3af1d2e1646571b68ebf38cbc7f88a29f95326c7e1ad8d2d53e0a6b85c0c588a",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28074,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How close is the US to losing measles elimination? #health",
+      "description": "Where the country stands and why it matters U.S. public\u2011health officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at real risk of losin\u2026",
+      "url": "https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 09:09:34",
+      "content": "U.S. publichealth officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at rea\u2026 [+1617 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.185940",
+      "internal_id": "992b5f6c05a8fd253e7223b97ed004968160366369d7576bf4f8d40f8d9dcdf5",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28077,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is drug-resistant typhoid spreading? #health",
+      "description": "What scientists found and why it matters A recent study warns that older, highly drug\u2011resistant strains of Salmonella Typhi\u2014the bacterium that causes typhoid fever\u2014are becoming harder to treat and are moving beyond their historic geographic pockets. These str\u2026",
+      "url": "https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 09:09:34",
+      "content": "A recent study warns that older, highly drugresistant strains of Salmonella Typhithe bacterium that causes typhoid feverare becoming harder to treat and are moving beyond their historic geographic po\u2026 [+1602 chars]",
+      "retrievedAt": "2026-03-02 19:19:30.693703",
+      "internal_id": "07445d995db80be52f10d3d72f89d8bf2d5b2569f7ac83f3fa2f843c87ac5503",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28076,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "carlacarvalho",
+      "title": "Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento",
+      "description": "A maioria dos casos evolui de forma leve, mas alguns podem exigir uso de antiviral e fisioterapia respirat\u00f3ria. The post Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/tratamento-da-mpox/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-22T131236Z_1_LYNXMPEK7L0HZ_RTROPTP_4_HEALTH-MPOX.jpg?fit=3500%2C2074&quality=70&strip=all",
+      "publishedAt": "2026-03-01 08:01:00",
+      "content": "O Brasil voltou a registrar 90 casos confirmados de mpox nas \u00faltimas semanas, segundo dados das autoridades de sa\u00fade. Embora o cen\u00e1rio esteja distante dos picos observados em 2022, a doen\u00e7a continua \u2026 [+4267 chars]",
+      "retrievedAt": "2026-03-02 19:19:30.555478",
+      "internal_id": "154cb4b01c923184cf4deb57b7c4a78ff7b35fe3c2aa151e2ec28ce94640065f",
       "publishedAtLabel": "Mar 1"
     }
   ]
