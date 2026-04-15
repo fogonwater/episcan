@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2026-04-14 19:34
-- **Most recent article:** 2026-04-13 14:00:00
+- **New articles in last harvest:** 4
+- **Last harvest:** 2026-04-15 07:39
+- **Most recent article:** 2026-04-14 06:03:20
 
 ---
 
@@ -13,18 +13,18 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 3 | 6 | 175 | 75 | 19 | 4 | 1 | 283 |
-| measles | 63 | 30 | 20 | 21 | 26 | 51 | 2 | 213 |
+| measles | 68 | 30 | 20 | 21 | 26 | 51 | 4 | 220 |
 | dengue | 22 | 11 | 28 | 19 | 18 | 12 | 2 | 112 |
-| malaria | 15 | 9 | 20 | 14 | 9 | 14 | 2 | 83 |
+| malaria | 15 | 9 | 20 | 14 | 9 | 14 | 3 | 84 |
 | rabies | 16 | 16 | 7 | 5 | 26 | 8 | 1 | 79 |
-| mpox | 8 | 16 | 12 | 4 | 19 | 9 | 0 | 68 |
+| mpox | 9 | 16 | 12 | 4 | 19 | 9 | 1 | 70 |
 | chikungunya | 1 | 7 | 7 | 8 | 11 | 3 | 1 | 38 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 2 | 0 | 30 |
 | zika | 1 | 2 | 4 | 1 | 15 | 1 | 2 | 26 |
 | hpai | 2 | 5 | 2 | 6 | 2 | 2 | 1 | 20 |
 | leptospirosis | 2 | 1 | 3 | 1 | 0 | 1 | 1 | 9 |
 | yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 0 | 5 |
-| typhoid | 2 | 0 | 0 | 1 | 1 | 0 | 0 | 4 |
+| typhoid | 3 | 0 | 0 | 1 | 1 | 0 | 0 | 5 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
 
@@ -43,17 +43,27 @@ Source: [News API](https://newsapi.org/)
 
 - [BMC to send blood samples of vaccinated dogs to Bengaluru for antibody testing](https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-to-send-blood-samples-of-vaccinated-dogs-to-bengaluru-for-antibody-testing/articleshow/130211913.cms) (The Times of India)
 
+## 26-16 (mpox)
+
+- [Mpox can infect and replicate in the brain, US health researchers say in fatal HIV case](https://www.straitstimes.com/world/united-states/mpox-can-infect-and-replicate-in-the-brain-us-health-researchers-say-in-fatal-hiv-case) (The Straits Times)
+
 ## 26-16 (meningitis)
 
 - [Football club's mascot named after mentor who died](https://www.bbc.com/news/articles/c05dvpg59j2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 ## 26-16 (measles)
 
+- [How did Idaho get a measles case? #health](https://alltoc.com/health/how-did-idaho-get-a-measles-case) (Alltoc.com)
+
+- [Oh God: RFK Jr. Unveils Plan To Be First Sitting Cabinet Secretary To Host A Podcast](https://www.techdirt.com/2026/04/13/oh-god-rfk-jr-unveils-plan-to-be-first-sitting-cabinet-secretary-to-host-a-podcast/) (Techdirt)
+
 - [Measles deaths rise to 30 as DGHS reports two more fatalities](https://www.thedailystar.net/health/news/measles-deaths-rise-30-dghs-reports-two-more-fatalities-4150806) (The Daily Star)
 
 - [BMU VC calls for study on measles booster doses](https://www.thedailystar.net/health/news/bmu-vc-calls-study-measles-booster-doses-4150261) (The Daily Star)
 
 ## 26-16 (malaria)
+
+- [Potent acridone antimalarial against all three life stages of Plasmodium](https://www.nature.com/articles/s41467-026-71708-1) (Nature.com)
 
 - [The dynamics of asymptomatic Plasmodium spp. infections following 10 years of malaria control interventions in Northern Sahelian Ghana](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014174) (Plos.org)
 
@@ -1861,6 +1871,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroincidence Rate of Typhoidal Salmonella in Children, Kenya, 2017–2018](https://wwwnc.cdc.gov/eid/article/32/3/25-0469_article) (Cdc.gov)
 
+- [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
+
 ## 26-10 (rabies)
 
 - [BMC to launch mass anti-rabies vaccination drive for 52,000 dogs](https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-to-launches-mass-anti-rabies-vaccination-drive-for-52000-dogs/articleshow/129232046.cms) (The Times of India)
@@ -1916,6 +1928,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox Outbreak in Wild Monkeys Likely Traced to a Rope Squirrel They Consumed](https://www.discovermagazine.com/mpox-outbreak-in-wild-monkeys-likely-traced-to-a-rope-squirrel-they-consumed-48758) (Discover Magazine)
 
 - [Brasil registra 88 casos de Mpox em 60 dias; Ministério em alerta](https://saude.ig.com.br/2026-03-02/brasil-registra-88-casos-de-mpox-em-60-dias--ministerio-em-alerta.html) (Ig.com.br)
+
+- [Mpox no Brasil: tudo sobre a infecção viral e o como é tratamento](https://www.infomoney.com.br/saude/tratamento-da-mpox/) (InfoMoney)
 
 ## 26-10 (meningitis)
 
@@ -2052,6 +2066,16 @@ Source: [News API](https://newsapi.org/)
 - [Here's the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-march-1-rcna261075) (NBC News)
 
 - [Will the U.S. lose measles elimination status? #health](https://alltoc.com/health/will-the-u-s-lose-measles-elimination-status) (Alltoc.com)
+
+- [Why are U.S. measles cases soaring? #health](https://alltoc.com/health/why-are-u-s-measles-cases-soaring) (Alltoc.com)
+
+- [Why is measles surging in the U.S.? #health](https://alltoc.com/health/why-is-measles-surging-in-the-u-s) (Alltoc.com)
+
+- [Why are measles cases near 1,000? #health](https://alltoc.com/health/why-are-measles-cases-near-1000) (Alltoc.com)
+
+- [Measles is costing the U.S. millions of dollars. The true losses can't be counted.](https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734) (NBC News)
+
+- [How close is the US to losing measles elimination? #health](https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination) (Alltoc.com)
 
 ## 26-10 (malaria)
 
