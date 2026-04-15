@@ -1,8 +1,206 @@
 {
-  "last_updated": "2026-04-15 07:39",
-  "count_articles_total": 930,
-  "count_articles_new": 4,
+  "last_updated": "2026-04-15 19:35",
+  "count_articles_total": 934,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 29010,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Research and Markets",
+      "title": "Vivotif (Bavarian Nordic) Market Research Report 2026: Epidemiology, Pipeline Analysis, Insights & Forecasts 2020-2035",
+      "description": "Key market opportunities for Vivotif include rising typhoid incidence in endemic areas, growing demand for travel-linked and oral vaccines, expanded pediatric immunization, and increased healthcare spending. The focus on antimicrobial resistance and localized\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/04/14/3273639/28124/en/Vivotif-Bavarian-Nordic-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Insights-Forecasts-2020-2035.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "publishedAt": "2026-04-14 14:48:00",
+      "content": "Dublin, April 14, 2026 (GLOBE NEWSWIRE) -- The \"Vivotif Market Report 2026: Epidemiology, Pipeline Analysis, Market Insights &amp; Forecasts\" has been added to ResearchAndMarkets.com's offering. In \u2026 [+5575 chars]",
+      "retrievedAt": "2026-04-15 19:35:30.221477",
+      "internal_id": "8c4bc2bc7c477451fcabbd83a62ff4108658779b905cd751e2617eca7448eff1",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29002,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Libia Solano Meza",
+      "title": "Malaria en Costa Rica: casos, riesgos y c\u00f3mo prevenirla",
+      "description": "Fiebre intermitente, dolor de cabeza y malestar general son algunos de los s\u00edntomas de la malaria, una enfermedad causada por el par\u00e1sito Plasmodium que a\u00fan genera preocupaci\u00f3n a nivel global. Costa Rica a\u00fan reporta casos aut\u00f3ctonos e importados de malaria. C\u2026",
+      "url": "https://www.nacion.com/mi-bienestar/malaria-en-costa-rica-casos-riesgos-y-como/O3QEXVM47FAOPNIGEZOJ37GTMU/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/TOYRIULG65GRPDQNI6BRLSURYA.png?smart=true&auth=7d2ef520dba719cb2ea2f41ff3bcfa8cd7e36ab6ce16740a8537147bdca25295&width=1440",
+      "publishedAt": "2026-04-14 14:43:47",
+      "content": "La malaria o paludismo contin\u00faa siendo una de las enfermedades infecciosas m\u00e1s persistentes del planeta. Afecta principalmente a regiones vulnerables y a poblaciones con acceso limitado a servicios d\u2026 [+5391 chars]",
+      "retrievedAt": "2026-04-15 19:35:29.596586",
+      "internal_id": "4c10bf1f50dd0a7885653c89d5b60c297aeefd8c5aad2dc641fcb84366474eb0",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29003,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Aftonbladet.se",
+      "author": "TT",
+      "title": "M\u00f6jligt mpox-fall hittat i Danmark",
+      "description": "F\u00f6r f\u00f6rsta g\u00e5ngen har ett misst\u00e4nkt fall av en undervariant av mpox registrerats i Danmark.",
+      "url": "https://www.aftonbladet.se/nyheter/a/GxrnkB/mojligt-mpox-fall-hittat-i-danmark",
+      "urlToImage": "https://images.aftonbladet-cdn.se/v2/images/928c03a4-7491-3baf-8226-4e59a21b2743?fit=crop&format=auto&h=1267&q=50&w=1900&s=40403d48c888f6db024688d29da04612c66f74fa",
+      "publishedAt": "2026-04-14 14:41:11",
+      "content": "F\u00f6r f\u00f6rsta g\u00e5ngen har ett misst\u00e4nkt fall av en undervariant av mpox registrerats i Danmark. Det handlar om varianten klade 1b, meddelar danska Sundhedsstyrelsen i ett pressmeddelande. Fallet ger in\u2026 [+490 chars]",
+      "retrievedAt": "2026-04-15 19:35:30.030392",
+      "internal_id": "b64a3b62cdd61e0500e10c9e52e0fabf0d499ad00659a1cb97686c70183f5cdf",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29004,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "F\u00f8rste mulige tilf\u00e6lde af mpoxvariant registreret i Danmark",
+      "description": "Der er for f\u00f8rste gang registreret et muligt tilf\u00e6lde af en undervariant af mpox i Danmark.",
+      "url": "https://www.dr.dk/nyheder/seneste/foerste-mulige-tilfaelde-af-mpoxvariant-registreret-i-danmark",
+      "urlToImage": "https://asset.dr.dk/drdk/umbraco-images/oujpen2a/317.png?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2026-04-14 14:40:00",
+      "content": "Den italienske premierminister, Giorgia Meloni, giver sin fulde st\u00f8tte til pave Leo. Det sker, efter USA's pr\u00e6sident, Donald Trump, kaldte den amerikanske pave Leo for bl\u00f8ds\u00f8den og elendig til uden\u2026 [+703 chars]",
+      "retrievedAt": "2026-04-15 19:35:30.059782",
+      "internal_id": "ddaacc5ea0530d60627d507931fd0047baed51df336e96d52e8d6ac5c12113a9",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29005,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": null,
+      "title": "Variant af mpox kan v\u00e6re registreret i Danmark for f\u00f8rste gang",
+      "description": "En dansker formodes at v\u00e6re smittet med mpox-varianten \"klade b\" p\u00e5 grund af seksuel kontakt i udlandet.",
+      "url": "https://www.bt.dk/samfund/variant-af-mpox-kan-vaere-registreret-i-danmark-for-foerste-gang",
+      "urlToImage": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/149041429.webp?t[strip]=true&t[resize][width]=1440&t[quality]=70&accessToken=cac69c1b0d4ea8ae423eed61744e4c2181871477c3d05535263a7e8fa6b3ff25",
+      "publishedAt": "2026-04-14 14:37:48",
+      "content": "Der er for f\u00f8rste gang registreret et muligt tilf\u00e6lde af mpoxvarianten \"klade b\" i Danmark. Det skriver Sundhedsstyrelsen i en pressemeddelelse. Varianten har de seneste \u00e5r vist sig med sporadiske \u2026 [+1571 chars]",
+      "retrievedAt": "2026-04-15 19:35:30.071953",
+      "internal_id": "0845f59989235b785a959d2a5648b813199075a44f877612b9b9c7dbe05abd43",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29006,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": null,
+      "title": "Variant af mpox registreret i Danmark for f\u00f8rste gang",
+      "description": "En dansker formodes at v\u00e6re smittet med mpox-varianten \"klade b\" p\u00e5 grund af seksuel kontakt i udlandet.",
+      "url": "https://www.bt.dk/samfund/variant-af-mpox-registreret-i-danmark-for-foerste-gang",
+      "urlToImage": "https://www.bt.dk/brands/bt/share.jpg",
+      "publishedAt": "2026-04-14 14:20:50",
+      "content": "Der er for f\u00f8rste gang registreret et tilf\u00e6lde af mpoxvarianten \"klade b\" i Danmark. Det skriver Sundhedsstyrelsen i en pressemeddelelse. Varianten har de seneste \u00e5r vist sig med sporadiske tilf\u00e6ld\u2026 [+504 chars]",
+      "retrievedAt": "2026-04-15 19:35:30.083848",
+      "internal_id": "2b6fdd8fa109bfc45b5e6d97729046d8f825419110755137cf27bd264d074c56",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29008,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Politiken.dk",
+      "author": null,
+      "title": "F\u00f8rste tilf\u00e6lde af mpox-variant er konstateret i Danmark",
+      "description": "En dansker formodes at v\u00e6re smittet med mpox-varianten \u2019klade b\u2019 p\u00e5 grund af seksuel kontakt i udlandet.",
+      "url": "https://politiken.dk/danmark/sundhed/art10804577/F%C3%B8rste-tilf%C3%A6lde-af-mpox-variant-er-konstateret-i-Danmark",
+      "urlToImage": "https://politiken.dk/incoming/img10804581.dc6i4m/ORIGINALS/original_750/HEALTH-MPOX",
+      "publishedAt": "2026-04-14 14:18:10",
+      "content": "Gem artiklen Gemt L\u00e6st Der er for f\u00f8rste gang registreret et tilf\u00e6lde af mpoxvarianten klade b i Danmark, skriver Sundhedsstyrelsen i en pressemeddelelse. Personen formodes at v\u00e6re smittet ved sek\u2026 [+554 chars]",
+      "retrievedAt": "2026-04-15 19:35:30.108212",
+      "internal_id": "9459814113ef94a320f19702cb14b33b7ecbce3cbfaaf1de4c49ebde42f021d2",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29009,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Politiken.dk",
+      "author": null,
+      "title": "F\u00f8rste tilf\u00e6lde af mpox-undervariant er konstateret i Danmark",
+      "description": "En dansker formodes at v\u00e6re smittet med mpox-varianten \u2019klade b\u2019 p\u00e5 grund af seksuel kontakt i udlandet.",
+      "url": "https://politiken.dk/danmark/sundhed/art10804577/F%C3%B8rste-tilf%C3%A6lde-af-mpox-undervariant-er-konstateret-i-Danmark",
+      "urlToImage": "https://politiken.dk/incoming/img10804581.dc6i4m/ORIGINALS/original_750/HEALTH-MPOX",
+      "publishedAt": "2026-04-14 14:18:10",
+      "content": "Gem artiklen Gemt L\u00e6st Der er for f\u00f8rste gang registreret et tilf\u00e6lde af mpoxvarianten klade b i Danmark, skriver Sundhedsstyrelsen i en pressemeddelelse. Personen formodes at v\u00e6re smittet ved sek\u2026 [+554 chars]",
+      "retrievedAt": "2026-04-15 19:35:30.120565",
+      "internal_id": "3d1c9d016a45f1afc35f8c0f98e09a11bbf385c04e3b9e337e78720ad5efe108",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29007,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "ritzau, ansb@bt.dk (Anne-Sofie Breinholt)",
+      "title": "For f\u00f8rste gang i Danmark: Farlig virus muligvis registreret",
+      "description": "En dansker formodes at v\u00e6re smittet med mpox-varianten \"klade b\" p\u00e5 grund af seksuel kontakt i udlandet.",
+      "url": "https://www.bt.dk/sundhed/for-foerste-gang-i-danmark-farlig-virus-muligvis-registreret",
+      "urlToImage": "https://www.bt.dk/brands/bt/share.jpg",
+      "publishedAt": "2026-04-14 14:09:38",
+      "content": "Der er for f\u00f8rste gang registreret et tilf\u00e6lde af mpoxvarianten \"klade b\" i Danmark. Det skriver Sundhedsstyrelsen i en pressemeddelelse. Varianten har de seneste \u00e5r vist sig med sporadiske tilf\u00e6ld\u2026 [+518 chars]",
+      "retrievedAt": "2026-04-15 19:35:30.095806",
+      "internal_id": "f7b8de5da2d41270d6fba3bf85dae11fb641e44d8a9e14a3cb58bb39f0b652aa",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29011,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Dipesh Tamrakar, Shiva Ram Naga, Esther Jung, Basudha Shrestha, Pratibha Bista Roka, Rabin Pokharel, Sabin Bikram Shahi, Aarjya Tara Bajracharya, Surendra K. Mahadup, Nishan Katuwal, Kate Doyle, Jessica C. Seidman, Alice S. Carter, Stephen P. Luby, Isaac I. Bogoch, Kristen Aiemjoy, Denise O. Garrett, Rajeev Shrestha, Jason R. Andrews",
+      "title": "Correction: Impact of the COVID-19 pandemic and typhoid conjugate vaccine introduction on typhoid fever in Nepal",
+      "description": "",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014208",
+      "urlToImage": null,
+      "publishedAt": "2026-04-14 14:00:00",
+      "content": "An additional affiliation is missing for the first author. Dipesh Tamrakar is also affiliated with the Department of Clinical Tropical Medicine, Mahidol University Faculty of Tropical Medicine, Bangk\u2026 [+598 chars]",
+      "retrievedAt": "2026-04-15 19:35:30.233902",
+      "internal_id": "689d20e348b4cd3e32451aec3de659d05e42b0d4888258949b0ec57eec8976ec",
+      "publishedAtLabel": "Apr 14"
+    },
+    {
+      "id": 29001,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Newz24india.in",
+      "author": "Ekta Sharma",
+      "title": "Punjab Health Card Campaign Gains Momentum, Minister...",
+      "description": "Punjab Health Card Campaign Punjab gains momentum as Minister Balbir Singh highlights dengue awareness, public health and food safety initiatives. Punjab\u2019s \u201cHealth\u2026",
+      "url": "https://newz24india.in/health-card-campaign-punjab-dr-balbir-singh-public-health-dengue-awareness-food-safety/",
+      "urlToImage": "https://newz24india.in/wp-content/uploads/2026/04/balbir-2-1024x575.jpg",
+      "publishedAt": "2026-04-14 12:03:45",
+      "content": "3KPunjabs Health Card Campaign Punjab is gaining strong momentum as the state government intensifies efforts to strengthen public healthcare services. Health Minister Dr. Balbir Singh, during a press\u2026 [+2265 chars]",
+      "retrievedAt": "2026-04-15 19:35:29.239144",
+      "internal_id": "5568ed894cc626537b937ff6fc2fe8fa59d04d1e9a680f23477376eea2b0488e",
+      "publishedAtLabel": "Apr 14"
+    },
     {
       "id": 28998,
       "query": [
@@ -16671,132 +16869,6 @@
       "content": "The United States has recorded an unusually large number of measles infections early in 2026, with health authorities reporting measurements approaching 1,000 cases in the first two months of the yea\u2026 [+1822 chars]",
       "retrievedAt": "2026-03-03 07:22:49.245283",
       "internal_id": "6763bfcad0187d290e30f8a7989ab13eebe07d6781f68cefe36fb4997a761c7d",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28073,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are U.S. measles cases soaring? #health",
-      "description": "What public health officials are seeing The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to losing its long held \u2026",
-      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-soaring",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 18:10:57",
-      "content": "The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to l\u2026 [+1699 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.161594",
-      "internal_id": "811bd54c4aafacdc0deacba411dd710a29e4492767eec760a8823f1f761726d4",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28075,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why is measles surging in the U.S.? #health",
-      "description": "What drove the recent national spike A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public health officials say could cost the country its long\u2011held elimination status. Large outbreaks c\u2026",
-      "url": "https://alltoc.com/health/why-is-measles-surging-in-the-u-s",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 15:10:11",
-      "content": "A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public-health officials say could cost the country its longheld elimination sta\u2026 [+1892 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.255791",
-      "internal_id": "a5d53fcd105e8e7cb09e347ec154c7600809af21af539071d3efd3dcf08226a9",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28072,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles cases near 1,000? #health",
-      "description": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, including a major cluster in Spartanburg, South Carolina, and g\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-cases-near-1000",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 12:09:15",
-      "content": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, in\u2026 [+1911 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.137857",
-      "internal_id": "46824ef9ad8179ec098e9eadbd36d1ea40eaf37a7d54974d266dbdf0352032fe",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28071,
-      "query": [
-        "measles"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Erika Edwards",
-      "title": "Measles is costing the U.S. millions of dollars. The true losses can't be counted.",
-      "description": "In 2026, there have been over 1,000 cases of measles. If vaccination rates keep dropping, the costs of medical care, public health efforts and lost work productivity could skyrocket.",
-      "url": "https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260226-spartanburg-measles-ew-1135a-4e564d.jpg",
-      "publishedAt": "2026-03-01 11:00:00",
-      "content": "In early 2025, as measles began to tear through West Texas, Katherine Wells knew she needed money. Though the outbreak was concentrated in Gaines County, a community an hour away, Wells, who heads L\u2026 [+9516 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.114894",
-      "internal_id": "3af1d2e1646571b68ebf38cbc7f88a29f95326c7e1ad8d2d53e0a6b85c0c588a",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28074,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "How close is the US to losing measles elimination? #health",
-      "description": "Where the country stands and why it matters U.S. public\u2011health officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at real risk of losin\u2026",
-      "url": "https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 09:09:34",
-      "content": "U.S. publichealth officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at rea\u2026 [+1617 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.185940",
-      "internal_id": "992b5f6c05a8fd253e7223b97ed004968160366369d7576bf4f8d40f8d9dcdf5",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28077,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why is drug-resistant typhoid spreading? #health",
-      "description": "What scientists found and why it matters A recent study warns that older, highly drug\u2011resistant strains of Salmonella Typhi\u2014the bacterium that causes typhoid fever\u2014are becoming harder to treat and are moving beyond their historic geographic pockets. These str\u2026",
-      "url": "https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 09:09:34",
-      "content": "A recent study warns that older, highly drugresistant strains of Salmonella Typhithe bacterium that causes typhoid feverare becoming harder to treat and are moving beyond their historic geographic po\u2026 [+1602 chars]",
-      "retrievedAt": "2026-03-02 19:19:30.693703",
-      "internal_id": "07445d995db80be52f10d3d72f89d8bf2d5b2569f7ac83f3fa2f843c87ac5503",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28076,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "carlacarvalho",
-      "title": "Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento",
-      "description": "A maioria dos casos evolui de forma leve, mas alguns podem exigir uso de antiviral e fisioterapia respirat\u00f3ria. The post Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/saude/tratamento-da-mpox/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-22T131236Z_1_LYNXMPEK7L0HZ_RTROPTP_4_HEALTH-MPOX.jpg?fit=3500%2C2074&quality=70&strip=all",
-      "publishedAt": "2026-03-01 08:01:00",
-      "content": "O Brasil voltou a registrar 90 casos confirmados de mpox nas \u00faltimas semanas, segundo dados das autoridades de sa\u00fade. Embora o cen\u00e1rio esteja distante dos picos observados em 2022, a doen\u00e7a continua \u2026 [+4267 chars]",
-      "retrievedAt": "2026-03-02 19:19:30.555478",
-      "internal_id": "154cb4b01c923184cf4deb57b7c4a78ff7b35fe3c2aa151e2ec28ce94640065f",
       "publishedAtLabel": "Mar 1"
     }
   ]
