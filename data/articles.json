@@ -1,8 +1,134 @@
 {
-  "last_updated": "2026-04-16 07:39",
+  "last_updated": "2026-04-16 19:33",
   "count_articles_total": 948,
   "count_articles_new": 7,
   "articles": [
+    {
+      "id": 29025,
+      "query": [
+        "shigellosis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How did Shigellosis become a US threat? #world",
+      "description": "Drug resistant Shigellosis signals a new public health pressure U.S. health officials are warning about an emerging drug resistant infectious threat: Shigellosis spreading across the country in a way that doctors say could become a major public health problem\u2026",
+      "url": "https://alltoc.com/world/how-did-shigellosis-become-a-us-threat",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-15 18:03:45",
+      "content": "Drug-resistant Shigellosis signals a new public-health pressure U.S. health officials are warning about an emerging drug-resistant infectious threat: Shigellosis spreading across the country in a wa\u2026 [+1496 chars]",
+      "retrievedAt": "2026-04-16 19:33:00.448121",
+      "internal_id": "95dfa1f488d71e0e57b9c2688752211935a8ad48f2f1c8ebe43f730d20c4d48e",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 29023,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Olhardigital.com.br",
+      "author": "Lucas Soares",
+      "title": "Cientistas brasileiros e astronauta da Artemis 2 est\u00e3o na lista das 100 pessoas mais influentes do mundo da Time",
+      "description": "Reid Wiseman comandou miss\u00e3o que levou humanos mais longe da Terra. Brasileiros Luciano Moreira (dengue) e Mariangela Hungria (agricultura sustent\u00e1vel) tamb\u00e9m est\u00e3o na sele\u00e7\u00e3o O post Cientistas brasileiros e astronauta da Artemis 2 est\u00e3o na lista das 100 pess\u2026",
+      "url": "https://olhardigital.com.br/2026/04/15/ciencia-e-espaco/cientistas-brasileiros-e-astronauta-da-artemis-2-estao-na-lista-das-100-pessoas-mais-influentes-do-mundo-da-time/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2026/04/FotoJet-1.jpg",
+      "publishedAt": "2026-04-15 15:14:26",
+      "content": "A revista Time divulgou nesta quarta-feira (15) sua lista das 100 pessoas mais influentes do mundo, e o comandante da miss\u00e3o lunar Artemis 2, Reid Wiseman, ganhou destaque entre os nomes. Dois pesqui\u2026 [+2205 chars]",
+      "retrievedAt": "2026-04-16 19:32:58.813848",
+      "internal_id": "654fc3bbbfefd957a8df005ad9a5b68b83bc35102c67d965d171ecd1b7ff3759",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 29019,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Loudwire",
+      "author": "Lauryn Schaffner",
+      "title": "Taylor Momsen Hospitalized, Shows Photo of Spider Rash",
+      "description": "The Pretty Reckless' Taylor Momsen was hospitalized in Mexico over a skin rash that formed on her leg after being bit by a poisonous spider. Continue reading\u2026",
+      "url": "https://loudwire.com/the-pretty-reckless-taylor-momsen-hospitalized-spider-rash/",
+      "urlToImage": "https://townsquare.media/site/366/files/2026/04/attachment-taylor_momsen_hospital.jpg?w=1200&q=75&format=natural",
+      "publishedAt": "2026-04-15 14:22:07",
+      "content": "The Pretty Reckless' Taylor Momsen was hospitalized last night (April 14) over a reaction from a recent spider bite. The singer, who received a series of rabies shots in the spring of 2024 after bei\u2026 [+2078 chars]",
+      "retrievedAt": "2026-04-16 19:32:58.025164",
+      "internal_id": "4ddda5f1aeecd72cdbd7864a82dc6bf2b5654a9ad7eecaf5d58d88608ed4ddd1",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 29020,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Stephanie E. Clark, Patrick L. Sinn",
+      "title": "Three paradoxical paradigms of measles virus",
+      "description": "",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014135",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014135.g001&size=inline",
+      "publishedAt": "2026-04-15 14:00:00",
+      "content": "Citation: Clark SE, Sinn PL (2026) Three paradoxical paradigms of measles virus. PLoS Pathog 22(4): e1014135. https://doi.org/10.1371/journal.ppat.1014135 Editor: Siyuan Ding, Washington Universi\u2026 [+29161 chars]",
+      "retrievedAt": "2026-04-16 19:32:58.253960",
+      "internal_id": "b80727803ee44fd2c6454e0d3d59a250cffe7de901e7fcfdcd097a93c2624f07",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 29024,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Do maruim ao Aedes: como mudan\u00e7as ambientais favorecem novas epidemias no Brasil",
+      "description": "Do maruim ao Aedes: mudan\u00e7as ambientais favorecem novas epidemias no Brasil Uma combina\u00e7\u00e3o de fatores ambientais \u2014 que inclui o aquecimento global, o desmatamento e transforma\u00e7\u00f5es profundas no uso da terra \u2014 est\u00e1 alterando o mapa das doen\u00e7as transmitidas por \u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/04/15/do-maruim-ao-aedes-como-mudancas-ambientais-favorecem-novas-epidemias-no-brasil.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/LlDsfeMFiLuA6VBg59J0MwgDyRc=/1920x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/q/u/Dlai3nSiKXGjAAYUh7ug/gmd-regional-26-04-mosquito-colatina.mp4-snapshot-00.59.180.jpg",
+      "publishedAt": "2026-04-15 12:47:39",
+      "content": "Cientistas alertam que as mudan\u00e7as no clima e na paisagem favorecem a expans\u00e3o de vetores como o Aedes aegypti, respons\u00e1vel pela dengue, e do maruim Culicoides paraensis, principal transmissor da feb\u2026 [+4455 chars]",
+      "retrievedAt": "2026-04-16 19:32:58.825875",
+      "internal_id": "654c653919d173f3418ff6482d1bf8a7f0fd922fee9e7a6ae23fa5dfd2fc9425",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 29022,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "Star Online Report",
+      "title": "Measles death toll rises to 32 as Dhaka reports new fatality: DGHS",
+      "description": "Measles death toll rises to 32 as Dhaka reports new fatality: DGHSthedailystar.net",
+      "url": "https://www.thedailystar.net/health/news/measles-death-toll-rises-32-dhaka-reports-new-fatality-dghs-4152106",
+      "urlToImage": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-04/Measles_1_0.jpg",
+      "publishedAt": "2026-04-15 12:08:05",
+      "content": "One more confirmed measles death has been reported in 24 hours till 8:00am today, taking up the number of total confirmed deaths to 32. The death was reported from Dhaka division, Directorate Genera\u2026 [+428 chars]",
+      "retrievedAt": "2026-04-16 19:32:58.277035",
+      "internal_id": "f3512da28391078106eb5143140dfb33f076cd87408000e86ab455fa6964a523",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 29021,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "Africa: Nearly 20 million measles deaths averted since 2000",
+      "description": "Measles vaccinations have saved nearly 20 million lives in Africa since the year 2000 and more than 500 million children were protected through routine immunisation, but the continent remains offtrack in the fight against vaccine-preventable diseases. Read F\u2026",
+      "url": "https://news.un.org/en/story/2026/04/1167307",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/30-12-2022_UNICEF_Ethiopia.jpg/image770x420cropped.jpg",
+      "publishedAt": "2026-04-15 12:00:00",
+      "content": "The findings come in the first-ever detailed analysis of immunisation targets in Africa, published on Wednesday by the World Health Organization (WHO) and Gavi, the Vaccine Alliance. It also docume\u2026 [+2930 chars]",
+      "retrievedAt": "2026-04-16 19:32:58.265487",
+      "internal_id": "acd87e0ae81cd0b578cab09c71937fda41087b788fd59e11fb168345a29e3848",
+      "publishedAtLabel": "Apr 15"
+    },
     {
       "id": 29012,
       "query": [
@@ -16995,132 +17121,6 @@
       "content": "The United States has recorded an unusually large number of measles infections early in 2026, with health authorities reporting measurements approaching 1,000 cases in the first two months of the yea\u2026 [+1822 chars]",
       "retrievedAt": "2026-03-03 07:22:49.245283",
       "internal_id": "6763bfcad0187d290e30f8a7989ab13eebe07d6781f68cefe36fb4997a761c7d",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28073,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are U.S. measles cases soaring? #health",
-      "description": "What public health officials are seeing The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to losing its long held \u2026",
-      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-soaring",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 18:10:57",
-      "content": "The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to l\u2026 [+1699 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.161594",
-      "internal_id": "811bd54c4aafacdc0deacba411dd710a29e4492767eec760a8823f1f761726d4",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28075,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why is measles surging in the U.S.? #health",
-      "description": "What drove the recent national spike A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public health officials say could cost the country its long\u2011held elimination status. Large outbreaks c\u2026",
-      "url": "https://alltoc.com/health/why-is-measles-surging-in-the-u-s",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 15:10:11",
-      "content": "A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public-health officials say could cost the country its longheld elimination sta\u2026 [+1892 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.255791",
-      "internal_id": "a5d53fcd105e8e7cb09e347ec154c7600809af21af539071d3efd3dcf08226a9",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28072,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles cases near 1,000? #health",
-      "description": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, including a major cluster in Spartanburg, South Carolina, and g\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-cases-near-1000",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 12:09:15",
-      "content": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, in\u2026 [+1911 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.137857",
-      "internal_id": "46824ef9ad8179ec098e9eadbd36d1ea40eaf37a7d54974d266dbdf0352032fe",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28071,
-      "query": [
-        "measles"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Erika Edwards",
-      "title": "Measles is costing the U.S. millions of dollars. The true losses can't be counted.",
-      "description": "In 2026, there have been over 1,000 cases of measles. If vaccination rates keep dropping, the costs of medical care, public health efforts and lost work productivity could skyrocket.",
-      "url": "https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260226-spartanburg-measles-ew-1135a-4e564d.jpg",
-      "publishedAt": "2026-03-01 11:00:00",
-      "content": "In early 2025, as measles began to tear through West Texas, Katherine Wells knew she needed money. Though the outbreak was concentrated in Gaines County, a community an hour away, Wells, who heads L\u2026 [+9516 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.114894",
-      "internal_id": "3af1d2e1646571b68ebf38cbc7f88a29f95326c7e1ad8d2d53e0a6b85c0c588a",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28074,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "How close is the US to losing measles elimination? #health",
-      "description": "Where the country stands and why it matters U.S. public\u2011health officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at real risk of losin\u2026",
-      "url": "https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 09:09:34",
-      "content": "U.S. publichealth officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at rea\u2026 [+1617 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.185940",
-      "internal_id": "992b5f6c05a8fd253e7223b97ed004968160366369d7576bf4f8d40f8d9dcdf5",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28077,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why is drug-resistant typhoid spreading? #health",
-      "description": "What scientists found and why it matters A recent study warns that older, highly drug\u2011resistant strains of Salmonella Typhi\u2014the bacterium that causes typhoid fever\u2014are becoming harder to treat and are moving beyond their historic geographic pockets. These str\u2026",
-      "url": "https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 09:09:34",
-      "content": "A recent study warns that older, highly drugresistant strains of Salmonella Typhithe bacterium that causes typhoid feverare becoming harder to treat and are moving beyond their historic geographic po\u2026 [+1602 chars]",
-      "retrievedAt": "2026-03-02 19:19:30.693703",
-      "internal_id": "07445d995db80be52f10d3d72f89d8bf2d5b2569f7ac83f3fa2f843c87ac5503",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28076,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "carlacarvalho",
-      "title": "Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento",
-      "description": "A maioria dos casos evolui de forma leve, mas alguns podem exigir uso de antiviral e fisioterapia respirat\u00f3ria. The post Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/saude/tratamento-da-mpox/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-22T131236Z_1_LYNXMPEK7L0HZ_RTROPTP_4_HEALTH-MPOX.jpg?fit=3500%2C2074&quality=70&strip=all",
-      "publishedAt": "2026-03-01 08:01:00",
-      "content": "O Brasil voltou a registrar 90 casos confirmados de mpox nas \u00faltimas semanas, segundo dados das autoridades de sa\u00fade. Embora o cen\u00e1rio esteja distante dos picos observados em 2022, a doen\u00e7a continua \u2026 [+4267 chars]",
-      "retrievedAt": "2026-03-02 19:19:30.555478",
-      "internal_id": "154cb4b01c923184cf4deb57b7c4a78ff7b35fe3c2aa151e2ec28ce94640065f",
       "publishedAtLabel": "Mar 1"
     }
   ]
