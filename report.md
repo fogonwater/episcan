@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 7
-- **Last harvest:** 2026-04-16 19:33
-- **Most recent article:** 2026-04-15 18:03:45
+- **New articles in last harvest:** 4
+- **Last harvest:** 2026-04-17 07:40
+- **Most recent article:** 2026-04-16 05:30:00
 
 ---
 
@@ -13,17 +13,17 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 3 | 6 | 175 | 75 | 19 | 4 | 1 | 283 |
-| measles | 63 | 30 | 20 | 21 | 26 | 51 | 9 | 220 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 12 | 5 | 115 |
+| measles | 68 | 30 | 20 | 21 | 26 | 51 | 10 | 226 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 12 | 6 | 116 |
 | malaria | 15 | 9 | 20 | 14 | 9 | 14 | 4 | 85 |
 | rabies | 16 | 16 | 7 | 5 | 26 | 8 | 2 | 80 |
-| mpox | 8 | 16 | 12 | 4 | 19 | 9 | 10 | 78 |
-| chikungunya | 1 | 7 | 7 | 8 | 11 | 3 | 2 | 39 |
+| mpox | 9 | 16 | 12 | 4 | 19 | 9 | 10 | 79 |
+| chikungunya | 1 | 7 | 7 | 8 | 11 | 3 | 4 | 41 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 2 | 2 | 32 |
 | zika | 1 | 2 | 4 | 1 | 15 | 1 | 2 | 26 |
 | hpai | 2 | 5 | 2 | 6 | 2 | 2 | 1 | 20 |
 | leptospirosis | 2 | 1 | 3 | 1 | 0 | 1 | 1 | 9 |
-| typhoid | 2 | 0 | 0 | 1 | 1 | 0 | 2 | 6 |
+| typhoid | 3 | 0 | 0 | 1 | 1 | 0 | 2 | 7 |
 | yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 0 | 5 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
@@ -83,6 +83,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-16 (measles)
 
+- [San Francisco Confirms First Measles Case Since 2019, in an Unvaccinated Infant](https://www.kqed.org/news/12080063/measles-san-francisco-baby-mmr-vaccines-international-travel-children-outbreak) (KQED)
+
 - [Three paradoxical paradigms of measles virus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014135) (Plos.org)
 
 - [Measles death toll rises to 32 as Dhaka reports new fatality: DGHS](https://www.thedailystar.net/health/news/measles-death-toll-rises-32-dhaka-reports-new-fatality-dghs-4152106) (The Daily Star)
@@ -127,6 +129,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-16 (dengue)
 
+- [Estudo brasileiro evidencia relação entre dengue e a rara Síndrome de Guillain-Barré, que afeta os nervos periféricos](https://www.terra.com.br/noticias/estudo-brasileiro-evidencia-relacao-entre-dengue-e-a-rara-sindrome-de-guillain-barre-que-afeta-os-nervos-perifericos,4dd967cfcd02b19b8a6dd11e43319af2tqbocok8.html) (Terra.com.br)
+
 - [Cientistas brasileiros e astronauta da Artemis 2 estão na lista das 100 pessoas mais influentes do mundo da Time](https://olhardigital.com.br/2026/04/15/ciencia-e-espaco/cientistas-brasileiros-e-astronauta-da-artemis-2-estao-na-lista-das-100-pessoas-mais-influentes-do-mundo-da-time/) (Olhardigital.com.br)
 
 - [Do maruim ao Aedes: como mudanças ambientais favorecem novas epidemias no Brasil](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/04/15/do-maruim-ao-aedes-como-mudancas-ambientais-favorecem-novas-epidemias-no-brasil.ghtml) (Globo)
@@ -138,6 +142,10 @@ Source: [News API](https://newsapi.org/)
 - [OIKN taps local residents to rid new capital of malaria and dengue](https://en.antaranews.com/news/411979/oikn-taps-local-residents-to-rid-new-capital-of-malaria-and-dengue) (Antaranews.com)
 
 ## 26-16 (chikungunya)
+
+- [Bavarian Nordic Receives Swissmedic Approval for Chikungunya Vaccine](https://www.globenewswire.com/news-release/2026/04/16/3275022/0/en/Bavarian-Nordic-Receives-Swissmedic-Approval-for-Chikungunya-Vaccine.html) (GlobeNewswire)
+
+- [Bavarian Nordics chikungunyavaccine er blevet godkendt af de schweiziske lægemiddelmyndigheder](https://www.globenewswire.com/news-release/2026/04/16/3275022/0/da/Bavarian-Nordics-chikungunyavaccine-er-blevet-godkendt-af-de-schweiziske-l%C3%A6gemiddelmyndigheder.html) (GlobeNewswire)
 
 - [Vecina de Heredia es el cuarto caso de chikungunya en Costa Rica en lo que va del 2026](https://www.nacion.com/el-pais/vecina-de-heredia-es-el-cuarto-caso-de-chikungunya/OWHR3JEABRFF7H2245LJKALFAQ/story/) (Nacion.com)
 
@@ -1927,6 +1935,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroincidence Rate of Typhoidal Salmonella in Children, Kenya, 2017–2018](https://wwwnc.cdc.gov/eid/article/32/3/25-0469_article) (Cdc.gov)
 
+- [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
+
 ## 26-10 (rabies)
 
 - [BMC to launch mass anti-rabies vaccination drive for 52,000 dogs](https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-to-launches-mass-anti-rabies-vaccination-drive-for-52000-dogs/articleshow/129232046.cms) (The Times of India)
@@ -1982,6 +1992,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox Outbreak in Wild Monkeys Likely Traced to a Rope Squirrel They Consumed](https://www.discovermagazine.com/mpox-outbreak-in-wild-monkeys-likely-traced-to-a-rope-squirrel-they-consumed-48758) (Discover Magazine)
 
 - [Brasil registra 88 casos de Mpox em 60 dias; Ministério em alerta](https://saude.ig.com.br/2026-03-02/brasil-registra-88-casos-de-mpox-em-60-dias--ministerio-em-alerta.html) (Ig.com.br)
+
+- [Mpox no Brasil: tudo sobre a infecção viral e o como é tratamento](https://www.infomoney.com.br/saude/tratamento-da-mpox/) (InfoMoney)
 
 ## 26-10 (meningitis)
 
@@ -2118,6 +2130,16 @@ Source: [News API](https://newsapi.org/)
 - [Here's the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-march-1-rcna261075) (NBC News)
 
 - [Will the U.S. lose measles elimination status? #health](https://alltoc.com/health/will-the-u-s-lose-measles-elimination-status) (Alltoc.com)
+
+- [Why are U.S. measles cases soaring? #health](https://alltoc.com/health/why-are-u-s-measles-cases-soaring) (Alltoc.com)
+
+- [Why is measles surging in the U.S.? #health](https://alltoc.com/health/why-is-measles-surging-in-the-u-s) (Alltoc.com)
+
+- [Why are measles cases near 1,000? #health](https://alltoc.com/health/why-are-measles-cases-near-1000) (Alltoc.com)
+
+- [Measles is costing the U.S. millions of dollars. The true losses can't be counted.](https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734) (NBC News)
+
+- [How close is the US to losing measles elimination? #health](https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination) (Alltoc.com)
 
 ## 26-10 (malaria)
 

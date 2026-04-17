@@ -1,8 +1,80 @@
 {
-  "last_updated": "2026-04-16 19:33",
-  "count_articles_total": 948,
-  "count_articles_new": 7,
+  "last_updated": "2026-04-17 07:40",
+  "count_articles_total": 959,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 29028,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordic Receives Swissmedic Approval for Chikungunya Vaccine",
+      "description": "COPENHAGEN, Denmark, April 16, 2026 \u2013 Bavarian Nordic A/S (OMX: BAVA) today announced that the Swiss Agency for Therapeutic Products, Swissmedic, has approved VIMKUNYA\u00ae (recombinant, adsorbed) for active immunization for the prevention of disease caused by ch\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/04/16/3275022/0/en/Bavarian-Nordic-Receives-Swissmedic-Approval-for-Chikungunya-Vaccine.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2026-04-16 05:30:00",
+      "content": "COPENHAGEN, Denmark, April 16, 2026 Bavarian Nordic A/S (OMX: BAVA) today announced that the Swiss Agency for Therapeutic Products, Swissmedic, has approved VIMKUNYA\u00ae (recombinant, adsorbed) for acti\u2026 [+4262 chars]",
+      "retrievedAt": "2026-04-17 07:40:05.371339",
+      "internal_id": "7c475bf2e167d42e88bfa3db1e97e2a97146b7d2b0e9936d14ca961c59e2ebc7",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 29029,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Bavarian Nordic A/S",
+      "title": "Bavarian Nordics chikungunyavaccine er blevet godkendt af de schweiziske l\u00e6gemiddelmyndigheder",
+      "description": "K\u00d8BENHAVN, Danmark, 16. april 2026 \u2013 Bavarian Nordic A/S (OMX: BAVA) offentliggjorde i dag, at det schweiziske l\u00e6gemiddelagentur, Swiss Agency for Therapeutic Products (Swissmedic), har godkendt VIMKUNYA\u00ae (rekombinant, adsorberet) til aktiv immunisering til f\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/04/16/3275022/0/da/Bavarian-Nordics-chikungunyavaccine-er-blevet-godkendt-af-de-schweiziske-l%C3%A6gemiddelmyndigheder.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/bbcf063e-cba2-4e1d-b8cd-9279c8088ae9",
+      "publishedAt": "2026-04-16 05:30:00",
+      "content": "K\u00d8BENHAVN, Danmark, 16. april 2026 Bavarian Nordic A/S (OMX: BAVA) offentliggjorde i dag, at det schweiziske l\u00e6gemiddelagentur, Swiss Agency for Therapeutic Products (Swissmedic), har godkendt VIMKUN\u2026 [+5464 chars]",
+      "retrievedAt": "2026-04-17 07:40:05.383355",
+      "internal_id": "717e0b154cc9177a73cfdbca621a05ce58acc2532006f6264dd39caefa0303ac",
+      "publishedAtLabel": "Apr 16"
+    },
+    {
+      "id": 29027,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "The Conversation",
+      "title": "Estudo brasileiro evidencia rela\u00e7\u00e3o entre dengue e a rara S\u00edndrome de Guillain-Barr\u00e9, que afeta os nervos perif\u00e9ricos",
+      "description": "Estudo demonstrou que a chance de uma s\u00edndrome neurol\u00f3gica rara ap\u00f3s a dengue \u00e9 maior nas seis semanas seguintes \u00e0 doen\u00e7a. Propor\u00e7\u00e3o no Brasil foi de 36 pessoas com a S\u00edndrome de Guillain-Barr\u00e9 por milh\u00e3o de casos de dengue",
+      "url": "https://www.terra.com.br/noticias/estudo-brasileiro-evidencia-relacao-entre-dengue-e-a-rara-sindrome-de-guillain-barre-que-afeta-os-nervos-perifericos,4dd967cfcd02b19b8a6dd11e43319af2tqbocok8.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/15/1753226668-count.gif",
+      "publishedAt": "2026-04-15 21:41:53",
+      "content": "Em 2024, o Brasil viveu a maior epidemia de dengue de sua hist\u00f3ria recente, com cerca de 6,5 milh\u00f5es de casos prov\u00e1veis e mais de 5,8 mil mortes registradas no pa\u00eds. Em 2025, houve redu\u00e7\u00e3o importante\u2026 [+5731 chars]",
+      "retrievedAt": "2026-04-17 07:40:04.435773",
+      "internal_id": "83b5bfae7159d0175232f598899508aa9a81adbdc15578b7e6d6e913c9c38e12",
+      "publishedAtLabel": "Apr 15"
+    },
+    {
+      "id": 29026,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KQED",
+      "author": "Elize Manoukian",
+      "title": "San Francisco Confirms First Measles Case Since 2019, in an Unvaccinated Infant",
+      "description": "Because the measles vaccine is routinely recommended only for children 12 months of age and older, babies are especially vulnerable to infection. Here\u2019s what to know.",
+      "url": "https://www.kqed.org/news/12080063/measles-san-francisco-baby-mmr-vaccines-international-travel-children-outbreak",
+      "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/01/GettyImages-2242752228-2000x1333.jpg",
+      "publishedAt": "2026-04-15 21:20:57",
+      "content": "Last month alone, nine related cases were reported in Placer and Sacramento counties, where officials said Wednesday that at least 19 cases have been confirmed amid an ongoing outbreak, including an \u2026 [+3774 chars]",
+      "retrievedAt": "2026-04-17 07:40:03.732568",
+      "internal_id": "b817927ca04cf3535a94e860e6e691a2d92d874e2fc9d88b2a18a022509f1746",
+      "publishedAtLabel": "Apr 15"
+    },
     {
       "id": 29025,
       "query": [
@@ -17121,6 +17193,132 @@
       "content": "The United States has recorded an unusually large number of measles infections early in 2026, with health authorities reporting measurements approaching 1,000 cases in the first two months of the yea\u2026 [+1822 chars]",
       "retrievedAt": "2026-03-03 07:22:49.245283",
       "internal_id": "6763bfcad0187d290e30f8a7989ab13eebe07d6781f68cefe36fb4997a761c7d",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28073,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are U.S. measles cases soaring? #health",
+      "description": "What public health officials are seeing The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to losing its long held \u2026",
+      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-soaring",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 18:10:57",
+      "content": "The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to l\u2026 [+1699 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.161594",
+      "internal_id": "811bd54c4aafacdc0deacba411dd710a29e4492767eec760a8823f1f761726d4",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28075,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is measles surging in the U.S.? #health",
+      "description": "What drove the recent national spike A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public health officials say could cost the country its long\u2011held elimination status. Large outbreaks c\u2026",
+      "url": "https://alltoc.com/health/why-is-measles-surging-in-the-u-s",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 15:10:11",
+      "content": "A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public-health officials say could cost the country its longheld elimination sta\u2026 [+1892 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.255791",
+      "internal_id": "a5d53fcd105e8e7cb09e347ec154c7600809af21af539071d3efd3dcf08226a9",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28072,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles cases near 1,000? #health",
+      "description": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, including a major cluster in Spartanburg, South Carolina, and g\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-cases-near-1000",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 12:09:15",
+      "content": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, in\u2026 [+1911 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.137857",
+      "internal_id": "46824ef9ad8179ec098e9eadbd36d1ea40eaf37a7d54974d266dbdf0352032fe",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28071,
+      "query": [
+        "measles"
+      ],
+      "source_id": "nbc-news",
+      "source_name": "NBC News",
+      "author": "Erika Edwards",
+      "title": "Measles is costing the U.S. millions of dollars. The true losses can't be counted.",
+      "description": "In 2026, there have been over 1,000 cases of measles. If vaccination rates keep dropping, the costs of medical care, public health efforts and lost work productivity could skyrocket.",
+      "url": "https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260226-spartanburg-measles-ew-1135a-4e564d.jpg",
+      "publishedAt": "2026-03-01 11:00:00",
+      "content": "In early 2025, as measles began to tear through West Texas, Katherine Wells knew she needed money. Though the outbreak was concentrated in Gaines County, a community an hour away, Wells, who heads L\u2026 [+9516 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.114894",
+      "internal_id": "3af1d2e1646571b68ebf38cbc7f88a29f95326c7e1ad8d2d53e0a6b85c0c588a",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28074,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How close is the US to losing measles elimination? #health",
+      "description": "Where the country stands and why it matters U.S. public\u2011health officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at real risk of losin\u2026",
+      "url": "https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 09:09:34",
+      "content": "U.S. publichealth officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at rea\u2026 [+1617 chars]",
+      "retrievedAt": "2026-03-02 19:19:28.185940",
+      "internal_id": "992b5f6c05a8fd253e7223b97ed004968160366369d7576bf4f8d40f8d9dcdf5",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28077,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why is drug-resistant typhoid spreading? #health",
+      "description": "What scientists found and why it matters A recent study warns that older, highly drug\u2011resistant strains of Salmonella Typhi\u2014the bacterium that causes typhoid fever\u2014are becoming harder to treat and are moving beyond their historic geographic pockets. These str\u2026",
+      "url": "https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-01 09:09:34",
+      "content": "A recent study warns that older, highly drugresistant strains of Salmonella Typhithe bacterium that causes typhoid feverare becoming harder to treat and are moving beyond their historic geographic po\u2026 [+1602 chars]",
+      "retrievedAt": "2026-03-02 19:19:30.693703",
+      "internal_id": "07445d995db80be52f10d3d72f89d8bf2d5b2569f7ac83f3fa2f843c87ac5503",
+      "publishedAtLabel": "Mar 1"
+    },
+    {
+      "id": 28076,
+      "query": [
+        "mpox"
+      ],
+      "source_id": "info-money",
+      "source_name": "InfoMoney",
+      "author": "carlacarvalho",
+      "title": "Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento",
+      "description": "A maioria dos casos evolui de forma leve, mas alguns podem exigir uso de antiviral e fisioterapia respirat\u00f3ria. The post Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/saude/tratamento-da-mpox/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-22T131236Z_1_LYNXMPEK7L0HZ_RTROPTP_4_HEALTH-MPOX.jpg?fit=3500%2C2074&quality=70&strip=all",
+      "publishedAt": "2026-03-01 08:01:00",
+      "content": "O Brasil voltou a registrar 90 casos confirmados de mpox nas \u00faltimas semanas, segundo dados das autoridades de sa\u00fade. Embora o cen\u00e1rio esteja distante dos picos observados em 2022, a doen\u00e7a continua \u2026 [+4267 chars]",
+      "retrievedAt": "2026-03-02 19:19:30.555478",
+      "internal_id": "154cb4b01c923184cf4deb57b7c4a78ff7b35fe3c2aa151e2ec28ce94640065f",
       "publishedAtLabel": "Mar 1"
     }
   ]
