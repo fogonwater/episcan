@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-04-18 07:31
-- **Most recent article:** 2026-04-17 06:03:38
+- **New articles in last harvest:** 17
+- **Last harvest:** 2026-04-18 19:20
+- **Most recent article:** 2026-04-17 19:19:27
 
 ---
 
@@ -12,18 +12,18 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 3 | 6 | 175 | 75 | 19 | 4 | 1 | 283 |
-| measles | 68 | 30 | 20 | 21 | 26 | 51 | 26 | 242 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 12 | 12 | 122 |
-| malaria | 15 | 9 | 20 | 14 | 9 | 14 | 6 | 87 |
-| mpox | 9 | 16 | 12 | 4 | 19 | 9 | 11 | 80 |
+| meningitis | 3 | 6 | 175 | 75 | 19 | 4 | 4 | 286 |
+| measles | 63 | 30 | 20 | 21 | 26 | 51 | 30 | 241 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 12 | 15 | 125 |
+| malaria | 15 | 9 | 20 | 14 | 9 | 14 | 9 | 90 |
+| mpox | 8 | 16 | 12 | 4 | 19 | 9 | 15 | 83 |
 | rabies | 16 | 16 | 7 | 5 | 26 | 8 | 2 | 80 |
 | chikungunya | 1 | 7 | 7 | 8 | 11 | 3 | 5 | 42 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 2 | 3 | 33 |
-| zika | 1 | 2 | 4 | 1 | 15 | 1 | 3 | 27 |
+| zika | 1 | 2 | 4 | 1 | 15 | 1 | 4 | 28 |
 | hpai | 2 | 5 | 2 | 6 | 2 | 2 | 1 | 20 |
 | leptospirosis | 2 | 1 | 3 | 1 | 0 | 1 | 1 | 9 |
-| typhoid | 3 | 0 | 0 | 1 | 1 | 0 | 3 | 8 |
+| typhoid | 2 | 0 | 0 | 1 | 1 | 0 | 3 | 7 |
 | yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 0 | 5 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-16 (zika)
+
+- [Japanese encephalitis virus orchestrates GLUT4-mediated glucose metabolism to potentiate viral replication via insulin receptor signaling](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014164) (Plos.org)
 
 - [Minas Gerais tem 71% das cidades em alerta ou risco por dengue, chikungunya e zika](https://www.terra.com.br/noticias/minas-gerais-tem-71-das-cidades-em-alerta-ou-risco-por-dengue-chikungunya-e-zika,145bea809719b8dfc397e8b0434e9d9ez3nvxkjp.html) (Terra.com.br)
 
@@ -61,6 +63,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-16 (mpox)
 
+- [Gana'da maymun çiçeği vaka sayısı bini geçti](https://anlatilaninotesi.com.tr/20260417/ganada-maymun-cicegi-vaka-sayisi-bini-gecti-1105092866.html) (Anlatilaninotesi.com.tr)
+
+- [SSI bekræfter: Første tilfælde af ny mpox-variant i Danmark](https://www.dr.dk/nyheder/seneste/ssi-bekraefter-foerste-tilfaelde-af-ny-mpox-variant-i-danmark) (Www.dr.dk)
+
+- [Variant af mpox er registreret i Danmark for første gang](https://www.bt.dk/samfund/variant-af-mpox-er-registreret-i-danmark-for-foerste-gang) (Www.bt.dk)
+
+- [Mpox-variant registreret i Danmark](https://www.bt.dk/sundhed/mpox-variant-registreret-i-danmark) (Www.bt.dk)
+
 - [San Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine](https://www.kqed.org/news/12080320/mpox-clade-i-san-francisco-2026-symptoms-rash-where-to-find-monkeypox-vaccine) (KQED)
 
 - [La ruta de contagio del mpox podría cambiar con el tiempo: del contacto sexual al entorno familiar](https://www.infosalus.com/salud-investigacion/noticia-ruta-contagio-mpox-podria-cambiar-tiempo-contacto-sexual-entorno-familiar-20260415071748.html) (Infosalus.com)
@@ -85,9 +95,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-16 (meningitis)
 
+- [Nyt meningitisudbrud: To skoler ramt](https://www.bt.dk/sundhed/nyt-meningitisudbrud-to-skoler-ramt) (Www.bt.dk)
+
+- [Three meningitis B cases confirmed Dorset why #health](https://alltoc.com/health/three-meningitis-b-cases-confirmed-dorset-why) (Alltoc.com)
+
+- [Antibiotics and MenB vaccination to be offered to young people in Dorset](https://www.gov.uk/government/news/antibiotics-and-menb-vaccination-to-be-offered-to-young-people-in-dorset) (Www.gov.uk)
+
 - [Football club's mascot named after mentor who died](https://www.bbc.com/news/articles/c05dvpg59j2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 ## 26-16 (measles)
+
+- [Utah Becomes Latest Measles Epicenter](https://www.newser.com/story/387522/utah-becomes-latest-measles-epicenter.html) (Newser)
+
+- [What’s happening with measles outbreaks in the US? #health](https://alltoc.com/health/whats-happening-with-measles-outbreaks-in-the-us) (Alltoc.com)
+
+- [Utah Becomes the New Center of U.S. Measles Cases (Teddy Rosenbluth/New York Times)](https://www.memeorandum.com/260417/p10) (Memeorandum.com)
+
+- [Lancaster County out of the woods after winter measles cases, but remains 'vulnerable' to the virus](https://lancasteronline.com/news/health/lancaster-county-out-of-the-woods-after-winter-measles-cases-but-remains-vulnerable-to-the/article_4a3f7b1d-fbef-4719-8368-e29cbe9e5932.html) (LancasterOnline)
 
 - [Why did Utah measles outbreak spread? #health](https://alltoc.com/health/why-did-utah-measles-outbreak-spread) (Alltoc.com)
 
@@ -143,6 +167,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-16 (malaria)
 
+- [emod-malaria 2.33.0.dev4](https://pypi.org/project/emod-malaria/2.33.0.dev4/) (Pypi.org)
+
+- [emod-malaria 2.33.0.dev3](https://pypi.org/project/emod-malaria/2.33.0.dev3/) (Pypi.org)
+
+- [Gesundheit: Uni-Klinikum Halle startet Ambulanz für Tropenmedizin](https://www.stern.de/gesellschaft/regional/sachsen-anhalt/gesundheit--uni-klinikum-halle-startet-ambulanz-fuer-tropenmedizin-37318986.html) (STERN.de)
+
 - [Mechanistic perspectives on antimalarial agents: from FDA-approved drugs to next-generation candidates](https://pubs.rsc.org/en/content/articlelanding/2026/ra/d5ra08585c) (Royal Society of Chemistry)
 
 - [Grifols recibe la aprobación de la FDA para su prueba de cribado de malaria en sangre](https://www.europapress.es/catalunya/noticia-grifols-recibe-aprobacion-fda-prueba-cribado-malaria-sangre-20260416143627.html) (Europapress.es)
@@ -172,6 +202,12 @@ Source: [News API](https://newsapi.org/)
 - [Rapid expansion of genotype D1.1 A(H5N1) influenza viruses in wild birds across North America during the 2024 migratory season](https://www.nature.com/articles/s41591-026-04300-1) (Nature.com)
 
 ## 26-16 (dengue)
+
+- [Primeiro óbito por dengue no RS em 2026 acende alerta para pico da doença em abril](https://www.terra.com.br/noticias/primeiro-obito-por-dengue-no-rs-em-2026-acende-alerta-para-pico-da-doenca-em-abril,6eaf09a430f2be55e2ae37e1582597fe5ynl0nlg.html) (Terra.com.br)
+
+- [Japanese encephalitis virus orchestrates GLUT4-mediated glucose metabolism to potentiate viral replication via insulin receptor signaling](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014164) (Plos.org)
+
+- [Quem são os cientistas brasileiros na lista da Time das 100 pessoas mais influentes de 2026](https://super.abril.com.br/ciencia/quem-sao-os-cientistas-brasileiros-na-lista-da-time-das-100-pessoas-mais-influentes-de-2026/) (Abril.com.br)
 
 - [Biotech news from around the world](https://www.nature.com/articles/s41587-026-03103-6) (Nature.com)
 
@@ -1993,8 +2029,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroincidence Rate of Typhoidal Salmonella in Children, Kenya, 2017–2018](https://wwwnc.cdc.gov/eid/article/32/3/25-0469_article) (Cdc.gov)
 
-- [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
-
 ## 26-10 (rabies)
 
 - [BMC to launch mass anti-rabies vaccination drive for 52,000 dogs](https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-to-launches-mass-anti-rabies-vaccination-drive-for-52000-dogs/articleshow/129232046.cms) (The Times of India)
@@ -2050,8 +2084,6 @@ Source: [News API](https://newsapi.org/)
 - [Mpox Outbreak in Wild Monkeys Likely Traced to a Rope Squirrel They Consumed](https://www.discovermagazine.com/mpox-outbreak-in-wild-monkeys-likely-traced-to-a-rope-squirrel-they-consumed-48758) (Discover Magazine)
 
 - [Brasil registra 88 casos de Mpox em 60 dias; Ministério em alerta](https://saude.ig.com.br/2026-03-02/brasil-registra-88-casos-de-mpox-em-60-dias--ministerio-em-alerta.html) (Ig.com.br)
-
-- [Mpox no Brasil: tudo sobre a infecção viral e o como é tratamento](https://www.infomoney.com.br/saude/tratamento-da-mpox/) (InfoMoney)
 
 ## 26-10 (meningitis)
 
@@ -2188,16 +2220,6 @@ Source: [News API](https://newsapi.org/)
 - [Here's the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-march-1-rcna261075) (NBC News)
 
 - [Will the U.S. lose measles elimination status? #health](https://alltoc.com/health/will-the-u-s-lose-measles-elimination-status) (Alltoc.com)
-
-- [Why are U.S. measles cases soaring? #health](https://alltoc.com/health/why-are-u-s-measles-cases-soaring) (Alltoc.com)
-
-- [Why is measles surging in the U.S.? #health](https://alltoc.com/health/why-is-measles-surging-in-the-u-s) (Alltoc.com)
-
-- [Why are measles cases near 1,000? #health](https://alltoc.com/health/why-are-measles-cases-near-1000) (Alltoc.com)
-
-- [Measles is costing the U.S. millions of dollars. The true losses can't be counted.](https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734) (NBC News)
-
-- [How close is the US to losing measles elimination? #health](https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination) (Alltoc.com)
 
 ## 26-10 (malaria)
 

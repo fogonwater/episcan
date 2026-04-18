@@ -1,8 +1,315 @@
 {
-  "last_updated": "2026-04-18 07:31",
-  "count_articles_total": 986,
-  "count_articles_new": 13,
+  "last_updated": "2026-04-18 19:20",
+  "count_articles_total": 996,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 29069,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "emod-malaria 2.33.0.dev4",
+      "description": "PyPI distribution of EMOD for the running Malaria and Vector simulations",
+      "url": "https://pypi.org/project/emod-malaria/2.33.0.dev4/",
+      "urlToImage": null,
+      "publishedAt": "2026-04-17 19:19:27",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-04-18 19:20:20.418897",
+      "internal_id": "e9445605c0f130dc2ab2cd3d0202b54d0266fc0ab8f8cd21ea0f55bd786b99b9",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29061,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Porto Alegre 24 horas",
+      "title": "Primeiro \u00f3bito por dengue no RS em 2026 acende alerta para pico da doen\u00e7a em abril",
+      "description": "O Rio Grande do Sul confirmou o primeiro \u00f3bito por dengue em 2026 ap\u00f3s a morte de uma idosa de ...",
+      "url": "https://www.terra.com.br/noticias/primeiro-obito-por-dengue-no-rs-em-2026-acende-alerta-para-pico-da-doenca-em-abril,6eaf09a430f2be55e2ae37e1582597fe5ynl0nlg.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/17/1025759246-aedes-aegypti-mosquito-close-up-mosquito-sucking-human-blood.jpg",
+      "publishedAt": "2026-04-17 18:27:04",
+      "content": "O Rio Grande do Sul confirmou o primeiro \u00f3bito por dengue em 2026 ap\u00f3s a morte de uma idosa de 83 anos, com comorbidades, residente em Jacutinga. O caso ocorreu no dia 15 de abril e foi validado pelo\u2026 [+1023 chars]",
+      "retrievedAt": "2026-04-18 19:20:19.868981",
+      "internal_id": "14149580fc06f59741f323bd969fbfa187e864e10feea85c6595798b99cbf8b4",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29064,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "pebg@bt.dk (Per B\u00f8rding)",
+      "title": "Nyt meningitisudbrud: To skoler ramt",
+      "description": "Mange tilbudt antibiotika efter et nyt udbrud af den farlige sygdom.",
+      "url": "https://www.bt.dk/sundhed/nyt-meningitisudbrud-to-skoler-ramt",
+      "urlToImage": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/149300635.webp?t[strip]=true&t[resize][width]=1440&t[quality]=70&accessToken=a260cc41009854fa0a3fa0acedc779df3659f84ff06c717f14b259fae79663d4",
+      "publishedAt": "2026-04-17 18:13:31",
+      "content": "Myndighederne i Storbritannien har fredag bekr\u00e6ftet, at der er konstateret tre tilf\u00e6lde af meningitis p\u00e5 to skoler i Dorset. Det skriver The Sun. En sundhedsalarm blev udl\u00f8st efter, at der var opst\u2026 [+1543 chars]",
+      "retrievedAt": "2026-04-18 19:20:20.159778",
+      "internal_id": "e06a602f65ac036d9d2bf114d6d70f0790945ad8aa5f4901a8c965833ddd83ce",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29065,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Three meningitis B cases confirmed Dorset why #health",
+      "description": "Dorset meningitis B cases and what authorities are doing Health authorities in Dorset confirmed three cases of meningitis B, with the UK Health Security Agency stating that patients have been treated successfully. The response includes antibiotics given as a \u2026",
+      "url": "https://alltoc.com/health/three-meningitis-b-cases-confirmed-dorset-why",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-17 18:03:20",
+      "content": "Health authorities in Dorset confirmed three cases of meningitis B, with the UK Health Security Agency stating that patients have been treated successfully. The response includes antibiotics given as\u2026 [+1668 chars]",
+      "retrievedAt": "2026-04-18 19:20:20.170732",
+      "internal_id": "0c50e194861cb0419592ed65ab756f1ed78557da8cac14da594974e9477593cd",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29068,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "emod-malaria 2.33.0.dev3",
+      "description": "PyPI distribution of EMOD for the running Malaria and Vector simulations",
+      "url": "https://pypi.org/project/emod-malaria/2.33.0.dev3/",
+      "urlToImage": null,
+      "publishedAt": "2026-04-17 17:50:37",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-04-18 19:20:20.408098",
+      "internal_id": "d4868873858cd80c66c08eaed219c8487eecbc9c81266eaeacb05ad38f5c0f2d",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29063,
+      "query": [
+        "dengue",
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Qi Wang, Ping Hao, Sheng-yan Zhu, Jiang-fei Zhou, Sheng Feng, Qi Dai, Jian-chao Wei, Yun Young Go, Jing Chen, Bin Zhou",
+      "title": "Japanese encephalitis virus orchestrates GLUT4-mediated glucose metabolism to potentiate viral replication via insulin receptor signaling",
+      "description": "Author summary Flaviviruses, such as JEV, Zika virus (ZIKV), and Dengue virus (DENV), impose a substantial global health burden and exhibit a remarkable ability to remodel host metabolism to favor viral persistence. However, how these viruses exploit specific\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014164",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014164.g010&size=inline",
+      "publishedAt": "2026-04-17 14:00:00",
+      "content": "Citation: Wang Q, Hao P, Zhu S-y, Zhou J-f, Feng S, Dai Q, et al. (2026) Japanese encephalitis virus orchestrates GLUT4-mediated glucose metabolism to potentiate viral replication via insulin recepto\u2026 [+70861 chars]",
+      "retrievedAt": "2026-04-18 19:20:19.949291",
+      "internal_id": "9fe9a0a783f3df2ef995c9a24559755e9af423b806377ec0ddf0d2f514172dd9",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29058,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Newser",
+      "author": "Rob Quinn with Newser.AI",
+      "title": "Utah Becomes Latest Measles Epicenter",
+      "description": "Utah has become the epicenter of the nation's measles problem, logging more than 600 cases in an outbreak that shows little sign of slowing. State health officials say 602 infections have been tied to a wave that began last year, with 405 cases recorded since\u2026",
+      "url": "https://www.newser.com/story/387522/utah-becomes-latest-measles-epicenter.html",
+      "urlToImage": "https://img1-azrcdn.newser.com/image/1678966-12-20260417084502.jpeg",
+      "publishedAt": "2026-04-17 13:45:00",
+      "content": "Utah has become the epicenter of the nation's measles problem, logging more than 600 cases in an outbreak that shows little sign of slowing. State health officials say 602 infections have been tied t\u2026 [+732 chars]",
+      "retrievedAt": "2026-04-18 19:20:19.278002",
+      "internal_id": "91280505a28a5ad8618fa5d64695e17cd54716eee5c4350b41d7a7dfb280bd45",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29062,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Luiza Lopes",
+      "title": "Quem s\u00e3o os cientistas brasileiros na lista da Time das 100 pessoas mais influentes de 2026",
+      "description": "A engenheira agr\u00f4noma Mariangela Hungria pesquisa bact\u00e9rias que reduzem fertilizantes, enquanto o entomologista Luciano Moreira criou uma estrat\u00e9gia inovadora para combater a dengue.",
+      "url": "https://super.abril.com.br/ciencia/quem-sao-os-cientistas-brasileiros-na-lista-da-time-das-100-pessoas-mais-influentes-de-2026/",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2026/04/1604-pesquisadores-layout_site.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-04-17 13:00:31",
+      "content": "Anivers\u00e1rio da Abril: Super em Casa por 9,90 (Embrapa/WMP/Divulga\u00e7\u00e3o) Continua ap\u00f3s publicidade Dois cientistas brasileiros, Luciano Moreira e Mariangela Hungria, foram eleitos entre as 100\u2026 [+7077 chars]",
+      "retrievedAt": "2026-04-18 19:20:19.928634",
+      "internal_id": "d5cf8f5098aa154b9d78dd67cb0cf60dcd15f408e979896313931fa498c0a53f",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29066,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Antibiotics and MenB vaccination to be offered to young people in Dorset",
+      "description": "Antibiotics and MenB vaccination to be offered to young people in areas of Dorset following 3 cases of invasive meningococcal disease.",
+      "url": "https://www.gov.uk/government/news/antibiotics-and-menb-vaccination-to-be-offered-to-young-people-in-dorset",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-04-17 12:30:45",
+      "content": "The UK Health Security Agency (UKHSA) is working with Dorset Council, the NHS and local partners following 3 confirmed cases of meningococcal infection (meningitis) in young people in Weymouth, Dorse\u2026 [+4498 chars]",
+      "retrievedAt": "2026-04-18 19:20:20.181875",
+      "internal_id": "36234313744e5226a8a683ef1945af4d97de502572c5eb26db575a136d1363b6",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29059,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What\u2019s happening with measles outbreaks in the US? #health",
+      "description": "What\u2019s happening Measles outbreaks are spreading in the US, with multiple reports focused on states seeing increasing case counts and concerns about vaccination coverage. Utah\u2019s outbreak: spreading and largely unvaccinated One report describes Utah with more \u2026",
+      "url": "https://alltoc.com/health/whats-happening-with-measles-outbreaks-in-the-us",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-17 12:03:18",
+      "content": "Whats happening Measles outbreaks are spreading in the US, with multiple reports focused on states seeing increasing case counts and concerns about vaccination coverage. Utahs outbreak: spreading a\u2026 [+1533 chars]",
+      "retrievedAt": "2026-04-18 19:20:19.365601",
+      "internal_id": "b4319d1c07b5fc3e10adeccb9c5b3a404e262e860df6ac05d732590e424bf4b6",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29067,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gesundheit: Uni-Klinikum Halle startet Ambulanz f\u00fcr Tropenmedizin",
+      "description": "Fieber nach Fernreise? Die neue Ambulanz in Halle nimmt sich ungew\u00f6hnlicher Infektionen an - von Malaria-Verdacht bis HIV-Beratung. Was Patientinnen und Patienten erwartet.",
+      "url": "https://www.stern.de/gesellschaft/regional/sachsen-anhalt/gesundheit--uni-klinikum-halle-startet-ambulanz-fuer-tropenmedizin-37318986.html",
+      "urlToImage": "https://image.stern.de/37318988/t/td/v1/w1440/r1.7778/-/17--7722ubjrhnv5axs2048jpeg---ab5856b1d6b5d9f4.jpg",
+      "publishedAt": "2026-04-17 11:49:38",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Fieber nach Fernreise? Die neue Ambulanz in Halle nimmt sich ungew\u00f6hnlicher Infektionen an - von Malaria-Verdacht bis HIV-Beratung. Was Patientin\u2026 [+1823 chars]",
+      "retrievedAt": "2026-04-18 19:20:20.397129",
+      "internal_id": "b9b1a6d540ab5d05eed1ac817e3d637b7f423b067f80c0741427e82049de21b1",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29072,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Anlatilaninotesi.com.tr",
+      "author": "Sputnik T\u00fcrkiye",
+      "title": "Gana'da maymun \u00e7i\u00e7e\u011fi vaka say\u0131s\u0131 bini ge\u00e7ti",
+      "description": "Gana'da maymun \u00e7i\u00e7e\u011fine (mpox) ba\u011fl\u0131 vaka say\u0131s\u0131n\u0131n 1062'ye y\u00fckseldi\u011fi a\u00e7\u0131kland\u0131.",
+      "url": "https://anlatilaninotesi.com.tr/20260417/ganada-maymun-cicegi-vaka-sayisi-bini-gecti-1105092866.html",
+      "urlToImage": "https://cdn.img.anlatilaninotesi.com.tr/images/sharing/article/tur/1105092866.jpg?10981827411776421989",
+      "publishedAt": "2026-04-17 10:33:08",
+      "content": "Salk haberleri, salkl beslenme, salkl yaam \u00fczerine her ey https://anlatilaninotesi.com.tr/20260417/ganada-maymun-cicegi-vaka-sayisi-bini-gecti-1105092866.html Gana'da maymun \u00e7i\u00e7ei vaka says bini ge\u2026 [+1327 chars]",
+      "retrievedAt": "2026-04-18 19:20:20.955550",
+      "internal_id": "dad0c20eda1598fb77a5e0cf42b795605cdb99522fbf3cced0a80c7ce6611f14",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29070,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "SSI bekr\u00e6fter: F\u00f8rste tilf\u00e6lde af ny mpox-variant i Danmark",
+      "description": "En ny variant af mpox - ogs\u00e5 kaldet abekopper - er blevet bekr\u00e6ftet i Danmark.",
+      "url": "https://www.dr.dk/nyheder/seneste/ssi-bekraefter-foerste-tilfaelde-af-ny-mpox-variant-i-danmark",
+      "urlToImage": "https://asset.dr.dk/drdk/umbraco-images/oujpen2a/317.png?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2026-04-17 10:24:00",
+      "content": "BSH Hvidevarer A/S, der producerer husholdningsapparater af m\u00e6rket Bosch, er blevet politianmeldt for at have markedsf\u00f8rt vaskemaskiner som b\u00e6redygtige - s\u00e5kaldt greenwashing. If\u00f8lge Forbrugerombuds\u2026 [+791 chars]",
+      "retrievedAt": "2026-04-18 19:20:20.885609",
+      "internal_id": "fe4c4cc0356fc4044c6e5c1cfc9b0807afeb3d986d6dd2c08deffabb103dc2ee",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29073,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": null,
+      "title": "Variant af mpox er registreret i Danmark for f\u00f8rste gang",
+      "description": "Mistanken om smitte blev meldt ud tirsdag, og tre dage senere er mpox-varianten \"klade b\" p\u00e5vist i Danmark.",
+      "url": "https://www.bt.dk/samfund/variant-af-mpox-er-registreret-i-danmark-for-foerste-gang",
+      "urlToImage": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/149278953.webp?t[strip]=true&t[resize][width]=1440&t[quality]=70&accessToken=849ca2a643bd2d5471d4ce12fe0a0d9c5635a9c3ce5a7ef11ad10415a5b8eeac",
+      "publishedAt": "2026-04-17 10:20:45",
+      "content": "Der er for f\u00f8rste gang registreret et tilf\u00e6lde af mpox-varianten \"klade 1b\" i Danmark. Det skriver Statens Serum Institut i en pressemeddelelse. Varianten har de seneste \u00e5r vist sig med sporadiske \u2026 [+1443 chars]",
+      "retrievedAt": "2026-04-18 19:20:20.995174",
+      "internal_id": "399108daa1cf439a0058893b1d09754972d3121204a326cad9aa0b0c1f419853",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29071,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "ritzau",
+      "title": "Mpox-variant registreret i Danmark",
+      "description": "",
+      "url": "https://www.bt.dk/sundhed/mpox-variant-registreret-i-danmark",
+      "urlToImage": "https://www.bt.dk/brands/bt/share.jpg",
+      "publishedAt": "2026-04-17 10:10:05",
+      "content": "Der er for f\u00f8rste gang registreret et tilf\u00e6lde af mpoxvarianten \"klade b\" i Danmark. Det skriver Statens Serum Institut i en pressemeddelelse.",
+      "retrievedAt": "2026-04-18 19:20:20.906397",
+      "internal_id": "93dbbf1e5d3442cfd9c65f3dbfb8b40578bcb8ffa361cf1395b2964a9888955f",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29057,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "Utah Becomes the New Center of U.S. Measles Cases (Teddy Rosenbluth/New York Times)",
+      "description": "Teddy Rosenbluth / New York Times: Utah Becomes the New Center of U.S. Measles Cases \u2014 Nearly 600 people have been sickened across the state, which has seen an increase in vaccine exemptions among children in recent years. \u2014 Utah has become a hotbed of me\u2026",
+      "url": "https://www.memeorandum.com/260417/p10",
+      "urlToImage": "https://static01.nyt.com/images/2026/04/14/well/WELL-MEASLES-UTAH/WELL-MEASLES-UTAH-facebookJumbo.jpg",
+      "publishedAt": "2026-04-17 10:00:01",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-04-18 19:20:19.244775",
+      "internal_id": "e25685b6a1f02673a6c45cb18d262109a6b2d4cb49ea66492762d7bb40e975f0",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29060,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "LancasterOnline",
+      "author": "ANNE GARBER | Health reporter",
+      "title": "Lancaster County out of the woods after winter measles cases, but remains 'vulnerable' to the virus",
+      "description": "Lancaster County hasn\u2019t seen a case of measles since its eighth case of the year was reported Feb. 25, which means residents exposed to that and earlier cases would have contracted the virus by now.",
+      "url": "https://lancasteronline.com/news/health/lancaster-county-out-of-the-woods-after-winter-measles-cases-but-remains-vulnerable-to-the/article_4a3f7b1d-fbef-4719-8368-e29cbe9e5932.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/6/67/667294f2-6c4d-11e9-b2c5-af037d34783d/5cc9fde0a0ad7.image.jpg?crop=1200%2C630%2C0%2C76",
+      "publishedAt": "2026-04-17 09:00:00",
+      "content": "Lancaster County hasnt seen a case of measles since its eighth case of the year was reported Feb. 25, which means residents exposed to that and earlier cases would have contracted the virus by now. \u2026 [+3152 chars]",
+      "retrievedAt": "2026-04-18 19:20:19.405390",
+      "internal_id": "190a38dcba7ad9729afbdb0402b3d512af488990c9a9dd8e77234a475a01eaa6",
+      "publishedAtLabel": "Apr 17"
+    },
     {
       "id": 29046,
       "query": [
@@ -17681,132 +17988,6 @@
       "content": "The United States has recorded an unusually large number of measles infections early in 2026, with health authorities reporting measurements approaching 1,000 cases in the first two months of the yea\u2026 [+1822 chars]",
       "retrievedAt": "2026-03-03 07:22:49.245283",
       "internal_id": "6763bfcad0187d290e30f8a7989ab13eebe07d6781f68cefe36fb4997a761c7d",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28073,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are U.S. measles cases soaring? #health",
-      "description": "What public health officials are seeing The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to losing its long held \u2026",
-      "url": "https://alltoc.com/health/why-are-u-s-measles-cases-soaring",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 18:10:57",
-      "content": "The United States is experiencing an unusually large surge in measles cases this year, with public health agencies reporting nearly 1,000 infections so far. The jump has pushed the country close to l\u2026 [+1699 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.161594",
-      "internal_id": "811bd54c4aafacdc0deacba411dd710a29e4492767eec760a8823f1f761726d4",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28075,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why is measles surging in the U.S.? #health",
-      "description": "What drove the recent national spike A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public health officials say could cost the country its long\u2011held elimination status. Large outbreaks c\u2026",
-      "url": "https://alltoc.com/health/why-is-measles-surging-in-the-u-s",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 15:10:11",
-      "content": "A sharp rise in measles infections this year has pushed case counts in the United States toward the 1,000 mark, a level public-health officials say could cost the country its longheld elimination sta\u2026 [+1892 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.255791",
-      "internal_id": "a5d53fcd105e8e7cb09e347ec154c7600809af21af539071d3efd3dcf08226a9",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28072,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles cases near 1,000? #health",
-      "description": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, including a major cluster in Spartanburg, South Carolina, and g\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-cases-near-1000",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 12:09:15",
-      "content": "What health officials are seeing and why it matters The United States is experiencing a large and rapid resurgence of measles, with cases approaching the 1,000 mark this year. Multiple outbreaks, in\u2026 [+1911 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.137857",
-      "internal_id": "46824ef9ad8179ec098e9eadbd36d1ea40eaf37a7d54974d266dbdf0352032fe",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28071,
-      "query": [
-        "measles"
-      ],
-      "source_id": "nbc-news",
-      "source_name": "NBC News",
-      "author": "Erika Edwards",
-      "title": "Measles is costing the U.S. millions of dollars. The true losses can't be counted.",
-      "description": "In 2026, there have been over 1,000 cases of measles. If vaccination rates keep dropping, the costs of medical care, public health efforts and lost work productivity could skyrocket.",
-      "url": "https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260226-spartanburg-measles-ew-1135a-4e564d.jpg",
-      "publishedAt": "2026-03-01 11:00:00",
-      "content": "In early 2025, as measles began to tear through West Texas, Katherine Wells knew she needed money. Though the outbreak was concentrated in Gaines County, a community an hour away, Wells, who heads L\u2026 [+9516 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.114894",
-      "internal_id": "3af1d2e1646571b68ebf38cbc7f88a29f95326c7e1ad8d2d53e0a6b85c0c588a",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28074,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "How close is the US to losing measles elimination? #health",
-      "description": "Where the country stands and why it matters U.S. public\u2011health officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at real risk of losin\u2026",
-      "url": "https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 09:09:34",
-      "content": "U.S. publichealth officials are confronting an unprecedented spike in measles cases that has pushed reported infections close to the 1,000 mark early in the year. That surge has put the nation at rea\u2026 [+1617 chars]",
-      "retrievedAt": "2026-03-02 19:19:28.185940",
-      "internal_id": "992b5f6c05a8fd253e7223b97ed004968160366369d7576bf4f8d40f8d9dcdf5",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28077,
-      "query": [
-        "typhoid"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why is drug-resistant typhoid spreading? #health",
-      "description": "What scientists found and why it matters A recent study warns that older, highly drug\u2011resistant strains of Salmonella Typhi\u2014the bacterium that causes typhoid fever\u2014are becoming harder to treat and are moving beyond their historic geographic pockets. These str\u2026",
-      "url": "https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-01 09:09:34",
-      "content": "A recent study warns that older, highly drugresistant strains of Salmonella Typhithe bacterium that causes typhoid feverare becoming harder to treat and are moving beyond their historic geographic po\u2026 [+1602 chars]",
-      "retrievedAt": "2026-03-02 19:19:30.693703",
-      "internal_id": "07445d995db80be52f10d3d72f89d8bf2d5b2569f7ac83f3fa2f843c87ac5503",
-      "publishedAtLabel": "Mar 1"
-    },
-    {
-      "id": 28076,
-      "query": [
-        "mpox"
-      ],
-      "source_id": "info-money",
-      "source_name": "InfoMoney",
-      "author": "carlacarvalho",
-      "title": "Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento",
-      "description": "A maioria dos casos evolui de forma leve, mas alguns podem exigir uso de antiviral e fisioterapia respirat\u00f3ria. The post Mpox no Brasil: tudo sobre a infec\u00e7\u00e3o viral e o como \u00e9 tratamento appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/saude/tratamento-da-mpox/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2024/08/2024-08-22T131236Z_1_LYNXMPEK7L0HZ_RTROPTP_4_HEALTH-MPOX.jpg?fit=3500%2C2074&quality=70&strip=all",
-      "publishedAt": "2026-03-01 08:01:00",
-      "content": "O Brasil voltou a registrar 90 casos confirmados de mpox nas \u00faltimas semanas, segundo dados das autoridades de sa\u00fade. Embora o cen\u00e1rio esteja distante dos picos observados em 2022, a doen\u00e7a continua \u2026 [+4267 chars]",
-      "retrievedAt": "2026-03-02 19:19:30.555478",
-      "internal_id": "154cb4b01c923184cf4deb57b7c4a78ff7b35fe3c2aa151e2ec28ce94640065f",
       "publishedAtLabel": "Mar 1"
     }
   ]
