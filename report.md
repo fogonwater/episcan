@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 14
-- **Last harvest:** 2026-04-17 19:28
-- **Most recent article:** 2026-04-16 18:03:07
+- **New articles in last harvest:** 13
+- **Last harvest:** 2026-04-18 07:31
+- **Most recent article:** 2026-04-17 06:03:38
 
 ---
 
@@ -13,17 +13,17 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-10 | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 3 | 6 | 175 | 75 | 19 | 4 | 1 | 283 |
-| measles | 63 | 30 | 20 | 21 | 26 | 51 | 18 | 229 |
-| dengue | 22 | 11 | 28 | 19 | 18 | 12 | 9 | 119 |
-| malaria | 15 | 9 | 20 | 14 | 9 | 14 | 5 | 86 |
+| measles | 68 | 30 | 20 | 21 | 26 | 51 | 26 | 242 |
+| dengue | 22 | 11 | 28 | 19 | 18 | 12 | 12 | 122 |
+| malaria | 15 | 9 | 20 | 14 | 9 | 14 | 6 | 87 |
+| mpox | 9 | 16 | 12 | 4 | 19 | 9 | 11 | 80 |
 | rabies | 16 | 16 | 7 | 5 | 26 | 8 | 2 | 80 |
-| mpox | 8 | 16 | 12 | 4 | 19 | 9 | 10 | 78 |
 | chikungunya | 1 | 7 | 7 | 8 | 11 | 3 | 5 | 42 |
 | h5n1 | 2 | 8 | 7 | 4 | 7 | 2 | 3 | 33 |
 | zika | 1 | 2 | 4 | 1 | 15 | 1 | 3 | 27 |
 | hpai | 2 | 5 | 2 | 6 | 2 | 2 | 1 | 20 |
 | leptospirosis | 2 | 1 | 3 | 1 | 0 | 1 | 1 | 9 |
-| typhoid | 2 | 0 | 0 | 1 | 1 | 0 | 3 | 7 |
+| typhoid | 3 | 0 | 0 | 1 | 1 | 0 | 3 | 8 |
 | yersinia | 2 | 0 | 1 | 1 | 0 | 1 | 0 | 5 |
 | pertussis | 1 | 2 | 0 | 1 | 0 | 0 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
@@ -61,6 +61,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-16 (mpox)
 
+- [San Francisco Reports Its First Clade I Mpox Case — What to Know and How to Find a Vaccine](https://www.kqed.org/news/12080320/mpox-clade-i-san-francisco-2026-symptoms-rash-where-to-find-monkeypox-vaccine) (KQED)
+
 - [La ruta de contagio del mpox podría cambiar con el tiempo: del contacto sexual al entorno familiar](https://www.infosalus.com/salud-investigacion/noticia-ruta-contagio-mpox-podria-cambiar-tiempo-contacto-sexual-entorno-familiar-20260415071748.html) (Infosalus.com)
 
 - [세니젠, 지씨파트너스 유상증자 참여로 재무 리스크 해소](https://zdnet.co.kr/view/?no=20260415104423) (Zdnet.co.kr)
@@ -86,6 +88,22 @@ Source: [News API](https://newsapi.org/)
 - [Football club's mascot named after mentor who died](https://www.bbc.com/news/articles/c05dvpg59j2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 ## 26-16 (measles)
+
+- [Why did Utah measles outbreak spread? #health](https://alltoc.com/health/why-did-utah-measles-outbreak-spread) (Alltoc.com)
+
+- [Chabad rabbi warns: Measles is a tangible risk to children's lives](https://www.israelnationalnews.com/news/425637) (Israelnationalnews.com)
+
+- [How big is Utah’s measles outbreak? #health](https://alltoc.com/health/how-big-is-utahs-measles-outbreak) (Alltoc.com)
+
+- [Why did RFK Jr face measles questions? #health](https://alltoc.com/health/why-did-rfk-jr-face-measles-questions) (Alltoc.com)
+
+- [RFK Jr. defends proposed 12% health budget cut, measles response in House testimony](https://www.cbsnews.com/news/rfk-jr-health-budget-cut-measles-response-vaccines-house-hearing/) (CBS News)
+
+- [RFK Jr. Confronted Over Vaccines in House Hearing](https://www.newser.com/story/387476/rfk-jr-confronted-over-vaccines-in-house-hearing.html) (Newser)
+
+- [RFK Jr. spars with House Democrats over vaccine policies amid rise in measles cases](https://abcnews.com/Health/rfk-jr-spars-house-democrats-vaccine-policies-amid/story?id=132110347) (Abcnews.com)
+
+- [Measles returns to SF with first confirmed case since 2019](https://www.sfgate.com/bayarea/article/measles-sf-case-confirmed-22210649.php) (SFGate)
 
 - [How effective are measles vaccines at preventing outbreaks? #health](https://alltoc.com/health/how-effective-are-measles-vaccines-at-preventing-outbreaks) (Alltoc.com)
 
@@ -125,6 +143,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-16 (malaria)
 
+- [Mechanistic perspectives on antimalarial agents: from FDA-approved drugs to next-generation candidates](https://pubs.rsc.org/en/content/articlelanding/2026/ra/d5ra08585c) (Royal Society of Chemistry)
+
 - [Grifols recibe la aprobación de la FDA para su prueba de cribado de malaria en sangre](https://www.europapress.es/catalunya/noticia-grifols-recibe-aprobacion-fda-prueba-cribado-malaria-sangre-20260416143627.html) (Europapress.es)
 
 - [Malaria en Costa Rica: casos, riesgos y cómo prevenirla](https://www.nacion.com/mi-bienestar/malaria-en-costa-rica-casos-riesgos-y-como/O3QEXVM47FAOPNIGEZOJ37GTMU/story/) (Nacion.com)
@@ -152,6 +172,12 @@ Source: [News API](https://newsapi.org/)
 - [Rapid expansion of genotype D1.1 A(H5N1) influenza viruses in wild birds across North America during the 2024 migratory season](https://www.nature.com/articles/s41591-026-04300-1) (Nature.com)
 
 ## 26-16 (dengue)
+
+- [Biotech news from around the world](https://www.nature.com/articles/s41587-026-03103-6) (Nature.com)
+
+- [Daniel Noboa dispone acciones ante repunte de casos de dengue en Ecuador](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-dispone-acciones-repunte-casos-dengue-provincias-ecuador/) (Elcomercio.com)
+
+- [Estudo brasileiro relaciona dengue à síndrome de Guillain‑Barré](https://theconversation.com/estudo-brasileiro-evidencia-relacao-entre-dengue-e-a-rara-sindrome-de-guillain-barre-que-afeta-os-nervos-perifericos-277584) (The Conversation Africa)
 
 - [Minas Gerais tem 71% das cidades em alerta ou risco por dengue, chikungunya e zika](https://www.terra.com.br/noticias/minas-gerais-tem-71-das-cidades-em-alerta-ou-risco-por-dengue-chikungunya-e-zika,145bea809719b8dfc397e8b0434e9d9ez3nvxkjp.html) (Terra.com.br)
 
@@ -1967,6 +1993,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroincidence Rate of Typhoidal Salmonella in Children, Kenya, 2017–2018](https://wwwnc.cdc.gov/eid/article/32/3/25-0469_article) (Cdc.gov)
 
+- [Why is drug-resistant typhoid spreading? #health](https://alltoc.com/health/why-is-drug-resistant-typhoid-spreading) (Alltoc.com)
+
 ## 26-10 (rabies)
 
 - [BMC to launch mass anti-rabies vaccination drive for 52,000 dogs](https://timesofindia.indiatimes.com/city/bhubaneswar/bmc-to-launches-mass-anti-rabies-vaccination-drive-for-52000-dogs/articleshow/129232046.cms) (The Times of India)
@@ -2022,6 +2050,8 @@ Source: [News API](https://newsapi.org/)
 - [Mpox Outbreak in Wild Monkeys Likely Traced to a Rope Squirrel They Consumed](https://www.discovermagazine.com/mpox-outbreak-in-wild-monkeys-likely-traced-to-a-rope-squirrel-they-consumed-48758) (Discover Magazine)
 
 - [Brasil registra 88 casos de Mpox em 60 dias; Ministério em alerta](https://saude.ig.com.br/2026-03-02/brasil-registra-88-casos-de-mpox-em-60-dias--ministerio-em-alerta.html) (Ig.com.br)
+
+- [Mpox no Brasil: tudo sobre a infecção viral e o como é tratamento](https://www.infomoney.com.br/saude/tratamento-da-mpox/) (InfoMoney)
 
 ## 26-10 (meningitis)
 
@@ -2158,6 +2188,16 @@ Source: [News API](https://newsapi.org/)
 - [Here's the biggest news you missed this weekend](https://www.nbcnews.com/news/us-news/weekend-rundown-march-1-rcna261075) (NBC News)
 
 - [Will the U.S. lose measles elimination status? #health](https://alltoc.com/health/will-the-u-s-lose-measles-elimination-status) (Alltoc.com)
+
+- [Why are U.S. measles cases soaring? #health](https://alltoc.com/health/why-are-u-s-measles-cases-soaring) (Alltoc.com)
+
+- [Why is measles surging in the U.S.? #health](https://alltoc.com/health/why-is-measles-surging-in-the-u-s) (Alltoc.com)
+
+- [Why are measles cases near 1,000? #health](https://alltoc.com/health/why-are-measles-cases-near-1000) (Alltoc.com)
+
+- [Measles is costing the U.S. millions of dollars. The true losses can't be counted.](https://www.nbcnews.com/health/kids-health/measles-cost-vaccine-rates-decline-billion-year-forecast-rcna260734) (NBC News)
+
+- [How close is the US to losing measles elimination? #health](https://alltoc.com/health/how-close-is-the-us-to-losing-measles-elimination) (Alltoc.com)
 
 ## 26-10 (malaria)
 
