@@ -1,8 +1,80 @@
 {
-  "last_updated": "2026-04-19 07:36",
-  "count_articles_total": 866,
-  "count_articles_new": 10,
+  "last_updated": "2026-04-19 19:20",
+  "count_articles_total": 870,
+  "count_articles_new": 4,
   "articles": [
+    {
+      "id": 29086,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Shikha Yadav",
+      "title": "Ranchi Mosquito Elimination Drive Launched to Combat Vector-Borne Diseases",
+      "description": "Ranchi Municipal Corporation launched a mosquito-elimination drive in Ward 3, targeting dengue prevention. The special campaign involved anti-larval spraying, fogging, and sanitation, with teams inspecting homes and cleaning drains. Awareness drives also educ\u2026",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/ranchi-mosquito-elimination-drive-launched-to-combat-vector-borne-diseases/articleshow/130357762.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-04-18 16:12:15",
+      "content": "Follow Us On Social Media",
+      "retrievedAt": "2026-04-19 19:20:27.523671",
+      "internal_id": "2326394226fa61ce79b7a48afe4f9eca570e3f8a365544284d34d18065ea5523",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 29087,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Yucsiany Salazar Serrano",
+      "title": "Vecina de Tib\u00e1s que viaj\u00f3 a otro pa\u00eds es el quinto caso de chikungunya en lo que va del 2026",
+      "description": "El Ministerio de Salud confirm\u00f3 un nuevo caso importado de chikungunya en una mujer de Tib\u00e1s.",
+      "url": "https://www.nacion.com/el-pais/vecina-de-tibas-que-viajo-a-otro-pais-es-el-quinto/R6QZ2KW7UZFLTCVPFESL74VBJ4/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/NLM2CASCDNHTHLUMTX3WTQW6K4.jpg?smart=true&auth=600e5d1fea0c7dcd1a1308cb7002e13bde41940757a7465ff5d4dcd69f8e669f&width=1440",
+      "publishedAt": "2026-04-18 15:26:58",
+      "content": "Una mujer de 37 a\u00f1os, vecina de Tib\u00e1s, se convirti\u00f3 en el quinto caso confirmado de chikungunya en Costa Rica en lo que va del 2026, seg\u00fan inform\u00f3 el Ministerio de Salud. El diagn\u00f3stico fue ratific\u2026 [+1823 chars]",
+      "retrievedAt": "2026-04-19 19:20:28.526562",
+      "internal_id": "35d1c6d76cc1e130504d554a120aa47b4a4d5d17ab5be6706548a58f198701ed",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 29085,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles outbreaks spreading in Utah? #health",
+      "description": "Utah measles outbreak: vaccination gap and hospital impact Utah is reporting more than 600 measles cases as an outbreak continues to spread across the state. The story ties the surge to a key vulnerability in the local population: about 85% of people infected\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-utah",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-18 12:03:29",
+      "content": "Utah is reporting more than 600 measles cases as an outbreak continues to spread across the state. The story ties the surge to a key vulnerability in the local population: about 85% of people infecte\u2026 [+1589 chars]",
+      "retrievedAt": "2026-04-19 19:20:26.459447",
+      "internal_id": "e55a39abd095e955832802475b4ac0ec2ba65696f14853218273885c21ecfa49",
+      "publishedAtLabel": "Apr 18"
+    },
+    {
+      "id": 29084,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "Moskvakontoret: En sviner serveret i smuk indpakning",
+      "description": "Hvordan man slipper afsted med at kalde Putin for uvidende, gammeldags og ude af trit med en moderne virkelighed.",
+      "url": "https://www.dr.dk/nyheder/udland/moskvakontoret-en-sviner-serveret-i-smuk-indpakning",
+      "urlToImage": "https://asset.dr.dk/drdk/umbraco-images/rrojwqpy/moskva_4_viktoria-bonjatop.jpg?im=AspectCrop%3D%281200%2C675%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%281200%2C675%29",
+      "publishedAt": "2026-04-18 10:45:00",
+      "content": "Herefter peger hun p\u00e5 olieforurening ved Sortehavskysten, som ikke bliver renset ordentligt op, de mange aflivninger af kv\u00e6g i Sibirien (der antageligvis skulle v\u00e6re p\u00e5 grund af rabies og en behandli\u2026 [+1371 chars]",
+      "retrievedAt": "2026-04-19 19:20:26.080594",
+      "internal_id": "1e0671a9605708dcf136854ca113dafd36f6fcd11272bcd9b50026b9a427800b",
+      "publishedAtLabel": "Apr 18"
+    },
     {
       "id": 29083,
       "query": [

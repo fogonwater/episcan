@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-04-19 07:36
-- **Most recent article:** 2026-04-18 00:03:31
+- **New articles in last harvest:** 4
+- **Last harvest:** 2026-04-19 19:20
+- **Most recent article:** 2026-04-18 16:12:15
 
 ---
 
@@ -13,12 +13,12 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | Total |
 |--|-|-|-|-|-|-|-|
 | meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 284 |
-| measles | 30 | 20 | 21 | 26 | 51 | 33 | 181 |
-| dengue | 11 | 28 | 19 | 18 | 12 | 18 | 106 |
+| measles | 30 | 20 | 21 | 26 | 51 | 34 | 182 |
+| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 107 |
 | malaria | 9 | 20 | 14 | 9 | 14 | 9 | 75 |
 | mpox | 16 | 12 | 4 | 19 | 9 | 15 | 75 |
-| rabies | 15 | 7 | 5 | 26 | 8 | 2 | 63 |
-| chikungunya | 7 | 7 | 8 | 11 | 3 | 5 | 41 |
+| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 64 |
+| chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 42 |
 | h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 33 |
 | zika | 2 | 4 | 1 | 15 | 1 | 4 | 27 |
 | hpai | 5 | 2 | 6 | 2 | 2 | 1 | 18 |
@@ -56,6 +56,8 @@ Source: [News API](https://newsapi.org/)
 - [How did Shigellosis become a US threat? #world](https://alltoc.com/world/how-did-shigellosis-become-a-us-threat) (Alltoc.com)
 
 ## 26-16 (rabies)
+
+- [Moskvakontoret: En sviner serveret i smuk indpakning](https://www.dr.dk/nyheder/udland/moskvakontoret-en-sviner-serveret-i-smuk-indpakning) (Www.dr.dk)
 
 - [Taylor Momsen Hospitalized, Shows Photo of Spider Rash](https://loudwire.com/the-pretty-reckless-taylor-momsen-hospitalized-spider-rash/) (Loudwire)
 
@@ -110,6 +112,8 @@ Source: [News API](https://newsapi.org/)
 - [Football club's mascot named after mentor who died](https://www.bbc.com/news/articles/c05dvpg59j2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 ## 26-16 (measles)
+
+- [Why are measles outbreaks spreading in Utah? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-utah) (Alltoc.com)
 
 - [FACT FOCUS: RFK Jr. says the US is limiting measles outbreaks better than the rest of the world](https://www.seattlepi.com/news/article/fact-focus-rfk-jr-says-the-us-is-limiting-22212768.php) (seattlepi.com)
 
@@ -219,6 +223,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-16 (dengue)
 
+- [Ranchi Mosquito Elimination Drive Launched to Combat Vector-Borne Diseases](https://timesofindia.indiatimes.com/city/ranchi/ranchi-mosquito-elimination-drive-launched-to-combat-vector-borne-diseases/articleshow/130357762.cms) (The Times of India)
+
 - [Repelente caseiro: como usar cascas de laranja e cravo para afastar mosquitos do ambiente sem produto químico](https://catracalivre.com.br/noticias/repelente-caseiro-como-usar-cascas-de-laranja-e-cravo-para-afastar-mosquitos-do-ambiente-sem-produto-quimico/) (Catracalivre.com.br)
 
 - [Vai viajar no feriado? Veja como proteger a casa do mosquito da dengue](https://www.metropoles.com/sao-paulo/viajar-feriado-proteger-dengue) (Metropoles.com)
@@ -256,6 +262,8 @@ Source: [News API](https://newsapi.org/)
 - [OIKN taps local residents to rid new capital of malaria and dengue](https://en.antaranews.com/news/411979/oikn-taps-local-residents-to-rid-new-capital-of-malaria-and-dengue) (Antaranews.com)
 
 ## 26-16 (chikungunya)
+
+- [Vecina de Tibás que viajó a otro país es el quinto caso de chikungunya en lo que va del 2026](https://www.nacion.com/el-pais/vecina-de-tibas-que-viajo-a-otro-pais-es-el-quinto/R6QZ2KW7UZFLTCVPFESL74VBJ4/story/) (Nacion.com)
 
 - [Minas Gerais tem 71% das cidades em alerta ou risco por dengue, chikungunya e zika](https://www.terra.com.br/noticias/minas-gerais-tem-71-das-cidades-em-alerta-ou-risco-por-dengue-chikungunya-e-zika,145bea809719b8dfc397e8b0434e9d9ez3nvxkjp.html) (Terra.com.br)
 
