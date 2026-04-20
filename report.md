@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 2
-- **Last harvest:** 2026-04-20 07:41
-- **Most recent article:** 2026-04-19 06:03:09
+- **Last harvest:** 2026-04-20 19:29
+- **Most recent article:** 2026-04-19 15:35:00
 
 ---
 
@@ -15,8 +15,8 @@ By US epiweek (i.e. Sunday to Saturday)
 | meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 0 | 284 |
 | measles | 30 | 20 | 21 | 26 | 51 | 35 | 1 | 184 |
 | dengue | 11 | 28 | 19 | 18 | 12 | 19 | 0 | 107 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 0 | 75 |
-| mpox | 16 | 12 | 4 | 19 | 9 | 15 | 0 | 75 |
+| mpox | 16 | 12 | 4 | 19 | 9 | 15 | 1 | 76 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 1 | 76 |
 | rabies | 15 | 7 | 5 | 26 | 8 | 3 | 0 | 64 |
 | chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 0 | 42 |
 | h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 0 | 33 |
@@ -33,9 +33,17 @@ Source: [News API](https://newsapi.org/)
 
 ---
 
+## 26-17 (mpox)
+
+- [Справки: Оспа обезьян (mpox): что это за болезнь, симптомы, как передается и как защититься](https://vz.ru/information/2026/4/19/1282496.html#text) (Vz.ru)
+
 ## 26-17 (measles)
 
 - [What did the measles outbreak data show? #health](https://alltoc.com/health/what-did-the-measles-outbreak-data-show) (Alltoc.com)
+
+## 26-17 (malaria)
+
+- [Towards a malaria-free future](https://www.thehindubusinessline.com/specials/pulse/towards-a-malaria-free-future/article70870076.ece) (BusinessLine)
 
 ## 26-16 (zika)
 
