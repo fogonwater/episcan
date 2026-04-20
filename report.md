@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2026-04-19 19:20
-- **Most recent article:** 2026-04-18 16:12:15
+- **New articles in last harvest:** 2
+- **Last harvest:** 2026-04-20 07:41
+- **Most recent article:** 2026-04-19 06:03:09
 
 ---
 
@@ -10,28 +10,32 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | Total |
-|--|-|-|-|-|-|-|-|
-| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 284 |
-| measles | 30 | 20 | 21 | 26 | 51 | 34 | 182 |
-| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 107 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 75 |
-| mpox | 16 | 12 | 4 | 19 | 9 | 15 | 75 |
-| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 64 |
-| chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 42 |
-| h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 33 |
-| zika | 2 | 4 | 1 | 15 | 1 | 4 | 27 |
-| hpai | 5 | 2 | 6 | 2 | 2 | 1 | 18 |
-| leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 7 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 3 | 5 |
-| pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 4 |
-| yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 3 |
-| shigellosis | 0 | 0 | 0 | 0 | 1 | 1 | 2 |
+| Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
+|--|-|-|-|-|-|-|-|-|
+| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 0 | 284 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 1 | 184 |
+| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 0 | 107 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 0 | 75 |
+| mpox | 16 | 12 | 4 | 19 | 9 | 15 | 0 | 75 |
+| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 0 | 64 |
+| chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 0 | 42 |
+| h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 0 | 33 |
+| zika | 2 | 4 | 1 | 15 | 1 | 4 | 0 | 27 |
+| hpai | 5 | 2 | 6 | 2 | 2 | 1 | 0 | 18 |
+| leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 0 | 7 |
+| typhoid | 0 | 0 | 1 | 1 | 0 | 3 | 0 | 5 |
+| pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 0 | 4 |
+| yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 3 |
+| shigellosis | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-17 (measles)
+
+- [What did the measles outbreak data show? #health](https://alltoc.com/health/what-did-the-measles-outbreak-data-show) (Alltoc.com)
 
 ## 26-16 (zika)
 
@@ -112,6 +116,8 @@ Source: [News API](https://newsapi.org/)
 - [Football club's mascot named after mentor who died](https://www.bbc.com/news/articles/c05dvpg59j2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D) (BBC News)
 
 ## 26-16 (measles)
+
+- [Texas Doctor Who Led Measles Response Joins CDC Under RFK Jr.](https://www.texastribune.org/2026/04/18/texas-dshs-jennifer-shuford-tapped-cdc/) (The Texas Tribune)
 
 - [Why are measles outbreaks spreading in Utah? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-utah) (Alltoc.com)
 

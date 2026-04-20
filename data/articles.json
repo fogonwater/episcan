@@ -1,8 +1,44 @@
 {
-  "last_updated": "2026-04-19 19:20",
-  "count_articles_total": 870,
-  "count_articles_new": 4,
+  "last_updated": "2026-04-20 07:41",
+  "count_articles_total": 872,
+  "count_articles_new": 2,
   "articles": [
+    {
+      "id": 29089,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What did the measles outbreak data show? #health",
+      "description": "Measles cases rise in Utah as vaccination gaps widen Recent reporting describes a continuing measles outbreak in the United States, with Utah singled out as cases spread. Data indicate that most people infected in Utah were not vaccinated against measles , wh\u2026",
+      "url": "https://alltoc.com/health/what-did-the-measles-outbreak-data-show",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-19 06:03:09",
+      "content": "Recent reporting describes a continuing measles outbreak in the United States, with Utah singled out as cases spread. Data indicate that most people infected in Utah were not vaccinated against measl\u2026 [+1498 chars]",
+      "retrievedAt": "2026-04-20 07:41:44.148191",
+      "internal_id": "f61929c156d94483762eda6c4f2f79c810a97c460aa8bd3b1008e7dae8b17e88",
+      "publishedAtLabel": "Apr 19"
+    },
+    {
+      "id": 29088,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Texas Tribune",
+      "author": "Colleen DeGuzman",
+      "title": "Texas Doctor Who Led Measles Response Joins CDC Under RFK Jr.",
+      "description": "Jennifer Shuford joins leadership as agency grapples with internal departures and shifting vaccine guidance.",
+      "url": "https://www.texastribune.org/2026/04/18/texas-dshs-jennifer-shuford-tapped-cdc/",
+      "urlToImage": "https://truthout.org/app/uploads/2026/04/GettyImages-2249321952.jpg",
+      "publishedAt": "2026-04-18 21:05:56",
+      "content": "Truthout is an indispensable resource for activists, movement leaders and workers everywhere. Please make this work possible with a quick donation. Dr. Jennifer Shuford, head of Texas public health \u2026 [+5481 chars]",
+      "retrievedAt": "2026-04-20 07:41:44.108557",
+      "internal_id": "32cb730e3184c66cabb61651a8d66d7a0c5edd017291314d9610d47701d6acc0",
+      "publishedAtLabel": "Apr 18"
+    },
     {
       "id": 29086,
       "query": [
