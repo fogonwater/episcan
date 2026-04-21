@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 5
-- **Last harvest:** 2026-04-21 07:40
-- **Most recent article:** 2026-04-20 07:05:08
+- **New articles in last harvest:** 17
+- **Last harvest:** 2026-04-21 19:32
+- **Most recent article:** 2026-04-20 18:03:24
 
 ---
 
@@ -12,26 +12,36 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 1 | 285 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 2 | 185 |
-| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 0 | 107 |
+| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 3 | 287 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 6 | 189 |
+| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 5 | 112 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 5 | 80 |
 | mpox | 16 | 12 | 4 | 19 | 9 | 16 | 2 | 78 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 2 | 77 |
-| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 0 | 64 |
-| chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 0 | 42 |
+| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 1 | 65 |
+| chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 2 | 44 |
 | h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 0 | 33 |
 | zika | 2 | 4 | 1 | 15 | 1 | 4 | 0 | 27 |
 | hpai | 5 | 2 | 6 | 2 | 2 | 1 | 0 | 18 |
 | leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 0 | 7 |
+| yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 2 | 5 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 3 | 0 | 5 |
 | pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 0 | 4 |
-| yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 3 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-17 (yersinia)
+
+- [Ученые связали неолитический упадок 5 тыс. лет назад с древней чумой](https://iz.ru/2082388/uchenye-sviazali-neoliticheskii-upadok-5-tys-let-nazad-s-drevnei-chumoi-izi) (Iz.ru)
+
+- [Древняя ДНК рассказала о резком падении численности населения Европы 5000 лет назад](https://overclockers.ru/blog/Scorpion81/show/253979/Drevnyaya-DNK-rasskazala-o-rezkom-padenii-chislennosti-naseleniya-Evropy-5000-let-nazad) (Overclockers.ru)
+
+## 26-17 (rabies)
+
+- [Health and economic burden of canine rabies in Chilga district, centeral Gondar Zone, Amhara Region, Ethiopia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014196) (Plos.org)
 
 ## 26-17 (mpox)
 
@@ -41,9 +51,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (meningitis)
 
+- [Cerca de 69.000 murcianos se vacunan de nuevo frente al neumococo para protegerse de neumonías, sepsis o meningitis](https://www.europapress.es/murcia/noticia-cerca-69000-murcianos-vacunan-nuevo-frente-neumococo-protegerse-neumonias-sepsis-meningitis-20260420123624.html) (Europapress.es)
+
+- [Family’s heartbreak as ‘whirlwind’ infection claims life of baby Finley at just eight days old](https://www.devonlive.com/news/devon-news/familys-heartbreak-whirlwind-infection-claims-10922425) (Devon Live)
+
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [Are measles outbreaks rising under RFK Jr? #health](https://alltoc.com/health/are-measles-outbreaks-rising-under-rfk-jr) (Alltoc.com)
+
+- [Indonesia ramps up communication to boost measles vaccination](https://en.antaranews.com/news/413044/indonesia-ramps-up-communication-to-boost-measles-vaccination) (Antaranews.com)
+
+- [Texas FAFO](https://freethoughtblogs.com/pharyngula/2026/04/20/texas-fafo/) (Freethoughtblogs.com)
+
+- [Monday, April 20, 2026](https://kffhealthnews.org/morning-briefing/monday-april-20-2026/) (Kffhealthnews.org)
 
 - [Measles case confirmed in Maryland resident who recently traveled](https://www.wbaltv.com/article/maryland-measles-case-confirmed-bwi-airport-sinai-pediatric/71065391) (WBAL TV Baltimore)
 
@@ -51,9 +73,33 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (malaria)
 
+- [emod-malaria 2.34.0](https://pypi.org/project/emod-malaria/2.34.0/) (Pypi.org)
+
+- [Gaps in knowledge and use of artemether-lumefantrine among university students in Southwestern Nigeria: A cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347554) (Plos.org)
+
+- [Insecticidal and knockdown resistance status of Anopheles gambiae s.l (Diptera: Culicidae) to pyrethroid and organophosphate insecticides in Osun State, Nigeria](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347416) (Plos.org)
+
 - [Malaria cases climb sharply in Gauteng](https://www.capetownetc.com/health/malaria-cases-climb-sharply-in-gauteng/) (CapeTown ETC)
 
 - [Towards a malaria-free future](https://www.thehindubusinessline.com/specials/pulse/towards-a-malaria-free-future/article70870076.ece) (BusinessLine)
+
+## 26-17 (dengue)
+
+- [Quantifying the kinetics of hematocrit and platelet count during febrile phase to develop a scoring system for predicting dengue shock syndrome in adults: A matched case - control study from a Hospital in Viet Nam](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014245) (Plos.org)
+
+- [Molecular investigation of diverse Aedes aegypti in heightened dengue transmission settings in Somaliland, 2023–2024](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014185) (Plos.org)
+
+- [Surveillance and control efficacy of the Bergerac, France, 2025 chikungunya outbreak](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014184) (Plos.org)
+
+- [Dengue Testing Market Size to be Valued at USD 971.11 Million by 2035; Industry Growth is Driven by the Increase in Dengue Cases in Tropical and Sub-tropical Nations Globally | SNS Insider](https://www.globenewswire.com/news-release/2026/04/20/3276781/0/en/Dengue-Testing-Market-Size-to-be-Valued-at-USD-971-11-Million-by-2035-Industry-Growth-is-Driven-by-the-Increase-in-Dengue-Cases-in-Tropical-and-Sub-tropical-Nations-Globally-SNS-In.html) (GlobeNewswire)
+
+- [Tropické horečky rekordně přibývá. Nebezpeční komáři jsou už i v Chorvatsku](https://www.idnes.cz/zpravy/domaci/dengue-tropicka-horecka-maledivy-sri-lanka-nemoc-chikungunya.A260419_201312_domaci_jans) (Idnes.cz)
+
+## 26-17 (chikungunya)
+
+- [Surveillance and control efficacy of the Bergerac, France, 2025 chikungunya outbreak](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014184) (Plos.org)
+
+- [Tropické horečky rekordně přibývá. Nebezpeční komáři jsou už i v Chorvatsku](https://www.idnes.cz/zpravy/domaci/dengue-tropicka-horecka-maledivy-sri-lanka-nemoc-chikungunya.A260419_201312_domaci_jans) (Idnes.cz)
 
 ## 26-16 (zika)
 
