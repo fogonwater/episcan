@@ -1,8 +1,80 @@
 {
-  "last_updated": "2026-04-20 19:29",
-  "count_articles_total": 874,
-  "count_articles_new": 2,
+  "last_updated": "2026-04-21 07:40",
+  "count_articles_total": 879,
+  "count_articles_new": 5,
   "articles": [
+    {
+      "id": 29094,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "CapeTown ETC",
+      "author": "Lulama Klassen",
+      "title": "Malaria cases climb sharply in Gauteng",
+      "description": "Beyond the Mother City, a very worrying health trend is beginning to take shape in Gauteng, where a noticeable spike in malaria infections and related deaths has prompted renewed caution from health authorities, Cape {town} Etc reports. As highlighted in an E\u2026",
+      "url": "https://www.capetownetc.com/health/malaria-cases-climb-sharply-in-gauteng/",
+      "urlToImage": "https://www.capetownetc.com/wp-content/uploads/2026/04/Untitled-design-26.jpg",
+      "publishedAt": "2026-04-20 07:05:08",
+      "content": "Beyond the Mother City, a very worrying health trend is beginning to take shape in Gauteng, where a noticeable spike in malaria infections and related deaths has prompted renewed caution from health \u2026 [+2171 chars]",
+      "retrievedAt": "2026-04-21 07:40:24.724586",
+      "internal_id": "bc07080854df9c435723892a798389643a4f52e710b4f1a05d7066622373866f",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 29093,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What did the meningitis B cases lead to? #health",
+      "description": "Meningitis B cases confirmed in Dorset, with antibiotics in place Health officials in Dorset confirmed three cases of meningitis B . The UK Health Security Agency said the patients have been treated successfully , and antibiotics are being given as a precauti\u2026",
+      "url": "https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-20 06:03:05",
+      "content": "Meningitis B cases confirmed in Dorset, with antibiotics in place Health officials in Dorset confirmed three cases of meningitis B. The UK Health Security Agency said the patients have been treated \u2026 [+1307 chars]",
+      "retrievedAt": "2026-04-21 07:40:24.455414",
+      "internal_id": "3d716693d195373d03a0bd6ec481ac569af6f5a63c31037cd410fc41d18f496c",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 29095,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.vg.no",
+      "author": "Kira Venbakken",
+      "title": "Ny virus-variant oppdaget i Danmark: - Kan dukke opp her",
+      "description": "En ny variant av sykdommen mpox, eller apekopper som den het tidligere, er n\u00e5 oppdaget i Danmark. FHI f\u00f8ler n\u00f8ye med.",
+      "url": "https://www.vg.no/nyheter/i/QJgzW8/ny-virus-variant-oppdaget-i-danmark-kan-dukke-opp-her",
+      "urlToImage": "https://akamai.vgc.no/v2/images/c386cf11-4746-3df4-a472-26f09331acb9?format=auto&w=1080&s=70f868618b5c4442dd2c7bf76dfc14c7a805dea3",
+      "publishedAt": "2026-04-20 05:49:33",
+      "content": "En ny variant av sykdommen mpox, kalt \u00abklad 1b\u00bb har blitt oppdaget i Danmark. Det melder Statens Serum Institut (SSI) p\u00e5 sine hjemmesider. De er det danske svaret p\u00e5 Folkehelseinstituttet i Norge. \u2026 [+2149 chars]",
+      "retrievedAt": "2026-04-21 07:40:25.277975",
+      "internal_id": "6c8c599ae51616ef00d385d555741710cf5f427ba5359829665b01f91e52ddd1",
+      "publishedAtLabel": "Apr 20"
+    },
+    {
+      "id": 29092,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WBAL TV Baltimore",
+      "author": "Greg Ng",
+      "title": "Measles case confirmed in Maryland resident who recently traveled",
+      "description": "A Baltimore-area resident who traveled internationally has a confirmed case of measles, Maryland state health officials announced Sunday.",
+      "url": "https://www.wbaltv.com/article/maryland-measles-case-confirmed-bwi-airport-sinai-pediatric/71065391",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/measles-65bc51f04d9ab.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2026-04-19 19:53:05",
+      "content": "BALTIMORE \u2014A Baltimore-area resident who traveled internationally has a confirmed case of measles, Maryland state health officials announced Sunday. Archive video above: Dr. Oz: 'Take the vaccine, p\u2026 [+3400 chars]",
+      "retrievedAt": "2026-04-21 07:40:23.593196",
+      "internal_id": "8b6f445fc26cb7a57537aa47d5e9b3f8fddeeef94fa6833f76e2026cf283ed32",
+      "publishedAtLabel": "Apr 19"
+    },
     {
       "id": 29091,
       "query": [
@@ -289,6 +361,24 @@
       "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
       "retrievedAt": "2026-04-19 07:36:31.507079",
       "internal_id": "60abac181ba89de55b666446c2f1c9936ee5fca73575928c09b998be4ba659db",
+      "publishedAtLabel": "Apr 17"
+    },
+    {
+      "id": 29096,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Dailymail.com",
+      "author": "Cassidy Morrison",
+      "title": "Most dangerous strain of mpox detected for the first time in major West Coast city",
+      "description": "The city has confirmed its first case of the more severe Clade I mpox in an unvaccinated adult, part of a quiet but concerning two-year rise in US cases that includes local transmission with no travel links.",
+      "url": "https://www.dailymail.com/health/article-15742335/strain-mpox-west-coast-San-Francisco-California-CDC.html",
+      "urlToImage": "https://i.dailymail.co.uk/1s/2026/04/17/16/107972177-0-image-m-15_1776438456879.jpg",
+      "publishedAt": "2026-04-17 21:02:43",
+      "content": "San Francisco has become the latest US city to confirm a case of the more dangerous strain of mpox, following a quiet yet concerning upward trend in the US over the past two years. The patient is an\u2026 [+4880 chars]",
+      "retrievedAt": "2026-04-21 07:40:25.304518",
+      "internal_id": "a0c7c836b488e0b736f0dc5c630613ad9f0d173878edc4de6d986797109744b7",
       "publishedAtLabel": "Apr 17"
     },
     {

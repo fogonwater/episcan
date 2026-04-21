@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 2
-- **Last harvest:** 2026-04-20 19:29
-- **Most recent article:** 2026-04-19 15:35:00
+- **New articles in last harvest:** 5
+- **Last harvest:** 2026-04-21 07:40
+- **Most recent article:** 2026-04-20 07:05:08
 
 ---
 
@@ -12,11 +12,11 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 0 | 284 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 1 | 184 |
+| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 1 | 285 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 2 | 185 |
 | dengue | 11 | 28 | 19 | 18 | 12 | 19 | 0 | 107 |
-| mpox | 16 | 12 | 4 | 19 | 9 | 15 | 1 | 76 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 1 | 76 |
+| mpox | 16 | 12 | 4 | 19 | 9 | 16 | 2 | 78 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 2 | 77 |
 | rabies | 15 | 7 | 5 | 26 | 8 | 3 | 0 | 64 |
 | chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 0 | 42 |
 | h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 0 | 33 |
@@ -35,13 +35,23 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (mpox)
 
+- [Ny virus-variant oppdaget i Danmark: - Kan dukke opp her](https://www.vg.no/nyheter/i/QJgzW8/ny-virus-variant-oppdaget-i-danmark-kan-dukke-opp-her) (Www.vg.no)
+
 - [Справки: Оспа обезьян (mpox): что это за болезнь, симптомы, как передается и как защититься](https://vz.ru/information/2026/4/19/1282496.html#text) (Vz.ru)
 
+## 26-17 (meningitis)
+
+- [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
+
 ## 26-17 (measles)
+
+- [Measles case confirmed in Maryland resident who recently traveled](https://www.wbaltv.com/article/maryland-measles-case-confirmed-bwi-airport-sinai-pediatric/71065391) (WBAL TV Baltimore)
 
 - [What did the measles outbreak data show? #health](https://alltoc.com/health/what-did-the-measles-outbreak-data-show) (Alltoc.com)
 
 ## 26-17 (malaria)
+
+- [Malaria cases climb sharply in Gauteng](https://www.capetownetc.com/health/malaria-cases-climb-sharply-in-gauteng/) (CapeTown ETC)
 
 - [Towards a malaria-free future](https://www.thehindubusinessline.com/specials/pulse/towards-a-malaria-free-future/article70870076.ece) (BusinessLine)
 
@@ -80,6 +90,8 @@ Source: [News API](https://newsapi.org/)
 - [Pertussis resurgence after the COVID-19 pandemic in four Western Pacific Countries and the USA, highlighting the 2025 outbreak in Japan](https://www.nature.com/articles/s41598-026-47780-4) (Nature.com)
 
 ## 26-16 (mpox)
+
+- [Most dangerous strain of mpox detected for the first time in major West Coast city](https://www.dailymail.com/health/article-15742335/strain-mpox-west-coast-San-Francisco-California-CDC.html) (Dailymail.com)
 
 - [Gana'da maymun çiçeği vaka sayısı bini geçti](https://anlatilaninotesi.com.tr/20260417/ganada-maymun-cicegi-vaka-sayisi-bini-gecti-1105092866.html) (Anlatilaninotesi.com.tr)
 
