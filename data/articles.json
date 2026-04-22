@@ -1,8 +1,206 @@
 {
-  "last_updated": "2026-04-22 07:39",
-  "count_articles_total": 905,
-  "count_articles_new": 9,
+  "last_updated": "2026-04-22 19:34",
+  "count_articles_total": 916,
+  "count_articles_new": 11,
   "articles": [
+    {
+      "id": 29128,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Muere una ni\u00f1a de cinco a\u00f1os en V\u00e9lez-M\u00e1laga con posible meningitis",
+      "description": "Una ni\u00f1a de cinco a\u00f1os ha muerto en el hospital comarcal de V\u00e9lez-M\u00e1laga por una posible meningitis, cuyo origen y tipo a\u00fan se est\u00e1 determinando, seg\u00fan fuentes sanitarias. Asimismo en cuanto se tuvo conocimiento del caso se activ\u00f3 el protocolo correspondiente\u2026",
+      "url": "https://www.abc.es/espana/andalucia/malaga/muere-nina-cinco-anos-velezmalaga-posible-meningitis-20260421185908-nts.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/04/21/materno-malaga-sur-U85256886060XBq-1200x630@diario_abc.jpg",
+      "publishedAt": "2026-04-21 16:59:29",
+      "content": "21/04/2026 a las 18:59h. Una ni\u00f1a de cinco a\u00f1os ha muerto en el hospital comarcal de V\u00e9lez-M\u00e1laga por una posible meningitis, cuyo origen y tipo a\u00fan se est\u00e1 determinando, seg\u00fan fuentes sanitarias. \u2026 [+726 chars]",
+      "retrievedAt": "2026-04-22 19:34:05.649339",
+      "internal_id": "3691cfb35e65cd5f1f375ab178a04a6fc6eaa781630d1f339289b3c015b9c339",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29127,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "el-mundo",
+      "source_name": "El Mundo",
+      "author": "Europa Press | Efe",
+      "title": "Muere una ni\u00f1a en M\u00e1laga debido a una posible meningitis",
+      "description": "Una ni\u00f1a residente en el municipio malague\u00f1o de V\u00e9lez-M\u00e1laga ha fallecido debido a una posible meningitis, cuyo origen y tipo a\u00fan se est\u00e1 determinando, seg\u00fan han confirmado...",
+      "url": "https://www.elmundo.es/ciencia-y-salud/salud/2026/04/21/69e7a3dbe4d4d8103c8b45d2.html",
+      "urlToImage": "https://e01-phantom-elmundo.uecdn.es/153e678c200388c10e80212efbc6ba29/crop/0x31/680x484/f/webp/assets/multimedia/imagenes/2026/04/21/17767882991435.png",
+      "publishedAt": "2026-04-21 16:25:00",
+      "content": "Una ni\u00f1a residente en el municipio malague\u00f1o de V\u00e9lez-M\u00e1laga ha fallecido debido a una posible meningitis, cuyo origen y tipo a\u00fan se est\u00e1 determinando, seg\u00fan han confirmado a Europa Press fuentes san\u2026 [+857 chars]",
+      "retrievedAt": "2026-04-22 19:34:05.600118",
+      "internal_id": "2c117d0a71bd720c1680908039d9c3dfc174bd9b239d81e5efbc6b2b4820eaf8",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29125,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Dailymail.com",
+      "author": "Emily Joshu Sterne",
+      "title": "Thousands exposed to measles after American with confirmed case traveled through major airport",
+      "description": "Thousands of travelers at a major East Coast airport may have been exposed to measles, health officials warn. The exposure comes amid a new outbreak of measles that is sweeping the nation.",
+      "url": "https://www.dailymail.com/health/article-15752257/measles-earning-airport-baltimore-outbreak.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/04/21/16/108048711-0-image-a-6_1776784377106.jpg",
+      "publishedAt": "2026-04-21 15:52:19",
+      "content": "Thousands of travelers at a major East Coast airport may have been exposed to measles, health officials warn. The Maryland Department of Health said this week that a case of measles has been confir\u2026 [+4512 chars]",
+      "retrievedAt": "2026-04-22 19:34:04.788254",
+      "internal_id": "91a11ec5601001cf02810f062f3ce1d110478dfdf2674bbbb86d49a7c9d10ef9",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29130,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Nigeria extends malaria vaccine rollout to more states",
+      "description": "Nigeria is expanding its malaria vaccine program to combat high malaria rates, facing challenges with funding and a complex four-dose schedule. Read More: https://punchng.com/nigeria-extends-malaria-vaccine-rollout-to-more-states/",
+      "url": "https://punchng.com/nigeria-extends-malaria-vaccine-rollout-to-more-states/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2023/12/21184334/n.png",
+      "publishedAt": "2026-04-21 15:24:57",
+      "content": "Nigeria is expanding its malaria vaccination programme to additional states in a renewed push to reduce the countrys high malaria burden, even as declining donor support and rising costs place pressu\u2026 [+3993 chars]",
+      "retrievedAt": "2026-04-22 19:34:06.052217",
+      "internal_id": "2338548fe3b060ba5c66857efd92f11308ccfa1e11c8fffc9a8e9865d6d02f8e",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29129,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": "Europa Press Andaluc\u00eda",
+      "title": "Fallece una ni\u00f1a en M\u00e1laga por meningitis",
+      "description": "Una ni\u00f1a residente en el municipio malague\u00f1o de V\u00e9lez-M\u00e1laga ha fallecido debido a una posible meningitis, cuyo origen y tipo a\u00fan se est\u00e1 determinando, seg\u00fan han confirmado a Europa Press fuentes sanitarias.",
+      "url": "https://www.europapress.es/andalucia/malaga-00356/noticia-fallece-nina-malaga-meningitis-20260421163943.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260421163943_1200.jpg",
+      "publishedAt": "2026-04-21 14:39:43",
+      "content": "M\u00c1LAGA 21 Abr. (EUROPA PRESS) - Una ni\u00f1a residente en el municipio malague\u00f1o de V\u00e9lez-M\u00e1laga ha fallecido debido a una posible meningitis, cuyo origen y tipo a\u00fan se est\u00e1 determinando, seg\u00fan han co\u2026 [+506 chars]",
+      "retrievedAt": "2026-04-22 19:34:05.662348",
+      "internal_id": "2f14cfe7a72595f4d725aadcf136ed9c3b663ddb5aa41006697a9f1759e59cca",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29126,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Global Virus Network",
+      "title": "Global Virus Network on Measles Resurgence",
+      "description": "Measles is resurging at a scale not seen in decades....",
+      "url": "https://www.globenewswire.com/news-release/2026/04/21/3278162/0/en/Global-Virus-Network-on-Measles-Resurgence.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6c1b2724-7b9b-469a-a7c3-bc0a64d716ae",
+      "publishedAt": "2026-04-21 14:30:00",
+      "content": "TAMPA, Fla., April 21, 2026 (GLOBE NEWSWIRE) -- The Global Virus Network (GVN), representing eminent human and animal virologists from more than 90 Centers of Excellence and Affiliates in over 40 cou\u2026 [+5667 chars]",
+      "retrievedAt": "2026-04-22 19:34:04.822788",
+      "internal_id": "4473fb32b9746682b157d667ce80a0dbd6b16b93b71f40cc4e65208a67088c0e",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29131,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "S\u00fcddeutsche Zeitung",
+      "author": "Von Berit Uhlmann",
+      "title": "\u00d6ffentliche Gesundheit: Dieses Haus ...",
+      "description": "... kann Kinder vor Krankheiten wie Malaria und Durchfall bewahren. Manchmal zieht es, oder regnet hinein. Doch eine aktuelle Studie zeigt, dass es sich bew\u00e4hrt.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/gesundheit/tansania-infektionsschutz-haus-e150017/",
+      "urlToImage": "https://www.sueddeutsche.de/projekte/artikel/gesundheit/tansania-infektionsschutz-haus-e150017/884ab241f8cade042a8af14802540d54e0b3fc6f8592e57d485eee1bf8090eb0_w2400_h1256_r28,0,2000,1047_q70.jpg",
+      "publishedAt": "2026-04-21 13:58:00",
+      "content": "Anfangs waren nicht wenige der Dorfbewohner misstrauisch, als man ihnen eines dieser neuen H\u00e4user zugelost hatte. Sie sollten nun in einem Geb\u00e4ude wohnen, das sich deutlich von den traditionellen Leh\u2026 [+199 chars]",
+      "retrievedAt": "2026-04-22 19:34:06.099163",
+      "internal_id": "d71c25515440f481e2582415b8168c4346588d08db9d1c64aa6525397d473e82",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29124,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Memeorandum.com",
+      "author": null,
+      "title": "When Your Child Dies of Measles (Rebecca Archer/New York Times)",
+      "description": "Rebecca Archer / New York Times: When Your Child Dies of Measles \u2014 When my daughter Renae, my firstborn, was 5 months old she spiked a fever. By that evening, she was having trouble breathing \u2014 the color was gone from her face and I could see her skin tugg\u2026",
+      "url": "https://www.memeorandum.com/260421/p31",
+      "urlToImage": "https://static01.nyt.com/images/2026/04/26/multimedia/26Archer-clgp/00Archer-clgp-facebookJumbo.jpg",
+      "publishedAt": "2026-04-21 12:45:00",
+      "content": "memeorandum is an auto-generated summary of the stories that US political commentators are discussing online right now. Unlike sister sites Techmeme and Mediagazer, it is not a human-edited news out\u2026 [+72 chars]",
+      "retrievedAt": "2026-04-22 19:34:04.765427",
+      "internal_id": "0cd9f0089ac4e03482987ec509d31f96e1c48c407de61a2c62fc7722fa73539b",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29133,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "SNS Insider pvt ltd",
+      "title": "Zika Virus Testing Market Set to Surpass USD 480 Million by 2035 \u2013 SNS Insider",
+      "description": "Rising Demand for Prenatal Screening and advanced molecular diagnostics Fuel a Steady 7.28% CAGR Growth Rising Demand for Prenatal Screening and advanced molecular diagnostics Fuel a Steady 7.28% CAGR Growth",
+      "url": "https://www.globenewswire.com/news-release/2026/04/21/3277812/0/en/Zika-Virus-Testing-Market-Set-to-Surpass-USD-480-Million-by-2035-SNS-Insider.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "publishedAt": "2026-04-21 11:37:00",
+      "content": "Austin, United States, April 21, 2026 (GLOBE NEWSWIRE) -- According to SNS Insider, The Zika Virus Testing Market size is valued at USD 239.91 Million in 2025 and is projected to reach USD 480.44 Mil\u2026 [+8818 chars]",
+      "retrievedAt": "2026-04-22 19:34:06.272962",
+      "internal_id": "c939086729ce4ee9cdd7b6637a31e2f47366f616cab6b805a99fac1029791aaa",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29132,
+      "query": [
+        "zika"
+      ],
+      "source_id": null,
+      "source_name": "Terra.com.br",
+      "author": "Estad\u00e3o Conte\u00fado",
+      "title": "Fam\u00edlias atingidas pelo Zika recebem indeniza\u00e7\u00f5es",
+      "description": "Mais de 3 mil crian\u00e7as foram afetadas pela epidemia do v\u00edrus e metade vive atualmente com microcefalia, defici\u00eancias m\u00faltiplas e necessidades de suportes permanentes. Associa\u00e7\u00f5es confirmam pagamentos e INSS diz que processos devem ser conclu\u00eddos nos pr\u00f3ximos \u2026",
+      "url": "https://www.terra.com.br/nos/familias-atingidas-pelo-zika-recebem-indenizacoes,e3898bc15120cf0ef7517e33246ccd5ejrxam3w4.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/21/1660573906-57onv66yivomtffh373apcrdz4.jpg",
+      "publishedAt": "2026-04-21 10:32:50",
+      "content": "-- Crian\u00e7as que nasceram com a S\u00edndrome Cong\u00eanita associada \u00e0 infe\u00e7\u00e3o pelo v\u00edrus Zika (SCZ) devem receber at\u00e9 maio as indeniza\u00e7\u00f5es de R$ 50 mil previstas na Lei n\u00ba 15.156, de 1\u00ba de julho de 2025, re\u2026 [+3251 chars]",
+      "retrievedAt": "2026-04-22 19:34:06.259978",
+      "internal_id": "d0b4abeb1728e9348f96c4e1cb4c2f5b122567f94eb3650db9c6aa740c4ace39",
+      "publishedAtLabel": "Apr 21"
+    },
+    {
+      "id": 29123,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Zoso.ro",
+      "author": "vali",
+      "title": "4 rapide: vaccin, Qatar, bicle, vitez\u0103",
+      "description": "A l\u0103sa idio\u021bii s\u0103 se organizeze duce aici: Romania is facing the worst measles crisis in the EU. The country has had four epidemics of the illness since 2005, each separated by only a few years of fragile calm. About 87% of all measles cases in the EU were re\u2026",
+      "url": "https://zoso.ro/3-rapide/",
+      "urlToImage": "https://zoso.ro/img/2026/04/parcare-hornbach.jpg",
+      "publishedAt": "2026-04-21 08:52:29",
+      "content": "A lsa idioii s se organizeze duce aici: Romania is facing the worst measles crisis in the EU. The country has had four epidemics of the illness since 2005, each separated by only a few years of frag\u2026 [+237 chars]",
+      "retrievedAt": "2026-04-22 19:34:04.745154",
+      "internal_id": "3a141fa4cc1863ef015922a2f2a9f55945836af7258908944ffe47a157089525",
+      "publishedAtLabel": "Apr 21"
+    },
     {
       "id": 29116,
       "query": [

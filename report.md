@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-04-22 07:39
-- **Most recent article:** 2026-04-21 06:56:40
+- **New articles in last harvest:** 11
+- **Last harvest:** 2026-04-22 19:34
+- **Most recent article:** 2026-04-21 16:59:29
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 4 | 288 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 9 | 192 |
+| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 7 | 291 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 13 | 196 |
 | dengue | 11 | 28 | 19 | 18 | 12 | 19 | 7 | 114 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 7 | 82 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 9 | 84 |
 | mpox | 16 | 12 | 4 | 19 | 9 | 16 | 2 | 78 |
 | rabies | 15 | 7 | 5 | 26 | 8 | 3 | 1 | 65 |
 | chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 2 | 44 |
 | h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 0 | 33 |
-| zika | 2 | 4 | 1 | 15 | 1 | 4 | 0 | 27 |
+| zika | 2 | 4 | 1 | 15 | 1 | 4 | 2 | 29 |
 | hpai | 5 | 2 | 6 | 2 | 2 | 1 | 0 | 18 |
 | leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 0 | 7 |
 | yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 3 | 6 |
@@ -32,6 +32,12 @@ By US epiweek (i.e. Sunday to Saturday)
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-17 (zika)
+
+- [Zika Virus Testing Market Set to Surpass USD 480 Million by 2035 – SNS Insider](https://www.globenewswire.com/news-release/2026/04/21/3277812/0/en/Zika-Virus-Testing-Market-Set-to-Surpass-USD-480-Million-by-2035-SNS-Insider.html) (GlobeNewswire)
+
+- [Famílias atingidas pelo Zika recebem indenizações](https://www.terra.com.br/nos/familias-atingidas-pelo-zika-recebem-indenizacoes,e3898bc15120cf0ef7517e33246ccd5ejrxam3w4.html) (Terra.com.br)
 
 ## 26-17 (yersinia)
 
@@ -53,6 +59,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (meningitis)
 
+- [Muere una niña de cinco años en Vélez-Málaga con posible meningitis](https://www.abc.es/espana/andalucia/malaga/muere-nina-cinco-anos-velezmalaga-posible-meningitis-20260421185908-nts.html) (Www.abc.es)
+
+- [Muere una niña en Málaga debido a una posible meningitis](https://www.elmundo.es/ciencia-y-salud/salud/2026/04/21/69e7a3dbe4d4d8103c8b45d2.html) (El Mundo)
+
+- [Fallece una niña en Málaga por meningitis](https://www.europapress.es/andalucia/malaga-00356/noticia-fallece-nina-malaga-meningitis-20260421163943.html) (Europapress.es)
+
 - [Health workers alert Jigawa residents to Lassa fever, meningitis outbreak](https://punchng.com/health-workers-alert-jigawa-residents-to-lassa-fever-meningitis-outbreak/) (The Punch)
 
 - [Cerca de 69.000 murcianos se vacunan de nuevo frente al neumococo para protegerse de neumonías, sepsis o meningitis](https://www.europapress.es/murcia/noticia-cerca-69000-murcianos-vacunan-nuevo-frente-neumococo-protegerse-neumonias-sepsis-meningitis-20260420123624.html) (Europapress.es)
@@ -62,6 +74,14 @@ Source: [News API](https://newsapi.org/)
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [Thousands exposed to measles after American with confirmed case traveled through major airport](https://www.dailymail.com/health/article-15752257/measles-earning-airport-baltimore-outbreak.html) (Dailymail.com)
+
+- [Global Virus Network on Measles Resurgence](https://www.globenewswire.com/news-release/2026/04/21/3278162/0/en/Global-Virus-Network-on-Measles-Resurgence.html) (GlobeNewswire)
+
+- [When Your Child Dies of Measles (Rebecca Archer/New York Times)](https://www.memeorandum.com/260421/p31) (Memeorandum.com)
+
+- [4 rapide: vaccin, Qatar, bicle, viteză](https://zoso.ro/3-rapide/) (Zoso.ro)
 
 - [EKH on alert for measles; schools AWCs told to report fever-rash cases](https://www.syllad.com/ekh-on-alert-for-measles-schools-awcs-told-to-report-fever-rash-cases/) (Syllad.com)
 
@@ -82,6 +102,10 @@ Source: [News API](https://newsapi.org/)
 - [What did the measles outbreak data show? #health](https://alltoc.com/health/what-did-the-measles-outbreak-data-show) (Alltoc.com)
 
 ## 26-17 (malaria)
+
+- [Nigeria extends malaria vaccine rollout to more states](https://punchng.com/nigeria-extends-malaria-vaccine-rollout-to-more-states/) (The Punch)
+
+- [Öffentliche Gesundheit: Dieses Haus ...](https://www.sueddeutsche.de/projekte/artikel/gesundheit/tansania-infektionsschutz-haus-e150017/) (Süddeutsche Zeitung)
 
 - [emodpy-malaria 5.1.3](https://pypi.org/project/emodpy-malaria/5.1.3/) (Pypi.org)
 
