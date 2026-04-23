@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2026-04-23 07:41
-- **Most recent article:** 2026-04-22 06:49:41
+- **New articles in last harvest:** 16
+- **Last harvest:** 2026-04-23 19:34
+- **Most recent article:** 2026-04-22 18:22:34
 
 ---
 
@@ -13,18 +13,18 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 7 | 291 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 17 | 200 |
-| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 10 | 117 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 12 | 87 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 25 | 208 |
+| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 11 | 118 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 16 | 91 |
 | mpox | 16 | 12 | 4 | 19 | 9 | 16 | 2 | 78 |
-| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 1 | 65 |
+| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 2 | 66 |
 | chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 2 | 44 |
-| h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 3 | 36 |
+| h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 4 | 37 |
 | zika | 2 | 4 | 1 | 15 | 1 | 4 | 3 | 30 |
 | hpai | 5 | 2 | 6 | 2 | 2 | 1 | 0 | 18 |
 | leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 1 | 8 |
+| pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 2 | 6 |
 | yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 3 | 6 |
-| pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 1 | 5 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 3 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
 
@@ -51,9 +51,13 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (rabies)
 
+- [Presumptive case of rabies identified near St. Stephen, testing underway](https://www.cbc.ca/news/canada/new-brunswick/rabies-case-st-stephen-testing-raccoon-9.7173161) (CBC News)
+
 - [Health and economic burden of canine rabies in Chilga district, centeral Gondar Zone, Amhara Region, Ethiopia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014196) (Plos.org)
 
 ## 26-17 (pertussis)
+
+- [Modeling neonatal immune response to B. pertussis identifies early B cell activation and differentiation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014163) (Plos.org)
 
 - [Released palmitic acid–mediated TLR4/NF-κB activation enhances the virulence of Bordetella pertussis MT28 lineage](https://www.nature.com/articles/s41467-026-72213-1) (Nature.com)
 
@@ -80,6 +84,22 @@ Source: [News API](https://newsapi.org/)
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [How contagious is measles in outbreaks? #health](https://alltoc.com/health/how-contagious-is-measles-in-outbreaks) (Alltoc.com)
+
+- [What happened in RFK Jr. measles hearings? #health](https://alltoc.com/health/what-happened-in-rfk-jr-measles-hearings) (Alltoc.com)
+
+- [Spatio–temporal modelling of in vitro influenza A virus infection: The impact of defective interfering particles on the type I interferon response](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014198) (Plos.org)
+
+- [America isn’t prepared for what comes after the measles crisis](https://www.salon.com/2026/04/22/america-isnt-prepared-for-what-comes-after-the-measles-crisis/) (Salon)
+
+- [Measles and whooping cough outbreaks linked to drop in childhood vaccinations, health chief says](https://www.irishtimes.com/politics/oireachtas/2026/04/22/measles-and-whooping-cough-outbreaks-linked-to-drop-in-childhood-vaccinations-health-chief-says/) (The Irish Times)
+
+- [How contagious is measles? #health](https://alltoc.com/health/how-contagious-is-measles) (Alltoc.com)
+
+- [Utah measles outbreak vaccination gap #health](https://alltoc.com/health/utah-measles-outbreak-vaccination-gap) (Alltoc.com)
+
+- [RFK Jr. Defends Vaccine Policies, Handling of Measles Outbreak](https://www.today.com/video/rfk-jr-takes-no-responsibility-for-measles-outbreak-in-hearing-261871685582) (TODAY)
 
 - [RFK Jr. Brazenly Says Measles Outbreaks Not His Fault: 'I've Never Been Anti-Vaccine' (Jennifer Bendery/HuffPost)](https://www.memeorandum.com/260421/p140) (Memeorandum.com)
 
@@ -117,7 +137,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (malaria)
 
+- [La malaria determinó la distribución de las primeras poblaciones humanas](https://www.elperiodico.com/es/ciencia/20260422/malaria-determino-distribucion-primeras-poblaciones-humanas-129414408) (Elperiodico.com)
+
+- [Digital transformation of campaign delivery: a mixed-methods costing and efficiency analysis from Mozambique's seasonal malaria chemoprevention programme](https://researchonline.lse.ac.uk/id/eprint/138138/) (Lse.ac.uk)
+
+- [Científicos españoles descubren una nueva especie de Babesia, B.hegotelforum, gracias a la caracterización del locus del factor de elongación 1 alfa](https://www.meneame.net/m/Infectologia/cientificos-espanoles-descubren-nueva-especie-babesia-b-gracias) (Meneame.net)
+
 - [AI hunt identifies malaria genes for deadly cases #science](https://alltoc.com/science/ai-hunt-identifies-malaria-genes-for-deadly-cases) (Alltoc.com)
+
+- [Daily briefing: Big G is more mysterious than ever](https://www.nature.com/articles/d41586-026-01347-5) (Nature.com)
 
 - [Afrika: Impfstoffallianz meldet Erfolg im Kampf gegen Malaria](https://www.zeit.de/gesundheit/2026-04/malaria-impfung-afrika-erfolge-gavi) (Die Zeit)
 
@@ -147,6 +175,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (h5n1)
 
+- [Bird flu vaccine trial starts H5N1 #health](https://alltoc.com/health/bird-flu-vaccine-trial-starts-h5n1) (Alltoc.com)
+
 - [First bird flu mRNA vaccine enters late-stage trial](https://timesofindia.indiatimes.com/etimes/wellness/first-bird-flu-mrna-vaccine-enters-late-stage-trial/articleshow/130433005.cms) (The Times of India)
 
 - [Bird flu H5N1 vaccine trial begins #health](https://alltoc.com/health/bird-flu-h5n1-vaccine-trial-begins) (Alltoc.com)
@@ -154,6 +184,8 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu vaccine trial against potential pandemic strain begins](https://www.bbc.com/news/articles/cy41z0yj8mjo) (BBC News)
 
 ## 26-17 (dengue)
+
+- [Caso di Dengue a Scandicci, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2026/04/22/caso-di-dengue-a-scandicci-sindaco-ordina-disinfestazione_cd3006df-f8e2-4235-ac78-8584f0dd32e4.html) (ANSA.it)
 
 - [Sommerhitze: Klimawandel beeinträchtigt zunehmend die Gesundheit](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/klimawandel-beeintraechtigt-zunehmend-menschliche-gesundheit-accg-200755825.html) (Faz.net)
 

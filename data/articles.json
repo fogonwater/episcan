@@ -1,8 +1,278 @@
 {
-  "last_updated": "2026-04-23 07:41",
-  "count_articles_total": 931,
-  "count_articles_new": 15,
+  "last_updated": "2026-04-23 19:34",
+  "count_articles_total": 947,
+  "count_articles_new": 16,
   "articles": [
+    {
+      "id": 29164,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "EFE",
+      "title": "La malaria determin\u00f3 la distribuci\u00f3n de las primeras poblaciones humanas",
+      "description": "El clima se ha considerado a menudo como el principal factor determinante de la distribuci\u00f3n de los primeros humanos en \u00c1frica, pero estudios gen\u00e9ticos y arqueol\u00f3gicos tambi\u00e9n apuntan a que las enfermedades, en concreto la malaria, fueron fuerzas selectivas c\u2026",
+      "url": "https://www.elperiodico.com/es/ciencia/20260422/malaria-determino-distribucion-primeras-poblaciones-humanas-129414408",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/20947aca-e640-4968-82c8-b4721a24703f_16-9-discover-aspect-ratio_default_0_x900y800.jpg",
+      "publishedAt": "2026-04-22 18:22:34",
+      "content": "El clima se ha considerado a menudo como el principal factor determinante de la distribuci\u00f3n de los primeros humanos en \u00c1frica, pero estudios gen\u00e9ticos y arqueol\u00f3gicos tambi\u00e9n apuntan a que las enfer\u2026 [+2722 chars]",
+      "retrievedAt": "2026-04-23 19:34:41.036639",
+      "internal_id": "8896be994a157c06050af53af53a329816176678cc1cd0aeee8ee7aafc1a5b41",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29152,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How contagious is measles in outbreaks? #health",
+      "description": "Measles spread and why vaccination matters Measles is among the most contagious infectious diseases. In the Utah outbreak referenced in the stories, health experts emphasized that a key protection factor is whether people have been vaccinated against measles,\u2026",
+      "url": "https://alltoc.com/health/how-contagious-is-measles-in-outbreaks",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-22 18:03:14",
+      "content": "Measles is among the most contagious infectious diseases. In the Utah outbreak referenced in the stories, health experts emphasized that a key protection factor is whether people have been vaccinated\u2026 [+1541 chars]",
+      "retrievedAt": "2026-04-23 19:34:39.544615",
+      "internal_id": "8c07ed26d543ba8d1032ede2312c03eea88e7c2453ba6e4b83d2dc2e4cfac7c0",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29154,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What happened in RFK Jr. measles hearings? #health",
+      "description": "RFK Jr. faced intense vaccine and outbreak scrutiny Robert F. Kennedy Jr., the U.S. Health and Human Services Secretary, appeared in multiple congressional hearings that zeroed in on measles and broader vaccine policy. In coverage tied to the Senate HELP comm\u2026",
+      "url": "https://alltoc.com/health/what-happened-in-rfk-jr-measles-hearings",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-22 18:03:14",
+      "content": "Robert F. Kennedy Jr., the U.S. Health and Human Services Secretary, appeared in multiple congressional hearings that zeroed in on measles and broader vaccine policy. In coverage tied to the Senate H\u2026 [+1841 chars]",
+      "retrievedAt": "2026-04-23 19:34:39.563215",
+      "internal_id": "c80bcf512235b908af9163c2c06f8cb59e15e368cb6d5a717b0d31078169d3fd",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29150,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Presumptive case of rabies identified near St. Stephen, testing underway",
+      "description": "According to a statement from the Department of Agriculture, Aquaculture and Fisheries, the New Brunswick Provincial Veterinary Laboratory identified a presumptive positive case of rabies in a raccoon in Little Ridge, just northwest of St. Stephen, and testin\u2026",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/rabies-case-st-stephen-testing-raccoon-9.7173161",
+      "urlToImage": "https://i.cbc.ca/ais/1c2c1589-48a9-4811-91c2-a0fbdc7d30f6,1776870646093/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C19%2C1000%2C562%29%3BResize%3D620",
+      "publishedAt": "2026-04-22 17:29:35",
+      "content": "A presumptive positive case of rabies has been identified near St. Stephen. According to a statement from the Department of Agriculture, Aquaculture and Fisheries, the New Brunswick Provincial Veter\u2026 [+3259 chars]",
+      "retrievedAt": "2026-04-23 19:34:38.997497",
+      "internal_id": "94f2a468c29cb140a6fa4eeec776f4fcd3f823b220f420e38d67103187caaaa1",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29163,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Lse.ac.uk",
+      "author": null,
+      "title": "Digital transformation of campaign delivery: a mixed-methods costing and efficiency analysis from Mozambique's seasonal malaria chemoprevention programme",
+      "description": "Simmons, B. ORCID logo , Canana, N., Pulido Tarquino, I. A., Covele, A., Mussa, A., Pedro, C., Rassi, C., Bunce, L. & Conteh, L. ORCID logo (2026). Digital transformation of campaign delivery: a mixed-methods costing and efficiency analysis from Mozambique's \u2026",
+      "url": "https://researchonline.lse.ac.uk/id/eprint/138138/",
+      "urlToImage": null,
+      "publishedAt": "2026-04-22 14:49:01",
+      "content": "Summary Background Digital tools can improve the efficiency and effectiveness of large-scale health campaigns, yet evidence on their economic value remains limited. Mozambique introduced a digital pl\u2026 [+1746 chars]",
+      "retrievedAt": "2026-04-23 19:34:41.018472",
+      "internal_id": "0d2f64da511bfac312c90d0058da67b29b1370cb3ff9978e74cbbaccd3c77c09",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29160,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "ansa",
+      "source_name": "ANSA.it",
+      "author": null,
+      "title": "Caso di Dengue a Scandicci, sindaco ordina disinfestazione",
+      "description": "Un caso di dengue importato \u00e8 stato segnalato all'Igiene Pubblica della zona fiorentina nord ovest a seguito del soggiorno all'estero di una donna residente a Scandicci (Firenze), ora ricoverata all'ospedale fiorentino di Careggi in buone condizioni cliniche.\u2026",
+      "url": "https://www.ansa.it/toscana/notizie/2026/04/22/caso-di-dengue-a-scandicci-sindaco-ordina-disinfestazione_cd3006df-f8e2-4235-ac78-8584f0dd32e4.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_1129x635/2025/2/19/67cd3d3bf2ca0d77933b611a5daef871.jpg",
+      "publishedAt": "2026-04-22 14:20:36",
+      "content": "Se hai scelto di non accettare i cookie di profilazione e tracciamento, puoi aderire all\u2019abbonamento \"Consentless\" a un costo molto accessibile, oppure scegliere un altro abbonamento per accedere ad \u2026 [+320 chars]",
+      "retrievedAt": "2026-04-23 19:34:40.384638",
+      "internal_id": "19238518796b026ce3b3dbe7e4a48f76afaeb15456c450516b49e3b8a7c783ed",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29149,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Soraya Matczak, Mirko Sadi, Pauline Leroux, Pauline Lab\u00e9, Val\u00e9rie Bouchez, Sandrine Schmutz, Valentina Libri, Val\u00e9rie Seffer, Sophie Novault, Stevenn Volant, Sylvain Brisse, Milena Hasan, Darragh Duffy, Pierre Tonnerre, Julie Toubiana",
+      "title": "Modeling neonatal immune response to B. pertussis identifies early B cell activation and differentiation",
+      "description": "Author summary Pertussis disease is mainly caused by the infection of the respiratory tract by the Gram-negative bacterium Bordetella pertussis. Despite global vaccination efforts, pertussis outbreaks continue to threaten neonates and young infants who face t\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014163",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014163.g007&size=inline",
+      "publishedAt": "2026-04-22 14:00:00",
+      "content": "Citation: Matczak S, Sadi M, Leroux P, Lab\u00e9 P, Bouchez V, Schmutz S, et al. (2026) Modeling neonatal immune response to B. pertussis identifies early B cell activation and differentiation. PLoS Patho\u2026 [+51388 chars]",
+      "retrievedAt": "2026-04-23 19:34:38.728577",
+      "internal_id": "5f4a30cff5e296c887c3381a161ec7727a7866265b1f9c5a627be442044e0d83",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29158,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Yimei Li, Bjarke Frost Nielsen, Simon A. Levin, Aartjan J.W. te Velthuis, Bryan T. Grenfell",
+      "title": "Spatio\u2013temporal modelling of in vitro influenza A virus infection: The impact of defective interfering particles on the type I interferon response",
+      "description": "Author summary Viruses such as influenza A virus, measles virus, and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) often produce defective copies of their genomes during replication. These defective genomes cannot spread on their own without st\u2026",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014198",
+      "urlToImage": "https://journals.plos.org/ploscompbiol/article/figure/image?id=10.1371/journal.pcbi.1014198.g006&size=inline",
+      "publishedAt": "2026-04-22 14:00:00",
+      "content": "Abstract Defective interfering particles (DIPs) are incomplete viral genomes that modulate infection by competing with wildtype viruses and activating the innate immune response. Activation of the i\u2026 [+70508 chars]",
+      "retrievedAt": "2026-04-23 19:34:39.667226",
+      "internal_id": "5af1f177bb1dd8209f2babf0534fd6d88abf41868abdc4946af8b9880e1018b7",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29151,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Salon",
+      "author": "Howard Dean",
+      "title": "America isn\u2019t prepared for what comes after the measles crisis",
+      "description": "The HHS secretary's congressional testimony underscores that the nation is unprepared for disease outbreaks",
+      "url": "https://www.salon.com/2026/04/22/america-isnt-prepared-for-what-comes-after-the-measles-crisis/",
+      "urlToImage": "https://www.salon.com/app/uploads/2026/04/Robert-F.-Kennedy-Jr.-2271892087.jpg",
+      "publishedAt": "2026-04-22 13:00:21",
+      "content": "In the first three months of 2026, America logged roughly 1,600 measles cases nearly as many as the total number for all of 2025, which was by far the worst year weve seen for the highly infectious \u2026 [+6102 chars]",
+      "retrievedAt": "2026-04-23 19:34:39.475251",
+      "internal_id": "ccd2aa7003f936229945f516535e116192aa6f553535e13499564056e04653f2",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29157,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": "Shauna Bowers",
+      "title": "Measles and whooping cough outbreaks linked to drop in childhood vaccinations, health chief says",
+      "description": "Reasons for decline are \u2018manifold and complex\u2019 and may include lack of understanding of how serious infectious diseases can be, health committee told",
+      "url": "https://www.irishtimes.com/politics/oireachtas/2026/04/22/measles-and-whooping-cough-outbreaks-linked-to-drop-in-childhood-vaccinations-health-chief-says/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/L5HL2H2KJFA4XNENQLVRCYBQG4.jpg?smart=true&auth=39d30c4aeca4a073ac63d6f65cfd2918f656d7a2d0c95bded96065a0c542da95&width=1200&height=630",
+      "publishedAt": "2026-04-22 12:23:38",
+      "content": "The outbreaks of measles and whooping cough in recent years were due to a continued decline in uptake of childhood vaccinations, a senior health official has said. Dr Colm Henry, chief clinical offi\u2026 [+3131 chars]",
+      "retrievedAt": "2026-04-23 19:34:39.657539",
+      "internal_id": "d9477f0b2bd3f5d4b1cb3c4005ae81ace410c1cacc52dba785216d5a4884cccc",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29153,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How contagious is measles? #health",
+      "description": "How measles spreads and why it\u2019s so contagious Measles is widely described in the stories as a virus that spreads extremely effectively\u2014so effectively that outbreaks can surge once community immunity drops. One report frames the Utah outbreak as part of a bro\u2026",
+      "url": "https://alltoc.com/health/how-contagious-is-measles",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-22 12:03:11",
+      "content": "Measles is widely described in the stories as a virus that spreads extremely effectivelyso effectively that outbreaks can surge once community immunity drops. One report frames the Utah outbreak as \u2026 [+1558 chars]",
+      "retrievedAt": "2026-04-23 19:34:39.554102",
+      "internal_id": "49124d43d85b886935fb64ce462633373d01ea5da19e156770fba79c7cb10c8b",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29156,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Utah measles outbreak vaccination gap #health",
+      "description": "Utah measles outbreak: what\u2019s driving it Utah has reported more than 600 measles cases as the outbreak spreads across the U.S., with public health data showing that most people infected were not vaccinated. The coverage indicates that about 85% of those infec\u2026",
+      "url": "https://alltoc.com/health/utah-measles-outbreak-vaccination-gap",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-22 12:03:11",
+      "content": "Utah has reported more than 600 measles cases as the outbreak spreads across the U.S., with public-health data showing that most people infected were not vaccinated. The coverage indicates that abou\u2026 [+1649 chars]",
+      "retrievedAt": "2026-04-23 19:34:39.589656",
+      "internal_id": "4e628a6627118181edbf2e0bc9efcbef27dfff11346ce94220689147aa4f2f0f",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29159,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Bird flu vaccine trial starts H5N1 #health",
+      "description": "Bird flu vaccine trial against H5N1 begins A bird flu vaccine trial has begun targeting H5N1 , the influenza strain that has caused widespread illness in bird populations and is a concern for pandemic readiness. The story describes the vaccine as aimed at a p\u2026",
+      "url": "https://alltoc.com/health/bird-flu-vaccine-trial-starts-h5n1",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-22 12:03:11",
+      "content": "A bird flu vaccine trial has begun targeting H5N1, the influenza strain that has caused widespread illness in bird populations and is a concern for pandemic readiness. The story describes the vaccin\u2026 [+1415 chars]",
+      "retrievedAt": "2026-04-23 19:34:40.024620",
+      "internal_id": "fd5cdc15a8ff05b21113b8245bd553ee60a8172dec9ae1feafc5420af4ef12c4",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29155,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "TODAY",
+      "author": "TODAY",
+      "title": "RFK Jr. Defends Vaccine Policies, Handling of Measles Outbreak",
+      "description": "At a hearing about the health department\u2019s budget, Health and Human Services Secretary Robert F. Kennedy Jr. faced intense questioning about his vaccine skepticism and the nation\u2019s worst measles outbreak in decades. NBC\u2019s Anne Thompson reports for TODAY.",
+      "url": "https://www.today.com/video/rfk-jr-takes-no-responsibility-for-measles-outbreak-in-hearing-261871685582",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/mpx/2704722219/2026_04/1776857791265_tdy_news_7a_thompson_rfk_jr_260422_S3_1920x1080-cetkd6.jpg",
+      "publishedAt": "2026-04-22 11:36:38",
+      "content": "At a hearing about the health departments budget, Health and Human Services Secretary Robert F. Kennedy Jr. faced intense questioning about his vaccine skepticism and the nations worst measles outbre\u2026 [+65 chars]",
+      "retrievedAt": "2026-04-23 19:34:39.572405",
+      "internal_id": "24afc2717383aa64b903d46f8f8575e276c64b53592e1362349c646621b50ef6",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29162,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Meneame.net",
+      "author": "Leclercia_adecarboxylata",
+      "title": "Cient\u00edficos espa\u00f1oles descubren una nueva especie de Babesia, B.hegotelforum, gracias a la caracterizaci\u00f3n del locus del factor de elongaci\u00f3n 1 alfa",
+      "description": "Babesia sp. es la causante de la infecci\u00f3n zoon\u00f3tica babesiosis, una parasitosis transmitida por garrapatas similar a la malaria que se extiende en Europa y Estados Unidos y cuya especie m\u00e1s importante es Babesia divergens. Un equipo del CNM-ISCIII ha revelad\u2026",
+      "url": "https://www.meneame.net/m/Infectologia/cientificos-espanoles-descubren-nueva-especie-babesia-b-gracias",
+      "urlToImage": "https://www.meneame.net/backend/media?type=link&id=4170647&version=0&ts=1776852966&image.webp",
+      "publishedAt": "2026-04-22 10:10:12",
+      "content": "Babesia sp. es la causante de la infecci\u00f3n zoon\u00f3tica babesiosis, una parasitosis transmitida por garrapatas similar a la malaria que se extiende en Europa y Estados Unidos y cuya especie m\u00e1s importan\u2026 [+558 chars]",
+      "retrievedAt": "2026-04-23 19:34:40.991855",
+      "internal_id": "b53c8f436d4d00539e06a7b30577714e469881c8c4f4fe69283587b649aac2fb",
+      "publishedAtLabel": "Apr 22"
+    },
     {
       "id": 29144,
       "query": [
@@ -146,6 +416,24 @@
       "content": "Mohamed, Y. F., Manivannan, K. &amp; Fernandez, R. C. Bordetella pertussis. Trends Microbiol.31, 11921193 (2023). Google Scholar Paddock, C. D. et al. Pathology and pathogenesis of fa\u2026 [+12007 chars]",
       "retrievedAt": "2026-04-23 07:41:02.576333",
       "internal_id": "8bd5484d736122844387b230d445ec4b300ec2a2cc1e481f45367c311cff96c1",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29161,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Flora Graham",
+      "title": "Daily briefing: Big G is more mysterious than ever",
+      "description": "A decades-long experiment has brought researchers no closer to the value of the gravitational constant. Plus, how the X and Y chromosomes affect your health and why malaria is rising despite the advent of vaccines.",
+      "url": "https://www.nature.com/articles/d41586-026-01347-5",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-01347-5/d41586-026-01347-5_52326284.png",
+      "publishedAt": "2026-04-22 00:00:00",
+      "content": "Hello Nature readers, would you like to get this Briefing in your inbox free every day? Sign up here. Stephan Schlamminger (left) and colleague Vincent Lee with the equipment used to measure big G.C\u2026 [+5221 chars]",
+      "retrievedAt": "2026-04-23 19:34:40.915770",
+      "internal_id": "868e3b0979072442631e07487a3bee4cbc4e2fc896cd32c4ad7388c613eea441",
       "publishedAtLabel": "Apr 22"
     },
     {
