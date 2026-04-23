@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 11
-- **Last harvest:** 2026-04-22 19:34
-- **Most recent article:** 2026-04-21 16:59:29
+- **New articles in last harvest:** 15
+- **Last harvest:** 2026-04-23 07:41
+- **Most recent article:** 2026-04-22 06:49:41
 
 ---
 
@@ -13,19 +13,19 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 7 | 291 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 13 | 196 |
-| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 7 | 114 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 9 | 84 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 17 | 200 |
+| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 10 | 117 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 12 | 87 |
 | mpox | 16 | 12 | 4 | 19 | 9 | 16 | 2 | 78 |
 | rabies | 15 | 7 | 5 | 26 | 8 | 3 | 1 | 65 |
 | chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 2 | 44 |
-| h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 0 | 33 |
-| zika | 2 | 4 | 1 | 15 | 1 | 4 | 2 | 29 |
+| h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 3 | 36 |
+| zika | 2 | 4 | 1 | 15 | 1 | 4 | 3 | 30 |
 | hpai | 5 | 2 | 6 | 2 | 2 | 1 | 0 | 18 |
-| leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 0 | 7 |
+| leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 1 | 8 |
 | yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 3 | 6 |
+| pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 1 | 5 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 3 | 0 | 5 |
-| pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 0 | 4 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
 
 
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-17 (zika)
+
+- [Dengue, Zika, fièvre hémorragique... Quelles sont les maladies qui menacent l'Europe, sous l'effet de la hausse des températures et de la crise climatique ?](https://www.franceinfo.fr/environnement/dengue-zika-fievre-hemorragique-quelles-sont-les-maladies-qui-menacent-l-europe-sous-l-effet-de-la-hausse-des-temperatures-et-de-la-crise-climatique_7945703.html) (Franceinfo.fr)
 
 - [Zika Virus Testing Market Set to Surpass USD 480 Million by 2035 – SNS Insider](https://www.globenewswire.com/news-release/2026/04/21/3277812/0/en/Zika-Virus-Testing-Market-Set-to-Surpass-USD-480-Million-by-2035-SNS-Insider.html) (GlobeNewswire)
 
@@ -50,6 +52,10 @@ Source: [News API](https://newsapi.org/)
 ## 26-17 (rabies)
 
 - [Health and economic burden of canine rabies in Chilga district, centeral Gondar Zone, Amhara Region, Ethiopia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014196) (Plos.org)
+
+## 26-17 (pertussis)
+
+- [Released palmitic acid–mediated TLR4/NF-κB activation enhances the virulence of Bordetella pertussis MT28 lineage](https://www.nature.com/articles/s41467-026-72213-1) (Nature.com)
 
 ## 26-17 (mpox)
 
@@ -74,6 +80,14 @@ Source: [News API](https://newsapi.org/)
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [RFK Jr. Brazenly Says Measles Outbreaks Not His Fault: 'I've Never Been Anti-Vaccine' (Jennifer Bendery/HuffPost)](https://www.memeorandum.com/260421/p140) (Memeorandum.com)
+
+- [RFK Jr. Gives Xenophobic Reason For Measles Outbreaks In U.S.](https://www.huffpost.com/entry/rfk-blames-immigrants-measles-outbreaks-vaccine_n_69e7fcf3e4b0fa6ffe8fba74) (HuffPost)
+
+- [RFK Jr. Says Measles Outbreaks Not His Fault: ‘I’ve Never Been Anti-Vaccine’](https://www.huffpost.com/entry/rfk-measles-never-been-anti-vaccine_n_69e139dae4b0555d213a61a5) (HuffPost)
+
+- [Kennedy Refuses to Commit to Backing New C.D.C. Director on Vaccines (New York Times)](https://www.memeorandum.com/260421/p99) (Memeorandum.com)
 
 - [Thousands exposed to measles after American with confirmed case traveled through major airport](https://www.dailymail.com/health/article-15752257/measles-earning-airport-baltimore-outbreak.html) (Dailymail.com)
 
@@ -103,6 +117,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (malaria)
 
+- [AI hunt identifies malaria genes for deadly cases #science](https://alltoc.com/science/ai-hunt-identifies-malaria-genes-for-deadly-cases) (Alltoc.com)
+
+- [Afrika: Impfstoffallianz meldet Erfolg im Kampf gegen Malaria](https://www.zeit.de/gesundheit/2026-04/malaria-impfung-afrika-erfolge-gavi) (Die Zeit)
+
+- [Nigeria scales up malaria vaccine rollout amid funding pressures](https://punchng.com/nigeria-scales-up-malaria-vaccine-rollout-amid-funding-pressures/) (The Punch)
+
 - [Nigeria extends malaria vaccine rollout to more states](https://punchng.com/nigeria-extends-malaria-vaccine-rollout-to-more-states/) (The Punch)
 
 - [Öffentliche Gesundheit: Dieses Haus ...](https://www.sueddeutsche.de/projekte/artikel/gesundheit/tansania-infektionsschutz-haus-e150017/) (Süddeutsche Zeitung)
@@ -121,7 +141,25 @@ Source: [News API](https://newsapi.org/)
 
 - [Towards a malaria-free future](https://www.thehindubusinessline.com/specials/pulse/towards-a-malaria-free-future/article70870076.ece) (BusinessLine)
 
+## 26-17 (leptospirosis)
+
+- [Bacolod leptospirosis cases up by 225 percent](https://rpnradio.com/bacolod-leptospirosis-cases-up-by-225-percent/) (Rpnradio.com)
+
+## 26-17 (h5n1)
+
+- [First bird flu mRNA vaccine enters late-stage trial](https://timesofindia.indiatimes.com/etimes/wellness/first-bird-flu-mrna-vaccine-enters-late-stage-trial/articleshow/130433005.cms) (The Times of India)
+
+- [Bird flu H5N1 vaccine trial begins #health](https://alltoc.com/health/bird-flu-h5n1-vaccine-trial-begins) (Alltoc.com)
+
+- [Bird flu vaccine trial against potential pandemic strain begins](https://www.bbc.com/news/articles/cy41z0yj8mjo) (BBC News)
+
 ## 26-17 (dengue)
+
+- [Sommerhitze: Klimawandel beeinträchtigt zunehmend die Gesundheit](https://www.faz.net/aktuell/wissen/medizin-ernaehrung/klimawandel-beeintraechtigt-zunehmend-menschliche-gesundheit-accg-200755825.html) (Faz.net)
+
+- [Dengue, Zika, fièvre hémorragique... Quelles sont les maladies qui menacent l'Europe, sous l'effet de la hausse des températures et de la crise climatique ?](https://www.franceinfo.fr/environnement/dengue-zika-fievre-hemorragique-quelles-sont-les-maladies-qui-menacent-l-europe-sous-l-effet-de-la-hausse-des-temperatures-et-de-la-crise-climatique_7945703.html) (Franceinfo.fr)
+
+- [Alertas de calor extremo aumentaram 318% em 10 anos](https://observador.pt/2026/04/22/alertas-de-calor-extremo-aumentaram-318-em-10-anos/) (Observador.pt)
 
 - [Actualité : Moustique tigre : 80 % des nids sont dans vos jardins, cette app française veut vous aider à les détruire](https://www.lesnumeriques.com/appli-logiciel/moustique-tigre-80-des-nids-sont-dans-vos-jardins-cette-app-francaise-veut-vous-aider-a-les-detruire-n254648.html) (Les Numériques)
 
