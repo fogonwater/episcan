@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 16
-- **Last harvest:** 2026-04-23 19:34
-- **Most recent article:** 2026-04-22 18:22:34
+- **New articles in last harvest:** 15
+- **Last harvest:** 2026-04-24 07:42
+- **Most recent article:** 2026-04-23 02:00:00
 
 ---
 
@@ -13,11 +13,11 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 7 | 291 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 25 | 208 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 35 | 218 |
 | dengue | 11 | 28 | 19 | 18 | 12 | 19 | 11 | 118 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 16 | 91 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 20 | 95 |
 | mpox | 16 | 12 | 4 | 19 | 9 | 16 | 2 | 78 |
-| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 2 | 66 |
+| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 3 | 67 |
 | chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 2 | 44 |
 | h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 4 | 37 |
 | zika | 2 | 4 | 1 | 15 | 1 | 4 | 3 | 30 |
@@ -50,6 +50,8 @@ Source: [News API](https://newsapi.org/)
 - [Древняя ДНК рассказала о резком падении численности населения Европы 5000 лет назад](https://overclockers.ru/blog/Scorpion81/show/253979/Drevnyaya-DNK-rasskazala-o-rezkom-padenii-chislennosti-naseleniya-Evropy-5000-let-nazad) (Overclockers.ru)
 
 ## 26-17 (rabies)
+
+- [‘Rabid’ dog on biting spree injures 36 wedding guests, pedestrians in Badaun](https://indianexpress.com/article/cities/lucknow/rabid-dog-on-biting-spree-injures-36-wedding-guests-pedestrians-in-badaun-10650996/) (The Indian Express)
 
 - [Presumptive case of rabies identified near St. Stephen, testing underway](https://www.cbc.ca/news/canada/new-brunswick/rabies-case-st-stephen-testing-raccoon-9.7173161) (CBC News)
 
@@ -84,6 +86,26 @@ Source: [News API](https://newsapi.org/)
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [WATCH: Search underway for man that police say abandoned baby in Times Square](https://abcnews.com/video/132294777/) (Abcnews.com)
+
+- [WATCH: A new development in Arizona has shops, a restaurant, a farmer's market and no cars.](https://abcnews.com/video/132292875/) (Abcnews.com)
+
+- [N.J. health officials warn of possible measles exposure at Newark Airport](https://www.cbsnews.com/newyork/news/measles-exposure-newark-airport-april-2026/) (CBS News)
+
+- [WATCH: Teacher runs 100+ miles to fund student scholarships](https://abcnews.com/video/132288464/) (Abcnews.com)
+
+- [4 takeaways from Health Secretary RFK Jr.'s gauntlet of congressional hearings](https://www.pbs.org/newshour/politics/4-takeaways-from-health-secretary-kennedys-gauntlet-of-congressional-hearings) (PBS)
+
+- [RFK Jr. Refuses To Say If He Takes ‘Any Responsibility’ for Measles Crisis](https://www.huffpost.com/entry/rfk-measles-vaccines-responsibility_n_69e8d11ee4b0bb584bc7dfbe) (HuffPost)
+
+- [WATCH: ‘Tipflation’ sparks debate over rising tipping expectations](https://abcnews.com/video/132284530/) (Abcnews.com)
+
+- [동남아 홍역 급증, 코로나19 때 백신 미접종이 원인?···국내 환자 67%, 해외 유입](https://www.khan.co.kr/article/202604230739001) (Khan.co.kr)
+
+- [Vaccines, budget cuts and affordability: Takeaways from RFK Jr’s gauntlet of congressional hearings](https://www.seattlepi.com/news/article/vaccines-budget-cuts-and-affordability-22220834.php) (seattlepi.com)
+
+- [Watch: RFK Jr. accuses Sen. Blunt Rochester of grandstanding when asked about measles](https://www.cbsnews.com/video/watch-rfk-jr-accuses-sen-blunt-rochester-of-grandstanding-when-asked-about-measles/) (CBS News)
 
 - [How contagious is measles in outbreaks? #health](https://alltoc.com/health/how-contagious-is-measles-in-outbreaks) (Alltoc.com)
 
@@ -136,6 +158,14 @@ Source: [News API](https://newsapi.org/)
 - [What did the measles outbreak data show? #health](https://alltoc.com/health/what-did-the-measles-outbreak-data-show) (Alltoc.com)
 
 ## 26-17 (malaria)
+
+- [第13回ゼロマラリア賞2026は栄研化学株式会社へ](https://prtimes.jp/main/html/rd/p/000000042.000010063.html) (Prtimes.jp)
+
+- [Scientists test new malaria solution as 2030 target doubtful](https://punchng.com/scientists-test-new-malaria-solution-as-2030-target-doubtful/) (The Punch)
+
+- [How malaria shaped settlement for 74,000 years #science](https://alltoc.com/science/how-malaria-shaped-settlement-for-74000-years) (Alltoc.com)
+
+- [How malaria has shaped the path of human settlements](https://www.npr.org/2026/04/22/nx-s1-5793907/how-malaria-has-shaped-the-path-of-human-settlements) (NPR)
 
 - [La malaria determinó la distribución de las primeras poblaciones humanas](https://www.elperiodico.com/es/ciencia/20260422/malaria-determino-distribucion-primeras-poblaciones-humanas-129414408) (Elperiodico.com)
 

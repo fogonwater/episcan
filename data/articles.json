@@ -1,8 +1,278 @@
 {
-  "last_updated": "2026-04-23 19:34",
-  "count_articles_total": 947,
-  "count_articles_new": 16,
+  "last_updated": "2026-04-24 07:42",
+  "count_articles_total": 962,
+  "count_articles_new": 15,
   "articles": [
+    {
+      "id": 29178,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Prtimes.jp",
+      "author": null,
+      "title": "\u7b2c13\u56de\u30bc\u30ed\u30de\u30e9\u30ea\u30a2\u8cde2026\u306f\u6804\u7814\u5316\u5b66\u682a\u5f0f\u4f1a\u793e\u3078",
+      "description": "[\u7279\u5b9a\u975e\u55b6\u5229\u6d3b\u52d5\u6cd5\u4ebaMalaria No More Japan] \u7279\u5b9a\u975e\u55b6\u5229\u6d3b\u52d5\u6cd5\u4eba\u30de\u30e9\u30ea\u30a2\u30fb\u30ce\u30fc\u30e2\u30a2\u30fb\u30b8\u30e3\u30d1\u30f3\uff08\u6771\u4eac\u90fd\u5343\u4ee3\u7530\u533a\u3001\u4ee3\u8868\u7406\u4e8b \u795e\u4f59\u9686\u535a\uff09\u306f\u30014\u670825\u65e5\u306e\u4e16\u754c\u30de\u30e9\u30ea\u30a2\u30c7\u30fc\u306b\u5148\u7acb\u3061\u3001\u540c\u670823\u65e5\u306b\u7b2c13\u56de\u30bc\u30ed\u30de\u30e9\u30ea\u30a2\u8cde2026\u3092\u6804\u7814\u5316\u5b66\u682a\u5f0f\u4f1a\u793e\uff08\u6771\u4eac\u90fd\u3001\u53d6\u7de0\u5f79 \u517c \u4ee3...",
+      "url": "https://prtimes.jp/main/html/rd/p/000000042.000010063.html",
+      "urlToImage": "https://prcdn.freetls.fastly.net/release_image/10063/42/10063-42-9ea73aa20a3918d67befc372f6bf5b08-482x348.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-04-23 02:00:00",
+      "content": "42523132026 Malaria-LAMPNo.1Reaction Block (POC)LAMPDNA/ (JIHS)DCCPMDA UHC 2026610 20302014 https://malarianomore.jp/archives/category/award Pan/Pf/Pv 13LAMPLAMP LAMP2025PMDA UHC 2014NP\u2026 [+232 chars]",
+      "retrievedAt": "2026-04-24 07:42:55.571583",
+      "internal_id": "cee4edfdd1633ae7335da7a4e79846e66f0a1809175a812faf00822d589740d2",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 29166,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Abcnews.com",
+      "author": "ABC News",
+      "title": "WATCH: Search underway for man that police say abandoned baby in Times Square",
+      "description": "The girl was left in her stroller just before midnight and appeared to be unharmed, according to police.",
+      "url": "https://abcnews.com/video/132294777/",
+      "urlToImage": "https://i.abcnewsfe.com/a/d0f8fcb2-692c-4c2d-bccc-2dca718d8102/260422_wn_vo_baby_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-04-23 01:58:06",
+      "content": "Iranian state TV airs video of masked gunmen boarding ship near Strait of Hormuz RFK Jr. faces questions on measles outbreak, vaccines Search underway for man that police \u2026 [+4546 chars]",
+      "retrievedAt": "2026-04-24 07:42:53.602653",
+      "internal_id": "bc95686516448bc5b0593867a7051588eac0a8df58907405eea805647e1847d8",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 29169,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Abcnews.com",
+      "author": "ABC News",
+      "title": "WATCH: A new development in Arizona has shops, a restaurant, a farmer's market and no cars.",
+      "description": "For Earth Day, Ginger Zee reports on a Tempe, Arizona, community called Culdesac, built specifically for walking and biking, with free light rail and buses right outside if you want to get further.",
+      "url": "https://abcnews.com/video/132292875/",
+      "urlToImage": "https://i.abcnewsfe.com/a/3befcaaf-b9d5-43bf-8065-ab177323a68b/260422_abcnl_prime_earth_zee_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-04-23 01:14:58",
+      "content": "Iranian state TV airs video of masked gunmen boarding ship near Strait of Hormuz RFK Jr. faces questions on measles outbreak, vaccines Search underway for man that police \u2026 [+4546 chars]",
+      "retrievedAt": "2026-04-24 07:42:53.634823",
+      "internal_id": "c11e56923ae65077f7eefef67ea9fcc8dd1729759ada55b8029874e0590ef929",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 29177,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Scientists test new malaria solution as 2030 target doubtful",
+      "description": "Scientists are exploring gene drive technology as a new malaria solution, aiming to reduce mosquito populations as Africa struggles to meet its 2030 goal. Read More: https://punchng.com/scientists-test-new-malaria-solution-as-2030-target-doubtful/",
+      "url": "https://punchng.com/scientists-test-new-malaria-solution-as-2030-target-doubtful/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2024/04/27021705/malaria.jpg",
+      "publishedAt": "2026-04-23 00:35:40",
+      "content": "Scientists across Africa have begun exploring new ways to reduce the spread of malaria as the continent remains far off meeting the African Unions target of eliminating malaria by 2030. The scientis\u2026 [+6211 chars]",
+      "retrievedAt": "2026-04-24 07:42:55.560150",
+      "internal_id": "255df59714f2aa804340ceddf8c3008e32073203f7b8100fba243c4bf65ef77e",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 29174,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "Katie Houlis",
+      "title": "N.J. health officials warn of possible measles exposure at Newark Airport",
+      "description": "Travelers at Newark Airport may have been exposed to an individual with measles, New Jersey health officials warn.",
+      "url": "https://www.cbsnews.com/newyork/news/measles-exposure-newark-airport-april-2026/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/02/27/92c49fd6-3087-4001-844a-ccef88680ebc/thumbnail/1200x630/0a06b79d6270e5bd77fada3c21edcf60/measles-rash.jpg",
+      "publishedAt": "2026-04-23 00:15:30",
+      "content": "Travelers at Newark Liberty International Airport may have been exposed to an individual with measles, New Jersey health officials warn. The state Department of Health announced Wednesday that a Hud\u2026 [+1479 chars]",
+      "retrievedAt": "2026-04-24 07:42:53.864756",
+      "internal_id": "d20c8f135f20b9a6be885122bd4db76a50393f2a58f90e5f9400139d111a8b0d",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 29179,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How malaria shaped settlement for 74,000 years #science",
+      "description": "Malaria may have steered where early humans lived New research led by scientists at the Max Planck Institute for Geoanthropology and the University of Cambridge suggests malaria influenced human settlement patterns across Africa for at least 74,000 years. Wha\u2026",
+      "url": "https://alltoc.com/science/how-malaria-shaped-settlement-for-74000-years",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-23 00:02:38",
+      "content": "New research led by scientists at the Max Planck Institute for Geoanthropology and the University of Cambridge suggests malaria influenced human settlement patterns across Africa for at least 74,000 \u2026 [+1326 chars]",
+      "retrievedAt": "2026-04-24 07:42:55.611429",
+      "internal_id": "936e59f3d0f150b2cd42ea5dc19c7109b790a91d06a209609cf8a1ad87f0d0db",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 29168,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Abcnews.com",
+      "author": "ABC News",
+      "title": "WATCH: Teacher runs 100+ miles to fund student scholarships",
+      "description": "Kate Fletcher, an English teacher at Louisa County High School in Virginia, has raised more than $100,000 since 2016 through her annual \u201cLion Pride Run,\u201d including a 107-mile run to Jamestown.",
+      "url": "https://abcnews.com/video/132288464/",
+      "urlToImage": "https://i.abcnewsfe.com/a/1239865d-648a-4601-8930-c12d35a8247a/260422_gma_digital_teacherrun_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-04-22 23:28:41",
+      "content": "Iranian state TV airs video of masked gunmen boarding ship near Strait of Hormuz RFK Jr. faces questions on measles outbreak, vaccines Search underway for man that police \u2026 [+4546 chars]",
+      "retrievedAt": "2026-04-24 07:42:53.624160",
+      "internal_id": "86315bc26a584dfeeb9e4aef1d2884200f20b794de082e5b20a0aca014042a4a",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29172,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Ali Swenson, Associated Press",
+      "title": "4 takeaways from Health Secretary RFK Jr.'s gauntlet of congressional hearings",
+      "description": "In his testimony to various committees in the Senate and the House over multiple days, Kennedy was tasked with defending President Donald Trump's proposed 2027 budget, which would boost defense spending while cutting more than 12% of funding from the Departme\u2026",
+      "url": "https://www.pbs.org/newshour/politics/4-takeaways-from-health-secretary-kennedys-gauntlet-of-congressional-hearings",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-22T182013Z_2074805132_RC2IUKAY3Y3T_RTRMADP_3_USA-CONGRESS-HHS-1024x683.jpg",
+      "publishedAt": "2026-04-22 23:20:33",
+      "content": "Health Secretary Robert F. Kennedy Jr. on Wednesday concluded a marathon series of hearings with federal lawmakers, during which he deflected blame for measles outbreaks and dwindling vaccination rat\u2026 [+6181 chars]",
+      "retrievedAt": "2026-04-24 07:42:53.831575",
+      "internal_id": "55749fc8c8cc53790944ad0b314a3ac84e3b4d1a5bcc3fb0264282b15fe591d7",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29171,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "HuffPost",
+      "author": "HuffPost",
+      "title": "RFK Jr. Refuses To Say If He Takes \u2018Any Responsibility\u2019 for Measles Crisis",
+      "description": "The HHS secretary instead blamed immigrants, Mennonites and other countries for the measles outbreak in the U.S., not his own vaccine disinformation.",
+      "url": "https://www.huffpost.com/entry/rfk-measles-vaccines-responsibility_n_69e8d11ee4b0bb584bc7dfbe",
+      "urlToImage": "https://img.huffingtonpost.com/asset/69e932cc1400004554ecae40.jpeg?cache=WfxnxBbmMU&ops=1200_630",
+      "publishedAt": "2026-04-22 23:09:13",
+      "content": "WASHINGTON Health and Human Services Secretary Robert F. Kennedy Jr. on Wednesday refused to say whether he takes any responsibility for the surge in measles cases around the country. Kennedy, who h\u2026 [+2419 chars]",
+      "retrievedAt": "2026-04-24 07:42:53.791153",
+      "internal_id": "726928f6bdf77293092267cdfe15504f893d1ce5cf33fa1befad58b60c34f08d",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29167,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Abcnews.com",
+      "author": "ABC News",
+      "title": "WATCH: \u2018Tipflation\u2019 sparks debate over rising tipping expectations",
+      "description": "Wendy de la Rosa, Wharton School marketing professor and behavioral science expert, co-host of TED\u2019s \u201cYour Money and Your Mind,\u201d explains shifting tipping norms.",
+      "url": "https://abcnews.com/video/132284530/",
+      "urlToImage": "https://i.abcnewsfe.com/a/170f457f-f484-4768-868e-5d649b3cc447/260422_abcnl_5p_tips_hpMain_16x9.jpg?w=992",
+      "publishedAt": "2026-04-22 23:02:55",
+      "content": "Iranian state TV airs video of masked gunmen boarding ship near Strait of Hormuz RFK Jr. faces questions on measles outbreak, vaccines Search underway for man that police \u2026 [+4546 chars]",
+      "retrievedAt": "2026-04-24 07:42:53.613467",
+      "internal_id": "725c6aa85a8f08b1af7adf1a818c13eca9844db6f9ce3f5c0b01accb441e65a3",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29173,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uc804\ud604\uc9c4 \uae30\uc790",
+      "title": "\ub3d9\ub0a8\uc544 \ud64d\uc5ed \uae09\uc99d, \ucf54\ub85c\ub09819 \ub54c \ubc31\uc2e0 \ubbf8\uc811\uc885\uc774 \uc6d0\uc778?\u00b7\u00b7\u00b7\uad6d\ub0b4 \ud658\uc790 67%, \ud574\uc678 \uc720\uc785",
+      "description": "\uc124 \uc5f0\ud734\ub97c \uc55e\ub454 12\uc77c \uc778\ucc9c\uad6d\uc81c\uacf5\ud56d \uc81c1\ud130\ubbf8\ub110 \ucd9c\ubc1c\uce35\uc5d0\uc11c \uc5ec\ud589\uac1d\ub4e4\uc774 \ud0d1\uc2b9 \uc218\uc18d\uc744 \uc704\ud574 \ub300\uae30\ud558\uace0 \uc788\ub2e4. \uc815\ud6a8\uc9c4 \uae30\uc790\uc9c8\ubcd1\uad00\ub9ac\uccad\uc774 \ucd5c\uadfc \ubc29\uae00\ub77c\ub370\uc2dc\ub97c \uc911\uc2ec\uc73c\ub85c \ub3d9\ub0a8\uc544\uc2dc\uc544 \uc9c0\uc5ed\uc5d0 \ud64d\uc5ed\uc774 \uae09\uc18d\ud788 \ud37c\uc9c0\uace0 \uc788\ub2e4\uba70 \ud574\ub2f9 \uc9c0\uc5ed\uc5d0 \ubc29\ubb38\ud560 \ub54c\ub294 \ubbf8\ub9ac \ubc31\uc2e0 \uc811\uc885\uc744 \ud558\ub294 \ub4f1 \uc8fc\uc758\uac00 \ud544\uc694\ud558\ub2e4\uace0 \ub2f9\ubd80\ud588\ub2e4.23\uc77c \uc9c8\ubcd1\uccad\uc774 \uc778\uc6a9\ud55c \uc138\uacc4\ubcf4\uac74\uae30\uad6c(WHO) \ud1b5\uacc4\uc5d0 \ub530\ub974\uba74 \uc62c\ud574 1\u223c2\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202604230739001",
+      "urlToImage": "https://img.khan.co.kr/news/2026/04/23/news-p.v1.20260212.2374d8b1423442c8ab90f51eb7431d85_P1.jpeg",
+      "publishedAt": "2026-04-22 22:39:00",
+      "content": "12 1 . . 23 (WHO) 1\u223c2 6726, (2940) 2.3 . . . 15 14 2897. (125) 23.2 . 31. 12 19 \u00b7\u00b7\u00b7\u00b7\u00b7 . . 6, 2 3, 3 1, 2 . 4(66.7%) . 78 53 67.9% . (Measles virus) , , , . , , . , (2) .",
+      "retrievedAt": "2026-04-24 07:42:53.842618",
+      "internal_id": "9068ca454697013705ba8e2f66248604ce56214ab424db22f3fe97fd803c01e0",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29175,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By ALI SWENSON, Associated Press",
+      "title": "Vaccines, budget cuts and affordability: Takeaways from RFK Jr\u2019s gauntlet of congressional hearings",
+      "description": "Health Secretary Robert F. Kennedy Jr. has concluded a marathon of budget hearings with federal lawmakers. Throughout a week of hearings, he deflected blame for measles outbreaks and dwindling vaccination rates and touted several initiatives that he says are \u2026",
+      "url": "https://www.seattlepi.com/news/article/vaccines-budget-cuts-and-affordability-22220834.php",
+      "urlToImage": null,
+      "publishedAt": "2026-04-22 21:08:19",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-04-24 07:42:53.885322",
+      "internal_id": "aa5959861e996ef25e882b3c75f62834bb26c020491c2368a388bc2d6226935e",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29165,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "The Indian Express",
+      "author": "Manish Sahu",
+      "title": "\u2018Rabid\u2019 dog on biting spree injures 36 wedding guests, pedestrians in Badaun",
+      "description": "Also attacks a cow on street, first dose of anti-rabies vaccine given to the injured, say officials.",
+      "url": "https://indianexpress.com/article/cities/lucknow/rabid-dog-on-biting-spree-injures-36-wedding-guests-pedestrians-in-badaun-10650996/",
+      "urlToImage": "https://images.indianexpress.com/2026/04/Resize-2025-08-13T104935.567_20260422210507.jpg",
+      "publishedAt": "2026-04-22 21:06:46",
+      "content": "At least 36 persons were injured after a stray dog with rabies symptoms entered a banquet hall and attacked guests at a wedding function before targeting pedestrians and a cow on the street in the Bi\u2026 [+2143 chars]",
+      "retrievedAt": "2026-04-24 07:42:53.316241",
+      "internal_id": "5090f94b6221034fe388322ee5fae8ee6539accdb25f7a82cba8f2e16db586c7",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29176,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Ari Daniel",
+      "title": "How malaria has shaped the path of human settlements",
+      "description": "A new study looks at thousands of years worth of data and finds that malaria hot spots have played a critical role in shaping where humans settled and either thrived or failed to thrive.",
+      "url": "https://www.npr.org/2026/04/22/nx-s1-5793907/how-malaria-has-shaped-the-path-of-human-settlements",
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "publishedAt": "2026-04-22 20:30:11",
+      "content": "A new study looks at thousands of years worth of data and finds that malaria hot spots have played a critical role in shaping where humans settled and either thrived or failed to thrive.",
+      "retrievedAt": "2026-04-24 07:42:55.529975",
+      "internal_id": "d6cf5f810b56627f00f5278bbeccf9e20eeb2db7ec3a367f242456de520a0298",
+      "publishedAtLabel": "Apr 22"
+    },
+    {
+      "id": 29170,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbs-news",
+      "source_name": "CBS News",
+      "author": "CBS News",
+      "title": "Watch: RFK Jr. accuses Sen. Blunt Rochester of grandstanding when asked about measles",
+      "description": "Sen. Lisa Blunt Rochester had a pointed line of questioning with HHS Secretary Robert F. Kennedy Jr. on Wednesday about his response to measles outbreaks across the U.S.",
+      "url": "https://www.cbsnews.com/video/watch-rfk-jr-accuses-sen-blunt-rochester-of-grandstanding-when-asked-about-measles/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/22/559ee064-352b-4a3e-8129-61c59660c77c/thumbnail/1200x630/86c1c5b9f2b17b7bd776a55241c1e662/cbsn-fusion-watch-rfk-jr-accuses-sen-blunt-rochester-of-grandstanding-when-asked-about-measles-thumbnail.jpg",
+      "publishedAt": "2026-04-22 19:46:17",
+      "content": "Copyright \u00a92026 CBS Interactive Inc. All rights reserved.",
+      "retrievedAt": "2026-04-24 07:42:53.645761",
+      "internal_id": "926e27ab0b29591e1b75c98c341c88a147c828e573584a4a71b87f1784580ee7",
+      "publishedAtLabel": "Apr 22"
+    },
     {
       "id": 29164,
       "query": [
