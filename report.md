@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 15
-- **Last harvest:** 2026-04-24 07:42
-- **Most recent article:** 2026-04-23 02:00:00
+- **New articles in last harvest:** 17
+- **Last harvest:** 2026-04-24 19:23
+- **Most recent article:** 2026-04-23 17:00:00
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 7 | 291 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 35 | 218 |
-| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 11 | 118 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 20 | 95 |
-| mpox | 16 | 12 | 4 | 19 | 9 | 16 | 2 | 78 |
+| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 8 | 292 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 41 | 224 |
+| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 14 | 121 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 25 | 100 |
+| mpox | 16 | 12 | 4 | 19 | 9 | 16 | 3 | 79 |
 | rabies | 15 | 7 | 5 | 26 | 8 | 3 | 3 | 67 |
 | chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 2 | 44 |
-| h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 4 | 37 |
-| zika | 2 | 4 | 1 | 15 | 1 | 4 | 3 | 30 |
+| h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 5 | 38 |
+| zika | 2 | 4 | 1 | 15 | 1 | 4 | 4 | 31 |
 | hpai | 5 | 2 | 6 | 2 | 2 | 1 | 0 | 18 |
 | leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 1 | 8 |
 | pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 2 | 6 |
@@ -34,6 +34,8 @@ Source: [News API](https://newsapi.org/)
 ---
 
 ## 26-17 (zika)
+
+- [How arboviruse E Dimer vaccines improve safety](https://www.news-medical.net/whitepaper/20260423/How-arboviruse-E-Dimer-vaccines-improve-safety-by-reducing-antibody-dependent-enhancement.aspx) (News-Medical.Net)
 
 - [Dengue, Zika, fièvre hémorragique... Quelles sont les maladies qui menacent l'Europe, sous l'effet de la hausse des températures et de la crise climatique ?](https://www.franceinfo.fr/environnement/dengue-zika-fievre-hemorragique-quelles-sont-les-maladies-qui-menacent-l-europe-sous-l-effet-de-la-hausse-des-temperatures-et-de-la-crise-climatique_7945703.html) (Franceinfo.fr)
 
@@ -65,11 +67,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (mpox)
 
+- [Notes from the Field: Contact Tracing for Monkeypox virus Clade I Cases Associated with Air Travel - United States, November 2024-January 2025](https://www.cdc.gov/mmwr/volumes/75/wr/mm7515a2.htm) (Cdc.gov)
+
 - [Ny virus-variant oppdaget i Danmark: - Kan dukke opp her](https://www.vg.no/nyheter/i/QJgzW8/ny-virus-variant-oppdaget-i-danmark-kan-dukke-opp-her) (Www.vg.no)
 
 - [Справки: Оспа обезьян (mpox): что это за болезнь, симптомы, как передается и как защититься](https://vz.ru/information/2026/4/19/1282496.html#text) (Vz.ru)
 
 ## 26-17 (meningitis)
+
+- [Casos de meningitis en Costa Rica: cuándo una ‘gripe’ es en realidad una emergencia médica](https://www.nacion.com/mi-bienestar/casos-de-meningitis-en-costa-rica-cuando-una-gripe/QOWVK4KYANGK7MH6FNIWEPJM2U/story/) (Nacion.com)
 
 - [Muere una niña de cinco años en Vélez-Málaga con posible meningitis](https://www.abc.es/espana/andalucia/malaga/muere-nina-cinco-anos-velezmalaga-posible-meningitis-20260421185908-nts.html) (Www.abc.es)
 
@@ -86,6 +92,18 @@ Source: [News API](https://newsapi.org/)
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [NJ warns of possible measles exposures at Newark Airport](https://gothamist.com/news/nj-warns-of-possible-measles-exposures-at-newark-airport) (Gothamist)
+
+- [Vaccines, budget cuts and affordability: Takeaways from RFK Jr.’s gauntlet of congressional hearings](https://abcnews.com/Health/wireStory/vaccines-budget-cuts-affordability-takeaways-rfk-jrs-gauntlet-132288601) (Abcnews.com)
+
+- [What is the measles outbreak scale in Utah? #health](https://alltoc.com/health/what-is-the-measles-outbreak-scale-in-utah) (Alltoc.com)
+
+- [RFK Jr. Grilled on Measles Cases, End of Flu Vaccines for Troops](https://www.today.com/video/rfk-jr-grilled-on-measles-cases-end-of-flu-vaccines-for-troops-261956677992) (TODAY)
+
+- [WATCH: Zoo's 24/7 channel streams in children's hospitals](https://abcnews.com/video/132304045/) (Abcnews.com)
+
+- [RFK Jr. faces questions on vaccines, measles and more at Senate hearing](https://www.npr.org/2026/04/23/nx-s1-5792870/rfk-jr-faces-questions-on-vaccines-measles-and-more-at-senate-hearing) (NPR)
 
 - [WATCH: Search underway for man that police say abandoned baby in Times Square](https://abcnews.com/video/132294777/) (Abcnews.com)
 
@@ -159,6 +177,16 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (malaria)
 
+- [ANECPLA aconseja "no bajar la guardia" frente a la malaria en España ante la presencia del mosquito transmisor](https://www.infosalus.com/salud-investigacion/noticia-anecpla-aconseja-no-bajar-guardia-frente-malaria-espana-presencia-mosquito-transmisor-20260423182707.html) (Infosalus.com)
+
+- [How mosquitoes — and malaria — helped shaped the whereabouts of early humankind](https://www.npr.org/2026/04/23/g-s1-118443/mosquitoes-malaria-human-civilization) (NPR)
+
+- [Ending malaria in Africa: 5 essential reads on gains and challenges](https://theconversation.com/ending-malaria-in-africa-5-essential-reads-on-gains-and-challenges-281258) (The Conversation Africa)
+
+- [In Italia 7-800 casi di malaria l'anno, tutti importati dall'estero](https://www.ansa.it/sito/notizie/cronaca/2026/04/23/in-italia-7-800-casi-di-malaria-lanno-tutti-importati-dallestero_4d505675-9d9d-4f7e-9863-e8c5b2c36d4c.html) (ANSA.it)
+
+- [Where Bullets Fly, Malaria Kills](https://www.forbes.com/sites/petersands/2026/04/23/where-bullets-fly-malaria-kills/) (Forbes)
+
 - [第13回ゼロマラリア賞2026は栄研化学株式会社へ](https://prtimes.jp/main/html/rd/p/000000042.000010063.html) (Prtimes.jp)
 
 - [Scientists test new malaria solution as 2030 target doubtful](https://punchng.com/scientists-test-new-malaria-solution-as-2030-target-doubtful/) (The Punch)
@@ -205,6 +233,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (h5n1)
 
+- [BBC Inside Science](https://www.bbc.co.uk/sounds/play/w3ct977h?at_campaign=rss) (BBC News)
+
 - [Bird flu vaccine trial starts H5N1 #health](https://alltoc.com/health/bird-flu-vaccine-trial-starts-h5n1) (Alltoc.com)
 
 - [First bird flu mRNA vaccine enters late-stage trial](https://timesofindia.indiatimes.com/etimes/wellness/first-bird-flu-mrna-vaccine-enters-late-stage-trial/articleshow/130433005.cms) (The Times of India)
@@ -214,6 +244,12 @@ Source: [News API](https://newsapi.org/)
 - [Bird flu vaccine trial against potential pandemic strain begins](https://www.bbc.com/news/articles/cy41z0yj8mjo) (BBC News)
 
 ## 26-17 (dengue)
+
+- [How arboviruse E Dimer vaccines improve safety](https://www.news-medical.net/whitepaper/20260423/How-arboviruse-E-Dimer-vaccines-improve-safety-by-reducing-antibody-dependent-enhancement.aspx) (News-Medical.Net)
+
+- [Počty nákaz horečkou dengue vyskočily v Česku meziročně o 40 procent](https://www.novinky.cz/clanek/domaci-pocty-nakaz-horeckou-dengue-vyskocily-v-cesku-mezirocne-o-40-procent-40574955) (Novinky.cz)
+
+- [Striking photo essay examines deadly spread of dengue fever in Nepal](https://www.newscientist.com/article/2523223-striking-photo-essay-examines-deadly-spread-of-dengue-fever-in-nepal/) (New Scientist)
 
 - [Caso di Dengue a Scandicci, sindaco ordina disinfestazione](https://www.ansa.it/toscana/notizie/2026/04/22/caso-di-dengue-a-scandicci-sindaco-ordina-disinfestazione_cd3006df-f8e2-4235-ac78-8584f0dd32e4.html) (ANSA.it)
 
