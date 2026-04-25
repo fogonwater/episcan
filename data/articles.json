@@ -1,8 +1,369 @@
 {
-  "last_updated": "2026-04-25 07:35",
-  "count_articles_total": 987,
-  "count_articles_new": 8,
+  "last_updated": "2026-04-25 19:22",
+  "count_articles_total": 1007,
+  "count_articles_new": 20,
   "articles": [
+    {
+      "id": 29214,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Diepresse.com",
+      "author": "Die Presse",
+      "title": "WHO gibt erstes Malariamedikament f\u00fcr Babys frei",
+      "description": "Das Kombinationspr\u00e4parat aus den Wirkstoffen Artemether und Lumefantrin ist das erste Malariamittel, das speziell f\u00fcr die j\u00fcngsten Malariapatienten entwickelt worden ist.",
+      "url": "https://www.diepresse.com/20802426/who-gibt-erstes-malariamedikament-fuer-babys-frei",
+      "urlToImage": "https://www.diepresse.com/assets_v2/images/diepresse_nachrichten.png",
+      "publishedAt": "2026-04-24 18:28:36",
+      "content": "Das Kombinationspr\u00e4parat aus den Wirkstoffen Artemether und Lumefantrin ist das erste Malariamittel, das speziell f\u00fcr die j\u00fcngsten Malariapatienten entwickelt worden ist. Im Vorfeld zum Welt-Malaria\u2026 [+2916 chars]",
+      "retrievedAt": "2026-04-25 19:21:59.378899",
+      "internal_id": "913a8034321edbc18e00283b97639da14adca0d3ca04f7a84646b20459171d30",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29217,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Dhrubajyoti Malakar",
+      "title": "Jharkhand health department takes proactive measures to control malaria cases",
+      "description": "Amidst the lush landscapes of Jharkhand, there is a concerning rise in malaria cases, particularly in the densely wooded regions of Khunti and Godda. The challenge is compounded by insufficient healthcare infrastructure and a lack of available health workers.",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/jharkhand-health-department-takes-proactive-measures-to-control-malaria-cases/articleshow/130501876.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-130502013,width-1280,height-720,imgsize-147990,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-04-24 18:22:53",
+      "content": "Follow Us On Social Media",
+      "retrievedAt": "2026-04-25 19:21:59.479069",
+      "internal_id": "9a3cda87b4829540b4d3d7399d28613b2ca4bee69a0da446bd336f28c726c658",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29208,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "3 measles cases detected in Lanaudi\u00e8re region as Quebec outbreak continues",
+      "description": "Three new cases of measles have been detected in Quebec\u2019s Lanaudi\u00e8re region, according to the local health authority.",
+      "url": "https://www.cbc.ca/news/canada/montreal/measles-cases-lanaudiere-quebec-9.7176367",
+      "urlToImage": "https://i.cbc.ca/ais/1df78670-a908-4d31-886b-841fe2fe0319,1777053222455/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C94%2C5000%2C2812%29%3BResize%3D620",
+      "publishedAt": "2026-04-24 18:15:51",
+      "content": "Three cases of measles have been detected in Quebecs Lanaudi\u00e8re region, according to the local health authority. As of Friday, a total of eight cases have been declared in Quebec as the province fa\u2026 [+916 chars]",
+      "retrievedAt": "2026-04-25 19:21:57.853554",
+      "internal_id": "12dfe8f9aea0b2db943f445c63a42bfa0474ee81f8450af6179ca312aadbab7b",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29215,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "der-tagesspiegel",
+      "source_name": "Der Tagesspiegel",
+      "author": "Der Tagesspiegel",
+      "title": "Gesundheit: WHO gibt erstmals Malaria-Medikament f\u00fcr Babys frei",
+      "description": "Die WHO hat ein spezielles Malaria-Medikament f\u00fcr Neugeborene und Babys bis f\u00fcnf Kilogramm als sicher und wirksam eingestuft. Was das f\u00fcr die Versorgung in Afrika bedeutet.",
+      "url": "https://www.tagesspiegel.de/wissen/gesundheit-who-gibt-erstmals-malaria-medikament-fur-babys-frei-15521606.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/15521605/alternates/BASE_16_9_W1400/1777054095000/who-gibt-erstmals-malaria-medikament-fur-babys-frei.jpeg",
+      "publishedAt": "2026-04-24 18:08:15",
+      "content": "Die Weltgesundheitsorganisation WHO hat erstmals ein Malaria-Medikament f\u00fcr die Kleinsten gepr\u00fcft und als sicher und wirksam erkl\u00e4rt. Diese Version des Kombinationspr\u00e4parats Artemether-Lumefantrin se\u2026 [+1340 chars]",
+      "retrievedAt": "2026-04-25 19:21:59.427874",
+      "internal_id": "84d0201cde5a4d3ebf1d3559ea28fd506ec1771976f4e0cb510ffebd5fde6e23",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29212,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "die-zeit",
+      "source_name": "Die Zeit",
+      "author": "DIE ZEIT: News -",
+      "title": "Gesundheit: WHO gibt erstmals Malaria-Medikament f\u00fcr Babys frei",
+      "description": "Hier finden Sie Informationen zu dem Thema \u201eGesundheit\u201c. Lesen Sie jetzt \u201eWHO gibt erstmals Malaria-Medikament f\u00fcr Babys frei\u201c.",
+      "url": "https://www.zeit.de/news/2026-04/24/who-gibt-erstmals-malaria-medikament-fuer-babys-frei",
+      "urlToImage": "https://img.zeit.de/news/2026-04/24/who-gibt-erstmals-malaria-medikament-fuer-babys-frei-image-group/wide__1300x731",
+      "publishedAt": "2026-04-24 18:06:54",
+      "content": "Die Weltgesundheitsorganisation WHO hat erstmals ein Malaria-Medikament f\u00fcr die Kleinsten gepr\u00fcft und als sicher und wirksam erkl\u00e4rt. Diese Version des Kombinationspr\u00e4parats Artemether-Lumefantrin se\u2026 [+1284 chars]",
+      "retrievedAt": "2026-04-25 19:21:59.299551",
+      "internal_id": "3707dfef911ff1242ee9e45947c1144e76ef832f07816f125231f757da3d0345",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29219,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "STERN.de",
+      "author": "STERN.de",
+      "title": "Gesundheit: WHO gibt erstmals Malaria-Medikament f\u00fcr Babys frei",
+      "description": "Die WHO hat ein spezielles Malaria-Medikament f\u00fcr Neugeborene und Babys bis f\u00fcnf Kilogramm als sicher und wirksam eingestuft. Was das f\u00fcr die Versorgung in Afrika bedeutet.",
+      "url": "https://www.stern.de/panorama/wissen/gesundheit--who-gibt-erstmals-malaria-medikament-fuer-babys-frei-37341200.html",
+      "urlToImage": "https://image.stern.de/37341202/t/ND/v1/w1440/r1.7778/-/24--wpyrg2axykv9axs2048jpeg---98f38a315cc35e7f.jpg",
+      "publishedAt": "2026-04-24 18:06:54",
+      "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Die WHO hat ein spezielles Malaria-Medikament f\u00fcr Neugeborene und Babys bis f\u00fcnf Kilogramm als sicher und wirksam eingestuft. Was das f\u00fcr die Ver\u2026 [+1472 chars]",
+      "retrievedAt": "2026-04-25 19:21:59.558315",
+      "internal_id": "4efe43da1911eda1cd7a8adaaf6dbcdbef43b478cce11a4cb49b0af3290a4d09",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29209,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "Manitoba health officials report 25 more measles cases as province remains national hotspot",
+      "description": "Manitoba health officials are reporting more than two dozen newly confirmed measles cases as the province continues to be Canada's hot spot for the infectious disease.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/manitoba-measles-25-more-cases-update-9.7176091",
+      "urlToImage": "https://i.cbc.ca/ais/61654e56-2c28-4310-86f2-7b18cd43de5c,1775853798639/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2026-04-24 17:51:09",
+      "content": "Manitoba health officials are reporting more than two dozen newly confirmed measles cases as the province continues to be Canada's hot spot for the infectious disease. The latest provincial data ,\u2026 [+2624 chars]",
+      "retrievedAt": "2026-04-25 19:21:57.981051",
+      "internal_id": "777eb1e76bfad4e021cbfab7e107e3b661024ad34abd7464db1dd2981b017deb",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29221,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Elperiodico.com",
+      "author": "EFE",
+      "title": "La OMS aprueba el primer tratamiento contra la malaria dise\u00f1ado para reci\u00e9n nacidos y beb\u00e9s",
+      "description": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha aprobado el primer tratamiento contra la malaria desarrollado espec\u00edficamente para reci\u00e9n nacidos y lactantes de menos de cinco kilos, un d\u00eda antes de la celebraci\u00f3n del d\u00eda mundial contra esa enfermedad que a\u00fan ca\u2026",
+      "url": "https://www.elperiodico.com/es/sanidad/20260424/oms-aprueba-tratamiento-malaria-lactantes-129497466",
+      "urlToImage": "https://estaticos-cdn.prensaiberica.es/clip/fb0172a6-373e-4b91-8645-a532e790b8cb_16-9-discover-aspect-ratio_default_0.jpg",
+      "publishedAt": "2026-04-24 17:25:07",
+      "content": "La Organizaci\u00f3n Mundial de la Salud (OMS) ha aprobado el primer tratamiento contra la malaria desarrollado espec\u00edficamente para reci\u00e9n nacidos y lactantes de menos de cinco kilos, un d\u00eda antes de la \u2026 [+1649 chars]",
+      "retrievedAt": "2026-04-25 19:21:59.617774",
+      "internal_id": "f8fdc2ac526b4cefb8f033c17849bcf5b80e7f51af51797a9d1e33f551439fbd",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29213,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Archaeology",
+      "author": "Jessica Esther Saraceni",
+      "title": "How Has Malaria Shaped Human Populations?",
+      "description": "JENA, GERMANY\u2014According to a statement released by the Max Planck Institute of Geoanthropology, an international [\u2026] The post How Has Malaria Shaped Human Populations? appeared first on Archaeology Magazine.",
+      "url": "https://archaeology.org/news/2026/04/24/how-has-malaria-shaped-human-populations/",
+      "urlToImage": "https://archaeology.org/wp-content/uploads/2026/04/News-20260424-Mosquito-Long-Exposure.jpg",
+      "publishedAt": "2026-04-24 17:00:00",
+      "content": "Pools like this in sub-Saharan Zimbabwe are ideal breeding locations for mosquito vectors. JENA, GERMANYAccording to a statement released by the Max Planck Institute of Geoanthropology, an internati\u2026 [+914 chars]",
+      "retrievedAt": "2026-04-25 19:21:59.348847",
+      "internal_id": "87ee03f0c403cbe21407362c4bc72c167da05da6c8f6357972349797d4ebcf1e",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29222,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": "World Health Organization: WHO",
+      "title": "WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests",
+      "description": "Ahead of World Malaria Day on 25 April, the World Health Organization (WHO) has announced a significant step forward in the fight against malaria with the prequalification of the first treatment developed specifically for newborns and young infants weighin\u2026",
+      "url": "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests",
+      "urlToImage": "https://cdn.who.int/media/images/default-source/topics/diseases-and-conditions/malaria/who-officer-with-baby.tmb-1200v.jpg?sfvrsn=bec14bc9_1",
+      "publishedAt": "2026-04-24 16:45:07",
+      "content": "Ahead of World Malaria Day on 25 April, the World Health Organization (WHO) has announced a significant step forward in the fight against malaria with the prequalification of the first treatment deve\u2026 [+4432 chars]",
+      "retrievedAt": "2026-04-25 19:21:59.638296",
+      "internal_id": "35addff6e470f715c5585e915fa869551fd6cc02f3a975cbc11fb6e335359a0c",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29210,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Queixas sobre im\u00f3veis abandonados no Centro disparam 135% em Campinas; moradores relatam inseguran\u00e7a e risco de dengue",
+      "description": "Servi\u00e7o 156 recebe reclama\u00e7\u00f5es sobre pr\u00e9dios abandonados no centro de Campinas O n\u00famero de queixas sobre im\u00f3veis abandonados no Centro de Campinas, registradas pelo servi\u00e7o 156 da prefeitura, teve um salto de 135,48% entre 2024 e 2025, passando de 62 para 146\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/04/24/queixas-sobre-imoveis-abandonados-no-centro-disparam-135percent-em-campinas-moradores-relatam-inseguranca-e-risco-de-dengue.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/w4l316yyLFYHBoiP0zI1fMSTkaA=/1200x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/D/yb2hUwRxuxAUYSdilARQ/imovel-abadonado-1-.png",
+      "publishedAt": "2026-04-24 16:29:56",
+      "content": "Segundo relatos da popula\u00e7\u00e3o, a situa\u00e7\u00e3o dos pr\u00e9dios e terrenos na regi\u00e3o gera inseguran\u00e7a e riscos \u00e0 sa\u00fade, como a prolifera\u00e7\u00e3o do mosquito da dengue. As reclama\u00e7\u00f5es e pedidos de vistoria por conta \u2026 [+2321 chars]",
+      "retrievedAt": "2026-04-25 19:21:58.703550",
+      "internal_id": "8c05281cb8228cbcef7b7b5e024e8bfe490ce54312d50e2e81155878a96a751b",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29216,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Bosco Dominique",
+      "title": "Puducherry qualifies for subnational malaria elimination verification certification",
+      "description": "PUDUCHERRY: The Union territory of Puducherry has been recognised as a Category 0 region for malaria, making it eligible to submit dossiers for subnat.",
+      "url": "https://timesofindia.indiatimes.com/city/puducherry/puducherry-qualifies-for-subnational-malaria-elimination-verification-certification/articleshow/130498246.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-04-24 15:22:06",
+      "content": "Follow Us On Social Media Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
+      "retrievedAt": "2026-04-25 19:21:59.468283",
+      "internal_id": "5e3a94ec1867252d11f5edadc9a537108436ca1d09737e88f78ed00fd851012e",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29211,
+      "query": [
+        "dengue"
+      ],
+      "source_id": "globo",
+      "source_name": "Globo",
+      "author": null,
+      "title": "Spillover: entenda como a a\u00e7\u00e3o humana na Amaz\u00f4nia facilita a transmiss\u00e3o de novos v\u00edrus",
+      "description": "Al\u00e9m da Dengue: como novos v\u00edrus que podem emergir da Amaz\u00f4nia Sob a maior floresta tropical do planeta, est\u00e1 uma imensa diversidade de formas de vida \u2014 incluindo v\u00edrus ainda desconhecidos pela ci\u00eancia. Esse conjunto, chamado de \u201cvirosfera\u201d, evolui em equil\u00edb\u2026",
+      "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/04/24/spillover-entenda-como-a-acao-humana-na-amazonia-facilita-a-transmissao-de-novos-virus.ghtml",
+      "urlToImage": "https://s2-g1.glbimg.com/7CiV9N4GrikLTuFA9tT1tsPQ9g4=/1250x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/R/gkwRVoR3uBnrKP4xLBHQ/a-57-.jpg",
+      "publishedAt": "2026-04-24 14:29:34",
+      "content": "Para entender essa din\u00e2mica, o Terra da Gente ouviu o virologista Jos\u00e9 Luiz Proen\u00e7a Modena, professor associado e coordenador do Laborat\u00f3rio de Estudos de V\u00edrus Emergentes da Universidade Estadual de\u2026 [+6440 chars]",
+      "retrievedAt": "2026-04-25 19:21:58.724175",
+      "internal_id": "2515ef31876792839d2ebb79991f1f92429ba5645f86d76e60a86839e505c80d",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29205,
+      "query": [
+        "pertussis"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Lisa Borkner, Caroline E. Sutton, Sreeram Udayan, Seyed Davoud Jazayeri, Kingston H. G. Mills",
+      "title": "Mechanisms of natural and vaccine-induced immunity to Bordetella pertussis",
+      "description": "Bordetella pertussis causes whooping cough (pertussis), a respiratory infectious disease that is resurgent despite high vaccine coverage. Research on the mechanisms of immunity to B. pertussis have demonstrated protective roles for innate immune cells, antibo\u2026",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014128",
+      "urlToImage": "https://journals.plos.org/plospathogens/article/figure/image?id=10.1371/journal.ppat.1014128.g002&size=inline",
+      "publishedAt": "2026-04-24 14:00:00",
+      "content": "Citation: Borkner L, Sutton CE, Udayan S, Jazayeri SD, Mills KHG (2026) Mechanisms of natural and vaccine-induced immunity to Bordetella pertussis. PLoS Pathog 22(4): e1014128. https://doi.org/10.\u2026 [+43221 chars]",
+      "retrievedAt": "2026-04-25 19:21:57.227434",
+      "internal_id": "89f47d134ee44ecbb286ad6fe49caadeebd100b30b44bc385b6640b685bb5d2d",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29218,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Zulfa Zahra Salsabila, Piyawan Kochayoo, Tipanan Khunsri, Pachara Tianpothong, Chaniya Leepiyasakulchai, Pongsakorn Thawornpan, Julius Clemence R. Hafalla, John H. Adams, Patchanee Chootong",
+      "title": "A functional crosstalk between circulating follicular helper 2 T cells and memory B cells drives anti-Plasmodium vivax antibodies",
+      "description": "Author summary Naturally acquired immunity to malaria relies on humoral immunity which plays a crucial role in inhibiting parasite invasion. Interactions between Tfh and B cells in germinal centers contribute to MBC development and antibody production. Althou\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014232",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014232.g005&size=inline",
+      "publishedAt": "2026-04-24 14:00:00",
+      "content": "Abstract Background The induction of long-term humoral immune responses depends upon the interaction between T follicular helper (Tfh) and B cells in germinal centers, leading to development of mem\u2026 [+52375 chars]",
+      "retrievedAt": "2026-04-25 19:21:59.547456",
+      "internal_id": "34a4603d29892e3dc498e3791cff3ed02246a0f6a3ab119ebcd455b18ad1f84d",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29220,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Amma Aboagyewa Larbi, Moses Etsey, Obed Brew, Bismark Koduah, Rosemond Enam Mawuenyega, Emmanuel Kobla Atsu Amewu, Nehemiah Kweku Essilfie, Solomon Wireko, Alexander Kwarteng, Ben Adu Gyan",
+      "title": "Gut microbiome alterations among Ghanaian children with asymptomatic malaria infections",
+      "description": "The human gut microbiome, consisting of bacteria, archaea, fungi, and viruses, influences various physiological processes of the body. The gut microbiome composition is shaped by factors such as diet, geography, and antibiotic use. Malaria has been a global h\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348120",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0348120.g008&size=inline",
+      "publishedAt": "2026-04-24 14:00:00",
+      "content": "Abstract The human gut microbiome, consisting of bacteria, archaea, fungi, and viruses, influences various physiological processes of the body. The gut microbiome composition is shaped by factors su\u2026 [+26332 chars]",
+      "retrievedAt": "2026-04-25 19:21:59.578907",
+      "internal_id": "474e8fac3e319c35453d1490cd22169f40f93bb61d9bb40d3c9bd02c0152d394",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29223,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Fulgence Kabor\u00e9, Wendpanga Jean Emmanuel Savadogo, Yannick Laurent Tchenadoyo Bayala, Camille Sompougdou, Charles Sougu\u00e9, Aboubakar Ouedraogo, Yamyell\u00e9 Enselme Zongo, Wendlassida Joelle St\u00e9phanie Zabsonr\u00e9/ Tiendr\u00e9beogo, Dieu-Donn\u00e9 Ou\u00e9draogo",
+      "title": "Post-chikungunya chronic arthralgia in Burkina Faso: Frequency and associated factors",
+      "description": "Author summary Chikungunya is a mosquito-borne viral disease that causes sudden fever and severe joint pain. While most patients recover within weeks, some continue to experience joint pain for months or even years. Data on this chronic phase are very limited\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014251",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014251.g004&size=inline",
+      "publishedAt": "2026-04-24 14:00:00",
+      "content": "Citation: Kabor\u00e9 F, Savadogo WJE, Bayala YLT, Sompougdou C, Sougu\u00e9 C, Ouedraogo A, et al. (2026) Post-chikungunya chronic arthralgia in Burkina Faso: Frequency and associated factors. PLoS Negl Trop \u2026 [+23819 chars]",
+      "retrievedAt": "2026-04-25 19:22:00.025392",
+      "internal_id": "1932d2c20c4f75be2f0627d52b1b8f5bc2c6bab0e6c290a0c0f9eef7d1e67f2b",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29206,
+      "query": [
+        "pertussis",
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "UN News",
+      "author": "dpicampaigns",
+      "title": "For every generation, vaccines work and they have saved over 150 million lives: WHO",
+      "description": "Over the past 50 years, vaccines have saved more than 150 million lives, as ordinary people chose to protect themselves, their children and their communities from diseases like measles, diphtheria, pertussis, polio, and rotavirus. Read Full Story on UN News \u2026",
+      "url": "https://news.un.org/en/story/2026/04/1167377",
+      "urlToImage": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/21-01-2026-UN-Cuba-01.jpg/image770x420cropped.jpg",
+      "publishedAt": "2026-04-24 12:00:00",
+      "content": "During World Immunization Week, which runs from 24 to 30 April, the World Health Organization (WHO) and partners are highlighting the benefits of vaccines at every stage of life, as well as the scien\u2026 [+1842 chars]",
+      "retrievedAt": "2026-04-25 19:21:57.256874",
+      "internal_id": "368e7d99c13416a45f405d7d153a6f44513a5b1976beb1d96d65a9881c80e53e",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29207,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Den of Geek US",
+      "author": "Alfredo Federico Robelo",
+      "title": "20 Unsettling Music Facts You May Not Have Known",
+      "description": "The music industry is full of stories that go far beyond what listeners hear streamed or on the radio. Behind many famous songs and artists are real events that are far more unsettling than the music itself suggests. There are stories with disturbing recordin\u2026",
+      "url": "http://www.denofgeek.com/tv/20-unsettling-music-facts-you-may-not-have-known/",
+      "urlToImage": "https://www.denofgeek.com/wp-content/uploads/2026/04/img-29.jpg?fit=1200%2C675",
+      "publishedAt": "2026-04-24 11:30:00",
+      "content": "During a 1982 concert, Osbourne bit the head off a bat thrown onstage, believing it was rubber. It was real, leading to immediate medical treatment for rabies and cementing one of rocks most disturbi\u2026 [+1073 chars]",
+      "retrievedAt": "2026-04-25 19:21:57.440106",
+      "internal_id": "8d51f27ee9930b17d08ec203b1deed6607be96d62f971d90a56bf1f28c73d548",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29224,
+      "query": [
+        "yersinia"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u0412\u0435\u043d\u0436\u0435\u0433\u0430 \u041a\u0440\u0438\u0441\u0442\u0438\u043d\u0430 \u0420\u043e\u043c\u0430\u043d\u043e\u0432\u043d\u0430",
+      "title": "\u0423\u0447\u0435\u043d\u044b\u0435 \u0440\u0430\u0441\u0441\u043a\u0430\u0437\u0430\u043b\u0438 \u043e \u043f\u0435\u0440\u0432\u043e\u043c \u0437\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0438 \u0436\u0435\u0440\u0442\u0432 \u042e\u0441\u0442\u0438\u043d\u0438\u0430\u043d\u043e\u0432\u043e\u0439 \u0447\u0443\u043c\u044b",
+      "description": "\u041f\u0435\u0440\u0432\u043e\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u043d\u043e\u0435 \u043c\u0430\u0441\u0441\u043e\u0432\u043e\u0435 \u0437\u0430\u0445\u043e\u0440\u043e\u043d\u0435\u043d\u0438\u0435 \u0436\u0435\u0440\u0442\u0432 \u0431\u0443\u0431\u043e\u043d\u043d\u043e\u0439 \u0447\u0443\u043c\u044b \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0435\u043d\u043e \u0432 \u0438\u043e\u0440\u0434\u0430\u043d\u0441\u043a\u043e\u043c \u0414\u0436\u0435\u0440\u0430\u0448\u0435. \u041c\u0435\u0436\u0434\u0443\u043d\u0430\u0440\u043e\u0434\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u0443\u0447\u0435\u043d\u044b\u0445 \u043f\u043e\u0434 \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0441\u0442\u0432\u043e\u043c \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u042e\u0436\u043d\u043e\u0439 \u0424\u043b\u043e\u0440\u0438\u0434\u044b \u0438\u0437\u0443\u0447\u0438\u043b\u0430 \u043e\u0431\u044a\u0435\u043a\u0442 \u044d\u043f\u043e\u0445\u0438 \u042e\u0441\u0442\u0438\u043d\u0438\u0430\u043d\u043e\u0432\u043e\u0439 \u0447\u0443\u043c\u044b (541\u2013750 \u0433\u0433. \u043d.\u044d.) \u0438 \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b\u0430 \u0440\u0435\u0437\u2026",
+      "url": "https://iz.ru/2085093/uchenye-rasskazali-o-pervom-zakhoronenii-zhertv-iustinianovoi-chumy-izi",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/default_images/world.png.jpg?itok=Yr-XVh80",
+      "publishedAt": "2026-04-24 09:52:16",
+      "content": ". (541750 . ..) 23 Science Daily. . Yersinia pestis . \u00ab , , , , \u00bb, , . . , , , . . . , , . , , , , . , , . \u00ab , . , . - , \u00bb, . Popular Science , , , , \u00ab \u00bb (Yersinia pestis), 1346 1353 .",
+      "retrievedAt": "2026-04-25 19:22:00.681944",
+      "internal_id": "ee75c1c3b22626fe44aff6740f9d54e8a0268129b1a62fffcc1fcaaa4390356c",
+      "publishedAtLabel": "Apr 24"
+    },
     {
       "id": 29201,
       "query": [

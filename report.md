@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-04-25 07:35
-- **Most recent article:** 2026-04-24 05:56:44
+- **New articles in last harvest:** 20
+- **Last harvest:** 2026-04-25 19:22
+- **Most recent article:** 2026-04-24 18:28:36
 
 ---
 
@@ -13,18 +13,18 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 8 | 292 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 44 | 227 |
-| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 14 | 121 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 29 | 104 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 47 | 230 |
+| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 16 | 123 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 40 | 115 |
 | mpox | 16 | 12 | 4 | 19 | 9 | 16 | 3 | 79 |
-| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 4 | 68 |
-| chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 2 | 44 |
+| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 5 | 69 |
+| chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 3 | 45 |
 | h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 5 | 38 |
 | zika | 2 | 4 | 1 | 15 | 1 | 4 | 4 | 31 |
 | hpai | 5 | 2 | 6 | 2 | 2 | 1 | 0 | 18 |
+| pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 4 | 8 |
 | leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 1 | 8 |
-| pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 2 | 6 |
-| yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 3 | 6 |
+| yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 4 | 7 |
 | typhoid | 0 | 0 | 1 | 1 | 0 | 3 | 0 | 5 |
 | shigellosis | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
 
@@ -45,6 +45,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (yersinia)
 
+- [Ученые рассказали о первом захоронении жертв Юстиниановой чумы](https://iz.ru/2085093/uchenye-rasskazali-o-pervom-zakhoronenii-zhertv-iustinianovoi-chumy-izi) (Iz.ru)
+
 - [Дослідження давньої ДНК розкрило таємницю масового зникнення населення Європи 5000 років тому](https://life.pravda.com.ua/society/vcheni-viyavili-prichini-masovogo-zniknennya-naselennya-yevropi-314520/) (Pravda.com.ua)
 
 - [Ученые связали неолитический упадок 5 тыс. лет назад с древней чумой](https://iz.ru/2082388/uchenye-sviazali-neoliticheskii-upadok-5-tys-let-nazad-s-drevnei-chumoi-izi) (Iz.ru)
@@ -52,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 - [Древняя ДНК рассказала о резком падении численности населения Европы 5000 лет назад](https://overclockers.ru/blog/Scorpion81/show/253979/Drevnyaya-DNK-rasskazala-o-rezkom-padenii-chislennosti-naseleniya-Evropy-5000-let-nazad) (Overclockers.ru)
 
 ## 26-17 (rabies)
+
+- [20 Unsettling Music Facts You May Not Have Known](http://www.denofgeek.com/tv/20-unsettling-music-facts-you-may-not-have-known/) (Den of Geek US)
 
 - ['Ditched vaccine, went for faith healing': Madhya Pradesh woman barks, attacks people, months after dog bite](https://timesofindia.indiatimes.com/city/bhopal/ditched-vaccine-went-for-faith-healing-madhya-pradesh-woman-barks-attacks-people-months-after-dog-bite/articleshow/130481652.cms) (The Times of India)
 
@@ -62,6 +66,10 @@ Source: [News API](https://newsapi.org/)
 - [Health and economic burden of canine rabies in Chilga district, centeral Gondar Zone, Amhara Region, Ethiopia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014196) (Plos.org)
 
 ## 26-17 (pertussis)
+
+- [Mechanisms of natural and vaccine-induced immunity to Bordetella pertussis](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014128) (Plos.org)
+
+- [For every generation, vaccines work and they have saved over 150 million lives: WHO](https://news.un.org/en/story/2026/04/1167377) (UN News)
 
 - [Modeling neonatal immune response to B. pertussis identifies early B cell activation and differentiation](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014163) (Plos.org)
 
@@ -94,6 +102,12 @@ Source: [News API](https://newsapi.org/)
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [3 measles cases detected in Lanaudière region as Quebec outbreak continues](https://www.cbc.ca/news/canada/montreal/measles-cases-lanaudiere-quebec-9.7176367) (CBC News)
+
+- [Manitoba health officials report 25 more measles cases as province remains national hotspot](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-25-more-cases-update-9.7176091) (CBC News)
+
+- [For every generation, vaccines work and they have saved over 150 million lives: WHO](https://news.un.org/en/story/2026/04/1167377) (UN News)
 
 - [RFK Jr. Wipes His Hands Of This Whole Measles Outbreak Thing](https://www.techdirt.com/2026/04/23/rfk-jr-wipes-his-hands-of-this-whole-measles-outbreak-thing/) (Techdirt)
 
@@ -185,6 +199,28 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (malaria)
 
+- [WHO gibt erstes Malariamedikament für Babys frei](https://www.diepresse.com/20802426/who-gibt-erstes-malariamedikament-fuer-babys-frei) (Diepresse.com)
+
+- [Jharkhand health department takes proactive measures to control malaria cases](https://timesofindia.indiatimes.com/city/ranchi/jharkhand-health-department-takes-proactive-measures-to-control-malaria-cases/articleshow/130501876.cms) (The Times of India)
+
+- [Gesundheit: WHO gibt erstmals Malaria-Medikament für Babys frei](https://www.tagesspiegel.de/wissen/gesundheit-who-gibt-erstmals-malaria-medikament-fur-babys-frei-15521606.html) (Der Tagesspiegel)
+
+- [Gesundheit: WHO gibt erstmals Malaria-Medikament für Babys frei](https://www.zeit.de/news/2026-04/24/who-gibt-erstmals-malaria-medikament-fuer-babys-frei) (Die Zeit)
+
+- [Gesundheit: WHO gibt erstmals Malaria-Medikament für Babys frei](https://www.stern.de/panorama/wissen/gesundheit--who-gibt-erstmals-malaria-medikament-fuer-babys-frei-37341200.html) (STERN.de)
+
+- [La OMS aprueba el primer tratamiento contra la malaria diseñado para recién nacidos y bebés](https://www.elperiodico.com/es/sanidad/20260424/oms-aprueba-tratamiento-malaria-lactantes-129497466) (Elperiodico.com)
+
+- [How Has Malaria Shaped Human Populations?](https://archaeology.org/news/2026/04/24/how-has-malaria-shaped-human-populations/) (Archaeology)
+
+- [WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests](https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests) (World Health Organization)
+
+- [Puducherry qualifies for subnational malaria elimination verification certification](https://timesofindia.indiatimes.com/city/puducherry/puducherry-qualifies-for-subnational-malaria-elimination-verification-certification/articleshow/130498246.cms) (The Times of India)
+
+- [A functional crosstalk between circulating follicular helper 2 T cells and memory B cells drives anti-Plasmodium vivax antibodies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014232) (Plos.org)
+
+- [Gut microbiome alterations among Ghanaian children with asymptomatic malaria infections](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348120) (Plos.org)
+
 - [Mehr als 50 Millionen Impfdosen gegen Malaria in Afrika](https://www.tagesschau.de/ausland/europa/impfstoffallianz-malaria-who-100.html) (tagesschau.de)
 
 - [Novartis malaria treatment Coartem® Baby receives WHO prequalification, paving way for greater access for newborns and young infants](https://www.globenewswire.com/news-release/2026/04/24/3280515/0/en/Novartis-malaria-treatment-Coartem-Baby-receives-WHO-prequalification-paving-way-for-greater-access-for-newborns-and-young-infants.html) (GlobeNewswire)
@@ -261,6 +297,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (dengue)
 
+- [Queixas sobre imóveis abandonados no Centro disparam 135% em Campinas; moradores relatam insegurança e risco de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2026/04/24/queixas-sobre-imoveis-abandonados-no-centro-disparam-135percent-em-campinas-moradores-relatam-inseguranca-e-risco-de-dengue.ghtml) (Globo)
+
+- [Spillover: entenda como a ação humana na Amazônia facilita a transmissão de novos vírus](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/04/24/spillover-entenda-como-a-acao-humana-na-amazonia-facilita-a-transmissao-de-novos-virus.ghtml) (Globo)
+
 - [How arboviruse E Dimer vaccines improve safety](https://www.news-medical.net/whitepaper/20260423/How-arboviruse-E-Dimer-vaccines-improve-safety-by-reducing-antibody-dependent-enhancement.aspx) (News-Medical.Net)
 
 - [Počty nákaz horečkou dengue vyskočily v Česku meziročně o 40 procent](https://www.novinky.cz/clanek/domaci-pocty-nakaz-horeckou-dengue-vyskocily-v-cesku-mezirocne-o-40-procent-40574955) (Novinky.cz)
@@ -290,6 +330,8 @@ Source: [News API](https://newsapi.org/)
 - [Tropické horečky rekordně přibývá. Nebezpeční komáři jsou už i v Chorvatsku](https://www.idnes.cz/zpravy/domaci/dengue-tropicka-horecka-maledivy-sri-lanka-nemoc-chikungunya.A260419_201312_domaci_jans) (Idnes.cz)
 
 ## 26-17 (chikungunya)
+
+- [Post-chikungunya chronic arthralgia in Burkina Faso: Frequency and associated factors](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014251) (Plos.org)
 
 - [Surveillance and control efficacy of the Bergerac, France, 2025 chikungunya outbreak](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014184) (Plos.org)
 
