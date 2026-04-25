@@ -1,8 +1,152 @@
 {
-  "last_updated": "2026-04-24 19:23",
-  "count_articles_total": 979,
-  "count_articles_new": 17,
+  "last_updated": "2026-04-25 07:35",
+  "count_articles_total": 987,
+  "count_articles_new": 8,
   "articles": [
+    {
+      "id": 29201,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "tagesschau.de",
+      "author": "tagesschau.de",
+      "title": "Mehr als 50 Millionen Impfdosen gegen Malaria in Afrika",
+      "description": "In Afrika konnten Tausende Kinderleben durch Malaria-Impfungen gerettet werden. Auch die Zahl schwerer Erkrankungen geht stark zur\u00fcck. Doch dieser historische Fortschritt steht auf der Kippe, weil die Finanzierung wegzubrechen droht.",
+      "url": "https://www.tagesschau.de/ausland/europa/impfstoffallianz-malaria-who-100.html",
+      "urlToImage": "https://images.tagesschau.de/image/269731f6-e310-421b-8632-da1d158b2c3a/AAABmhHu0_I/AAABnSSvrFg/16x9-big/spritze-krankenschwester-100.jpg?width=1280",
+      "publishedAt": "2026-04-24 05:56:44",
+      "content": "Stand: 24.04.2026 07:56 Uhr In Afrika konnten Tausende Kinderleben durch Malaria-Impfungen gerettet werden. Auch die Zahl schwerer Erkrankungen geht stark zur\u00fcck. Doch dieser historische Fortschritt\u2026 [+3210 chars]",
+      "retrievedAt": "2026-04-25 07:35:40.321831",
+      "internal_id": "df42a2c5391dbdad7c317dec8b5a70e07ef2a7abc6a0c91f8cbd7bd1d2cad8ed",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29203,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Novartis Pharma  AG",
+      "title": "Novartis malaria treatment Coartem\u00ae Baby receives WHO prequalification, paving way for greater access for newborns and young infants",
+      "description": "Basel, April 24, 2026 \u2013 Novartis today announced that the World Health Organization (WHO) has prequalified Coartem\u00ae (artemether-lumefantrine) Baby, the first and only antimalarial developed specifically for newborns and young infants weighing from 2 to 5 kilo\u2026",
+      "url": "https://www.globenewswire.com/news-release/2026/04/24/3280515/0/en/Novartis-malaria-treatment-Coartem-Baby-receives-WHO-prequalification-paving-way-for-greater-access-for-newborns-and-young-infants.html",
+      "urlToImage": "https://ml-eu.globenewswire.com/Resource/Download/f0161a05-9638-4da5-a4af-f9cdb28f0304",
+      "publishedAt": "2026-04-24 05:15:00",
+      "content": "Coartem\u00ae (artemether-lumefantrine) Baby is the first and only malaria treatment for newborns and young infants, closing long-standing treatment gap WHO prequalification key milestone\u2026 [+10222 chars]",
+      "retrievedAt": "2026-04-25 07:35:40.466217",
+      "internal_id": "bfbf8c7d08b12016c47dfc0edd8b2a8c6cf1739251833437b4810d921bf00cfc",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29202,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Ilfattoquotidiano.it",
+      "author": "The ONE Campaign Italia",
+      "title": "La diffusione della malaria sta cambiando. Ed \u00e8 un rischio anche per l\u2019Europa",
+      "description": "di Irene Crocetti e Alessia Gjuzi Sabato 25 aprile si celebra la Giornata Mondiale della malaria, che ci ricorda quanto ci sia ancora da fare. La malaria potrebbe non essere cos\u00ec lontana come pensiamo. Questa giornata ci invita a riflettere, informarci e chie\u2026",
+      "url": "https://www.ilfattoquotidiano.it/2026/04/24/giornata-mondiale-malaria-rischi-italia-notizie/8363934/",
+      "urlToImage": "https://st.ilfattoquotidiano.it/wp-content/uploads/2026/04/23/campagna-one-1200.jpg",
+      "publishedAt": "2026-04-24 04:12:01",
+      "content": "di Irene Crocetti e Alessia Gjuzi Sabato 25 aprile si celebra la Giornata Mondiale della malaria, che ci ricorda quanto ci sia ancora da fare. La malaria potrebbe non essere cos\u00ec lontana come pensia\u2026 [+3946 chars]",
+      "retrievedAt": "2026-04-25 07:35:40.334050",
+      "internal_id": "d45cf6ce0cf773209c5cbd340a2411622ede4abad10c8d6497fc87a09143fda9",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29198,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Techdirt",
+      "author": "Timothy Geigner",
+      "title": "RFK Jr. Wipes His Hands Of This Whole Measles Outbreak Thing",
+      "description": "In the year 2,000 (cue the Conan O\u2019Brien music), America had so successfully defeated measles as a disease that we were awarded elimination status for the disease. Then Trump was elected to a second term, for reasons I still can\u2019t fully explain, after which R\u2026",
+      "url": "https://www.techdirt.com/2026/04/23/rfk-jr-wipes-his-hands-of-this-whole-measles-outbreak-thing/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2026-04-24 03:07:53",
+      "content": "from the CYA-jr. dept In the year 2,000 (cue the Conan O\u2019Brien music), America had so successfully defeated measles as a disease that we were awarded elimination status for the disease. Then Trump w\u2026 [+4980 chars]",
+      "retrievedAt": "2026-04-25 07:35:38.640789",
+      "internal_id": "0bf9b7ea7be6fbbd98fce231a584821e99d0dda71b70ade385451172b5efb938",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29197,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "P Naveen",
+      "title": "'Ditched vaccine, went for faith healing': Madhya Pradesh woman barks, attacks people, months after dog bite",
+      "description": "A 50-year-old woman in Chhindwara exhibited severe rabies symptoms, including aggression and hydrophobia, months after a dog bite, reportedly due to faith healing instead of proper medical care.",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/ditched-vaccine-went-for-faith-healing-madhya-pradesh-woman-barks-attacks-people-months-after-dog-bite/articleshow/130481652.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-130482446,width-1280,height-720,imgsize-78584,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-04-24 03:04:23",
+      "content": "News City News bhopal News 'Ditched vaccine, went for faith healing': Madhya Pradesh woman barks, attacks people, months after dog bite Follow Us On S\u2026 [+127 chars]",
+      "retrievedAt": "2026-04-25 07:35:38.216449",
+      "internal_id": "0285979affea3a017a4cf0e9f26219f7421b7880762291dc70478ae6cf3587a4",
+      "publishedAtLabel": "Apr 24"
+    },
+    {
+      "id": 29204,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Jailine Gonz\u00e1lez G\u00f3mez",
+      "title": "Cient\u00edficos revelan que la malaria influy\u00f3 en d\u00f3nde vivieron los humanos durante 74.000 a\u00f1os en \u00c1frica",
+      "description": "Investigaci\u00f3n muestra que la malaria influy\u00f3 en la ubicaci\u00f3n y expansi\u00f3n de poblaciones humanas en \u00c1frica durante miles de a\u00f1os.",
+      "url": "https://www.nacion.com/ciencia/cientificos-revelan-que-la-malaria-influyo-en/7CYKIW676NBBJKTAR3MKFUDTZ4/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/XKZEN5KITRHEHMQOJJDTV7WGGU.jpg?smart=true&auth=56ea744901a8128a3a85877b6fe8d591b2c7db339aa3f73f4fe19ca144b7958f&width=1440",
+      "publishedAt": "2026-04-23 22:46:58",
+      "content": "Durante d\u00e9cadas, el clima ha sido la principal explicaci\u00f3n para entender por qu\u00e9 las primeras poblaciones humanas se movieron y se asentaron en distintos lugares de \u00c1frica. Sin embargo, un nuevo estu\u2026 [+3011 chars]",
+      "retrievedAt": "2026-04-25 07:35:40.522877",
+      "internal_id": "97ec28448747e8f4e06991e376240c1ae629b245545826a9785028c484b9b846",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 29199,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Iheart.com",
+      "author": "News Talk 99.5 Wrno",
+      "title": "Louisiana Health Officials Confirm Child Measles Case In Kenner | News Talk 99.5 WRNO",
+      "description": "The Louisiana Department of Health says the patient was exposed to the disease during international travel and is now isolated at a hospital.",
+      "url": "https://wrno.iheart.com/content/2026-04-23-louisiana-health-officials-confirm-child-measles-case-in-kenner/",
+      "urlToImage": "https://i.iheart.com/v3/re/assets.getty/6806693dbe9718a685383a13?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+      "publishedAt": "2026-04-23 19:07:27",
+      "content": "State health officials are confirming a case of measles in a child. The Louisiana Department of Health says the patient was exposed to the disease during international travel and is now isolated at \u2026 [+332 chars]",
+      "retrievedAt": "2026-04-25 07:35:38.983428",
+      "internal_id": "fb746f2a830384b68887262c22c1a0ff70cb74a854aa4b0d8614eb99c834ff66",
+      "publishedAtLabel": "Apr 23"
+    },
+    {
+      "id": 29200,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "MedicineNet",
+      "author": null,
+      "title": "ER Study Finds Major Gaps in Measles Immunity",
+      "description": "As measles cases in California hit a seven-year high, new research suggests many adults are walking around without the protection they need.",
+      "url": "https://www.medicinenet.com/er_study_finds_major_gaps_in_measles_immunity/news.htm",
+      "urlToImage": "https://images.medicinenet.com/images/facebook/medicinenet/fb-mnet-default.jpg",
+      "publishedAt": "2026-04-23 17:15:29",
+      "content": "Latest Infectious Disease News By Deanna Neff HealthDay ReporterTHURSDAY, April 23, 2026 \u2014 As measles cases in California hit a seven-year high, new research suggests many adults are walking around \u2026 [+3203 chars]",
+      "retrievedAt": "2026-04-25 07:35:39.018387",
+      "internal_id": "febd4f4171742d5fd6abc5370dad5a6798a3295a6cc623c1ae8dcc0002e1bb16",
+      "publishedAtLabel": "Apr 23"
+    },
     {
       "id": 29196,
       "query": [

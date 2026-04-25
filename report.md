@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2026-04-24 19:23
-- **Most recent article:** 2026-04-23 17:00:00
+- **New articles in last harvest:** 8
+- **Last harvest:** 2026-04-25 07:35
+- **Most recent article:** 2026-04-24 05:56:44
 
 ---
 
@@ -13,11 +13,11 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|-|
 | meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 8 | 292 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 41 | 224 |
+| measles | 30 | 20 | 21 | 26 | 51 | 35 | 44 | 227 |
 | dengue | 11 | 28 | 19 | 18 | 12 | 19 | 14 | 121 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 25 | 100 |
+| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 29 | 104 |
 | mpox | 16 | 12 | 4 | 19 | 9 | 16 | 3 | 79 |
-| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 3 | 67 |
+| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 4 | 68 |
 | chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 2 | 44 |
 | h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 5 | 38 |
 | zika | 2 | 4 | 1 | 15 | 1 | 4 | 4 | 31 |
@@ -52,6 +52,8 @@ Source: [News API](https://newsapi.org/)
 - [Древняя ДНК рассказала о резком падении численности населения Европы 5000 лет назад](https://overclockers.ru/blog/Scorpion81/show/253979/Drevnyaya-DNK-rasskazala-o-rezkom-padenii-chislennosti-naseleniya-Evropy-5000-let-nazad) (Overclockers.ru)
 
 ## 26-17 (rabies)
+
+- ['Ditched vaccine, went for faith healing': Madhya Pradesh woman barks, attacks people, months after dog bite](https://timesofindia.indiatimes.com/city/bhopal/ditched-vaccine-went-for-faith-healing-madhya-pradesh-woman-barks-attacks-people-months-after-dog-bite/articleshow/130481652.cms) (The Times of India)
 
 - [‘Rabid’ dog on biting spree injures 36 wedding guests, pedestrians in Badaun](https://indianexpress.com/article/cities/lucknow/rabid-dog-on-biting-spree-injures-36-wedding-guests-pedestrians-in-badaun-10650996/) (The Indian Express)
 
@@ -92,6 +94,12 @@ Source: [News API](https://newsapi.org/)
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [RFK Jr. Wipes His Hands Of This Whole Measles Outbreak Thing](https://www.techdirt.com/2026/04/23/rfk-jr-wipes-his-hands-of-this-whole-measles-outbreak-thing/) (Techdirt)
+
+- [Louisiana Health Officials Confirm Child Measles Case In Kenner | News Talk 99.5 WRNO](https://wrno.iheart.com/content/2026-04-23-louisiana-health-officials-confirm-child-measles-case-in-kenner/) (Iheart.com)
+
+- [ER Study Finds Major Gaps in Measles Immunity](https://www.medicinenet.com/er_study_finds_major_gaps_in_measles_immunity/news.htm) (MedicineNet)
 
 - [NJ warns of possible measles exposures at Newark Airport](https://gothamist.com/news/nj-warns-of-possible-measles-exposures-at-newark-airport) (Gothamist)
 
@@ -176,6 +184,14 @@ Source: [News API](https://newsapi.org/)
 - [What did the measles outbreak data show? #health](https://alltoc.com/health/what-did-the-measles-outbreak-data-show) (Alltoc.com)
 
 ## 26-17 (malaria)
+
+- [Mehr als 50 Millionen Impfdosen gegen Malaria in Afrika](https://www.tagesschau.de/ausland/europa/impfstoffallianz-malaria-who-100.html) (tagesschau.de)
+
+- [Novartis malaria treatment Coartem® Baby receives WHO prequalification, paving way for greater access for newborns and young infants](https://www.globenewswire.com/news-release/2026/04/24/3280515/0/en/Novartis-malaria-treatment-Coartem-Baby-receives-WHO-prequalification-paving-way-for-greater-access-for-newborns-and-young-infants.html) (GlobeNewswire)
+
+- [La diffusione della malaria sta cambiando. Ed è un rischio anche per l’Europa](https://www.ilfattoquotidiano.it/2026/04/24/giornata-mondiale-malaria-rischi-italia-notizie/8363934/) (Ilfattoquotidiano.it)
+
+- [Científicos revelan que la malaria influyó en dónde vivieron los humanos durante 74.000 años en África](https://www.nacion.com/ciencia/cientificos-revelan-que-la-malaria-influyo-en/7CYKIW676NBBJKTAR3MKFUDTZ4/story/) (Nacion.com)
 
 - [ANECPLA aconseja "no bajar la guardia" frente a la malaria en España ante la presencia del mosquito transmisor](https://www.infosalus.com/salud-investigacion/noticia-anecpla-aconseja-no-bajar-guardia-frente-malaria-espana-presencia-mosquito-transmisor-20260423182707.html) (Infosalus.com)
 
