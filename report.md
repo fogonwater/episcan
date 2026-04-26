@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 20
-- **Last harvest:** 2026-04-25 19:22
-- **Most recent article:** 2026-04-24 18:28:36
+- **New articles in last harvest:** 12
+- **Last harvest:** 2026-04-26 07:37
+- **Most recent article:** 2026-04-25 06:38:03
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-11 | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
-|--|-|-|-|-|-|-|-|-|
-| meningitis | 6 | 175 | 75 | 19 | 4 | 5 | 8 | 292 |
-| measles | 30 | 20 | 21 | 26 | 51 | 35 | 47 | 230 |
-| dengue | 11 | 28 | 19 | 18 | 12 | 19 | 16 | 123 |
-| malaria | 9 | 20 | 14 | 9 | 14 | 9 | 40 | 115 |
-| mpox | 16 | 12 | 4 | 19 | 9 | 16 | 3 | 79 |
-| rabies | 15 | 7 | 5 | 26 | 8 | 3 | 5 | 69 |
-| chikungunya | 7 | 7 | 8 | 11 | 3 | 6 | 3 | 45 |
-| h5n1 | 8 | 7 | 4 | 7 | 2 | 5 | 5 | 38 |
-| zika | 2 | 4 | 1 | 15 | 1 | 4 | 4 | 31 |
-| hpai | 5 | 2 | 6 | 2 | 2 | 1 | 0 | 18 |
-| pertussis | 2 | 0 | 1 | 0 | 0 | 1 | 4 | 8 |
-| leptospirosis | 1 | 3 | 1 | 0 | 1 | 1 | 1 | 8 |
-| yersinia | 0 | 1 | 1 | 0 | 1 | 0 | 4 | 7 |
-| typhoid | 0 | 0 | 1 | 1 | 0 | 3 | 0 | 5 |
-| shigellosis | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
+| Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
+|--|-|-|-|-|-|-|-|
+| meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 286 |
+| measles | 20 | 21 | 26 | 51 | 35 | 51 | 204 |
+| malaria | 20 | 14 | 9 | 14 | 9 | 47 | 113 |
+| dengue | 27 | 19 | 18 | 12 | 19 | 16 | 111 |
+| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 63 |
+| rabies | 6 | 5 | 26 | 8 | 3 | 5 | 53 |
+| chikungunya | 7 | 8 | 11 | 3 | 6 | 3 | 38 |
+| h5n1 | 7 | 4 | 7 | 2 | 5 | 6 | 31 |
+| zika | 4 | 1 | 15 | 1 | 4 | 4 | 29 |
+| hpai | 1 | 6 | 2 | 2 | 1 | 0 | 12 |
+| yersinia | 1 | 1 | 0 | 1 | 0 | 4 | 7 |
+| leptospirosis | 3 | 1 | 0 | 1 | 1 | 1 | 7 |
+| pertussis | 0 | 1 | 0 | 0 | 1 | 4 | 6 |
+| typhoid | 0 | 1 | 1 | 0 | 3 | 0 | 5 |
+| shigellosis | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -103,13 +103,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (measles)
 
+- [Wellington measles case: Porirua supermarkets added to locations of interest](https://www.nzherald.co.nz/nz/wellington-measles-case-porirua-supermarkets-added-to-locations-of-interest/UMOFX6C2IRC7RFER5KOXKTMZW4/) (New Zealand Herald)
+
+- [Wellington measles case: Porirua supermarkets listed as locations of interest](https://www.nzherald.co.nz/nz/wellington-measles-case-porirua-supermarkets-listed-as-locations-of-interest/UMOFX6C2IRC7RFER5KOXKTMZW4/) (New Zealand Herald)
+
 - [3 measles cases detected in Lanaudière region as Quebec outbreak continues](https://www.cbc.ca/news/canada/montreal/measles-cases-lanaudiere-quebec-9.7176367) (CBC News)
 
 - [Manitoba health officials report 25 more measles cases as province remains national hotspot](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-25-more-cases-update-9.7176091) (CBC News)
 
 - [For every generation, vaccines work and they have saved over 150 million lives: WHO](https://news.un.org/en/story/2026/04/1167377) (UN News)
 
+- [Newer testing methods suggest significant silent spread of measles in the US, threatening elimination | CNN](https://www.cnn.com/2026/04/24/health/newer-testing-silent-spread-measles-elimination) (CNN)
+
 - [RFK Jr. Wipes His Hands Of This Whole Measles Outbreak Thing](https://www.techdirt.com/2026/04/23/rfk-jr-wipes-his-hands-of-this-whole-measles-outbreak-thing/) (Techdirt)
+
+- [Vaccines, budget cuts and affordability: Takeaways from RFK Jr.'s gauntlet of congressional hearings | Chattanooga Times Free Press](http://www.timesfreepress.com/news/2026/apr/23/vaccines-budget-cuts-and-affordability-takeaways-from-rfk-jrs-gauntlet-of-congressional-hearings/) (Chattanooga Times Free Press)
 
 - [Louisiana Health Officials Confirm Child Measles Case In Kenner | News Talk 99.5 WRNO](https://wrno.iheart.com/content/2026-04-23-louisiana-health-officials-confirm-child-measles-case-in-kenner/) (Iheart.com)
 
@@ -199,6 +207,20 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (malaria)
 
+- [Polska ma komary przenoszące malarię: czy mamy się czego obawiać? Eksperci w Światowy Dzień Malarii](https://kopalniawiedzy.pl/malaria-Polska-Swiatowy-Dzien-Malarii-choroby-tropikalne,38596) (Kopalniawiedzy.pl)
+
+- [News24 | 414 malaria cases, 11 deaths: Gauteng sees alarming spike after wet weather](https://www.news24.com/southafrica/health-news/414-malaria-cases-11-deaths-gauteng-sees-alarming-spike-after-wet-weather-20260425-0355) (News24)
+
+- [World Malaria Day: Why fever should never be ignored in pregnancy](https://www.news9live.com/health/world-malaria-day-risks-in-pregnancy-and-need-for-early-care-2963616) (News9live.com)
+
+- [WHO approves first Malaria drug for babies](https://www.dw.com/en/who-approves-first-malaria-drug-for-babies/a-76929581) (DW (English))
+
+- [Kampf gegen Malaria: WHO gibt erstmals Malaria-Medikament für Babys frei](https://www.zeit.de/gesundheit/2026-04/malaria-who-medikament-babys-freigegeben) (Die Zeit)
+
+- [WHO approves first malaria treatment for infants](https://www.vanguardngr.com/2026/04/who-approves-first-malaria-treatment-for-infants/) (Vanguard)
+
+- [WHO gibt erstmals Malaria-Medikament für Babys frei](https://orf.at/stories/3427894/) (Orf.at)
+
 - [WHO gibt erstes Malariamedikament für Babys frei](https://www.diepresse.com/20802426/who-gibt-erstes-malariamedikament-fuer-babys-frei) (Diepresse.com)
 
 - [Jharkhand health department takes proactive measures to control malaria cases](https://timesofindia.indiatimes.com/city/ranchi/jharkhand-health-department-takes-proactive-measures-to-control-malaria-cases/articleshow/130501876.cms) (The Times of India)
@@ -284,6 +306,8 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod leptospirosis cases up by 225 percent](https://rpnradio.com/bacolod-leptospirosis-cases-up-by-225-percent/) (Rpnradio.com)
 
 ## 26-17 (h5n1)
+
+- [Por cisne contagiado, SAG declara alerta por Influenza Aviar en la Región de Los Lagos](https://www.df.cl/regiones/los-lagos/por-cisnes-contagiados-sag-declara-alerta-por-casos-influenza-aviar-en-los) (Www.df.cl)
 
 - [BBC Inside Science](https://www.bbc.co.uk/sounds/play/w3ct977h?at_campaign=rss) (BBC News)
 
@@ -1533,8 +1557,6 @@ Source: [News API](https://newsapi.org/)
 
 - [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
 
-- [Dipolog: LGU RIZAL NAGSAULOG SA RABIES AWARENESS MONTH PINAAGI SA LIBRENG BAKUNA SA MGA ALAGANG HAYOP](https://rpnradio.com/dipolog-lgu-rizal-nagsaulog-sa-rabies-awareness-month-pinaagi-sa-libreng-bakuna-sa-mga-alagang-hayop/) (Rpnradio.com)
-
 ## 26-12 (mpox)
 
 - [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
@@ -2009,8 +2031,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Research: Highly pathogenic avian influenza: audit of vaccination of commercial ducks in France](https://www.gov.uk/government/publications/highly-pathogenic-avian-influenza-audit-of-vaccination-of-commercial-ducks-in-france) (Www.gov.uk)
 
-- [동물단체 “1000만 닭 묻어버리는 살처분, 옳은가”](https://www.khan.co.kr/article/202603151600001) (Khan.co.kr)
-
 ## 26-12 (h5n1)
 
 - [전북 장수 오리 농장서 고병원성 AI 확진···전국 60번째](https://www.khan.co.kr/article/202603212137001) (Khan.co.kr)
@@ -2083,8 +2103,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Seroprevalence and preventive practices of dengue and chikungunya among school children in Bangkok: Gaps in prevention and vaccination strategies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013026) (Plos.org)
 
-- [Dengue Fever क्या है? | Dengue Symptoms, Platelets, Treatment और Diet पूरी जानकारी](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUCMOWCi25q8) (YouTube)
-
 ## 26-12 (chikungunya)
 
 - [Bombeiros de MG fazem alerta sobre anéis presos e chikungunya. Entenda](https://www.metropoles.com/minas-gerais/bombeiros-de-mg-fazem-alerta-sobre-aneis-presos-e-chikungunya-entenda) (Metropoles.com)
@@ -2100,251 +2118,3 @@ Source: [News API](https://newsapi.org/)
 - [MG tem seis mortes por dengue e mais de 8 mil casos confirmados](https://www.metropoles.com/minas-gerais/mg-tem-seis-mortes-por-dengue-e-mais-de-8-mil-casos-confirmados) (Metropoles.com)
 
 - [Seroprevalence and preventive practices of dengue and chikungunya among school children in Bangkok: Gaps in prevention and vaccination strategies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013026) (Plos.org)
-
-## 26-11 (zika)
-
-- [豊中つばさ公園『ma-zika』一部開園記念 東西を結ぶラッピングバス運行開始](https://prtimes.jp/main/html/rd/p/000000965.000078420.html) (Prtimes.jp)
-
-- [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
-
-## 26-11 (rabies)
-
-- [Hundar isolerade efter larm om rabies](https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1451125) (Aftonbladet.se)
-
-- [Batac: Ilocos Norte LGUs join massive anti-rabies drive](https://rpnradio.com/batac-ilocos-norte-lgus-join-massive-anti-rabies-drive/) (Rpnradio.com)
-
-- [Why don’t you touch bats?](https://www.lifesciencesworld.com/why-dont-you-touch-bats/) (Lifesciencesworld.com)
-
-- [What shots do ferrets need to go outside?](https://www.lifesciencesworld.com/what-shots-do-ferrets-need-to-go-outside/) (Lifesciencesworld.com)
-
-- [Tours: Crossed Keys / Not Gorgeous (Virginia)](https://www.punknews.org/article/87782/tours-crossed-keys-not-gorgeous-virginia) (Punknews.org)
-
-- [India battles rabies: Stray dogs, missed vaccinations, and healthcare delays lead to multiple deaths](https://timesofindia.indiatimes.com/city/delhi/india-battles-rabies-stray-dogs-missed-vaccinations-and-healthcare-delays-lead-to-multiple-deaths/articleshow/129503276.cms) (The Times of India)
-
-- [Can a dog get rabies from a dead possum?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-a-dead-possum/) (Lifesciencesworld.com)
-
-- [Can a dog get rabies from a porcupine?](https://www.lifesciencesworld.com/can-a-dog-get-rabies-from-a-porcupine/) (Lifesciencesworld.com)
-
-- [Daily briefing: Vaccine-carrying mosquitoes could inoculate bats against rabies](https://www.nature.com/articles/d41586-026-00825-0) (Nature.com)
-
-- [Rabid coyote attacks 3 people, 6 dogs in Eastchester and Bronxville area](https://gothamist.com/news/rabid-coyote-attacks-3-people-6-dogs-in-eastchester-and-bronxville-area) (Gothamist)
-
-- [Rabies vaccine may not be enough. Doctor reveals 4 ways to prevent death](https://economictimes.indiatimes.com/news/new-updates/rabies-vaccine-may-not-be-enough-doctor-reveals-4-ways-to-prevent-death/articleshow/129471164.cms) (The Times of India)
-
-- [Why are people so afraid of raccoons?](https://www.lifesciencesworld.com/why-are-people-so-afraid-of-raccoons/) (Lifesciencesworld.com)
-
-- [Bayrab (Bayer) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/10/3253113/28124/en/Bayrab-Bayer-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-- [Imogam (Sanofi) Market Research Report 2026: Epidemiology, Pipeline Analysis, Trends, Strategies, & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/10/3252643/28124/en/Imogam-Sanofi-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Trends-Strategies-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-- [What diseases are affecting black-footed ferrets?](https://www.lifesciencesworld.com/what-diseases-are-affecting-black-footed-ferrets/) (Lifesciencesworld.com)
-
-## 26-11 (pertussis)
-
-- [Effectiveness of the influenza and Tdap vaccination educational module (InTroDuce-Programme) on knowledge and intention for antenatal vaccination: A cluster randomised controlled trial protocol among pregnant women in Malaysian primary care clinics](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344651) (Plos.org)
-
-- [Infanrix and Infanrix-hexa Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252005/28124/en/Infanrix-and-Infanrix-hexa-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-## 26-11 (mpox)
-
-- [What to know about NYC's first case of severe mpox strain](https://gothamist.com/news/what-to-know-about-nycs-first-case-of-severe-mpox-strain) (Gothamist)
-
-- [Minas já tem 13 casos de Mpox confirmados e monitora doença](https://www.metropoles.com/minas-gerais/minas-ja-tem-13-casos-de-mpox-confirmados-e-monitora-doenca) (Metropoles.com)
-
-- [Bavarian Nordic and SII sign agreement for chikungunya vaccine production](https://www.pharmaceutical-technology.com/news/bavarian-nordic-sii-vaccine-production/) (Pharmaceutical Technology)
-
-- [Mpox: novo estado confirma doença viral e número de casos no Brasil se aproxima de 150](https://veja.abril.com.br/saude/mpox-novo-estado-confirma-doenca-viral-brasil/) (Abril.com.br)
-
-- [Ontario’s first cases of another mpox variant confirmed, public health says](https://www.theglobeandmail.com/canada/article-ontario-toronto-cases-of-mpox-variant/) (The Globe And Mail)
-
-- [Un estudio muestra que el VIH no agravó los cuadros clínicos del brote de mpox de 2022 en España](https://www.infosalus.com/salud-investigacion/noticia-estudio-muestra-vih-no-agravo-cuadros-clinicos-brote-mpox-2022-espana-20260311105219.html) (Infosalus.com)
-
-- [Un estudio muestra que el VIH no agravó los cuadros clínicos del brote de mpox de 2022 en España](https://www.europapress.es/catalunya/noticia-estudio-muestra-vih-no-agravo-cuadros-clinicos-brote-mpox-2022-espana-20260311103615.html) (Europapress.es)
-
-- [Mpox em alta: como prevenir o contágio e reconhecer sintomas iniciais](https://www.metropoles.com/colunas/claudia-meireles/mpox-em-alta-como-prevenir-o-contagio-e-reconhecer-sintomas-iniciais) (Metropoles.com)
-
-- [Brasil registra 149 casos de mpox em 13 estados](https://saude.ig.com.br/2026-03-10/brasil-registra-149-casos-de-mpox-em-13-estados.html) (Ig.com.br)
-
-- [Mvabea (Johnson & Johnson) Market Research Report 2026: Epidemiology, Pipeline Analysis, Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/10/3252572/28124/en/Mvabea-Johnson-Johnson-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-- [Sobe para 140 o número de casos confirmados de Mpox em 2026 no Brasil](https://www.metropoles.com/brasil/sobe-para-140-o-numero-de-casos-confirmados-de-mpox-em-2026-no-brasil) (Metropoles.com)
-
-- [Sobe número de casos confirmados de mpox no Brasil em 2026](https://veja.abril.com.br/saude/sobe-numero-de-casos-confirmados-de-mpox-no-brasil-em-2026/) (Abril.com.br)
-
-- [Mpox No Longer Classified as Public Health Emergency – Health Minister | Ghana News Agency](https://gna.org.gh/2026/03/mpox-no-longer-classified-as-public-health-emergency-health-minister/) (Gna.org.gh)
-
-- [Mpox: número de casos aumenta e chega a 129; saiba quem está em maior risco](https://veja.abril.com.br/saude/mpox-numero-de-casos-aumenta-e-chega-a-129-saiba-quem-esta-em-maior-risco/) (Abril.com.br)
-
-- [Acam2000 Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252001/28124/en/Acam2000-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-- [ΕΟΔΥ: Το παρασκήνιο πίσω από την παραίτηση του επιστημονικού συμβουλίου](https://www.protothema.gr/greece/article/1785577/eodu-to-paraskinio-piso-apo-tin-paraitisi-tou-epistimonikou-sumvouliou/) (Protothema.gr)
-
-## 26-11 (meningitis)
-
-- [Differentiating scrub typhus meningitis from brucellar meningitis in children: A single-center retrospective study](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014107) (Plos.org)
-
-- [»Lægerne var lidt langsomme til at finde ud af, hvad det var, men det viste sig at være ret alvorligt«](https://politiken.dk/navne/art10740975/%C2%BBL%C3%A6gerne-var-lidt-langsomme-til-at-finde-ud-af-hvad-det-var-men-det-viste-sig-at-v%C3%A6re-ret-alvorligt%C2%AB) (Politiken.dk)
-
-- [Stimmstörung nach Meningitis: „Wir sind Helden“-Sängerin Judith Holofernes kann nicht mehr singen](https://www.focus.de/kultur/stars/stimmstoerung-nach-meningitis-wir-sind-helden-saengerin-judith-holofernes-kann-nicht-mehr-singen_68665d6b-2afe-411b-89f3-7e60c4b06d75.html) (Focus)
-
-- [Menquadfi (Sanofi) Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252049/28124/en/Menquadfi-Sanofi-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-- [Bexsero Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252038/28124/en/Bexsero-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-- [Menveo Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251994/28124/en/Menveo-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-## 26-11 (measles)
-
-- [As the risk of measles grows, why are parents so divided on vaccines?](https://www.npr.org/2026/03/14/nx-s1-5734051/measles-outbreak-parents-south-carolina-vaccines) (NPR)
-
-- [What's driving the U.S. measles surge? #health](https://alltoc.com/health/what-s-driving-the-u-s-measles-surge) (Alltoc.com)
-
-- [Why are measles outbreaks spreading? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading) (Alltoc.com)
-
-- [Manitoba measles cases this year increase to 291 after 43 more emerge in latest public health update](https://www.cbc.ca/news/canada/manitoba/measles-cases-increase-9.7127120) (CBC News)
-
-- [Utah measles outbreak speeds up but there are few changes to daily life](https://www.nbcnews.com/health/health-news/utah-measles-outbreak-growing-cases-vaccination-rcna263196) (NBC News)
-
-- [Measles cases fall to 511 in week 9 after immunization: Ministry](https://en.antaranews.com/news/408290/measles-cases-fall-to-511-in-week-9-after-immunization-ministry) (Antaranews.com)
-
-- [Florida Is Trying to Ignore Measles Until It Can’t](https://www.theatlantic.com/health/2026/03/florida-measles-response-silence/686359/) (The Atlantic)
-
-- [Doctors Warn of a Deadly Complication From Measles Outbreaks](https://kffhealthnews.org/news/article/measles-outbreaks-long-term-complications-sspe-subacute-sclerosing-panencephalitis/) (Kffhealthnews.org)
-
-- [Now That It’s His Job to Control Measles, Dr. Jay Bhattacharya Suddenly Expects People to Trust Everyone & Everything He Spent 6 Years Attacking](https://sciencebasedmedicine.org/podcastjaynottrusted/) (Sciencebasedmedicine.org)
-
-- [Fort Bliss detention center to get new operator after scrutiny](https://www.nbcnews.com/news/us-news/camp-east-montana-detention-new-contractor-rcna263129) (NBC News)
-
-- [Measles Outbreak — New Mexico, 2025](https://www.cdc.gov/mmwr/volumes/75/wr/mm7509a1.htm) (Cdc.gov)
-
-- [Measles Outbreak - New Mexico, 2025](https://www.cdc.gov/mmwr/volumes/75/wr/mm7509a1.htm) (Cdc.gov)
-
-- [We study pandemics, and the resurgence of measles is a grim sign of what’s coming](https://theconversation.com/we-study-pandemics-and-the-resurgence-of-measles-is-a-grim-sign-of-whats-coming-275059) (The Conversation Africa)
-
-- [Minister targets measles immunization reaching 95 percent before Eid](https://en.antaranews.com/news/408159/minister-targets-measles-immunization-reaching-95-percent-before-eid) (Antaranews.com)
-
-- [Measles warning in Bnei Brak](https://www.israelnationalnews.com/news/423804) (Israelnationalnews.com)
-
-- [The South Carolina Measles Outbreak Is Slowing Down](https://www.wired.com/story/the-south-carolina-measles-outbreak-is-slowing-down/) (Wired)
-
-- [Why did the UK lose measles elimination status? #health](https://alltoc.com/health/why-did-the-uk-lose-measles-elimination-status) (Alltoc.com)
-
-- [Alberta hit with yet another measles upswing, triggering new calls for action](https://www.cbc.ca/news/canada/calgary/alberta-measles-cases-9.7123474) (CBC News)
-
-- [Why are measles outbreaks surging in the U.S.? #health](https://alltoc.com/health/why-are-measles-outbreaks-surging-in-the-u-s) (Alltoc.com)
-
-- [DOJ Lawyer: RFK Jr.’s Authority Shall Not Suffer Any Checks & Balances From The Courts](https://www.techdirt.com/2026/03/10/doj-lawyer-rfk-jr-s-authority-shall-not-suffer-any-checks-balances-from-the-courts/) (Techdirt)
-
-- [Inside Health](https://www.bbc.co.uk/sounds/play/m002sf6d) (BBC News)
-
-- [Immunization, key to preventing measles outbreak](https://en.antaranews.com/news/407655/immunization-key-to-preventing-measles-outbreak) (Antaranews.com)
-
-- [Signs Enfield measles outbreak is 'stabilising'](https://www.bbc.com/news/articles/cq571wweg5lo) (BBC News)
-
-- [A measles surge, AI in warfare and accelerated global warming](https://www.scientificamerican.com/podcast/episode/a-measles-surge-ai-in-warfare-and-accelerated-global-warming/) (Scientific American)
-
-- [Babies exposed to measles getting preventive treatment every week in Manitoba](https://www.cbc.ca/news/canada/manitoba/babies-measles-preventive-treatment-manitoba-immune-globulin-vaccine-9.7117547) (CBC News)
-
-- [CDC Reinforces National Measles Response Through State Collaboration](https://www.cdc.gov/media/releases/2026/2026-cdc-reinforces-national-measles-response-through-state-collaboration.html) (Cdc.gov)
-
-- [Basoda 2026: When is Sheetala Ashtami? check date and puja rituals](https://timesofindia.indiatimes.com/religion/festivals/basoda-2026-when-is-sheetala-ashtami-check-date-and-puja-rituals/articleshow/129314558.cms) (The Times of India)
-
-- [Vaccination push as measles cases rise in Victoria](https://berwicknews.starcommunity.com.au/news/2026-03-09/vaccination-push-as-measles-cases-rise-in-victoria/) (Starcommunity.com.au)
-
-- [Why are measles outbreaks worsening? #health](https://alltoc.com/health/why-are-measles-outbreaks-worsening) (Alltoc.com)
-
-- [Why are measles outbreaks spreading in the US? #health](https://alltoc.com/health/why-are-measles-outbreaks-spreading-in-the-us) (Alltoc.com)
-
-## 26-11 (malaria)
-
-- [Ranking the World's Deadliest Animals](https://www.newser.com/story/385127/ranking-the-worlds-deadliest-animals.html) (Newser)
-
-- [Is it 'unsafe' to live and work in Africa? These 4 Singaporeans have no regrets about taking the leap](https://www.channelnewsasia.com/today/ground-up/singaporeans-in-africa-live-work-abroad-culture-shock-south-africa-rwanda-guinea-ghana-5986501) (CNA)
-
-- [Is DDT still being used?](https://www.lifesciencesworld.com/is-ddt-still-being-used/) (Lifesciencesworld.com)
-
-- [CCND3 enhancer variant reduces malaria risk](https://www.nature.com/articles/s41588-026-02558-2) (Nature.com)
-
-- [Economic evaluation of anti-malarial drug policies across presidential regimes in Nigeria: A comparative analysis from 1999 to present](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344909) (Plos.org)
-
-- [One Key Protein Could Be a Powerful New Target Against Malaria](https://www.sciencealert.com/one-key-protein-could-be-a-powerful-new-target-against-malaria) (ScienceAlert)
-
-- [Microfluidic Platform for Automatic Quantification of Malaria Parasite Invasion Under Physiological Flow Conditions](https://pubs.rsc.org/en/content/articlelanding/2026/lc/d5lc00748h) (Royal Society of Chemistry)
-
-- [Chennai Mosquito Control: Natural Biolarvicide Shows Promise in Water Tanks](https://timesofindia.indiatimes.com/city/chennai/chennai-mosquito-control-natural-biolarvicide-shows-promise-in-water-tanks/articleshow/129413165.cms) (The Times of India)
-
-- [Fifty shades of iron: Unorthodox mechanisms of iron acquisition and utilization in blood-stage Plasmodium parasites](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014030) (Plos.org)
-
-## 26-11 (leptospirosis)
-
-- [The infectious disease 'Rat Fever', which reports the second-highest number of patients, is on the rise again.](https://english.gossiplankanews.com/2026/03/the-infectious-disease-rat-fever-which.html) (Gossiplankanews.com)
-
-## 26-11 (hpai)
-
-- [Further death from bird flu confirmed in Co Cork](https://www.irishtimes.com/ireland/2026/03/14/further-death-from-bird-flu-confirmed-in-co-cork/) (The Irish Times)
-
-- [Bird flu case discovered in flock of dead swans in east Cork](https://www.independent.ie/irish-news/bird-flu-case-discovered-in-flock-of-dead-swans-in-east-cork/a409521242.html) (Independent.ie)
-
-- [Bird flu confirmed after dead swans found in east Cork](https://www.rte.ie/news/ireland/2026/0314/1563374-bird-flu-confirmed-after-dead-swans-found-in-east-cork/) (RTE)
-
-- [매년 수백만 마리 살처분되는 조류인플루엔자, 백신이 답이다](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003214630) (Ohmynews.com)
-
-- [유산균으로 가금 면역력 높이고 축산 악취 제거···경기도, 77t 300개 축산농가에 공급](https://www.khan.co.kr/article/202603111105001) (Khan.co.kr)
-
-## 26-11 (h5n1)
-
-- [Aviaria, focolaio in un allevamento di fagiani in Umbria](https://www.ansa.it/umbria/notizie/2026/03/13/aviaria-focolaio-in-un-allevamento-di-fagiani-in-umbria_a1e45f96-2579-43bc-b623-d6dc7f5991d9.html) (ANSA.it)
-
-- [매년 수백만 마리 살처분되는 조류인플루엔자, 백신이 답이다](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003214630) (Ohmynews.com)
-
-- [포천 산란계 농가서 AI 항원 검출···닭4만5000마리 처분](https://www.khan.co.kr/article/202603131032001) (Khan.co.kr)
-
-- [Bird flu outbreak confirmed near Omagh, Co Tyrone](https://www.rte.ie/news/2026/0312/1563065-bird-flu-outbreak-confirmed-near-omagh-co-tyrone/) (RTE)
-
-- [Dvě nová ohniska ptačí chřipky ve velkochovech kachen v Královéhradeckém kraji](https://www.novinky.cz/clanek/domaci-zpravy-kralovehradecky-kraj-dve-nova-ohniska-ptaci-chripky-ve-velkochovech-kachen-v-kralovehradeckem-kraji-40566954) (Novinky.cz)
-
-- [Vogelgrippe: Geflügelpest in Putenmastbetrieb – 4.800 Tiere betroffen](https://www.tagesspiegel.de/berlin/vogelgrippe-geflugelpest-in-putenmastbetrieb--4800-tiere-betroffen-15335333.html) (Der Tagesspiegel)
-
-- [4800 Tiere müssen getötet werden: Geflügelpest in Putenmastbetrieb im Kreis Elbe-Elster](https://www.tagesspiegel.de/potsdam/brandenburg/vogelgrippe-geflugelpest-in-putenmastbetrieb--4800-tiere-betroffen-15335333.html) (Der Tagesspiegel)
-
-- [Vogelgrippe: Geflügelpest in Putenmastbetrieb – 4.800 Tiere betroffen](https://www.stern.de/gesellschaft/regional/berlin-brandenburg/vogelgrippe--gefluegelpest-in-putenmastbetrieb---4-800-tiere-betroffen-37206312.html) (STERN.de)
-
-## 26-11 (dengue)
-
-- [Se mantiene alerta amarilla en Rapa Nui por dengue: ya hay 15 casos confirmados](https://www.latercera.com/nacional/noticia/se-mantiene-alerta-amarilla-en-rapa-nui-por-dengue-ya-hay-15-casos-confirmados/) (Latercera.com)
-
-- [A systematic review of dengue controlled human infection studies: safety, viral kinetics and immunology](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014086) (Plos.org)
-
-- [Community participation and technological innovation: Baseline qualitative insights to inform a five-year cohort on drone-based dengue surveillance in Malaysia](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013979) (Plos.org)
-
-- [Járványveszély Magyarországon? Egy vármegyében is azonosították a fertőzést](https://www.origo.hu/itthon/2026/03/jarvany-magyarorszag-dangue-virus-fertozes-veeszprem) (Origo.hu)
-
-- [1000 abdominales al día: la estrategia de Evo Morales en su crisis política](https://noticias.perfil.com/noticias/politica/evo-morales-mostro-su-rutina-de-entrenamiento-en-redes-tras-recuperarse-de-un-problema-de-salud.phtml) (Perfil.com)
-
-- [Enchufada celebra 20 anos com compilação e eventos](https://observador.pt/2026/03/11/enchufada-celebra-20-anos-com-compilacao-e-eventos-no-porto-e-em-londres/) (Observador.pt)
-
-- [The 50: Nikki Tamboli breaks silence on why she didn’t quit after Arbaz Patel’s exit; says “Walking out emotionally might look dramatic, but honoring your responsibility takes strength”](https://timesofindia.indiatimes.com/tv/news/hindi/the-50-nikki-tamboli-breaks-silence-on-why-she-didnt-quit-after-arbaz-patels-exit-says-walking-out-emotionally-might-look-dramatic-but-honoring-your-responsibility-takes-strength/articleshow/129463364.cms) (The Times of India)
-
-- [Dengue cases in Johor drops 21.2% in Epi Week 09/2026](https://www.thestar.com.my/news/nation/2026/03/11/dengue-cases-in-johor-drops-212-in-epi-week-092026) (The Star Online)
-
-- [Dengvaxia Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3251996/28124/en/Dengvaxia-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-- [Correction: Prognostic prediction of dengue hemorrhagic fever in pediatric patients with suspected dengue infection: A multi-site study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344487) (Plos.org)
-
-- [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
-
-## 26-11 (chikungunya)
-
-- [Bavarian Nordic and SII sign agreement for chikungunya vaccine production](https://www.pharmaceutical-technology.com/news/bavarian-nordic-sii-vaccine-production/) (Pharmaceutical Technology)
-
-- [1000 abdominales al día: la estrategia de Evo Morales en su crisis política](https://noticias.perfil.com/noticias/politica/evo-morales-mostro-su-rutina-de-entrenamiento-en-redes-tras-recuperarse-de-un-problema-de-salud.phtml) (Perfil.com)
-
-- [Bavarian Nordic and Serum Institute of India Expand Strategic Partnership with Chikungunya Vaccine Manufacturing Agreement](https://www.globenewswire.com/news-release/2026/03/11/3253522/0/en/Bavarian-Nordic-and-Serum-Institute-of-India-Expand-Strategic-Partnership-with-Chikungunya-Vaccine-Manufacturing-Agreement.html) (GlobeNewswire)
-
-- [Bavarian Nordic og Serum Institute of India udvider strategisk partnerskab med aftale om produktion af chikungunya‑vaccine](https://www.globenewswire.com/news-release/2026/03/11/3253522/0/da/Bavarian-Nordic-og-Serum-Institute-of-India-udvider-strategisk-partnerskab-med-aftale-om-produktion-af-chikungunya-vaccine.html) (GlobeNewswire)
-
-- [Level 2 - Chikungunya in Mayotte](https://wwwnc.cdc.gov/travel/notices/level2/chikungunya-mayotte) (Cdc.gov)
-
-- [Ixchiq (Valneva) Market Research Report 2026: Epidemiology, Pipeline Analysis, Market Insights & Forecasts, 2020-2025, 2025-2030F, 2035F](https://www.globenewswire.com/news-release/2026/03/09/3252100/28124/en/Ixchiq-Valneva-Market-Research-Report-2026-Epidemiology-Pipeline-Analysis-Market-Insights-Forecasts-2020-2025-2025-2030F-2035F.html) (GlobeNewswire)
-
-- [Mosquito-borne viruses, vaccine-borne hope](https://www.nature.com/articles/d41591-026-00014-6) (Nature.com)
