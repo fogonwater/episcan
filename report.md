@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 12
-- **Last harvest:** 2026-04-26 07:37
-- **Most recent article:** 2026-04-25 06:38:03
+- **New articles in last harvest:** 13
+- **Last harvest:** 2026-04-26 19:23
+- **Most recent article:** 2026-04-25 19:06:39
 
 ---
 
@@ -13,12 +13,12 @@ By US epiweek (i.e. Sunday to Saturday)
 | Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
 |--|-|-|-|-|-|-|-|
 | meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 286 |
-| measles | 20 | 21 | 26 | 51 | 35 | 51 | 204 |
-| malaria | 20 | 14 | 9 | 14 | 9 | 47 | 113 |
-| dengue | 27 | 19 | 18 | 12 | 19 | 16 | 111 |
+| measles | 19 | 21 | 26 | 51 | 35 | 52 | 204 |
+| malaria | 19 | 14 | 9 | 14 | 9 | 57 | 122 |
+| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 112 |
 | mpox | 12 | 4 | 19 | 9 | 16 | 3 | 63 |
-| rabies | 6 | 5 | 26 | 8 | 3 | 5 | 53 |
-| chikungunya | 7 | 8 | 11 | 3 | 6 | 3 | 38 |
+| rabies | 4 | 5 | 26 | 8 | 3 | 6 | 52 |
+| chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 39 |
 | h5n1 | 7 | 4 | 7 | 2 | 5 | 6 | 31 |
 | zika | 4 | 1 | 15 | 1 | 4 | 4 | 29 |
 | hpai | 1 | 6 | 2 | 2 | 1 | 0 | 12 |
@@ -54,6 +54,8 @@ Source: [News API](https://newsapi.org/)
 - [Древняя ДНК рассказала о резком падении численности населения Европы 5000 лет назад](https://overclockers.ru/blog/Scorpion81/show/253979/Drevnyaya-DNK-rasskazala-o-rezkom-padenii-chislennosti-naseleniya-Evropy-5000-let-nazad) (Overclockers.ru)
 
 ## 26-17 (rabies)
+
+- [Stray dogs receive anti-rabies vaccine in special drive](https://timesofindia.indiatimes.com/city/bhubaneswar/stray-dogs-receive-anti-rabies-vaccine-in-special-drive/articleshow/130522296.cms) (The Times of India)
 
 - [20 Unsettling Music Facts You May Not Have Known](http://www.denofgeek.com/tv/20-unsettling-music-facts-you-may-not-have-known/) (Den of Geek US)
 
@@ -102,6 +104,8 @@ Source: [News API](https://newsapi.org/)
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [Measles Is Back. What Comes Next Will Be Worse. (New York Times)](https://www.memeorandum.com/260425/p19) (Memeorandum.com)
 
 - [Wellington measles case: Porirua supermarkets added to locations of interest](https://www.nzherald.co.nz/nz/wellington-measles-case-porirua-supermarkets-added-to-locations-of-interest/UMOFX6C2IRC7RFER5KOXKTMZW4/) (New Zealand Herald)
 
@@ -206,6 +210,26 @@ Source: [News API](https://newsapi.org/)
 - [What did the measles outbreak data show? #health](https://alltoc.com/health/what-did-the-measles-outbreak-data-show) (Alltoc.com)
 
 ## 26-17 (malaria)
+
+- [Federal Ministry of Health Announces Strategic Vision to Combat Malaria](https://sudanhorizon.com/federal-ministry-of-health-announces-strategic-vision-to-combat-malaria/) (Sudanhorizon.com)
+
+- [Jharkhand Fights Malaria: Panchayat Leaders Honored for Disease Control Efforts](https://timesofindia.indiatimes.com/city/ranchi/jharkhand-fights-malaria-panchayat-leaders-honored-for-disease-control-efforts/articleshow/130521065.cms) (The Times of India)
+
+- [Nieuw medicijn tegen malaria voor baby's goedgekeurd](https://jeugdjournaal.nl/l/2611965) (Jeugdjournaal.nl)
+
+- [The Challenge of Health Security and Sovereignty in Africa – Africa CDC](https://exbulletin.com/world/health/3177386/) (Exbulletin.com)
+
+- [Malaria, in 25 anni evitati 2,3 miliardi di casi e 14 milioni di morti](https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/04/25/malaria-in-25-anni-evitati-23-miliardi-di-casi-e-14-milioni-di-morti_acf70f77-5fe6-44c6-98da-b4cad44e4837.html) (ANSA.it)
+
+- [Soludo’s wife seeks collective action to end malaria in Nigeria](https://punchng.com/soludos-wife-seeks-collective-action-to-end-malaria-in-nigeria/) (The Punch)
+
+- [Nieuwe behandeling voor pasgeboren baby’s brengt uitroeiing malaria een stap dichterbij](https://www.nrc.nl/nieuws/2026/04/25/nieuwe-behandeling-voor-pasgeboren-babys-brengt-uitroeiing-malaria-een-stap-dichterbij-a4926380) (Www.nrc.nl)
+
+- [Ibom Air donates 50,000 malaria drug doses to support health drive](https://punchng.com/ibom-air-donates-50000-malaria-drug-doses-to-support-health-drive/) (The Punch)
+
+- [Kogi restates commitment to end malaria, expands free testing](https://punchng.com/kogi-restates-commitment-to-end-malaria-expands-free-testing/) (The Punch)
+
+- [نقش مؤثر ایران در مسیر جهانی ریشه‌کنی مالاریا](https://www.entekhab.ir/fa/news/918876/نقش-مؤثر-ایران-در-مسیر-جهانی-ریشه‌کنی-مالاریا) (Entekhab.ir)
 
 - [Polska ma komary przenoszące malarię: czy mamy się czego obawiać? Eksperci w Światowy Dzień Malarii](https://kopalniawiedzy.pl/malaria-Polska-Swiatowy-Dzien-Malarii-choroby-tropikalne,38596) (Kopalniawiedzy.pl)
 
@@ -321,6 +345,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-17 (dengue)
 
+- [Le changement climatique amène les maladies tropicales en Europe](https://www.generation-nt.com/actualites/changement-climatique-maladies-tropicales-2074300) (Génération NT)
+
 - [Queixas sobre imóveis abandonados no Centro disparam 135% em Campinas; moradores relatam insegurança e risco de dengue](https://g1.globo.com/sp/campinas-regiao/noticia/2026/04/24/queixas-sobre-imoveis-abandonados-no-centro-disparam-135percent-em-campinas-moradores-relatam-inseguranca-e-risco-de-dengue.ghtml) (Globo)
 
 - [Spillover: entenda como a ação humana na Amazônia facilita a transmissão de novos vírus](https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/04/24/spillover-entenda-como-a-acao-humana-na-amazonia-facilita-a-transmissao-de-novos-virus.ghtml) (Globo)
@@ -354,6 +380,8 @@ Source: [News API](https://newsapi.org/)
 - [Tropické horečky rekordně přibývá. Nebezpeční komáři jsou už i v Chorvatsku](https://www.idnes.cz/zpravy/domaci/dengue-tropicka-horecka-maledivy-sri-lanka-nemoc-chikungunya.A260419_201312_domaci_jans) (Idnes.cz)
 
 ## 26-17 (chikungunya)
+
+- [Le changement climatique amène les maladies tropicales en Europe](https://www.generation-nt.com/actualites/changement-climatique-maladies-tropicales-2074300) (Génération NT)
 
 - [Post-chikungunya chronic arthralgia in Burkina Faso: Frequency and associated factors](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014251) (Plos.org)
 
@@ -1553,10 +1581,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
 
-- [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
-
-- [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
-
 ## 26-12 (mpox)
 
 - [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
@@ -1975,8 +1999,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles patient identified at major synagogue in Bnei Brak](https://www.israelnationalnews.com/news/423994) (Israelnationalnews.com)
 
-- [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
-
 ## 26-12 (malaria)
 
 - [Nei Dna dei sardi un gene che protegge dalla malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/21/nei-dna-dei-sardi-un-gene-che-protegge-dalla-malaria_4b655a6e-e413-4b63-9344-70fc50a0a6d2.html) (ANSA.it)
@@ -2016,8 +2038,6 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
 
 - [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
-
-- [Naukowy znaleźli słabości pasożytów wywołujących malarię. Będą nowe leki](https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898) (Interia.pl)
 
 ## 26-12 (leptospirosis)
 
