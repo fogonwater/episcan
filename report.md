@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-04-26 19:23
-- **Most recent article:** 2026-04-25 19:06:39
+- **New articles in last harvest:** 10
+- **Last harvest:** 2026-04-27 07:51
+- **Most recent article:** 2026-04-26 07:17:15
 
 ---
 
@@ -10,28 +10,52 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | Total |
-|--|-|-|-|-|-|-|-|
-| meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 286 |
-| measles | 19 | 21 | 26 | 51 | 35 | 52 | 204 |
-| malaria | 19 | 14 | 9 | 14 | 9 | 57 | 122 |
-| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 112 |
-| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 63 |
-| rabies | 4 | 5 | 26 | 8 | 3 | 6 | 52 |
-| chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 39 |
-| h5n1 | 7 | 4 | 7 | 2 | 5 | 6 | 31 |
-| zika | 4 | 1 | 15 | 1 | 4 | 4 | 29 |
-| hpai | 1 | 6 | 2 | 2 | 1 | 0 | 12 |
-| yersinia | 1 | 1 | 0 | 1 | 0 | 4 | 7 |
-| leptospirosis | 3 | 1 | 0 | 1 | 1 | 1 | 7 |
-| pertussis | 0 | 1 | 0 | 0 | 1 | 4 | 6 |
-| typhoid | 0 | 1 | 1 | 0 | 3 | 0 | 5 |
-| shigellosis | 0 | 0 | 0 | 1 | 1 | 0 | 2 |
+| Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
+|--|-|-|-|-|-|-|-|-|
+| meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 0 | 286 |
+| measles | 20 | 21 | 26 | 51 | 35 | 54 | 1 | 208 |
+| malaria | 20 | 14 | 9 | 14 | 9 | 59 | 1 | 126 |
+| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 0 | 112 |
+| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 1 | 64 |
+| rabies | 6 | 5 | 26 | 8 | 3 | 6 | 0 | 54 |
+| chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 1 | 40 |
+| h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 1 | 33 |
+| zika | 4 | 1 | 15 | 1 | 4 | 4 | 0 | 29 |
+| hpai | 1 | 6 | 2 | 2 | 1 | 0 | 0 | 12 |
+| yersinia | 1 | 1 | 0 | 1 | 0 | 4 | 1 | 8 |
+| leptospirosis | 3 | 1 | 0 | 1 | 1 | 1 | 0 | 7 |
+| pertussis | 0 | 1 | 0 | 0 | 1 | 4 | 0 | 6 |
+| typhoid | 0 | 1 | 1 | 0 | 3 | 0 | 0 | 5 |
+| shigellosis | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-18 (yersinia)
+
+- [Дачников предупредили об угрозе заражения «мышиной болезнью»](https://lenta.ru/news/2026/04/26/dachnikov-predupredili-ob-ugroze-zarazheniya-myshinoy-boleznyu/) (Lenta)
+
+## 26-18 (mpox)
+
+- [Онищенко перечислил четыре смертоносные болезни на ближайшие пять лет](https://news.mail.ru/society/70673706/) (Mail.ru)
+
+## 26-18 (measles)
+
+- [Measles resurfaces, health officials sound alarm](http://island.lk/measles-resurfaces-health-officials-sound-alarm/) (Island.lk)
+
+## 26-18 (malaria)
+
+- [Ogun seeks residents’ support in fight against malaria](https://punchng.com/?p=2126669) (The Punch)
+
+## 26-18 (h5n1)
+
+- [Онищенко перечислил четыре смертоносные болезни на ближайшие пять лет](https://news.mail.ru/society/70673706/) (Mail.ru)
+
+## 26-18 (chikungunya)
+
+- [Übertragung von Viren: Start der Tigermückensaison: Diese Brutorte übersehen viele](https://www.stern.de/gesellschaft/regional/baden-wuerttemberg/uebertragung-von-viren--start-der-tigermueckensaison--diese-brutorte-uebersehen-viele-37343002.html) (STERN.de)
 
 ## 26-17 (zika)
 
@@ -104,6 +128,10 @@ Source: [News API](https://newsapi.org/)
 - [What did the meningitis B cases lead to? #health](https://alltoc.com/health/what-did-the-meningitis-b-cases-lead-to) (Alltoc.com)
 
 ## 26-17 (measles)
+
+- [The infection spread can be blamed chiefly on imported cases and falling vaccination rates in and outside the country.](https://japantoday.com/category/quote-of-the-day/The-infection-spread-can-be-blamed-chiefly-on-imported-cases-and-falling-vaccination-rates-in-and-outside-the-country) (Japan Today)
+
+- [My Daughter Had Measles in 2013. It Killed Her in 2023](https://www.newser.com/story/387751/my-daughter-had-measles-in-2013-it-killed-her-in-2023.html) (Newser)
 
 - [Measles Is Back. What Comes Next Will Be Worse. (New York Times)](https://www.memeorandum.com/260425/p19) (Memeorandum.com)
 
@@ -210,6 +238,10 @@ Source: [News API](https://newsapi.org/)
 - [What did the measles outbreak data show? #health](https://alltoc.com/health/what-did-the-measles-outbreak-data-show) (Alltoc.com)
 
 ## 26-17 (malaria)
+
+- [Symposium, awareness rally on World Malaria Day](https://timesofindia.indiatimes.com/city/kanpur/symposium-awareness-rally-on-world-malaria-day/articleshow/130522603.cms) (The Times of India)
+
+- [City reports high malaria cases beyond peak season](https://timesofindia.indiatimes.com/city/mumbai/city-reports-high-malaria-cases-beyond-peak-season/articleshow/130521332.cms) (The Times of India)
 
 - [Federal Ministry of Health Announces Strategic Vision to Combat Malaria](https://sudanhorizon.com/federal-ministry-of-health-announces-strategic-vision-to-combat-malaria/) (Sudanhorizon.com)
 
@@ -330,6 +362,8 @@ Source: [News API](https://newsapi.org/)
 - [Bacolod leptospirosis cases up by 225 percent](https://rpnradio.com/bacolod-leptospirosis-cases-up-by-225-percent/) (Rpnradio.com)
 
 ## 26-17 (h5n1)
+
+- [H5N1 containment operation: Health dept confirms no human cases](https://timesofindia.indiatimes.com/city/bengaluru/h5n1-containment-operation-health-dept-confirms-no-human-cases/articleshow/130521455.cms) (The Times of India)
 
 - [Por cisne contagiado, SAG declara alerta por Influenza Aviar en la Región de Los Lagos](https://www.df.cl/regiones/los-lagos/por-cisnes-contagiados-sag-declara-alerta-por-casos-influenza-aviar-en-los) (Www.df.cl)
 
@@ -1581,6 +1615,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
 
+- [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
+
+- [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
+
 ## 26-12 (mpox)
 
 - [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
@@ -1999,6 +2037,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles patient identified at major synagogue in Bnei Brak](https://www.israelnationalnews.com/news/423994) (Israelnationalnews.com)
 
+- [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
+
 ## 26-12 (malaria)
 
 - [Nei Dna dei sardi un gene che protegge dalla malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/21/nei-dna-dei-sardi-un-gene-che-protegge-dalla-malaria_4b655a6e-e413-4b63-9344-70fc50a0a6d2.html) (ANSA.it)
@@ -2038,6 +2078,8 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
 
 - [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
+
+- [Naukowy znaleźli słabości pasożytów wywołujących malarię. Będą nowe leki](https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898) (Interia.pl)
 
 ## 26-12 (leptospirosis)
 
