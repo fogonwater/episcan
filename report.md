@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 10
-- **Last harvest:** 2026-04-27 07:51
-- **Most recent article:** 2026-04-26 07:17:15
+- **New articles in last harvest:** 2
+- **Last harvest:** 2026-04-27 19:36
+- **Most recent article:** 2026-04-26 18:17:14
 
 ---
 
@@ -12,12 +12,12 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 0 | 286 |
-| measles | 20 | 21 | 26 | 51 | 35 | 54 | 1 | 208 |
-| malaria | 20 | 14 | 9 | 14 | 9 | 59 | 1 | 126 |
+| meningitis | 173 | 75 | 19 | 4 | 5 | 8 | 0 | 284 |
+| measles | 19 | 21 | 26 | 51 | 35 | 54 | 1 | 207 |
+| malaria | 19 | 14 | 9 | 14 | 9 | 59 | 2 | 126 |
 | dengue | 27 | 19 | 18 | 12 | 19 | 17 | 0 | 112 |
 | mpox | 12 | 4 | 19 | 9 | 16 | 3 | 1 | 64 |
-| rabies | 6 | 5 | 26 | 8 | 3 | 6 | 0 | 54 |
+| rabies | 4 | 5 | 26 | 8 | 3 | 6 | 1 | 53 |
 | chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 1 | 40 |
 | h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 1 | 33 |
 | zika | 4 | 1 | 15 | 1 | 4 | 4 | 0 | 29 |
@@ -37,6 +37,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Дачников предупредили об угрозе заражения «мышиной болезнью»](https://lenta.ru/news/2026/04/26/dachnikov-predupredili-ob-ugroze-zarazheniya-myshinoy-boleznyu/) (Lenta)
 
+## 26-18 (rabies)
+
+- [Bats rabies vaccine research delivery systems #science](https://alltoc.com/science/bats-rabies-vaccine-research-delivery-systems) (Alltoc.com)
+
 ## 26-18 (mpox)
 
 - [Онищенко перечислил четыре смертоносные болезни на ближайшие пять лет](https://news.mail.ru/society/70673706/) (Mail.ru)
@@ -46,6 +50,8 @@ Source: [News API](https://newsapi.org/)
 - [Measles resurfaces, health officials sound alarm](http://island.lk/measles-resurfaces-health-officials-sound-alarm/) (Island.lk)
 
 ## 26-18 (malaria)
+
+- [Una nueva enfermedad preocupa a los científicos: la malaria aviar ya afecta a los grandes buitres](https://www.20minutos.es/medio-ambiente/blogs/cronicaverde/una-nueva-enfermedad-preocupa-los-cientificos-malaria-aviar-ya-afecta-los-grandes-buitres_6956236_0.html) (20minutos.es)
 
 - [Ogun seeks residents’ support in fight against malaria](https://punchng.com/?p=2126669) (The Punch)
 
@@ -1615,10 +1621,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
 
-- [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
-
-- [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
-
 ## 26-12 (mpox)
 
 - [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
@@ -1993,10 +1995,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Two people die in meningitis outbreak in Kent](https://news.sky.com/story/two-people-die-in-meningitis-outbreak-in-kent-13520252) (Sky.com)
 
-- [Two students die in university meningitis outbreak](https://www.bbc.com/news/articles/cdxg35dv7npo) (BBC News)
-
-- [Two University of Kent students die in meningitis outbreak](https://www.bbc.co.uk/news/articles/cdxg35dv7npo) (BBC News)
-
 ## 26-12 (measles)
 
 - [A Model For HHS: New Mexico Measles Outbreak Was Curtailed With Mass Vaccination Campaign](https://www.techdirt.com/2026/03/20/a-model-for-hhs-new-mexico-measles-outbreak-was-curtailed-with-mass-vaccination-campaign/) (Techdirt)
@@ -2037,8 +2035,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles patient identified at major synagogue in Bnei Brak](https://www.israelnationalnews.com/news/423994) (Israelnationalnews.com)
 
-- [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
-
 ## 26-12 (malaria)
 
 - [Nei Dna dei sardi un gene che protegge dalla malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/21/nei-dna-dei-sardi-un-gene-che-protegge-dalla-malaria_4b655a6e-e413-4b63-9344-70fc50a0a6d2.html) (ANSA.it)
@@ -2078,8 +2074,6 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
 
 - [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
-
-- [Naukowy znaleźli słabości pasożytów wywołujących malarię. Będą nowe leki](https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898) (Interia.pl)
 
 ## 26-12 (leptospirosis)
 
