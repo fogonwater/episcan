@@ -1,8 +1,422 @@
 {
-  "last_updated": "2026-04-28 07:51",
-  "count_articles_total": 937,
-  "count_articles_new": 3,
+  "last_updated": "2026-04-28 19:36",
+  "count_articles_total": 954,
+  "count_articles_new": 23,
   "articles": [
+    {
+      "id": 29282,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "SFGate",
+      "author": "Ariana Bindman",
+      "title": "Calif. officials concerned as weekly average mpox cases 'more than double'",
+      "description": "California's Department of Public Health \"is closely monitoring mpox activity.\"",
+      "url": "https://www.sfgate.com/bayarea/article/mpox-cases-rising-california-22228535.php",
+      "urlToImage": null,
+      "publishedAt": "2026-04-27 18:55:02",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-04-28 19:36:44.647596",
+      "internal_id": "fbfb7d9f20f450c0314f7130c36eafe6ae5135fd9a3f2b10a0b5e4127ef6a00e",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29270,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "KCCI Des Moines",
+      "author": "Deidre Mcphillips",
+      "title": "A record-breaking measles outbreak in the US has ended",
+      "description": "The measles outbreak in South Carolina \u2014 the largest the United States has had in decades \u2014 has ended.",
+      "url": "https://www.kcci.com/article/largest-us-measles-outbreak-in-decades-ends/71136321",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/7b4a7b97-c418-4269-8d1c-90e9c4da1966.jpg?crop=1.00xw:0.846xh;0,0.0841xh&resize=1200:*",
+      "publishedAt": "2026-04-27 18:53:41",
+      "content": "CNN \u2014The measles outbreak in South Carolina the largest the United States has had in decades has ended, state health officials announced Monday. There were nearly 1,000 confirmed cases over about si\u2026 [+9393 chars]",
+      "retrievedAt": "2026-04-28 19:36:42.513493",
+      "internal_id": "53c4f198267b443c88996b2bc07d3ddf7ff7e7bec9ea25556b8e90d56e2dbe82",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29269,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Boston Herald",
+      "author": "Associated Press",
+      "title": "South Carolina\u2019s measles outbreak is over after sickening nearly 1,000 people",
+      "description": "South Carolina\u2019s measles outbreak is over after sickening nearly 1,000 peoplebostonherald.com",
+      "url": "https://www.bostonherald.com/2026/04/27/south-carolina-measles/",
+      "urlToImage": "https://www.bostonherald.com/wp-content/uploads/2026/04/Measles-Babies_492_3.jpg?w=1024&h=684",
+      "publishedAt": "2026-04-27 17:40:31",
+      "content": "By DEVI SHASTRI, AP Health Writer South Carolinas measles outbreak the worst in the U.S. in more than 35 years is over, state health officials declared Monday. On Sunday, the state passed the thres\u2026 [+4765 chars]",
+      "retrievedAt": "2026-04-28 19:36:42.483086",
+      "internal_id": "8e991161ade238dbf0fe5944b3c59a8e9d0b9eda3e6cca13b81e3595c7e98e38",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29279,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Dailymail.com",
+      "author": "Eve Buckland, Justin Enriquez",
+      "title": "Menace II Society actor Samuel Monroe Jr. on life support in hospital amid devastating health battle",
+      "description": "Monroe Jr., 52, who had a small role in the 1993 teen crime drama film which starred Samuel L. Jackson, Tyrin Turner and Jada Pinkett, is on life support.",
+      "url": "https://www.dailymail.com/tvshowbiz/article-15769623/Menace-II-Society-Samuel-Monroe-Jr-life-support-meningitis.html",
+      "urlToImage": "https://i.dailymail.com/1s/2026/04/27/18/108196691-0-image-m-18_1777310608811.jpg",
+      "publishedAt": "2026-04-27 17:32:13",
+      "content": "Menace II Society actor Samuel Monroe Jr. is fighting for his life in hospital amid a devastating battle with meningitis. Monroe Jr., 52, who had a small role in the 1993 teen crime drama film which\u2026 [+1181 chars]",
+      "retrievedAt": "2026-04-28 19:36:43.321754",
+      "internal_id": "838cbc2183fa067b7b28e157c2e8a3e860b8922900c4cde128aacbb28f30506b",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29267,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Abcnews.com",
+      "author": "DEVI SHASTRI AP health writer",
+      "title": "South Carolina's measles outbreak is over after sickening nearly 1,000 people",
+      "description": "South Carolina\u2019s measles outbreak, which was the worst in the U.S. in more than 35 years, is over",
+      "url": "https://abcnews.com/Health/wireStory/south-carolinas-measles-outbreak-after-sickening-1000-people-132424366",
+      "urlToImage": "https://i.abcnewsfe.com/a/3f544eda-e79e-4fca-b553-383e5269b90a/wirestory_58457097adcad30127c992511069d10c_16x9.jpg?w=1600",
+      "publishedAt": "2026-04-27 17:23:42",
+      "content": "South Carolina's measles outbreak the worst in the U.S. in more than 35 years is over, state health officials declared Monday. On Sunday, the state passed the threshold of 42 days with no new outbre\u2026 [+4608 chars]",
+      "retrievedAt": "2026-04-28 19:36:42.421515",
+      "internal_id": "cee4d25ec8d29f95b1de57b3cf0ee38dbc55c9ae6528412df4786ed1ab9c0701",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29268,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "seattlepi.com",
+      "author": "By DEVI SHASTRI, AP Health Writer",
+      "title": "South Carolina's measles outbreak is over after sickening nearly 1,000 people",
+      "description": "South Carolina\u2019s measles outbreak, which was the worst in the U.S. in more than 35 years, is over. State health officials said Monday that the outbreak ultimately sickened 997 people and that the public health response cost $2.1 million. The news brings littl\u2026",
+      "url": "https://www.seattlepi.com/news/article/south-carolina-s-measles-outbreak-is-over-after-22228292.php",
+      "urlToImage": null,
+      "publishedAt": "2026-04-27 17:10:20",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-04-28 19:36:42.461765",
+      "internal_id": "c837369903b3f311416a1eb5eb83c6f42b4a9ad45ff21843d4519880ec82bc53",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29266,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Wonkette.com",
+      "author": "Robyn Pennacchia",
+      "title": "Ron DeSantis Still Can't Get Floridians Excited To Bring About A Measles Outbreak",
+      "description": "Do they hate fun? And joy?",
+      "url": "https://www.wonkette.com/p/ron-desantis-still-cant-get-floridians",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!lrj_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e7ed8eb-bec5-4396-a838-55997387f349_1920x1280.jpeg",
+      "publishedAt": "2026-04-27 16:50:49",
+      "content": "There was a time not too long ago when everything was coming up Ron DeSantis. He was flying high, because of the lifts (allegedly!), but also because he was riling up anti-LGBTQ+ hysteria back to Bus\u2026 [+4753 chars]",
+      "retrievedAt": "2026-04-28 19:36:42.391086",
+      "internal_id": "cab3c1262bf979c6803ddbe075605a3375d144b63a39d738f1a772f870877ad1",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29273,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "GlobeNewswire",
+      "author": "Global Virus Network",
+      "title": "Global Virus Network Statement on H5N1 Vaccine Developments",
+      "description": "The Global Virus Network underscores the continued threat of H5N1 and calls for sustained global vigilance, surveillance, and preparedness....",
+      "url": "https://www.globenewswire.com/news-release/2026/04/27/3281918/0/en/Global-Virus-Network-Statement-on-H5N1-Vaccine-Developments.html",
+      "urlToImage": "https://ml.globenewswire.com/Resource/Download/6c1b2724-7b9b-469a-a7c3-bc0a64d716ae",
+      "publishedAt": "2026-04-27 16:43:00",
+      "content": "TAMPA, Fla., April 27, 2026 (GLOBE NEWSWIRE) -- The Global Virus Network (GVN), representing eminent human and animal virologists from more than 90 Centers of Excellence and Affiliates in over 40 cou\u2026 [+6200 chars]",
+      "retrievedAt": "2026-04-28 19:36:42.832271",
+      "internal_id": "723860f6f66b80ebbc85b43d7b5e2c6b4ae75a1911a7e24c293e858b9a951e15",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29274,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Observador.pt",
+      "author": "Ag\u00eancia Lusa",
+      "title": "Mosquito transmissor de dengue alarga-se a 28 concelhos",
+      "description": "O mosquito da esp\u00e9cie 'Aedes albopictus', causador de doen\u00e7as, como dengue e febre-amarela foi registado em 2025 em Lisboa, Oeiras, Almada e Sesimbra, confirmando assim o seu alargamento em Portugal.",
+      "url": "https://observador.pt/2026/04/27/mosquito-transmissor-de-dengue-alarga-presenca-a-28-concelhos-de-portugal-em-2025/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F12%2F27183035%2F20319735.jpg?layer=obstop:T",
+      "publishedAt": "2026-04-27 14:40:37",
+      "content": "O mosquito transmissor de doen\u00e7as como dengue e febre-amarela foi detetado em 2025 em Lisboa, Oeiras, Almada e Sesimbra, elevando para 28 o n\u00famero de concelhos onde foi identificado, mais 10 do que e\u2026 [+2109 chars]",
+      "retrievedAt": "2026-04-28 19:36:43.060107",
+      "internal_id": "2e1791da43e9c56121843cddc7e7dedbc845ebc1d79cefd6a139ed502c453c7b",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29281,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Pypi.org",
+      "author": null,
+      "title": "snt-malaria-budgeting 0.9.1",
+      "description": "A Python library for calculating malaria intervention budgets",
+      "url": "https://pypi.org/project/snt-malaria-budgeting/0.9.1/",
+      "urlToImage": null,
+      "publishedAt": "2026-04-27 14:23:42",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-04-28 19:36:43.922954",
+      "internal_id": "312df76d0f1929eb6ac40ddebd8363b6b9821ea04c41fceb5de14b92c47c21a5",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29276,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Annelies Wilder-Smith",
+      "title": "Optimizing dengue vaccination strategies",
+      "description": "Dengue is a rapidly expanding global health threat driven by urbanization, climate change, and complex transmission dynamics. In this Perspective, Annelies Wilder-Smith details why modeling and tailored vaccination programs will be critical to developing effe\u2026",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005068",
+      "urlToImage": null,
+      "publishedAt": "2026-04-27 14:00:00",
+      "content": "Dengue virus (DENV), comprising four antigenically distinct serotypes (DENV-14), remains a major public health challenge in tropical and subtropical regions regions where the vectorprimarily Aedes mo\u2026 [+6711 chars]",
+      "retrievedAt": "2026-04-28 19:36:43.081918",
+      "internal_id": "f4e9073c5b34782d9d8959d63fd3d926175a28356441d9c33e2a908063052607",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29277,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Khemmanant Khamthong, Kunwithree Phramrung",
+      "title": "Spatial representativeness matters for Climate-Driven Dengue Forecasting",
+      "description": "Author summary Dengue fever is a mosquito-borne disease that affects hundreds of millions of people each year, particularly in tropical regions. Because dengue transmission is strongly influenced by weather conditions such as temperature and humidity, climate\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014270",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014270.g005&size=inline",
+      "publishedAt": "2026-04-27 14:00:00",
+      "content": "Abstract Accurate forecasting of dengue incidence requires statistical models that explicitly accommodate overdispersion, temporal dependence, and delayed environmental forcing. We develop a Bayesia\u2026 [+40999 chars]",
+      "retrievedAt": "2026-04-28 19:36:43.093172",
+      "internal_id": "9f4a522772e8c115e7ea7f8e7b9064122e68a78ffa84bd0eb77fc94411efc709",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29278,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Sandra Saschenbrecker, Nadja Muigg, Oliver Klemens, Julia M. Klemens",
+      "title": "Improved and customized dengue serodiagnostics through combined NS1/IgM testing and novel dual-cut-off IgG ELISA",
+      "description": "Author summary Dengue is one of the most widespread mosquito-borne viral diseases worldwide, and timely, accurate case confirmation is essential for patient care and outbreak control. However, diagnosis remains challenging because early symptoms are often non\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014295",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014295.g004&size=inline",
+      "publishedAt": "2026-04-27 14:00:00",
+      "content": "Citation: Saschenbrecker S, Muigg N, Klemens O, Klemens JM (2026) Improved and customized dengue serodiagnostics through combined NS1/IgM testing and novel dual-cut-off IgG ELISA. PLoS Negl Trop Dis \u2026 [+49278 chars]",
+      "retrievedAt": "2026-04-28 19:36:43.103881",
+      "internal_id": "26d37eab0ea763c378ffc657859db43c3d9c9b0e6378505c77c7a681278bbf39",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29287,
+      "query": [
+        "typhoid"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Alice M. Nisbet, Iman Mohamed, Neville Q. Verlander, David Powell, Emma V. Waters, Andrew Nelson, Hilary Kirkbride, Gemma C. Langridge, Marie A. Chattaway",
+      "title": "The typhoid Mary legacy: Genomic epidemiology uncovers contemporary carriage dynamics across two decades of enteric fever surveillance in England and Wales",
+      "description": "Author summary Enteric fever, caused by Salmonella enterica serovars Typhi and Paratyphi A/B, is a major global health issue. The burden of enteric fever is worsened by bacterial carriers \u2013 individuals who harbour the bacteria for extended periods of time, of\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014177",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014177.g010&size=inline",
+      "publishedAt": "2026-04-27 14:00:00",
+      "content": "Citation: Nisbet AM, Mohamed I, Verlander NQ, Powell D, Waters EV, Nelson A, et al. (2026) The typhoid Mary legacy: Genomic epidemiology uncovers contemporary carriage dynamics across two decades of \u2026 [+51836 chars]",
+      "retrievedAt": "2026-04-28 19:36:44.907140",
+      "internal_id": "631d8e26be4d42f6d3525fc7e3adbcda0b6143def6293847300dfb2cc49e41d0",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29285,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Politiken.dk",
+      "author": null,
+      "title": "F\u00f8rste tilf\u00e6lde af lokal smitte med mpox konstateret i Danmark",
+      "description": "Den samlede risiko i er fortsat lav, oplyser SSI, efter person er lokalt smittet med mpox-variant.",
+      "url": "https://politiken.dk/danmark/sundhed/art10819427/F%C3%B8rste-tilf%C3%A6lde-af-lokal-smitte-med-mpox-konstateret-i-Danmark",
+      "urlToImage": "",
+      "publishedAt": "2026-04-27 12:30:20",
+      "content": "Gem artiklen Gemt L\u00e6st Det f\u00f8rste tilf\u00e6lde af lokal smitte med en mpox-variant er p\u00e5vist i Danmark. Det oplyser Statens Serum Institut (SSI) i en pressemeddelelse. Tilf\u00e6ldet er dog ikke uventet.\u2026 [+1933 chars]",
+      "retrievedAt": "2026-04-28 19:36:44.693880",
+      "internal_id": "abdc0eec2daf6b1ae242571f24cabcba3d1a2316fef3f081870346f71c6fdeb5",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29283,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.dr.dk",
+      "author": null,
+      "title": "F\u00f8rste tilf\u00e6lde af lokal smitte med mpox i Danmark",
+      "description": "Det f\u00f8rste tilf\u00e6lde af lokal smitte med en mpox-variant er p\u00e5vist i Danmark.",
+      "url": "https://www.dr.dk/nyheder/seneste/foerste-tilfaelde-af-lokal-smitte-med-mpox-i-danmark",
+      "urlToImage": "https://asset.dr.dk/drdk/umbraco-images/oujpen2a/317.png?im=AspectCrop%3D%28700%2C394%29%2CxPosition%3D.5%2CyPosition%3D.5%3BResize%3D%28700%2C394%29",
+      "publishedAt": "2026-04-27 12:18:00",
+      "content": "En 57-\u00e5rig mand er ved Retten i Aarhus tiltalt for at sende sine tre d\u00f8tre p\u00e5 genopdragelsesrejse i Somalia. Den yngste datter er fortsat i Somalia, mens de to \u00e6ldre p\u00e5 16 og 18 \u00e5r i dag er hjemme. \u2026 [+737 chars]",
+      "retrievedAt": "2026-04-28 19:36:44.658638",
+      "internal_id": "a09cf7a60a98c62fef15e3a183ea51d72e629c1b524bc22b6df6466a108edd0f",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29286,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": null,
+      "title": "F\u00f8rste tilf\u00e6lde af lokal smitte med mpox konstateret i Danmark",
+      "description": "Den samlede risiko i er fortsat lav, oplyser SSI, efter person er lokalt smittet med mpox-variant.",
+      "url": "https://www.bt.dk/samfund/foerste-tilfaelde-af-lokal-smitte-med-mpox-konstateret-i-danmark",
+      "urlToImage": "https://www.bt.dk/brands/bt/share.jpg",
+      "publishedAt": "2026-04-27 12:06:55",
+      "content": "Det f\u00f8rste tilf\u00e6lde af lokal smitte med en mpox-variant er p\u00e5vist i Danmark. Det oplyser Statens Serum Institut (SSI) i en pressemeddelelse. Tilf\u00e6ldet er dog ikke uventet. - Erfaringer fra andre e\u2026 [+640 chars]",
+      "retrievedAt": "2026-04-28 19:36:44.705234",
+      "internal_id": "ec66a999d1f64301c20ecb8bae318b6fbfe4ad0c9d96f449e361df20f93d2515",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29284,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "pebg@bt.dk (Per B\u00f8rding)",
+      "title": "SSI melder ud: F\u00f8rste tilf\u00e6lde p\u00e5vist i Danmark",
+      "description": "",
+      "url": "https://www.bt.dk/sundhed/ssi-melder-ud-foerste-tilfaelde-paavist-i-danmark",
+      "urlToImage": "https://www.bt.dk/brands/bt/share.jpg",
+      "publishedAt": "2026-04-27 11:48:24",
+      "content": "Statens Serum Institut (SSI) kan nu bekr\u00e6fte, at der er p\u00e5vist i alt fire tilf\u00e6lde af mpox klade 1b, tidligere kendt som abekopper, i Danmark. \u00c9t af disse tilf\u00e6lde er smittet her i landet uden foru\u2026 [+999 chars]",
+      "retrievedAt": "2026-04-28 19:36:44.669420",
+      "internal_id": "a91a416a540da5893d521a93a06584792ef7d5a1cf23ad7b0f602f590b360c55",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29271,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cnn",
+      "source_name": "CNN",
+      "author": "Deidre McPhillips",
+      "title": "Measles vaccine: Record-breaking outbreak may have driven uptake",
+      "description": "The measles outbreak in South Carolina \u2014 the largest the United States has had in decades \u2014 has ended, state health officials announced Monday.",
+      "url": "https://www.cnn.com/2026/04/27/health/south-carolina-measles-outbreak-over",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2259640992.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-04-27 10:54:54",
+      "content": "The measles outbreak in South Carolina the largest the United States has had in decades has ended, state health officials announced Monday. There were nearly 1,000 confirmed cases over about six mon\u2026 [+9217 chars]",
+      "retrievedAt": "2026-04-28 19:36:42.534080",
+      "internal_id": "9ff63c591714c7dee2dca2edaa79541add25583c9a826bb66cb58c402a416d29",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29275,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Berliner Morgenpost",
+      "author": "FUNKE Mediengruppe",
+      "title": "Denguefieber nach Malediven-Urlaub: RKI schl\u00e4gt Alarm",
+      "description": "Immer mehr Urlauber bringen Denguefieber von den Malediven mit. Das RKI warnt vor einem untersch\u00e4tzten Risiko \u2013 auch f\u00fcr Nicht-Reisende.",
+      "url": "https://www.morgenpost.de/panorama/article411828037/denguefieber-nach-malediven-urlaub-rki-schlaegt-alarm.html",
+      "urlToImage": "https://img.sparknews.funkemedien.de/406351812/406351812_1777281759_v16_9_1600.jpeg",
+      "publishedAt": "2026-04-27 09:22:39",
+      "content": "Traumstrand, Palmen und Denguefieber im Gep\u00e4ck. Seit Ende 2025 kehren immer mehr Urlauber von den Malediven mit der gef\u00e4hrlichen Tropenkrankheit nach Deutschland zur\u00fcck. Das berichtet das Robert Koch\u2026 [+1638 chars]",
+      "retrievedAt": "2026-04-28 19:36:43.071170",
+      "internal_id": "928010e28544c59222017a52244bd504c7975894a4252036e5f393a557ba0747",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29280,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Okdiario.com",
+      "author": "scruzcampillo",
+      "title": "Un estudio reconstruye c\u00f3mo la malaria lleva 74.000 a\u00f1os decidiendo d\u00f3nde vive el ser humano",
+      "description": "Un \u201c\u00edndice de estabilidad mal\u00e1rica\u201d reconstruido a partir de modelos clim\u00e1ticos y ecol\u00f3gicos revela que Plasmodium falciparum, el causante de la malaria, actu\u00f3 como barrera geogr\u00e1fica antes de la agricultura: \u00bfcu\u00e1nto m\u00e1s de nuestra historia est\u00e1 escrito por l\u2026",
+      "url": "https://muyinteresante.okdiario.com/salud/malaria-movimientos-humanos-africa-74000-anos-science-advances-2026.html",
+      "urlToImage": "https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2026/04/Plantillas-MUY-5-og.jpg",
+      "publishedAt": "2026-04-27 08:53:25",
+      "content": "Publicado por Santiago Campillo Brocal Bi\u00f3logo. M\u00e1ster en Biolog\u00eda Molecular y Biotecnolog\u00eda, Director de Muy Interesante Digital Creado: 27.04.2026 | 10:53 Actualizado: 27.04.2026 | 10:53 Dur\u2026 [+7370 chars]",
+      "retrievedAt": "2026-04-28 19:36:43.738469",
+      "internal_id": "71fd3260807ee257017df1927c35e9f6258e88c787b312b77ee650d5ea1b55e4",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29272,
+      "query": [
+        "hpai"
+      ],
+      "source_id": null,
+      "source_name": "CNET",
+      "author": null,
+      "title": "\u5927\u962a\u5b66\u9662\u5927\u5b66\u5927\u962a\u5b66\u9662\u5927\u5b66\u304c\u300c\u751f\u6210AI\u5229\u7528\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3\u300d\u3092\u7b56\u5b9a \u2015 \u751f\u6210AI\u306e\u9069\u5207\u306a\u6d3b\u7528\u3092\u901a\u3058\u3001\u5b66\u3073\u306e\u8cea\u5411\u4e0a\u3068\u5b66\u8853\u7684\u8aa0\u5b9f\u6027\u306e\u78ba\u4fdd\u3092\u3081\u3056\u3059",
+      "description": "\u5927\u962a\u5b66\u9662\u5927\u5b66\u30fb\u5927\u962a\u5b66\u9662\u5927\u5b66\u77ed\u671f\u5927\u5b66\u90e8\uff08\u5927\u962a\u5e9c\u5439\u7530\u5e02\uff0f\u7dcf\u9577\uff1a\u767d\u4e95\u5143\u5eb7\uff09\u306f\u3053\u306e\u305f\u3073\u3001\u300c\u751f\u6210AI\u5229\u7528\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3\u300d\u3092\u7b56\u5b9a\u3057\u305f\u3002\u540c\u30ac\u30a4\u30c9\u30e9\u30a4\u30f3\u306f\u3001\u751f\u6210AI\u3092\u5b66\u4fee\u30fb\u7814\u7a76\u30fb\u696d\u52d9\u306b\u6d3b\u7528\u3057\u3001\u5b66\u3073\u306e\u8cea\u306e\u5411\u4e0a\u3092\u56f3\u308b\u4e00\u65b9\u3001\u8aa4\u60c5\u5831\u3001\u60c5\u5831\u6f0f\u3048\u3044\u3001\u8457\u4f5c\u6a29\u4fb5\u5bb3\u7b49\u306e\u30ea\u30b9\u30af\u3092\u9069\u5207\u306b\u6291\u3048\u308b\u3053\u3068\u3092\u76ee\u7684\u3068\u3059\u308b\u3082\u306e\u3002\u5b66\u5185\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u5229\u7528\u3067\u304d...",
+      "url": "https://japan.cnet.com/release/31164605/",
+      "urlToImage": "https://japan.cnet.com/media/c/2012/images/logo/logo_ogp_1200.png",
+      "publishedAt": "2026-04-27 08:20:32",
+      "content": "AIAIAIGeminiNotebookLM7 AIAI 7AI3 AIGeminiNotebookLMAIAIAI AI AI HPChatGPTAI OGUNET HPAI 564-8511 361TEL06-6381-8434FAX06-6382-4363kouhouogu.ac.jp",
+      "retrievedAt": "2026-04-28 19:36:42.679465",
+      "internal_id": "841befa20d79acfe68ae81e0d2d2bcea90bce0e9eb8beb81cecc02f97036cb7e",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29265,
+      "query": [
+        "measles"
+      ],
+      "source_id": "al-jazeera-english",
+      "source_name": "Al Jazeera English",
+      "author": "Al Jazeera",
+      "title": "War and neglect fuel deadly measles epidemic in Sudan\u2019s Darfur",
+      "description": "Measles kills 70 in East Darfur's Labado in a few weeks as healthcare collapse leaves families without medicines.",
+      "url": "https://www.aljazeera.com/news/2026/4/27/war-and-neglect-fuel-deadly-measles-epidemic-in-sudans-darfur",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/04/2023-09-20T075221Z_854941695_RC27C3AFK9XI_RTRMADP_3_SUDAN-POLITICS-UNHCR-HEALTH-1776970909.jpg?resize=1200%2C675",
+      "publishedAt": "2026-04-27 08:04:35",
+      "content": "East Darfur, Sudan Hawa Adam did not expect a childhood illness to kill her son. Ali was two years old when he fell sick on February 25 in Labado, in Sudans East Darfur state. He died two days later.\u2026 [+6392 chars]",
+      "retrievedAt": "2026-04-28 19:36:42.356401",
+      "internal_id": "18803f1a509c36adb7db723fa564e38f142e0addbea1d311a6fbeb4451c46fd4",
+      "publishedAtLabel": "Apr 27"
+    },
     {
       "id": 29263,
       "query": [
@@ -16819,114 +17233,6 @@
       "content": "Two people have died during an outbreak of meningitis in the Canterbury area of Kent. In a statement, the UK Health Security Agency (UKHSA) said 11 other people had fallen ill and that antibiotics a\u2026 [+1560 chars]",
       "retrievedAt": "2026-03-17 07:28:47.954000",
       "internal_id": "537d528fbee0582e560c4037699bcd953202c65a6ae20adf289ccfdb9a7e56e4",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28336,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "Two students die in university meningitis outbreak",
-      "description": "Around 11 University of Kent students are also seriously ill in hospital, the BBC understands.",
-      "url": "https://www.bbc.com/news/articles/cdxg35dv7npo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-      "publishedAt": "2026-03-15 19:35:19",
-      "content": "Trish Mannes, UKHSA regional deputy director for the South East, said students can be at risk of missing symptoms due to confusing them for \"a bad cold, flu, or even a hangover\".",
-      "retrievedAt": "2026-03-17 07:28:47.940555",
-      "internal_id": "904278e8ce14fa615f6140541ec138aab3c7379da93fe78b40a27891a4cafe0d",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28331,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Mark Norman",
-      "title": "Two University of Kent students die in meningitis outbreak",
-      "description": "Eleven University of Kent students are also seriously ill in hospital, the BBC understands.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxg35dv7npo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg",
-      "publishedAt": "2026-03-15 19:25:23",
-      "content": "A UKHSA spokesperson said it was arranging antibiotics for some students in the Canterbury area following the outbreak, and that the specific strain of the disease has not been identified. The BBC u\u2026 [+1111 chars]",
-      "retrievedAt": "2026-03-16 19:27:22.783083",
-      "internal_id": "3e8cfaf79c9e8f49327beada3cfbde5603c610a2d523667698ce3138062566a0",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28328,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Lisa Monteiro,Nisser Dias",
-      "title": "Shortage of anti-rabies vaccine in state amid rising dog bite cases",
-      "description": "Goa is experiencing a critical shortage of anti-rabies vaccines with rising dog bite cases, forcing victims to search multiple health centers for treatment. Health officials report nationwide supply issues.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-129594953,width-1280,height-720,imgsize-149472,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-15 18:59:33",
-      "content": "Follow Us On Social Media Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
-      "retrievedAt": "2026-03-16 19:27:20.950414",
-      "internal_id": "7557ff933a89295256c5be35ebe243f35d595a5e8c3a19a4ccbd7be5938aae5b",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28332,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Karolina Majchrzak",
-      "title": "Naukowy znale\u017ali s\u0142abo\u015bci paso\u017cyt\u00f3w wywo\u0142uj\u0105cych malari\u0119. B\u0119d\u0105 nowe leki",
-      "description": "Malaria pozostaje jedn\u0105 z najgro\u017aniejszych chor\u00f3b zaka\u017anych na \u015bwiecie. Wed\u0142ug danych globalnych w 2024 roku doprowadzi\u0142a do \u015bmierci oko\u0142o 610 tys. os\u00f3b, z czego zdecydowana wi\u0119kszo\u015b\u0107 mia\u0142a miejsce w Afryce, gdzie najbardziej nara\u017cone s\u0105 ma\u0142e dzieci. Nowe bad\u2026",
-      "url": "https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898",
-      "urlToImage": "https://i.iplsc.com/-/000J7NGTM2EV8HQC-C461.jpg",
-      "publishedAt": "2026-03-15 12:13:03",
-      "content": "Zesp\u00f3 naukowc\u00f3w z Uniwersytetu w Nottingham zidentyfikowa kluczowy element biologii pasoyta odpowiedzialnego za malari, chodzi o biako o nazwie ARK1. Odkrycie opublikowane w czasopimie naukowym Natur\u2026 [+2031 chars]",
-      "retrievedAt": "2026-03-16 19:27:23.042575",
-      "internal_id": "6b9242e6ba7dc40dd1bf57ddbfeb8d9b563cf2cca39ead0fd85e4c4a1cb52995",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28330,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles outbreaks growing? #health",
-      "description": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of under\u2011immunized communities have grown large enough to sustain transmission. A mix of factors\u2014political polarization, m\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-outbreaks-growing",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-15 12:11:35",
-      "content": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of underimmunized communities have grown large enough to sust\u2026 [+1744 chars]",
-      "retrievedAt": "2026-03-16 19:27:21.332251",
-      "internal_id": "88cad0e5bdf14b75703860ba27c27c4be6847e7269c992177165ca7dec5bb956",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28329,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Khan.co.kr",
-      "author": "\uc720\ud55c\uc0c1 \uc11c\uc6b8\ub300 \uc218\uc758\uacfc\ub300\ud559 \uad50\uc218",
-      "title": "[\uae30\uace0]\ubc18\ub824\ub3d9\ubb3c\uc758 \u2018\uc678\ucd9c\u2019 \uc608\ubc29\uc811\uc885\uc774 \uba3c\uc800",
-      "description": "\uc9c0\ub09c \uc124 \uc5f0\ud734 \uac15\uc544\uc9c0\uc640 \ud568\uaed8 \uace0\ud5a5\uc5d0 \ub0b4\ub824\uac14\ub358 \uc9c0\uc778\uc774 \ud558\uc18c\uc5f0\uc744 \ud588\ub2e4. \ud734\uac8c\uc18c\uc5d0 \ub4e4\ub7ec \uac15\uc544\uc9c0\ub97c \ucc28\uc5d0 \ub450\uace0 \uc0ac\ub78c\ub4e4\ub9cc \uc2dd\uc0ac\ud558\ub824\ub2c8 \uac71\uc815\uc774 \ub418\uc5b4 \ud5c8\uac81\uc9c0\uac81 \uc2dd\uc0ac\ub97c \ub9c8\ucce4\ub2e4\uace0 \ud55c\ub2e4. \uc544\ub9c8 \ub9ce\uc740 \ubc18\ub824\uc778\uc774 \ud55c \ubc88\ucbe4 \uacaa\uc5b4\ubd24\uc744 \uc77c\uc774\ub2e4.\ubc18\ub824\ub3d9\ubb3c \uc591\uc721 \uc778\uad6c\uc758 \uc99d\uac00\uc640 \uc0ac\ud68c\uc801 \uc778\uc2dd \ubcc0\ud654\ub85c \uacfc\uac70 \uc2dd\ub2f9\uc5d0\ub294 \ubc18\ub824\ub3d9\ubb3c \ub3d9\ubc18 \ucd9c\uc785\uc774 \ubd88\uac00\ub2a5\ud55c \uac83\uc73c\ub85c \uc5ec\uaca8\uc84c\ub358 \ubd84\uc704\uae30\uac00 \ub2ec\ub77c\uc9c0\uace0 \uc788\ub2e4. \ucd5c\uadfc\uc5d0\ub294 \uc2dc\ub300\u00b7\u00b7\u00b7",
-      "url": "https://www.khan.co.kr/article/202603151959005",
-      "urlToImage": "https://img.khan.co.kr/news/2026/03/15/l_2026031601000386600045251.jpg",
-      "publishedAt": "2026-03-15 10:59:00",
-      "content": ". . . . , . . , \u00b7 . . , . . . . , . (rabies) , 100% . (WHO) 6 . . . , (One Health) . . . . , . . , , . . . , .",
-      "retrievedAt": "2026-03-16 19:27:20.974129",
-      "internal_id": "303e45f21e0a8e3c5e21c279ee593540ff0c39d242075fde6e035e9d058e33ca",
       "publishedAtLabel": "Mar 15"
     }
   ]
