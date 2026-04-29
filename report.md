@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 23
-- **Last harvest:** 2026-04-28 19:36
-- **Most recent article:** 2026-04-27 18:55:02
+- **New articles in last harvest:** 13
+- **Last harvest:** 2026-04-29 07:47
+- **Most recent article:** 2026-04-28 06:04:02
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 173 | 75 | 19 | 4 | 5 | 8 | 1 | 285 |
-| measles | 19 | 21 | 26 | 51 | 35 | 54 | 8 | 214 |
-| malaria | 19 | 14 | 9 | 14 | 9 | 59 | 5 | 129 |
-| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 5 | 117 |
-| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 6 | 69 |
-| rabies | 4 | 5 | 26 | 8 | 3 | 6 | 1 | 53 |
+| meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 2 | 288 |
+| measles | 20 | 21 | 26 | 51 | 35 | 54 | 15 | 222 |
+| malaria | 20 | 14 | 9 | 14 | 9 | 59 | 7 | 132 |
+| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 6 | 118 |
+| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 7 | 70 |
+| rabies | 6 | 5 | 26 | 8 | 3 | 6 | 1 | 55 |
 | chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 2 | 41 |
-| h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 2 | 34 |
+| h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 3 | 35 |
 | zika | 4 | 1 | 15 | 1 | 4 | 4 | 1 | 30 |
-| hpai | 1 | 6 | 2 | 2 | 1 | 0 | 1 | 13 |
+| hpai | 1 | 6 | 2 | 2 | 1 | 0 | 2 | 14 |
 | yersinia | 1 | 1 | 0 | 1 | 0 | 4 | 1 | 8 |
 | leptospirosis | 3 | 1 | 0 | 1 | 1 | 1 | 0 | 7 |
 | typhoid | 0 | 1 | 1 | 0 | 3 | 0 | 1 | 6 |
@@ -51,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (mpox)
 
+- [California officials worry as weekly average of rare viral cases rise](https://www.sfgate.com/bayarea/article/california-mpox-cases-rise-22228535.php) (SFGate)
+
 - [Calif. officials concerned as weekly average mpox cases 'more than double'](https://www.sfgate.com/bayarea/article/mpox-cases-rising-california-22228535.php) (SFGate)
 
 - [Første tilfælde af lokal smitte med mpox konstateret i Danmark](https://politiken.dk/danmark/sundhed/art10819427/F%C3%B8rste-tilf%C3%A6lde-af-lokal-smitte-med-mpox-konstateret-i-Danmark) (Politiken.dk)
@@ -65,9 +67,25 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (meningitis)
 
+- ['Menace II Society' star Samuel Monroe Jr. on life support after meningitis went untreated for months](https://www.foxnews.com/entertainment/menace-ii-society-star-samuel-monroe-jr-life-support-meningitis-went-untreated-months) (Fox News)
+
 - [Menace II Society actor Samuel Monroe Jr. on life support in hospital amid devastating health battle](https://www.dailymail.com/tvshowbiz/article-15769623/Menace-II-Society-Samuel-Monroe-Jr-life-support-meningitis.html) (Dailymail.com)
 
 ## 26-18 (measles)
+
+- [What does measles outbreak end mean? #health](https://alltoc.com/health/what-does-measles-outbreak-end-mean) (Alltoc.com)
+
+- [What happened to South Carolina measles? #health](https://alltoc.com/health/what-happened-to-south-carolina-measles) (Alltoc.com)
+
+- [Health officials declare South Carolina measles outbreak over](https://www.wyff4.com/article/sc-health-officials-declare-measles-outbreak-over/71142715) (WYFF4 Greenville)
+
+- [How did South Carolina end its measles outbreak? #health](https://alltoc.com/health/how-did-south-carolina-end-its-measles-outbreak) (Alltoc.com)
+
+- [South Carolina's measles outbreak is over. But more are brewing around the country](https://www.npr.org/2026/04/27/nx-s1-5801665/south-carolina-measles-outbreak-vaccination) (NPR)
+
+- [1st measles exposure locations in northern Manitoba announced](https://www.cbc.ca/news/canada/manitoba/northern-manitoba-measles-thompson-the-pas-9.7179044) (CBC News)
+
+- [Nothing makes Trump angrier than what this Cabinet member just did](https://www.rawstory.com/nothing-makes-trump-angrier-than-what-this-cabinet-member-just-did/) (Raw Story)
 
 - [A record-breaking measles outbreak in the US has ended](https://www.kcci.com/article/largest-us-measles-outbreak-in-decades-ends/71136321) (KCCI Des Moines)
 
@@ -87,6 +105,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (malaria)
 
+- [Zoonotic and Anthroponotic Plasmodium spp. Circulation between Wild Primates and Indigenous Community, Peruvian Amazon, 2007–2020](https://wwwnc.cdc.gov/eid/article/32/5/25-1695_article) (Cdc.gov)
+
+- [World Malaria Day: Local drugs, APIs key to ending disease — Emzor](https://www.vanguardngr.com/2026/04/world-malaria-day-local-drugs-apis-key-to-ending-disease-emzor/) (Vanguard)
+
 - [snt-malaria-budgeting 0.9.1](https://pypi.org/project/snt-malaria-budgeting/0.9.1/) (Pypi.org)
 
 - [Un estudio reconstruye cómo la malaria lleva 74.000 años decidiendo dónde vive el ser humano](https://muyinteresante.okdiario.com/salud/malaria-movimientos-humanos-africa-74000-anos-science-advances-2026.html) (Okdiario.com)
@@ -99,15 +121,21 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (hpai)
 
+- [Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus and Mass Mortality in Eurasian Cranes, Germany, 2025](https://wwwnc.cdc.gov/eid/article/32/5/26-0170_article) (Cdc.gov)
+
 - [大阪学院大学大阪学院大学が「生成AI利用ガイドライン」を策定 ― 生成AIの適切な活用を通じ、学びの質向上と学術的誠実性の確保をめざす](https://japan.cnet.com/release/31164605/) (CNET)
 
 ## 26-18 (h5n1)
+
+- [Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus and Mass Mortality in Eurasian Cranes, Germany, 2025](https://wwwnc.cdc.gov/eid/article/32/5/26-0170_article) (Cdc.gov)
 
 - [Global Virus Network Statement on H5N1 Vaccine Developments](https://www.globenewswire.com/news-release/2026/04/27/3281918/0/en/Global-Virus-Network-Statement-on-H5N1-Vaccine-Developments.html) (GlobeNewswire)
 
 - [Онищенко перечислил четыре смертоносные болезни на ближайшие пять лет](https://news.mail.ru/society/70673706/) (Mail.ru)
 
 ## 26-18 (dengue)
+
+- [Salud reporta 849 casos de dengue: conozca las zonas que concentran mayor impacto de la enfermedad](https://www.nacion.com/ciencia/salud/salud-reporta-849-casos-de-dengue-conozca-las/IPJ5APGEPBD63KXQAZBGBM43CU/story/) (Nacion.com)
 
 - [Mosquito transmissor de dengue alarga-se a 28 concelhos](https://observador.pt/2026/04/27/mosquito-transmissor-de-dengue-alarga-presenca-a-28-concelhos-de-portugal-em-2025/) (Observador.pt)
 
@@ -1683,6 +1711,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
 
+- [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
+
+- [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
+
 ## 26-12 (mpox)
 
 - [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
@@ -2057,6 +2089,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Two people die in meningitis outbreak in Kent](https://news.sky.com/story/two-people-die-in-meningitis-outbreak-in-kent-13520252) (Sky.com)
 
+- [Two students die in university meningitis outbreak](https://www.bbc.com/news/articles/cdxg35dv7npo) (BBC News)
+
+- [Two University of Kent students die in meningitis outbreak](https://www.bbc.co.uk/news/articles/cdxg35dv7npo) (BBC News)
+
 ## 26-12 (measles)
 
 - [A Model For HHS: New Mexico Measles Outbreak Was Curtailed With Mass Vaccination Campaign](https://www.techdirt.com/2026/03/20/a-model-for-hhs-new-mexico-measles-outbreak-was-curtailed-with-mass-vaccination-campaign/) (Techdirt)
@@ -2097,6 +2133,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles patient identified at major synagogue in Bnei Brak](https://www.israelnationalnews.com/news/423994) (Israelnationalnews.com)
 
+- [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
+
 ## 26-12 (malaria)
 
 - [Nei Dna dei sardi un gene che protegge dalla malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/21/nei-dna-dei-sardi-un-gene-che-protegge-dalla-malaria_4b655a6e-e413-4b63-9344-70fc50a0a6d2.html) (ANSA.it)
@@ -2136,6 +2174,8 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
 
 - [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
+
+- [Naukowy znaleźli słabości pasożytów wywołujących malarię. Będą nowe leki](https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898) (Interia.pl)
 
 ## 26-12 (leptospirosis)
 

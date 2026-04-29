@@ -1,8 +1,243 @@
 {
-  "last_updated": "2026-04-28 19:36",
-  "count_articles_total": 954,
-  "count_articles_new": 23,
+  "last_updated": "2026-04-29 07:47",
+  "count_articles_total": 973,
+  "count_articles_new": 13,
   "articles": [
+    {
+      "id": 29289,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What does measles outbreak end mean? #health",
+      "description": "South Carolina measles outbreak officially over, but risk remains South Carolina has declared its measles outbreak over after nearly 1,000 people were infected during what was described as the worst U.S. outbreak in more than 35 years. Even with the state lev\u2026",
+      "url": "https://alltoc.com/health/what-does-measles-outbreak-end-mean",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-28 06:04:02",
+      "content": "South Carolina has declared its measles outbreak over after nearly 1,000 people were infected during what was described as the worst U.S. outbreak in more than 35 years. Even with the state-level ov\u2026 [+1325 chars]",
+      "retrievedAt": "2026-04-29 07:47:25.513715",
+      "internal_id": "14b8e775d6e72b3d155b7b99ca0939466fa155178c55044e80bc02974c7c34a9",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29290,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What happened to South Carolina measles? #health",
+      "description": "South Carolina measles outbreak declared over after ~1,000 cases South Carolina has declared its measles outbreak over following widespread transmission that infected nearly 1,000 people. The outbreak was characterized as the worst in the U.S. in more than 35\u2026",
+      "url": "https://alltoc.com/health/what-happened-to-south-carolina-measles",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-28 06:04:02",
+      "content": "South Carolina has declared its measles outbreak over following widespread transmission that infected nearly 1,000 people. The outbreak was characterized as the worst in the U.S. in more than 35 year\u2026 [+1269 chars]",
+      "retrievedAt": "2026-04-29 07:47:25.523754",
+      "internal_id": "03bef304dcb97bfdd32f261e4cab03af5df8e2e5812c1bc3b4f8771bd796f461",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29295,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus and Mass Mortality in Eurasian Cranes, Germany, 2025",
+      "description": "HPAI H5N1 and Mass Mortality in Eurasian Cranes",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/5/26-0170_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-04-28 04:00:00",
+      "content": "Disclaimer: Early release articles are not considered as final versions. Any changes will be reflected in the online version in the month the article is officially released.Eurasian cranes (Grus grus\u2026 [+9798 chars]",
+      "retrievedAt": "2026-04-29 07:47:25.798102",
+      "internal_id": "aea41fecb3bc458830cc9b5c45795d78621f23d7dea5b154ba7ac338f1416d79",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29299,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Cdc.gov",
+      "author": null,
+      "title": "Zoonotic and Anthroponotic Plasmodium spp. Circulation between Wild Primates and Indigenous Community, Peruvian Amazon, 2007\u20132020",
+      "description": "Zoonotic and Anthroponotic Plasmodium spp.",
+      "url": "https://wwwnc.cdc.gov/eid/article/32/5/25-1695_article",
+      "urlToImage": "https://wwwnc.cdc.gov/eid/images/og-eid-logo-2.jpg",
+      "publishedAt": "2026-04-28 04:00:00",
+      "content": "Malaria parasites of nonhuman primates (NHPs) are increasingly recognized for their zoonotic potential and complicate malaria control efforts (1). The first report of a zoonotic malaria parasite capa\u2026 [+27852 chars]",
+      "retrievedAt": "2026-04-29 07:47:27.020590",
+      "internal_id": "5ac5da844fb51ced6a25bdc5febe224f75c0ce8e2f71b54ce757ca7cfb54b309",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29300,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "SFGate",
+      "author": "Ariana Bindman",
+      "title": "California officials worry as weekly average of rare viral cases rise",
+      "description": "California's Department of Public Health \"is closely monitoring mpox activity.\"",
+      "url": "https://www.sfgate.com/bayarea/article/california-mpox-cases-rise-22228535.php",
+      "urlToImage": null,
+      "publishedAt": "2026-04-28 01:49:52",
+      "content": "A required part of this site couldnt load. This may be due to a browser extension, network issues, or browser settings. Please check your connection, disable any ad blockers, or try using a diffe\u2026 [+12 chars]",
+      "retrievedAt": "2026-04-29 07:47:27.644477",
+      "internal_id": "0c99404ba0008d968b6faa2d4417d979993e9976d7b54a14cba9561280eee165",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29298,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Vanguard",
+      "author": "Nwafor",
+      "title": "World Malaria Day: Local drugs, APIs key to ending disease \u2014 Emzor",
+      "description": "As the world marks the 2026 World Malaria Day, Emzor Pharmaceutical Industries Limited has declared that scaling local drug production and investing in Active Pharmaceutical Ingredients, APIs, are critical to ending malaria in Nigeria, which still bears the h\u2026",
+      "url": "https://www.vanguardngr.com/2026/04/world-malaria-day-local-drugs-apis-key-to-ending-disease-emzor/",
+      "urlToImage": "https://cdn.vanguardngr.com/wp-content/uploads/2022/05/malaria-is-passed-on-by-the-anopheles-mosquito-edited.jpg",
+      "publishedAt": "2026-04-28 00:36:00",
+      "content": "By Chioma Obinna As the world marks the 2026 World Malaria Day, Emzor Pharmaceutical Industries Limited has declared that scaling local drug production and investing in Active Pharmaceutical Ingredi\u2026 [+2578 chars]",
+      "retrievedAt": "2026-04-29 07:47:26.833028",
+      "internal_id": "b4969c2b84a67bdc414610d93849eaefdb3739e33c16c795fe90de406a4614f4",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29294,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "WYFF4 Greenville",
+      "author": "Naomi Popa",
+      "title": "Health officials declare South Carolina measles outbreak over",
+      "description": "South Carolina health officials say the state\u2019s measles outbreak is over after 997 cases, but they warn vaccination remains key.",
+      "url": "https://www.wyff4.com/article/sc-health-officials-declare-measles-outbreak-over/71142715",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/3c7bcb1d-48cd-489e-bb45-6b839ea5839d/d25c0939-3428-4454-84b1-1dace5dec5db.jpg?crop=0.810xw:0.809xh;0.190xw,0&resize=1200:*",
+      "publishedAt": "2026-04-28 00:07:44",
+      "content": "SPARTANBURG, S.C. \u2014The South Carolina Department of Public Health has officially declared the state's measles outbreak over. This comes 207 days after the start of the outbreak and 997 cases later. \u2026 [+2720 chars]",
+      "retrievedAt": "2026-04-29 07:47:25.640739",
+      "internal_id": "ac4435b94623a542fed2141938eb50ff614f8eb6182557b2b2096bccac39e5e8",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29291,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How did South Carolina end its measles outbreak? #health",
+      "description": "South Carolina\u2019s measles outbreak is declared over South Carolina has ended a major measles outbreak that sickened nearly 1,000 people in the state, the reporting indicates. The state later formally declared the outbreak over, signaling that chains of transmi\u2026",
+      "url": "https://alltoc.com/health/how-did-south-carolina-end-its-measles-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-28 00:03:25",
+      "content": "South Carolinas measles outbreak is declared over South Carolina has ended a major measles outbreak that sickened nearly 1,000 people in the state, the reporting indicates. The state later formally \u2026 [+1334 chars]",
+      "retrievedAt": "2026-04-29 07:47:25.533777",
+      "internal_id": "55275f30d619f2cc9b6f9fbd5bbd7175bb46178a33f36830163546a109851eac",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29288,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "NPR",
+      "author": "Maria Godoy",
+      "title": "South Carolina's measles outbreak is over. But more are brewing around the country",
+      "description": "The virus infected nearly 1,000 people in the state before the state declared it over. Meanwhile, cases are spreading across many parts of the U.S., with more than 20 outbreaks currently active.",
+      "url": "https://www.npr.org/2026/04/27/nx-s1-5801665/south-carolina-measles-outbreak-vaccination",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2F84%2Fe19dadd34d5296614e01defcc626%2Fgettyimages-2258579705.jpg",
+      "publishedAt": "2026-04-27 23:17:50",
+      "content": "South Carolina public health officials on Monday declared an end to the largest measles outbreak in the U.S. since 1991. On Sunday, the state marked 42 days with no new cases reported related to the\u2026 [+3135 chars]",
+      "retrievedAt": "2026-04-29 07:47:25.291958",
+      "internal_id": "5f400c7c93b49a90eb3eb47e9af6f0bf831dac01546b479ce3681fd48419aad5",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29297,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "fox-news",
+      "source_name": "Fox News",
+      "author": null,
+      "title": "'Menace II Society' star Samuel Monroe Jr. on life support after meningitis went untreated for months",
+      "description": "\"Menace II Society\" star Samuel Monroe Jr. is on life support due to meningitis that his family says was misdiagnosed for eight months in Las Vegas.",
+      "url": "https://www.foxnews.com/entertainment/menace-ii-society-star-samuel-monroe-jr-life-support-meningitis-went-untreated-months",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/samuelmonroejr.jpeg",
+      "publishedAt": "2026-04-27 23:14:12",
+      "content": "90s star Samuel Monroe Jr., best known for his role in \"Menace II Society,\" is currently on life support, his family told Fox News Digital. \"As Samuels wife, Shawna Stewart, we all been fighting ove\u2026 [+2066 chars]",
+      "retrievedAt": "2026-04-29 07:47:26.437997",
+      "internal_id": "0806f38d38cf08eaf8229ab593d7a3d510b4fc06ca49cb2be3f55374f3412534",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29296,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Nacion.com",
+      "author": "Marianela Arias Vilchez",
+      "title": "Salud reporta 849 casos de dengue: conozca las zonas que concentran mayor impacto de la enfermedad",
+      "description": "El Ministerio de Salud reporta 849 casos de dengue en Costa Rica a la semana epidemiol\u00f3gica 14 del 2026. Conozca los cantones con mayor volumen de pacientes y las tasas de incidencia por habitante.",
+      "url": "https://www.nacion.com/ciencia/salud/salud-reporta-849-casos-de-dengue-conozca-las/IPJ5APGEPBD63KXQAZBGBM43CU/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/ABZG672KBRBVJFHDV4LBC6UPKQ.png?smart=true&auth=148a99334e6cfd4f1a4889fef606d026e815598ced437fc2095a4c9f815eb9f3&width=1440",
+      "publishedAt": "2026-04-27 23:03:08",
+      "content": "El Ministerio de Salud report\u00f3 que Costa Rica registr\u00f3 849 casos de dengue a la semana epidemiol\u00f3gica 14 del a\u00f1o 2026. Las autoridades confirmaron que 13 de estos diagn\u00f3sticos calificaron como casos \u2026 [+1259 chars]",
+      "retrievedAt": "2026-04-29 07:47:26.259975",
+      "internal_id": "2b163b10a9eefa0b6b685bad6efbadfcce3f3ff4b7afbb71362be42dfb1a71a4",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29292,
+      "query": [
+        "measles"
+      ],
+      "source_id": "cbc-news",
+      "source_name": "CBC News",
+      "author": null,
+      "title": "1st measles exposure locations in northern Manitoba announced",
+      "description": "Two northern Manitoba hospitals have been listed as possible measles exposure sites. They are the first two possible exposure sites to be in northern Manitoba since the infection began recirculating in the province in 2024.",
+      "url": "https://www.cbc.ca/news/canada/manitoba/northern-manitoba-measles-thompson-the-pas-9.7179044",
+      "urlToImage": "https://i.cbc.ca/ais/0624e1b0-0a42-4882-9509-d9b646b23adb,1776356465581/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3BResize%3D620",
+      "publishedAt": "2026-04-27 21:45:50",
+      "content": "Two northern Manitoba health facilities have been listed as measles exposure sites. Hospital waiting rooms in The Pas and Thompson have been added to the Manitoba government's list of possible measl\u2026 [+2727 chars]",
+      "retrievedAt": "2026-04-29 07:47:25.552709",
+      "internal_id": "0d08fcbd2c1606c0438b56e29ce05b21f0ffa81cd95fed58c495b3843463bef2",
+      "publishedAtLabel": "Apr 27"
+    },
+    {
+      "id": 29293,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Raw Story",
+      "author": "Robert Reich",
+      "title": "Nothing makes Trump angrier than what this Cabinet member just did",
+      "description": "Friends,You can be Secretary of Defense (War) and cause the mightiest military in the world to be brought to its knees, and still keep your job in the Trump regime.You can be in charge of public health and cause measles to reemerge as a major hazard to Americ\u2026",
+      "url": "https://www.rawstory.com/nothing-makes-trump-angrier-than-what-this-cabinet-member-just-did/",
+      "urlToImage": "https://www.rawstory.com/media-library/trump-suffers-one-final-massive-legal-defeat-just-before-electoral-college-votes-for-joe-biden.jpg?id=24817370&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+      "publishedAt": "2026-04-27 19:47:50",
+      "content": "Friends, You can be Secretary of Defense (War) and cause the mightiest military in the world to be brought to its knees, and still keep your job in the Trump regime. You can be in charge of public \u2026 [+5843 chars]",
+      "retrievedAt": "2026-04-29 07:47:25.562546",
+      "internal_id": "a5dad17576d519f788e2e450096c17ba1052e96e2f6aa7c5bba7429d0d50e4d1",
+      "publishedAtLabel": "Apr 27"
+    },
     {
       "id": 29282,
       "query": [
@@ -17233,6 +17468,114 @@
       "content": "Two people have died during an outbreak of meningitis in the Canterbury area of Kent. In a statement, the UK Health Security Agency (UKHSA) said 11 other people had fallen ill and that antibiotics a\u2026 [+1560 chars]",
       "retrievedAt": "2026-03-17 07:28:47.954000",
       "internal_id": "537d528fbee0582e560c4037699bcd953202c65a6ae20adf289ccfdb9a7e56e4",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28336,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Two students die in university meningitis outbreak",
+      "description": "Around 11 University of Kent students are also seriously ill in hospital, the BBC understands.",
+      "url": "https://www.bbc.com/news/articles/cdxg35dv7npo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "publishedAt": "2026-03-15 19:35:19",
+      "content": "Trish Mannes, UKHSA regional deputy director for the South East, said students can be at risk of missing symptoms due to confusing them for \"a bad cold, flu, or even a hangover\".",
+      "retrievedAt": "2026-03-17 07:28:47.940555",
+      "internal_id": "904278e8ce14fa615f6140541ec138aab3c7379da93fe78b40a27891a4cafe0d",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28331,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "bbc-news",
+      "source_name": "BBC News",
+      "author": "Mark Norman",
+      "title": "Two University of Kent students die in meningitis outbreak",
+      "description": "Eleven University of Kent students are also seriously ill in hospital, the BBC understands.",
+      "url": "https://www.bbc.co.uk/news/articles/cdxg35dv7npo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg",
+      "publishedAt": "2026-03-15 19:25:23",
+      "content": "A UKHSA spokesperson said it was arranging antibiotics for some students in the Canterbury area following the outbreak, and that the specific strain of the disease has not been identified. The BBC u\u2026 [+1111 chars]",
+      "retrievedAt": "2026-03-16 19:27:22.783083",
+      "internal_id": "3e8cfaf79c9e8f49327beada3cfbde5603c610a2d523667698ce3138062566a0",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28328,
+      "query": [
+        "rabies"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "Lisa Monteiro,Nisser Dias",
+      "title": "Shortage of anti-rabies vaccine in state amid rising dog bite cases",
+      "description": "Goa is experiencing a critical shortage of anti-rabies vaccines with rising dog bite cases, forcing victims to search multiple health centers for treatment. Health officials report nationwide supply issues.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-129594953,width-1280,height-720,imgsize-149472,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-03-15 18:59:33",
+      "content": "Follow Us On Social Media Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
+      "retrievedAt": "2026-03-16 19:27:20.950414",
+      "internal_id": "7557ff933a89295256c5be35ebe243f35d595a5e8c3a19a4ccbd7be5938aae5b",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28332,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Interia.pl",
+      "author": "Karolina Majchrzak",
+      "title": "Naukowy znale\u017ali s\u0142abo\u015bci paso\u017cyt\u00f3w wywo\u0142uj\u0105cych malari\u0119. B\u0119d\u0105 nowe leki",
+      "description": "Malaria pozostaje jedn\u0105 z najgro\u017aniejszych chor\u00f3b zaka\u017anych na \u015bwiecie. Wed\u0142ug danych globalnych w 2024 roku doprowadzi\u0142a do \u015bmierci oko\u0142o 610 tys. os\u00f3b, z czego zdecydowana wi\u0119kszo\u015b\u0107 mia\u0142a miejsce w Afryce, gdzie najbardziej nara\u017cone s\u0105 ma\u0142e dzieci. Nowe bad\u2026",
+      "url": "https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898",
+      "urlToImage": "https://i.iplsc.com/-/000J7NGTM2EV8HQC-C461.jpg",
+      "publishedAt": "2026-03-15 12:13:03",
+      "content": "Zesp\u00f3 naukowc\u00f3w z Uniwersytetu w Nottingham zidentyfikowa kluczowy element biologii pasoyta odpowiedzialnego za malari, chodzi o biako o nazwie ARK1. Odkrycie opublikowane w czasopimie naukowym Natur\u2026 [+2031 chars]",
+      "retrievedAt": "2026-03-16 19:27:23.042575",
+      "internal_id": "6b9242e6ba7dc40dd1bf57ddbfeb8d9b563cf2cca39ead0fd85e4c4a1cb52995",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28330,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Why are measles outbreaks growing? #health",
+      "description": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of under\u2011immunized communities have grown large enough to sustain transmission. A mix of factors\u2014political polarization, m\u2026",
+      "url": "https://alltoc.com/health/why-are-measles-outbreaks-growing",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-15 12:11:35",
+      "content": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of underimmunized communities have grown large enough to sust\u2026 [+1744 chars]",
+      "retrievedAt": "2026-03-16 19:27:21.332251",
+      "internal_id": "88cad0e5bdf14b75703860ba27c27c4be6847e7269c992177165ca7dec5bb956",
+      "publishedAtLabel": "Mar 15"
+    },
+    {
+      "id": 28329,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Khan.co.kr",
+      "author": "\uc720\ud55c\uc0c1 \uc11c\uc6b8\ub300 \uc218\uc758\uacfc\ub300\ud559 \uad50\uc218",
+      "title": "[\uae30\uace0]\ubc18\ub824\ub3d9\ubb3c\uc758 \u2018\uc678\ucd9c\u2019 \uc608\ubc29\uc811\uc885\uc774 \uba3c\uc800",
+      "description": "\uc9c0\ub09c \uc124 \uc5f0\ud734 \uac15\uc544\uc9c0\uc640 \ud568\uaed8 \uace0\ud5a5\uc5d0 \ub0b4\ub824\uac14\ub358 \uc9c0\uc778\uc774 \ud558\uc18c\uc5f0\uc744 \ud588\ub2e4. \ud734\uac8c\uc18c\uc5d0 \ub4e4\ub7ec \uac15\uc544\uc9c0\ub97c \ucc28\uc5d0 \ub450\uace0 \uc0ac\ub78c\ub4e4\ub9cc \uc2dd\uc0ac\ud558\ub824\ub2c8 \uac71\uc815\uc774 \ub418\uc5b4 \ud5c8\uac81\uc9c0\uac81 \uc2dd\uc0ac\ub97c \ub9c8\ucce4\ub2e4\uace0 \ud55c\ub2e4. \uc544\ub9c8 \ub9ce\uc740 \ubc18\ub824\uc778\uc774 \ud55c \ubc88\ucbe4 \uacaa\uc5b4\ubd24\uc744 \uc77c\uc774\ub2e4.\ubc18\ub824\ub3d9\ubb3c \uc591\uc721 \uc778\uad6c\uc758 \uc99d\uac00\uc640 \uc0ac\ud68c\uc801 \uc778\uc2dd \ubcc0\ud654\ub85c \uacfc\uac70 \uc2dd\ub2f9\uc5d0\ub294 \ubc18\ub824\ub3d9\ubb3c \ub3d9\ubc18 \ucd9c\uc785\uc774 \ubd88\uac00\ub2a5\ud55c \uac83\uc73c\ub85c \uc5ec\uaca8\uc84c\ub358 \ubd84\uc704\uae30\uac00 \ub2ec\ub77c\uc9c0\uace0 \uc788\ub2e4. \ucd5c\uadfc\uc5d0\ub294 \uc2dc\ub300\u00b7\u00b7\u00b7",
+      "url": "https://www.khan.co.kr/article/202603151959005",
+      "urlToImage": "https://img.khan.co.kr/news/2026/03/15/l_2026031601000386600045251.jpg",
+      "publishedAt": "2026-03-15 10:59:00",
+      "content": ". . . . , . . , \u00b7 . . , . . . . , . (rabies) , 100% . (WHO) 6 . . . , (One Health) . . . . , . . , , . . . , .",
+      "retrievedAt": "2026-03-16 19:27:20.974129",
+      "internal_id": "303e45f21e0a8e3c5e21c279ee593540ff0c39d242075fde6e035e9d058e33ca",
       "publishedAtLabel": "Mar 15"
     }
   ]
