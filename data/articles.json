@@ -1,8 +1,316 @@
 {
-  "last_updated": "2026-04-29 07:47",
-  "count_articles_total": 973,
-  "count_articles_new": 13,
+  "last_updated": "2026-04-29 19:37",
+  "count_articles_total": 984,
+  "count_articles_new": 17,
   "articles": [
+    {
+      "id": 29301,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "WMDT",
+      "author": "Sophia Peters",
+      "title": "UPDATE: Fourth Raccoon in Wicomico Co. Tests Positive for Rabies - 47abc",
+      "description": "UPDATE: The Wicomico County Health Department (WCHD) has announced that another raccoon has tested positive for rabies, making it the fourth case in the county in just two months. On Tuesday, Apr. 28, a raccoon tested positive for rabies in the area of Hazel \u2026",
+      "url": "https://www.wmdt.com/2026/04/update-third-raccoon-in-wicomico-co-tests-positive-for-rabies/",
+      "urlToImage": "https://www.wmdt.com/content/uploads/2018/06/raccoon-1280_1513360095674-jpg_9686494_ver1-0.jpg",
+      "publishedAt": "2026-04-28 19:35:55",
+      "content": "UPDATE: The Wicomico County Health Department (WCHD) has announced that another raccoon has tested positive for rabies, making it the fourth case in the county in just two months. On Tuesday, Apr. 2\u2026 [+1564 chars]",
+      "retrievedAt": "2026-04-29 19:36:59.490357",
+      "internal_id": "704d85c5463c08ea2056b108d822680fe5487639640f27d322fbbf2941457830",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29312,
+      "query": [
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "PTI",
+      "title": "Oxford University strikes new malaria vaccine pact with Serum Institute of India",
+      "description": "Oxford University and Serum Institute of India are collaborating on a new malaria vaccine, R78C. This partnership aims to create a more effective vaccine targeting different stages of the malaria parasite. The Serum Institute of India will manufacture the vac\u2026",
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/oxford-university-strikes-new-malaria-vaccine-pact-with-serum-institute-of-india/articleshow/130589655.cms",
+      "urlToImage": "https://img.etimg.com/thumb/msid-130589659,width-1200,height-630,imgsize-78332,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-04-28 19:20:56",
+      "content": "The University of Oxford and Serum Institute of India (SII) have hit a significant milestone in the global fight against malaria with a pact to develop a new multi-stage vaccine.Oxford University Inn\u2026 [+3427 chars]",
+      "retrievedAt": "2026-04-29 19:37:01.368599",
+      "internal_id": "161185f8a9169f8895ae41e87374686f8380c4f740ea7fc1f85a82186f9629e8",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29305,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "Does measles outbreak risk still exist nationwide? #health",
+      "description": "South Carolina measles outbreak over, but new outbreaks continue South Carolina officials have declared the state\u2019s measles outbreak over , after a major resurgence that infected nearly 1,000 people \u2014the worst in the U.S. in more than 35 years. However, healt\u2026",
+      "url": "https://alltoc.com/health/does-measles-outbreak-risk-still-exist-nationwide",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-28 18:03:52",
+      "content": "South Carolina officials have declared the states measles outbreak over, after a major resurgence that infected nearly 1,000 peoplethe worst in the U.S. in more than 35 years. However, health experts\u2026 [+1346 chars]",
+      "retrievedAt": "2026-04-29 19:36:59.806455",
+      "internal_id": "d22aa32f9ec3a4f3e86a170cb992eb8956ec36c54a67d5ba34a9441102d299e3",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29306,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "PBS",
+      "author": "Devi Shastri, Associated Press",
+      "title": "South Carolina's measles outbreak is over after sickening nearly 1,000 people",
+      "description": "On Sunday, the state passed the threshold of 42 days with no new outbreak-related cases. State health officials estimate the outbreak response cost $2.1 million.",
+      "url": "https://www.pbs.org/newshour/health/south-carolinas-measles-outbreak-is-over-after-sickening-nearly-1000-people",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/04/2026-04-27T093248Z_1167992174_RC2HGJAUIZ6V_RTRMADP_3_HEALTH-MEASLES-SOUTH-CAROLINA-1024x684.jpg",
+      "publishedAt": "2026-04-28 16:57:51",
+      "content": "South Carolina's measles outbreak the worst in the U.S. in more than 35 years is over, state health officials declared Monday. On Sunday, the state passed the threshold of 42 days with no new outbre\u2026 [+4847 chars]",
+      "retrievedAt": "2026-04-29 19:36:59.835827",
+      "internal_id": "b4879a9f4320cc17e3dfa9dcafd9e83f1a33ea0c92c4e954cc56a8afd71532ba",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29309,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Cult MTL",
+      "author": "Cult Mtl",
+      "title": "Montreal public health warns of new measles case, Casino among possible exposure sites",
+      "description": "Montreal public health has confirmed a new case of measles in the city, with a list of three possible exposure sites, including the Casino.",
+      "url": "https://cultmtl.com/2026/04/montreal-public-health-measles/",
+      "urlToImage": "https://cultmtl.com/wp-content/uploads/2026/04/IMG_4970.jpeg",
+      "publishedAt": "2026-04-28 16:30:25",
+      "content": "Montreal public health is warning of a new measles case in the city. There are three possible exposure sites: Golf int\u00e9rieur Le Birdie Rosemont, the Casino de Montr\u00e9al and Suites Saint-Fran\u00e7ois-Xavi\u2026 [+521 chars]",
+      "retrievedAt": "2026-04-29 19:36:59.906823",
+      "internal_id": "1e67a7e7b1e55f80e45a46c2ff13793e471361a6bf0cf6fe9d3ed439898b76b4",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29302,
+      "query": [
+        "measles"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Hallie Lieberman",
+      "title": "Gamblers are betting millions of dollars on measles outbreaks",
+      "description": "People are increasingly placing bets that predict measles outbreaks in the US, which could help researchers modelling the spread of the disease",
+      "url": "https://www.newscientist.com/article/2524510-gamblers-are-betting-millions-of-dollars-on-measles-outbreaks/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2026/04/27155540/SEI_294871761.jpg",
+      "publishedAt": "2026-04-28 16:00:56",
+      "content": "New York State Department of Health Commissioner James McDonald talking in New York last year about measles outbreaks Jim Franco/Albany Times Union via Getty Images Gamblers are increasingly placin\u2026 [+4313 chars]",
+      "retrievedAt": "2026-04-29 19:36:59.677868",
+      "internal_id": "a2611c519d6b6c9962230f44c102600098a34639fa9cf3038f3e936417dedcec",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29303,
+      "query": [
+        "measles"
+      ],
+      "source_id": "new-scientist",
+      "source_name": "New Scientist",
+      "author": "Hallie Lieberman",
+      "title": "People are betting on measles outbreaks \u2013 and that might be useful",
+      "description": "Millions of dollars are being spent on wagers predicting measles outbreaks in the US, which could help researchers modelling the spread of the disease",
+      "url": "https://www.newscientist.com/article/2524510-people-are-betting-on-measles-outbreaks-and-that-might-be-useful/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2026/04/27155540/SEI_294871761.jpg",
+      "publishedAt": "2026-04-28 16:00:56",
+      "content": "New York State Department of Health Commissioner James McDonald talking in New York last year about measles outbreaks Jim Franco/Albany Times Union via Getty Images Gamblers are increasingly placin\u2026 [+4313 chars]",
+      "retrievedAt": "2026-04-29 19:36:59.689088",
+      "internal_id": "1eb41d40035df9bab66989303327edbfb9c56d04252f88de30bcbb89c6b46255",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29316,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.bt.dk",
+      "author": "alsm@bt.dk (Alexander Schm\u00fccker Madsen)",
+      "title": "Nyt udbrud af mpox: Advarer om t\u00e6t kontakt",
+      "description": "S\u00e6rligt en gruppe er i risiko for den frygtede sygdom, p\u00e5peger ekspert.",
+      "url": "https://www.bt.dk/sundhed/nyt-udbrud-af-mpox-advarer-om-taet-kontakt",
+      "urlToImage": "https://akamai-aptoma-production.bmcdn.dk/users/berlingske/images/150140753.webp?t[strip]=true&t[resize][width]=1440&t[quality]=70&accessToken=9960273ceb202c4de6019fae984c1c6a12d3f82cdb28d7112a0347cfa5920303",
+      "publishedAt": "2026-04-28 15:43:46",
+      "content": "Sm\u00e5 bl\u00e6rer. Feber. Og en virus, der spreder sig ved t\u00e6t kontakt. Den nye variant af mpox, den s\u00e5kaldte klade b, har smittet i Danmark, men den kan v\u00e6re sv\u00e6r at opdage. Bl\u00e6rerne kan ogs\u00e5 sidde i mun\u2026 [+1148 chars]",
+      "retrievedAt": "2026-04-29 19:37:02.427534",
+      "internal_id": "1e2c31bb149e9e3d1607c9a93b6684064d64c8d5cbc4a364c47194204db4ca28",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29311,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Experts advocate effective malaria testing on PUNCH foundation webinar",
+      "description": "Health experts emphasize the need for effective malaria testing before treatment, warning that assuming every fever is malaria leads to wrong diagnoses. Read More: https://punchng.com/experts-advocate-effective-malaria-testing-on-punch-foundation-webinar/",
+      "url": "https://punchng.com/experts-advocate-effective-malaria-testing-on-punch-foundation-webinar/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2026/04/28161047/Screenshot-2026-04-28-161023.png",
+      "publishedAt": "2026-04-28 15:21:48",
+      "content": "Health experts have stressed the need for effective malaria testing before treatment, warning that many Nigerians still assume every fever is malaria, leading to wrong diagnosis and inappropriate med\u2026 [+5132 chars]",
+      "retrievedAt": "2026-04-29 19:37:01.245163",
+      "internal_id": "835946514698678ce0b070b17892f1dae385bee037036e8f8a54d0c479b9bb4d",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29308,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Tbsnews.net",
+      "author": "Tbs Report",
+      "title": "ASK expresses concern over rising child infections, deaths amid measles outbreak",
+      "description": "So far this year, at least 47 children have died from confirmed measles infections in Bangladesh. In addition, 266 children have died with symptoms consistent with measles.",
+      "url": "https://www.tbsnews.net/bangladesh/health/ask-expresses-concern-over-rising-child-infections-deaths-amid-measles-outbreak",
+      "urlToImage": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2025/11/30/ask_logo_0.jpg",
+      "publishedAt": "2026-04-28 14:33:35",
+      "content": "Human rights organisation Ain o Salish Kendra (ASK) has expressed deep concern over the growing number of children infected with measles and measles-like symptoms, as well as the rising death toll li\u2026 [+1801 chars]",
+      "retrievedAt": "2026-04-29 19:36:59.876925",
+      "internal_id": "495dae3071d8ad1ec01238dcfd877a2f41245e343600dc18157a766478c8ba11",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29310,
+      "query": [
+        "dengue",
+        "zika",
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Harold Suazo-Laguna, Jacqueline Mojica-D\u00edaz, Mar\u00eda M. Lopez, Angel Balmaseda, Eva Harris, Josefina Coloma, Jose G. Juarez",
+      "title": "Abundance of the vector Aedes aegypti in urban and rural areas in Managua, Nicaragua",
+      "description": "Author summary Mosquitoes continue to spread to new areas around the world, carrying viruses that cause diseases such as dengue, chikungunya, Zika, and yellow fever, which cause a wide range of symptoms from mild fevers to fatal outcomes. The main mosquito re\u2026",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014256",
+      "urlToImage": "https://journals.plos.org/plosntds/article/figure/image?id=10.1371/journal.pntd.0014256.g005&size=inline",
+      "publishedAt": "2026-04-28 14:00:00",
+      "content": "Citation: Suazo-Laguna H, Mojica-D\u00edaz J, Lopez MM, Balmaseda A, Harris E, Coloma J, et al. (2026) Abundance of the vector Aedes aegypti in urban and rural areas in Managua, Nicaragua. PLoS Negl Trop \u2026 [+40005 chars]",
+      "retrievedAt": "2026-04-29 19:37:00.713632",
+      "internal_id": "60934d400f32a623dafa774049f284179ebbdf30d036d0cabfa6e65776f1f9f6",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29313,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Anna Bachmann, Ellen Bruske, Ralf Krumkamp, Louise Turner, J. Stephan Wichers, Michaela Petter, Jana Held, Michael F. Duffy, B. Kim Lee Sim, Stephen L. Hoffman, Peter G. Kremsner, Bertrand Lell, Thomas Lavstsen, Matthias Frank, Benjamin Mordm\u00fcller, Egbert Tannich",
+      "title": "Correction: Controlled human malaria infection with Plasmodium falciparum demonstrates impact of naturally acquired immunity on virulence gene expression",
+      "description": "",
+      "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014177",
+      "urlToImage": null,
+      "publishedAt": "2026-04-28 14:00:00",
+      "content": "Citation: Bachmann A, Bruske E, Krumkamp R, Turner L, Wichers JS, Petter M, et al. (2026) Correction: Controlled human malaria infection with Plasmodium falciparum demonstrates impact of naturally ac\u2026 [+419 chars]",
+      "retrievedAt": "2026-04-29 19:37:01.379615",
+      "internal_id": "571b0519ba31d90cd610b1ea58f8006282fc54c2a637a87418dee07695892643",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29314,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Mail and Guardian",
+      "author": "Eyaaz",
+      "title": "More HIV funding cuts are coming for SA. This time it\u2019s a slow fade, but with clear risks",
+      "description": "The Global Fund to Fight Aids, Tuberculosis and Malaria will start to cut its grant support to South Africa in just two years, with its final grant ending in eight years. Some experts are worried the government isn\u2019t doing enough to plan for it",
+      "url": "https://mg.co.za/health/2026-04-28-more-hiv-funding-cuts-are-coming-for-sa-this-time-its-a-slow-fade-but-with-clear-risks/",
+      "urlToImage": "https://mg.co.za/wp-content/uploads/2026/04/key-populations1.jpeg",
+      "publishedAt": "2026-04-28 12:55:58",
+      "content": "South Africa has less than eight years before one of the most important sources of funding for its HIV and TB programmes falls away. In allocation letters sent in March to the countries it funds, Th\u2026 [+13552 chars]",
+      "retrievedAt": "2026-04-29 19:37:01.446780",
+      "internal_id": "b3d4c3bc4d09aa991731a5a73265aaa6ebc3ba7c0d5da43363c1105fc712b7f8",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29304,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What ended South Carolina\u2019s measles outbreak? #health",
+      "description": "South Carolina measles outbreak declared over South Carolina has ended its measles outbreak, according to recent reporting. The outbreak had been one of the worst in the United States in more than three decades. Scale and timeline During the outbreak, the vir\u2026",
+      "url": "https://alltoc.com/health/what-ended-south-carolinas-measles-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-28 12:03:40",
+      "content": "South Carolina measles outbreak declared over South Carolina has ended its measles outbreak, according to recent reporting. The outbreak had been one of the worst in the United States in more than t\u2026 [+1238 chars]",
+      "retrievedAt": "2026-04-29 19:36:59.765898",
+      "internal_id": "9252b48a9aea926e2e83b720c4662dbf248a0001eb3e9dfb625543b6a80c272b",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29315,
+      "query": [
+        "chikungunya"
+      ],
+      "source_id": null,
+      "source_name": "Mundodeportivo.com",
+      "author": "Oscar Belloch",
+      "title": "Alerta por el nuevo virus 'Chikungunya': 43 brotes detectados en Espa\u00f1a",
+      "description": "En los \u00faltimos meses, un nombre peculiar ha empezado a resonar entre los sectores sanitarios de alrededor de Espa\u00f1a. Este nombre es 'Chikungunya', una enfermedad que no deja de crecer por culpa de los mosquitos, y se esperan muchos m\u00e1s casos con la llegada de\u2026",
+      "url": "https://www.mundodeportivo.com/pulso/20260428/1004176327/alerta-nuevo-virus-chikungunya-43-brotes-detectados-espana-dct.html",
+      "urlToImage": "https://imagenes2.mundodeportivo.com/files/og_thumbnail/uploads/2025/10/07/68e5586f47cdc.jpeg",
+      "publishedAt": "2026-04-28 11:12:08",
+      "content": "En los \u00faltimos meses, un nombre peculiar ha empezado a resonar entre los sectores sanitarios de alrededor de Espa\u00f1a. Este nombre es 'Chikungunya', una enfermedad que no deja de crecer por culpa de lo\u2026 [+2139 chars]",
+      "retrievedAt": "2026-04-29 19:37:02.071115",
+      "internal_id": "0fb342b6caa76ff66048336fb3a3d48a031398cda6d2816f98d6785dddb54cc3",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29317,
+      "query": [
+        "mpox"
+      ],
+      "source_id": null,
+      "source_name": "Www.abc.es",
+      "author": "(abc)",
+      "title": "Andaluc\u00eda asumir\u00e1 el coste de las vacunas del Covid y la viruela del mono desde 2027",
+      "description": "Andaluc\u00eda asumir\u00e1 el coste de las vacunas de la Covid y Mpox (viruela del mono) desde 2027, cuando el Ministerio de Sanidad dejede sufragarlas a partir de ese a\u00f1o. As\u00ed lo ha anunciado el consejero de Sanidad, Presidencia y Emergencias, Antonio Sanz, durante l\u2026",
+      "url": "https://www.abc.es/espana/andalucia/andalucia-asumira-coste-vacunas-covid-viruela-mono-20260428123712-nts.html",
+      "urlToImage": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/04/28/antonio-sanz-congreso-U70538253723veg-1200x630@diario_abc.jpg",
+      "publishedAt": "2026-04-28 10:37:38",
+      "content": "Andaluc\u00eda asumir\u00e1 el coste de las vacunas de la Covid y Mpox (viruela del mono) desde 2027, cuando el Ministerio de Sanidad dejede sufragarlas a partir de ese a\u00f1o.As\u00ed lo ha anunciado el consejero de \u2026 [+3831 chars]",
+      "retrievedAt": "2026-04-29 19:37:02.467231",
+      "internal_id": "dd82d315a72f3c238f02cb4c9eace7f4ce4bed530c87bd77c9e9bc52f8092cf4",
+      "publishedAtLabel": "Apr 28"
+    },
+    {
+      "id": 29307,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Aajtak.in",
+      "author": "aajtak.in",
+      "title": "\u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936: '\u0916\u0938\u0930\u0947 \u0938\u0947 250 \u0938\u0947 \u091c\u094d\u092f\u093e\u0926\u093e \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924', \u0918\u093f\u0930\u0947 \u092f\u0942\u0928\u0941\u0938 \u0915\u0947 \u0926\u0947\u0936 \u091b\u094b\u0921\u093c\u0928\u0947 \u092a\u0930 \u0932\u0917\u0947\u0917\u0940 \u0930\u094b\u0915?",
+      "description": "\u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u092e\u0947\u0902 \u092e\u093e\u0930\u094d\u091a \u0938\u0947 \u0905\u092c \u0924\u0915 \u0916\u0938\u0930\u0947 \u0915\u0947 \u0918\u093e\u0924\u0915 \u092a\u094d\u0930\u0915\u094b\u092a \u0938\u0947 250 \u0938\u0947 \u0905\u0927\u093f\u0915 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u092e\u094c\u0924 \u0939\u094b \u091a\u0941\u0915\u0940 \u0939\u0948, \u091c\u093f\u0928\u092e\u0947\u0902 \u0905\u0927\u093f\u0915\u0924\u0930 \u092c\u091a\u094d\u091a\u0947 \u0939\u0948\u0902. \u092c\u093e\u0902\u0917\u094d\u0932\u093e\u0926\u0947\u0936 \u0915\u0947 \u0938\u0941\u092a\u094d\u0930\u0940\u092e \u0915\u094b\u0930\u094d\u091f \u092e\u0947\u0902 \u0926\u093e\u092f\u0930 \u090f\u0915 \u092f\u093e\u091a\u093f\u0915\u093e \u092e\u0947\u0902 \u092a\u0942\u0930\u094d\u0935 \u0905\u0902\u0924\u0930\u093f\u092e \u0938\u0930\u0915\u093e\u0930 \u0915\u0947 \u092a\u094d\u0930\u092e\u0941\u0916 \u092e\u094b\u0939\u092e\u094d\u092e\u0926 \u092f\u0942\u0928\u0941\u0938 \u0915\u0947 \u092f\u093e\u0924\u094d\u0930\u093e \u092a\u094d\u0930\u0924\u093f\u092c\u0902\u0927 \u0915\u0940 \u092e\u093e\u0902\u0917 \u0915\u0940 \u0917\u0908 \u0939\u0948, \u091c\u093f\u0938\u092e\u0947\u0902 \u0906\u0930\u094b\u092a \u0932\u2026",
+      "url": "https://www.aajtak.in/world/story/bangladesh-measles-outbreak-deaths-emergency-vaccination-campaign-ntc-ntyv-dskc-2535674-2026-04-28",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202604/69f074e945a14-bangladesh-sees-record-measles-deaths-285043544-16x9.jpg",
+      "publishedAt": "2026-04-28 08:54:23",
+      "content": "(Measles) . 15 250 , . 7,500 , . . , 64 58 . 79% , 91% 14 . . 26 15 43 , 216 . . 2020 , . 2025 59.6% , 2017 2023 89% . , . . '' . . HC , . . , . - 2024 - . 15 . 2026 . (EPI) . , . 58\u2026 [+1 chars]",
+      "retrievedAt": "2026-04-29 19:36:59.846603",
+      "internal_id": "4aadc3d5faae805fc4c05fe37023a665d9d98641e7c34c4a2ff886b952e43ebe",
+      "publishedAtLabel": "Apr 28"
+    },
     {
       "id": 29289,
       "query": [
@@ -17468,114 +17776,6 @@
       "content": "Two people have died during an outbreak of meningitis in the Canterbury area of Kent. In a statement, the UK Health Security Agency (UKHSA) said 11 other people had fallen ill and that antibiotics a\u2026 [+1560 chars]",
       "retrievedAt": "2026-03-17 07:28:47.954000",
       "internal_id": "537d528fbee0582e560c4037699bcd953202c65a6ae20adf289ccfdb9a7e56e4",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28336,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "Two students die in university meningitis outbreak",
-      "description": "Around 11 University of Kent students are also seriously ill in hospital, the BBC understands.",
-      "url": "https://www.bbc.com/news/articles/cdxg35dv7npo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-      "publishedAt": "2026-03-15 19:35:19",
-      "content": "Trish Mannes, UKHSA regional deputy director for the South East, said students can be at risk of missing symptoms due to confusing them for \"a bad cold, flu, or even a hangover\".",
-      "retrievedAt": "2026-03-17 07:28:47.940555",
-      "internal_id": "904278e8ce14fa615f6140541ec138aab3c7379da93fe78b40a27891a4cafe0d",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28331,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Mark Norman",
-      "title": "Two University of Kent students die in meningitis outbreak",
-      "description": "Eleven University of Kent students are also seriously ill in hospital, the BBC understands.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxg35dv7npo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg",
-      "publishedAt": "2026-03-15 19:25:23",
-      "content": "A UKHSA spokesperson said it was arranging antibiotics for some students in the Canterbury area following the outbreak, and that the specific strain of the disease has not been identified. The BBC u\u2026 [+1111 chars]",
-      "retrievedAt": "2026-03-16 19:27:22.783083",
-      "internal_id": "3e8cfaf79c9e8f49327beada3cfbde5603c610a2d523667698ce3138062566a0",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28328,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Lisa Monteiro,Nisser Dias",
-      "title": "Shortage of anti-rabies vaccine in state amid rising dog bite cases",
-      "description": "Goa is experiencing a critical shortage of anti-rabies vaccines with rising dog bite cases, forcing victims to search multiple health centers for treatment. Health officials report nationwide supply issues.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-129594953,width-1280,height-720,imgsize-149472,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-15 18:59:33",
-      "content": "Follow Us On Social Media Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
-      "retrievedAt": "2026-03-16 19:27:20.950414",
-      "internal_id": "7557ff933a89295256c5be35ebe243f35d595a5e8c3a19a4ccbd7be5938aae5b",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28332,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Karolina Majchrzak",
-      "title": "Naukowy znale\u017ali s\u0142abo\u015bci paso\u017cyt\u00f3w wywo\u0142uj\u0105cych malari\u0119. B\u0119d\u0105 nowe leki",
-      "description": "Malaria pozostaje jedn\u0105 z najgro\u017aniejszych chor\u00f3b zaka\u017anych na \u015bwiecie. Wed\u0142ug danych globalnych w 2024 roku doprowadzi\u0142a do \u015bmierci oko\u0142o 610 tys. os\u00f3b, z czego zdecydowana wi\u0119kszo\u015b\u0107 mia\u0142a miejsce w Afryce, gdzie najbardziej nara\u017cone s\u0105 ma\u0142e dzieci. Nowe bad\u2026",
-      "url": "https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898",
-      "urlToImage": "https://i.iplsc.com/-/000J7NGTM2EV8HQC-C461.jpg",
-      "publishedAt": "2026-03-15 12:13:03",
-      "content": "Zesp\u00f3 naukowc\u00f3w z Uniwersytetu w Nottingham zidentyfikowa kluczowy element biologii pasoyta odpowiedzialnego za malari, chodzi o biako o nazwie ARK1. Odkrycie opublikowane w czasopimie naukowym Natur\u2026 [+2031 chars]",
-      "retrievedAt": "2026-03-16 19:27:23.042575",
-      "internal_id": "6b9242e6ba7dc40dd1bf57ddbfeb8d9b563cf2cca39ead0fd85e4c4a1cb52995",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28330,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles outbreaks growing? #health",
-      "description": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of under\u2011immunized communities have grown large enough to sustain transmission. A mix of factors\u2014political polarization, m\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-outbreaks-growing",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-15 12:11:35",
-      "content": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of underimmunized communities have grown large enough to sust\u2026 [+1744 chars]",
-      "retrievedAt": "2026-03-16 19:27:21.332251",
-      "internal_id": "88cad0e5bdf14b75703860ba27c27c4be6847e7269c992177165ca7dec5bb956",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28329,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Khan.co.kr",
-      "author": "\uc720\ud55c\uc0c1 \uc11c\uc6b8\ub300 \uc218\uc758\uacfc\ub300\ud559 \uad50\uc218",
-      "title": "[\uae30\uace0]\ubc18\ub824\ub3d9\ubb3c\uc758 \u2018\uc678\ucd9c\u2019 \uc608\ubc29\uc811\uc885\uc774 \uba3c\uc800",
-      "description": "\uc9c0\ub09c \uc124 \uc5f0\ud734 \uac15\uc544\uc9c0\uc640 \ud568\uaed8 \uace0\ud5a5\uc5d0 \ub0b4\ub824\uac14\ub358 \uc9c0\uc778\uc774 \ud558\uc18c\uc5f0\uc744 \ud588\ub2e4. \ud734\uac8c\uc18c\uc5d0 \ub4e4\ub7ec \uac15\uc544\uc9c0\ub97c \ucc28\uc5d0 \ub450\uace0 \uc0ac\ub78c\ub4e4\ub9cc \uc2dd\uc0ac\ud558\ub824\ub2c8 \uac71\uc815\uc774 \ub418\uc5b4 \ud5c8\uac81\uc9c0\uac81 \uc2dd\uc0ac\ub97c \ub9c8\ucce4\ub2e4\uace0 \ud55c\ub2e4. \uc544\ub9c8 \ub9ce\uc740 \ubc18\ub824\uc778\uc774 \ud55c \ubc88\ucbe4 \uacaa\uc5b4\ubd24\uc744 \uc77c\uc774\ub2e4.\ubc18\ub824\ub3d9\ubb3c \uc591\uc721 \uc778\uad6c\uc758 \uc99d\uac00\uc640 \uc0ac\ud68c\uc801 \uc778\uc2dd \ubcc0\ud654\ub85c \uacfc\uac70 \uc2dd\ub2f9\uc5d0\ub294 \ubc18\ub824\ub3d9\ubb3c \ub3d9\ubc18 \ucd9c\uc785\uc774 \ubd88\uac00\ub2a5\ud55c \uac83\uc73c\ub85c \uc5ec\uaca8\uc84c\ub358 \ubd84\uc704\uae30\uac00 \ub2ec\ub77c\uc9c0\uace0 \uc788\ub2e4. \ucd5c\uadfc\uc5d0\ub294 \uc2dc\ub300\u00b7\u00b7\u00b7",
-      "url": "https://www.khan.co.kr/article/202603151959005",
-      "urlToImage": "https://img.khan.co.kr/news/2026/03/15/l_2026031601000386600045251.jpg",
-      "publishedAt": "2026-03-15 10:59:00",
-      "content": ". . . . , . . , \u00b7 . . , . . . . , . (rabies) , 100% . (WHO) 6 . . . , (One Health) . . . . , . . , , . . . , .",
-      "retrievedAt": "2026-03-16 19:27:20.974129",
-      "internal_id": "303e45f21e0a8e3c5e21c279ee593540ff0c39d242075fde6e035e9d058e33ca",
       "publishedAtLabel": "Mar 15"
     }
   ]

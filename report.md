@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 13
-- **Last harvest:** 2026-04-29 07:47
-- **Most recent article:** 2026-04-28 06:04:02
+- **New articles in last harvest:** 17
+- **Last harvest:** 2026-04-29 19:37
+- **Most recent article:** 2026-04-28 19:35:55
 
 ---
 
@@ -12,15 +12,15 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 2 | 288 |
-| measles | 20 | 21 | 26 | 51 | 35 | 54 | 15 | 222 |
-| malaria | 20 | 14 | 9 | 14 | 9 | 59 | 7 | 132 |
-| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 6 | 118 |
-| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 7 | 70 |
-| rabies | 6 | 5 | 26 | 8 | 3 | 6 | 1 | 55 |
-| chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 2 | 41 |
+| meningitis | 173 | 75 | 19 | 4 | 5 | 8 | 2 | 286 |
+| measles | 19 | 21 | 26 | 51 | 35 | 54 | 23 | 229 |
+| malaria | 19 | 14 | 9 | 14 | 9 | 59 | 11 | 135 |
+| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 7 | 119 |
+| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 9 | 72 |
+| rabies | 4 | 5 | 26 | 8 | 3 | 6 | 2 | 54 |
+| chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 4 | 43 |
 | h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 3 | 35 |
-| zika | 4 | 1 | 15 | 1 | 4 | 4 | 1 | 30 |
+| zika | 4 | 1 | 15 | 1 | 4 | 4 | 2 | 31 |
 | hpai | 1 | 6 | 2 | 2 | 1 | 0 | 2 | 14 |
 | yersinia | 1 | 1 | 0 | 1 | 0 | 4 | 1 | 8 |
 | leptospirosis | 3 | 1 | 0 | 1 | 1 | 1 | 0 | 7 |
@@ -35,6 +35,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (zika)
 
+- [Abundance of the vector Aedes aegypti in urban and rural areas in Managua, Nicaragua](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014256) (Plos.org)
+
 - [豊中つばさ公園『ma-zika』をもっと間近に！ライブカメラ設置へクラウドファンディングを開始](https://prtimes.jp/main/html/rd/p/000000989.000078420.html) (Prtimes.jp)
 
 ## 26-18 (yersinia)
@@ -47,9 +49,15 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (rabies)
 
+- [UPDATE: Fourth Raccoon in Wicomico Co. Tests Positive for Rabies - 47abc](https://www.wmdt.com/2026/04/update-third-raccoon-in-wicomico-co-tests-positive-for-rabies/) (WMDT)
+
 - [Bats rabies vaccine research delivery systems #science](https://alltoc.com/science/bats-rabies-vaccine-research-delivery-systems) (Alltoc.com)
 
 ## 26-18 (mpox)
+
+- [Nyt udbrud af mpox: Advarer om tæt kontakt](https://www.bt.dk/sundhed/nyt-udbrud-af-mpox-advarer-om-taet-kontakt) (Www.bt.dk)
+
+- [Andalucía asumirá el coste de las vacunas del Covid y la viruela del mono desde 2027](https://www.abc.es/espana/andalucia/andalucia-asumira-coste-vacunas-covid-viruela-mono-20260428123712-nts.html) (Www.abc.es)
 
 - [California officials worry as weekly average of rare viral cases rise](https://www.sfgate.com/bayarea/article/california-mpox-cases-rise-22228535.php) (SFGate)
 
@@ -72,6 +80,22 @@ Source: [News API](https://newsapi.org/)
 - [Menace II Society actor Samuel Monroe Jr. on life support in hospital amid devastating health battle](https://www.dailymail.com/tvshowbiz/article-15769623/Menace-II-Society-Samuel-Monroe-Jr-life-support-meningitis.html) (Dailymail.com)
 
 ## 26-18 (measles)
+
+- [Does measles outbreak risk still exist nationwide? #health](https://alltoc.com/health/does-measles-outbreak-risk-still-exist-nationwide) (Alltoc.com)
+
+- [South Carolina's measles outbreak is over after sickening nearly 1,000 people](https://www.pbs.org/newshour/health/south-carolinas-measles-outbreak-is-over-after-sickening-nearly-1000-people) (PBS)
+
+- [Montreal public health warns of new measles case, Casino among possible exposure sites](https://cultmtl.com/2026/04/montreal-public-health-measles/) (Cult MTL)
+
+- [Gamblers are betting millions of dollars on measles outbreaks](https://www.newscientist.com/article/2524510-gamblers-are-betting-millions-of-dollars-on-measles-outbreaks/) (New Scientist)
+
+- [People are betting on measles outbreaks – and that might be useful](https://www.newscientist.com/article/2524510-people-are-betting-on-measles-outbreaks-and-that-might-be-useful/) (New Scientist)
+
+- [ASK expresses concern over rising child infections, deaths amid measles outbreak](https://www.tbsnews.net/bangladesh/health/ask-expresses-concern-over-rising-child-infections-deaths-amid-measles-outbreak) (Tbsnews.net)
+
+- [What ended South Carolina’s measles outbreak? #health](https://alltoc.com/health/what-ended-south-carolinas-measles-outbreak) (Alltoc.com)
+
+- [बांग्लादेश: 'खसरे से 250 से ज्यादा बच्चों की मौत', घिरे यूनुस के देश छोड़ने पर लगेगी रोक?](https://www.aajtak.in/world/story/bangladesh-measles-outbreak-deaths-emergency-vaccination-campaign-ntc-ntyv-dskc-2535674-2026-04-28) (Aajtak.in)
 
 - [What does measles outbreak end mean? #health](https://alltoc.com/health/what-does-measles-outbreak-end-mean) (Alltoc.com)
 
@@ -105,6 +129,14 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (malaria)
 
+- [Oxford University strikes new malaria vaccine pact with Serum Institute of India](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/oxford-university-strikes-new-malaria-vaccine-pact-with-serum-institute-of-india/articleshow/130589655.cms) (The Times of India)
+
+- [Experts advocate effective malaria testing on PUNCH foundation webinar](https://punchng.com/experts-advocate-effective-malaria-testing-on-punch-foundation-webinar/) (The Punch)
+
+- [Correction: Controlled human malaria infection with Plasmodium falciparum demonstrates impact of naturally acquired immunity on virulence gene expression](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014177) (Plos.org)
+
+- [More HIV funding cuts are coming for SA. This time it’s a slow fade, but with clear risks](https://mg.co.za/health/2026-04-28-more-hiv-funding-cuts-are-coming-for-sa-this-time-its-a-slow-fade-but-with-clear-risks/) (Mail and Guardian)
+
 - [Zoonotic and Anthroponotic Plasmodium spp. Circulation between Wild Primates and Indigenous Community, Peruvian Amazon, 2007–2020](https://wwwnc.cdc.gov/eid/article/32/5/25-1695_article) (Cdc.gov)
 
 - [World Malaria Day: Local drugs, APIs key to ending disease — Emzor](https://www.vanguardngr.com/2026/04/world-malaria-day-local-drugs-apis-key-to-ending-disease-emzor/) (Vanguard)
@@ -135,6 +167,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (dengue)
 
+- [Abundance of the vector Aedes aegypti in urban and rural areas in Managua, Nicaragua](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014256) (Plos.org)
+
 - [Salud reporta 849 casos de dengue: conozca las zonas que concentran mayor impacto de la enfermedad](https://www.nacion.com/ciencia/salud/salud-reporta-849-casos-de-dengue-conozca-las/IPJ5APGEPBD63KXQAZBGBM43CU/story/) (Nacion.com)
 
 - [Mosquito transmissor de dengue alarga-se a 28 concelhos](https://observador.pt/2026/04/27/mosquito-transmissor-de-dengue-alarga-presenca-a-28-concelhos-de-portugal-em-2025/) (Observador.pt)
@@ -148,6 +182,10 @@ Source: [News API](https://newsapi.org/)
 - [Denguefieber nach Malediven-Urlaub: RKI schlägt Alarm](https://www.morgenpost.de/panorama/article411828037/denguefieber-nach-malediven-urlaub-rki-schlaegt-alarm.html) (Berliner Morgenpost)
 
 ## 26-18 (chikungunya)
+
+- [Abundance of the vector Aedes aegypti in urban and rural areas in Managua, Nicaragua](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014256) (Plos.org)
+
+- [Alerta por el nuevo virus 'Chikungunya': 43 brotes detectados en España](https://www.mundodeportivo.com/pulso/20260428/1004176327/alerta-nuevo-virus-chikungunya-43-brotes-detectados-espana-dct.html) (Mundodeportivo.com)
 
 - ["La région est colonisée par le moustique tigre" : un an après l'épidémie historique de chikungunya en Isère, l'ARS renforce la vigilance](https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/la-region-est-colonisee-par-le-moustique-tigre-un-an-apres-l-epidemie-historique-de-chikungunya-en-isere-l-ars-renforce-la-vigilance-3340850.html) (Franceinfo.fr)
 
@@ -1711,10 +1749,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
 
-- [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
-
-- [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
-
 ## 26-12 (mpox)
 
 - [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
@@ -2089,10 +2123,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Two people die in meningitis outbreak in Kent](https://news.sky.com/story/two-people-die-in-meningitis-outbreak-in-kent-13520252) (Sky.com)
 
-- [Two students die in university meningitis outbreak](https://www.bbc.com/news/articles/cdxg35dv7npo) (BBC News)
-
-- [Two University of Kent students die in meningitis outbreak](https://www.bbc.co.uk/news/articles/cdxg35dv7npo) (BBC News)
-
 ## 26-12 (measles)
 
 - [A Model For HHS: New Mexico Measles Outbreak Was Curtailed With Mass Vaccination Campaign](https://www.techdirt.com/2026/03/20/a-model-for-hhs-new-mexico-measles-outbreak-was-curtailed-with-mass-vaccination-campaign/) (Techdirt)
@@ -2133,8 +2163,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles patient identified at major synagogue in Bnei Brak](https://www.israelnationalnews.com/news/423994) (Israelnationalnews.com)
 
-- [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
-
 ## 26-12 (malaria)
 
 - [Nei Dna dei sardi un gene che protegge dalla malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/21/nei-dna-dei-sardi-un-gene-che-protegge-dalla-malaria_4b655a6e-e413-4b63-9344-70fc50a0a6d2.html) (ANSA.it)
@@ -2174,8 +2202,6 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
 
 - [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
-
-- [Naukowy znaleźli słabości pasożytów wywołujących malarię. Będą nowe leki](https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898) (Interia.pl)
 
 ## 26-12 (leptospirosis)
 
