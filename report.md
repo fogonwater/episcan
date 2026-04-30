@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 17
-- **Last harvest:** 2026-04-29 19:37
-- **Most recent article:** 2026-04-28 19:35:55
+- **New articles in last harvest:** 6
+- **Last harvest:** 2026-04-30 07:49
+- **Most recent article:** 2026-04-29 07:26:00
 
 ---
 
@@ -12,20 +12,20 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 173 | 75 | 19 | 4 | 5 | 8 | 2 | 286 |
-| measles | 19 | 21 | 26 | 51 | 35 | 54 | 23 | 229 |
-| malaria | 19 | 14 | 9 | 14 | 9 | 59 | 11 | 135 |
-| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 7 | 119 |
-| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 9 | 72 |
-| rabies | 4 | 5 | 26 | 8 | 3 | 6 | 2 | 54 |
+| meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 2 | 288 |
+| measles | 20 | 21 | 26 | 51 | 35 | 54 | 25 | 232 |
+| malaria | 20 | 14 | 9 | 14 | 9 | 59 | 12 | 137 |
+| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 8 | 120 |
+| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 10 | 73 |
+| rabies | 6 | 5 | 26 | 8 | 3 | 6 | 2 | 56 |
 | chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 4 | 43 |
 | h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 3 | 35 |
 | zika | 4 | 1 | 15 | 1 | 4 | 4 | 2 | 31 |
 | hpai | 1 | 6 | 2 | 2 | 1 | 0 | 2 | 14 |
 | yersinia | 1 | 1 | 0 | 1 | 0 | 4 | 1 | 8 |
+| pertussis | 0 | 1 | 0 | 0 | 1 | 4 | 1 | 7 |
 | leptospirosis | 3 | 1 | 0 | 1 | 1 | 1 | 0 | 7 |
 | typhoid | 0 | 1 | 1 | 0 | 3 | 0 | 1 | 6 |
-| pertussis | 0 | 1 | 0 | 0 | 1 | 4 | 0 | 6 |
 | shigellosis | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 2 |
 
 
@@ -53,7 +53,13 @@ Source: [News API](https://newsapi.org/)
 
 - [Bats rabies vaccine research delivery systems #science](https://alltoc.com/science/bats-rabies-vaccine-research-delivery-systems) (Alltoc.com)
 
+## 26-18 (pertussis)
+
+- [Serial Interval and Intervention Efficiency in Pertussis Outbreak, South Korea, 2024](https://wwwnc.cdc.gov/eid/article/32/5/25-1304_article) (Cdc.gov)
+
 ## 26-18 (mpox)
+
+- [Orthopoxvirus Antibodies in Feral Mammals in Mpox Outbreak Areas, Nigeria, 2021–2022](https://wwwnc.cdc.gov/eid/article/32/5/25-1565_article) (Cdc.gov)
 
 - [Nyt udbrud af mpox: Advarer om tæt kontakt](https://www.bt.dk/sundhed/nyt-udbrud-af-mpox-advarer-om-taet-kontakt) (Www.bt.dk)
 
@@ -80,6 +86,10 @@ Source: [News API](https://newsapi.org/)
 - [Menace II Society actor Samuel Monroe Jr. on life support in hospital amid devastating health battle](https://www.dailymail.com/tvshowbiz/article-15769623/Menace-II-Society-Samuel-Monroe-Jr-life-support-meningitis.html) (Dailymail.com)
 
 ## 26-18 (measles)
+
+- [The Secretary Of Health & Human Services Doesn’t Believe In The Foundation Of Modern Medicine](https://www.techdirt.com/2026/04/28/the-secretary-of-health-human-services-doesnt-believe-in-the-foundation-of-modern-medicine/) (Techdirt)
+
+- [ER patients highlight measles vaccine gaps](https://www.futurity.org/measles-mumps-and-rubella-vaccine-gap-3332082-2/) (Futurity: Research News)
 
 - [Does measles outbreak risk still exist nationwide? #health](https://alltoc.com/health/does-measles-outbreak-risk-still-exist-nationwide) (Alltoc.com)
 
@@ -129,6 +139,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (malaria)
 
+- [World Malaria Day: Lagos warns against misuse of mosquito nets](https://punchng.com/world-malaria-day-lagos-warns-against-misuse-of-mosquito-nets/) (The Punch)
+
 - [Oxford University strikes new malaria vaccine pact with Serum Institute of India](https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/oxford-university-strikes-new-malaria-vaccine-pact-with-serum-institute-of-india/articleshow/130589655.cms) (The Times of India)
 
 - [Experts advocate effective malaria testing on PUNCH foundation webinar](https://punchng.com/experts-advocate-effective-malaria-testing-on-punch-foundation-webinar/) (The Punch)
@@ -166,6 +178,8 @@ Source: [News API](https://newsapi.org/)
 - [Онищенко перечислил четыре смертоносные болезни на ближайшие пять лет](https://news.mail.ru/society/70673706/) (Mail.ru)
 
 ## 26-18 (dengue)
+
+- [Rowell Road residents battle nightly 'onslaught' of mosquitoes as NEA finds 7 breeding sites, takes action against culprits](https://www.channelnewsasia.com/singapore/mosquito-infestation-rowell-road-jalan-besar-bite-itch-6078231) (CNA)
 
 - [Abundance of the vector Aedes aegypti in urban and rural areas in Managua, Nicaragua](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014256) (Plos.org)
 
@@ -1749,6 +1763,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
 
+- [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
+
+- [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
+
 ## 26-12 (mpox)
 
 - [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
@@ -2123,6 +2141,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Two people die in meningitis outbreak in Kent](https://news.sky.com/story/two-people-die-in-meningitis-outbreak-in-kent-13520252) (Sky.com)
 
+- [Two students die in university meningitis outbreak](https://www.bbc.com/news/articles/cdxg35dv7npo) (BBC News)
+
+- [Two University of Kent students die in meningitis outbreak](https://www.bbc.co.uk/news/articles/cdxg35dv7npo) (BBC News)
+
 ## 26-12 (measles)
 
 - [A Model For HHS: New Mexico Measles Outbreak Was Curtailed With Mass Vaccination Campaign](https://www.techdirt.com/2026/03/20/a-model-for-hhs-new-mexico-measles-outbreak-was-curtailed-with-mass-vaccination-campaign/) (Techdirt)
@@ -2163,6 +2185,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles patient identified at major synagogue in Bnei Brak](https://www.israelnationalnews.com/news/423994) (Israelnationalnews.com)
 
+- [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
+
 ## 26-12 (malaria)
 
 - [Nei Dna dei sardi un gene che protegge dalla malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/21/nei-dna-dei-sardi-un-gene-che-protegge-dalla-malaria_4b655a6e-e413-4b63-9344-70fc50a0a6d2.html) (ANSA.it)
@@ -2202,6 +2226,8 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
 
 - [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
+
+- [Naukowy znaleźli słabości pasożytów wywołujących malarię. Będą nowe leki](https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898) (Interia.pl)
 
 ## 26-12 (leptospirosis)
 
