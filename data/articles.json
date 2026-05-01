@@ -1,8 +1,333 @@
 {
-  "last_updated": "2026-05-01 07:48",
-  "count_articles_total": 1011,
-  "count_articles_new": 8,
+  "last_updated": "2026-05-01 19:33",
+  "count_articles_total": 1024,
+  "count_articles_new": 18,
   "articles": [
+    {
+      "id": 29340,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What caused the measles outbreak expectations? #health",
+      "description": "CDC warns additional measles cases are likely as travel season approaches, citing that ongoing transmission can accelerate when people move between regions. The reported update says that the U.S. has already recorded 1,782 measles cases nationwide this year a\u2026",
+      "url": "https://alltoc.com/health/what-caused-the-measles-outbreak-expectations",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-04-30 18:04:44",
+      "content": "CDC warns additional measles cases are likely as travel season approaches, citing that ongoing transmission can accelerate when people move between regions. The reported update says that the U.S. ha\u2026 [+1303 chars]",
+      "retrievedAt": "2026-05-01 19:32:59.019515",
+      "internal_id": "bfe78fb0d3d450a0212c4b1088832cbd763ca129bf021948115ac9abe966eacb",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29348,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Europapress.es",
+      "author": "Europa Press Galicia",
+      "title": "Muere una ni\u00f1a de 11 a\u00f1os con sospecha de meningitis en Ourense",
+      "description": "Sanidade identifica m\u00e1s de un centenar de contactos estrechos entre escolares y familiares para la administraci\u00f3n de la medicaci\u00f3n de prevenci\u00f3n",
+      "url": "https://www.europapress.es/galicia/noticia-muere-nina-11-anos-sospecha-meningitis-ourense-20260430194023.html",
+      "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20260430194023_1200.jpg",
+      "publishedAt": "2026-04-30 17:40:23",
+      "content": "OURENSE, 30 Abr. (EUROPA PRESS) - Una ni\u00f1a de 11 a\u00f1os ha fallecido en Ourense con \"sospecha de infecci\u00f3n mening\u00f3cica invasora\", seg\u00fan confirma la Conseller\u00eda de Sanidade a Europa Press. Ante\u2026 [+1251 chars]",
+      "retrievedAt": "2026-05-01 19:33:00.197896",
+      "internal_id": "09504b869bc13f8031bb78e011a8d67af399d172067c3b2663c89689899c9895",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29350,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "1,000 Enugu pregnant women get health insurance",
+      "description": "ECEWS provides free Enugu health insurance for 1,000 pregnant women, covering antenatal care and delivery to improve maternal health and fight malaria. Read More: https://punchng.com/1000-enugu-pregnant-women-get-health-insurance/",
+      "url": "https://punchng.com/1000-enugu-pregnant-women-get-health-insurance/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2021/10/22062340/Map-of-Enugu-State.jpg",
+      "publishedAt": "2026-04-30 16:05:09",
+      "content": "The Excellence Community Education Welfare Scheme has provided health insurance coverage for 1,000 pregnant women in Enugu State. The announcement was made on Thursday during the 2026 World Malaria \u2026 [+3167 chars]",
+      "retrievedAt": "2026-05-01 19:33:00.561216",
+      "internal_id": "402588cf8a4dadffdb91e0e761aa2746a8ee739ed2f9651ad5f09360457135d0",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29349,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Lavozdegalicia.es",
+      "author": "La Voz",
+      "title": "Fallece una ni\u00f1a de once a\u00f1os en Ourense por un posible caso de meningitis",
+      "description": "La Conseller\u00eda de Sanidade activa el protocolo de vacunaci\u00f3n entre sus compa\u00f1eros de clase al estar considerados como contactos directos",
+      "url": "https://www.lavozdegalicia.es/noticia/ourense/2026/04/30/fallece-alumna-sexto-primaria-ourense-debido-posible-meningitis/00031777556495390737149.htm",
+      "urlToImage": "https://img.lavdg.com/sc/wYGOpzGP8yRMx5Bw96Qh7O0salg=/1280x/2026/04/30/00121777560782178758587/Foto/O11Y0134.jpg",
+      "publishedAt": "2026-04-30 15:53:00",
+      "content": "Una ni\u00f1a de once a\u00f1os falleci\u00f3 esta madrugada en Ourense por un posible caso de infecci\u00f3n mening\u00f3cica invasora. El triste suceso ha provocado que la Conseller\u00eda de Sanidade activara el protocolo esta\u2026 [+2711 chars]",
+      "retrievedAt": "2026-05-01 19:33:00.217795",
+      "internal_id": "1a90e3bf038e8f1c119103b1888c18a2f73709fa2acef9488207b5f22b20eddc",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29339,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Parviz Shahmirzalou, Hassan Ebrahimpour Sadagheyani",
+      "title": "Epidemiology and trends of animal bites in Khoy County, Northwest Iran: A retrospective study (2021\u20132024)",
+      "description": "Background Animal bites are a significant global public health concern because they can lead to rabies, a disease with a very high case fatality. Therefore, this study aimed to describe the demographic and epidemiological characteristics of animal bite cases \u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348132",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0348132.g005&size=inline",
+      "publishedAt": "2026-04-30 14:00:00",
+      "content": "Abstract Background Animal bites are a significant global public health concern because they can lead to rabies, a disease with a very high case fatality. Therefore, this study aimed to describe th\u2026 [+30194 chars]",
+      "retrievedAt": "2026-05-01 19:32:58.618885",
+      "internal_id": "d7962ac5bea93b13c47a82b686fa30bba50c3d309b9b7172ba5cf54a3332b5c8",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29344,
+      "query": [
+        "hpai",
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Manting Wang, Elda K. E. Laison, Tanya Philippsen, Sajjad Ghaemi, Juxin Liu, Iain Moyles, Anthony Signore, Junling Ma, Bouchra Nasri",
+      "title": "Mechanistic modelling of highly pathogenic avian influenza: A scoping review revealing critical gaps in cross-species transmission models",
+      "description": "Background Highly pathogenic avian influenza (HPAI) viruses, particularly subtypes such as H5N1 and H7N9, have caused widespread outbreaks in wild birds, poultry, livestock and occasionally humans, raising concerns about cross-species transmission and pandemi\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347929",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0347929.g006&size=inline",
+      "publishedAt": "2026-04-30 14:00:00",
+      "content": "Introduction Rationale The emergence and spread of avian influenza viruses (AIVs) threaten the health of poultry, livestock, wildlife, and humans [13]. Avian influenza A viruses are maintained in w\u2026 [+52410 chars]",
+      "retrievedAt": "2026-05-01 19:32:59.376689",
+      "internal_id": "81d88a46da4415aa3618c3b5ca20b67e1d425f1c96ba08b694bc69122ba87a5f",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29346,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Aryalakshmi Sreemohan, Arif Hussain Theruvath, Ambily Baby, Cyriac Abby Philips, Tharun Tom Oommen, Santhichandra Pai, Salini Baby John, Jaicob Varghese, Rizwan Ahamed, Ajit Tharakan, Philip Augustine",
+      "title": "Mortality predictors, hepatic involvement patterns, and the steatotic liver paradox in 1,484 hospitalized Dengue patients",
+      "description": "Background and objectives Dengue fever represents a major global health burden with hepatic involvement occurring in up to 90% of hospitalized patients. This study aimed to determine in-hospital mortality predictors, characterize clinical outcomes across grad\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348232",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0348232.g013&size=inline",
+      "publishedAt": "2026-04-30 14:00:00",
+      "content": "Introduction Dengue has transcended its historical characterization as a self-limiting tropical fever to become one of the most rapidly expanding arboviral infections worldwide, with the World Healt\u2026 [+63252 chars]",
+      "retrievedAt": "2026-05-01 19:32:59.962054",
+      "internal_id": "cb8c6cae7c87fe4b98874e51cee2a373b688b6d6a952ce246e4a654055fa3a1a",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29352,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Mastewal Worku Lake, Kassahun Alemu Gelaye, Mulusew Andualem Asemahagn, Kindie Fentahun Muchie, Hailemariam Awoke Engedaw, Muluken Azage Yenesew",
+      "title": "Implementation fidelity of Ethiopia\u2019s Malaria test-and-treat guideline amid a resurgence in Amhara Region: A mixed-methods study",
+      "description": "Background Ethiopia has experienced a marked malaria resurgence in recent years, with the Amhara Region disproportionately affected. Although Ethiopia\u2019s national strategy emphasizes test-before-treat and a public\u2013private mix, implementation fidelity of the ma\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348088",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0348088.g007&size=inline",
+      "publishedAt": "2026-04-30 14:00:00",
+      "content": "Citation: Lake MW, Gelaye KA, Asemahagn MA, Muchie KF, Engedaw HA, Yenesew MA (2026) Implementation fidelity of Ethiopias Malaria test-and-treat guideline amid a resurgence in Amhara Region: A mixed-\u2026 [+49179 chars]",
+      "retrievedAt": "2026-05-01 19:33:00.631489",
+      "internal_id": "c1bdcc97eaa0972dbfb8ba22d954517e6873a3f5841eae2deb440429ac5d26e0",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29353,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Plos.org",
+      "author": "Hamidou Ilboudo, Elodie Doda Gricela Sanon, Domonbabele Fran\u00e7ois de Sales Hien, Fadilah Traor\u00e9, Helle Hansson, B\u00e9renger Kabor\u00e9, Marc Christian Tahita, Karim Derra, Eli Rouamba, Isma\u00efla Bouda, Toussaint Rouamba, Michael Alifrangis, Hermann Sorgho, Pascal Magnussen, Halidou Tinto",
+      "title": "Characteristics and dynamics of malaria vectors around the Soum dam in Nanoro Health District, Burkina Faso",
+      "description": "Malaria is endemic in Burkina Faso, with seasonal transmission during the rainy season. Environmental changes such as dam construction may influence mosquito ecology and malaria transmission; however, entomological data from this area remain limited. This stu\u2026",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348192",
+      "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0348192.g004&size=inline",
+      "publishedAt": "2026-04-30 14:00:00",
+      "content": "Abstract Malaria is endemic in Burkina Faso, with seasonal transmission during the rainy season. Environmental changes such as dam construction may influence mosquito ecology and malaria transmissio\u2026 [+26039 chars]",
+      "retrievedAt": "2026-05-01 19:33:00.642128",
+      "internal_id": "76189ded723255dfc9d17b08567777c85dc846979b9ef73a21cd3ae27ff21c4a",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29355,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Raka Adji",
+      "title": "Indonesia integrates malaria control for 2030 elimination",
+      "description": "The Indonesian Ministry of Health is integrating malaria control with other disease management efforts as part of its strategy to meet the 2030 elimination ...",
+      "url": "https://en.antaranews.com/news/414232/indonesia-integrates-malaria-control-for-2030-elimination",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/04/30/WhatsApp-Image-2026-04-30-at-17.47.41.jpg",
+      "publishedAt": "2026-04-30 13:38:34",
+      "content": "Jakarta (ANTARA) - The Indonesian Ministry of Health is integrating malaria control with other disease management efforts as part of its strategy to meet the 2030 elimination target.The ministry\u2019s Di\u2026 [+2598 chars]",
+      "retrievedAt": "2026-05-01 19:33:00.692569",
+      "internal_id": "143c1341111eacea34bd182de4caa05153a53d761c0a7cac7a682f06376cfa33",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29345,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Metropoles.com",
+      "author": "Metr\u00f3poles",
+      "title": "Febre Oropouche: entenda o que \u00e9 a doen\u00e7a e quais s\u00e3o os sintomas",
+      "description": "Goi\u00e1s registrou o primeiro caso da doen\u00e7a na hist\u00f3ria do estado. Sintomas s\u00e3o parecidos com os da dengue e n\u00e3o h\u00e1 tratamento definido",
+      "url": "https://www.metropoles.com/distrito-federal/entorno/febre-oropouche-entenda-o-que-e-a-doenca-e-quais-sao-os-sintomas",
+      "urlToImage": "https://i.metroimg.com/lpu8idAHLxz1Gy7FmvU0wcIp6im2QB7vxtbipSTisQY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/maruim-ioc-fiocruz.jpg",
+      "publishedAt": "2026-04-30 12:35:50",
+      "content": "A confirma\u00e7\u00e3o do primeiro caso de febre Oropouche no estado do Goi\u00e1sdespertou aten\u00e7\u00e3o das pessoas para entender como o v\u00edrus \u00e9 transmitido, saber como identificar e tratar os sintomas, assim como for\u2026 [+4262 chars]",
+      "retrievedAt": "2026-05-01 19:32:59.880579",
+      "internal_id": "918575d28d34467680718eea5f20302bb3922c288d325c84372badfc766d430e",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29356,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Resinta Sulistiyandari",
+      "title": "Health Ministry applies TOKEN strategy to curb malaria in Papua",
+      "description": "The Ministry of Health introduced the Find, Treat, Control (TOKEN) strategy to accelerate the reduction of malaria cases in Papua, along with a number of ...",
+      "url": "https://en.antaranews.com/news/414197/health-ministry-applies-token-strategy-to-curb-malaria-in-papua",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/04/30/WhatsApp-Image-2026-04-30-at-17.38.42.jpg",
+      "publishedAt": "2026-04-30 11:53:44",
+      "content": "Jakarta (ANTARA) - The Ministry of Health introduced the Find, Treat, Control (TOKEN) strategy to accelerate the reduction of malaria cases in Papua, along with a number of other efforts.The ministry\u2026 [+2299 chars]",
+      "retrievedAt": "2026-05-01 19:33:00.702823",
+      "internal_id": "06d371e8417e9e8c073f889e08dffa00ea02e88e3f932a8f7d1b9f9ebdb9846b",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29347,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Khabarhub.com",
+      "author": "Khabarhub",
+      "title": "Dengue infection confirmed in Humla for the first time",
+      "description": "HUMLA: Dengue infection has been confirmed for the first time in Humla, raising concerns among health authorities. The infection was detected in a patient undergoing treatment at the district hospital following a swab test. According to Chief Medical Officer \u2026",
+      "url": "https://english.khabarhub.com/2026/30/546489/",
+      "urlToImage": "https://english.khabarhub.com/wp-content/uploads/2025/06/Khabar-Hub-News_Dengue_1200px-630X-px-Final_2021.07.29_1-1.jpg",
+      "publishedAt": "2026-04-30 11:45:06",
+      "content": "HUMLA: Dengue infection has been confirmed for the first time in Humla, raising concerns among health authorities. The infection was detected in a patient undergoing treatment at the district hospit\u2026 [+775 chars]",
+      "retrievedAt": "2026-05-01 19:32:59.983618",
+      "internal_id": "bcdf0de87d10b9540bd23139eba02cb3f2d1fb8261e7fe70db1cfe41b823fec6",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29343,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Kampalapost.com",
+      "author": "Andrew Matege",
+      "title": "Health Ministry Announces Vaccination Campaign as Uganda Battles Measles Outbreak",
+      "description": "A measles outbreak has hit 20 districts in Uganda, resulting in 12 deaths and primarily affecting children under five. The Ministry of Health has announced a nationwide vaccination campaign for October 2026 to curb the spread of the contagious disease.",
+      "url": "https://kampalapost.com/articles/health-ministry-announces-vaccination-campaign-as-uganda-battles-measles-outbreak",
+      "urlToImage": "https://kampalapost.com/storage/media/director-general-health-services-dr-charles-olaro-addressing-the-media-about-the-measles-out-break.jpg",
+      "publishedAt": "2026-04-30 11:12:24",
+      "content": "The Ministry of Health has reported a surging measles outbreak currently affecting 20 districts, with children under the age of five bearing the brunt of the infections. Director General Health Serv\u2026 [+1938 chars]",
+      "retrievedAt": "2026-05-01 19:32:59.178425",
+      "internal_id": "574f9a2afdf7a54079ebf9c6199a63c3671a2a27d03064c938936e255c47c4d3",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29354,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Antaranews.com",
+      "author": "Mecca Yumna, Resinta Sulistiyandari",
+      "title": "Health Ministry records 412 malaria-free regions in 2026",
+      "description": "The Ministry of Health announced that by 2026, 412 of the 514 districts/cities in Indonesia will have been declared malaria-free, considered a significant ...",
+      "url": "https://en.antaranews.com/news/414185/health-ministry-records-412-malaria-free-regions-in-2026",
+      "urlToImage": "https://cdn.antaranews.com/cache/1200x800/2026/04/30/WhatsApp-Image-2026-04-30-at-16.25.42.jpg",
+      "publishedAt": "2026-04-30 10:46:47",
+      "content": "Jakarta (ANTARA) - The Ministry of Health announced that by 2026, 412 of the 514 districts/cities in Indonesia will have been declared malaria-free, considered a significant achievement.On Thursday, \u2026 [+2245 chars]",
+      "retrievedAt": "2026-05-01 19:33:00.681239",
+      "internal_id": "a9443aebf7636f2a15dc6e2f130448d3ba4771d06397b33eb58e13771a26dd0a",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29342,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Www.gov.uk",
+      "author": "UK Health Security Agency",
+      "title": "Research: Measles, mumps and rubella: lab-confirmed cases in England 2025",
+      "description": "Quarterly reports, with commentary, on cases confirmed by UK Health Security Agency's Virus Reference Department or local laboratory testing.",
+      "url": "https://www.gov.uk/government/publications/measles-mumps-and-rubella-lab-confirmed-cases-in-england-2025",
+      "urlToImage": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+      "publishedAt": "2026-04-30 09:29:08",
+      "content": "We use some essential cookies to make this website work. Wed like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services. We also use coo\u2026 [+70 chars]",
+      "retrievedAt": "2026-05-01 19:32:59.116408",
+      "internal_id": "3c162c17f1293530a6005922b65ec2688ca93f5600493ea45fb76cc53a71b45a",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29341,
+      "query": [
+        "measles"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "US CDC issues measles travel guidance: Know the early symptoms to protect yourself",
+      "description": "The CDC has issued new travel advice regarding measles. International travel poses a risk of exposure to this disease. Travelers are urged to check their vaccination status before departing. Early measles symptoms can be mistaken for a cold. Recognizing signs\u2026",
+      "url": "https://timesofindia.indiatimes.com/health/us-cdc-issues-measles-travel-guidance-know-the-early-symptoms-to-protect-yourself/articleshow/130626763.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-130627649,width-1280,height-720,imgsize-1232517,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-04-30 08:07:22",
+      "content": "News Health News US CDC issues measles travel guidance: Know the early symptoms to protect yourself Follow Us On Social Media",
+      "retrievedAt": "2026-05-01 19:32:59.049127",
+      "internal_id": "69e7aa40c61be7945a77d5623a1042aa33511c446aeceff47cdbda25fa285bc8",
+      "publishedAtLabel": "Apr 30"
+    },
+    {
+      "id": 29351,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Thechronicle.com.gh",
+      "author": "KWESI ALFRED ADAMS",
+      "title": "Gold Fields Ghana Foundation Marks World Malaria Day With Strong Push Against Disease",
+      "description": "The Gold Fields Ghana Foundation has marked the 2026 World Malaria Day with a large-scale community engagement programme aimed at intensifying awareness creation, prevention efforts and collective action against malaria in its host communities. Held under the\u2026",
+      "url": "https://thechronicle.com.gh/gold-fields-ghana-foundation-marks-world-malaria-day-with-strong-push-against-disease/",
+      "urlToImage": "https://thechronicle.com.gh/wp-content/uploads/2026/04/a-panel-discussion-at-the-world-malaria-day-ceebration.jpg",
+      "publishedAt": "2026-04-30 07:55:46",
+      "content": "The Gold Fields Ghana Foundation has marked the 2026 World Malaria Day with a large-scale community engagement programme aimed at intensifying awareness creation, prevention efforts and collective ac\u2026 [+5242 chars]",
+      "retrievedAt": "2026-05-01 19:33:00.620985",
+      "internal_id": "fa36d654db783c653c35561b0f258e558ab65d1f0c8aeebdd93516a70d57b98a",
+      "publishedAtLabel": "Apr 30"
+    },
     {
       "id": 29337,
       "query": [
@@ -18173,96 +18498,6 @@
       "content": "Trish Mannes, UKHSA regional deputy director for the South East, said students can be at risk of missing symptoms due to confusing them for \"a bad cold, flu, or even a hangover\".",
       "retrievedAt": "2026-03-17 07:28:47.940555",
       "internal_id": "904278e8ce14fa615f6140541ec138aab3c7379da93fe78b40a27891a4cafe0d",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28331,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "bbc-news",
-      "source_name": "BBC News",
-      "author": "Mark Norman",
-      "title": "Two University of Kent students die in meningitis outbreak",
-      "description": "Eleven University of Kent students are also seriously ill in hospital, the BBC understands.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxg35dv7npo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c301/live/8017f630-20a6-11f1-b760-7d6278c3d0c0.jpg",
-      "publishedAt": "2026-03-15 19:25:23",
-      "content": "A UKHSA spokesperson said it was arranging antibiotics for some students in the Canterbury area following the outbreak, and that the specific strain of the disease has not been identified. The BBC u\u2026 [+1111 chars]",
-      "retrievedAt": "2026-03-16 19:27:22.783083",
-      "internal_id": "3e8cfaf79c9e8f49327beada3cfbde5603c610a2d523667698ce3138062566a0",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28328,
-      "query": [
-        "rabies"
-      ],
-      "source_id": "the-times-of-india",
-      "source_name": "The Times of India",
-      "author": "Lisa Monteiro,Nisser Dias",
-      "title": "Shortage of anti-rabies vaccine in state amid rising dog bite cases",
-      "description": "Goa is experiencing a critical shortage of anti-rabies vaccines with rising dog bite cases, forcing victims to search multiple health centers for treatment. Health officials report nationwide supply issues.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-129594953,width-1280,height-720,imgsize-149472,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-03-15 18:59:33",
-      "content": "Follow Us On Social Media Copyright \u00a9 2026 Bennett, Coleman &amp; Co. Ltd. All rights reserved. For reprint rights: Times Syndication Service",
-      "retrievedAt": "2026-03-16 19:27:20.950414",
-      "internal_id": "7557ff933a89295256c5be35ebe243f35d595a5e8c3a19a4ccbd7be5938aae5b",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28332,
-      "query": [
-        "malaria"
-      ],
-      "source_id": null,
-      "source_name": "Interia.pl",
-      "author": "Karolina Majchrzak",
-      "title": "Naukowy znale\u017ali s\u0142abo\u015bci paso\u017cyt\u00f3w wywo\u0142uj\u0105cych malari\u0119. B\u0119d\u0105 nowe leki",
-      "description": "Malaria pozostaje jedn\u0105 z najgro\u017aniejszych chor\u00f3b zaka\u017anych na \u015bwiecie. Wed\u0142ug danych globalnych w 2024 roku doprowadzi\u0142a do \u015bmierci oko\u0142o 610 tys. os\u00f3b, z czego zdecydowana wi\u0119kszo\u015b\u0107 mia\u0142a miejsce w Afryce, gdzie najbardziej nara\u017cone s\u0105 ma\u0142e dzieci. Nowe bad\u2026",
-      "url": "https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898",
-      "urlToImage": "https://i.iplsc.com/-/000J7NGTM2EV8HQC-C461.jpg",
-      "publishedAt": "2026-03-15 12:13:03",
-      "content": "Zesp\u00f3 naukowc\u00f3w z Uniwersytetu w Nottingham zidentyfikowa kluczowy element biologii pasoyta odpowiedzialnego za malari, chodzi o biako o nazwie ARK1. Odkrycie opublikowane w czasopimie naukowym Natur\u2026 [+2031 chars]",
-      "retrievedAt": "2026-03-16 19:27:23.042575",
-      "internal_id": "6b9242e6ba7dc40dd1bf57ddbfeb8d9b563cf2cca39ead0fd85e4c4a1cb52995",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28330,
-      "query": [
-        "measles"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "Why are measles outbreaks growing? #health",
-      "description": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of under\u2011immunized communities have grown large enough to sustain transmission. A mix of factors\u2014political polarization, m\u2026",
-      "url": "https://alltoc.com/health/why-are-measles-outbreaks-growing",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-15 12:11:35",
-      "content": "Drivers behind rising measles and why it matters Measles cases are increasing in several U.S. states and internationally because pockets of underimmunized communities have grown large enough to sust\u2026 [+1744 chars]",
-      "retrievedAt": "2026-03-16 19:27:21.332251",
-      "internal_id": "88cad0e5bdf14b75703860ba27c27c4be6847e7269c992177165ca7dec5bb956",
-      "publishedAtLabel": "Mar 15"
-    },
-    {
-      "id": 28329,
-      "query": [
-        "rabies"
-      ],
-      "source_id": null,
-      "source_name": "Khan.co.kr",
-      "author": "\uc720\ud55c\uc0c1 \uc11c\uc6b8\ub300 \uc218\uc758\uacfc\ub300\ud559 \uad50\uc218",
-      "title": "[\uae30\uace0]\ubc18\ub824\ub3d9\ubb3c\uc758 \u2018\uc678\ucd9c\u2019 \uc608\ubc29\uc811\uc885\uc774 \uba3c\uc800",
-      "description": "\uc9c0\ub09c \uc124 \uc5f0\ud734 \uac15\uc544\uc9c0\uc640 \ud568\uaed8 \uace0\ud5a5\uc5d0 \ub0b4\ub824\uac14\ub358 \uc9c0\uc778\uc774 \ud558\uc18c\uc5f0\uc744 \ud588\ub2e4. \ud734\uac8c\uc18c\uc5d0 \ub4e4\ub7ec \uac15\uc544\uc9c0\ub97c \ucc28\uc5d0 \ub450\uace0 \uc0ac\ub78c\ub4e4\ub9cc \uc2dd\uc0ac\ud558\ub824\ub2c8 \uac71\uc815\uc774 \ub418\uc5b4 \ud5c8\uac81\uc9c0\uac81 \uc2dd\uc0ac\ub97c \ub9c8\ucce4\ub2e4\uace0 \ud55c\ub2e4. \uc544\ub9c8 \ub9ce\uc740 \ubc18\ub824\uc778\uc774 \ud55c \ubc88\ucbe4 \uacaa\uc5b4\ubd24\uc744 \uc77c\uc774\ub2e4.\ubc18\ub824\ub3d9\ubb3c \uc591\uc721 \uc778\uad6c\uc758 \uc99d\uac00\uc640 \uc0ac\ud68c\uc801 \uc778\uc2dd \ubcc0\ud654\ub85c \uacfc\uac70 \uc2dd\ub2f9\uc5d0\ub294 \ubc18\ub824\ub3d9\ubb3c \ub3d9\ubc18 \ucd9c\uc785\uc774 \ubd88\uac00\ub2a5\ud55c \uac83\uc73c\ub85c \uc5ec\uaca8\uc84c\ub358 \ubd84\uc704\uae30\uac00 \ub2ec\ub77c\uc9c0\uace0 \uc788\ub2e4. \ucd5c\uadfc\uc5d0\ub294 \uc2dc\ub300\u00b7\u00b7\u00b7",
-      "url": "https://www.khan.co.kr/article/202603151959005",
-      "urlToImage": "https://img.khan.co.kr/news/2026/03/15/l_2026031601000386600045251.jpg",
-      "publishedAt": "2026-03-15 10:59:00",
-      "content": ". . . . , . . , \u00b7 . . , . . . . , . (rabies) , 100% . (WHO) 6 . . . , (One Health) . . . . , . . , , . . . , .",
-      "retrievedAt": "2026-03-16 19:27:20.974129",
-      "internal_id": "303e45f21e0a8e3c5e21c279ee593540ff0c39d242075fde6e035e9d058e33ca",
       "publishedAtLabel": "Mar 15"
     }
   ]
