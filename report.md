@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 18
-- **Last harvest:** 2026-05-01 19:33
-- **Most recent article:** 2026-04-30 18:04:44
+- **New articles in last harvest:** 8
+- **Last harvest:** 2026-05-02 07:38
+- **Most recent article:** 2026-05-01 07:35:32
 
 ---
 
@@ -12,16 +12,16 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 174 | 75 | 19 | 4 | 5 | 8 | 8 | 293 |
-| measles | 19 | 21 | 26 | 51 | 35 | 54 | 33 | 239 |
-| malaria | 19 | 14 | 9 | 14 | 9 | 59 | 22 | 146 |
+| meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 11 | 297 |
+| measles | 20 | 21 | 26 | 51 | 35 | 54 | 35 | 242 |
+| malaria | 20 | 14 | 9 | 14 | 9 | 59 | 24 | 149 |
 | dengue | 27 | 19 | 18 | 12 | 19 | 17 | 13 | 125 |
 | mpox | 12 | 4 | 19 | 9 | 16 | 3 | 10 | 73 |
-| rabies | 4 | 5 | 26 | 8 | 3 | 6 | 3 | 55 |
+| rabies | 6 | 5 | 26 | 8 | 3 | 6 | 3 | 57 |
 | chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 4 | 43 |
-| h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 6 | 38 |
+| h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 7 | 39 |
 | zika | 4 | 1 | 15 | 1 | 4 | 4 | 3 | 32 |
-| hpai | 1 | 6 | 2 | 2 | 1 | 0 | 3 | 15 |
+| hpai | 1 | 6 | 2 | 2 | 1 | 0 | 4 | 16 |
 | yersinia | 1 | 1 | 0 | 1 | 0 | 4 | 1 | 8 |
 | pertussis | 0 | 1 | 0 | 0 | 1 | 4 | 1 | 7 |
 | leptospirosis | 3 | 1 | 0 | 1 | 1 | 1 | 0 | 7 |
@@ -85,6 +85,12 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (meningitis)
 
+- [Placental Vascular Pathology Associated with Congenital Lymphocytic Choriomeningitis Virus Infection, Philadelphia, Pennsylvania, USA](https://wwwnc.cdc.gov/eid/article/32/6/26-0165_article) (Cdc.gov)
+
+- [Clinical features, risk factors and outcomes of hydrocephalus in neonatal bacterial meningitis: a retrospective case–control study](https://www.nature.com/articles/s41598-026-50052-w) (Nature.com)
+
+- [Muere en Orense una niña de 11 años víctima de una posible meningitis bacteriana](https://www.libertaddigital.com/sucesos/2026-04-30/muere-en-orense-una-nina-de-11-anos-victima-de-una-posible-meningitis-bacteriana-1b-7397521/) (Libertaddigital.com)
+
 - [Muere una niña de 11 años con sospecha de meningitis en Ourense](https://www.europapress.es/galicia/noticia-muere-nina-11-anos-sospecha-meningitis-ourense-20260430194023.html) (Europapress.es)
 
 - [Fallece una niña de once años en Ourense por un posible caso de meningitis](https://www.lavozdegalicia.es/noticia/ourense/2026/04/30/fallece-alumna-sexto-primaria-ourense-debido-posible-meningitis/00031777556495390737149.htm) (Lavozdegalicia.es)
@@ -102,6 +108,10 @@ Source: [News API](https://newsapi.org/)
 - [Menace II Society actor Samuel Monroe Jr. on life support in hospital amid devastating health battle](https://www.dailymail.com/tvshowbiz/article-15769623/Menace-II-Society-Samuel-Monroe-Jr-life-support-meningitis.html) (Dailymail.com)
 
 ## 26-18 (measles)
+
+- [How many measles cases in US? #health](https://alltoc.com/health/how-many-measles-cases-in-us) (Alltoc.com)
+
+- [Why did US miss measles elimination criteria? #science](https://alltoc.com/science/why-did-us-miss-measles-elimination-criteria) (Alltoc.com)
 
 - [What caused the measles outbreak expectations? #health](https://alltoc.com/health/what-caused-the-measles-outbreak-expectations) (Alltoc.com)
 
@@ -171,6 +181,10 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (malaria)
 
+- [Study Reveals Malaria’s Hidden Role in Human Evolution](https://economictimes.indiatimes.com/news/international/us/study-reveals-malarias-hidden-role-in-human-evolution/articleshow/130672752.cms) (The Times of India)
+
+- [How does malaria shape early human evolution? #science](https://alltoc.com/science/how-does-malaria-shape-early-human-evolution) (Alltoc.com)
+
 - [1,000 Enugu pregnant women get health insurance](https://punchng.com/1000-enugu-pregnant-women-get-health-insurance/) (The Punch)
 
 - [Implementation fidelity of Ethiopia’s Malaria test-and-treat guideline amid a resurgence in Amhara Region: A mixed-methods study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348088) (Plos.org)
@@ -217,6 +231,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (hpai)
 
+- [Replication Efficiency of Contemporary Highly Pathogenic Avian Influenza A(H5N1) Virus Isolates in Human Nasal Epithelium Model](https://wwwnc.cdc.gov/eid/article/32/5/26-0053_article) (Cdc.gov)
+
 - [Mechanistic modelling of highly pathogenic avian influenza: A scoping review revealing critical gaps in cross-species transmission models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347929) (Plos.org)
 
 - [Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Virus and Mass Mortality in Eurasian Cranes, Germany, 2025](https://wwwnc.cdc.gov/eid/article/32/5/26-0170_article) (Cdc.gov)
@@ -224,6 +240,8 @@ Source: [News API](https://newsapi.org/)
 - [大阪学院大学大阪学院大学が「生成AI利用ガイドライン」を策定 ― 生成AIの適切な活用を通じ、学びの質向上と学術的誠実性の確保をめざす](https://japan.cnet.com/release/31164605/) (CNET)
 
 ## 26-18 (h5n1)
+
+- [Replication Efficiency of Contemporary Highly Pathogenic Avian Influenza A(H5N1) Virus Isolates in Human Nasal Epithelium Model](https://wwwnc.cdc.gov/eid/article/32/5/26-0053_article) (Cdc.gov)
 
 - [Mechanistic modelling of highly pathogenic avian influenza: A scoping review revealing critical gaps in cross-species transmission models](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0347929) (Plos.org)
 
@@ -1833,6 +1851,10 @@ Source: [News API](https://newsapi.org/)
 
 - [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
 
+- [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
+
+- [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
+
 ## 26-12 (mpox)
 
 - [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
@@ -2209,6 +2231,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Two students die in university meningitis outbreak](https://www.bbc.com/news/articles/cdxg35dv7npo) (BBC News)
 
+- [Two University of Kent students die in meningitis outbreak](https://www.bbc.co.uk/news/articles/cdxg35dv7npo) (BBC News)
+
 ## 26-12 (measles)
 
 - [A Model For HHS: New Mexico Measles Outbreak Was Curtailed With Mass Vaccination Campaign](https://www.techdirt.com/2026/03/20/a-model-for-hhs-new-mexico-measles-outbreak-was-curtailed-with-mass-vaccination-campaign/) (Techdirt)
@@ -2249,6 +2273,8 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles patient identified at major synagogue in Bnei Brak](https://www.israelnationalnews.com/news/423994) (Israelnationalnews.com)
 
+- [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
+
 ## 26-12 (malaria)
 
 - [Nei Dna dei sardi un gene che protegge dalla malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/21/nei-dna-dei-sardi-un-gene-che-protegge-dalla-malaria_4b655a6e-e413-4b63-9344-70fc50a0a6d2.html) (ANSA.it)
@@ -2288,6 +2314,8 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
 
 - [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
+
+- [Naukowy znaleźli słabości pasożytów wywołujących malarię. Będą nowe leki](https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898) (Interia.pl)
 
 ## 26-12 (leptospirosis)
 
