@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 8
-- **Last harvest:** 2026-05-02 07:38
-- **Most recent article:** 2026-05-01 07:35:32
+- **New articles in last harvest:** 9
+- **Last harvest:** 2026-05-02 19:26
+- **Most recent article:** 2026-05-01 19:08:50
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
 |--|-|-|-|-|-|-|-|-|
-| meningitis | 175 | 75 | 19 | 4 | 5 | 8 | 11 | 297 |
-| measles | 20 | 21 | 26 | 51 | 35 | 54 | 35 | 242 |
-| malaria | 20 | 14 | 9 | 14 | 9 | 59 | 24 | 149 |
+| meningitis | 174 | 75 | 19 | 4 | 5 | 8 | 14 | 299 |
+| measles | 19 | 21 | 26 | 51 | 35 | 54 | 37 | 243 |
+| malaria | 19 | 14 | 9 | 14 | 9 | 59 | 25 | 149 |
 | dengue | 27 | 19 | 18 | 12 | 19 | 17 | 13 | 125 |
-| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 10 | 73 |
-| rabies | 6 | 5 | 26 | 8 | 3 | 6 | 3 | 57 |
+| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 11 | 74 |
+| rabies | 4 | 5 | 26 | 8 | 3 | 6 | 4 | 56 |
 | chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 4 | 43 |
-| h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 7 | 39 |
+| h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 8 | 40 |
 | zika | 4 | 1 | 15 | 1 | 4 | 4 | 3 | 32 |
 | hpai | 1 | 6 | 2 | 2 | 1 | 0 | 4 | 16 |
 | yersinia | 1 | 1 | 0 | 1 | 0 | 4 | 1 | 8 |
@@ -51,6 +51,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (rabies)
 
+- [Man bitten by pet dog jumps to death from AIIMS window](https://timesofindia.indiatimes.com/city/bhopal/man-bitten-by-pet-dog-jumps-to-death-from-aiims-window/articleshow/130684902.cms) (The Times of India)
+
 - [Epidemiology and trends of animal bites in Khoy County, Northwest Iran: A retrospective study (2021–2024)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348132) (Plos.org)
 
 - [UPDATE: Fourth Raccoon in Wicomico Co. Tests Positive for Rabies - 47abc](https://www.wmdt.com/2026/04/update-third-raccoon-in-wicomico-co-tests-positive-for-rabies/) (WMDT)
@@ -62,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 - [Serial Interval and Intervention Efficiency in Pertussis Outbreak, South Korea, 2024](https://wwwnc.cdc.gov/eid/article/32/5/25-1304_article) (Cdc.gov)
 
 ## 26-18 (mpox)
+
+- [Africa CDC seeks immunisation investment, strengthens health security efforts](https://gazettengr.com/africa-cdc-seeks-immunisation-investment-strengthens-health-security-efforts/) (Gazettengr.com)
 
 - [Orthopoxvirus Antibodies in Feral Mammals in Mpox Outbreak Areas, Nigeria, 2021–2022](https://wwwnc.cdc.gov/eid/article/32/5/25-1565_article) (Cdc.gov)
 
@@ -84,6 +88,12 @@ Source: [News API](https://newsapi.org/)
 - [Онищенко перечислил четыре смертоносные болезни на ближайшие пять лет](https://news.mail.ru/society/70673706/) (Mail.ru)
 
 ## 26-18 (meningitis)
+
+- [Sanidade subraya que activó de «forma inmediata» el protocolo antimeningitis tras la muerte de una niña de once años en Ourense](https://www.lavozdegalicia.es/noticia/ourense/ourense/2026/05/01/sanidade-subraya-activo-forma-inmediata-protocolo-antimeningitis-tras-muerte-nina-once-anos-ourense/00031777645465310270253.htm) (Lavozdegalicia.es)
+
+- [Sanidade activa el protocolo tras morir una niña en Ourense con posible meningitis y estudia sus contactos estrechos](https://www.europapress.es/galicia/noticia-sanidade-activa-protocolo-morir-nina-ourense-posible-meningitis-estudia-contactos-estrechos-20260501130732.html) (Europapress.es)
+
+- [Muere una niña de 11 años con sospecha de meningitis en Ourense](https://www.abc.es/espana/galicia/muere-nina-anos-sospecha-meningitis-ourense-20260501105112-nt.html) (Www.abc.es)
 
 - [Placental Vascular Pathology Associated with Congenital Lymphocytic Choriomeningitis Virus Infection, Philadelphia, Pennsylvania, USA](https://wwwnc.cdc.gov/eid/article/32/6/26-0165_article) (Cdc.gov)
 
@@ -108,6 +118,10 @@ Source: [News API](https://newsapi.org/)
 - [Menace II Society actor Samuel Monroe Jr. on life support in hospital amid devastating health battle](https://www.dailymail.com/tvshowbiz/article-15769623/Menace-II-Society-Samuel-Monroe-Jr-life-support-meningitis.html) (Dailymail.com)
 
 ## 26-18 (measles)
+
+- [22 more confirmed measles cases in Manitoba bring total to 519 this year](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-cases-9.7184594) (CBC News)
+
+- [What South Carolina did to reign in its measles outbreak](https://abcnews.com/Health/after-1000-cases-south-carolina-officials-beat-back/story?id=132414412) (Abcnews.com)
 
 - [How many measles cases in US? #health](https://alltoc.com/health/how-many-measles-cases-in-us) (Alltoc.com)
 
@@ -181,6 +195,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (malaria)
 
+- [Indonesia's malaria battle: How a woman helps protect Papua's villages](https://en.antaranews.com/news/414324/indonesias-malaria-battle-how-a-woman-helps-protect-papuas-villages) (Antaranews.com)
+
 - [Study Reveals Malaria’s Hidden Role in Human Evolution](https://economictimes.indiatimes.com/news/international/us/study-reveals-malarias-hidden-role-in-human-evolution/articleshow/130672752.cms) (The Times of India)
 
 - [How does malaria shape early human evolution? #science](https://alltoc.com/science/how-does-malaria-shape-early-human-evolution) (Alltoc.com)
@@ -240,6 +256,8 @@ Source: [News API](https://newsapi.org/)
 - [大阪学院大学大阪学院大学が「生成AI利用ガイドライン」を策定 ― 生成AIの適切な活用を通じ、学びの質向上と学術的誠実性の確保をめざす](https://japan.cnet.com/release/31164605/) (CNET)
 
 ## 26-18 (h5n1)
+
+- [44 मोरों की मौत से हड़कंप, H5N1 की पुष्टि, 10 किमी क्षेत्र में कंटेनमेंट जोन घोषित](https://www.aajtak.in/karnataka/story/tumakuru-karnataka-44-peacocks-death-h5n1-bird-flu-containment-zone-lclar-dskc-2539453-2026-05-01) (Aajtak.in)
 
 - [Replication Efficiency of Contemporary Highly Pathogenic Avian Influenza A(H5N1) Virus Isolates in Human Nasal Epithelium Model](https://wwwnc.cdc.gov/eid/article/32/5/26-0053_article) (Cdc.gov)
 
@@ -1851,10 +1869,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
 
-- [Shortage of anti-rabies vaccine in state amid rising dog bite cases](https://timesofindia.indiatimes.com/city/goa/shortage-of-anti-rabies-vaccine-in-state-amid-rising-dog-bite-cases/articleshow/129594953.cms) (The Times of India)
-
-- [[기고]반려동물의 ‘외출’ 예방접종이 먼저](https://www.khan.co.kr/article/202603151959005) (Khan.co.kr)
-
 ## 26-12 (mpox)
 
 - [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
@@ -2231,8 +2245,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Two students die in university meningitis outbreak](https://www.bbc.com/news/articles/cdxg35dv7npo) (BBC News)
 
-- [Two University of Kent students die in meningitis outbreak](https://www.bbc.co.uk/news/articles/cdxg35dv7npo) (BBC News)
-
 ## 26-12 (measles)
 
 - [A Model For HHS: New Mexico Measles Outbreak Was Curtailed With Mass Vaccination Campaign](https://www.techdirt.com/2026/03/20/a-model-for-hhs-new-mexico-measles-outbreak-was-curtailed-with-mass-vaccination-campaign/) (Techdirt)
@@ -2273,8 +2285,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Measles patient identified at major synagogue in Bnei Brak](https://www.israelnationalnews.com/news/423994) (Israelnationalnews.com)
 
-- [Why are measles outbreaks growing? #health](https://alltoc.com/health/why-are-measles-outbreaks-growing) (Alltoc.com)
-
 ## 26-12 (malaria)
 
 - [Nei Dna dei sardi un gene che protegge dalla malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/21/nei-dna-dei-sardi-un-gene-che-protegge-dalla-malaria_4b655a6e-e413-4b63-9344-70fc50a0a6d2.html) (ANSA.it)
@@ -2314,8 +2324,6 @@ Source: [News API](https://newsapi.org/)
 - [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
 
 - [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
-
-- [Naukowy znaleźli słabości pasożytów wywołujących malarię. Będą nowe leki](https://geekweek.interia.pl/medycyna/news-odkryli-piete-achillesowa-malarii-nowa-nadzieja-na-skuteczne,nId,22641898) (Interia.pl)
 
 ## 26-12 (leptospirosis)
 
