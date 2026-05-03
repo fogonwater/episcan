@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 3
-- **Last harvest:** 2026-05-03 07:39
-- **Most recent article:** 2026-05-02 06:10:03
+- **New articles in last harvest:** 4
+- **Last harvest:** 2026-05-03 19:27
+- **Most recent article:** 2026-05-02 12:03:20
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
 |--|-|-|-|-|-|-|-|
-| measles | 21 | 26 | 51 | 35 | 54 | 38 | 225 |
-| malaria | 14 | 9 | 14 | 9 | 59 | 25 | 130 |
-| meningitis | 73 | 19 | 4 | 5 | 8 | 15 | 124 |
+| measles | 20 | 26 | 51 | 35 | 54 | 38 | 224 |
+| malaria | 14 | 9 | 14 | 9 | 59 | 28 | 133 |
+| meningitis | 64 | 19 | 4 | 5 | 8 | 15 | 115 |
 | dengue | 19 | 18 | 12 | 19 | 17 | 13 | 98 |
-| mpox | 4 | 19 | 9 | 16 | 3 | 11 | 62 |
+| mpox | 4 | 19 | 9 | 16 | 3 | 12 | 63 |
 | rabies | 4 | 26 | 8 | 3 | 6 | 4 | 51 |
 | chikungunya | 8 | 11 | 3 | 6 | 4 | 4 | 36 |
-| h5n1 | 4 | 7 | 2 | 5 | 7 | 9 | 34 |
+| h5n1 | 3 | 7 | 2 | 5 | 7 | 9 | 33 |
 | zika | 1 | 15 | 1 | 4 | 4 | 3 | 28 |
 | hpai | 6 | 2 | 2 | 1 | 0 | 4 | 15 |
 | pertussis | 1 | 0 | 0 | 1 | 4 | 1 | 7 |
@@ -64,6 +64,8 @@ Source: [News API](https://newsapi.org/)
 - [Serial Interval and Intervention Efficiency in Pertussis Outbreak, South Korea, 2024](https://wwwnc.cdc.gov/eid/article/32/5/25-1304_article) (Cdc.gov)
 
 ## 26-18 (mpox)
+
+- [Los casos de cólera en el mundo descendieron en marzo un 56% con respecto al mismo mes de 2025](https://www.infosalus.com/salud-investigacion/noticia-casos-colera-mundo-descendieron-marzo-56-respecto-mismo-mes-2025-20260502120045.html) (Infosalus.com)
 
 - [Africa CDC seeks immunisation investment, strengthens health security efforts](https://gazettengr.com/africa-cdc-seeks-immunisation-investment-strengthens-health-security-efforts/) (Gazettengr.com)
 
@@ -198,6 +200,12 @@ Source: [News API](https://newsapi.org/)
 - [Measles resurfaces, health officials sound alarm](http://island.lk/measles-resurfaces-health-officials-sound-alarm/) (Island.lk)
 
 ## 26-18 (malaria)
+
+- [WHO approves first malaria drug for babies #health](https://alltoc.com/health/who-approves-first-malaria-drug-for-babies) (Alltoc.com)
+
+- [Malaria treatment for babies approved by WHO? #science](https://alltoc.com/science/malaria-treatment-for-babies-approved-by-who) (Alltoc.com)
+
+- [Νέα εποχή στην αντιμετώπιση της ελονοσίας: Ο ΠΟΥ ενέκρινε φάρμακο για βρέφη](https://www.skai.gr/news/health/nea-epoxi-stin-antimetopisi-tis-elonosias-egkrithike-farmako-gia-vrefi) (Skai.gr)
 
 - [Indonesia's malaria battle: How a woman helps protect Papua's villages](https://en.antaranews.com/news/414324/indonesias-malaria-battle-how-a-woman-helps-protect-papuas-villages) (Antaranews.com)
 
@@ -1663,24 +1671,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Grafschaft Kent: Zahl der Meningitis-Fälle in England gesunken – noch keine Entwarnung](https://www.stern.de/gesundheit/meningitis-in-england--fallzahlen-sinken-nach-ausbruch-mit-zwei-toten-37244876.html) (STERN.de)
 
-- [UK authorities revise meningitis outbreak cases to 29](https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/) (The Punch)
-
-- [Number of meningitis cases linked to fatal UK outbreak drops to 20](https://www.irishtimes.com/world/uk/2026/03/22/number-of-meningitis-cases-linked-to-fatal-uk-outbreak-drops-to-20/) (The Irish Times)
-
-- [What caused Kent meningitis outbreak? #health](https://alltoc.com/health/what-caused-kent-meningitis-outbreak) (Alltoc.com)
-
-- [Meningitis cases in Kent drop as vaccine rollout continues](https://www.thejournal.ie/meningitis-cases-in-kent-drop-as-vaccine-rollout-continues-6991723-Mar2026/) (TheJournal.ie)
-
-- [What’s causing the Kent meningitis outbreak? #health](https://alltoc.com/health/whats-causing-the-kent-meningitis-outbreak) (Alltoc.com)
-
-- [How is meningitis B spread and preventable? #health](https://alltoc.com/health/how-is-meningitis-b-spread-and-preventable) (Alltoc.com)
-
-- [Kent meningitis cases drop as vaccine rollout continues](https://www.rte.ie/news/uk/2026/0322/1564610-meningitis-uk/) (RTE)
-
-- [Another college sees suspected meningitis case](https://www.bbc.com/news/articles/cwydl214dplo) (BBC News)
-
-- [Meningitis outbreak: Total cases in Kent falls](https://news.sky.com/story/meningitis-outbreak-total-cases-in-kent-falls-13522977) (Sky.com)
-
 ## 26-13 (measles)
 
 - [How serious is Mexico’s measles campaign? #health](https://alltoc.com/health/how-serious-is-mexicos-measles-campaign) (Alltoc.com)
@@ -1722,8 +1712,6 @@ Source: [News API](https://newsapi.org/)
 - [Consider measles risks in spring break vacation plans, health officials urge Manitoba parents](https://www.cbc.ca/news/canada/manitoba/measles-spring-break-school-divisions-9.7139029) (CBC News)
 
 - [Measles Warning Issued for Western Sydney, Blue Mountains](https://www.ibtimes.com.au/measles-warning-issued-western-sydney-blue-mountains-1864104) (Ibtimes.com.au)
-
-- [Tsar Nicholas II’s Daughters Proudly Showing Their Bald Heads in 1917](https://www.vintag.es/2026/03/romanov-sisters-shaved-heads.html) (Vintag.es)
 
 ## 26-13 (malaria)
 
@@ -1780,8 +1768,6 @@ Source: [News API](https://newsapi.org/)
 - [SAG suspende certificación de exportaciones avícolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial](https://www.df.cl/regiones/sag-confirma-deteccion-del-primer-caso-positivo-de-influenza-aviar-h5n1-en) (Www.df.cl)
 
 - [Casos de influenza aviar se siguen extendiendo por el país: SAG confirma nuevos hallazgos en aves de Magallanes y del Maule](https://www.latercera.com/nacional/noticia/casos-de-influenza-aviar-se-siguen-extendiendo-por-el-pais-sag-confirma-nuevos-hallazgos-en-aves-de-magallanes-y-del-maule/) (Latercera.com)
-
-- [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
 
 ## 26-13 (dengue)
 
