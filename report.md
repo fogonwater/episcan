@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 9
-- **Last harvest:** 2026-05-02 19:26
-- **Most recent article:** 2026-05-01 19:08:50
+- **New articles in last harvest:** 3
+- **Last harvest:** 2026-05-03 07:39
+- **Most recent article:** 2026-05-02 06:10:03
 
 ---
 
@@ -10,23 +10,23 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-12 | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
-|--|-|-|-|-|-|-|-|-|
-| meningitis | 174 | 75 | 19 | 4 | 5 | 8 | 14 | 299 |
-| measles | 19 | 21 | 26 | 51 | 35 | 54 | 37 | 243 |
-| malaria | 19 | 14 | 9 | 14 | 9 | 59 | 25 | 149 |
-| dengue | 27 | 19 | 18 | 12 | 19 | 17 | 13 | 125 |
-| mpox | 12 | 4 | 19 | 9 | 16 | 3 | 11 | 74 |
-| rabies | 4 | 5 | 26 | 8 | 3 | 6 | 4 | 56 |
-| chikungunya | 7 | 8 | 11 | 3 | 6 | 4 | 4 | 43 |
-| h5n1 | 7 | 4 | 7 | 2 | 5 | 7 | 8 | 40 |
-| zika | 4 | 1 | 15 | 1 | 4 | 4 | 3 | 32 |
-| hpai | 1 | 6 | 2 | 2 | 1 | 0 | 4 | 16 |
-| yersinia | 1 | 1 | 0 | 1 | 0 | 4 | 1 | 8 |
-| pertussis | 0 | 1 | 0 | 0 | 1 | 4 | 1 | 7 |
-| leptospirosis | 3 | 1 | 0 | 1 | 1 | 1 | 0 | 7 |
-| typhoid | 0 | 1 | 1 | 0 | 3 | 0 | 1 | 6 |
-| shigellosis | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 2 |
+| Disease | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
+|--|-|-|-|-|-|-|-|
+| measles | 21 | 26 | 51 | 35 | 54 | 38 | 225 |
+| malaria | 14 | 9 | 14 | 9 | 59 | 25 | 130 |
+| meningitis | 73 | 19 | 4 | 5 | 8 | 15 | 124 |
+| dengue | 19 | 18 | 12 | 19 | 17 | 13 | 98 |
+| mpox | 4 | 19 | 9 | 16 | 3 | 11 | 62 |
+| rabies | 4 | 26 | 8 | 3 | 6 | 4 | 51 |
+| chikungunya | 8 | 11 | 3 | 6 | 4 | 4 | 36 |
+| h5n1 | 4 | 7 | 2 | 5 | 7 | 9 | 34 |
+| zika | 1 | 15 | 1 | 4 | 4 | 3 | 28 |
+| hpai | 6 | 2 | 2 | 1 | 0 | 4 | 15 |
+| pertussis | 1 | 0 | 0 | 1 | 4 | 1 | 7 |
+| yersinia | 1 | 0 | 1 | 0 | 4 | 1 | 7 |
+| typhoid | 0 | 1 | 0 | 3 | 0 | 1 | 5 |
+| leptospirosis | 1 | 0 | 1 | 1 | 1 | 0 | 4 |
+| shigellosis | 0 | 0 | 1 | 1 | 0 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
@@ -89,6 +89,8 @@ Source: [News API](https://newsapi.org/)
 
 ## 26-18 (meningitis)
 
+- [Muere una niña de 11 años en Ourense por una posible meningitis y la Xunta activa el protocolo de prevención](https://www.elmundo.es/galicia/2026/05/02/69f5952efdddff2c628b4586.html) (El Mundo)
+
 - [Sanidade subraya que activó de «forma inmediata» el protocolo antimeningitis tras la muerte de una niña de once años en Ourense](https://www.lavozdegalicia.es/noticia/ourense/ourense/2026/05/01/sanidade-subraya-activo-forma-inmediata-protocolo-antimeningitis-tras-muerte-nina-once-anos-ourense/00031777645465310270253.htm) (Lavozdegalicia.es)
 
 - [Sanidade activa el protocolo tras morir una niña en Ourense con posible meningitis y estudia sus contactos estrechos](https://www.europapress.es/galicia/noticia-sanidade-activa-protocolo-morir-nina-ourense-posible-meningitis-estudia-contactos-estrechos-20260501130732.html) (Europapress.es)
@@ -118,6 +120,8 @@ Source: [News API](https://newsapi.org/)
 - [Menace II Society actor Samuel Monroe Jr. on life support in hospital amid devastating health battle](https://www.dailymail.com/tvshowbiz/article-15769623/Menace-II-Society-Samuel-Monroe-Jr-life-support-meningitis.html) (Dailymail.com)
 
 ## 26-18 (measles)
+
+- [Millions Of Dollars Are Being Bet On Measles Outbreaks In The United States: Report](https://brobible.com/culture/article/millions-dollars-being-bet-measles-outbreaks/) (BroBible)
 
 - [22 more confirmed measles cases in Manitoba bring total to 519 this year](https://www.cbc.ca/news/canada/manitoba/manitoba-measles-cases-9.7184594) (CBC News)
 
@@ -256,6 +260,8 @@ Source: [News API](https://newsapi.org/)
 - [大阪学院大学大阪学院大学が「生成AI利用ガイドライン」を策定 ― 生成AIの適切な活用を通じ、学びの質向上と学術的誠実性の確保をめざす](https://japan.cnet.com/release/31164605/) (CNET)
 
 ## 26-18 (h5n1)
+
+- [44 peacock deaths in Karnataka’s Tumakuru linked to H5N1 avian influenza](https://timesofindia.indiatimes.com/city/bengaluru/44-peacock-deaths-in-karnatakas-tumakuru-linked-to-h5n1-avian-influenza/articleshow/130684490.cms) (The Times of India)
 
 - [44 मोरों की मौत से हड़कंप, H5N1 की पुष्टि, 10 किमी क्षेत्र में कंटेनमेंट जोन घोषित](https://www.aajtak.in/karnataka/story/tumakuru-karnataka-44-peacocks-death-h5n1-bird-flu-containment-zone-lclar-dskc-2539453-2026-05-01) (Aajtak.in)
 
@@ -1503,10 +1509,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Fis suppresses late-stage virulence gene expression in Yersinia pseudotuberculosis at environmental temperatures](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014105) (Plos.org)
 
-## 26-13 (typhoid)
-
-- [World Water Day 2026: Importance of Clean Water and Hydration for Health](https://www.metropolisindia.com/blog/preventive-healthcare/world-water-day) (Metropolisindia.com)
-
 ## 26-13 (rabies)
 
 - [Delivery of canine rabies vaccination programme in Kutupalong-Balukhali refugee camps, Cox’s Bazar, Bangladesh](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014143) (Plos.org)
@@ -1516,8 +1518,6 @@ Source: [News API](https://newsapi.org/)
 - [Sarawak tightens extensive system to control rabies](https://www.thestar.com.my/news/nation/2026/03/27/sarawak-tightens-extensive-system-to-control-rabies) (The Star Online)
 
 - [Ministry of Health: Jackal infected with rabies found in the Jordan Valley](https://www.israelnationalnews.com/flashes/680940) (Israelnationalnews.com)
-
-- [Sarawak reviewing strategies to strengthen rabies control](https://www.thestar.com.my/news/nation/2026/03/22/sarawak-reviewing-strategies-to-strengthen-rabies-control) (The Star Online)
 
 ## 26-13 (pertussis)
 
@@ -1681,10 +1681,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Meningitis outbreak: Total cases in Kent falls](https://news.sky.com/story/meningitis-outbreak-total-cases-in-kent-falls-13522977) (Sky.com)
 
-- [What’s behind Kent’s meningitis outbreak surge? #health](https://alltoc.com/health/whats-behind-kents-meningitis-outbreak-surge) (Alltoc.com)
-
-- [How fast did MenB vaccine rollout happen? #health](https://alltoc.com/health/how-fast-did-menb-vaccine-rollout-happen) (Alltoc.com)
-
 ## 26-13 (measles)
 
 - [How serious is Mexico’s measles campaign? #health](https://alltoc.com/health/how-serious-is-mexicos-measles-campaign) (Alltoc.com)
@@ -1844,583 +1840,3 @@ Source: [News API](https://newsapi.org/)
 - [En difficultés sur le chikungunya, la biotech Valneva joue son va-tout avec son vaccin contre la maladie de Lyme](https://www.challenges.fr/entreprise/sante/en-difficultes-sur-le-chikungunya-la-biotech-valneva-joue-son-va-tout-avec-son-vaccin-contre-la-maladie-de-lyme_642016) (Challenges)
 
 - [Vaccin contre le chikungunya : une vingtaine de cas d’effets indésirables graves](https://sante.ouest-france.fr/maladies/chikungunya/vaccin-contre-le-chikungunya-une-vingtaine-de-cas-deffets-indesirables-graves-065dcaec-26a3-11f1-aab7-85ef88fbd7c1) (Ouest-France)
-
-## 26-12 (zika)
-
-- [Characterization of arbovirus infections in patients within Haiti by screening discarded malaria rapid diagnostic test cassettes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014089) (Plos.org)
-
-- [Primo caso di dengue della stagione. Ecco i virus in arrivo](https://www.repubblica.it/salute/2026/03/20/news/primo_caso_dengue_stagione_virus_west_nile-425232410/) (La Repubblica)
-
-- [北おおさか信用金庫に感謝状を贈呈 豊中つばさ公園『ma-zika』整備に貢献](https://prtimes.jp/main/html/rd/p/000000970.000078420.html) (Prtimes.jp)
-
-- [„Fühlt sich hier sehr wohl“: Graz baut Maßnahmen gegen Asiatische Tigermücke aus](https://www.diepresse.com/20685013/graz-baut-massnahmen-gegen-asiatische-tigermuecke-aus) (Diepresse.com)
-
-## 26-12 (yersinia)
-
-- [A prospective cohort study to describe the morphology of buboes in patients with bubonic plague using ultrasound imaging](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014133) (Plos.org)
-
-## 26-12 (rabies)
-
-- [10-year-old boy is latest rabies victim in S'wak](https://www.thestar.com.my/news/nation/2026/03/21/10-year-old-boy-is-latest-rabies-victim-in-s039wak) (The Star Online)
-
-- [Varnar för hundköp – risk för rabies](https://www.aftonbladet.se/nyheter/a/pBPylE/varnar-for-hundkop-risk-for-rabies) (Aftonbladet.se)
-
-- [‘Do not wait for symptoms’: Noida doctor shares what to do immediately after a dog bite](https://economictimes.indiatimes.com/news/new-updates/do-not-wait-for-symptoms-noida-doctor-shares-what-to-do-immediately-after-a-dog-bite/articleshow/129661020.cms) (The Times of India)
-
-- [Cattle disease spreads in Russia amid scepticism over diagnosis](https://www.channelnewsasia.com/world/cattle-disease-spreads-in-russia-amid-scepticism-over-diagnosis-5998756) (CNA)
-
-## 26-12 (mpox)
-
-- [Ceará confirma terceiro caso de Mpox este ano](https://www.terra.com.br/noticias/ceara-confirma-terceiro-caso-de-mpox-este-ano,92fcf541df917e27d278c5202c30aa20os30zvtg.html) (Terra.com.br)
-
-- [Wellness expert reveals surprising health benefits of daily cold exposure: 'Huge difference'](https://www.foxnews.com/health/wellness-expert-reveals-surprising-health-benefits-daily-cold-exposure-huge-difference) (Fox News)
-
-- [Virus Mpox : une souche plus virulente apparaît à New York, faut-il s’inquiéter ?](https://www.presse-citron.net/virus-mpox-souche-virulente-apparait-new-york-faut-il-sinquieter/) (Presse-citron)
-
-- [OMS alerta sobre nova variante da mpox e falha do antiviral](https://www.metropoles.com/saude/oms-alerta-nova-variante-mpox-antiviral) (Metropoles.com)
-
-- [Mpox Clado Ib en Argentina: qué es, cómo se contagia y cuáles son los síntomas de la variante de la viruela símica](https://www.lanacion.com.ar/salud/mpox-clado-ib-en-argentina-que-es-como-se-contagia-y-cuales-son-los-sintomas-de-la-variante-de-la-nid17032026/) (La Nacion)
-
-- [Nova cepa do vírus da Mpox recombinante preocupa OMS e testes mostram que antiviral mais usado não é eficaz](https://super.abril.com.br/saude/nova-cepa-do-virus-da-mpox-recombinante-preocupa-oms-e-testes-mostram-que-antiviral-mais-usado-nao-e-eficaz/) (Abril.com.br)
-
-- [Viruela del mono en la Argentina: cuáles son los síntomas de la variante Mpox Clado Ib](https://www.lanacion.com.ar/sociedad/viruela-del-mono-en-la-argentina-cuales-son-los-sintomas-de-la-variante-mpox-clado-ib-nid17032026/) (La Nacion)
-
-- [Confirmaron el primer caso en la Argentina de Mpox Clado Ib, una variante más contagiosa y severa de la viruela símica](https://www.lanacion.com.ar/sociedad/confirmaron-el-primer-caso-en-la-argentina-de-mpox-clado-ib-una-variante-mas-contagiosa-y-severa-de-nid17032026/) (La Nacion)
-
-- [Mpox: nova variante resistente a remédio é encontrada](https://saude.ig.com.br/2026-03-16/mpox-nova-variante-resistente-a-remedio-e-encontrada.html) (Ig.com.br)
-
-- [First case of severe mpox disease reported in major city: ‘Life-threatening’](https://www.foxnews.com/health/first-case-severe-mpox-disease-reported-major-city-life-threatening) (Fox News)
-
-- [Casos de Mpox chegam a 149 em 2026 e acendem alerta sanitário](https://saude.ig.com.br/2026-03-16/casos-de-mpox-chegam-a-149-em-2026-e-acendem-alerta-sanitario.html) (Ig.com.br)
-
-- [Nova cepa do vírus da Mpox recombinante preocupa OMS e testes mostram que antiviral mais usado não é eficaz](https://www.terra.com.br/noticias/nova-cepa-do-virus-da-mpox-recombinante-preocupa-oms-e-testes-mostram-que-antiviral-mais-usado-nao-e-eficaz,e91774cb94cd1f69e3de394533acc16e93fs3nx0.html) (Terra.com.br)
-
-## 26-12 (meningitis)
-
-- [Nicht schon wieder ... - Ist Meningitis das neue Covid?](https://www.bild.de/news/ausland/infektionswelle-in-england-ist-meningitis-das-neue-covid-69bd157f8f5761671715960c) (Bild)
-
-- [Voldsomt meningitis-udbrud blandt unge: Smittetallet stiger yderligere](https://www.bt.dk/nyheder/voldsomt-meningitis-udbrud-blandt-unge-smittetallet-stiger-yderligere) (Www.bt.dk)
-
-- [UK meningitis outbreak cases rise to 34: official](https://www.channelnewsasia.com/world/uk-meningitis-outbreak-cases-rise-34-official-6009046) (CNA)
-
-- [How does the MenB Kent vaccine rollout work? #health](https://alltoc.com/health/how-does-the-menb-kent-vaccine-rollout-work) (Alltoc.com)
-
-- [How did meningitis outbreak become so explosive? #health](https://alltoc.com/health/how-did-meningitis-outbreak-become-so-explosive) (Alltoc.com)
-
-- [What strain was linked to Kent outbreak? #health](https://alltoc.com/health/what-strain-was-linked-to-kent-outbreak) (Alltoc.com)
-
-- [Meningitis cases rise to 34 from 29 in British county of Kent outbreak](https://www.thejournal.ie/meningitis-b-britain-kent-6991355-Mar2026/) (TheJournal.ie)
-
-- [Simple neck test that anyone can do at home to check if you have meningitis](https://www.ladbible.com/news/health/meningitis-neck-stiffness-test-uk-outbreak-759202-20260321) (LADbible)
-
-- [Towie star Jordan Brook reveals he has meningitis in update from hospital bed](https://www.the-independent.com/news/health/jordan-brook-towie-meningitis-outbreak-kent-b2943146.html) (The-independent.com)
-
-- [Meer dan twintig gevallen van meningitis in het VK, twee jongeren overleden](https://www.nrc.nl/nieuws/2026/03/21/meer-dan-twintig-gevallen-van-meningitis-in-het-vk-twee-jongeren-overleden-a4923645) (Www.nrc.nl)
-
-- [Luke O’Neill: As an unprecedented meningitis outbreak hits England, here’s what you need to know if it arrives here](https://www.independent.ie/opinion/comment/luke-oneill-as-an-unprecedented-meningitis-outbreak-hits-england-heres-what-you-need-to-know-if-it-arrives-here/a441093425.html) (Independent.ie)
-
-- [What caused Kent’s meningitis outbreak escalation? #health](https://alltoc.com/health/what-caused-kents-meningitis-outbreak-escalation) (Alltoc.com)
-
-- [How many people were affected in Kent? #health](https://alltoc.com/health/how-many-people-were-affected-in-kent) (Alltoc.com)
-
-- [U.K.’s deadly meningitis outbreak shows importance of vaccination](https://www.scientificamerican.com/article/u-k-s-deadly-meningitis-outbreak-shows-importance-of-vaccination/) (Scientific American)
-
-- [Un español en el epicentro del brote de meningitis B en Kent: "Ha sido un poco apocalíptico"](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/21/69be7c82e9cf4a815f8b45ad.html) (El Mundo)
-
-- [Meningitis cases rise to 34 in UK as students queue for third day for vaccines](https://www.irishtimes.com/health/2026/03/21/meningitis-cases-rise-to-34-in-uk-as-students-queue-for-third-day-for-vaccines/) (The Irish Times)
-
-- [Director of Public Health issues vaccine reminder, following Kent meningitis outbreak](https://sbuhb.nhs.wales/news/swansea-bay-health-news/director-of-public-health-issues-vaccine-reminder-following-kent-meningitis-outbreak/) (Nhs.wales)
-
-- [Un Erasmus español en el epicentro de meningitis de Kent: «Ha sido un poco apocalíptico»](https://www.lavozdegalicia.es/noticia/sociedad/2026/03/21/erasmusespanol-epicentro-meningitis-kent-poco-apocaliptico/00031774089353179111999.htm) (Lavozdegalicia.es)
-
-- [Meningitis cases rise as vaccine queues continue](https://www.bbc.com/news/articles/cg40ql71p9yo) (BBC News)
-
-- [Number of cases in UK meningitis outbreak rises to 34](https://www.rte.ie/news/uk/2026/0321/1564499-meningitis-uk/) (RTE)
-
-- [There are no meningitis restrictions in Canterbury - but something feels different](https://www.bbc.com/news/articles/c1mk092gmreo) (BBC News)
-
-- [Meningitis outbreak: Total cases rise to 34](https://news.sky.com/story/meningitis-outbreak-total-cases-rise-to-34-13522491) (Sky.com)
-
-- [How is MenB vaccine eligibility being considered? #health](https://alltoc.com/health/how-is-menb-vaccine-eligibility-being-considered) (Alltoc.com)
-
-- [What is happening in Kent’s MenB outbreak? #health](https://alltoc.com/health/what-is-happening-in-kents-menb-outbreak) (Alltoc.com)
-
-- [Meningitis strain in Kent outbreak has led to 12 deaths in Ireland in past five years](https://www.independent.ie/irish-news/meningitis-strain-in-kent-outbreak-has-led-to-12-deaths-in-ireland-in-past-five-years/a1396390330.html) (Independent.ie)
-
-- [How nightclub fun turned into a meningitis outbreak? Check doctor's advice on symptoms, risk & more](https://economictimes.indiatimes.com/news/international/world-news/how-nightclub-fun-turned-into-a-meningococcal-meningitis-outbreak-check-doctors-advice/articleshow/129712890.cms) (The Times of India)
-
-- [Kent meningitis outbreak triggers surge in UK vaccine demand, policy debate](https://economictimes.indiatimes.com/news/international/world-news/kent-meningitis-outbreak-triggers-surge-in-uk-vaccine-demand-policy-debate/articleshow/129712453.cms) (The Times of India)
-
-- [UK meningitis outbreak evokes COVID memories & horrible sight](https://economictimes.indiatimes.com/news/international/world-news/uk-meningitis-outbreak-evokes-covid-memories-horrible-sight/articleshow/129712388.cms) (The Times of India)
-
-- [Five questions that need answering about the meningitis outbreak](https://www.bbc.co.uk/news/articles/cz783d70x8ro) (BBC News)
-
-- [Five questions that still need answering about the meningitis outbreak](https://www.bbc.com/news/articles/cz783d70x8ro) (BBC News)
-
-- [El brote de meningitis que azota el sureste de Inglaterra llega al pico de contagios](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/21/69bd7343e4d4d82e3c8b4570.html) (El Mundo)
-
-- [What caused meningitis outbreak in Kent? #health](https://alltoc.com/health/what-caused-meningitis-outbreak-in-kent) (Alltoc.com)
-
-- [How will Kent MenB vaccine eligibility change? #health](https://alltoc.com/health/how-will-kent-menb-vaccine-eligibility-change) (Alltoc.com)
-
-- [What caused Kent meningitis outbreak spread? #health](https://alltoc.com/health/what-caused-kent-meningitis-outbreak-spread) (Alltoc.com)
-
-- [Experta destaca que la vacunación es la "medida más eficaz" frente a la meningitis, tras el brote en Reino Unido](https://www.infosalus.com/asistencia/noticia-experta-destaca-vacunacion-medida-mas-eficaz-frente-meningitis-brote-reino-unido-20260320185450.html) (Infosalus.com)
-
-- [Los afectados por meningitis en Reino Unido llegan a 29 mientras las vacunas se agotan](https://www.abc.es/sociedad/afectados-meningitis-reino-unido-llegan-vacunas-agotan-20260320185319-nt.html) (Www.abc.es)
-
-- [Thousands get meningitis vaccine as experts wait to see outbreak peak](https://www.bbc.com/news/articles/cj3752nn4v0o) (BBC News)
-
-- [El Ministerio de Sanidad se pronuncia sobre el brote de meningitis de Reino Unido: estas son las advertencias](https://www.mundodeportivo.com/pulso/20260320/1004156492/ministerio-sanidad-pronuncia-sobre-brote-meningitis-reino-unido-estas-advertencias-dct.html) (Mundodeportivo.com)
-
-- ['I feel so grateful to be alive': Meningitis survivor speaks to the BBC](https://www.bbc.com/news/videos/cp3ld6dq4d1o) (BBC News)
-
-- [This headache can kill in 24 hours. Here's what doctors want you to know](https://economictimes.indiatimes.com/magazines/panache/this-headache-can-kill-in-24-hours-heres-what-doctors-want-you-to-know/articleshow/129704060.cms) (The Times of India)
-
-- [Muere un adolescente de 15 años por meningitis en Don Benito (Badajoz)](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/20/69bd6f41e9cf4a727d8b45c0.html) (El Mundo)
-
-- [Meningitis-Ausbruch in Kent: Was man jetzt über Meningokokken wissen sollte](https://www.spektrum.de/news/meningitis-ausbruch-in-kent-was-man-ueber-meningokokken-wissen-sollte/2315873) (Spektrum.de)
-
-- [Meningitis in Kent](https://www.lrb.co.uk/blog/2026/march/meningitis-in-kent) (London Review of Books)
-
-- [Opsigtsvækkende: Meningitis-udbrud kan skyldes deling af vapes](https://www.bt.dk/nyheder/opsigtsvaekkende-meningitis-udbrud-kan-skyldes-deling-af-vapes) (Www.bt.dk)
-
-- [Meningitis could spread outside Kent in 'most likely' scenario, says health official](https://news.sky.com/story/meningitis-could-spread-outside-kent-in-most-likely-scenario-says-health-official-13522271) (Sky.com)
-
-- [What is invasive meningococcal disease and will the UK outbreak reach Ireland?](https://www.irishtimes.com/health/2026/03/20/what-is-invasive-meningococcal-disease-and-will-the-uk-outbreak-reach-ireland/) (The Irish Times)
-
-- [France reports meningitis death, says ‘no link’ to UK outbreak](https://www.politico.eu/article/france-reports-meningitis-death-says-no-link-to-uk-outbreak/) (POLITICO.eu)
-
-- [Zahl der Meningitis-Fälle in England steigt](https://orf.at/stories/3424451/) (Orf.at)
-
-- [Dr. Francisco Álvarez, sobre el brote de meningitis B en Reino Unido: "Hay algunos casos en que llegamos a tiempo, pero otros, aunque lleguen a tiempo al hospital pueden morirse o quedar con secuelas importantes"](https://www.hola.com/padres/20260320890817/brote-meningitis-recomendaciones-vacuna-meningitis-b-adolescentes-espana-entrevista/) (Hola)
-
-- [Los pediatras piden ampliar la vacuna de la meningitis B y la hepatitis A ante el repunte de casos en España](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/20/69bd3b1efdddff11328b4581.html) (El Mundo)
-
-- [Zahl der Meningitis-Fälle in England steigt](https://www.tagesschau.de/ausland/europa/meningitis-england-100.html) (tagesschau.de)
-
-- [How did Kent’s meningitis outbreak spread? #health](https://alltoc.com/health/how-did-kents-meningitis-outbreak-spread) (Alltoc.com)
-
-- [How many cases are linked to Kent? #health](https://alltoc.com/health/how-many-cases-are-linked-to-kent) (Alltoc.com)
-
-- [What is the MenB vaccine situation in UK Kent? #health](https://alltoc.com/health/what-is-the-menb-vaccine-situation-in-uk-kent) (Alltoc.com)
-
-- [What triggered Kent’s meningitis outbreak? #science](https://alltoc.com/science/what-triggered-kents-meningitis-outbreak) (Alltoc.com)
-
-- [Meningitis-Ausbruch: Müssen wir jetzt unsere Kinder impfen lassen?](https://www.brigitte.de/gesund/gesundheit/meningitis-ausbruch--muessen-wir-jetzt-unsere-kinder-impfen--14069062.html) (Brigitte.de)
-
-- [Number of meningitis cases in UK outbreak rises to 29](https://www.rte.ie/news/uk/2026/0320/1564331-uk-meningitis-cases/) (RTE)
-
-- [How serious is Kent’s meningitis outbreak? #health](https://alltoc.com/health/how-serious-is-kents-meningitis-outbreak) (Alltoc.com)
-
-- [Hirnhautentzündung - Das macht Meningitis B so tückisch](https://www.bild.de/leben-wissen/medizin/das-macht-meningitis-b-tueckischer-als-andere-meningitis-varianten-69bbfc42d225a75f4a234f2c) (Bild)
-
-- [Family of teenager who died after meningitis outbreak in UK call for better protection](https://www.thejournal.ie/teenager-died-meningitis-uk-kent-6990155-Mar2026/) (TheJournal.ie)
-
-- [Family of teen who died from meningitis outbreak issue desperate plea as they explain her first symptoms](https://www.ladbible.com/news/uk-news/meningitis-outbreak-uk-news-family-health-symptoms-infection-444954-20260320) (LADbible)
-
-- [I went to bed with a sore ear, meningitis put me in a coma](https://www.bbc.com/news/articles/c747lme8pg1o) (BBC News)
-
-- [What did the Kent meningitis outbreak prompt? #health](https://alltoc.com/health/what-did-the-kent-meningitis-outbreak-prompt) (Alltoc.com)
-
-- [How many meningitis cases were linked to Kent? #health](https://alltoc.com/health/how-many-meningitis-cases-were-linked-to-kent) (Alltoc.com)
-
-- [Family of teen who died in meningitis outbreak says loss is 'immeasurable'](https://www.bbc.com/news/articles/c2d8gjejrgpo) (BBC News)
-
-- [More meningitis vaccine centres to open after 100 students turned away](https://news.sky.com/story/meningitis-outbreak-more-vaccine-centres-to-open-after-100-students-turned-away-13522033) (Sky.com)
-
-- [Meningitis in Kent, and sonic hedgehogs](https://www.thenakedscientists.com/podcasts/naked-scientists-podcast/meningitis-kent-and-sonic-hedgehogs) (The Naked Scientists)
-
-- ['Unprecedented' Meningitis Outbreak in UK Spreads to 27 Cases](https://www.sciencealert.com/unprecedented-meningitis-outbreak-in-uk-spreads-to-27-cases) (ScienceAlert)
-
-- [Bacterial meningitis is deadly, but can also have life-altering long-term effects – new study](https://theconversation.com/bacterial-meningitis-is-deadly-but-can-also-have-life-altering-long-term-effects-new-study-278545) (The Conversation Africa)
-
-- [I caught meningitis at university - we were lucky there was no outbreak](https://www.bbc.com/news/articles/c1eqpz76jnno) (BBC News)
-
-- [UK meningitis outbreak cases rise to 27: official](https://japantoday.com/category/world/uk-meningitis-outbreak-cases-rise-to-27-official) (Japan Today)
-
-- [Huge queues for jabs as meningitis vaccination scheme expanded](https://www.bbc.com/news/articles/cwyk44px2j5o) (BBC News)
-
-- [Qué es la meningitis, la enfermedad que genera alarma en Gran Bretaña tras un brote “sin precedentes”](https://www.latercera.com/tendencias/noticia/que-es-la-meningitis-la-enfermedad-que-genera-alarma-en-gran-bretana-tras-un-brote-sin-precedentes/) (Latercera.com)
-
-- [Nine meningitis B cases confirmed in Ireland; HSE says ‘no evidence of increase or link’ to Kent outbreak](https://www.independent.ie/irish-news/nine-meningitis-b-cases-confirmed-in-ireland-hse-says-no-evidence-of-increase-or-link-to-kent-outbreak/a1294606306.html) (Independent.ie)
-
-- [Nightclub linked to outbreak 'won't open until people are safe' says owner](https://www.bbc.com/news/articles/cpw0wwgwkr1o) (BBC News)
-
-- [Zwei junge Menschen bereits gestorben: Weitere Meningitis-Fälle in England gemeldet](https://www.tagesspiegel.de/gesellschaft/panorama/zwei-junge-menschen-bereits-gestorben-weitere-meningitis-falle-in-england-gemeldet-15376650.html) (Der Tagesspiegel)
-
-- [Meningitis Outbreak Exposes UK's Decade-Long Gap in Protection](https://www.sciencealert.com/meningitis-outbreak-exposes-uks-decade-long-gap-in-protection) (ScienceAlert)
-
-- [Meningitiswelle in England: Zahl der erfassten Fälle steigt auf 27](https://www.stern.de/news/meningitiswelle-in-england--zahl-der-erfassten-faelle-steigt-auf-27-37236444.html) (STERN.de)
-
-- [Archbishop of Canterbury: Prayers with those impacted by meningitis outbreak](https://www.christiantoday.com/news/archbishop-of-canterbury-prayers-with-those-impacted-by-meningitis-outbreak) (Christiantoday.com)
-
-- [How to not freak out about meningitis, according to an expert](https://www.dazeddigital.com/life-culture/article/69923/1/meningitis-outbreak-uk-symptoms-vaccination?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=how-to-not-freak-out-about-meningitis-according-to-an-expert) (Dazed)
-
-- [Cases of meningitis in the UK expected to rise after ‘unusual outbreak’](https://www.thejournal.ie/meningitis-uk-6989000-Mar2026/) (TheJournal.ie)
-
-- [Mum claims daughter caught meningitis after sharing a vape amid ‘invasive’ outbreak killing two](https://www.ladbible.com/news/health/vape-meningitis-outbreak-uk-death-health-698508-20260317) (LADbible)
-
-- [UK meningitis cases likely to rise in 'unusual outbreak'](https://www.rte.ie/news/uk/2026/0319/1564099-meningitis-cases-uk/) (RTE)
-
-- [Kent meningitis outbreak contained, officials say #health](https://alltoc.com/health/kent-meningitis-outbreak-contained-officials-say) (Alltoc.com)
-
-- [Edinburgh uni student: 'I thought I was dying when I caught meningitis'](https://www.bbc.com/news/articles/c4g0g5ygm8go) (BBC News)
-
-- [Explainer: How protected is Ireland against ‘explosive’ UK meningitis B outbreak among young people?](https://www.independent.ie/irish-news/explainer-how-protected-is-ireland-against-explosive-uk-meningitis-b-outbreak-among-young-people/a1597186209.html) (Independent.ie)
-
-- [UK meningitis outbreak — should Europe be worried?](https://www.politico.eu/article/uk-meningitis-outbreak-should-europe-be-worried-united-kingdom/) (POLITICO.eu)
-
-- [How is the Kent meningitis outbreak being contained? #health](https://alltoc.com/health/how-is-the-kent-meningitis-outbreak-being-contained) (Alltoc.com)
-
-- [NiMet’s meningitis alert: Curbing a recurring tragedy](https://punchng.com/nimets-meningitis-alert-curbing-a-recurring-tragedy/) (The Punch)
-
-- [UK races to contain meningitis outbreak in Kent after two deaths](https://japantoday.com/category/world/uk-races-to-contain-meningitis-outbreak-in-kent-after-two-deaths2) (Japan Today)
-
-- [Watch: Why this 'unprecedented' outbreak isn't another Covid](https://www.bbc.com/news/videos/c5yqyq1jgneo) (BBC News)
-
-- [Risk of meningitis spreading through Europe ‘very low’ despite fatal outbreak in England](https://www.irishtimes.com/health/2026/03/18/risk-of-meningitis-spreading-through-europe-very-low-despite-fatal-outbreak-in-england/) (The Irish Times)
-
-- [Krankheiten: Meningitis-Ausbruch in Kent: Auch Fall in Frankreich](https://www.tagesspiegel.de/wissen/krankheiten-meningitis-ausbruch-in-kent-auch-fall-in-frankreich-15374523.html) (Der Tagesspiegel)
-
-- [Krankheiten: Meningitis-Ausbruch in Kent: Auch Fall in Frankreich](https://www.zeit.de/news/2026-03/18/meningitis-ausbruch-in-kent-auch-fall-in-frankreich) (Die Zeit)
-
-- [Why did Kent meningitis outbreak surge fast? #health](https://alltoc.com/health/why-did-kent-meningitis-outbreak-surge-fast) (Alltoc.com)
-
-- [How serious is MenB meningitis in Kent? #health](https://alltoc.com/health/how-serious-is-menb-meningitis-in-kent) (Alltoc.com)
-
-- [„Es ist wie Covid 2.0“: Schülerin und Student sterben bei Meningitiswelle in England](https://www.tagesspiegel.de/internationales/es-ist-wie-covid-20-schulerin-und-student-sterben-bei-meningitiswelle-in-england-15374384.html) (Der Tagesspiegel)
-
-- [Why is this meningitis outbreak so explosive?](https://www.bbc.com/news/articles/cqlglkprv0qo) (BBC News)
-
-- [An 'explosive' meningitis B outbreak has killed two students in the UK. What are the symptoms?](https://www.thejournal.ie/meningitis-b-kent-england-outbreak-6988247-Mar2026/) (TheJournal.ie)
-
-- [Meningitiswelle in England: Premier ruft Club-Besucher zu Antibiotika-Behandlung auf](https://www.stern.de/news/meningitiswelle-in-england--premier-ruft-club-besucher-zu-antibiotika-behandlung-auf-37233664.html) (STERN.de)
-
-- [„Beispielloser“ Meningitis-Ausbruch in England weitet sich aus](https://www.diepresse.com/20687945/beispielloser-meningitis-ausbruch-in-england-weitet-sich-aus) (Diepresse.com)
-
-- [Kent’s meningitis outbreak was years in the making – here’s why](https://theconversation.com/kents-meningitis-outbreak-was-years-in-the-making-heres-why-278003) (The Conversation Africa)
-
-- [Number of suspected meningitis cases rises in UK outbreak](https://www.hurriyetdailynews.com/number-of-suspected-meningitis-cases-rises-in-uk-outbreak-220095) (Hurriyet Daily News)
-
-- [Storbritannien starter vaccination af studerende efter meningitisudbrud](https://www.bt.dk/udland/storbritannien-starter-vaccination-af-studerende-efter-meningitisudbrud) (Www.bt.dk)
-
-- [Qué es la meningitis, el trastorno que ha provocado la muerte de dos estudiantes en Reino Unido y una epidemia "sin precedentes"](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/18/69ba731b21efa07d128b45a3.html) (El Mundo)
-
-- [Officials reassure parents suspected meningitis case not linked to outbreak](https://www.bbc.com/news/articles/cy0d0w2ynw2o) (BBC News)
-
-- [Number of suspected meningitis cases rises in UK outbreak: Official](https://www.channelnewsasia.com/world/number-suspected-meningitis-cases-rises-in-uk-outbreak-official-6001236) (CNA)
-
-- [Meningitis cases in Kent rise amid 'explosive' outbreak](https://www.rte.ie/news/uk/2026/0318/1563909-meningitis-kent/) (RTE)
-
-- [The 8 at 8: Wednesday](https://www.thejournal.ie/morning-news-rundown-wednesday-march-6988083-Mar2026/) (TheJournal.ie)
-
-- [Skræmmende udbrud i Storbritannien: Antallet stiger voldsomt](https://www.bt.dk/udland/skraemmende-udbrud-i-storbritannien-antallet-stiger-voldsomt) (Www.bt.dk)
-
-- [Vaccine drive targets 'super-spreader' event after meningitis kills two people at UK university](https://www.thejournal.ie/university-of-kent-meningitis-outbreak-6988065-Mar2026/) (TheJournal.ie)
-
-- [Watch: Mother 'absolutely shocked' to find daughter had meningitis](https://www.bbc.com/news/videos/crk8k608g18o) (BBC News)
-
-- [Today in Sweden: A roundup of the latest news on Wednesday](https://www.thelocal.se/20260318/today-in-sweden-a-roundup-of-the-latest-news-on-wednesday-238) (The Local Sweden)
-
-- [People most at risk of contracting meningitis as 'unprecedented' outbreak now a 'national incident'](https://www.ladbible.com/news/health/meningitis-outbreak-national-incident-uk-health-kent-university-569359-20260318) (LADbible)
-
-- [What is causing the meningitis outbreak in Kent? #health](https://alltoc.com/health/what-is-causing-the-meningitis-outbreak-in-kent) (Alltoc.com)
-
-- ['Unprecedented' meningitis outbreak being treated as national incident](https://news.sky.com/story/meningitis-outbreak-being-treated-as-national-incident-as-health-secretary-warns-spread-is-unprecedented-13521053) (Sky.com)
-
-- [Hospitalised woman describes her meningitis symptoms](https://www.bbc.com/news/videos/c8xyxejx82qo) (BBC News)
-
-- [Was response to 'unprecedented' meningitis outbreak too slow?](https://www.bbc.com/news/articles/cjd9dk2v0z3o) (BBC News)
-
-- [Why is there a meningitis outbreak in Kent? #health](https://alltoc.com/health/why-is-there-a-meningitis-outbreak-in-kent) (Alltoc.com)
-
-- [Dos muertos en una epidemia de meningitis «sin precedentes» en Inglaterra](https://www.abc.es/internacional/dos-muertos-epidemia-meningitis-precedentes-inglaterra-20260317172552-nt.html) (Www.abc.es)
-
-- [Preocupación en Inglaterra: una epidemia de meningitis "sin precedentes" deja dos estudiantes muertos](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/17/69b97d14fdddffce598b459b.html) (El Mundo)
-
-- [Zwei Tote: Meningitis-Ausbruch in England beunruhigt Behörden](https://www.morgenpost.de/politik/article411485122/zwei-tote-meningitis-ausbruch-in-england-beunruhigt-behoerden.html) (Berliner Morgenpost)
-
-- [Meningitis-Welle in England - Wer sich jetzt noch impfen lassen kann](https://www.bild.de/leben-wissen/medizin/2-tote-durch-meningitis-welle-das-bringt-die-impfung-69b933d9e3715988144619bb) (Bild)
-
-- [Meningitis-Ausbruch in England: Hunderte sollen vorbeugend Antibiotika einnehmen](https://www.stern.de/news/meningitis-ausbruch-in-england--hunderte-sollen-vorbeugend-antibiotika-einnehmen-37230138.html) (STERN.de)
-
-- [Health Secretary shares warning about how ‘unprecedented’ meningitis could be spreading](https://www.ladbible.com/news/uk-news/uk-meningitis-outbreak-warning-spreading-kiss-vapes-drinks-kent-437137-20260317) (LADbible)
-
-- [Kent students to be offered jab after meningitis outbreak](https://www.rte.ie/news/2026/0317/1563835-meningitis-uk/) (RTE)
-
-- [Meningitis kills two, hospitalises 13 in UK](https://punchng.com/meningitis-kills-two-hospitalises-13-in-uk/) (The Punch)
-
-- [Streeting Announces “Targeted” Vaccination Plan for “Unprecedented” Meningitis Outbreak](https://order-order.com/2026/03/17/streeting-announces-targeted-vaccination-plan-for-unprecedented-meningitis-outbreak/) (Order-order.com)
-
-- [Parents of teen who died in 2025 call for more government support](https://www.bbc.com/news/videos/cq6qenv7vmvo) (BBC News)
-
-- [How are officials containing the Kent meningitis outbreak? #health](https://alltoc.com/health/how-are-officials-containing-the-kent-meningitis-outbreak) (Alltoc.com)
-
-- [Experts answer your questions on the outbreak](https://www.bbc.com/news/articles/c75e20l4yzwo) (BBC News)
-
-- [Gefährliche Bakterien: Meningitis-Ausbruch in Kent - Hunderte erhalten Antibiotika](https://www.zeit.de/news/2026-03/17/meningitis-ausbruch-in-kent-hunderte-erhalten-antibiotika) (Die Zeit)
-
-- [Gefährliche Bakterien: Meningitis-Ausbruch in Kent - Hunderte erhalten Antibiotika](https://www.stern.de/panorama/wissen/gefaehrliche-bakterien--meningitis-ausbruch-in-kent---hunderte-erhalten-antibiotika-37229014.html) (STERN.de)
-
-- [Un brote mortal de meningitis obliga a la universidad inglesa de Kent a suspender exámenes presenciales: hay dos fallecidos](https://www.elespanol.com/mundo/europa/20260317/brote-mortal-meningitis-obliga-universidad-inglesa-kent-suspender-examenes-presenciales-fallecidos/1003744172821_0.html) (Elespanol.com)
-
-- [Inside Health](https://www.bbc.co.uk/sounds/play/m002sn3q) (BBC News)
-
-- [‘Devastated’ family speak out after daughter, 18, dies in Meningitis outbreak](https://www.ladbible.com/news/health/family-speak-out-daughter-kent-meningitis-outbreak-death-127173-20260317) (LADbible)
-
-- [Ausbruch in Großbritannien - Tausende müssen zum Meningitis-Test](https://www.bild.de/news/ausland/ausbruch-in-grossbritannien-tausende-muessen-zum-meningitis-test-69b9126f56ad962f523d2e46) (Bild)
-
-- [Mueren dos jóvenes por un brote de meningitis en Reino Unido: hay 11 hospitalizados y la Universidad de Kent suspende los exámenes](https://www.huffingtonpost.es/life/salud/mueren-dos-jovenes-brote-meningitis-reino-unido-hay-11-hospitalizados-universidad-kent-suspende-examenes-f202603.html) (Huffingtonpost.es)
-
-- [Father of teen who died of meningitis says family are 'beyond devastated'](https://www.bbc.com/news/articles/cev7rl437epo) (BBC News)
-
-- [Meningitis strain behind outbreak leaving two dead identified as officials race to prevent nationwide spread](https://www.ladbible.com/news/uk-news/meningitis-uk-outbreak-two-deaths-592018-20260317) (LADbible)
-
-- [Why young people are more at risk of spreading meningitis – and is there a vaccine?](https://www.the-independent.com/life-style/health-and-families/health-news/meningococcal-meningitis-outbreak-vaccine-symptoms-b2939878.html) (The-independent.com)
-
-- [Why is meningitis spreading at the University of Kent? #health](https://alltoc.com/health/why-is-meningitis-spreading-at-the-university-of-kent) (Alltoc.com)
-
-- [Meningitis outbreak: Canterbury woman, 22, 'catches disease from sharing vape on super-spreader night out'](https://www.gbnews.com/health/meningitis-outbreak-canterbury-woman-catches-disease-sharing-vape) (Gbnews.com)
-
-- [Meningitis outbreak: Iran war 'may spark medicine shortage' just as UK scrambles to contain deadly disease](https://www.gbnews.com/health/meningitis-outbreak-iran-war-medicine-shortage-disease-kent-university) (Gbnews.com)
-
-- [What is happening in the Kent meningitis outbreak? #health](https://alltoc.com/health/what-is-happening-in-the-kent-meningitis-outbreak) (Alltoc.com)
-
-- [Guía esencial sobre la meningitis: de la detección temprana a la importancia de vacunarse](https://www.montevideo.com.uy/Modo-saludable/Guia-esencial-sobre-la-meningitis-de-la-deteccion-temprana-a-la-importancia-de-vacunarse-uc956138) (Montevideo.com.uy)
-
-- [Meningitis-Ausbruch an Universität und Schule – zwei Tote, mehrere Infizierte](https://www.welt.de/vermischtes/article69b82c3dd64ac9417f490140/grossbritannien-meningitis-ausbruch-an-universitaet-und-schule-zwei-tote-mehrere-infizierte.html) (DIE WELT)
-
-- [Why is meningitis spreading in Kent? #health](https://alltoc.com/health/why-is-meningitis-spreading-in-kent) (Alltoc.com)
-
-- [Studerende i kø til antibiotika efter dødsfald i meningitis-udbrud](https://www.dr.dk/nyheder/seneste/studerende-i-koe-til-antibiotika-efter-doedsfald-i-meningitis-udbrud) (Www.dr.dk)
-
-- [Why young people are more at risk of spreading meningitis – and is there a vaccine?](https://www.the-independent.com/life-style/health-and-families/health-news/kent-meningitis-vaccine-symptoms-outbreak-spread-b2939636.html) (The-independent.com)
-
-- [Kent meningitis outbreak a cruel reminder young people most at risk](https://news.sky.com/story/kent-meningitis-outbreak-a-cruel-reminder-young-people-are-most-at-risk-13520607) (Sky.com)
-
-- [Deadly campus meningitis outbreak in the U.K. kills 2, sickens many more](https://www.scientificamerican.com/article/deadly-campus-meningitis-outbreak-in-the-uk-kills-2-sickens-many-more/) (Scientific American)
-
-- [Kent meningitis outbreak: what students need to know](https://theconversation.com/kent-meningitis-outbreak-what-students-need-to-know-278449) (The Conversation Africa)
-
-- [Kent meningitis outbreak: Two dead, 11 others infected in outbreak linked to English university](https://www.cnn.com/2026/03/16/health/uk-meningitis-outbreak-deaths-scli-intl) (CNN)
-
-- [To døde i invasivt meningitis-udbrud: Tester massivt](https://www.bt.dk/udland/to-doede-i-invasivtmeningitis-udbrud-tester-massivt) (Www.bt.dk)
-
-- [¿Qué es la meningitis? Síntomas de alerta, medidas de prevención y qué vacunas integran el esquema](https://www.elpais.com.uy/informacion/salud/que-es-la-meningitis-sintomas-de-alerta-medidas-de-prevencion-y-que-vacunas-integran-el-esquema) (Diario EL PAIS Uruguay)
-
-- [Two people have died from bacterial meningitis in the UK. An expert answers your questions](https://theconversation.com/two-people-have-died-from-bacterial-meningitis-in-the-uk-an-expert-answers-your-questions-278434) (The Conversation Africa)
-
-- [Murió una niña de 5 años por meningitis; escuela 182 de Flor de Maroñas está cerrada por luto](https://www.elpais.com.uy/informacion/salud/murio-una-nina-de-5-anos-por-meningitis-escuela-182-de-flor-de-maronas-esta-cerrada-por-luto) (Diario EL PAIS Uruguay)
-
-- [Schoolgirl who died from meningitis remembered as 'kind and thoughtful'](https://news.sky.com/story/schoolgirl-who-died-from-meningitis-remembered-as-kind-thoughtful-and-intelligent-13520521) (Sky.com)
-
-- [First symptoms of meningitis as two die and 11 seriously ill following UK outbreak](https://www.ladbible.com/news/health/meningitis-first-symptoms-uk-outbreak-696533-20260316) (LADbible)
-
-- [Why young people are more at risk of spreading meningitis – and is there a vaccine?](https://www.the-independent.com/life-style/health-and-families/health-news/meningitis-vaccine-symptoms-kent-outbreak-spread-b2939322.html) (The-independent.com)
-
-- [Meningitis symptoms explained as professor describes ‘great concern’ over Kent outbreak](https://www.gbnews.com/health/meningitis-symptoms-outbreak-kent-professor) (Gbnews.com)
-
-- [Meningitis: MSP activó protocolo sanitario en escuela tras muerte de niña de 5 años](https://www.montevideo.com.uy/Noticias/Meningitis-MSP-activo-protocolo-sanitario-en-escuela-tras-muerte-de-nina-de-5-anos-uc956044) (Montevideo.com.uy)
-
-- [Two young people die following UK meningitis outbreak](https://www.rte.ie/news/uk/2026/0316/1563668-meningitis-uk/) (RTE)
-
-- [Großbritannien: Schwerer Meningitis-Ausbruch in Kent – zwei Tote und viele Erkrankte](https://www.stern.de/panorama/schwerer-meningitis-ausbruch-in-kent---zwei-tote-und-viele-erkrankte-37225250.html) (STERN.de)
-
-- [Meningitis outbreak: What you need to know](https://www.bbc.com/news/articles/c7432klgyldo) (BBC News)
-
-- [School confirms pupil died in Kent meningitis outbreak](https://www.bbc.com/news/articles/cp9mdxz4dd2o) (BBC News)
-
-- [Two dead and 11 infected from ‘invasive’ meningitis outbreak](https://www.ladbible.com/news/uk-news/meningitis-outbreak-two-dead-kent-036487-20260316) (LADbible)
-
-- [What are the symptoms of meningitis and can it be treated?](https://news.sky.com/story/meningitis-the-symptoms-treatments-and-how-to-find-out-if-you-need-the-vaccine-13520397) (Sky.com)
-
-- [Dos muertos tras un brote de meningitis con 13 casos en la universidad británica de Kent](https://www.elmundo.es/ciencia-y-salud/salud/2026/03/16/69b7b7f4e85ece21648b457b.html) (El Mundo)
-
-- [Why did meningitis hit University of Kent? #health](https://alltoc.com/health/why-did-meningitis-hit-university-of-kent) (Alltoc.com)
-
-- [30.000 kontaktet efter sygdomsudbrud på universitet: To døde og 11 indlagt](https://www.bt.dk/udland/30000-kontaktet-efter-sygdomsudbrud-paa-universitet-to-doede-og-11-indlagt) (Www.bt.dk)
-
-- [Two people die in meningitis outbreak in Kent](https://news.sky.com/story/two-people-die-in-meningitis-outbreak-in-kent-13520252) (Sky.com)
-
-- [Two students die in university meningitis outbreak](https://www.bbc.com/news/articles/cdxg35dv7npo) (BBC News)
-
-## 26-12 (measles)
-
-- [A Model For HHS: New Mexico Measles Outbreak Was Curtailed With Mass Vaccination Campaign](https://www.techdirt.com/2026/03/20/a-model-for-hhs-new-mexico-measles-outbreak-was-curtailed-with-mass-vaccination-campaign/) (Techdirt)
-
-- [Manitoba eclipses 2025 measles totals early in 2026, with 28 more confirmed cases in latest update](https://www.cbc.ca/news/canada/manitoba/measles-cases-increase-march-20-2026-9.7136793) (CBC News)
-
-- [Brandon mayor defends upcoming Royal Manitoba Winter Fair after event at same site led to measles outbreak](https://www.cbc.ca/news/canada/manitoba/royal-manitoba-winter-fair-measles-mayor-vaccination-9.7135134) (CBC News)
-
-- [Friday essay: my mother survived polio – stories like hers show why vaccination matters](https://theconversation.com/friday-essay-my-mother-survived-polio-stories-like-hers-show-why-vaccination-matters-272443) (The Conversation Africa)
-
-- [Heading to Bali, Vietnam or Thailand? Why a measles vaccine is more important than ever](https://theconversation.com/heading-to-bali-vietnam-or-thailand-why-a-measles-vaccine-is-more-important-than-ever-278310) (The Conversation Africa)
-
-- [麻しん（はしか）に注意 | 日本感染症学会](https://www.kansensho.or.jp/jaid_measles_warning/jaid_measles_warning-2.html) (Kansensho.or.jp)
-
-- [Measles confirmed in Weld County resident, possible exposure in Loveland](https://www.denverpost.com/2026/03/18/colorado-measles-weld-loveland-uchealth/) (The Denver Post)
-
-- [Latvia records first measles outbreak since 2018](https://www.thestar.com.my/news/world/2026/03/19/latvia-records-first-measles-outbreak-since-2018) (The Star Online)
-
-- [Vaccine Policy Failure Is a National Security Risk](https://time.com/article/2026/03/17/america-vaccine-policy-is-a-national-security-risk/) (Time)
-
-- [Two measles cases identified at hospital in central Israel](https://www.israelnationalnews.com/news/424165) (Israelnationalnews.com)
-
-- [Unvaccinated 17-year-old dies from Measles](https://www.israelnationalnews.com/flashes/679931) (Israelnationalnews.com)
-
-- [בן 17 שלא חוסן נפטר מחצבת - הקורבן המבוגר ביותר בגל הנוכחי](https://www.ynet.co.il/health/article/bj6gjh89zl) (Ynet)
-
-- [Gov't calls for isolation of measles cases during Eid travel](https://en.antaranews.com/news/408862/govt-calls-for-isolation-of-measles-cases-during-eid-travel) (Antaranews.com)
-
-- [With Midterms Looming, Trump’s Pick for Surgeon General Suddenly Thinks Measles Vaccines Are a Good Idea](https://gizmodo.com/with-midterms-looming-trumps-pick-for-surgeon-general-suddenly-thinks-measles-vaccines-are-a-good-idea-2000733948) (Gizmodo.com)
-
-- [Why is measles spreading again in the UK and US? #health](https://alltoc.com/health/why-is-measles-spreading-again-in-the-uk-and-us) (Alltoc.com)
-
-- [After nearly a year, measles outbreak in northeast B.C. shows signs of slowing down](https://www.cbc.ca/news/canada/british-columbia/northeast-bc-measles-outbreak-slow-down-9.7128288) (CBC News)
-
-- [Local health officials: No reason for elevated worry about measles](https://www.weirtondailytimes.com/news/local-news/2026/03/local-health-officials-no-reason-for-elevated-worry-about-measles/) (Weirtondailytimes.com)
-
-- [はしかの流行は深刻な健康被害をもたらすだけでなく国家に大きな経済的損失も与えるとの指摘](https://news.livedoor.com/article/detail/30775370/) (Livedoor.com)
-
-- [Measles patient identified at major synagogue in Bnei Brak](https://www.israelnationalnews.com/news/423994) (Israelnationalnews.com)
-
-## 26-12 (malaria)
-
-- [Nei Dna dei sardi un gene che protegge dalla malaria](https://www.ansa.it/canale_scienza/notizie/biotech/2026/03/21/nei-dna-dei-sardi-un-gene-che-protegge-dalla-malaria_4b655a6e-e413-4b63-9344-70fc50a0a6d2.html) (ANSA.it)
-
-- [21 Absolute Medical Mysteries Doctors Still Can't Figure Out About The Human Body](https://www.buzzfeed.com/sienaegiljum/medical-mysteries-doctors-dont-understand) (Buzzfeed)
-
-- [Characterization of arbovirus infections in patients within Haiti by screening discarded malaria rapid diagnostic test cassettes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014089) (Plos.org)
-
-- [Malaria parasitemia and its association with liver function parameters, and lipid profile among malaria-infected adult patients in western Ethiopia: A comparative cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0345059) (Plos.org)
-
-- [Scientists discover tiny rocket engines inside malaria parasites](https://www.sciencedaily.com/releases/2026/03/260318033111.htm) (Science Daily)
-
-- [Malaria!: Bettina Köster ist tot](https://laut.de/News/Malaria!-Bettina-Koester-ist-tot-19-03-2026-21660) (Laut.de)
-
-- [„Kaltes klares Wasser“: Musikerin Bettina Köster ist tot](https://www.stern.de/lifestyle/leute/bettina-koester--musikerin-im-alter-von-66-jahren-gestorben-37234292.html) (STERN.de)
-
-- [Westberliner Kultband: Trauer um Bettina Köster: Malaria!-Sängerin wurde 66 Jahre alt](https://www.n-tv.de/leute/Trauer-um-Bettina-Koester-Malaria-Saengerin-wurde-66-Jahre-alt-id30486780.html) (N-tv.de)
-
-- [Malaria resurgence feared as Africa faces funding decline](https://punchng.com/malaria-resurgence-feared-as-africa-faces-funding-decline/) (The Punch)
-
-- [Trauer um Bettina Köster: Malaria!-Sängerin wurde 66 Jahre alt](https://www.stern.de/lifestyle/leute/trauer-um-bettina-koester--malaria--saengerin-wurde-66-jahre-alt-37234636.html) (STERN.de)
-
-- [Sängerin der Band Malaria!: Bettina Köster ist im Alter von 66 Jahren gestorben](https://www.focus.de/kultur/stars/saengerin-der-band-malaria-bettina-koester-ist-im-alter-von-66-jahren-gestorben_f8c8c65f-f128-49df-878b-36d9dbdc0af7.html) (Focus)
-
-- [Ihr Hit war „Kaltes, klares Wasser“ - NDW-Ikone (†66) stirbt in Italien](https://www.bild.de/unterhaltung/musik/neue-deutsche-welle-malaria-ikone-bettina-koester-stirbt-in-italien-69baca103f652f40929618f7) (Bild)
-
-- [„Kaltes klares Wasser“: Musikerin Bettina Köster ist tot](https://www.stern.de/lifestyle/leute/musikerin-bettina-koester-im-alter-von-66-jahren-gestorben-37234292.html) (STERN.de)
-
-- [Nachruf auf Musikerin Bettina Köster: Klare und kalte Königin des Noise](https://taz.de/Nachruf-auf-Musikerin-Bettina-Koester/!6163635/) (taz.de)
-
-- [Zum Tod von Bettina Köster: Legende der West-Berliner Postpunk-Szene](https://www.tagesspiegel.de/kultur/zum-tod-von-bettina-koster-legende-der-west-berliner-postpunk-szene-15372388.html) (Der Tagesspiegel)
-
-- [Coinfection with malaria alters the fecundity and within-host persistence of an intestinal nematode](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013564) (Plos.org)
-
-- [LL-37 selectively targets Plasmodium-infected erythrocytes and exhibits antimalarial activity](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1014062) (Plos.org)
-
-- [Assessing the impact of climate and control interventions on spatio-temporal malaria dynamics using a stochastic metapopulation model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014004) (Plos.org)
-
-- [Suitable ecological niches of invasive malaria vector under present and projected climatic conditions in South of Iran](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014054) (Plos.org)
-
-## 26-12 (leptospirosis)
-
-- [Perú reporta cuarta muerte por leptospirosis, segunda en frontera con Ecuador](https://www.elcomercio.com/actualidad/mundo/peru-reporta-cuarta-muerte-leptospirosis-segunda-frontera-ecuador/) (Elcomercio.com)
-
-- [Why is possum urine toxic?](https://www.lifesciencesworld.com/why-is-possum-urine-toxic/) (Lifesciencesworld.com)
-
-- [Brigadas médicas y sueros antialacrán: El plan de intervención integral del Ministerio de Salud en Taisha](https://www.elcomercio.com/actualidad/ecuador/brigadas-medicas-y-sueros-antialacran-el-plan-de-intervencion-integral-del-ministerio-de-salud-en-taisha/) (Elcomercio.com)
-
-## 26-12 (hpai)
-
-- [Research: Highly pathogenic avian influenza: audit of vaccination of commercial ducks in France](https://www.gov.uk/government/publications/highly-pathogenic-avian-influenza-audit-of-vaccination-of-commercial-ducks-in-france) (Www.gov.uk)
-
-## 26-12 (h5n1)
-
-- [전북 장수 오리 농장서 고병원성 AI 확진···전국 60번째](https://www.khan.co.kr/article/202603212137001) (Khan.co.kr)
-
-- [Senapred declara alerta temprana preventiva en La Araucanía por detección de influenza aviar H5N1 en aves de corral](https://www.latercera.com/nacional/noticia/senapred-declara-alerta-temprana-preventiva-en-la-araucania-por-deteccion-de-influenza-aviar-h5n1-en-aves-de-corral/) (Latercera.com)
-
-- [Estudo lista ações para evitar surtos de H5N1 em mamíferos marinhos](https://www.metropoles.com/ciencia/surtos-h5n1-mamiferos-marinhos-america) (Metropoles.com)
-
-- [केरलम में बर्ड फ्लू का कोहराम, 20 हजार पक्षियों को मारने का आदेश](https://www.aajtak.in/india/news/story/alappuzha-kozhikode-bird-flu-alert-h5n1-confirmed-in-kerala-ntc-dhrj-dskc-2501571-2026-03-19) (Aajtak.in)
-
-- [Kerala bird flu scare: Nearly 6,000 birds to be culled from March 21. Authorities on high alert](https://economictimes.indiatimes.com/news/new-updates/kerala-bird-flu-scare-nearly-6000-birds-to-be-culled-from-march-21-authorities-on-high-alert/articleshow/129675665.cms) (The Times of India)
-
-- [SAG confirma un nuevo caso de influenza aviar H5N1 en Chile](https://www.latercera.com/pulso/noticia/confirma-un-nuevo-caso-de-influenza-aviar-h5n1-en-chile/) (Latercera.com)
-
-- [SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la Región Metropolitana](https://www.cnnchile.com/pais/sag-confirma-caso-influenza-aviar-aves-de-traspatio-region-metropolitana_20260318/) (Cnnchile.com)
-
-## 26-12 (dengue)
-
-- [Felipeh Campos fala após internação: “Foi um susto grande”](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-fala-apos-internacao-foi-um-susto-grande) (Metropoles.com)
-
-- [Temperature, Larval Diet, and Density Effects on Development Rate and Survival of Aedes aegypti (Diptera: Culicidae)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0087468) (Plos.org)
-
-- [Felipeh Campos toma atitude após boatos sobre saúde e atualiza quadro](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-toma-atitude-apos-boatos-sobre-saude-e-atualiza-quadro) (Metropoles.com)
-
-- [Internado, quadro de Felipeh Campos piorou devido a conduta errada: 'Com hemorragia'](https://www.terra.com.br/diversao/gente/internado-quadro-de-felipeh-campos-piorou-devido-a-conduta-errada-com-hemorragia,363f8af302d4746380fd7bdc1df887f6y8tecsgz.html) (Terra.com.br)
-
-- [O que o caso da internação de Felipeh Campos revela sobre os sinais graves de doença](https://veja.abril.com.br/saude/o-que-o-caso-de-felipeh-campos-revela-sobre-os-sinais-de-doenca/) (Abril.com.br)
-
-- [Segnalati casi di virus Dengue in Friuli Venezia Giulia](https://www.ansa.it/friuliveneziagiulia/notizie/2026/03/20/segnalati-casi-di-virus-dengue-in-friuli-venezia-giulia_f5535224-fb65-4b12-8566-1bc903ffed86.html) (ANSA.it)
-
-- [Characterization of arbovirus infections in patients within Haiti by screening discarded malaria rapid diagnostic test cassettes](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014089) (Plos.org)
-
-- [Primo caso di dengue della stagione. Ecco i virus in arrivo](https://www.repubblica.it/salute/2026/03/20/news/primo_caso_dengue_stagione_virus_west_nile-425232410/) (La Repubblica)
-
-- [Ratinho manda recado após Felipeh Campos ser internado em estado crítico](https://www.metropoles.com/colunas/fabia-oliveira/ratinho-manda-recado-apos-felipeh-campos-ser-internado-em-estado-critico) (Metropoles.com)
-
-- [Felipeh Campos segue internado sem previsão de alta; leia boletim](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-segue-internado-sem-previsao-de-alta-leia-boletim) (Metropoles.com)
-
-- [Govt urges local levels to launch dengue awareness drive as summer begins](https://english.khabarhub.com/2026/19/540031/) (Khabarhub.com)
-
-- [La región del Mayo busca protegerse del dengue y sarampión: Alcalde de Navojoa](https://www.tribuna.com.mx/sonora/2026/3/19/la-region-del-mayo-busca-protegerse-del-dengue-sarampion-alcalde-de-navojoa-432637.html) (Tribuna.com.mx)
-
-- [KOMMENTAR - Erstmals wurde das Dengue-Virus in einer Tigermücke nördlich der Alpen nachgewiesen. Es ist höchste Zeit, dass wir gegen die Plagegeister vorgehen](https://www.nzz.ch/meinung/erstmals-wurde-das-dengue-virus-in-einer-tigermuecke-noerdlich-der-alpen-nachgewiesen-es-ist-hoechste-zeit-dass-wir-entschieden-gegen-die-plagegeister-vorgehen-ld.1929874) (Www.nzz.ch)
-
-- [Estado de Felipeh Campos é atualizado após internação: leia nota](https://www.metropoles.com/celebridades/stado-de-felipeh-campos-e-atualizado-apos-internacao-leia-nota) (Metropoles.com)
-
-- [Urgente: Felipeh Campos é internado com quadro de saúde grave](https://www.terra.com.br/diversao/tv/urgente-felipeh-campos-e-internado-com-quadro-de-saude-grave,f8792af959ac83597001b210cb4f8021t8poc39q.html) (Terra.com.br)
-
-- [Inundaciones elevan riesgos sanitarios en Ecuador; dengue y agua contaminada, entre las principales amenazas](https://www.elcomercio.com/actualidad/ecuador/inundaciones-elevan-riesgos-sanitarios-en-ecuador-dengue-y-agua-contaminada-entre-las-principales-amenazas/) (Elcomercio.com)
-
-- [Saiba por que Felipeh Campos está internado em estado grave](https://www.metropoles.com/celebridades/saiba-o-motivo-da-internacao-de-felipeh-campos) (Metropoles.com)
-
-- [Felipeh Campos é internado em São Paulo em estado grave](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-e-internado-em-sao-paulo-em-estado-grave) (Metropoles.com)
-
-- [Advancing Dengue Response through One Health](https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZHjLY0f1PJE) (YouTube)
-
-- [Noise and neglect: Social-media signals expose attention gaps for dengue, chikungunya, lymphatic filariasis and kala-azar in India’s vector-borne NTDs](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013378) (Plos.org)
-
-- [Para a orquídea durar anos: o truque não é a rega, mas esse cuidado com muitos esquecem](https://catracalivre.com.br/noticias/para-a-orquidea-durar-anos-o-truque-nao-e-a-rega-mas-esse-cuidado-com-muitos-esquecem/) (Catracalivre.com.br)
-
-- [Guía básica sobre el dengue: Qué es, cómo se detecta, cuáles son los síntomas y cómo prevenirlo](https://www.tribuna.com.mx/tendencias/2026/3/18/guia-basica-sobre-el-dengue-que-es-como-se-detecta-cuales-son-los-sintomas-como-prevenirlo-432500.html) (Tribuna.com.mx)
-
-- [El cambio climático dispara la propagación de epidemias como el dengue](https://www.mundodeportivo.com/pulso/20260317/1004154480/cambio-climatico-dispara-propagacion-epidemias-dengue-dct.html) (Mundodeportivo.com)
-
-- [INTERVIEW - In einer Tigermücke in Basel wurde das Dengue-Virus entdeckt: «Wir müssen damit rechnen, dass solche Nachweise häufiger werden», sagt der Mückenexperte](https://www.nzz.ch/wissenschaft/dengue-virus-in-tigermuecke-in-basel-entdeckt-ld.1929694) (Www.nzz.ch)
-
-- [Dengue transmission heterogeneity across Indonesia’s archipelago: Climate-driven spatiotemporal patterns and policy implications](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014135) (Plos.org)
-
-- [MG tem seis mortes por dengue e mais de 8 mil casos confirmados](https://www.metropoles.com/minas-gerais/mg-tem-seis-mortes-por-dengue-e-mais-de-8-mil-casos-confirmados) (Metropoles.com)
-
-- [Seroprevalence and preventive practices of dengue and chikungunya among school children in Bangkok: Gaps in prevention and vaccination strategies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013026) (Plos.org)
-
-## 26-12 (chikungunya)
-
-- [Bombeiros de MG fazem alerta sobre anéis presos e chikungunya. Entenda](https://www.metropoles.com/minas-gerais/bombeiros-de-mg-fazem-alerta-sobre-aneis-presos-e-chikungunya-entenda) (Metropoles.com)
-
-- [In-utero exposure to chikungunya and child morbimortality: a population-based study using linked routine data](https://www.nature.com/articles/s41467-026-70786-5) (Nature.com)
-
-- [Primo caso di dengue della stagione. Ecco i virus in arrivo](https://www.repubblica.it/salute/2026/03/20/news/primo_caso_dengue_stagione_virus_west_nile-425232410/) (La Repubblica)
-
-- [Noise and neglect: Social-media signals expose attention gaps for dengue, chikungunya, lymphatic filariasis and kala-azar in India’s vector-borne NTDs](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013378) (Plos.org)
-
-- [Chikungunya viral load in cerebrospinal fluid and blood is not associated with severity of neurological manifestations in children](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014112) (Plos.org)
-
-- [MG tem seis mortes por dengue e mais de 8 mil casos confirmados](https://www.metropoles.com/minas-gerais/mg-tem-seis-mortes-por-dengue-e-mais-de-8-mil-casos-confirmados) (Metropoles.com)
-
-- [Seroprevalence and preventive practices of dengue and chikungunya among school children in Bangkok: Gaps in prevention and vaccination strategies](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013026) (Plos.org)
