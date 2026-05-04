@@ -1,8 +1,81 @@
 {
-  "last_updated": "2026-05-03 19:27",
-  "count_articles_total": 762,
+  "last_updated": "2026-05-04 08:00",
+  "count_articles_total": 776,
   "count_articles_new": 4,
   "articles": [
+    {
+      "id": 29384,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What\u2019s new about the first malaria treatment for babies? #health",
+      "description": "WHO prequalification of first malaria drug for babies A \u201cmajor public health milestone\u201d has been reached with WHO prequalification of Coartem Baby, described as the first malaria treatment for infants. The key practical change is that newborns and very young \u2026",
+      "url": "https://alltoc.com/health/whats-new-about-the-first-malaria-treatment-for-babies",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-05-03 06:02:50",
+      "content": "A major public health milestone has been reached with WHO prequalification of Coartem Baby, described as the first malaria treatment for infants. The key practical change is that newborns and very yo\u2026 [+1496 chars]",
+      "retrievedAt": "2026-05-04 08:00:27.557084",
+      "internal_id": "3cb0c01534b5f426792fa45f0fb4c0d676a4425136fd18d9bb6c98d103c1dc55",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 29382,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Www.nzz.ch",
+      "author": "Esther Widmann",
+      "title": "M\u00fccken auszurotten, hat mit dem Insektengift DDT nicht geklappt. Jetzt kommen radikale gentechnische Methoden und damit die Frage: Sollten wir es tun?",
+      "description": "Malaria, Dengue, Gelbfieber: Jedes Jahr sterben Hunderttausende Menschen an Erregern, die von M\u00fccken \u00fcbertragen werden. Dem ein Ende zu machen, findet manch einer wichtiger als \u00f6kologische Folgen.",
+      "url": "https://www.nzz.ch/wissenschaft/muecken-auszurotten-hat-mit-dem-insektengift-ddt-nicht-geklappt-jetzt-kommen-radikale-gentechnische-methoden-und-damit-die-frage-sollten-wir-es-tun-ld.10003462",
+      "urlToImage": "https://img-msp-prod.nzz.ch/2026/04/25/1837e03d-d426-45ca-92a0-38689851ce2b.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5999,3373,x0,y389&wmark=nzz",
+      "publishedAt": "2026-05-03 03:30:00",
+      "content": "Malaria, Dengue, Gelbfieber: Jedes Jahr sterben Hunderttausende Menschen an Erregern, die von M\u00fccken \u00fcbertragen werden. Dem ein Ende zu machen, findet manch einer wichtiger als \u00f6kologische Folgen. Z\u2026 [+14104 chars]",
+      "retrievedAt": "2026-05-04 08:00:27.079647",
+      "internal_id": "00f691e7f71ced4017468ea518811379030b5966b7d712fe1489c76990aec335",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 29381,
+      "query": [
+        "rabies"
+      ],
+      "source_id": null,
+      "source_name": "Nature.com",
+      "author": "Atousa Bakhsheshi, Fattah Sotoodehnejadnematalahi, Alireza Gholami, Mehdi Ajorloo",
+      "title": "Enhanced immunogenicity of the rabies virus glycoprotein fused to a dendritic cell-targeting peptide",
+      "description": "Scientific Reports - Enhanced immunogenicity of the rabies virus glycoprotein fused to a dendritic cell-targeting peptide",
+      "url": "https://www.nature.com/articles/s41598-026-51181-y",
+      "urlToImage": null,
+      "publishedAt": "2026-05-03 00:00:00",
+      "content": "Open Access This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License, which permits any non-commercial use, sharing, distribution and reprod\u2026 [+846 chars]",
+      "retrievedAt": "2026-05-04 08:00:26.419471",
+      "internal_id": "91c5753a58c3c20e11b5850e170001675153c148086f8b71b3b6d065fde66a08",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 29383,
+      "query": [
+        "dengue"
+      ],
+      "source_id": null,
+      "source_name": "Abril.com.br",
+      "author": "Diogo Sponchiato",
+      "title": "Muito al\u00e9m das enchentes, chuvas intensas podem disseminar doen\u00e7as, alerta infectologista",
+      "description": "M\u00e9dica aponta uma das mais dr\u00e1sticas consequ\u00eancias do fen\u00f4meno que atinge o Nordeste do pa\u00eds: o aumento de mol\u00e9stias como leptospirose, hepatite A e dengue",
+      "url": "https://veja.abril.com.br/saude/muito-alem-das-enchentes-chuvas-intensas-podem-disseminar-doencas-alerta-infectologista/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2026/05/Fortes-chuvas-em-Pernambuco.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2026-05-02 21:08:18",
+      "content": "Pular para o conte\u00fado Receba 4 Revistas em casa por 35,90/m\u00easChuvas e alagamentos afetam Pernambuco desde o dia 30 de abril (Corpo de Bombeiros de Pernambuco/Reprodu\u00e7\u00e3o) Continua ap\u00f3s publicidade \u2026 [+5122 chars]",
+      "retrievedAt": "2026-05-04 08:00:27.091887",
+      "internal_id": "938931bb1aaba4755534972b828cee198ed6af4f98649ff7e2aa8ff91fc24b80",
+      "publishedAtLabel": "May 2"
+    },
     {
       "id": 29379,
       "query": [
@@ -13776,6 +13849,186 @@
       "content": "Felipeh Campos recebeu alta neste domingo (22/3) ap\u00f3s enfrentar um quadro cr\u00edtico de dengue. O apresentador da Band foi internado na \u00faltima quarta-feira (19/3) no hospital Benefici\u00eancia Portugues em\u2026 [+1767 chars]",
       "retrievedAt": "2026-03-24 07:28:41.794608",
       "internal_id": "3d78b7f5cc22e7ee2518b895facb58c8f65dd465fbe2d8ad605cf88e433f8a59",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28600,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "UK authorities revise meningitis outbreak cases to 29",
+      "description": "British health authorities revise the meningitis outbreak UK cases to 29. Learn about the vaccination efforts and the MenB strain affecting Kent. Read More: https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/",
+      "url": "https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/04/11123350/650x350_meningitis_what_is_it_ref_guide.jpg",
+      "publishedAt": "2026-03-22 19:24:53",
+      "content": "British health authorities on Sunday revised down the number of confirmed and likely cases from a meningitis outbreak in southeast England to 29, from a figure of 34 given previously. The UK Health \u2026 [+1326 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.468195",
+      "internal_id": "7340092cad392d6d8e7c437e6307bde9242eba93f45655aa8d6a92bd255ac226",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28643,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "the-irish-times",
+      "source_name": "The Irish Times",
+      "author": null,
+      "title": "Number of meningitis cases linked to fatal UK outbreak drops to 20",
+      "description": "Vaccination campaign continues following the death of two students in Kent",
+      "url": "https://www.irishtimes.com/world/uk/2026/03/22/number-of-meningitis-cases-linked-to-fatal-uk-outbreak-drops-to-20/",
+      "urlToImage": "https://www.irishtimes.com/resizer/v2/WE2PDQAYMGOJHRIGWOQOLZZXFE.jpg?smart=true&auth=c3113774feabf555edaecc8108b97a57b7f528ad2283859a244192a5240064c1&width=1200&height=630",
+      "publishedAt": "2026-03-22 18:06:40",
+      "content": "The number of confirmed meningitis cases linked to the Kent outbreak has fallen from 23 to 20. The UK Health Security Agency (UKHSA) said on Sunday that three cases previously thought confirmed had \u2026 [+2048 chars]",
+      "retrievedAt": "2026-03-25 07:28:24.991389",
+      "internal_id": "e306e8244ab6b964878e7344e7c8e8acffeaa8f44f97ab17c1c70be1ced59022",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28596,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What caused Kent meningitis outbreak? #health",
+      "description": "The Kent MenB outbreak: what\u2019s known about cause and spread A fast moving outbreak of invasive meningococcal disease in Kent, England, has been linked to social contact in student settings, with officials coordinating a national response. The strain involved \u2026",
+      "url": "https://alltoc.com/health/what-caused-kent-meningitis-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-22 18:03:23",
+      "content": "A fast-moving outbreak of invasive meningococcal disease in Kent, England, has been linked to social contact in student settings, with officials coordinating a national response. The strain involved \u2026 [+1560 chars]",
+      "retrievedAt": "2026-03-23 19:23:10.963996",
+      "internal_id": "ba23c3b1578d0154f6682008095a5506a7f8a7af769798579a3f03a5ccd557e6",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28590,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": null,
+      "source_name": "Iz.ru",
+      "author": "\u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432 \u0413\u043b\u0435\u0431 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447",
+      "title": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043e \u043d\u0435\u0445\u0432\u0430\u0442\u043a\u0435 \u044f\u0438\u0446 \u043a \u041f\u0430\u0441\u0445\u0435 \u0438\u0437-\u0437\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
+      "description": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0432\u043e\u0437\u043d\u0438\u043a \u0434\u0435\u0444\u0438\u0446\u0438\u0442 \u043a\u0443\u0440\u0438\u043d\u044b\u0445 \u044f\u0438\u0446 \u043d\u0430\u043a\u0430\u043d\u0443\u043d\u0435 \u041f\u0430\u0441\u0445\u0438. \u041e\u0431 \u044d\u0442\u043e\u043c 21 \u043c\u0430\u0440\u0442\u0430 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043d\u0435\u043c\u0435\u0446\u043a\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430 Die Zeit \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0430\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u0438 \u043f\u043e \u044f\u0439\u0446\u0430\u043c \u0425\u0430\u043d\u0441\u0430-\u041f\u0435\u0442\u0435\u0440\u0430 \u0413\u043e\u043b\u044c\u0434\u043d\u0438\u043a\u0430.\u041f\u043e \u0435\u0433\u043e \u0441\u043b\u043e\u0432\u0430\u043c, \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0443\u0436\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u043a\u0440\u044b\u0442\u044c \u0441\u043f\u0440\u043e\u0441. \u0418\u0437-\u0437\u0430 \u044d\u0442\u043e\u0433\u043e \u0432 \u0413\u2026",
+      "url": "https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi",
+      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2026-03/PVL00117.jpg?itok=32mkExSb",
+      "publishedAt": "2026-03-22 17:49:00",
+      "content": ". 21 Die Zeit - . , . - \u00ab 10 \u00bb. : , . - H5N1 ( ) 3% -, . , , , . , 255 30 , . , \u00ab \u00bb . \u00ab \u00bb, . Bild 21 , 23 - . , , , . 160 . . \u00ab\u00bb",
+      "retrievedAt": "2026-03-23 19:23:09.641532",
+      "internal_id": "a2989bd6b8398222ea696f00b1cc6ff472f226c2fe0e6dfc4a92e9610184de32",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28594,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "TheJournal.ie",
+      "author": "Press Association",
+      "title": "Meningitis cases in Kent drop as vaccine rollout continues",
+      "description": "The total number of cases confirmed or under investigation has fallen from 34 on Saturday to 29 on Sunday.",
+      "url": "https://www.thejournal.ie/meningitis-cases-in-kent-drop-as-vaccine-rollout-continues-6991723-Mar2026/",
+      "urlToImage": "https://img2.thejournal.ie/article/6991723/river/?height=400&version=6991730",
+      "publishedAt": "2026-03-22 13:04:54",
+      "content": "THE NUMBER OF cases of meningitis linked to an outbreak in Kent in the UK has dropped as a campaign to vaccinate thousands of young people continued into a fourth day. Confirmed cases have fallen fr\u2026 [+1959 chars]",
+      "retrievedAt": "2026-03-23 19:23:10.757413",
+      "internal_id": "bf924bd47940fa0a68501b61390ee8fede717550e5404e6c65b40969cca3ed2a",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28595,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What\u2019s causing the Kent meningitis outbreak? #health",
+      "description": "Why the Kent meningitis outbreak has been so hard to contain Health authorities and experts describe the Kent outbreak as unusual in size and speed and still centered on a student related cluster. Cases have been linked to social settings in the area, includi\u2026",
+      "url": "https://alltoc.com/health/whats-causing-the-kent-meningitis-outbreak",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-22 12:04:06",
+      "content": "Health authorities and experts describe the Kent outbreak as unusual in size and speed and still centered on a student-related cluster. Cases have been linked to social settings in the area, includin\u2026 [+1564 chars]",
+      "retrievedAt": "2026-03-23 19:23:10.925457",
+      "internal_id": "5ae94c43e7f8088d55289aa0cff01b3bb94a82b515f573eb706e9847ea090c5d",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28606,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "How is meningitis B spread and preventable? #health",
+      "description": "What is known about MenB transmission and prevention The Kent cluster has focused attention on MenB\u2014meningococcal meningitis caused by serogroup B\u2014because spread can be fast among people who spend time together in close settings. How it spreads MenB transmiss\u2026",
+      "url": "https://alltoc.com/health/how-is-meningitis-b-spread-and-preventable",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-03-22 12:04:06",
+      "content": "The Kent cluster has focused attention on MenBmeningococcal meningitis caused by serogroup Bbecause spread can be fast among people who spend time together in close settings. How it spreads MenB tr\u2026 [+1333 chars]",
+      "retrievedAt": "2026-03-24 07:28:42.843027",
+      "internal_id": "f3ac2ff28d6757354a1327834983b084f45b48656e0c522399d997c7b6fe8abe",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28592,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": "rte",
+      "source_name": "RTE",
+      "author": "RT\u00c9 News",
+      "title": "Kent meningitis cases drop as vaccine rollout continues",
+      "description": "The number of cases of meningitis linked to an outbreak in Kent in the UK, has dropped as a campaign to vaccinate thousands of young people continued into a fourth day.",
+      "url": "https://www.rte.ie/news/uk/2026/0322/1564610-meningitis-uk/",
+      "urlToImage": "https://www.rte.ie/images/002418bf-1600.jpg",
+      "publishedAt": "2026-03-22 10:33:04",
+      "content": "The number of cases of meningitis linked to an outbreak in Kent in the UK, has dropped as a campaign to vaccinate thousands of young people continued into a fourth day. Confirmed cases have fallen f\u2026 [+1847 chars]",
+      "retrievedAt": "2026-03-23 19:23:10.481814",
+      "internal_id": "021b70a4de957992c6e1edfa03c4f2897abd976f0dfd9d673602243b0c5e56d6",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28591,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "BBC News",
+      "author": null,
+      "title": "Another college sees suspected meningitis case",
+      "description": "The UKHSA says it is offering antibiotics to close contacts of the person.",
+      "url": "https://www.bbc.com/news/articles/cwydl214dplo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a081/live/d9bfe420-25c6-11f1-b1ce-2dccb029f244.jpg",
+      "publishedAt": "2026-03-22 09:28:32",
+      "content": "Other schools in the Canterbury area with confirmed or suspected cases are Queen Elizabeth's Grammar School in Faversham, Norton Knatchbull School in Ashford, Simon Langton Grammar School for Boys in\u2026 [+38 chars]",
+      "retrievedAt": "2026-03-23 19:23:10.172339",
+      "internal_id": "201fac97afc4a6a138f22fee760400c1736f79fa20fb8de7b841ac6ac57f3bda",
+      "publishedAtLabel": "Mar 22"
+    },
+    {
+      "id": 28593,
+      "query": [
+        "meningitis"
+      ],
+      "source_id": null,
+      "source_name": "Sky.com",
+      "author": null,
+      "title": "Meningitis outbreak: Total cases in Kent falls",
+      "description": "The figures include two - a 21-year-old student at the University of Kent and a sixth form pupil at Queen Elizabeth's Grammar School in Faversham - who died from the virus last weekend.",
+      "url": "https://news.sky.com/story/meningitis-outbreak-total-cases-in-kent-falls-13522977",
+      "urlToImage": "https://e3.365dm.com/25/10/1600x900/skynews-breaking-breaking-news_7042253.png?20260317121341",
+      "publishedAt": "2026-03-22 09:07:00",
+      "content": "The number of confirmed and suspected meningitis cases in the outbreak in Kent has fallen to 29, the UK Health Security Agency (UKHSA) has said. It marks a decrease from 34 cases reported on Saturda\u2026 [+1477 chars]",
+      "retrievedAt": "2026-03-23 19:23:10.578158",
+      "internal_id": "a30c5febb4554db90ed9b90f53ecce2941553ed9f7dd881c537b482ef28ca9a6",
       "publishedAtLabel": "Mar 22"
     }
   ]

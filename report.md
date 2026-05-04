@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
 - **New articles in last harvest:** 4
-- **Last harvest:** 2026-05-03 19:27
-- **Most recent article:** 2026-05-02 12:03:20
+- **Last harvest:** 2026-05-04 08:00
+- **Most recent article:** 2026-05-03 06:02:50
 
 ---
 
@@ -10,28 +10,42 @@
 
 By US epiweek (i.e. Sunday to Saturday)
 
-| Disease | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | Total |
-|--|-|-|-|-|-|-|-|
-| measles | 20 | 26 | 51 | 35 | 54 | 38 | 224 |
-| malaria | 14 | 9 | 14 | 9 | 59 | 28 | 133 |
-| meningitis | 64 | 19 | 4 | 5 | 8 | 15 | 115 |
-| dengue | 19 | 18 | 12 | 19 | 17 | 13 | 98 |
-| mpox | 4 | 19 | 9 | 16 | 3 | 12 | 63 |
-| rabies | 4 | 26 | 8 | 3 | 6 | 4 | 51 |
-| chikungunya | 8 | 11 | 3 | 6 | 4 | 4 | 36 |
-| h5n1 | 3 | 7 | 2 | 5 | 7 | 9 | 33 |
-| zika | 1 | 15 | 1 | 4 | 4 | 3 | 28 |
-| hpai | 6 | 2 | 2 | 1 | 0 | 4 | 15 |
-| pertussis | 1 | 0 | 0 | 1 | 4 | 1 | 7 |
-| yersinia | 1 | 0 | 1 | 0 | 4 | 1 | 7 |
-| typhoid | 0 | 1 | 0 | 3 | 0 | 1 | 5 |
-| leptospirosis | 1 | 0 | 1 | 1 | 1 | 0 | 4 |
-| shigellosis | 0 | 0 | 1 | 1 | 0 | 0 | 2 |
+| Disease | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | 26-19 | Total |
+|--|-|-|-|-|-|-|-|-|
+| measles | 20 | 26 | 51 | 35 | 54 | 38 | 0 | 224 |
+| malaria | 14 | 9 | 14 | 9 | 59 | 28 | 2 | 135 |
+| meningitis | 73 | 19 | 4 | 5 | 8 | 15 | 0 | 124 |
+| dengue | 19 | 18 | 12 | 19 | 17 | 14 | 1 | 100 |
+| mpox | 4 | 19 | 9 | 16 | 3 | 12 | 0 | 63 |
+| rabies | 4 | 26 | 8 | 3 | 6 | 4 | 1 | 52 |
+| chikungunya | 8 | 11 | 3 | 6 | 4 | 4 | 0 | 36 |
+| h5n1 | 4 | 7 | 2 | 5 | 7 | 9 | 0 | 34 |
+| zika | 1 | 15 | 1 | 4 | 4 | 3 | 0 | 28 |
+| hpai | 6 | 2 | 2 | 1 | 0 | 4 | 0 | 15 |
+| pertussis | 1 | 0 | 0 | 1 | 4 | 1 | 0 | 7 |
+| yersinia | 1 | 0 | 1 | 0 | 4 | 1 | 0 | 7 |
+| typhoid | 0 | 1 | 0 | 3 | 0 | 1 | 0 | 5 |
+| leptospirosis | 1 | 0 | 1 | 1 | 1 | 0 | 0 | 4 |
+| shigellosis | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 2 |
 
 
 Source: [News API](https://newsapi.org/)
 
 ---
+
+## 26-19 (rabies)
+
+- [Enhanced immunogenicity of the rabies virus glycoprotein fused to a dendritic cell-targeting peptide](https://www.nature.com/articles/s41598-026-51181-y) (Nature.com)
+
+## 26-19 (malaria)
+
+- [What’s new about the first malaria treatment for babies? #health](https://alltoc.com/health/whats-new-about-the-first-malaria-treatment-for-babies) (Alltoc.com)
+
+- [Mücken auszurotten, hat mit dem Insektengift DDT nicht geklappt. Jetzt kommen radikale gentechnische Methoden und damit die Frage: Sollten wir es tun?](https://www.nzz.ch/wissenschaft/muecken-auszurotten-hat-mit-dem-insektengift-ddt-nicht-geklappt-jetzt-kommen-radikale-gentechnische-methoden-und-damit-die-frage-sollten-wir-es-tun-ld.10003462) (Www.nzz.ch)
+
+## 26-19 (dengue)
+
+- [Mücken auszurotten, hat mit dem Insektengift DDT nicht geklappt. Jetzt kommen radikale gentechnische Methoden und damit die Frage: Sollten wir es tun?](https://www.nzz.ch/wissenschaft/muecken-auszurotten-hat-mit-dem-insektengift-ddt-nicht-geklappt-jetzt-kommen-radikale-gentechnische-methoden-und-damit-die-frage-sollten-wir-es-tun-ld.10003462) (Www.nzz.ch)
 
 ## 26-18 (zika)
 
@@ -288,6 +302,8 @@ Source: [News API](https://newsapi.org/)
 - [Онищенко перечислил четыре смертоносные болезни на ближайшие пять лет](https://news.mail.ru/society/70673706/) (Mail.ru)
 
 ## 26-18 (dengue)
+
+- [Muito além das enchentes, chuvas intensas podem disseminar doenças, alerta infectologista](https://veja.abril.com.br/saude/muito-alem-das-enchentes-chuvas-intensas-podem-disseminar-doencas-alerta-infectologista/) (Abril.com.br)
 
 - [Mortality predictors, hepatic involvement patterns, and the steatotic liver paradox in 1,484 hospitalized Dengue patients](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348232) (Plos.org)
 
@@ -1671,6 +1687,24 @@ Source: [News API](https://newsapi.org/)
 
 - [Grafschaft Kent: Zahl der Meningitis-Fälle in England gesunken – noch keine Entwarnung](https://www.stern.de/gesundheit/meningitis-in-england--fallzahlen-sinken-nach-ausbruch-mit-zwei-toten-37244876.html) (STERN.de)
 
+- [UK authorities revise meningitis outbreak cases to 29](https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/) (The Punch)
+
+- [Number of meningitis cases linked to fatal UK outbreak drops to 20](https://www.irishtimes.com/world/uk/2026/03/22/number-of-meningitis-cases-linked-to-fatal-uk-outbreak-drops-to-20/) (The Irish Times)
+
+- [What caused Kent meningitis outbreak? #health](https://alltoc.com/health/what-caused-kent-meningitis-outbreak) (Alltoc.com)
+
+- [Meningitis cases in Kent drop as vaccine rollout continues](https://www.thejournal.ie/meningitis-cases-in-kent-drop-as-vaccine-rollout-continues-6991723-Mar2026/) (TheJournal.ie)
+
+- [What’s causing the Kent meningitis outbreak? #health](https://alltoc.com/health/whats-causing-the-kent-meningitis-outbreak) (Alltoc.com)
+
+- [How is meningitis B spread and preventable? #health](https://alltoc.com/health/how-is-meningitis-b-spread-and-preventable) (Alltoc.com)
+
+- [Kent meningitis cases drop as vaccine rollout continues](https://www.rte.ie/news/uk/2026/0322/1564610-meningitis-uk/) (RTE)
+
+- [Another college sees suspected meningitis case](https://www.bbc.com/news/articles/cwydl214dplo) (BBC News)
+
+- [Meningitis outbreak: Total cases in Kent falls](https://news.sky.com/story/meningitis-outbreak-total-cases-in-kent-falls-13522977) (Sky.com)
+
 ## 26-13 (measles)
 
 - [How serious is Mexico’s measles campaign? #health](https://alltoc.com/health/how-serious-is-mexicos-measles-campaign) (Alltoc.com)
@@ -1768,6 +1802,8 @@ Source: [News API](https://newsapi.org/)
 - [SAG suspende certificación de exportaciones avícolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial](https://www.df.cl/regiones/sag-confirma-deteccion-del-primer-caso-positivo-de-influenza-aviar-h5n1-en) (Www.df.cl)
 
 - [Casos de influenza aviar se siguen extendiendo por el país: SAG confirma nuevos hallazgos en aves de Magallanes y del Maule](https://www.latercera.com/nacional/noticia/casos-de-influenza-aviar-se-siguen-extendiendo-por-el-pais-sag-confirma-nuevos-hallazgos-en-aves-de-magallanes-y-del-maule/) (Latercera.com)
+
+- [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
 
 ## 26-13 (dengue)
 
