@@ -1,8 +1,8 @@
 # Disease Keywords Summary Report
 
-- **New articles in last harvest:** 4
-- **Last harvest:** 2026-05-04 08:00
-- **Most recent article:** 2026-05-03 06:02:50
+- **New articles in last harvest:** 7
+- **Last harvest:** 2026-05-04 19:38
+- **Most recent article:** 2026-05-03 18:18:16
 
 ---
 
@@ -12,14 +12,14 @@ By US epiweek (i.e. Sunday to Saturday)
 
 | Disease | 26-13 | 26-14 | 26-15 | 26-16 | 26-17 | 26-18 | 26-19 | Total |
 |--|-|-|-|-|-|-|-|-|
-| measles | 20 | 26 | 51 | 35 | 54 | 38 | 0 | 224 |
-| malaria | 14 | 9 | 14 | 9 | 59 | 28 | 2 | 135 |
-| meningitis | 73 | 19 | 4 | 5 | 8 | 15 | 0 | 124 |
-| dengue | 19 | 18 | 12 | 19 | 17 | 14 | 1 | 100 |
+| measles | 20 | 26 | 51 | 35 | 54 | 38 | 3 | 227 |
+| malaria | 14 | 9 | 14 | 9 | 59 | 28 | 5 | 138 |
+| meningitis | 64 | 19 | 4 | 5 | 8 | 15 | 0 | 115 |
+| dengue | 18 | 18 | 12 | 19 | 17 | 14 | 2 | 100 |
 | mpox | 4 | 19 | 9 | 16 | 3 | 12 | 0 | 63 |
 | rabies | 4 | 26 | 8 | 3 | 6 | 4 | 1 | 52 |
 | chikungunya | 8 | 11 | 3 | 6 | 4 | 4 | 0 | 36 |
-| h5n1 | 4 | 7 | 2 | 5 | 7 | 9 | 0 | 34 |
+| h5n1 | 3 | 7 | 2 | 5 | 7 | 9 | 1 | 34 |
 | zika | 1 | 15 | 1 | 4 | 4 | 3 | 0 | 28 |
 | hpai | 6 | 2 | 2 | 1 | 0 | 4 | 0 | 15 |
 | pertussis | 1 | 0 | 0 | 1 | 4 | 1 | 0 | 7 |
@@ -37,13 +37,33 @@ Source: [News API](https://newsapi.org/)
 
 - [Enhanced immunogenicity of the rabies virus glycoprotein fused to a dendritic cell-targeting peptide](https://www.nature.com/articles/s41598-026-51181-y) (Nature.com)
 
+## 26-19 (measles)
+
+- [Zimbabwe improves child health through nationwide Immunization campaign](https://www.afro.who.int/countries/zimbabwe/news/zimbabwe-improves-child-health-through-nationwide-immunization-campaign) (World Health Organization)
+
+- [81% of children vaccinated against measles: Health minister](https://www.thedailystar.net/health/news/81-children-vaccinated-against-measles-health-minister-4166666) (The Daily Star)
+
+- [What did the CDC warn about measles? #health](https://alltoc.com/health/what-did-the-cdc-warn-about-measles) (Alltoc.com)
+
 ## 26-19 (malaria)
+
+- [CCP team goes door to door to get ahead of dengue, malaria](https://timesofindia.indiatimes.com/city/goa/ccp-team-goes-door-to-door-to-get-ahead-of-dengue-malaria/articleshow/130738194.cms) (The Times of India)
+
+- [Reps probe $4.6bn health grants, demand oversight of HIV, malaria funds](https://punchng.com/reps-probe-4-6bn-health-grants-demand-oversight-of-hiv-malaria-funds/) (The Punch)
+
+- [Malaria didn’t just kill early humans, it shaped who we became](https://www.sciencedaily.com/releases/2026/05/260502233859.htm) (Science Daily)
 
 - [What’s new about the first malaria treatment for babies? #health](https://alltoc.com/health/whats-new-about-the-first-malaria-treatment-for-babies) (Alltoc.com)
 
 - [Mücken auszurotten, hat mit dem Insektengift DDT nicht geklappt. Jetzt kommen radikale gentechnische Methoden und damit die Frage: Sollten wir es tun?](https://www.nzz.ch/wissenschaft/muecken-auszurotten-hat-mit-dem-insektengift-ddt-nicht-geklappt-jetzt-kommen-radikale-gentechnische-methoden-und-damit-die-frage-sollten-wir-es-tun-ld.10003462) (Www.nzz.ch)
 
+## 26-19 (h5n1)
+
+- [H5N1 bird flu detected in Karnataka: What the Peacock deaths mean for human health](https://timesofindia.indiatimes.com/health/h5n1-bird-flu-detected-in-karnataka-what-the-peacock-deaths-mean-for-human-health/articleshow/130731046.cms) (The Times of India)
+
 ## 26-19 (dengue)
+
+- [CCP team goes door to door to get ahead of dengue, malaria](https://timesofindia.indiatimes.com/city/goa/ccp-team-goes-door-to-door-to-get-ahead-of-dengue-malaria/articleshow/130738194.cms) (The Times of India)
 
 - [Mücken auszurotten, hat mit dem Insektengift DDT nicht geklappt. Jetzt kommen radikale gentechnische Methoden und damit die Frage: Sollten wir es tun?](https://www.nzz.ch/wissenschaft/muecken-auszurotten-hat-mit-dem-insektengift-ddt-nicht-geklappt-jetzt-kommen-radikale-gentechnische-methoden-und-damit-die-frage-sollten-wir-es-tun-ld.10003462) (Www.nzz.ch)
 
@@ -1687,24 +1707,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Grafschaft Kent: Zahl der Meningitis-Fälle in England gesunken – noch keine Entwarnung](https://www.stern.de/gesundheit/meningitis-in-england--fallzahlen-sinken-nach-ausbruch-mit-zwei-toten-37244876.html) (STERN.de)
 
-- [UK authorities revise meningitis outbreak cases to 29](https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/) (The Punch)
-
-- [Number of meningitis cases linked to fatal UK outbreak drops to 20](https://www.irishtimes.com/world/uk/2026/03/22/number-of-meningitis-cases-linked-to-fatal-uk-outbreak-drops-to-20/) (The Irish Times)
-
-- [What caused Kent meningitis outbreak? #health](https://alltoc.com/health/what-caused-kent-meningitis-outbreak) (Alltoc.com)
-
-- [Meningitis cases in Kent drop as vaccine rollout continues](https://www.thejournal.ie/meningitis-cases-in-kent-drop-as-vaccine-rollout-continues-6991723-Mar2026/) (TheJournal.ie)
-
-- [What’s causing the Kent meningitis outbreak? #health](https://alltoc.com/health/whats-causing-the-kent-meningitis-outbreak) (Alltoc.com)
-
-- [How is meningitis B spread and preventable? #health](https://alltoc.com/health/how-is-meningitis-b-spread-and-preventable) (Alltoc.com)
-
-- [Kent meningitis cases drop as vaccine rollout continues](https://www.rte.ie/news/uk/2026/0322/1564610-meningitis-uk/) (RTE)
-
-- [Another college sees suspected meningitis case](https://www.bbc.com/news/articles/cwydl214dplo) (BBC News)
-
-- [Meningitis outbreak: Total cases in Kent falls](https://news.sky.com/story/meningitis-outbreak-total-cases-in-kent-falls-13522977) (Sky.com)
-
 ## 26-13 (measles)
 
 - [How serious is Mexico’s measles campaign? #health](https://alltoc.com/health/how-serious-is-mexicos-measles-campaign) (Alltoc.com)
@@ -1803,8 +1805,6 @@ Source: [News API](https://newsapi.org/)
 
 - [Casos de influenza aviar se siguen extendiendo por el país: SAG confirma nuevos hallazgos en aves de Magallanes y del Maule](https://www.latercera.com/nacional/noticia/casos-de-influenza-aviar-se-siguen-extendiendo-por-el-pais-sag-confirma-nuevos-hallazgos-en-aves-de-magallanes-y-del-maule/) (Latercera.com)
 
-- [В Германии сообщили о нехватке яиц к Пасхе из-за птичьего гриппа](https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi) (Iz.ru)
-
 ## 26-13 (dengue)
 
 - [Em conversa com presidente do Suriname, Lula anuncia envio de insumos contra dengue e chikungunya](https://valor.globo.com/brasil/noticia/2026/03/27/em-conversa-com-presidente-do-suriname-lula-anuncia-envio-de-insumos-contra-dengue-e-chikungunya.ghtml) (Globo)
@@ -1842,8 +1842,6 @@ Source: [News API](https://newsapi.org/)
 - [Dengue fever is a growing problem: why it’s so hard to beat with vaccines](https://theconversation.com/dengue-fever-is-a-growing-problem-why-its-so-hard-to-beat-with-vaccines-277538) (The Conversation Africa)
 
 - [Dengue transmission dynamics in an urban setting in western India](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013636) (Plos.org)
-
-- [Felipeh Campos recebe alta após quadro grave de dengue](https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-recebe-alta-apos-quadro-grave-de-dengue) (Metropoles.com)
 
 ## 26-13 (chikungunya)
 

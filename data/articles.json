@@ -1,8 +1,135 @@
 {
-  "last_updated": "2026-05-04 08:00",
-  "count_articles_total": 776,
-  "count_articles_new": 4,
+  "last_updated": "2026-05-04 19:38",
+  "count_articles_total": 772,
+  "count_articles_new": 7,
   "articles": [
+    {
+      "id": 29389,
+      "query": [
+        "dengue",
+        "malaria"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TNN",
+      "title": "CCP team goes door to door to get ahead of dengue, malaria",
+      "description": "The Corporation of the City of Panaji (CCP) initiates a proactive pre-monsoon drive with NVBDCP to combat dengue and malaria by inspecting and eliminating mosquito breeding sites.",
+      "url": "https://timesofindia.indiatimes.com/city/goa/ccp-team-goes-door-to-door-to-get-ahead-of-dengue-malaria/articleshow/130738194.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-130738400,width-1280,height-720,imgsize-173518,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-05-03 18:18:16",
+      "content": "Follow Us On Social Media Nepal Objects To India-China Plan To Conduct Kailash Mansarovar Yatra Via LipulekhFreaky Pool Pic! Trump Swims Shirtless With Woman In Midnight Posting Spree, Internet In S\u2026 [+1442 chars]",
+      "retrievedAt": "2026-05-04 19:38:12.820284",
+      "internal_id": "db0e25a48de958a24c0ea75a09da372ac5b99c9e7f8c5ff8930d973f41a8842d",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 29391,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "The Punch",
+      "author": "Punch Newspapers",
+      "title": "Reps probe $4.6bn health grants, demand oversight of HIV, malaria funds",
+      "description": "Nigeria\u2019s House of Reps committee launches a health grants probe, investigating the use of $4.6bn in funds for HIV, malaria, and TB to ensure transparency. Read More: https://punchng.com/reps-probe-4-6bn-health-grants-demand-oversight-of-hiv-malaria-funds/",
+      "url": "https://punchng.com/reps-probe-4-6bn-health-grants-demand-oversight-of-hiv-malaria-funds/",
+      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2025/05/08112740/Goykxg3XMAAr54A-1024x760-1-1024x630.jpg",
+      "publishedAt": "2026-05-03 17:08:07",
+      "content": "The House of Representatives Committee on Infectious Diseases has intensified its investigation into the utilisation of about $4.6 billion in donor-funded health grants, calling for stricter oversigh\u2026 [+3268 chars]",
+      "retrievedAt": "2026-05-04 19:38:13.237514",
+      "internal_id": "a50d623eeffce0fa82c21a1a0de1033668c7fd1238450eec69774473d95e007a",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 29390,
+      "query": [
+        "malaria"
+      ],
+      "source_id": null,
+      "source_name": "Science Daily",
+      "author": null,
+      "title": "Malaria didn\u2019t just kill early humans, it shaped who we became",
+      "description": "Long before humans spread across the globe, a deadly disease may have quietly shaped where our ancestors lived\u2014and even how we evolved. New research reveals that malaria didn\u2019t just threaten early human survival; it actively pushed populations away from high-\u2026",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502233859.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/africa-malaria-human-evolution.webp",
+      "publishedAt": "2026-05-03 16:04:21",
+      "content": "A growing body of research suggests that modern humans did not originate from a single location, but instead emerged through interactions among groups spread across different regions of Africa. Tradi\u2026 [+2981 chars]",
+      "retrievedAt": "2026-05-04 19:38:13.218708",
+      "internal_id": "bf791e719c2963604de249e690795829eb431e72fd09dc84028d29293fa37365",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 29387,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "World Health Organization",
+      "author": null,
+      "title": "Zimbabwe improves child health through nationwide Immunization campaign",
+      "description": "Harare\u2014Zimbabwe marked a major milestone in child health with the launch of the National Measles-Rubella (MR) Vaccination and Vitamin A Supplementation Campaign at Stoneridge Clinic in Harare.",
+      "url": "https://www.afro.who.int/countries/zimbabwe/news/zimbabwe-improves-child-health-through-nationwide-immunization-campaign",
+      "urlToImage": "https://www.afro.who.int/sites/default/files/styles/teaser_thumbnail_600x600_/public/2025-12/IMG_1063_3.JPG?itok=fd3Qp9Pv",
+      "publishedAt": "2026-05-03 15:54:58",
+      "content": "HarareZimbabwe marked a major milestone in child health with the launch of the National Measles-Rubella (MR) Vaccination and Vitamin A Supplementation Campaign at Stoneridge Clinic in Harare. Led by \u2026 [+2836 chars]",
+      "retrievedAt": "2026-05-04 19:38:12.012060",
+      "internal_id": "77faa9faf2ded1d12df3d1d1c70e359c07a1956e95448edf65a29c8d4b3786e1",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 29386,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "The Daily Star",
+      "author": "Unb",
+      "title": "81% of children vaccinated against measles: Health minister",
+      "description": "81% of children vaccinated against measles: Health ministerthedailystar.net",
+      "url": "https://www.thedailystar.net/health/news/81-children-vaccinated-against-measles-health-minister-4166666",
+      "urlToImage": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-03/Health-Minister-Sardar-Md-Sakhawat-Husain.jpg",
+      "publishedAt": "2026-05-03 13:14:18",
+      "content": "At least 81% of children have received measles vaccine in Bangladesh, Health Minister Sardar Md Sakhawat Husain said today. The remaining children will brought under vaccination very soon, the minis\u2026 [+1119 chars]",
+      "retrievedAt": "2026-05-04 19:38:11.993344",
+      "internal_id": "bd701983440eba53cd2f9c51e0445e607d4d47dcb1d9c09354c4bfd9e3278083",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 29385,
+      "query": [
+        "measles"
+      ],
+      "source_id": null,
+      "source_name": "Alltoc.com",
+      "author": "AllToc",
+      "title": "What did the CDC warn about measles? #health",
+      "description": "CDC warning as travel approaches The CDC warned that additional measles cases are expected during the upcoming travel season, as outbreaks continue to spread in the U.S. The material says the U.S. has already recorded thousands of cases this year. What\u2019s driv\u2026",
+      "url": "https://alltoc.com/health/what-did-the-cdc-warn-about-measles",
+      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
+      "publishedAt": "2026-05-03 12:04:01",
+      "content": "CDC warning as travel approaches The CDC warned that additional measles cases are expected during the upcoming travel season, as outbreaks continue to spread in the U.S. The material says the U.S. h\u2026 [+1499 chars]",
+      "retrievedAt": "2026-05-04 19:38:11.730455",
+      "internal_id": "a74664b14dcd75751d8e33d636de64e4da2039ee59aa5cfb07854e379af68aa3",
+      "publishedAtLabel": "May 3"
+    },
+    {
+      "id": 29388,
+      "query": [
+        "h5n1"
+      ],
+      "source_id": "the-times-of-india",
+      "source_name": "The Times of India",
+      "author": "TIMESOFINDIA.COM",
+      "title": "H5N1 bird flu detected in Karnataka: What the Peacock deaths mean for human health",
+      "description": "Karnataka's Tumakuru district is on high alert after over 44 peacocks died, confirming H5N1 avian influenza. While human infections are rare, the virus can cross over from birds, causing severe respiratory illness. Authorities have established containment zon\u2026",
+      "url": "https://timesofindia.indiatimes.com/health/h5n1-bird-flu-detected-in-karnataka-what-the-peacock-deaths-mean-for-human-health/articleshow/130731046.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-130731060,width-1280,height-720,imgsize-107804,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-05-03 10:58:56",
+      "content": "News Health News H5N1 bird flu detected in Karnataka: What the Peacock deaths mean for human health Follow Us On Social Media Copyright \u00a9 2026 Bennett, Coleman\u2026 [+81 chars]",
+      "retrievedAt": "2026-05-04 19:38:12.624923",
+      "internal_id": "7cc82f2b9758a123965c143132be175b82b35b1bd4b20d9a9a6da61ded61c5b3",
+      "publishedAtLabel": "May 3"
+    },
     {
       "id": 29384,
       "query": [
@@ -13831,204 +13958,6 @@
       "content": "Kopiere den aktuellen Link Zur Merkliste hinzuf\u00fcgen Nach dem Meningitis-Ausbruch in S\u00fcdengland sinken die Fallzahlen leicht. Die Beh\u00f6rden warnen jedoch weiter vor einer angespannten Lage. Nach dem\u2026 [+1732 chars]",
       "retrievedAt": "2026-03-24 07:28:42.583537",
       "internal_id": "d611904426fccc2510e406bf100d51b184db8c5c6839a206994fdf2aa423021b",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28598,
-      "query": [
-        "dengue"
-      ],
-      "source_id": null,
-      "source_name": "Metropoles.com",
-      "author": "Metr\u00f3poles",
-      "title": "Felipeh Campos recebe alta ap\u00f3s quadro grave de dengue",
-      "description": "Comunicador Felipeh Campos deixou hospital em SP neste domingo (22/3) ap\u00f3s quatro dias internado",
-      "url": "https://www.metropoles.com/colunas/fabia-oliveira/felipeh-campos-recebe-alta-apos-quadro-grave-de-dengue",
-      "urlToImage": "https://i.metroimg.com/Qow3J1vfIfVTrRORU1yVlNqmlhWGusJiKuy3mH2pzEY/w:1200/q:90/f:webp/plain/https://images.metroimg.com/2026/03/felipeh-campos-internado-hospital-sao-paulo-estado-grave-1.jpg",
-      "publishedAt": "2026-03-22 19:34:07",
-      "content": "Felipeh Campos recebeu alta neste domingo (22/3) ap\u00f3s enfrentar um quadro cr\u00edtico de dengue. O apresentador da Band foi internado na \u00faltima quarta-feira (19/3) no hospital Benefici\u00eancia Portugues em\u2026 [+1767 chars]",
-      "retrievedAt": "2026-03-24 07:28:41.794608",
-      "internal_id": "3d78b7f5cc22e7ee2518b895facb58c8f65dd465fbe2d8ad605cf88e433f8a59",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28600,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "The Punch",
-      "author": "Punch Newspapers",
-      "title": "UK authorities revise meningitis outbreak cases to 29",
-      "description": "British health authorities revise the meningitis outbreak UK cases to 29. Learn about the vaccination efforts and the MenB strain affecting Kent. Read More: https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/",
-      "url": "https://punchng.com/uk-authorities-revise-meningitis-outbreak-cases-to-29/",
-      "urlToImage": "https://cdn.punchng.com/wp-content/uploads/2019/04/11123350/650x350_meningitis_what_is_it_ref_guide.jpg",
-      "publishedAt": "2026-03-22 19:24:53",
-      "content": "British health authorities on Sunday revised down the number of confirmed and likely cases from a meningitis outbreak in southeast England to 29, from a figure of 34 given previously. The UK Health \u2026 [+1326 chars]",
-      "retrievedAt": "2026-03-24 07:28:42.468195",
-      "internal_id": "7340092cad392d6d8e7c437e6307bde9242eba93f45655aa8d6a92bd255ac226",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28643,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "the-irish-times",
-      "source_name": "The Irish Times",
-      "author": null,
-      "title": "Number of meningitis cases linked to fatal UK outbreak drops to 20",
-      "description": "Vaccination campaign continues following the death of two students in Kent",
-      "url": "https://www.irishtimes.com/world/uk/2026/03/22/number-of-meningitis-cases-linked-to-fatal-uk-outbreak-drops-to-20/",
-      "urlToImage": "https://www.irishtimes.com/resizer/v2/WE2PDQAYMGOJHRIGWOQOLZZXFE.jpg?smart=true&auth=c3113774feabf555edaecc8108b97a57b7f528ad2283859a244192a5240064c1&width=1200&height=630",
-      "publishedAt": "2026-03-22 18:06:40",
-      "content": "The number of confirmed meningitis cases linked to the Kent outbreak has fallen from 23 to 20. The UK Health Security Agency (UKHSA) said on Sunday that three cases previously thought confirmed had \u2026 [+2048 chars]",
-      "retrievedAt": "2026-03-25 07:28:24.991389",
-      "internal_id": "e306e8244ab6b964878e7344e7c8e8acffeaa8f44f97ab17c1c70be1ced59022",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28596,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "What caused Kent meningitis outbreak? #health",
-      "description": "The Kent MenB outbreak: what\u2019s known about cause and spread A fast moving outbreak of invasive meningococcal disease in Kent, England, has been linked to social contact in student settings, with officials coordinating a national response. The strain involved \u2026",
-      "url": "https://alltoc.com/health/what-caused-kent-meningitis-outbreak",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-22 18:03:23",
-      "content": "A fast-moving outbreak of invasive meningococcal disease in Kent, England, has been linked to social contact in student settings, with officials coordinating a national response. The strain involved \u2026 [+1560 chars]",
-      "retrievedAt": "2026-03-23 19:23:10.963996",
-      "internal_id": "ba23c3b1578d0154f6682008095a5506a7f8a7af769798579a3f03a5ccd557e6",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28590,
-      "query": [
-        "h5n1"
-      ],
-      "source_id": null,
-      "source_name": "Iz.ru",
-      "author": "\u0410\u0444\u0430\u043d\u0430\u0441\u044c\u0435\u0432 \u0413\u043b\u0435\u0431 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447",
-      "title": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0438 \u043e \u043d\u0435\u0445\u0432\u0430\u0442\u043a\u0435 \u044f\u0438\u0446 \u043a \u041f\u0430\u0441\u0445\u0435 \u0438\u0437-\u0437\u0430 \u043f\u0442\u0438\u0447\u044c\u0435\u0433\u043e \u0433\u0440\u0438\u043f\u043f\u0430",
-      "description": "\u0412 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438 \u0432\u043e\u0437\u043d\u0438\u043a \u0434\u0435\u0444\u0438\u0446\u0438\u0442 \u043a\u0443\u0440\u0438\u043d\u044b\u0445 \u044f\u0438\u0446 \u043d\u0430\u043a\u0430\u043d\u0443\u043d\u0435 \u041f\u0430\u0441\u0445\u0438. \u041e\u0431 \u044d\u0442\u043e\u043c 21 \u043c\u0430\u0440\u0442\u0430 \u0441\u043e\u043e\u0431\u0449\u0438\u043b\u0430 \u043d\u0435\u043c\u0435\u0446\u043a\u0430\u044f \u0433\u0430\u0437\u0435\u0442\u0430 Die Zeit \u0441\u043e \u0441\u0441\u044b\u043b\u043a\u043e\u0439 \u043d\u0430 \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0430\u0441\u0441\u043e\u0446\u0438\u0430\u0446\u0438\u0438 \u043f\u043e \u044f\u0439\u0446\u0430\u043c \u0425\u0430\u043d\u0441\u0430-\u041f\u0435\u0442\u0435\u0440\u0430 \u0413\u043e\u043b\u044c\u0434\u043d\u0438\u043a\u0430.\u041f\u043e \u0435\u0433\u043e \u0441\u043b\u043e\u0432\u0430\u043c, \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u0438 \u0443\u0436\u0435 \u043d\u0435 \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u043a\u0440\u044b\u0442\u044c \u0441\u043f\u0440\u043e\u0441. \u0418\u0437-\u0437\u0430 \u044d\u0442\u043e\u0433\u043e \u0432 \u0413\u2026",
-      "url": "https://iz.ru/2064160/v-germanii-soobshchili-o-nekhvatke-iaitc-k-paskhe-iz-za-ptichego-grippa-izi",
-      "urlToImage": "http://cdn.iz.ru/sites/default/files/styles/900x506/public/news-2026-03/PVL00117.jpg?itok=32mkExSb",
-      "publishedAt": "2026-03-22 17:49:00",
-      "content": ". 21 Die Zeit - . , . - \u00ab 10 \u00bb. : , . - H5N1 ( ) 3% -, . , , , . , 255 30 , . , \u00ab \u00bb . \u00ab \u00bb, . Bild 21 , 23 - . , , , . 160 . . \u00ab\u00bb",
-      "retrievedAt": "2026-03-23 19:23:09.641532",
-      "internal_id": "a2989bd6b8398222ea696f00b1cc6ff472f226c2fe0e6dfc4a92e9610184de32",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28594,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "TheJournal.ie",
-      "author": "Press Association",
-      "title": "Meningitis cases in Kent drop as vaccine rollout continues",
-      "description": "The total number of cases confirmed or under investigation has fallen from 34 on Saturday to 29 on Sunday.",
-      "url": "https://www.thejournal.ie/meningitis-cases-in-kent-drop-as-vaccine-rollout-continues-6991723-Mar2026/",
-      "urlToImage": "https://img2.thejournal.ie/article/6991723/river/?height=400&version=6991730",
-      "publishedAt": "2026-03-22 13:04:54",
-      "content": "THE NUMBER OF cases of meningitis linked to an outbreak in Kent in the UK has dropped as a campaign to vaccinate thousands of young people continued into a fourth day. Confirmed cases have fallen fr\u2026 [+1959 chars]",
-      "retrievedAt": "2026-03-23 19:23:10.757413",
-      "internal_id": "bf924bd47940fa0a68501b61390ee8fede717550e5404e6c65b40969cca3ed2a",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28595,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "What\u2019s causing the Kent meningitis outbreak? #health",
-      "description": "Why the Kent meningitis outbreak has been so hard to contain Health authorities and experts describe the Kent outbreak as unusual in size and speed and still centered on a student related cluster. Cases have been linked to social settings in the area, includi\u2026",
-      "url": "https://alltoc.com/health/whats-causing-the-kent-meningitis-outbreak",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-22 12:04:06",
-      "content": "Health authorities and experts describe the Kent outbreak as unusual in size and speed and still centered on a student-related cluster. Cases have been linked to social settings in the area, includin\u2026 [+1564 chars]",
-      "retrievedAt": "2026-03-23 19:23:10.925457",
-      "internal_id": "5ae94c43e7f8088d55289aa0cff01b3bb94a82b515f573eb706e9847ea090c5d",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28606,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Alltoc.com",
-      "author": "AllToc",
-      "title": "How is meningitis B spread and preventable? #health",
-      "description": "What is known about MenB transmission and prevention The Kent cluster has focused attention on MenB\u2014meningococcal meningitis caused by serogroup B\u2014because spread can be fast among people who spend time together in close settings. How it spreads MenB transmiss\u2026",
-      "url": "https://alltoc.com/health/how-is-meningitis-b-spread-and-preventable",
-      "urlToImage": "https://alltoc.com/cdn/1046/og.png",
-      "publishedAt": "2026-03-22 12:04:06",
-      "content": "The Kent cluster has focused attention on MenBmeningococcal meningitis caused by serogroup Bbecause spread can be fast among people who spend time together in close settings. How it spreads MenB tr\u2026 [+1333 chars]",
-      "retrievedAt": "2026-03-24 07:28:42.843027",
-      "internal_id": "f3ac2ff28d6757354a1327834983b084f45b48656e0c522399d997c7b6fe8abe",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28592,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": "rte",
-      "source_name": "RTE",
-      "author": "RT\u00c9 News",
-      "title": "Kent meningitis cases drop as vaccine rollout continues",
-      "description": "The number of cases of meningitis linked to an outbreak in Kent in the UK, has dropped as a campaign to vaccinate thousands of young people continued into a fourth day.",
-      "url": "https://www.rte.ie/news/uk/2026/0322/1564610-meningitis-uk/",
-      "urlToImage": "https://www.rte.ie/images/002418bf-1600.jpg",
-      "publishedAt": "2026-03-22 10:33:04",
-      "content": "The number of cases of meningitis linked to an outbreak in Kent in the UK, has dropped as a campaign to vaccinate thousands of young people continued into a fourth day. Confirmed cases have fallen f\u2026 [+1847 chars]",
-      "retrievedAt": "2026-03-23 19:23:10.481814",
-      "internal_id": "021b70a4de957992c6e1edfa03c4f2897abd976f0dfd9d673602243b0c5e56d6",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28591,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "BBC News",
-      "author": null,
-      "title": "Another college sees suspected meningitis case",
-      "description": "The UKHSA says it is offering antibiotics to close contacts of the person.",
-      "url": "https://www.bbc.com/news/articles/cwydl214dplo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a081/live/d9bfe420-25c6-11f1-b1ce-2dccb029f244.jpg",
-      "publishedAt": "2026-03-22 09:28:32",
-      "content": "Other schools in the Canterbury area with confirmed or suspected cases are Queen Elizabeth's Grammar School in Faversham, Norton Knatchbull School in Ashford, Simon Langton Grammar School for Boys in\u2026 [+38 chars]",
-      "retrievedAt": "2026-03-23 19:23:10.172339",
-      "internal_id": "201fac97afc4a6a138f22fee760400c1736f79fa20fb8de7b841ac6ac57f3bda",
-      "publishedAtLabel": "Mar 22"
-    },
-    {
-      "id": 28593,
-      "query": [
-        "meningitis"
-      ],
-      "source_id": null,
-      "source_name": "Sky.com",
-      "author": null,
-      "title": "Meningitis outbreak: Total cases in Kent falls",
-      "description": "The figures include two - a 21-year-old student at the University of Kent and a sixth form pupil at Queen Elizabeth's Grammar School in Faversham - who died from the virus last weekend.",
-      "url": "https://news.sky.com/story/meningitis-outbreak-total-cases-in-kent-falls-13522977",
-      "urlToImage": "https://e3.365dm.com/25/10/1600x900/skynews-breaking-breaking-news_7042253.png?20260317121341",
-      "publishedAt": "2026-03-22 09:07:00",
-      "content": "The number of confirmed and suspected meningitis cases in the outbreak in Kent has fallen to 29, the UK Health Security Agency (UKHSA) has said. It marks a decrease from 34 cases reported on Saturda\u2026 [+1477 chars]",
-      "retrievedAt": "2026-03-23 19:23:10.578158",
-      "internal_id": "a30c5febb4554db90ed9b90f53ecce2941553ed9f7dd881c537b482ef28ca9a6",
       "publishedAtLabel": "Mar 22"
     }
   ]
